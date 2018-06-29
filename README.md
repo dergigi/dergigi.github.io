@@ -1,1 +1,1 @@
-# Hello World! 👋 I'm @dergigi. I like to [tweet](https://twitter.com/dergigi), [write](http://medium.com/@dergigi), take [pictures](http://instagram.com/dergigi), and [code](https://github.com/dergigi).
+# Hello World! 👋 I'm [@dergigi](https://twitter.com/dergigi). I [code](https://github.com/dergigi), take [pictures](http://instagram.com/dergigi), and [write](http://medium.com/@dergigi) things.
