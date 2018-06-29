@@ -1,1 +1,1 @@
-# dergigi.github.io
+# Hello World! 👋 I'm @dergigi. I like to [tweet](https://twitter.com/dergigi), [write](http://medium.com/@dergigi), take [pictures](http://instagram.com/dergigi), and [code](https://github.com/dergigi).
