@@ -20,6 +20,8 @@ social:
     url: https://www.instagram.com/dergigi/
   - name: github
     url: https://github.com/dergigi
+  - name: medium
+    url: https://medium.com/@dergigi
 
 # Contact settings
 contact_img: /assets/images/wanderer.jpg
