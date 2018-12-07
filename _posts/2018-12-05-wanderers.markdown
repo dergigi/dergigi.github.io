@@ -24,7 +24,7 @@ We are all wanderers. Some are wandering without ever leaving their familiar sur
   <cite>J.R.R. Tolkien</cite>
 </blockquote>
 
-![Placeholder](/assets/images/wanderer.jpg#full)
+![Wanderer](/assets/images/wanderer.jpg#full)
 
 So here I am, wondering about wandering, repeating a fragment of a sentence in my head over and over again: "I wonder, I wonder what you would do if you had the power to dream any dream you wanted to."
 
@@ -46,6 +46,6 @@ What would I do? I guess I would dream of traveling the world, with a person I l
   <cite>Carl Sagan</cite>
 </blockquote>
 
-![Placeholder](/assets/images/stars.jpg#full)
+![Stars](/assets/images/stars.jpg#full)
 
 I began as a wanderer, and I am a wanderer still.
