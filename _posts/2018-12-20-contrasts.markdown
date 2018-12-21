@@ -10,7 +10,7 @@ tags:
   - Travel
 ---
 
-Fire & ice. Bright and dark. Colorful and gray. Frozen diamonds and boiling pools heated by volcanic heat below. Long, black nights lit up by dancing auroras. Iceland truly is a land of contrasts.
+Darkness and light. Fire and ice. Water frozen like diamonds and boiling in pools due to volcanic heat below. Long, black nights lit up by dancing auroras. Iceland truly is a land of contrasts.
 
 There is a lot of beauty in these contrasts, and I'm grateful that we were fortunate enough to experience them.
 
