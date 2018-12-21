@@ -3,7 +3,7 @@ layout: post
 title: "Contrasts"
 date: 2018-12-20
 description:
-image: /assets/images/contrasts.jpg
+image: /assets/images/aurora.jpg
 author: Gigi
 tags:
   - Photography
@@ -18,7 +18,7 @@ Everything in life is defined by contrasts. Without differentiation all things b
 
 Even movement is a meaningless concept without something else to move in relationship to.
 
-![Moving water](/assets/images/eternal-carving.jpg)
+![Aurora. Together.](/assets/images/aurora-together.jpg)
 
 ----
 
@@ -29,7 +29,7 @@ Even movement is a meaningless concept without something else to move in relatio
 
 ----
 
-![Painting with light in front of the aurora borealis](/assets/images/aurora.jpg)
+![Eternal carving](/assets/images/eternal-carving.jpg)
 
 Good times come and go. So do bad times. So does everything else. We know this since the beginning of time.
 
@@ -60,8 +60,6 @@ Even time needs some contrast to be meaningful. Without anything in relation, ev
 Every moment is precious. If that is so, we should cherish every moment. But, if we really do cherish all of the 8x10^60 moments since the beginning of time, are any of them truly precious?
 
 The above, of course, is an error in reasoning. Since this is not a political argument and I don't want to push you down a nihilistic hole, let me point out this faulty reasoning. Moments do not gain preciousness because of our cherishing. They simply are.
-
-![Painting with light in front of the aurora borealis](/assets/images/aurora.jpg)
 
 ----
 
