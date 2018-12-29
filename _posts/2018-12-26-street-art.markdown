@@ -10,12 +10,12 @@ tags:
   - Travel
 ---
 
-Sometimes I wonder why the rational world, the world of science and technology, is often so far removed from the arts. It seems to me that everyone, no matter the discipline, is after the same thing: truth, beauty, and maybe a little bit of meaning.
+Sometimes I wonder why the “rational“ world, the world of science and technology, is often so far removed from the arts. It seems to me that everyone, no matter the discipline, is after the same thing: truth, beauty, and maybe a little bit of meaning.
 
 ----
 
 <blockquote>
-Rationality is what we do to organize the world, to make it possible to predict. Art is the rehearsal for the inapplicability and failure of that process.
+“Rationality is what we do to organize the world, to make it possible to predict. Art is the rehearsal for the inapplicability and failure of that process.“
 <cite>Brian Eno</cite>
 </blockquote>
 
@@ -28,7 +28,7 @@ Feynman noticed that many people seem to think that science and the arts are at 
 ----
 
 <blockquote>
-I have a friend who's an artist, and he sometimes takes a view which I don't agree with. He'll hold up a flower and say, "Look how beautiful it is," and I'll agree. But then he'll say, "I, as an artist, can see how beautiful a flower is. But you, as a scientist, take it all apart and it becomes dull." I think he's kind of nutty. … There are all kinds of interesting questions that come from a knowledge of science, which only adds to the excitement and mystery and awe of a flower. It only adds. I don't understand how it subtracts.
+“I have a friend who's an artist, and he sometimes takes a view which I don't agree with. He'll hold up a flower and say, "Look how beautiful it is," and I'll agree. But then he'll say, "I, as an artist, can see how beautiful a flower is. But you, as a scientist, take it all apart and it becomes dull." I think he's kind of nutty. … There are all kinds of interesting questions that come from a knowledge of science, which only adds to the excitement and mystery and awe of a flower. It only adds. I don't understand how it subtracts.“
 <cite>Richard Feynman</cite>
 </blockquote>
 
@@ -44,7 +44,7 @@ Street art, in whatever form, is something that has been fascinating me for a lo
 ----
 
 <blockquote>
-The most beautiful and deepest experience a man can have is the sense of the mysterious. It is the underlying principle of religion as well as all serious endeavor in art and science. He who never had this experience seems to me, if not dead, then at least blind.
+“The most beautiful and deepest experience a man can have is the sense of the mysterious. It is the underlying principle of religion as well as all serious endeavor in art and science. He who never had this experience seems to me, if not dead, then at least blind.“
 <cite>Albert Einstein</cite>
 </blockquote>
 
@@ -63,7 +63,7 @@ I am aware that the world is way more complicated than that. There are uncountab
 ----
 
 <blockquote>
-While our art cannot, as we wish it could, save us from wars, privation, envy, greed, old age, or death, it can revitalize us amidst it all.
+“While our art cannot, as we wish it could, save us from wars, privation, envy, greed, old age, or death, it can revitalize us amidst it all.“
 <cite>Ray Bradbury</cite>
 </blockquote>
 
@@ -74,7 +74,7 @@ Even if things are messy, I think we can still discern the ugly from the beautif
 ----
 
 <blockquote>
-Art, like morality, consists in drawing the line somewhere.
+“Art, like morality, consists in drawing the line somewhere.“
 <cite>G. K. Chesterton</cite>
 </blockquote>
 
@@ -87,7 +87,7 @@ The fact that people find beauty in this city, move here from all over the world
 ----
 
 <blockquote>
-The great artists are the ones who dare to entitle to beauty things so natural that when they’re seen afterward, people say: Why did I never realize before that this too was beautiful?
+“The great artists are the ones who dare to entitle to beauty things so natural that when they’re seen afterward, people say: Why did I never realize before that this too was beautiful?“
 <cite>André Gide</cite>
 </blockquote>
 
