@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Idling"
+date: 2019-01-05
+description:
+image: /assets/images/idling.jpg
+author: Gigi
+tags:
+  - Photography
+  - Travel
+  - Poem
+---
+
+“So much to do,\\
+yet so little time.\\
+What am I gonna do,\\
+with the time that is mine.
+
+So much to say,\\
+both silent and loud.\\
+Everyone wants to idle.\\
+But no idling allowed.”
