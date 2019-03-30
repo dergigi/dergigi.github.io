@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Dance"
+date: 2019-03-30
+description:
+image: /assets/images/dance.jpg
+author: Gigi
+tags:
+  - Photography
+  - Travel
+---
+
+"I stand at the seashore, alone, and start to think. There are the rushing waves ... mountains of molecules, each stupidly minding its own business ... trillions apart ... yet forming white surf in unison.
+
+Ages on ages ... before any eyes could see ... year after year ... thunderously pounding the shore as now. For whom, for what? ... on a dead planet, with no life to entertain.
+
+Never at rest ... tortured by energy ... wasted prodigiously by the sun ... poured into space. A mite makes the sea roar.
+
+Deep in the sea, all molecules repeat the patterns of one another till complex new ones are formed. They make others like themselves ... and a new dance starts.
+
+Growing in size and complexity ... living things, masses of atoms, DNA, protein ... dancing a pattern ever more intricate.
+
+Out of the cradle onto the dry land ... here it is standing ... atoms with consciousness ... matter with curiosity.
+
+Stands at the sea ... wonders at wondering ... I ... a universe of atoms ... an atom in the universe.
+
+![Molecular Dance](/assets/images/dance-shore.jpg)
+
+The same thrill, the same awe and mystery, come again and again when we look at any problem deeply enough. With more knowledge comes deeper, more wonderful mystery, luring one on to penetrate deeper still. Never concerned that the answer may prove disappointing, but with pleasure and confidence we turn over each new stone to find unimagined strangeness leading on to more wonderful questions and mysteries -- certainly a grand adventure!
+
+It is true that few unscientific people have this particular type of religious experience. Our poets do not write about it; our artists do not try to portray this remarkable thing. I don't know why. Is nobody inspired by our present picture of the universe? The value of science remains unsung by singers, so you are reduced to hearing -- not a song or a poem, but an evening lecture about it. This is not yet a scientific age.
+
+Perhaps one of the reasons is that you have to know how to read the music. For instance, the scientific article says, perhaps, something like this: "The radioactive phosphorus content of the cerebrum of the rat decreases to one-half in a period of two weeks." Now, what does that mean?
+
+It means that phosphorus that is in the brain of a rat (and also in mine, and yours) is not the same phosphorus as it was two weeks ago, but that all of the atoms that are in the brain are being replaced, and the ones that were there before have gone away.
+
+So what is this mind, what are these atoms with consciousness? Last week's potatoes! That is what now can remember what was going on in my mind a year ago -- a mind which has long ago been replaced.
+
+This is what it means when one discovers how long it takes for the atoms of the brain to be replaced by other atoms, to note that the thing which I call my individuality is only a pattern or dance. The atoms come into my brain, dance a dance, then go out; always new atoms but always doing the same dance, remembering what the dance was yesterday."
+
+---
+
+Richard Feynman, The Pleasure of Finding Things Out
