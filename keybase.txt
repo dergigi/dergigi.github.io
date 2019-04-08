@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dergigi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dergigi.com
+  * I am dergigi (https://keybase.io/dergigi) on keybase.
+  * I have a public key ASAHLGPS-SN_2DjArDkglEXybPfD6HjsihXimWvojFJFPgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120072c63d2f9237fd838c0ac39209445f26cf7c3e878ec8a15e2996be88c52453e0a",
+      "host": "keybase.io",
+      "kid": "0120072c63d2f9237fd838c0ac39209445f26cf7c3e878ec8a15e2996be88c52453e0a",
+      "uid": "3ec23e0e29494c2803a4f4cba4d63419",
+      "username": "dergigi"
+    },
+    "merkle_root": {
+      "ctime": 1554693104,
+      "hash": "ceb7fa6e2fe7c97b776eb20ee19bc14c06992b16f65b6614197b3fd8d02dab3bb8d4b5dc53279aca5598b686198364f6f4c6cdd1e1d86af32c925dfcdcab0652",
+      "hash_meta": "5fe43ad7a31ece7b1df81dc8e556ef384a56f03c19135097d5ab0c0a6f5ca806",
+      "seqno": 5115118
+    },
+    "service": {
+      "entropy": "rZj5MjNr+t7szuzZvBUTsMt4",
+      "hostname": "dergigi.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1554693119,
+  "expire_in": 504576000,
+  "prev": "798ab4ce0849ec92705e536c088605e6bf3ba2a4636f46693b01a2df8bcfc0e3",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgByxj0vkjf9g4wKw5IJRF8mz3w+h47IoV4plr6IxSRT4Kp3BheWxvYWTESpcCBsQgeYq0zghJ7JJwXlNsCIYF5r87oqRjb0ZpOwGi34vPwOPEIPaYqhWAkap225Dc9vwtLF7OufpluWZp77zfmTDvzYUGAgHCo3NpZ8RA49V5ZuDlF1DE7CHssn3LMIFkCh1BEqd31kQhL9CXs7VSGiZbI+pMSEPlnaUh3EAVzYtvb4AEJ82aJWrbDGshDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFT/VsTgZSIB8pNwXCZceCgmGVwQqdqn7IKAOw5pD0Buo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dergigi
+
+==================================================================
