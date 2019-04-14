@@ -102,13 +102,9 @@ blockquote {
 
   font-family: $font-post;
   font-weight: 300;
-  font-size: 1.25em;
+  font-size: 1.2em;
   color: $color-white;
   line-height: 1.4;
-
-  @media (min-width: $mq-small) {
-    font-size: 1.5em;
-  }
 }
 
 cite {
