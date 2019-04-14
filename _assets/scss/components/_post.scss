@@ -224,9 +224,17 @@
     background-color: rgba($color-white, 0.1);
   }
 
-  img {
+  img, figure {
     display: block;
+    text-align: center;
+  }
+
+  img:not(figure) {
     margin-bottom: 1.5rem;
+  }
+
+  figcaption {
+    text-align: center;
   }
 
   img[src$="#full"] {

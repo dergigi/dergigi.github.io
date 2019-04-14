@@ -154,3 +154,8 @@ sub {
 mark {
   color: $color-white;
 }
+
+figcaption {
+  font-size: $font-small;
+  color: $color-darkgrey;
+}
