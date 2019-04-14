@@ -163,6 +163,8 @@ of art:
 
 You get the idea.
 
+---
+
 Why is this a big deal? Our current way of doing things is adapted to
 the physical, not the digital world. Some laws and regulations which
 made sense previously might not be very useful in the abstract space of
@@ -187,7 +189,7 @@ dictatorship, people will continue to exercise their freedom of speech
 to print [encryption algorithms on t-shirts], design flags to distribute
 cryptographic keys, and [sing songs] containing illegal information.
 
-[Free Speech Flag] by John Marcotte.
+{% include image.html name="free-speech-flag.png" caption="Free Speech Flag by John Marcotte." %}
 
 Due to the nature of information discussed above, outlawing *any*
 information leads to absurd consequences. Since information can be
@@ -221,6 +223,8 @@ declare these words in your brain?
 
 That's the tricky thing about information: it isn't a thing. It
 transcends the physical realm.
+
+---
 
 These alien concepts are slowly but surely creeping into our daily
 lives, changing the power balance of society as they get understood and
@@ -261,8 +265,9 @@ something meaningful again is to speak some magic words.
 
 ---
 
-Addendum: The [xkcd] comics used are from issue [504] and [1553]. The
-3d-printed gun above is called [The Liberator], the code of which can be
+Addendum: The [xkcd] comics used are from issue [504] and [1553].
+Wikipedia has a great article on the [Free Speech Flag].
+The 3d-printed gun above is called [The Liberator], the code of which can be
 bought as a book [on Amazon].
 
 [ipfs]: https://ipfs.io/
