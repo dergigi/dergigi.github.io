@@ -4,7 +4,7 @@ title: "Bitcoin's Energy Consumption"
 subtitle: "A shift in perspective"
 date: 2018-06-10
 description:
-image: /assets/images/bitcoin/david.jpg
+image: /assets/images/btc01-david.jpg
 author: Gigi
 category: bitcoin
 tags:
