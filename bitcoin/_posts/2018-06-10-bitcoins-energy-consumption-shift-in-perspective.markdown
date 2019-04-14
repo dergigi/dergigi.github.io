@@ -52,7 +52,8 @@ It's easy to be concerned, outraged or offended. *"Did you know Bitcoin
 uses as much energy as Austria? Baby cows are dying because of
 Bitcoin!"*
 
-"What-what the hell is a gigawatt?"
+![1.21 Gigawatts?](/assets/images/bitcoin/gigawatts.png)
+*"What-what the hell is a gigawatt?"*
 
 To understand why all these gigawatts are necessary for the Bitcoin
 network to function properly and securely, we will have to take a closer
@@ -155,8 +156,9 @@ with a high reward, is a clever way to get the network started. In other
 words: everyone who is greedily mining bitcoins today is helping to
 bootstrap this new financial system, whether they realize it or not.
 
-John Nash commenting on the game theoretical aspect of Satoshi's
-invention.
+![Clever girl...](/assets/images/bitcoin/clever-girl.png)
+*John Nash commenting on the game theoretical aspect of Satoshi's
+invention.*
 
 As mentioned above, Bitcoin's mining difficulty adjusts automatically,
 leading to a dynamic, self-correcting system. If mining --- for whatever
@@ -187,7 +189,8 @@ to estimate how much security is enough security, a case could be made
 that the Bitcoin network is currently "hypersecured" as a side-effect of
 this Gold Rush.
 
-Bitcoin's [controlled supply] and block reward over time.
+![YOU ARE HERE](/assets/images/bitcoin/controlled-supply.png)
+*Bitcoin's [controlled supply] and block reward over time.*
 
 We are still in the early phases of Bitcoin's block reward phase, as the
 above graph shows.
@@ -236,7 +239,8 @@ at the marble, and you have to do it properly and with care. One might
 argue that this is one of the reasons why great artworks are so
 valuable: a lot of thought, care and work was expended to create them.
 
-Oldschool proof-of-work by Michelangelo. Photo by [Jörg Bittner Unna]
+![A block with balls](/assets/images/bitcoin/david-small.jpg)
+*Oldschool proof-of-work by Michelangelo. Photo by [Jörg Bittner Unna]*
 
 It is similarly unlikely to find valid blocks without actually doing the
 work. Like an ugly half-haphazardly chiseled statue, an invalid block
