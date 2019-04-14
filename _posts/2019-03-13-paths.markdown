@@ -5,6 +5,7 @@ date: 2019-03-13
 description:
 image: /assets/images/paths.jpg
 author: Gigi
+category: photography
 tags:
   - Photography
   - Travel

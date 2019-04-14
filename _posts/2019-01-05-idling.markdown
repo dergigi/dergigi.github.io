@@ -5,6 +5,7 @@ date: 2019-01-05
 description:
 image: /assets/images/idling.jpg
 author: Gigi
+category: photography
 tags:
   - Photography
   - Travel

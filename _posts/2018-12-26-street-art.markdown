@@ -5,6 +5,7 @@ date: 2018-12-26
 description:
 image: /assets/images/streetart-teresa-gandhi.jpg
 author: Gigi
+category: photography
 tags:
   - Photography
   - Travel

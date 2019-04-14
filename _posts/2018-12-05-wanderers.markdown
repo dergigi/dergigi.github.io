@@ -5,6 +5,7 @@ date: 2018-12-05
 description:
 image: /assets/images/wonderer.jpg
 author: Gigi
+category: photography
 tags:
  - Photography
  - Travel

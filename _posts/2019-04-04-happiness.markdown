@@ -5,6 +5,7 @@ date: 2019-04-04
 description:
 image: /assets/images/happiness.jpg
 author: Gigi
+category: photography
 tags:
   - Photography
   - Travel

@@ -5,6 +5,7 @@ date: 2019-02-01
 description:
 image: /assets/images/sunny-stairs.jpg
 author: Gigi
+category: photography
 tags:
  - Photography
  - Travel

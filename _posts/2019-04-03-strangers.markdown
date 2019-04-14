@@ -5,6 +5,7 @@ date: 2019-04-03
 description:
 image: /assets/images/stranger-artist.jpg
 author: Gigi
+category: photography
 tags:
   - Photography
   - Travel

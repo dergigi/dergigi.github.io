@@ -5,6 +5,7 @@ date: 2019-02-27
 description:
 image: /assets/images/outlook.jpg
 author: Gigi
+category: photography
 tags:
   - Photography
   - Travel
