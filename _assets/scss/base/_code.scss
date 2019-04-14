@@ -6,7 +6,15 @@ kbd,
 pre,
 samp {
   font-family: Courier, monospace;
-  font-size: $font-small;
+}
+
+pre,
+code {
+  color: $color-darkgrey;
+  background: $color-darkergrey;
+
+  word-wrap: breaks;
+  overflow-wrap: anywhere;
 }
 
 pre {
@@ -18,9 +26,7 @@ pre {
 
   line-height: 1.8;
   white-space: pre-wrap;
-  word-wrap: break-word;
-  color: $color-white;
-  background: $color-lightgrey;
+
   border-radius: 5px;
   overflow: hidden;
 
@@ -35,7 +41,7 @@ pre {
     margin-bottom: 1.5rem;
 
     @media (min-width: $mq-med) {
-      min-width: 110%;
+      min-width: 100%;
     }
   }
 
@@ -46,7 +52,4 @@ pre {
 
 code {
   padding: 0.25em 0.5em;
-
-  color: $color-white;
-  background: $color-lightgrey;
 }
