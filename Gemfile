@@ -14,7 +14,7 @@ gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-paginate-v2"
+  gem "jekyll-paginate"
   gem "jekyll-sitemap"
 end
 
