@@ -5,11 +5,16 @@ layout: default
 <div class="posts">
   <div class="grid-xlarge">
     <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
-      <ul>
+      <!-- <ul>
       {% for post in site.categories.bitcoin %}
         <li>{{ page.date | date: "%-d %b %Y" }} <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
       {% endfor %}
-      </ul>
+      </ul> -->
+
+      {% for post in site.categories.bitcoin %}
+        <!-- The tag below includes the markup for each post - partials/post-card.html -->
+        {% include post-card.html %}
+      {% endfor %}
     </div>
   </div>
 </div>
