@@ -61,8 +61,14 @@ h6 {
 }
 
 //----------------------------------------------
-// H2 Theme
+// Headings Theme
 //----------------------------------------------
+
+.post__header h3 {
+  font-family: $font-post;
+  margin-top: 0;
+}
+
 h2:not(.posts__text):not(.related__text) {
   $fontSize: 2em;
 

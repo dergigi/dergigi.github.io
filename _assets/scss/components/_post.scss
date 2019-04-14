@@ -225,16 +225,21 @@
   }
 
   img, figure {
-    display: block;
+    // display: block;
     text-align: center;
   }
 
-  img:not(figure) {
+  img {
     margin-bottom: 1.5rem;
+  }
+
+  figure > img {
+    margin-bottom: 0.25rem;
   }
 
   figcaption {
     text-align: center;
+    margin-bottom: 1.5rem;
   }
 
   img[src$="#full"] {
