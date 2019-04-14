@@ -4,7 +4,10 @@ layout: default
 <section class="mast section-padding--double">
   <div class="grid">
     <h2>
-      {{ page.autopages.display_name }}
+      {% assign words = page.tag | split: ' ' %}
+      {% for word in words %}
+        {{ word | capitalize | replace: 'The', 'the' }}
+      {% endfor %}
     </h2>
   </div>
 </section>
