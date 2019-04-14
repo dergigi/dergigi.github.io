@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<!-- The main content area -->
+<div class="posts">
+  <div class="grid-xlarge">
+    <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
+      <ul>
+      {% for post in site.categories.bitcoin %}
+        <li>{{ page.date | date: "%-d %b %Y" }} <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+      {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
