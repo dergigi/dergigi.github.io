@@ -55,8 +55,8 @@ h6 {
   @extend %font-header;
 
   margin: {
-    top: 0;
-    bottom: 0;
+    top: 2em;
+    bottom: 0.5em;
   }
 }
 
@@ -80,7 +80,7 @@ h2:not(.posts__text):not(.related__text) {
 //----------------------------------------------
 p {
   margin: {
-    top: 0;
+    top: 0.5em;
     bottom: 0.75em;
   }
 }
