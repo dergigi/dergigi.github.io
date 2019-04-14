@@ -142,16 +142,11 @@ An even shorter representation would be the [wallet import format]:
 The same information can be encoded as a [mnemonic code], resulting in
 these 24 words, which you could remember with a bit of practice:
 
-    concert, frozen, pull, battle, spend, fancy, orient, inside, quiz,
-    submit, scare, mechanic, awake, mercy, lock, inside, language, tag,
-    dash, control, borrow, hip, print, absorb
+    concert, frozen, pull, battle, spend, fancy, orient, inside, quiz, submit, scare, mechanic, awake, mercy, lock, inside, language, tag, dash, control, borrow, hip, print, absorb
 
 Or, if you're Japanese:
 
-    かんち 、さべつ 、なにごと 、うくれれ 、ぴんち 、このよ 、てあみ
-    、せたい 、におい 、へいあん 、はいすい 、たそがれ 、いらい
-    、だっしゅつ 、そんみん 、せたい 、そうき 、ほこう 、きよう 、きうい
-    、うんどう 、しょもつ 、どようび 、あけがた
+    かんち 、さべつ 、なにごと 、うくれれ 、ぴんち 、このよ 、てあみ 、せたい 、におい 、へいあん 、はいすい 、たそがれ 、いらい 、だっしゅつ 、そんみん 、せたい 、そうき 、ほこう 、きよう 、きうい 、うんどう 、しょもつ 、どようび 、あけがた
 
 Of course, we can also encode this information as various images.
 
@@ -266,7 +261,9 @@ something meaningful again is to speak some magic words.
 
 ---
 
-Addendum: The [xkcd] comics used are from issue [504] and [1553]. The 3d-printed gun above is called [The Liberator], the code of which can be bought as a book [on Amazon].
+Addendum: The [xkcd] comics used are from issue [504] and [1553]. The
+3d-printed gun above is called [The Liberator], the code of which can be
+bought as a book [on Amazon].
 
 [ipfs]: https://ipfs.io/
 [1553]: https://xkcd.com/1553/
