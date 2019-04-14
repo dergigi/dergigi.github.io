@@ -39,6 +39,8 @@ a magic potion? What if you would only need a drop of water, and speak
 some magic words, to turn the dust back into pajama pants? What if the
 dust was ubiquitous, everywhere on earth?
 
+---
+
 We, as a global society, are currently in the process of moving from the
 physical realm of things to the digital realm of information. We are
 quickly moving towards the fantastical world of no-pants land, and we
@@ -68,7 +70,7 @@ checked for authenticity instantly, and hidden in plain sight.
 Information is independent of a physical substrate and thus can take
 virtually infinite forms.
 
-["Jefferson would have been all about crypto."]
+{% include image.html name="xkcd-504.png" caption="'Jefferson would have been all about crypto.'" %}
 
 What the full implications of this digitization will be is impossible to
 tell. We are not accustomed to this world of information: devoid of
@@ -92,7 +94,13 @@ mnemonic phrase? Is your passport now in your brain?
 Does the concept of "your passport" even make sense, if all you have is
 access to the internet and some magic words?
 
-#### Warning: The following section contains example private keys. Do not import any sample keys or send bitcoins to the associated addresses; you will lose your money. {#294e name="294e"}
+---
+
+**Warning: The following section contains example private keys. Do not import
+any sample keys or send bitcoins to the associated addresses; you will lose
+your money.**
+
+---
 
 Take Bitcoin as another example: you are no longer in possession of
 physical coins, or any physical artifact for that matter. No amount of
@@ -102,8 +110,8 @@ allows you to spend your funds. Effectively, your private key *is* your
 money, which in turn is information. Thus, your money is pure
 information.
 
-[Never ever do that.] Anyone who knows your private key can steal
-your funds.
+{% include image.html name="xkcd-1553.png" caption="Never ever do that. Anyone who knows your private key can steal
+your funds." %}
 
 A private key is just a bunch of random bits. It can be encoded as a
 bunch of zeros and ones:
@@ -111,7 +119,7 @@ bunch of zeros and ones:
     0010111011001011101110101011010110001001101111010001011010100110001001110010101110101010101100000001101100000111000000011100010100100001000001010001011011100000111000111010101001111101000110111010100011011111000101111100000110100010110110000010101010111111
 
 It could also be heads and tails, as pointed out by [Andreas M.
-Antonopoulos] in [Mastering Bitcoin][]:
+Antonopoulos] in [Mastering Bitcoin]:
 
 > "The bitcoin private key is just a number. You can pick your private
 > keys randomly using just a coin, pencil, and paper: toss a coin 256
@@ -127,7 +135,7 @@ things a bit shorter:
 
     12e188aeb7c9aeb0eef7fac7c89e3b9b535a30b2ce8d6b74b706fa6f86b061e4
 
-An even shorter representation would be the [wallet import format][]:
+An even shorter representation would be the [wallet import format]:
 
     5HxbsUekuCLjzLQujGb6QuzkDUMxQETQRgWjcJPx21hFsfDS3Fq
 
@@ -147,18 +155,16 @@ Or, if you're Japanese:
 
 Of course, we can also encode this information as various images.
 
-Private key as QR code
+{% include image.html name="private-key-qr.png" caption="Private key as QR code" %}
 
-Private key encoded as hex colors
+{% include image.html name="private-key-flag.png" caption="Private key encoded as hex colors" %}
 
-![Same as above, but as one pixel per color]
+{% include image.html name="private-key-pixels.png" caption="Same as above, but as one pixel per color" %}
 
 You can also be more creative and hide a bitcoin private key in a piece
 of art:
 
-
-*"TORCHED H34R7S" by* [*YT,*] *a puzzle which hid* 4.87 bitcoin in
-plain sight.
+{% include image.html name="torched-hearts.jpg" caption="'TORCHED H34R7S' by YT (@coin_artist), a puzzle which hid 4.87 bitcoin in plain sight." %}
 
 You get the idea.
 
@@ -172,7 +178,7 @@ zeros and ones.
 > competitor that most likely cannot be brought under the physical
 > world's laws."
 
-> --- [Saifedean Ammous], [The Bitcoin Standard]
+> <cite>[Saifedean Ammous], [The Bitcoin Standard]</cite>
 
 Governments and corporations will continually try to outlaw certain
 kinds of information. It is likely that the last battle of the [crypto
@@ -198,8 +204,8 @@ numbers] and other absurdities.
 > consequently, if communicating a specific set of information is
 > illegal in some way, then the number may be illegal as well."
 
-> --- Wikipedia contributors, [Illegal number][illegal numbers]
-> ([this version])
+> <cite>Wikipedia contributors, [Illegal number][illegal numbers]
+> ([this version])</cite>
 
 You might think that the tale of no-pants land featuring your favorite
 pajamas is silly, but we are already living in this world --- fairy tale
@@ -209,11 +215,7 @@ Let's pick a specific example: When crossing U.S. borders with a big bag
 of money, you are [required by law] to declare how much money you have
 on you if it is more than \$10,000:
 
-"\[...\] if a person or persons traveling together and filing a joint
-declaration (CBP Form 6059-B) have \$10,000 or more in currency or
-negotiable monetary instruments, they must fill out a "Report of
-International Transportation of Currency and Monetary Instruments"
-FinCEN 105 (former CF 4790)."
+    "[...] if a person or persons traveling together and filing a joint declaration (CBP Form 6059-B) have $10,000 or more in currency or negotiable monetary instruments, they must fill out a "Report of International Transportation of Currency and Monetary Instruments" FinCEN 105 (former CF 4790)."
 
 This is easily enforceable if you bring an actual bag of money with you.
 Let's assume you have more than \$10,000 in bitcoin. Where exactly is
@@ -253,7 +255,7 @@ unstoppable. What will happen if more and more things will become pure
 information? What are the consequences of unbreakable and
 censorship-resistant codes?
 
-The code for a [3D-printed gun] in [book form].
+{% include image.html name="liberator-code-book.jpg" caption="The code for a 3D-printed gun in book form." %}
 
 We are entering a new era. An era where information can be put in
 digital safes which can't be opened by force. An era where you can
@@ -264,9 +266,12 @@ made by [unknown entities]. An era where you can turn anything into
 magical cryptographic dust and all you have to do to turn it into
 something meaningful again is to speak some magic words.
 
-["Jefferson would have been all about crypto."]: https://xkcd.com/504/
+---
+
+Addendum: The [xkcd] comics used are from issue [504] and [1553]. The 3d-printed gun above is called [The Liberator], the code of which can be bought as a book [on Amazon].
+
 [ipfs]: https://ipfs.io/
-[Never ever do that.]: https://xkcd.com/1553/
+[1553]: https://xkcd.com/1553/
 [Andreas M. Antonopoulos]: https://antonopoulos.com/
 [Mastering Bitcoin]: https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/
 [wallet import format]: https://en.bitcoin.it/wiki/Wallet_import_format
@@ -287,6 +292,8 @@ something meaningful again is to speak some magic words.
 [couple of words]: https://en.bitcoin.it/wiki/Mnemonic_phrase
 [your brain]: https://en.bitcoin.it/wiki/Brainwallet
 [extortion]: https://en.wikipedia.org/wiki/Cryptovirology
-[3D-printed gun]: https://en.wikipedia.org/wiki/Liberator_%28gun%29
-[book form]: https://www.amazon.com/dp/1724740733
 [unknown entities]: https://en.wikipedia.org/wiki/Satoshi_Nakamoto
+[xkcd]: https://xkcd.com
+[504]: https://xkcd.com/504/
+[The Liberator]: https://en.wikipedia.org/wiki/Liberator_%28gun%29
+[on Amazon]: https://www.amazon.com/dp/1724740733
