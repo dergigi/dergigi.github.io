@@ -177,7 +177,6 @@ zeros and ones.
 > laws as they have always done. They are now up against a digital
 > competitor that most likely cannot be brought under the physical
 > world's laws."
-
 > <cite>[Saifedean Ammous], [The Bitcoin Standard]</cite>
 
 Governments and corporations will continually try to outlaw certain
@@ -203,7 +202,6 @@ numbers] and other absurdities.
 > "Any piece of digital information is representable as a number;
 > consequently, if communicating a specific set of information is
 > illegal in some way, then the number may be illegal as well."
-
 > <cite>Wikipedia contributors, [Illegal number][illegal numbers]
 > ([this version])</cite>
 
