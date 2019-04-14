@@ -11,7 +11,5 @@ tags:
   - Travel
 ---
 
-<blockquote>
-  “There are people who love birds so much they free them. There are others who love them so much they cage them.”
-  <cite>Gene Wolfe</cite>
-</blockquote>
+> “There are people who love birds so much they free them. There are others who love them so much they cage them.”
+> <cite>Gene Wolfe</cite>

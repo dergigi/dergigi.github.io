@@ -11,10 +11,8 @@ tags:
   - Travel
 ---
 
-<blockquote>
-"There are apartments in the soul which have a glorious outlook; from whose windows you can see across the river of death, and into the shining city beyond; but how often are these neglected for the lower ones, which have earthward-looking windows!"
-<cite>Henry Ward Beecher</cite>
-</blockquote>
+> "There are apartments in the soul which have a glorious outlook; from whose windows you can see across the river of death, and into the shining city beyond; but how often are these neglected for the lower ones, which have earthward-looking windows!"
+> <cite>Henry Ward Beecher</cite>
 
 It may be that earthward-looking windows do not allow you to see the shining city beyond, but some of these windows are awe-inspiring nevertheless. We were fortunate enough to look earthward in the last couple of weeks, both from high above and from deep underground.
 
@@ -22,10 +20,8 @@ My view of the world keeps changing as I grow older. It changed more in the last
 
 ![Grand outlook](/assets/images/grand-canyon.jpg#full)
 
-<blockquote>
-"If we are to change our world view, images have to change. The artist now has a very important job to do."
-<cite>David Hockney</cite>
-</blockquote>
+> "If we are to change our world view, images have to change. The artist now has a very important job to do."
+> <cite>David Hockney</cite>
 
 Artists have indeed changed my world view. So have scientists, engineers, philosophers, economists, and many other people who might have less "prestigious" professions. Prestigious professions and shiny titles don't matter anyway. What matters, in the end, depends on your point of view.
 
@@ -33,7 +29,5 @@ A shift in perspective is a dangerous thing: you might start to see things diffe
 
 ![Pointy perspective](/assets/images/bryce-canyon.jpg#full)
 
-<blockquote>
-Asked where he came from, he said, <br/><b>"I am a citizen of the world."</b>
-<cite>Diogenes Laërtius, vi. 63</cite>
-</blockquote>
+> Asked where he came from, he said, <br/><b>"I am a citizen of the world."</b>
+> <cite>Diogenes Laërtius, vi. 63</cite>

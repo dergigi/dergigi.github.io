@@ -28,39 +28,27 @@ It's okay to be average.
 
 ![Birds](/assets/images/birds-being-birds.jpg#full)
 
-<blockquote>
-“A bird can just be a bird. When the sun rises it isn't accompanied by a feeling of dread. It's daily tasks are solely comprised of being a bird and being a bird still.”
-</blockquote>
+> “A bird can just be a bird. When the sun rises it isn't accompanied by a feeling of dread. It's daily tasks are solely comprised of being a bird and being a bird still.”
 
 ![Photographer in front of glacier](/assets/images/photographer-in-front-of-glacier.jpg#full)
 
-<blockquote>
-“Humans are a problem. There's no place for us. I cant just go out into the woods and be a human. But then again, I have a taste of the finer things and I'm an enlightened person that doesn't care to live in the woods anyway. So I have a job, I put in my 40+ hours a week, I pay someone for the privilege of having a roof, I drive 15 miles a day, and I take care of a dog.”
-</blockquote>
+> “Humans are a problem. There's no place for us. I cant just go out into the woods and be a human. But then again, I have a taste of the finer things and I'm an enlightened person that doesn't care to live in the woods anyway. So I have a job, I put in my 40+ hours a week, I pay someone for the privilege of having a roof, I drive 15 miles a day, and I take care of a dog.”
 
 ![Photographer behind tripod](/assets/images/photographer-behind-tripod.jpg#full)
 
-<blockquote>
-“This lifestyle has cost me friends. It has cost me relationships. I cannot visit my family without it being rubbed in my face that I <i>merely</i> live like a king. That's right- a king.”
-</blockquote>
+> “This lifestyle has cost me friends. It has cost me relationships. I cannot visit my family without it being rubbed in my face that I <i>merely</i> live like a king. That's right- a king.”
 
 ![Icelandic road](/assets/images/icelandic-road.jpg#full)
 
-<blockquote>
-“The fact of the matter is that I have a steel pod that lets me travel 65mph and traverse hundreds of miles. I have clean air, water, unspoiled food that I didn't have to even make. I have a bicycle for my mind that lets me express myself in ways that man was unable to for most of recorded history and an audience of thousands subscribed to see what I make. On a daily basis I get to watch cinematic productions that cost millions of dollars to produce. I can role-play with millions of people across the globe in virtual realities. I can, at a moments notice anywhere in the world, talk to people I know, wherever they are. I will likely live to see 90.”
-</blockquote>
+> “The fact of the matter is that I have a steel pod that lets me travel 65mph and traverse hundreds of miles. I have clean air, water, unspoiled food that I didn't have to even make. I have a bicycle for my mind that lets me express myself in ways that man was unable to for most of recorded history and an audience of thousands subscribed to see what I make. On a daily basis I get to watch cinematic productions that cost millions of dollars to produce. I can role-play with millions of people across the globe in virtual realities. I can, at a moments notice anywhere in the world, talk to people I know, wherever they are. I will likely live to see 90.”
 
 ![Stairway to heaven](/assets/images/stairway-to-heaven.jpg#full)
 
-<blockquote>
-“Kings never lived like this. Presidents never lived like this. Yet I am apparently barely scraping by.”
-</blockquote>
+> “Kings never lived like this. Presidents never lived like this. Yet I am apparently barely scraping by.”
 
 ![Steelpod in snowstorm](/assets/images/steelpod-in-snowstorm.jpg#full)
 
-<blockquote>
-“I could work harder and get a better steel pod. A faster mind-bicycle. A bigger castle. But in the end, if I can't be happy with the amazing life I have right now, what hope is there that any of that is going to help. If my peers could get off my back I think I'd be okay.”
-</blockquote>
+> “I could work harder and get a better steel pod. A faster mind-bicycle. A bigger castle. But in the end, if I can't be happy with the amazing life I have right now, what hope is there that any of that is going to help. If my peers could get off my back I think I'd be okay.”
 
 ![Footsteps](/assets/images/footsteps-black-sand.jpg#full)
 
