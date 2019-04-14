@@ -58,11 +58,11 @@ autopages:
   tags:
     layouts:
       - 'tag.html'
-    title: 'derGigi.com'
+    title: 'The Barber Theme'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
-      cased: false
+      cased: true
 exclude:
   - node_modules
   - .DS_Store
