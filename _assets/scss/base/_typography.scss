@@ -154,12 +154,3 @@ sub {
 mark {
   color: $color-white;
 }
-
-//----------------------------------------------
-// Selection
-//----------------------------------------------
-::selection {
-  color: $color-black;
-  background: $color-alpha;
-  text-shadow: none;
-}
