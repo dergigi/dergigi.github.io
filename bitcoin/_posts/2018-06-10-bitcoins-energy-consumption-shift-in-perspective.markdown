@@ -100,6 +100,9 @@ Fourth, that mining is *supposed* to cost a lot of energy. It is
 computationally expensive by design, which is why Satoshi chose to
 reward people *extra* for expending this energy. It is the main
 ingredient of the Nakamoto Consensus. It is the work in proof-of-work.
+
+---
+
 It is absolutely essential.
 
 Without a closer look at the mining process, it is easy to confuse the
@@ -155,8 +158,7 @@ with a high reward, is a clever way to get the network started. In other
 words: everyone who is greedily mining bitcoins today is helping to
 bootstrap this new financial system, whether they realize it or not.
 
-{% include image.html name="clever-girl.png" caption="John Nash commenting on the game theoretical aspect of Satoshi's
-invention." %}
+{% include image.html name="clever-girl.png" caption="John Nash commenting on the game theoretical aspect of Satoshi's invention." %}
 
 As mentioned above, Bitcoin's mining difficulty adjusts automatically,
 leading to a dynamic, self-correcting system. If mining --- for whatever
@@ -164,6 +166,8 @@ reason --- gets more expensive, fewer people will mine at a profit,
 resulting in fewer people mining, lowering the mining difficulty. This,
 in turn, will make mining easier again and thus cheaper, which will
 incentivize more people to mine.
+
+---
 
 Over time, the financial incentive of running a mining operation will
 change. It follows that Bitcoin's energy consumption will change as
@@ -178,7 +182,7 @@ for mining a new block.
 In other words: The "mining of new bitcoins" will eventually stop. The
 mining of valid blocks will continue after that.
 
-In Bitcoin, code truly is law.
+{% include image.html name="getblocksubsidy.png" caption="In Bitcoin, code truly is law." %}
 
 One could argue that we are currently in the bitcoin equivalent of the
 Gold Rush, where the reward for mining as well as the future projected
