@@ -4,7 +4,7 @@ title: "Technological Teachings of Bitcoin"
 subtitle: "What I've Learned From Bitcoin: Part III"
 date: 2019-04-02
 description:
-image: /assets/images/btc05-the-anatomy-of-bitcoin.png
+image: /assets/images/btc05-the-anatomy-of-bitcoin.jpg
 author: Gigi
 category: bitcoin
 tags:
