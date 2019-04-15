@@ -181,11 +181,7 @@ Simply generate a large number and you are pretty much good to go. The
 central authority of account creation is mathematics. And God only knows
 who is in charge of that.
 
-
-
-
-
-[Elliptic curve examples] (cc-by-sa [Emmanuel Boutet])
+{% include image.html name="elliptic-curve-examples.png" caption="Elliptic curve examples (cc-by-sa Emmanuel Boutet)" %}
 
 Bitcoin is built upon our best understanding of reality. While there are
 still many open problems in physics, computer science, and mathematics,
@@ -252,9 +248,7 @@ way. As Thompson summarized in his [*Reflections on Trusting Trust*][]:
 "The moral is obvious. You can't trust code that you did not totally
 create yourself."
 
-
-
-
+{% include image.html name="ken-thompson-hack.png" %}
 
 Thompson demonstrated that even if you have access to the source code,
 your compiler --- or any other program-handling program or
@@ -280,13 +274,7 @@ which is one of the most important tamper-detection mechanism for chips
 like these.
 
 
-
-[][3]
-
-
-
-[Stealthy Dopant-Level Hardware Trojans][found a way] by Becker,
-Regazzoni, Paar, Burleson
+{% include image.html name="stealthy-hardware-trojan.png" caption="Stealthy Dopant-Level Hardware Trojans by Becker, Regazzoni, Paar, Burleson" %}
 
 Sounds scary? Well, even if you would be able to build everything from
 scratch, you would still have to trust the underlying mathematics. You
@@ -326,13 +314,7 @@ the served binary was not tampered with by rebuilding it from scratch.
 As of this writing, a [pull-request] is in progress to integrate Guix
 into the Bitcoin build process.
 
-
-
-[][bootstrapping]
-
-
-
-Which came first, the chicken or the egg?
+{% include image.html name="guix-bootstrap-dependencies.png" caption="Which came first, the chicken or the egg?" %}
 
 Luckily, Bitcoin doesn't rely on a single algorithm or piece of
 hardware. One effect of Bitcoin's radical decentralization is a
@@ -371,9 +353,7 @@ complex is *telling the time* in a decentralized system.
 As outlined in the whitepaper, the proof-of-work system (aka mining) is
 a way to implement a distributed timestamp server.
 
-
-
-
+{% include image.html name="bitcoin-whitepaper-timestamp-wide.png" caption="Excerpts from the whitepaper. Did someone say timechain?" %}
 
 When I first learned how Bitcoin works I also thought that proof-of-work
 is inefficient and wasteful. After a while, I started to [shift my
@@ -403,7 +383,7 @@ truth. It is per definition what actually happened. This agreement is
 what is now known as Nakamoto consensus.
 
 > "The network timestamps transactions by hashing them into an ongoing
-> chain [which] serves as proof of the sequence of events witnessed"
+> chain which serves as proof of the sequence of events witnessed"
 > <cite>[Satoshi Nakamoto][Nakamoto]</cite>
 
 Without a consistent way to tell the time, there is no consistent way to
@@ -913,7 +893,7 @@ I've learned from Bitcoin.
 [pull-request]: https://github.com/bitcoin/bitcoin/pull/15277
 [flip a coin]: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc#private-keys
 [Glacier]: https://glacierprotocol.org/
-[shift my perspective on Bitcoin's energy consumption]: https://medium.com/@dergigi/bitcoins-energy-consumption-6dd7d7a2e463
+[shift my perspective on Bitcoin's energy consumption]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
 [points out]: https://grisha.org/blog/2018/01/23/explaining-proof-of-work/
 [pointed out]: http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A9493
 [4]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
