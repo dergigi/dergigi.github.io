@@ -237,7 +237,7 @@ will hyperinflate or be replaced. They will soon be historical
 currencies. We will make them obsolete.
 
 > "History has shown that governments will inevitably succumb to the
-> temptation of inflating the money supply." \
+> temptation of inflating the money supply."
 > <cite>[Saifedean Ammous]</cite>
 
 Why is Bitcoin different? In contrast to currencies mandated by the
@@ -463,7 +463,7 @@ because Joachimsthal was *the* valley for silver coin production, people
 simply referred to these silver coins as *Thaler.* Thaler (German)
 morphed into daalders (Dutch), and finally dollars (English).
 
-{% include image.html name="joachimsthaler.png" caption="The original 'dollar'. Saint Joachim is pictured with his robe and wizard hat. Picture cc-by-sa [Berlin-George]"%}
+{% include image.html name="joachimsthaler.png" caption="The original 'dollar'. Saint Joachim is pictured with his robe and wizard hat. Picture cc-by-sa Berlin-George"%}
 
 The introduction of representative money heralded the downfall of hard
 money. Gold certificates were introduced in 1863, and about fifteen
@@ -566,7 +566,7 @@ debate], said it way better than I ever could:
 > have a system called 'fractional reserve banking' which means that
 > banks can lend money that they don't actually have! It's a criminal
 > scandal and it's been going on for too long. [...]
-
+> 
 > We have counterfeiting --- sometimes called quantitative
 > easing --- but counterfeiting by any other name. The artificial
 > printing of money which, if any ordinary person did, they'd go to
@@ -807,6 +807,8 @@ produce more of.
 
 Bitcoin taught me that me that sound money is essential.
 
+---
+
 ### Conclusion
 
 As we leave the “blockchain not bitcoin” days behind us, most people start
@@ -837,31 +839,62 @@ learned what good money is and that having it is possible.
 
 What have you learned from Bitcoin?
 
+---
+
 ### Acknowledgments
 
-  - Again, thanks to Arjun Balaji for the tweet which gave birth to this series.
-  - Thanks to Saifedean Ammous for his convictions, savage tweets, and writing The Bitcoin Standard
-  - Thanks to Dhruv Bansal for taking the time to discuss some of these ideas with me.
-  - Thanks to Matt Odell for his candor and also for taking the time to discuss some of these ideas with me, even if he doesn’t remember all of it.
-  - Thanks to Michael Goldstein and Pierre Rochard for curating and providing relevant literature via the Nakamoto Institute
-  - Thanks to Jannik, Camilo, and Matt for providing feedback to early drafts of this article
+  - Again, thanks to [Arjun Balaji] for [the tweet] which gave birth to this series.
+  - Thanks to [Saifedean Ammous] for his convictions, savage tweets, and writing The Bitcoin Standard
+  - Thanks to [Dhruv Bansal] for taking the time to discuss some of these ideas with me.
+  - Thanks to [Matt Odell] for his candor and also for taking the time to discuss some of these ideas with me, even if he doesn’t remember all of it.
+  - Thanks to [Michael Goldstein] and [Pierre Rochard] for curating and providing relevant literature via the [Nakamoto Institute]
+  - Thanks to [Jannik], [Camilo], and [Matt] for providing feedback to early drafts of this article
 
 ### Further Reading
 
 There exists an almost endless list of books and essays on the topics discussed above and economic thought in general. The books and articles listed below are but a small selection which were particularly influential in my thinking. I am grateful for all the people who shared their insights, past and present.
 
-  - The Bitcoin Standard: The Decentralized Alternative to Central Banking by Saifedean Ammous
-  - Economics in One Lesson by Henry Hazlitt
-  - Human Action by Ludwig von Mises
-  - The Ethics of Money Production by Jörg Guido Hülsmann
-  - The Denationalization of Money by Friedrich Hayek
-  - The Machinery of Freedom by David D. Friedman
-  - The Case Against The Fed by Murray N. Rothbard
-  - End the Fed by Ron Paul
-  - Shelling Out: The Origins of Money by Nick Szabo
-  - The Bitcoin Halving and Monetary Competition by Saifedean Ammous
-  - The Bullish Case For Bitcoin by Vijay Boyapati
-  - Bitcoin’s distribution was fair by Dan Held
+  - [The Bitcoin Standard: The Decentralized Alternative to Central Banking][bitcoin-standard] by Saifedean Ammous
+  - [Economics in One Lesson] by Henry Hazlitt
+  - [Human Action] by Ludwig von Mises
+  - [The Ethics of Money Production] by Jörg Guido Hülsmann
+  - [The Denationalization of Money] by Friedrich Hayek
+  - [The Machinery of Freedom] by David D. Friedman
+  - [The Case Against The Fed] by Murray N. Rothbard
+  - [End the Fed] by Ron Paul
+  - [Shelling Out: The Origins of Money] by Nick Szabo
+  - [The Bitcoin Halving and Monetary Competition] by [Saifedean Ammous]
+  - [The Bullish Case For Bitcoin] by [Vijay Boyapati]
+  - [Bitcoin’s distribution was fair] by [Dan Held]
+
+
+[Arjun Balaji]: https://twitter.com/arjunblj
+[the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
+[Saifedean Ammous]: https://twitter.com/saifedean
+[Dhruv Bansal]: https://twitter.com/dhruvbansal
+[Matt Odell]: https://twitter.com/matt_odell
+[Matt]: https://twitter.com/matt_odell
+[Michael Goldstein]: https://twitter.com/bitstein
+[Pierre Rochard]: https://twitter.com/pierre_rochard
+[Nakamoto Institute]: http://nakamotoinstitute.org
+[Jannik]: https://twitter.com/jnnksbrt
+[Camilo]: https://twitter.com/CamiloJdL
+[Dan Held]: https://twitter.com/danheld
+[Vijay Boyapati]: https://twitter.com/real_vijay
+
+
+[bitcoin-standard]: http://amzn.to/2L95bJW
+[Economics in One Lesson]: https://mises.org/library/economics-one-lesson
+[Human Action]: https://mises.org/library/human-action-0
+[The Ethics of Money Production]: https://mises.org/library/ethics-money-production
+[The Denationalization of Money]: https://nakamotoinstitute.org/literature/denationalisation/
+[The Machinery of Freedom]: http://daviddfriedman.com/The_Machinery_of_Freedom_.pdf
+[The Case Against The Fed]: https://mises.org/sites/default/files/The%20Case%20Against%20the%20Fed_2.pdf
+[End the Fed]: https://en.wikipedia.org/wiki/End_the_Fed
+[Shelling Out: The Origins of Money]: http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/shell.html
+[The Bitcoin Halving and Monetary Competition]: https://thesaifhouse.wordpress.com/2016/07/09/the-bitcoin-halving-and-monetary-competition/
+[The Bullish Case For Bitcoin]: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
+[Bitcoin’s distribution was fair]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
 
 
 [I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
@@ -873,7 +906,6 @@ There exists an almost endless list of books and essays on the topics discussed 
 [aarontaycc]: https://twitter.com/aarontaycc/status/1072880815661436928?s=19
 [bitcoindunny]: https://twitter.com/BitcoinDunny/status/935330541263519745
 [many confessions]: https://twitter.com/search?q=bitcoin%20AND%20I%20AND%20%28learned%20OR%20taught%29&src=typd
-[I]: https://medium.com/@dergigi/philosophical-teachings-of-bitcoin-97f4b96f455f
 [Ludwig von Mises]: https://mises.org/library/human-action-0/html/p/607
 [Robert Kiyosaki]: https://www.youtube.com/watch?v=vkCXytxwH-M
 [real wizardry]: https://external-preview.redd.it/8d03MWWOf2HIyKrT8ThBGO4WFv-u25JaYqhbEO9b1Sk.jpg?width=683&auto=webp&s=dc5922d84717c6a94527bafc0189fd4ca02a24bb
@@ -885,7 +917,6 @@ There exists an almost endless list of books and essays on the topics discussed 
 [currently suffering]: https://en.wikipedia.org/wiki/Crisis_in_Venezuela#Economic_crisis
 [list of historical currencies]: https://en.wikipedia.org/wiki/List_of_historical_currencies
 [currently in use]: https://en.wikipedia.org/wiki/List_of_currencies
-[Saifedean Ammous]: http://amzn.to/2L95bJW
 [by the laws of physics]: https://link.medium.com/9fzq2L0J3S
 [*Gold-to-Decent-Suit Ratio*]: https://www.businesswire.com/news/home/20110819005774/en/History-Shows-Price-Ounce-Gold-Equals-Price
 [multiple theories]: https://en.wikipedia.org/wiki/Theory_of_value_%28economics%29
@@ -908,7 +939,6 @@ There exists an almost endless list of books and essays on the topics discussed 
 [Keynesian]: https://en.wikipedia.org/wiki/Keynesian_economics
 [Austrian]: https://en.wikipedia.org/wiki/Austrian_School
 [Fr. Bernard W. Dempsey, S.J.]: https://www.jstor.org/stable/29769582
-[Bitcoin's "supply formula"]: https://cdn-images-1.medium.com/max/1600/1*siXFA9SE5MeEPaJbzUfhCg.png
 [algorithmically controlled]: https://en.bitcoin.it/wiki/Controlled_supply
 [Jörg Guido Hülsmann]: https://mises.org/sites/default/files/The%20Ethics%20of%20Money%20Production_2.pdf
 [how much money there is]: https://en.wikipedia.org/wiki/Money_supply
