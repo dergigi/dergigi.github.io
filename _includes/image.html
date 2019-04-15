@@ -5,5 +5,7 @@
   <figcaption>{{ include.caption }}</figcaption>
 </figure>
 {% else %}
-<img src="/assets/images/{{ imagePath }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
+<figure>
+  <img src="/assets/images/{{ imagePath }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
+</figure>
 {% endif %}
