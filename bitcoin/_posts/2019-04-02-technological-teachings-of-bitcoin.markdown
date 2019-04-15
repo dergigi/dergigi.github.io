@@ -70,16 +70,12 @@ an increase by three orders of magnitude: 10⁶, 10⁹, 10¹². Thinking about
 seconds is not very useful, so let's translate this into something we
 can wrap our head around:
 
--   [10⁶: One million seconds was 1½ weeks ago.]
--   [10⁹: One billion seconds was almost 32 years ago.]
--   [10¹²: One trillion seconds ago Manhattan was covered under a [thick
-    layer of ice].]
+-  10⁶: One million seconds was 1½ weeks ago.
+-  10⁹: One billion seconds was almost 32 years ago.
+-  10¹²: One trillion seconds ago Manhattan was covered under a [thick
+    layer of ice].
 
-
-
-
-
-About 1 trillion seconds ago. Source: [xkcd \#1125]
+{% include image.html name="xkcd-1125.png" caption="About 1 trillion seconds ago. Source: xkcd #1125" %}
 
 As soon as we enter the beyond-astronomical realm of modern
 cryptography, our intuition fails catastrophically. Bitcoin is built
@@ -105,18 +101,11 @@ So, how strong is SHA-256, exactly?
 > "SHA-256 is very strong. It's not like the incremental step from MD5
 > to SHA1. It can last several decades unless there's some massive
 > breakthrough attack."
-
-> [Satoshi Nakamoto]
+> <cite>[Satoshi Nakamoto]</cite>
 
 Let's spell things out. 2²⁵⁶ equals the following number:
 
-    115 quattuorvigintillion 792 trevigintillion 89 duovigintillion 237
-    unvigintillion 316 vigintillion 195 novemdecillion 423 octodecillion
-    570 septendecillion 985 sexdecillion 8 quindecillion 687
-    quattuordecillion 907 tredecillion 853 duodecillion 269 undecillion
-    984 decillion 665 nonillion 640 octillion 564 septillion 39 sextillion
-    457 quintillion 584 quadrillion 7 trillion 913 billion 129 million 639
-    thousand 936.
+    115 quattuorvigintillion 792 trevigintillion 89 duovigintillion 237 unvigintillion 316 vigintillion 195 novemdecillion 423 octodecillion 570 septendecillion 985 sexdecillion 8 quindecillion 687 quattuordecillion 907 tredecillion 853 duodecillion 269 undecillion 984 decillion 665 nonillion 640 octillion 564 septillion 39 sextillion 457 quintillion 584 quadrillion 7 trillion 913 billion 129 million 639 thousand 936.
 
 That's a lot of nonillions! Wrapping your head around this number is
 pretty much impossible. There is nothing in the physical universe to
@@ -131,11 +120,7 @@ yourself a favor and take the five minutes to watch it. As all other
 [3Blue1Brown] videos it is not only fascinating but also exceptionally
 well made. Warning: You might fall down a math rabbit hole.
 
-
-
-
-
-Answer: Pretty secure.
+{% include image.html name="youtube-vid.png" caption="Answer: Pretty secure." %}
 
 [Bruce Schneier] used the physical limits of computation to put this
 number into perspective: even if we could build an optimal computer,
@@ -149,7 +134,7 @@ years, we would still only have a 25% chance to find a needle in a
 > strongly imply that brute-force attacks against 256-bit keys will be
 > infeasible until computers are built from something other than matter
 > and occupy something other than space."
-> [Bruce Schneier][2]
+> <cite>[Bruce Schneier][2]</cite>
 
 It is hard to overstate the profoundness of this. Strong cryptography
 inverts the power-balance of the physical world we are so used to.
@@ -170,7 +155,7 @@ a math problem."*
 
 > "It isn't obvious that the world had to work this way. But somehow the
 > universe smiles on encryption."
-> [Julian Assange][call to cryptographic arms]
+> <cite>[Julian Assange][call to cryptographic arms]</cite>
 
 Nobody yet knows for sure if the universe's smile is genuine or not. It
 is possible that our assumption of mathematical asymmetries is wrong and
@@ -181,7 +166,7 @@ exist, and the implications would most likely change the world beyond
 recognition.
 
 > "Vires in Numeris" = "Strength in Numbers"
-> [epii]
+> <cite>[epii]</cite>
 
 *Vires in numeris* is not only a catchy motto used by bitcoiners. The
 realization that there is an unfathomable strength to be found in
@@ -231,7 +216,7 @@ Bitcoin solves is the issue of *trust*.
 > "The root problem with conventional currency is all the trust that's
 > required to make it work. [...] What is needed is an electronic
 > payment system based on cryptographic proof instead of trust"
-> [Satoshi] [Nakamoto]
+> <cite>[Satoshi] [Nakamoto]</cite>
 
 Bitcoin solves the problem of trust by being completely decentralized,
 with no central server or trusted parties. Not even trusted *third*
@@ -252,7 +237,7 @@ whitepaper][Nakamoto].
 
 > "Conclusion: We have proposed a system for electronic transactions
 > without relying on trust." 
-> [Satoshi Nakamoto][Nakamoto]
+> <cite>[Satoshi Nakamoto][Nakamoto]</cite>
 
 Note that "without relying on trust" is used in a very specific context
 here. We are talking about trusted third parties, i.e. other entities
@@ -281,7 +266,7 @@ the aid of any external software or software-aided machinery.
 
 > "If you wish to make an apple pie from scratch, you must first invent
 > the universe."
-> [Carl Sagan]
+> <cite>[Carl Sagan]</cite>
 
 The Ken Thompson Hack is a particularly ingenious and hard-to-detect
 backdoor, so let's take a quick look at a hard-to-detect backdoor which
@@ -419,7 +404,7 @@ what is now known as Nakamoto consensus.
 
 > "The network timestamps transactions by hashing them into an ongoing
 > chain [which] serves as proof of the sequence of events witnessed"
-> [Satoshi Nakamoto][Nakamoto]
+> <cite>[Satoshi Nakamoto][Nakamoto]</cite>
 
 Without a consistent way to tell the time, there is no consistent way to
 tell before from after. Reliable ordering is impossible. As mentioned
@@ -464,7 +449,7 @@ a beast without heads.
 > because of all the companies that failed since the 1990's. I hope it's
 > obvious it was only the centrally controlled nature of those systems
 > that doomed them."
-> [Satoshi Nakamoto][pointed out]
+> <cite>[Satoshi Nakamoto][pointed out]</cite>
 
 One consequence of this radical decentralization is an inherent
 resistance to change. "Move fast and break things" does not and will
@@ -474,7 +459,7 @@ That's distributed consensus. That's the nature of Bitcoin.
 
 > "The nature of Bitcoin is such that once version 0.1 was released, the
 > core design was set in stone for the rest of its lifetime."
-> [Satoshi Nakamoto][4]
+> <cite>[Satoshi Nakamoto][4]</cite>
 
 This is one of the many paradoxical properties of Bitcoin. We all came
 to believe that anything which is software can be changed easily. But
@@ -494,7 +479,7 @@ environment.
 
 > "The rain came down, the floods came, and the winds blew, and beat on
 > that house; and it didn't fall, for it was founded on the rock."
-> [Matthew 7:24--27]
+> <cite>[Matthew 7:24--27]</cite>
 
 Arguably, in this parable of the wise and the foolish builders Bitcoin
 isn't the house. It is the rock. Unchangeable, unmoving, providing the
@@ -520,7 +505,7 @@ that it would be necessary to make wise decisions ideologically.
 > "Being open source means anyone can independently review the code. If
 > it was closed source, nobody could verify the security. I think it's
 > essential for a program of this nature to be open source."
-> [Satoshi Nakamoto][5]
+> <cite>[Satoshi Nakamoto][5]</cite>
 
 Openness is paramount to security and inherent in open source and the
 free software movement. As Satoshi pointed out, secure protocols and the
@@ -647,7 +632,7 @@ He also made sure [not to delay] any release forever. After all,
 
 > "I had to write all the code before I could convince myself that I
 > could solve every problem, then I wrote the paper."
-> [Satoshi Nakamoto][6]
+> <cite>[Satoshi Nakamoto][6]</cite>
 
 In today's world of endless promises and doubtful execution, an exercise
 in dedicated building was desperately needed. Be deliberate, convince
@@ -718,7 +703,7 @@ to the bitcoin natives of the future.
 
 > "The future is already here --- it's just not very evenly
 > distributed."
-> [William Gibson]
+> <cite>[William Gibson]</cite>
 
 In 1995, about 15% of American adults used the internet. Historical
 [data from the Pew Research Center] shows how the internet has woven
@@ -845,7 +830,7 @@ beautifully. The longer Bitcoin continues to work, the more people will
 opt-in to use it.
 
 > "It's true that things are beautiful when they work. Art is function."
-> [Giannina Braschi]
+> <cite>[Giannina Braschi]</cite>
 
 Bitcoin is growing exponentially, blurring the line between disciplines.
 It isn't clear where the realm of pure technology ends and where another
@@ -892,11 +877,8 @@ I've learned from Bitcoin.
 [I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
 [II]: {% post_url /bitcoin/2019-01-11-economic-teachings-of-bitcoin %}
 [III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
-[Go to the profile of Gigi]: https://cdn-images-1.medium.com/fit/c/100/100/1*yerG1L9BlJqTdPaLt4FlIQ.jpeg
-[![Go to the profile of Gigi]]: https://medium.com/@dergigi?source=post_header_lockup
+
 [Arjun Balaji]: https://twitter.com/arjunblj
-[here]: https://medium.com/@dergigi/philosophical-teachings-of-bitcoin-97f4b96f455f
-[1]: https://medium.com/@dergigi/economic-teachings-of-bitcoin-b2cc4f2cfa96
 [thick layer of ice]: https://en.wikipedia.org/wiki/Last_Glacial_Maximum
 [xkcd \#1125]: https://xkcd.com/1225/
 [SHA-256]: https://en.wikipedia.org/wiki/SHA-2
