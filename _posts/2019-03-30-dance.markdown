@@ -5,6 +5,7 @@ date: 2019-03-30
 description:
 image: /assets/images/dance.jpg
 author: Gigi
+category: photography
 tags:
   - Photography
   - Travel

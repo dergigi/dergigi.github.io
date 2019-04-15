@@ -145,8 +145,7 @@
   h5,
   h6 {
     margin-bottom: 0.5rem;
-
-    font-family: $font;
+    font-family: $font-post;
   }
 
   h1 {
@@ -200,32 +199,36 @@
   }
 
   blockquote {
-    p {
-      margin-bottom: 0;
-    }
+    border-top: 2px solid $color-darkergrey;
+    border-bottom: 2px solid $color-darkergrey;
   }
 
   a {
-    color: $color-white;
-    border-bottom: 2px solid $color-grey;
-    box-shadow: inset 0 -3px 0 $color-grey;
+    color: $color-blue;
+  }
+
+  a:hover {
+    text-decoration: underline;
   }
 
   hr {
     height: 1px;
     width: 100%;
     margin: {
-      top: 0;
-      bottom: 1.5rem;
+      top: 2rem;
+      bottom: 3.5rem;
     }
 
     border: 0;
     background-color: rgba($color-white, 0.1);
   }
 
-  img {
-    display: block;
-    margin-bottom: 1.5rem;
+  img, figure {
+    text-align: center;
+  }
+
+  figure {
+    margin: 2rem 0;
   }
 
   img[src$="#full"] {

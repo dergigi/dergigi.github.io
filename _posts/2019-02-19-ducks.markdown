@@ -5,6 +5,7 @@ date: 2019-02-19
 description:
 image: /assets/images/ducks.jpg
 author: Gigi
+category: photography
 tags:
   - Photography
   - Travel

@@ -5,12 +5,11 @@ date: 2019-02-10
 description:
 image: /assets/images/birds.jpg
 author: Gigi
+category: photography
 tags:
   - Photography
   - Travel
 ---
 
-<blockquote>
-  “There are people who love birds so much they free them. There are others who love them so much they cage them.”
-  <cite>Gene Wolfe</cite>
-</blockquote>
+> “There are people who love birds so much they free them. There are others who love them so much they cage them.”
+> <cite>Gene Wolfe</cite>

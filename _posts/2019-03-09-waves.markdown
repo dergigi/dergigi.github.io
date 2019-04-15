@@ -5,6 +5,7 @@ date: 2019-03-09
 description:
 image: /assets/images/waves.jpg
 author: Gigi
+category: photography
 tags:
   - Photography
   - Travel
@@ -24,29 +25,17 @@ Waves are powerful beyond comprehension. They bring down bridges and skyscrapers
 
 ![Brown waves](/assets/images/waves-brown.jpg#full)
 
-----
-
-<blockquote>
-"The study of waves is important to virtually every branch of science and engineering. Indeed, waves are also important to everyday life. Sound waves allow us to hear, and electromagnetic waves allow us to see."
-<cite>D. S. Drumheller</cite>
-</blockquote>
-
-----
+> "The study of waves is important to virtually every branch of science and engineering. Indeed, waves are also important to everyday life. Sound waves allow us to hear, and electromagnetic waves allow us to see."
+> <cite>D. S. Drumheller</cite>
 
 ![Waves above](/assets/images/waves-above.jpg)
 
-----
-
-<blockquote>
-We follow and race<br/>
-In shifting chase,<br/>
-Over the boundless ocean-space!<br/>
-Who hath beheld when the race begun?<br/>
-Who shall behold it run?
-<cite>Bayard Taylor, The Waves.</cite>
-</blockquote>
-
-----
+> We follow and race<br/>
+> In shifting chase,<br/>
+> Over the boundless ocean-space!<br/>
+> Who hath beheld when the race begun?<br/>
+> Who shall behold it run?
+> <cite>Bayard Taylor, The Waves.</cite>
 
 The last few weeks were a surreal experience. While visiting an ocean of beautiful places, I tried my best to stay upright on a wave of challenges and opportunities. My surfing was far from a masterful dance, but at least my bones weren't crushed on the reef.
 
@@ -54,12 +43,6 @@ What to do after all this paddling? They say that there is calm before the storm
 
 ![Ocean waves](/assets/images/waves-ocean.jpg#full)
 
-----
-
-<blockquote>
-"Sleepe after toyle, port after stormie seas,<br/>
-Ease after warre, death after life, does greatly please."
-<cite>Edmund Spenser, The Faerie Queene</cite>
-</blockquote>
-
-----
+> "Sleepe after toyle, port after stormie seas,<br/>
+> Ease after warre, death after life, does greatly please."
+> <cite>Edmund Spenser, The Faerie Queene</cite>

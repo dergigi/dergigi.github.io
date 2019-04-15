@@ -55,14 +55,20 @@ h6 {
   @extend %font-header;
 
   margin: {
-    top: 0;
-    bottom: 0;
+    top: 2em;
+    bottom: 0.5em;
   }
 }
 
 //----------------------------------------------
-// H2 Theme
+// Headings Theme
 //----------------------------------------------
+
+.post__header h3 {
+  font-family: $font-post;
+  margin-top: 0;
+}
+
 h2:not(.posts__text):not(.related__text) {
   $fontSize: 2em;
 
@@ -80,7 +86,7 @@ h2:not(.posts__text):not(.related__text) {
 //----------------------------------------------
 p {
   margin: {
-    top: 0;
+    top: 0.5em;
     bottom: 0.75em;
   }
 }
@@ -95,14 +101,10 @@ blockquote {
   margin: 0 0 1.5rem;
 
   font-family: $font-post;
-  font-weight: 400;
-  font-size: 1.25em;
+  font-weight: 300;
+  font-size: 1.2em;
   color: $color-white;
   line-height: 1.4;
-
-  @media (min-width: $mq-small) {
-    font-size: 1.5em;
-  }
 }
 
 cite {
@@ -155,11 +157,7 @@ mark {
   color: $color-white;
 }
 
-//----------------------------------------------
-// Selection
-//----------------------------------------------
-::selection {
-  color: $color-black;
-  background: $color-alpha;
-  text-shadow: none;
+figcaption {
+  font-size: $font-small;
+  color: $color-darkgrey;
 }
