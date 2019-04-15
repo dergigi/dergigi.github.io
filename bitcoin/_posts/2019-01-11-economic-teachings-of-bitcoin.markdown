@@ -208,9 +208,9 @@ inflationary curve. This is also why inflation can be seen as a hidden
 tax because in the end governments profit from it while everyone else
 ends up paying the price.
 
-> \"I do not think it is an exaggeration to say history is largely a
+> "I do not think it is an exaggeration to say history is largely a
 > history of inflation, and usually of inflations engineered by
-> governments for the gain of governments.\"
+> governments for the gain of governments."
 > <cite>[Friedrich Hayek][1]</cite>
 
 So far, all government-controlled currencies have eventually been
@@ -361,7 +361,6 @@ money with enormous power.
 > under the cover of night. It is the power to weave illusions that
 > appear real as long as they last. That is the very core of the
 > Fed's power."
-
 > <cite>[Ron Paul]</cite>
 
 Bitcoin peacefully removes this power, since it does away with money
@@ -683,7 +682,6 @@ bitcoin.
 > "A fixed money supply, or a supply altered only in accord with
 > objective and calculable criteria, is a necessary condition to a
 > meaningful just price of money."
-
 > <cite>[Fr. Bernard W. Dempsey, S.J.]</cite>
 
 As a quick stroll through the graveyard of forgotten currencies has
@@ -738,7 +736,6 @@ effort: flipping a few bits in a bank computer is enough.
 > "One important aspect of this new reality is that institutions like
 > the Fed cannot go bankrupt. They can print any amount of money that
 > they might need for themselves at virtually zero cost."
-
 > <cite>[Jörg Guido Hülsmann]</cite>
 
 The principle outlined above can be expressed more generally as the
