@@ -25,6 +25,10 @@ This is the third chapter of a personal journey. Again, I am indebted to
 learned from Bitcoin?" It is this question which has led me to write
 this series to outline some of the things I've learned.
 
+1. [Philosophical Teachings of Bitcoin][I]
+2. [Economic Teachings of Bitcoin][II]
+3. **[Technological Teachings of Bitcoin][III]**
+
 Part one explored what I've learned from Bitcoin when seen through a
 philosophical lens: the interplay of immutability and change, copying
 and scarcity, Bitcoin's origin story and identity, locality in a world

@@ -25,9 +25,9 @@ inherent personal bias of answering a question like this.
 I tried to group the teachings of Bitcoin by topics, resulting in three
 parts:
 
-  - I: [Philosophical Teachings of Bitcoin][I]
-  - II: [Economic Teachings of Bitcoin][II]
-  - III: [Technological Teachings of Bitcoin][III]
+1. **[Philosophical Teachings of Bitcoin][I]**
+2. [Economic Teachings of Bitcoin][II]
+3. [Technological Teachings of Bitcoin][III]
 
 As hinted above, attempting to answer this question fully is a fool's
 errand, thus my answers will always be incomplete. I would like to

@@ -24,9 +24,9 @@ schools of economic thought, and many other things. The quest to understand
 Bitcoin lead me down a plethora of paths, some of which I try to explore in
 this series. This is the second of three parts:
 
-  - I: [Philosophical Teachings of Bitcoin][I]
-  - II: [Economic Teachings of Bitcoin][II]
-  - III: [Technological Teachings of Bitcoin][III]
+1. [Philosophical Teachings of Bitcoin][I]
+2. **[Economic Teachings of Bitcoin][II]**
+3. [Technological Teachings of Bitcoin][III]
 
 In Part I of this series, some of the philosophical questions Bitcoin touches
 on were discussed. Part II will take a closer look at money and economics.
@@ -566,7 +566,7 @@ debate], said it way better than I ever could:
 > have a system called 'fractional reserve banking' which means that
 > banks can lend money that they don't actually have! It's a criminal
 > scandal and it's been going on for too long. [...]
-> 
+>
 > We have counterfeiting --- sometimes called quantitative
 > easing --- but counterfeiting by any other name. The artificial
 > printing of money which, if any ordinary person did, they'd go to
