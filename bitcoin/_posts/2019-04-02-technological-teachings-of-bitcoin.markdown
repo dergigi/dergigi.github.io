@@ -144,8 +144,8 @@ and you will be able to open any door, box, or treasure chest.
 Bitcoin's treasure chest is very different. It is secured by strong
 cryptography, which does not give way to brute force. And as long as the
 underlying mathematical assumptions hold, brute force is all we have.
-Granted, there is also the option of a global [\$5 wrench attack]. But
-torture won't work for all bitcoin addresses, and the cryptographic
+Granted, there is also the option of a global [\$5 wrench attack][wrench attack].
+But torture won't work for all bitcoin addresses, and the cryptographic
 walls of bitcoin will defeat brute force attacks. Even if you come at it
 with the force of a thousand suns. Literally.
 
@@ -273,7 +273,6 @@ can't be seen, the backdoor can't be detected by optical inspection,
 which is one of the most important tamper-detection mechanism for chips
 like these.
 
-
 {% include image.html name="stealthy-hardware-trojan.png" caption="Stealthy Dopant-Level Hardware Trojans by Becker, Regazzoni, Paar, Burleson" %}
 
 Sounds scary? Well, even if you would be able to build everything from
@@ -357,7 +356,7 @@ a way to implement a distributed timestamp server.
 
 When I first learned how Bitcoin works I also thought that proof-of-work
 is inefficient and wasteful. After a while, I started to [shift my
-perspective on Bitcoin's energy consumption]. It seems that
+perspective on Bitcoin's energy consumption][energy]. It seems that
 proof-of-work is still widely misunderstood today, in the year 10 AB
 (after Bitcoin).
 
@@ -595,7 +594,7 @@ Thanks to this code, everyone can verify that this novel system actually
 works, and every 10 minutes or so Bitcoin proofs to the world that it is
 still living.
 
-{% include image.html name="bitcoin-v0.1-code.png" caption="Code excerpts from Bitcoin [version 0.1.0]" %}
+{% include image.html name="bitcoin-v0.1-code.png" caption="Code excerpts from Bitcoin version 0.1.0" %}
 
 To make sure that his innovation transcends fantasy and becomes reality,
 Satoshi wrote code to implement his idea before he wrote the whitepaper.
@@ -699,7 +698,7 @@ faster rate.
 In January 2018, the lightning network had [40 nodes] and 60 channels.
 In April 2019, the network grew to more than 4000 nodes and around
 40.000 channels. Keep in mind that this is still experimental technology
-where loss of funds can and does occur. Yet the trend is clear:
+where loss of funds can and does occur. Yet the [trend is clear][Jameson Lopp]:
 thousands of people are [reckless] and eager to use it.
 
 {% include image.html name="lnd-growth-lopp-black.png" caption="Lightning Network, January 2018 vs December 2018. Source: Jameson Lopp" %}
@@ -801,8 +800,8 @@ I've learned from Bitcoin.
     influenced my thinking on Bitcoin and the topics it touches. There
     are simply too many to name.
 -   And finally, thank *you* for reading this series. I hope you
-    enjoyed it as much as I did enjoy writing it. Feel free to reach out
-    to [me on twitter]. My DMs are open.
+    enjoyed it as much as I did enjoy writing it. Feel free to [reach out
+    to me] on twitter. My DMs are open.
 
 ### Further Reading
 
@@ -828,34 +827,40 @@ I've learned from Bitcoin.
 [*Reflections on Trusting Trust*]: https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf
 [*Cypherpunks*]: https://www.orbooks.com/catalog/cypherpunks/
 [*The Anatomy of Proof-of-Work*]: https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667
-[Hugo Nguyen]: hhttps://twitter.com/hugohano
 [*Blockchain Proof-of-Work Is a Decentralized Clock*]: https://grisha.org/blog/2018/01/23/explaining-proof-of-work/
 [*Unpacking Bitcoin's Social Contract*]: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
 [*Why Bitcoin Matters*]: https://hackernoon.com/why-bitcoin-matters-c8bf733b9fad
-[Aleksandar Svetski]: https://medium.com/@AleksandarSvetski
 [*Guess My Bitcoin Private Key*]: https://medium.com/@kerbleski/a-dance-with-infinity-980bd8e9a781
-[Michael Kerbleski]: https://medium.com/@kerbleski
-
 
 [I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
 [II]: {% post_url /bitcoin/2019-01-11-economic-teachings-of-bitcoin %}
 [III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
+[energy]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
 
 [Arjun Balaji]: https://twitter.com/arjunblj
-[the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
 [Saifedean Ammous]: https://twitter.com/saifedean
 [Dhruv Bansal]: https://twitter.com/dhruvbansal
 [Matt Odell]: https://twitter.com/matt_odell
 [Matt]: https://twitter.com/matt_odell
 [Michael Goldstein]: https://twitter.com/bitstein
 [Pierre Rochard]: https://twitter.com/pierre_rochard
-[Nakamoto Institute]: http://nakamotoinstitute.org
+[Hugo Nguyen]: hhttps://twitter.com/hugohano
 [Jannik]: https://twitter.com/jnnksbrt
 [Camilo]: https://twitter.com/CamiloJdL
 [Michael]: https://twitter.com/michael_rogger
 [Dan Held]: https://twitter.com/danheld
 [Vijay Boyapati]: https://twitter.com/real_vijay
 [Hasu]: https://twitter.com/hasufl
+[Brandon]: https://twitter.com/bquittem
+[Andreas M. Antonopoulos]: https://twitter.com/aantonop
+[Francis Pouliot]: https://twitter.com/francispouliot_
+[Aleksandar Svetski]:https://twitter.com/AleksSvetski
+[Michael Kerbleski]: https://twitter.com/kerbleski
+
+[Nakamoto Institute]: http://nakamotoinstitute.org
+[the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
+
+[trojan-paper]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.720.9288&rep=rep1&type=pdf
 
 [thick layer of ice]: https://en.wikipedia.org/wiki/Last_Glacial_Maximum
 [xkcd \#1125]: https://xkcd.com/1225/
@@ -868,7 +873,7 @@ I've learned from Bitcoin.
 [flip bits perfectly]: https://en.wikipedia.org/wiki/Landauer%27s_principle#Equation
 [Dyson sphere]: https://en.wikipedia.org/wiki/Dyson_sphere
 [2]: https://books.google.com/books?id=Ok0nDwAAQBAJ&pg=PT316&dq=%22These+numbers+have+nothing+to+do+with+the+technology+of+the+devices;%22&hl=en&sa=X&ved=0ahUKEwjXttWl8YLhAhUphOAKHZZOCcsQ6AEIKjAA#v=onepage&q&f=false
-[\$5 wrench attack]: https://xkcd.com/538/
+[wrench attack]: https://xkcd.com/538/
 [call to cryptographic arms]: https://cryptome.org/2012/12/assange-crypto-arms.htm
 [P actually equals NP]: https://en.wikipedia.org/wiki/P_versus_NP_problem#P_=_NP
 [specific problems]: https://en.wikipedia.org/wiki/Discrete_logarithm#Cryptography
@@ -881,7 +886,6 @@ I've learned from Bitcoin.
 [*Reflections on Trusting Trust*]: https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf
 [Carl Sagan]: https://en.wikipedia.org/wiki/Cosmos_%28Carl_Sagan_book%29
 [found a way]: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Stealthy+Dopant-Level+Hardware+Trojans&btnG=
-[3]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.720.9288&rep=rep1&type=pdf
 [secp256k1]: https://en.bitcoin.it/wiki/Secp256k1
 [has already happened]: https://en.wikipedia.org/wiki/Dual_EC_DRBG
 [backdoors]: https://en.wikipedia.org/wiki/Elliptic-curve_cryptography#Backdoors
@@ -891,7 +895,6 @@ I've learned from Bitcoin.
 [pull-request]: https://github.com/bitcoin/bitcoin/pull/15277
 [flip a coin]: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc#private-keys
 [Glacier]: https://glacierprotocol.org/
-[shift my perspective on Bitcoin's energy consumption]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
 [points out]: https://grisha.org/blog/2018/01/23/explaining-proof-of-work/
 [pointed out]: http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A9493
 [4]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
@@ -933,17 +936,6 @@ I've learned from Bitcoin.
 [Jameson Lopp]: https://twitter.com/lopp/status/1077200836072296449
 [*The Internet of Money*]: https://theinternetofmoney.info/
 [Giannina Braschi]: https://en.wikipedia.org/wiki/Braschi%27s_Empire_of_Dreams
-[7]: https://medium.com/@arjunblj
-[the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
-[Andreas M. Antonopoulos]: https://medium.com/@aantonop
 [educational material]: https://antonopoulos.com/
-[Marty]: https://medium.com/@martysbent
-[Matt]: https://twitter.com/matt_odell
-[Francis Pouliot]: https://medium.com/@francispouliot
 [timechain]: https://twitter.com/francispouliot_/status/1106028072799744002
-[Brandon]: https://medium.com/@BrandonQuittem
-[Camilo]: https://twitter.com/CamiloJdL
-[Daniel]: https://twitter.com/dnlggr
-[Jannik]: https://twitter.com/jnnksbrt
-[Raphael]: https://twitter.com/dinemuatta
-[me on twitter]: https://twitter.com/dergigi
+[reach out to me]: https://twitter.com/dergigi
