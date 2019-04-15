@@ -25,14 +25,16 @@ inherent personal bias of answering a question like this.
 I tried to group the teachings of Bitcoin by topics, resulting in three
 parts:
 
-* I: Philosophical Teachings of Bitcoin
-* II: Economic Teachings of Bitcoin
-* III: Technological Teachings of Bitcoin
+1. I: Philosophical Teachings of Bitcoin
+2. II: Economic Teachings of Bitcoin
+3. III: Technological Teachings of Bitcoin
 
 As hinted above, attempting to answer this question fully is a fool's
 errand, thus my answers will always be incomplete. I would like to
 lessen this shortcoming by inviting you, dear reader, to share your own
 answers to [this question]:
+
+{% include image.html name="tweet.png" %}
 
 > What have you learned from Bitcoin?
 > <cite>Arjun Balaji</cite>
@@ -42,6 +44,8 @@ to a different world. A world much stranger than I would have ever
 imagined it to be. A world which takes your assumptions and shatters
 them into a thousand tiny pieces, again and again. Stick around for long
 enough, and Bitcoin will completely change your worldview.
+
+{% include image.html name="bitcoin-orange-pill.jpg" %}
 
 > "After this, there is no turning back. You take the blue pill --- the
 > story ends, you wake up in your bed and believe whatever you want to
@@ -286,7 +290,7 @@ As long as there is a part of the world where speech is free as in
 *freedom*, Bitcoin is unstoppable.
 
 > "There is no point in any Bitcoin transaction that Bitcoin ceases to
-> be *text.* It is *all* *text*, all the time. \[...\]
+> be *text.* It is *all* *text*, all the time. [...]
 >
 > Bitcoin is **text.** Bitcoin is **speech.** It cannot be regulated in
 > a free country like the USA with guaranteed inalienable rights and a
@@ -375,7 +379,7 @@ What have you learned from Bitcoin?
 [this question]: https://twitter.com/arjunblj/status/1050073234719293440
 [automated social contract]: https://medium.com/@hasufly/bitcoins-social-contract-1f8b05ee24a9
 [Marty Bent]: https://twitter.com/martybent
-[Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
+[--- Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
 [Ralph Merkle]: http://merkle.com/papers/DAOdemocracyDraft.pdf
 [changing people's diets]: https://motherboard.vice.com/en_us/article/ne74nw/inside-the-world-of-the-bitcoin-carnivores
 [Abundance]: https://www.diamandis.com/abundance
