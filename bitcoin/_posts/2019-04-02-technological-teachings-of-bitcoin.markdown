@@ -522,11 +522,7 @@ Conspiracy theories aside, Satoshi chose to identify himself to be a
 Japanese male, which is why I don't assume but respect his chosen gender
 and refer to him as *he*.
 
-
-
-
-
-["I am not Dorian Nakamoto."]
+{% include image.html name="nope.png" caption="I am not Dorian Nakamoto." %}
 
 Whatever his real identity might be, Satoshi was successful in hiding
 it. He set an encouraging example for everyone who wishes to remain
@@ -599,11 +595,7 @@ Thanks to this code, everyone can verify that this novel system actually
 works, and every 10 minutes or so Bitcoin proofs to the world that it is
 still living.
 
-
-
-
-
-Code excerpts from Bitcoin [version 0.1.0]
+{% include image.html name="bitcoin-v0.1-code.png" caption="Code excerpts from Bitcoin [version 0.1.0]" %}
 
 To make sure that his innovation transcends fantasy and becomes reality,
 Satoshi wrote code to implement his idea before he wrote the whitepaper.
@@ -639,11 +631,7 @@ landlines. Landlines, electricity, computers, the internet, smartphones;
 all follow exponential trends in price-performance and adoption. Bitcoin
 does too.
 
-
-
-
-
-Bitcoin is literally off the charts.
+{% include image.html name="tech-adoption.png" caption="Bitcoin is literally off the charts." %}
 
 Bitcoin has not one but [multiple network effects], all of which
 resulting in exponential growth patterns in their respective area:
@@ -655,11 +643,7 @@ more aspects than one. Granted, the technology has not reached maturity
 yet. It might be in its adolescence. But if the technology is
 exponential, the path from obscurity to ubiquity is short.
 
-
-
-
-
-Mobile phone, ca 1965 vs 2019.
+{% include image.html name="mobile-phone.png" caption="Mobile phone, ca 1965 vs 2019." %}
 
 In his 2003 [TED talk], Jeff Bezos chose to use electricity as a
 metaphor for the web's future. All three phenomena --- electricity, the
@@ -699,19 +683,7 @@ the internet and, by extension, his company. Whatever day this is for
 Bitcoin, the vast amounts of untapped potential are clear to all but the
 most casual observer.
 
-
-
-
-
-
-
-
-
-The internet, 1982 vs 2005. Source: cc-by Merit Network, Inc. and
-Barrett Lyon, Opte Project
-
-
-
+{% include image.html name="internet-evolution-black-dates.png" caption="The internet, 1982 vs 2005. Source: cc-by Merit Network, Inc. and Barrett Lyon, Opte Project" %}
 
 
 Bitcoin's first node went online in 2009 after Satoshi mined the
@@ -730,19 +702,7 @@ In April 2019, the network grew to more than 4000 nodes and around
 where loss of funds can and does occur. Yet the trend is clear:
 thousands of people are [reckless] and eager to use it.
 
-
-
-
-
-
-
-
-
-Lightning Network, January 2018 vs December 2018. Source: [Jameson Lopp]
-
-
-
-
+{% include image.html name="lnd-growth-lopp-black.png" caption="Lightning Network, January 2018 vs December 2018. Source: Jameson Lopp" %}
 
 To me, having lived through the meteoric rise of the web, the parallels
 between the internet and Bitcoin are obvious. Both are networks, both
@@ -773,15 +733,7 @@ it.
 Bitcoin taught me that understanding the past is essential to
 understanding its future. A future which is just beginning.
 
-
-
-
-
-
-
-
-
-
+---
 
 ### Conclusion
 
@@ -814,9 +766,9 @@ opt-in to use it.
 
 Bitcoin is growing exponentially, blurring the line between disciplines.
 It isn't clear where the realm of pure technology ends and where another
-realm begins. I tried to differentiate the [economic teachings of
-Bitcoin][1] from the [philosophical][here] and the technological ones,
-which turned out more difficult than expected.
+realm begins. I tried to differentiate the [economic teachings of Bitcoin][II]
+from the [philosophical][I] and the technological ones, which turned out
+more difficult than expected.
 
 Just like in biological systems, removing one part seems to affect the
 whole. Maybe the most important lesson is that Bitcoin should be
@@ -834,31 +786,77 @@ I've learned from Bitcoin.
 
 ### Acknowledgments
 
--   [Once more, thanks to [Arjun Balaji][7] for [the tweet] which gave
-    birth to this series.]
--   [Thanks to [Andreas M. Antonopoulos] for all the [educational
-    material] he has put out over the years.]
--   [Thanks to [Marty] and [Matt] for guiding me through the rabbit hole
-    and reminding us all to stay humble and stack sats.]
--   [Thanks to [Francis Pouliot] for sharing his excitement about
-    finding out about the [timechain].]
--   [Thanks to [Brandon], [Camilo], [Daniel], [Jannik], Michael, and
+-   Once more, thanks to [Arjun Balaji] for [the tweet] which gave
+    birth to this series.
+-   Thanks to [Andreas M. Antonopoulos] for all the [educational
+    material] he has put out over the years.
+-   Thanks to [Marty] and [Matt] for guiding me through the rabbit hole
+    and reminding us all to stay humble and stack sats.
+-   Thanks to [Francis Pouliot] for sharing his excitement about
+    finding out about the [timechain].
+-   Thanks to [Brandon], [Camilo], [Daniel], [Jannik], [Michael], and
     [Raphael] for providing feedback to early drafts of this
-    article]
--   [Thanks to the countless authors and content producers who
+    article
+-   Thanks to the countless authors and content producers who
     influenced my thinking on Bitcoin and the topics it touches. There
-    are simply too many to name.]
--   [And finally, thank *you* for reading this series. I hope you
+    are simply too many to name.
+-   And finally, thank *you* for reading this series. I hope you
     enjoyed it as much as I did enjoy writing it. Feel free to reach out
-    to [me on twitter]. My DMs are open.]
+    to [me on twitter]. My DMs are open.
 
 ### Further Reading
+
+-   [*Bitcoin: A Peer-to-Peer Electronic Cash System*] by Satoshi
+    Nakamoto
+-   [*Mastering Bitcoin*] by Andreas Antonopoulos
+-   [*The Internet of Money*] by Andreas Antonopoulos
+-   [*Inventing Bitcoin*] by Yan Pritzker
+-   [*Applied Cryptography*] by Bruce Schneier
+-   [*Reflections on Trusting Trust*] by Ken Thompson
+-   [*Cypherpunks*] by Julian Assange with Jacob Appelbaum
+-   [*The Anatomy of Proof-of-Work*] by [Hugo Nguyen]
+-   [*Blockchain Proof-of-Work Is a Decentralized Clock*] by Gregory Trubetskoy
+-   [*Unpacking Bitcoin's Social Contract*] by [Hasu]
+-   [*Why Bitcoin Matters*] by [Aleksandar Svetski]
+-   [*Guess My Bitcoin Private Key*] by [Michael Kerbleski]
+
+[*Bitcoin: A Peer-to-Peer Electronic Cash System*]: https://bitcoin.org/bitcoin.pdf
+[*Mastering Bitcoin*]: https://bitcoinbook.info/
+[*The Internet of Money*]: https://theinternetofmoney.info/
+[*Inventing Bitcoin*]: http://inventingbitcoin.com/
+[*Applied Cryptography*]: https://www.schneier.com/books/applied_cryptography/
+[*Reflections on Trusting Trust*]: https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf
+[*Cypherpunks*]: https://www.orbooks.com/catalog/cypherpunks/
+[*The Anatomy of Proof-of-Work*]: https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667
+[Hugo Nguyen]: hhttps://twitter.com/hugohano
+[*Blockchain Proof-of-Work Is a Decentralized Clock*]: https://grisha.org/blog/2018/01/23/explaining-proof-of-work/
+[*Unpacking Bitcoin's Social Contract*]: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
+[*Why Bitcoin Matters*]: https://hackernoon.com/why-bitcoin-matters-c8bf733b9fad
+[Aleksandar Svetski]: https://medium.com/@AleksandarSvetski
+[*Guess My Bitcoin Private Key*]: https://medium.com/@kerbleski/a-dance-with-infinity-980bd8e9a781
+[Michael Kerbleski]: https://medium.com/@kerbleski
+
 
 [I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
 [II]: {% post_url /bitcoin/2019-01-11-economic-teachings-of-bitcoin %}
 [III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
 
 [Arjun Balaji]: https://twitter.com/arjunblj
+[the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
+[Saifedean Ammous]: https://twitter.com/saifedean
+[Dhruv Bansal]: https://twitter.com/dhruvbansal
+[Matt Odell]: https://twitter.com/matt_odell
+[Matt]: https://twitter.com/matt_odell
+[Michael Goldstein]: https://twitter.com/bitstein
+[Pierre Rochard]: https://twitter.com/pierre_rochard
+[Nakamoto Institute]: http://nakamotoinstitute.org
+[Jannik]: https://twitter.com/jnnksbrt
+[Camilo]: https://twitter.com/CamiloJdL
+[Michael]: https://twitter.com/michael_rogger
+[Dan Held]: https://twitter.com/danheld
+[Vijay Boyapati]: https://twitter.com/real_vijay
+[Hasu]: https://twitter.com/hasufl
+
 [thick layer of ice]: https://en.wikipedia.org/wiki/Last_Glacial_Maximum
 [xkcd \#1125]: https://xkcd.com/1225/
 [SHA-256]: https://en.wikipedia.org/wiki/SHA-2
@@ -897,7 +895,6 @@ I've learned from Bitcoin.
 [points out]: https://grisha.org/blog/2018/01/23/explaining-proof-of-work/
 [pointed out]: http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A9493
 [4]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
-[Hasu]: https://medium.com/@hasufly
 [Unpacking Bitcoin's Social Contract]: https://uncommoncore.co/unpacking-bitcoins-social-contract/
 [Matthew 7:24--27]: https://en.wikipedia.org/wiki/Parable_of_the_Wise_and_the_Foolish_Builders
 [pay to script hash]: https://en.bitcoin.it/wiki/Pay_to_script_hash
