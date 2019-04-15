@@ -186,9 +186,10 @@ have saved over the course of their life will effectively vanish. The
 paper money in your wallet will still be there, of course. But it will
 be exactly that: worthless paper.
 
-Hyperinflation in the Weimar Republic (1921-1923)
 
-Money declines in value with so-called "mild*"* inflation as well. It
+{% include image.html name="children-playing-with-money.png" caption="Hyperinflation in the Weimar Republic (1921-1923)" %}
+
+Money declines in value with so-called "mild" inflation as well. It
 just happens slowly enough that most people don't notice the diminishing
 of their purchasing power. And once the printing presses are running,
 currency can be easily inflated, and what used to be mild inflation
@@ -406,11 +407,7 @@ good a certain type of fiat money is, is only correlated to the
 political and fiscal (in)stability of those who dream it into existence.
 Its value is imposed by decree, arbitrarily.
 
-
-
-
-
-fi·at /ˈfēˌät,ˈfēət/ --- "Let it be done"
+{% include image.html name="fiat-definition.png" caption="fi·at /ˈfēˌät,ˈfēət/ --- 'Let it be done'" %}
 
 Until recently, two types of money were used: **commodity money**, made
 out of precious *things*, and **representative money**, which simply
@@ -423,11 +420,7 @@ coin] found so far is made of a natural gold-and-silver mix and was made
 more than 2700 years ago. If something is new in Bitcoin, the concept of
 a coin is not it.
 
-
-
-
-
-Lydian electrum coin
+{% include image.html name="lydian-coin-stater.png" caption="Lydian electrum coin" %}
 
 Turns out that hoarding coins, or hodling, to use today's parlance, is
 almost as old as coins. The earliest coin hodler was someone who put
@@ -453,9 +446,7 @@ of these masters. He is attributed with adding the small stripes at the
 side of coins which are still present today. Gone were the days of easy
 coin shaving.
 
-
-
-
+{% include image.html name="clipped-coins.png" %}
 
 Even with these methods of [coin debasement] kept in check, coins still
 suffer from other issues. They are bulky and not very convenient to
@@ -472,12 +463,7 @@ because Joachimsthal was *the* valley for silver coin production, people
 simply referred to these silver coins as *Thaler.* Thaler (German)
 morphed into daalders (Dutch), and finally dollars (English).
 
-
-
-
-
-The original "dollar". Saint Joachim is pictured with his robe and
-wizard hat. Picture cc-by-sa [Berlin-George]
+{% include image.html name="joachimsthaler.png" caption="The original 'dollar'. Saint Joachim is pictured with his robe and wizard hat. Picture cc-by-sa [Berlin-George]"%}
 
 The introduction of representative money heralded the downfall of hard
 money. Gold certificates were introduced in 1863, and about fifteen
@@ -488,13 +474,7 @@ It took about 50 years from the introduction of the first [silver
 certificates] until these pieces of paper morphed into something that we
 would today recognize as one U.S. dollar.
 
-
-
-
-
-A 1928 U.S. silver dollar. "Payable to the bearer on demand." Picture
-credit to the National Numismatic Collection at the Smithsonian
-Institution
+{% include image.html name="us-silver-dollar-note-smaller.png" caption="A 1928 U.S. silver dollar. 'Payable to the bearer on demand.' Picture credit to the National Numismatic Collection at the Smithsonian Institution" %}
 
 Note that the 1928 U.S. silver dollar above still goes by the name of
 *silver certificate*, indicating that this is indeed simply a document
@@ -520,12 +500,7 @@ the writing from top to bottom:
 > United States of America one hundred dollars in gold coin payable to
 > the bearer on demand."
 
-
-
-
-
-Picture credit to National Numismatic Collection, National Museum of
-American History.
+{% include image.html name="us-gold-cert-100-smaller.png" caption="Picture credit to National Numismatic Collection, National Museum of American History." %}
 
 In 1963, the words "PAYABLE TO THE BEARER ON DEMAND" were removed from
 all newly issued notes. Five years later, the redemption of paper notes
@@ -543,12 +518,7 @@ an army and operating jails says it is worth something. As can be
 clearly read on every dollar note in circulation today, "THIS NOTE IS
 LEGAL TENDER". In other words: It is valuable because the note says so.
 
-
-
-
-
-A 2004 series U.S. twenty dollar note used today. "THIS NOTE IS
-LEGAL TENDER"
+{% include image.html name="us-dollar-2004.jpg" caption="A 2004 series U.S. twenty dollar note used today. 'THIS NOTE IS LEGAL TENDER'" %}
 
 By the way, there is another interesting lesson on today's bank notes,
 hidden in plain sight. The second line reads that this is legal tender
@@ -629,9 +599,7 @@ don't have. Without a single Abracadabra, banks magically transform
 \$100 into one thousand dollars or more. Turns out 10x is easy. It only
 takes a couple of lending rounds.
 
-
-
-
+{% include image.html name="money-multiplier.png" %}
 
 Don't get me wrong: There is nothing wrong with lending. There is
 nothing wrong with interest. There isn't even anything wrong with good
@@ -692,7 +660,7 @@ Bitcoin does away with the temptation to print money in an ingenious
 way. Satoshi was aware of our greed and fallibility --- this is why he
 chose something more reliable than human restraint: mathematics.
 
-![Bitcoin's "supply formula"]
+{% include image.html name="supply-formula-white.png" caption="Bitcoin's supply formula" %}
 
 While this formula is useful to describe Bitcoin's supply, it is
 actually nowhere to be found in the code. Issuance of new bitcoin is
@@ -703,9 +671,7 @@ be best seen by looking at the change in block reward, the reward paid
 out to whoever finds a valid block, which roughly happens every 10
 minutes.
 
-
-
-
+{% include image.html name="you-are-here.png" %}
 
 Formulas, logarithmic functions and exponentials are not exactly
 intuitive to understand. The concept of *soundness* might be easier to
@@ -782,7 +748,7 @@ stock-to-flow ratio will be. Spoiler alert: it will be high.
 
 How high? Well, it turns out that Bitcoin will get infinitely hard.
 
-
+{% include image.html name="stock-to-flow-white-cc-by-sources.png" caption="Visualization of stock and flow for USD, gold, and Bitcoin" %}
 
 
 
@@ -797,11 +763,7 @@ somewhere around the year 2140, effectively stopping the production of
 bitcoin. This is a long game. If you are reading this, you are still
 early.
 
-
-
-
-
-Rising stock-to-flow ratio of bitcoin as compared to gold
+{% include image.html name="soundness-over-time.png" caption="Rising stock-to-flow ratio of bitcoin as compared to gold" %}
 
 As bitcoin approaches infinite stock to flow ratio it will be the
 soundest money in existence. Infinite soundness is hard to beat.
