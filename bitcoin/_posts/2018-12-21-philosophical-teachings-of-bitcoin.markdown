@@ -36,22 +36,21 @@ answers to [this question]:
 
 {% include image.html name="tweet.png" %}
 
-> What have you learned from Bitcoin?
-> <cite>Arjun Balaji</cite>
-
 Bitcoin is indeed a game disguised. It is akin to a trapdoor, a gateway
 to a different world. A world much stranger than I would have ever
 imagined it to be. A world which takes your assumptions and shatters
 them into a thousand tiny pieces, again and again. Stick around for long
 enough, and Bitcoin will completely change your worldview.
 
-{% include image.html name="bitcoin-orange-pill.jpg" %}
-
 > "After this, there is no turning back. You take the blue pill --- the
 > story ends, you wake up in your bed and believe whatever you want to
 > believe. You take the red pill --- you stay in Wonderland, and I show
 > you how deep the rabbit hole goes."
 > <cite>Morpheus</cite>
+
+{% include image.html name="bitcoin-orange-pill.jpg" %}
+
+---
 
 ### Lesson 1: Immutability and change
 
@@ -328,6 +327,8 @@ people have already built the second layer and are working on the third.
 Bitcoin taught me that I know very little about almost anything. It
 taught me that this rabbit hole is bottomless.
 
+---
+
 ### Conclusion
 
 Bitcoin is a child of the internet. Even though it requires computers to
@@ -354,32 +355,45 @@ What have you learned from Bitcoin?
 
 ### Further Reading
 
+-   [The Bitcoin Standard: The Decentralized Alternative to Central Banking][book1]
+    by Saifedean Ammous
+-   [Abundance: The Future Is Better Than You Think][book2] by Peter Diamandis
+-   [The Mind’s I][book3] by Daniel Dennett and Douglas Hofstadter
+-   [Money, blockchains, and social scalability][article1] by Nick Szabo
+-   [Bitcoin’s Existential Crisis, originally published][article2] as What is it like to be a Bitcoin? by Nic Carter
+-   [Unpacking Bitcoin’s Social Contract: A framework for skeptics][article3] by Hasu
+-   [Why America Can’t Regulate Bitcoin][article4] by Beautyon
+-   [Why Bitcoin is different][article5] by Jimmy Song
+-   Peter Van Valkenburg on [Preserving the Freedom to Innovate with Public Blockchains][podcast1] hosted by Peter McCormack
+
 ### Acknowledgments
 
--   [Thanks to [Arjun Balaji] for [the tweet] which motivated me to
-    write this.]
--   [Thanks to [Marty Bent][1] for providing endless food for thought
+-   Thanks to [Arjun Balaji] for [the tweet] which motivated me to
+    write this.
+-   Thanks to [Marty Bent][1] for providing endless food for thought
     and entertainment. If you are not subscribed to [Marty's Ƀent] and
-    [Tales From The Crypt], you are missing out.]
--   [Thanks to [Michael Goldstein] and [Pierre Rochard] for curating and
+    [Tales From The Crypt], you are missing out.
+-   Thanks to [Michael Goldstein] and [Pierre Rochard] for curating and
     providing the greatest Bitcoin literature via the [Nakamoto
     Institute] and the [Noded Podcast] which influenced my philosophical
-    views on Bitcoin substantially.]
--   [Thanks to [Peter McCormack] for his [honest tweets] and the [What
+    views on Bitcoin substantially.
+-   Thanks to [Peter McCormack] for his [honest tweets] and the [What
     Bitcoin Did] podcast, which keeps providing great insights from many
-    areas of the space.]
--   [Thanks to Jannik for providing feedback to early drafts of this
-    article.]
--   [And finally, thanks to all the bitcoin maximalists, shitcoin
+    areas of the space.
+-   Thanks to Jannik for providing feedback to early drafts of this
+    article.
+-   And finally, thanks to all the bitcoin maximalists, shitcoin
     minimalists, shills, bots, and shitposters which reside in the
-    beautiful garden that is crypto twitter.]
+    beautiful garden that is crypto twitter.
 
 #### Translations
+
+-   [Spanish translation] by [@CamiloJdL][camilo]
 
 [this question]: https://twitter.com/arjunblj/status/1050073234719293440
 [automated social contract]: https://medium.com/@hasufly/bitcoins-social-contract-1f8b05ee24a9
 [Marty Bent]: https://twitter.com/martybent
-[--- Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
+[Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
 [Ralph Merkle]: http://merkle.com/papers/DAOdemocracyDraft.pdf
 [changing people's diets]: https://motherboard.vice.com/en_us/article/ne74nw/inside-the-world-of-the-bitcoin-carnivores
 [Abundance]: https://www.diamandis.com/abundance
@@ -392,7 +406,7 @@ What have you learned from Bitcoin?
 [trolley problem]: https://en.wikipedia.org/wiki/Trolley_problem
 [Daniel Dennett]: https://www.lehigh.edu/~mhb0/Dennett-WhereAmI.pdf
 [Peter Van Valkenburgh]: https://www.whatbitcoindid.com/podcast/coin-centers-peter-van-valkenburg-on-preserving-the-freedom-to-innovate-with-public-blockchains
-[a magic spell]: https://medium.com/@dergigi/the-magic-dust-of-cryptography-c8ecd79ae13a
+[a magic spell]: {% post_url /bitcoin/2018-08-17-the-magic-dust-of-cryptography %}  
 [Crypto Wars]: https://en.wikipedia.org/wiki/Crypto_Wars
 [illegal numbers]: https://en.wikipedia.org/wiki/Illegal_number
 [illegal primes]: https://en.wikipedia.org/wiki/Illegal_prime
@@ -410,3 +424,14 @@ What have you learned from Bitcoin?
 [Peter McCormack]: https://medium.com/@whatbitcoindid
 [honest tweets]: https://twitter.com/PeterMcCormack/status/1073196778705559553
 [What Bitcoin Did]: https://www.whatbitcoindid.com/podcast
+[book1]: http://amzn.to/2L95bJW
+[book2]: https://www.diamandis.com/abundance
+[book3]: https://en.wikipedia.org/wiki/The_Mind%27s_I
+[article1]: http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html
+[article2]: https://medium.com/s/story/what-is-it-like-to-be-a-bitcoin-56109f3e6753
+[article3]: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
+[article4]: https://hackernoon.com/why-america-cant-regulate-bitcoin-8c77cee8d794
+[article5]: https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947
+[podcast1]: https://www.whatbitcoindid.com/podcast/coin-centers-peter-van-valkenburg-on-preserving-the-freedom-to-innovate-with-public-blockchains
+[Spanish translation]: https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9
+[camilo]: https://twitter.com/CamiloJdL
