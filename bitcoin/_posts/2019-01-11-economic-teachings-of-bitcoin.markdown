@@ -16,17 +16,15 @@ Money doesn’t grow on trees. To believe that it does is foolish, and our paren
 
 Bitcoin taught me more about money than I ever thought I would need to know. Through it, I was forced to explore the history of money, banking, various schools of economic thought, and many other things. The quest to understand Bitcoin lead me down a plethora of paths, some of which I try to explore in this series. This is the second of three parts:
 
-I: [Philosophical Teachings of Bitcoin]
-II: Economic Teachings of Bitcoin
-III: [Technological Teachings of Bitcoin]
+  - I: [Philosophical Teachings of Bitcoin][I]
+  - II: [Economic Teachings of Bitcoin][II]
+  - III: [Technological Teachings of Bitcoin][III]
 
 In Part I of this series, some of the philosophical questions Bitcoin touches on were discussed. Part II will take a closer look at money and economics. Again, I will only be able to scratch the surface. Bitcoin is not only ambitious, but also broad and deep in scope, making it impossible to cover all relevant topics in a single essay, article, or book. I am starting to doubt if it is even possible at all.
 
 Bitcoin is a child of many disciplines. Being a new form of money, learning about economics is paramount in understanding it. Dealing with the nature of human action and the interactions of economic agents, economics is probably one of the largest and fuzziest pieces of the Bitcoin puzzle.
 
-IMAGE
-[Blind monks] examining Bitcoin
-
+{% include image.html name="blind-monks.jpg" caption="Blind monks examining Bitcoin" %}
 
 Like the first part, this essay is an exploration of the various things I have learned from Bitcoin. And just like the first part, it is a personal reflection of my journey down the rabbit hole. Having no background in economics, I am definitely out of my comfort zone and aware that any understanding I might have is incomplete. Like blind monks examining an elephant, everyone who approaches this novel technology does so from a different angle and will come to different conclusions. Blindfolded as I am, I will try to outline what I have learned, even at the risk of making a fool out of myself. After all, I am still trying to answer [the question]:
 
@@ -72,7 +70,7 @@ reassurance in realizing that I was in good company.
 > <cite>[bitcoindunny]</cite>
 
 These are just two of the [many confessions] all over twitter. Bitcoin,
-as was explored in [part one], is a living thing. Mises argued that
+as was explored in [part one][I], is a living thing. Mises argued that
 economics also is a living thing. And as we all know from personal
 experience, living things are inherently difficult to understand.
 
@@ -832,12 +830,74 @@ produce more of.
 
 Bitcoin taught me that me that sound money is essential.
 
+### Conclusion
 
+As we leave the “blockchain not bitcoin” days behind us, most people start
+to realize that there is not a single invention which encapsulates the
+genius of Bitcoin. It is the combination of multiple, previously unrelated
+pieces, glued together by game theoretical incentives, which make up the
+revolution that is Bitcoin.
+
+For me, the economic teachings of Bitcoin are as fascinating as the
+philosophical ones examined in [part one][I]. Being a technophile, I can’t wait
+to tell you what Bitcoin taught me about technology in the third and final
+part of this series.
+
+As mentioned before, I think that any answer to the question “What have you
+learned from Bitcoin?” will always be incomplete. The symbiosis of the
+two living systems examined here — Bitcoin and economics — is too intertwined
+and evolving too fast to ever be fully understood by a single person.
+
+> “I don’t believe we shall ever have a good money again before we take
+the thing out of the hands of government, that is, we can’t take it violently
+out of the hands of government, all we can do is by some sly roundabout way
+introduce something that they can’t stop.”
+
+Learning these lessons enabled me to finally understand what Hayek meant by
+the above. I believe that Bitcoin is the sly, roundabout way to re-introduce
+sound money to the world. Thanks to the economic teachings of Bitcoin I
+learned what good money is and that having it is possible.
+
+What have you learned from Bitcoin?
+
+### Acknowledgments
+
+  - Again, thanks to Arjun Balaji for the tweet which gave birth to this series.
+  - Thanks to Saifedean Ammous for his convictions, savage tweets, and writing The Bitcoin Standard
+  - Thanks to Dhruv Bansal for taking the time to discuss some of these ideas with me.
+  - Thanks to Matt Odell for his candor and also for taking the time to discuss some of these ideas with me, even if he doesn’t remember all of it.
+  - Thanks to Michael Goldstein and Pierre Rochard for curating and providing relevant literature via the Nakamoto Institute
+  - Thanks to Jannik, Camilo, and Matt for providing feedback to early drafts of this article
+
+### Further Reading
+
+There exists an almost endless list of books and essays on the topics discussed above and economic thought in general. The books and articles listed below are but a small selection which were particularly influential in my thinking. I am grateful for all the people who shared their insights, past and present.
+
+  - The Bitcoin Standard: The Decentralized Alternative to Central Banking by Saifedean Ammous
+  - Economics in One Lesson by Henry Hazlitt
+  - Human Action by Ludwig von Mises
+  - The Ethics of Money Production by Jörg Guido Hülsmann
+  - The Denationalization of Money by Friedrich Hayek
+  - The Machinery of Freedom by David D. Friedman
+  - The Case Against The Fed by Murray N. Rothbard
+  - End the Fed by Ron Paul
+  - Shelling Out: The Origins of Money by Nick Szabo
+  - The Bitcoin Halving and Monetary Competition by Saifedean Ammous
+  - The Bullish Case For Bitcoin by Vijay Boyapati
+  - Bitcoin’s distribution was fair by Dan Held
+
+
+[I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
+[II]: {% post_url /bitcoin/2019-01-11-economic-teachings-of-bitcoin %}
+[III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
+[Blind monks]: https://en.wikipedia.org/wiki/Blind_men_and_an_elephant
+[the question]: https://twitter.com/arjunblj/status/1050073234719293440
+[here]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
 [so much debt]: http://www.usdebtclock.org/
 [aarontaycc]: https://twitter.com/aarontaycc/status/1072880815661436928?s=19
-[ bitcoindunny]: https://twitter.com/BitcoinDunny/status/935330541263519745
+[bitcoindunny]: https://twitter.com/BitcoinDunny/status/935330541263519745
 [many confessions]: https://twitter.com/search?q=bitcoin%20AND%20I%20AND%20%28learned%20OR%20taught%29&src=typd
-[part one]: https://medium.com/@dergigi/philosophical-teachings-of-bitcoin-97f4b96f455f
+[I]: https://medium.com/@dergigi/philosophical-teachings-of-bitcoin-97f4b96f455f
 [Ludwig von Mises]: https://mises.org/library/human-action-0/html/p/607
 [Robert Kiyosaki]: https://www.youtube.com/watch?v=vkCXytxwH-M
 [real wizardry]: https://external-preview.redd.it/8d03MWWOf2HIyKrT8ThBGO4WFv-u25JaYqhbEO9b1Sk.jpg?width=683&auto=webp&s=dc5922d84717c6a94527bafc0189fd4ca02a24bb

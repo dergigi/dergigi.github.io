@@ -25,9 +25,9 @@ inherent personal bias of answering a question like this.
 I tried to group the teachings of Bitcoin by topics, resulting in three
 parts:
 
-1. I: Philosophical Teachings of Bitcoin
-2. II: Economic Teachings of Bitcoin
-3. III: Technological Teachings of Bitcoin
+  - I: [Philosophical Teachings of Bitcoin][I]
+  - II: [Economic Teachings of Bitcoin][II]
+  - III: [Technological Teachings of Bitcoin][III]
 
 As hinted above, attempting to answer this question fully is a fool's
 errand, thus my answers will always be incomplete. I would like to
@@ -390,6 +390,9 @@ What have you learned from Bitcoin?
 
 -   [Spanish translation] by [@CamiloJdL][camilo]
 
+[I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
+[II]: {% post_url /bitcoin/2019-01-11-economic-teachings-of-bitcoin %}
+[III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
 [this question]: https://twitter.com/arjunblj/status/1050073234719293440
 [automated social contract]: https://medium.com/@hasufly/bitcoins-social-contract-1f8b05ee24a9
 [Marty Bent]: https://twitter.com/martybent
