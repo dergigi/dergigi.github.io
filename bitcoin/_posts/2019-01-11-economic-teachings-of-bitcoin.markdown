@@ -12,27 +12,55 @@ tags:
  - Writing
 ---
 
-Money doesn’t grow on trees. To believe that it does is foolish, and our parents make sure that we know about that by repeating this saying like a mantra. We are encouraged to use money wisely, to not spend it frivolously, and to save it in good times to help us through the bad. Money, after all, does not grow on trees.
+Money doesn’t grow on trees. To believe that it does is foolish, and our
+parents make sure that we know about that by repeating this saying like a
+mantra. We are encouraged to use money wisely, to not spend it frivolously,
+and to save it in good times to help us through the bad. Money, after all,
+does not grow on trees.
 
-Bitcoin taught me more about money than I ever thought I would need to know. Through it, I was forced to explore the history of money, banking, various schools of economic thought, and many other things. The quest to understand Bitcoin lead me down a plethora of paths, some of which I try to explore in this series. This is the second of three parts:
+Bitcoin taught me more about money than I ever thought I would need to know.
+Through it, I was forced to explore the history of money, banking, various
+schools of economic thought, and many other things. The quest to understand
+Bitcoin lead me down a plethora of paths, some of which I try to explore in
+this series. This is the second of three parts:
 
   - I: [Philosophical Teachings of Bitcoin][I]
   - II: [Economic Teachings of Bitcoin][II]
   - III: [Technological Teachings of Bitcoin][III]
 
-In Part I of this series, some of the philosophical questions Bitcoin touches on were discussed. Part II will take a closer look at money and economics. Again, I will only be able to scratch the surface. Bitcoin is not only ambitious, but also broad and deep in scope, making it impossible to cover all relevant topics in a single essay, article, or book. I am starting to doubt if it is even possible at all.
+In Part I of this series, some of the philosophical questions Bitcoin touches
+on were discussed. Part II will take a closer look at money and economics.
+Again, I will only be able to scratch the surface. Bitcoin is not only
+ambitious, but also broad and deep in scope, making it impossible to cover
+all relevant topics in a single essay, article, or book. I am starting to
+doubt if it is even possible at all.
 
-Bitcoin is a child of many disciplines. Being a new form of money, learning about economics is paramount in understanding it. Dealing with the nature of human action and the interactions of economic agents, economics is probably one of the largest and fuzziest pieces of the Bitcoin puzzle.
+Bitcoin is a child of many disciplines. Being a new form of money, learning
+about economics is paramount in understanding it. Dealing with the nature of
+human action and the interactions of economic agents, economics is probably
+one of the largest and fuzziest pieces of the Bitcoin puzzle.
 
 {% include image.html name="blind-monks.jpg" caption="Blind monks examining Bitcoin" %}
 
-Like the first part, this essay is an exploration of the various things I have learned from Bitcoin. And just like the first part, it is a personal reflection of my journey down the rabbit hole. Having no background in economics, I am definitely out of my comfort zone and aware that any understanding I might have is incomplete. Like blind monks examining an elephant, everyone who approaches this novel technology does so from a different angle and will come to different conclusions. Blindfolded as I am, I will try to outline what I have learned, even at the risk of making a fool out of myself. After all, I am still trying to answer [the question]:
+Like the first part, this essay is an exploration of the various things I have
+learned from Bitcoin. And just like the first part, it is a personal reflection
+of my journey down the rabbit hole. Having no background in economics, I am
+definitely out of my comfort zone and aware that any understanding I might
+have is incomplete. Like blind monks examining an elephant, everyone who
+approaches this novel technology does so from a different angle and will come
+to different conclusions. Blindfolded as I am, I will try to outline what I
+have learned, even at the risk of making a fool out of myself. After all, I am
+still trying to answer [the question]:
 
 “What have you learned from Bitcoin?”
 
-After seven lessons examined through the lens of philosophy, let’s use the lens of economics to look at seven more. I hope that you will find the world of Bitcoin as educational, fascinating and entertaining as I did and still do. In any case, hop on and enjoy the ride. Economy class is all I can offer this time. Final destination: sound money.
+After seven lessons examined through the lens of philosophy, let’s use the
+lens of economics to look at seven more. I hope that you will find the world
+of Bitcoin as educational, fascinating and entertaining as I did and still do.
+In any case, hop on and enjoy the ride. Economy class is all I can offer this
+time. Final destination: sound money.
 
-Find lessons 1-7 [here].
+Find lessons 1-7 [here][I].
 
 ---
 
@@ -98,15 +126,14 @@ the workings of money and debt. Then I wonder how many layers of
 aluminum make an effective tinfoil hat. Probably three.
 
 > "Those crashes, these bailouts, are not accidents. And neither is it
-> an accident that there is no financial education in school. \[...\]
+> an accident that there is no financial education in school. [...]
 > It's premeditated. Just as prior to the Civil War it was illegal to
 > educate a slave, we are not allowed to learn about money in school."
-
-> --- [Robert Kiyosaki]
+> <cite>[Robert Kiyosaki]</cite>
 
 Like in The Wizard of Oz, we are told to pay no attention to the man
 behind the curtain. Unlike in The Wizard of Oz, we now have [real
-wizardry][]: a censorship-resistant, open, borderless network of
+wizardry]: a censorship-resistant, open, borderless network of
 value-transfer. There is no curtain, and the magic is [visible to
 anyone].
 
@@ -146,8 +173,7 @@ who holds the currency which is being inflated.
 > consequence of higher wages and prices --- may look like the creation
 > of more demand. But in terms of the actual production and exchange of
 > real things it is not."
-
-> --- [Henry Hazlitt]
+> <cite>[Henry Hazlitt]</cite>
 
 The destructive force of inflation becomes obvious as soon as a little
 inflation turns into *a lot*. If money [hyperinflates], things get ugly
@@ -159,10 +185,6 @@ Another consequence of hyperinflation is that all the money which people
 have saved over the course of their life will effectively vanish. The
 paper money in your wallet will still be there, of course. But it will
 be exactly that: worthless paper.
-
-
-
-
 
 Hyperinflation in the Weimar Republic (1921-1923)
 
@@ -176,8 +198,7 @@ leads to outright inflation.
 
 > ""Mild" steady inflation cannot help --- it can lead only to outright
 > inflation."
-
-> --- [Friedrich Hayek]
+> <cite>[Friedrich Hayek]</cite>
 
 Inflation is particularly devious since it favors those who are closer
 to the printing presses. It takes time for the newly created money to
@@ -190,8 +211,7 @@ ends up paying the price.
 > \"I do not think it is an exaggeration to say history is largely a
 > history of inflation, and usually of inflations engineered by
 > governments for the gain of governments.\"
-
-> --- [Friedrich Hayek][1]
+> <cite>[Friedrich Hayek][1]</cite>
 
 So far, all government-controlled currencies have eventually been
 replaced or have collapsed completely. No matter how small the rate of
@@ -217,7 +237,7 @@ currencies. We will make them obsolete.
 
 > "History has shown that governments will inevitably succumb to the
 > temptation of inflating the money supply." \
-> ― [Saifedean Ammous]
+> <cite>[Saifedean Ammous]</cite>
 
 Why is Bitcoin different? In contrast to currencies mandated by the
 government, monetary goods which are not regulated by governments, but
@@ -257,8 +277,7 @@ rare, and not merely based on their necessity for our survival.
 > also --- that they are never to converse with anybody except you and
 > each other. For it is the rare, Euthydemus, that is precious, while
 > water is cheapest, though best, as Pindar said."
-
-> --- [Plato]
+> <cite>[Plato]</cite>
 
 This [paradox of value] shows something interesting about us humans: we
 seem to value things on a [subjective] basis, but do so with certain
@@ -305,8 +324,7 @@ of commercial history.
 > "In this sense, it's more typical of a precious metal. Instead of the
 > supply changing to keep the value the same, the supply is
 > predetermined and the value changes."
-
-> --- [Satoshi Nakamoto]
+> <cite>[Satoshi Nakamoto]</cite>
 
 Seashells, gold, silver, paper, bitcoin. In the end, **money is whatever
 people use as money**, no matter its shape and form, or lack thereof.
@@ -344,7 +362,7 @@ money with enormous power.
 > appear real as long as they last. That is the very core of the
 > Fed's power."
 
-> --- [Ron Paul]
+> <cite>[Ron Paul]</cite>
 
 Bitcoin peacefully removes this power, since it does away with money
 creation and it does so without the use of force.
@@ -572,18 +590,18 @@ five-year-old, the insanity of both will become apparent quickly.
 Godfrey Bloom, addressing the European Parliament during a [joint
 debate], said it way better than I ever could:
 
-> "\[...\] you do not really understand the concept of banking. All the
+> "[...] you do not really understand the concept of banking. All the
 > banks are broke. Bank Santander, Deutsche Bank, Royal Bank of
 > Scotland --- they're all broke! And why are they broke? It isn't an
 > act of God. It isn't some sort of tsunami. They're broke because we
 > have a system called 'fractional reserve banking' which means that
 > banks can lend money that they don't actually have! It's a criminal
-> scandal and it's been going on for too long. \[...\]
+> scandal and it's been going on for too long. [...]
 
 > We have counterfeiting --- sometimes called quantitative
 > easing --- but counterfeiting by any other name. The artificial
 > printing of money which, if any ordinary person did, they'd go to
-> prison for a very long time \[...\] and until we start sending
+> prison for a very long time [...] and until we start sending
 > bankers --- and I include central bankers and politicians --- to
 > prison for this outrage it will continue."
 
@@ -666,7 +684,7 @@ bitcoin.
 > objective and calculable criteria, is a necessary condition to a
 > meaningful just price of money."
 
-> --- [Fr. Bernard W. Dempsey, S.J.]
+> <cite>[Fr. Bernard W. Dempsey, S.J.]</cite>
 
 As a quick stroll through the graveyard of forgotten currencies has
 shown, money which can be printed will be printed. So far, no human in
@@ -721,7 +739,7 @@ effort: flipping a few bits in a bank computer is enough.
 > the Fed cannot go bankrupt. They can print any amount of money that
 > they might need for themselves at virtually zero cost."
 
-> --- [Jörg Guido Hülsmann]
+> <cite>[Jörg Guido Hülsmann]</cite>
 
 The principle outlined above can be expressed more generally as the
 ratio of "stock" to "flow". Simply put, the *stock* is how much of
@@ -892,7 +910,6 @@ There exists an almost endless list of books and essays on the topics discussed 
 [III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
 [Blind monks]: https://en.wikipedia.org/wiki/Blind_men_and_an_elephant
 [the question]: https://twitter.com/arjunblj/status/1050073234719293440
-[here]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
 [so much debt]: http://www.usdebtclock.org/
 [aarontaycc]: https://twitter.com/aarontaycc/status/1072880815661436928?s=19
 [bitcoindunny]: https://twitter.com/BitcoinDunny/status/935330541263519745
