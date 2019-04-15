@@ -45,8 +45,9 @@ evolving and improving every day. Whole books can be and have been
 written on small, specific parts of this cosmos. And just like in our
 own universe, the expansion seems to be accelerating.
 
-Find lessons 1--7 [here] and lessons 8--14 [here][1].
+Find lessons 1--7 [here][I] and lessons 8--14 [here][II].
 
+---
 
 ### Lesson 15: Strength in numbers
 
@@ -69,10 +70,10 @@ an increase by three orders of magnitude: 10⁶, 10⁹, 10¹². Thinking about
 seconds is not very useful, so let's translate this into something we
 can wrap our head around:
 
--   [10⁶: One million seconds was 1½ weeks ago.]{#6b6a}
--   [10⁹: One billion seconds was almost 32 years ago.]{#95b4}
+-   [10⁶: One million seconds was 1½ weeks ago.]
+-   [10⁹: One billion seconds was almost 32 years ago.]
 -   [10¹²: One trillion seconds ago Manhattan was covered under a [thick
-    layer of ice].]{#a2e9}
+    layer of ice].]
 
 
 
@@ -105,7 +106,7 @@ So, how strong is SHA-256, exactly?
 > to SHA1. It can last several decades unless there's some massive
 > breakthrough attack."
 
-> --- [Satoshi Nakamoto]
+> [Satoshi Nakamoto]
 
 Let's spell things out. 2²⁵⁶ equals the following number:
 
@@ -148,7 +149,7 @@ years, we would still only have a 25% chance to find a needle in a
 > strongly imply that brute-force attacks against 256-bit keys will be
 > infeasible until computers are built from something other than matter
 > and occupy something other than space."
-> --- [Bruce Schneier][2]
+> [Bruce Schneier][2]
 
 It is hard to overstate the profoundness of this. Strong cryptography
 inverts the power-balance of the physical world we are so used to.
@@ -169,7 +170,7 @@ a math problem."*
 
 > "It isn't obvious that the world had to work this way. But somehow the
 > universe smiles on encryption."
-> --- [Julian Assange][call to cryptographic arms]
+> [Julian Assange][call to cryptographic arms]
 
 Nobody yet knows for sure if the universe's smile is genuine or not. It
 is possible that our assumption of mathematical asymmetries is wrong and
@@ -180,7 +181,7 @@ exist, and the implications would most likely change the world beyond
 recognition.
 
 > "Vires in Numeris" = "Strength in Numbers"
-> --- [epii]
+> [epii]
 
 *Vires in numeris* is not only a catchy motto used by bitcoiners. The
 realization that there is an unfathomable strength to be found in
@@ -230,7 +231,7 @@ Bitcoin solves is the issue of *trust*.
 > "The root problem with conventional currency is all the trust that's
 > required to make it work. [...] What is needed is an electronic
 > payment system based on cryptographic proof instead of trust"
-> --- [Satoshi] [Nakamoto]
+> [Satoshi] [Nakamoto]
 
 Bitcoin solves the problem of trust by being completely decentralized,
 with no central server or trusted parties. Not even trusted *third*
@@ -250,8 +251,8 @@ both the introduction as well as the conclusion of the [Bitcoin
 whitepaper][Nakamoto].
 
 > "Conclusion: We have proposed a system for electronic transactions
-> without relying on trust." \
-> --- [Satoshi Nakamoto][Nakamoto]
+> without relying on trust." 
+> [Satoshi Nakamoto][Nakamoto]
 
 Note that "without relying on trust" is used in a very specific context
 here. We are talking about trusted third parties, i.e. other entities
@@ -279,8 +280,8 @@ hardware (assemblers, compilers, linkers, etc.) from scratch, without
 the aid of any external software or software-aided machinery.
 
 > "If you wish to make an apple pie from scratch, you must first invent
-> the universe."\
-> --- [Carl Sagan]
+> the universe."
+> [Carl Sagan]
 
 The Ken Thompson Hack is a particularly ingenious and hard-to-detect
 backdoor, so let's take a quick look at a hard-to-detect backdoor which
@@ -418,7 +419,7 @@ what is now known as Nakamoto consensus.
 
 > "The network timestamps transactions by hashing them into an ongoing
 > chain [which] serves as proof of the sequence of events witnessed"
-> --- [Satoshi Nakamoto][Nakamoto]
+> [Satoshi Nakamoto][Nakamoto]
 
 Without a consistent way to tell the time, there is no consistent way to
 tell before from after. Reliable ordering is impossible. As mentioned
@@ -463,7 +464,7 @@ a beast without heads.
 > because of all the companies that failed since the 1990's. I hope it's
 > obvious it was only the centrally controlled nature of those systems
 > that doomed them."
-> --- [Satoshi Nakamoto][pointed out]
+> [Satoshi Nakamoto][pointed out]
 
 One consequence of this radical decentralization is an inherent
 resistance to change. "Move fast and break things" does not and will
@@ -473,7 +474,7 @@ That's distributed consensus. That's the nature of Bitcoin.
 
 > "The nature of Bitcoin is such that once version 0.1 was released, the
 > core design was set in stone for the rest of its lifetime."
-> --- [Satoshi Nakamoto][4]
+> [Satoshi Nakamoto][4]
 
 This is one of the many paradoxical properties of Bitcoin. We all came
 to believe that anything which is software can be changed easily. But
@@ -493,7 +494,7 @@ environment.
 
 > "The rain came down, the floods came, and the winds blew, and beat on
 > that house; and it didn't fall, for it was founded on the rock."
-> --- [Matthew 7:24--27]
+> [Matthew 7:24--27]
 
 Arguably, in this parable of the wise and the foolish builders Bitcoin
 isn't the house. It is the rock. Unchangeable, unmoving, providing the
@@ -519,7 +520,7 @@ that it would be necessary to make wise decisions ideologically.
 > "Being open source means anyone can independently review the code. If
 > it was closed source, nobody could verify the security. I think it's
 > essential for a program of this nature to be open source."
-> --- [Satoshi Nakamoto][5]
+> [Satoshi Nakamoto][5]
 
 Openness is paramount to security and inherent in open source and the
 free software movement. As Satoshi pointed out, secure protocols and the
@@ -646,7 +647,7 @@ He also made sure [not to delay] any release forever. After all,
 
 > "I had to write all the code before I could convince myself that I
 > could solve every problem, then I wrote the paper."
-> --- [Satoshi Nakamoto][6]
+> [Satoshi Nakamoto][6]
 
 In today's world of endless promises and doubtful execution, an exercise
 in dedicated building was desperately needed. Be deliberate, convince
@@ -717,7 +718,7 @@ to the bitcoin natives of the future.
 
 > "The future is already here --- it's just not very evenly
 > distributed."
-> --- [William Gibson]
+> [William Gibson]
 
 In 1995, about 15% of American adults used the internet. Historical
 [data from the Pew Research Center] shows how the internet has woven
@@ -844,7 +845,7 @@ beautifully. The longer Bitcoin continues to work, the more people will
 opt-in to use it.
 
 > "It's true that things are beautiful when they work. Art is function."
-> --- [Giannina Braschi]
+> [Giannina Braschi]
 
 Bitcoin is growing exponentially, blurring the line between disciplines.
 It isn't clear where the realm of pure technology ends and where another
@@ -869,22 +870,22 @@ I've learned from Bitcoin.
 ### Acknowledgments
 
 -   [Once more, thanks to [Arjun Balaji][7] for [the tweet] which gave
-    birth to this series.]{#6d7e}
+    birth to this series.]
 -   [Thanks to [Andreas M. Antonopoulos] for all the [educational
-    material] he has put out over the years.]{#4493}
+    material] he has put out over the years.]
 -   [Thanks to [Marty] and [Matt] for guiding me through the rabbit hole
-    and reminding us all to stay humble and stack sats.]{#aa8f}
+    and reminding us all to stay humble and stack sats.]
 -   [Thanks to [Francis Pouliot] for sharing his excitement about
-    finding out about the [timechain].]{#6a20}
+    finding out about the [timechain].]
 -   [Thanks to [Brandon], [Camilo], [Daniel], [Jannik], Michael, and
     [Raphael] for providing feedback to early drafts of this
-    article]{#a2f0}
+    article]
 -   [Thanks to the countless authors and content producers who
     influenced my thinking on Bitcoin and the topics it touches. There
-    are simply too many to name.]{#ce76}
+    are simply too many to name.]
 -   [And finally, thank *you* for reading this series. I hope you
     enjoyed it as much as I did enjoy writing it. Feel free to reach out
-    to [me on twitter]. My DMs are open.]{#86cf}
+    to [me on twitter]. My DMs are open.]
 
 ### Further Reading
 
