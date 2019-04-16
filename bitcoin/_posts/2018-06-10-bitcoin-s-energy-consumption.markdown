@@ -36,7 +36,7 @@ small country.
 
 > "In comparison to modern distributed databases, blockchains are slow,
 > ponderous, unnecessarily redundant and overly paranoid."
-> <cite>[Dhruv Bansal]</cite>
+> <cite>[Dhruv Bansal]</cite>
 
 As [Nick Szabo] so succinctly put it: "Bitcoin offends the sensibilities
 of resource-conscious and performance-measure-maximizing engineers and
@@ -58,7 +58,7 @@ To understand why all these gigawatts are necessary for the Bitcoin
 network to function properly and securely, we will have to take a closer
 look at the nuances of mining.
 
-## Mining Blocks and Coins
+## Mining Blocks and Coins
 
 The name "mining" stems from the proposition that bitcoin has more in
 common with gold and other precious metals than paper money. Satoshi
@@ -67,7 +67,7 @@ made this clear in [one of his posts].
 > "In this sense, it's more typical of a precious metal. Instead of the
 > supply changing to keep the value the same, the supply is
 > predetermined and the value changes."
-> <cite>Satoshi Nakamoto</cite>
+> <cite>Satoshi Nakamoto</cite>
 
 Hence bitcoins are not printed, they are mined. Even though we talk
 about "mining bitcoins" all the time, keep in mind that it isn't
@@ -140,7 +140,7 @@ How thick will these cryptographic walls need to be? Only time will
 tell. If Bitcoin is able to survive coordinated attacks by multiple
 state-level attackers, the walls were thick enough.
 
-## The End of Mining New Bitcoins
+## The End of Mining New Bitcoins
 
 Bootstrapping a new network is difficult. It's like trying to convince
 everyone to buy a fax machine if you are the only guy in the world with
@@ -191,7 +191,7 @@ to estimate how much security is enough security, a case could be made
 that the Bitcoin network is currently "hypersecured" as a side-effect of
 this Gold Rush.
 
-{% include image.html name="controlled-supply.png" caption="Bitcoin's controlled supply and block reward over time." %}
+{% include image.html name="controlled-supply.png" caption="Bitcoin's controlled supply and block reward over time." %}
 
 We are still in the early phases of Bitcoin's block reward phase, as the
 above graph shows.
@@ -205,7 +205,7 @@ value of bitcoin and the willingness of people to pay transaction fees,
 this balance might be leaning more towards security or more towards
 conservative use of energy.
 
-## Modern Blocks of Marble
+## Modern Blocks of Marble
 
 Once you wrap your head around proof-of-work, it becomes more and more
 clear that the energy consumption of the Bitcoin network is not a bug,
@@ -223,8 +223,8 @@ great job explaining how proof-of-work links the abstract, digital world
 of bitcoin to our physical world:
 
 > "By attaching energy to a block, we give it "form", allowing it to
-> have real weight & consequences in the physical world."
-> <cite>Hugo Nguyen</cite>
+> have real weight & consequences in the physical world."
+> <cite>Hugo Nguyen</cite>
 
 Proof-of-work is essentially a mechanism to easily check the
 truthfulness of the statement "I worked really hard to create this
@@ -240,7 +240,7 @@ at the marble, and you have to do it properly and with care. One might
 argue that this is one of the reasons why great artworks are so
 valuable: a lot of thought, care and work was expended to create them.
 
-{% include image.html name="david-small.jpg" caption="Oldschool proof-of-work by Michelangelo. Photo by Jörg Bittner Unna" %}
+{% include image.html name="david-small.jpg" caption="Oldschool proof-of-work by Michelangelo. Photo by Jörg Bittner Unna" %}
 
 It is similarly unlikely to find valid blocks without actually doing the
 work. Like an ugly half-haphazardly chiseled statue, an invalid block
@@ -257,7 +257,7 @@ from "energy wasted" to "energy used for creating something valuable".
 Most people value beautiful marble statues. A rising number of people
 value a chain of valid blocks.
 
-## Security Through Purity
+## Security Through Purity
 
 Another feature disguised as a bug is the randomness of bitcoin's
 proof-of-work. A common suggestion for improvement is that we could use
@@ -274,7 +274,7 @@ a good idea, it actually [introduces a security risk].
 
 > The problem with doing something else --- something that other people
 > might consider useful --- is that that splits the reward. It means
-> that miners have two reasons for which they are mining.
+> that miners have two reasons for which they are mining.
 > <cite>[Andreas M. Antonopoulos]</cite>
 
 Splitting the reward can lead to a situation where "it's more worthwhile
@@ -338,7 +338,7 @@ economy. In the case of Bitcoin, this resource is energy.
 [dispute the numbers]: https://medium.com/cs-research/re-cost-of-mining-misconceptions-e3fcff1ce726
 [compare Bitcoin's energy usage]: https://drive.google.com/file/d/1TIma781rLFjr-dqeJmL2KN06OpoRkSsj/view
 [in the first place]: https://en.bitcoin.it/wiki/Genesis_block
-[Dhruv Bansal]: https://blog.unchained-capital.com/blockchain-spectrum-806847e1c575
+[Dhruv Bansal]: https://blog.unchained-capital.com/blockchain-spectrum-806847e1c575
 [Nick Szabo]: https://unenumerated.blogspot.co.at/2017/02/money-blockchains-and-social-scalability.html
 [recent paper]: https://www.cell.com/joule/fulltext/S2542-4351%2818%2930177-6
 [one of his posts]: http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A9562
@@ -348,7 +348,7 @@ economy. In the case of Bitcoin, this resource is energy.
 [after 64 halvings]: https://github.com/bitcoin/bitcoin/blob/7f4db9a7c3549a36e45d70fc3c159367aa1e99a4/src/validation.cpp#L1190
 [controlled supply]: https://en.bitcoin.it/wiki/Controlled_supply
 [Hugo Nguyen]: https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667
-[Jörg Bittner Unna]: https://commons.wikimedia.org/wiki/File:%27David%27_by_Michelangelo_JBU0001.JPG
+[Jörg Bittner Unna]: https://commons.wikimedia.org/wiki/File:%27David%27_by_Michelangelo_JBU0001.JPG
 [introduces a security risk]: https://youtu.be/ZDGliHwstM8?t=490
 [Andreas M. Antonopoulos]: https://antonopoulos.com/
 [proof-of-stake is probably not the answer]: https://medium.com/@hugonguyen/proof-of-stake-the-wrong-engineering-mindset-15e641ab65a2

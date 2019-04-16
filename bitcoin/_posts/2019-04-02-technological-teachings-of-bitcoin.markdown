@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Technological Teachings of Bitcoin"
-subtitle: "What I've Learned From Bitcoin: Part III"
+subtitle: "What I've Learned From Bitcoin: Part III"
 date: 2019-04-02
 description:
 image: /assets/images/btc05-the-anatomy-of-bitcoin.jpg
@@ -49,7 +49,7 @@ Find lessons 1--7 [here][I] and lessons 8--14 [here][II].
 
 ---
 
-### Lesson 15: Strength in numbers
+### Lesson 15: Strength in numbers
 
 Numbers are an essential part of our everyday life. Large numbers,
 however, aren't something most of us are too familiar with. The largest
@@ -75,7 +75,7 @@ can wrap our head around:
 -  10¹²: One trillion seconds ago Manhattan was covered under a [thick
     layer of ice].
 
-{% include image.html name="xkcd-1125.png" caption="About 1 trillion seconds ago. Source: xkcd #1125" %}
+{% include image.html name="xkcd-1125.png" caption="About 1 trillion seconds ago. Source: xkcd #1125" %}
 
 As soon as we enter the beyond-astronomical realm of modern
 cryptography, our intuition fails catastrophically. Bitcoin is built
@@ -101,7 +101,7 @@ So, how strong is SHA-256, exactly?
 > "SHA-256 is very strong. It's not like the incremental step from MD5
 > to SHA1. It can last several decades unless there's some massive
 > breakthrough attack."
-> <cite>[Satoshi Nakamoto]</cite>
+> <cite>[Satoshi Nakamoto]</cite>
 
 Let's spell things out. 2²⁵⁶ equals the following number:
 
@@ -133,8 +133,8 @@ years, we would still only have a 25% chance to find a needle in a
 > they are the maximums that thermodynamics will allow. And they
 > strongly imply that brute-force attacks against 256-bit keys will be
 > infeasible until computers are built from something other than matter
-> and occupy something other than space."
-> <cite>[Bruce Schneier][2]</cite>
+> and occupy something other than space."
+> <cite>[Bruce Schneier][2]</cite>
 
 It is hard to overstate the profoundness of this. Strong cryptography
 inverts the power-balance of the physical world we are so used to.
@@ -155,7 +155,7 @@ a math problem."*
 
 > "It isn't obvious that the world had to work this way. But somehow the
 > universe smiles on encryption."
-> <cite>[Julian Assange][call to cryptographic arms]</cite>
+> <cite>[Julian Assange][call to cryptographic arms]</cite>
 
 Nobody yet knows for sure if the universe's smile is genuine or not. It
 is possible that our assumption of mathematical asymmetries is wrong and
@@ -165,7 +165,7 @@ If that should be the case, cryptography as we know it will cease to
 exist, and the implications would most likely change the world beyond
 recognition.
 
-> "Vires in Numeris" = "Strength in Numbers"
+> "Vires in Numeris" = "Strength in Numbers"
 > <cite>[epii]</cite>
 
 *Vires in numeris* is not only a catchy motto used by bitcoiners. The
@@ -199,7 +199,7 @@ unfathomably large haystack. I am now more aware of this fact than ever.
 
 Bitcoin taught me that there is strength in numbers.
 
-### Lesson 16: Reflections on "Don't Trust, Verify"
+### Lesson 16: Reflections on "Don't Trust, Verify"
 
 Bitcoin aims to replace, or at least provide an alternative to,
 conventional currency. Conventional currency is bound to a centralized
@@ -211,8 +211,8 @@ Bitcoin solves is the issue of *trust*.
 
 > "The root problem with conventional currency is all the trust that's
 > required to make it work. [...] What is needed is an electronic
-> payment system based on cryptographic proof instead of trust"
-> <cite>[Satoshi] [Nakamoto]</cite>
+> payment system based on cryptographic proof instead of trust"
+> <cite>[Satoshi] [Nakamoto]</cite>
 
 Bitcoin solves the problem of trust by being completely decentralized,
 with no central server or trusted parties. Not even trusted *third*
@@ -232,8 +232,8 @@ both the introduction as well as the conclusion of the [Bitcoin
 whitepaper][Nakamoto].
 
 > "Conclusion: We have proposed a system for electronic transactions
-> without relying on trust." 
-> <cite>[Satoshi Nakamoto][Nakamoto]</cite>
+> without relying on trust." 
+> <cite>[Satoshi Nakamoto][Nakamoto]</cite>
 
 Note that "without relying on trust" is used in a very specific context
 here. We are talking about trusted third parties, i.e. other entities
@@ -260,7 +260,7 @@ the aid of any external software or software-aided machinery.
 
 > "If you wish to make an apple pie from scratch, you must first invent
 > the universe."
-> <cite>[Carl Sagan]</cite>
+> <cite>[Carl Sagan]</cite>
 
 The Ken Thompson Hack is a particularly ingenious and hard-to-detect
 backdoor, so let's take a quick look at a hard-to-detect backdoor which
@@ -273,7 +273,7 @@ can't be seen, the backdoor can't be detected by optical inspection,
 which is one of the most important tamper-detection mechanism for chips
 like these.
 
-{% include image.html name="stealthy-hardware-trojan.png" caption="Stealthy Dopant-Level Hardware Trojans by Becker, Regazzoni, Paar, Burleson" %}
+{% include image.html name="stealthy-hardware-trojan.png" caption="Stealthy Dopant-Level Hardware Trojans by Becker, Regazzoni, Paar, Burleson" %}
 
 Sounds scary? Well, even if you would be able to build everything from
 scratch, you would still have to trust the underlying mathematics. You
@@ -284,7 +284,7 @@ happened] at least once. There are good reasons to be paranoid, and the
 fact that everything from your hardware, to your software, to the
 elliptic curves used can have [backdoors] are some of them.
 
-> "Don't trust. Verify."
+> "Don't trust. Verify."
 
 The above examples should illustrate that *trustless* computing is
 utopic. Bitcoin is probably the one system which comes closest to this
@@ -313,7 +313,7 @@ the served binary was not tampered with by rebuilding it from scratch.
 As of this writing, a [pull-request] is in progress to integrate Guix
 into the Bitcoin build process.
 
-{% include image.html name="guix-bootstrap-dependencies.png" caption="Which came first, the chicken or the egg?" %}
+{% include image.html name="guix-bootstrap-dependencies.png" caption="Which came first, the chicken or the egg?" %}
 
 Luckily, Bitcoin doesn't rely on a single algorithm or piece of
 hardware. One effect of Bitcoin's radical decentralization is a
@@ -338,7 +338,7 @@ compromised.
 
 Bitcoin taught me not to trust, but to verify.
 
-### Lesson 17: Telling time takes work
+### Lesson 17: Telling time takes work
 
 It is often said that bitcoins are mined because thousands of computers
 work on solving *very complex* mathematical problems. Certain problems
@@ -383,7 +383,7 @@ what is now known as Nakamoto consensus.
 
 > "The network timestamps transactions by hashing them into an ongoing
 > chain which serves as proof of the sequence of events witnessed"
-> <cite>[Satoshi Nakamoto][Nakamoto]</cite>
+> <cite>[Satoshi Nakamoto][Nakamoto]</cite>
 
 Without a consistent way to tell the time, there is no consistent way to
 tell before from after. Reliable ordering is impossible. As mentioned
@@ -408,7 +408,7 @@ Validation, not computation. Time, not blocks.
 Bitcoin taught me that telling the time is tricky, especially if you are
 decentralized.
 
-### Lesson 18: Move slowly and don't break things
+### Lesson 18: Move slowly and don't break things
 
 It might be a dead mantra, but "move fast and break things" is still how
 much of the tech world operates. The idea that it doesn't matter if you
@@ -427,8 +427,8 @@ a beast without heads.
 > "A lot of people automatically dismiss e-currency as a lost cause
 > because of all the companies that failed since the 1990's. I hope it's
 > obvious it was only the centrally controlled nature of those systems
-> that doomed them."
-> <cite>[Satoshi Nakamoto][pointed out]</cite>
+> that doomed them."
+> <cite>[Satoshi Nakamoto][pointed out]</cite>
 
 One consequence of this radical decentralization is an inherent
 resistance to change. "Move fast and break things" does not and will
@@ -438,7 +438,7 @@ That's distributed consensus. That's the nature of Bitcoin.
 
 > "The nature of Bitcoin is such that once version 0.1 was released, the
 > core design was set in stone for the rest of its lifetime."
-> <cite>[Satoshi Nakamoto][4]</cite>
+> <cite>[Satoshi Nakamoto][4]</cite>
 
 This is one of the many paradoxical properties of Bitcoin. We all came
 to believe that anything which is software can be changed easily. But
@@ -457,8 +457,8 @@ thousands of years solid foundations are essential in an adversarial
 environment.
 
 > "The rain came down, the floods came, and the winds blew, and beat on
-> that house; and it didn't fall, for it was founded on the rock."
-> <cite>[Matthew 7:24--27]</cite>
+> that house; and it didn't fall, for it was founded on the rock."
+> <cite>[Matthew 7:24--27]</cite>
 
 Arguably, in this parable of the wise and the foolish builders Bitcoin
 isn't the house. It is the rock. Unchangeable, unmoving, providing the
@@ -483,8 +483,8 @@ that it would be necessary to make wise decisions ideologically.
 
 > "Being open source means anyone can independently review the code. If
 > it was closed source, nobody could verify the security. I think it's
-> essential for a program of this nature to be open source."
-> <cite>[Satoshi Nakamoto][5]</cite>
+> essential for a program of this nature to be open source."
+> <cite>[Satoshi Nakamoto][5]</cite>
 
 Openness is paramount to security and inherent in open source and the
 free software movement. As Satoshi pointed out, secure protocols and the
@@ -506,7 +506,7 @@ in the first place.
 
 Bitcoin taught me that moving slowly is one of its features, not a bug.
 
-### Lesson 19: Privacy is not dead
+### Lesson 19: Privacy is not dead
 
 If pundits are to believed, privacy has been dead [since the 80ies]. The
 pseudonymous invention of Bitcoin and other events in recent history
@@ -528,8 +528,8 @@ it. He set an encouraging example for everyone who wishes to remain
 anonymous: it is possible to have privacy online.
 
 > "Encryption works. Properly implemented strong crypto systems are one
-> of the few things that you can rely on."
-> ― [Edward Snowden]
+> of the few things that you can rely on."
+> ― [Edward Snowden]
 
 Satoshi wasn't the first pseudonymous or anonymous inventor, and he
 won't be the last. Some have directly imitated this pseudonymous
@@ -547,7 +547,7 @@ We should all remember that privacy is a [fundamental human right]. And
 as long as people exercise and defend these rights the battle for
 privacy is far from over. Bitcoin taught me that privacy is not dead.
 
-### Lesson 20: Cypherpunks write code
+### Lesson 20: Cypherpunks write code
 
 Like many great ideas, Bitcoin didn't come out of nowhere. It was made
 possible by utilizing and combining many innovations and discoveries in
@@ -557,7 +557,7 @@ without the giants on whose shoulders he was standing on.
 
 > "He who only wishes and hopes does not interfere actively with the
 > course of events and with the shaping of his own destiny."
-> ― [Ludwig Von Mises]
+> ― [Ludwig Von Mises]
 
 One of these giants is Eric Hughes, one of the founders of the
 cypherpunk movement and author of the [cypherpunk manifesto]. It's hard
@@ -594,7 +594,7 @@ Thanks to this code, everyone can verify that this novel system actually
 works, and every 10 minutes or so Bitcoin proofs to the world that it is
 still living.
 
-{% include image.html name="bitcoin-v0.1-code.png" caption="Code excerpts from Bitcoin version 0.1.0" %}
+{% include image.html name="bitcoin-v0.1-code.png" caption="Code excerpts from Bitcoin version 0.1.0" %}
 
 To make sure that his innovation transcends fantasy and becomes reality,
 Satoshi wrote code to implement his idea before he wrote the whitepaper.
@@ -602,8 +602,8 @@ He also made sure [not to delay] any release forever. After all,
 "there's always going to be one more thing to do."
 
 > "I had to write all the code before I could convince myself that I
-> could solve every problem, then I wrote the paper."
-> <cite>[Satoshi Nakamoto][6]</cite>
+> could solve every problem, then I wrote the paper."
+> <cite>[Satoshi Nakamoto][6]</cite>
 
 In today's world of endless promises and doubtful execution, an exercise
 in dedicated building was desperately needed. Be deliberate, convince
@@ -630,7 +630,7 @@ landlines. Landlines, electricity, computers, the internet, smartphones;
 all follow exponential trends in price-performance and adoption. Bitcoin
 does too.
 
-{% include image.html name="tech-adoption.png" caption="Bitcoin is literally off the charts." %}
+{% include image.html name="tech-adoption.png" caption="Bitcoin is literally off the charts." %}
 
 Bitcoin has not one but [multiple network effects], all of which
 resulting in exponential growth patterns in their respective area:
@@ -642,7 +642,7 @@ more aspects than one. Granted, the technology has not reached maturity
 yet. It might be in its adolescence. But if the technology is
 exponential, the path from obscurity to ubiquity is short.
 
-{% include image.html name="mobile-phone.png" caption="Mobile phone, ca 1965 vs 2019." %}
+{% include image.html name="mobile-phone.png" caption="Mobile phone, ca 1965 vs 2019." %}
 
 In his 2003 [TED talk], Jeff Bezos chose to use electricity as a
 metaphor for the web's future. All three phenomena --- electricity, the
@@ -666,7 +666,7 @@ to the bitcoin natives of the future.
 
 > "The future is already here --- it's just not very evenly
 > distributed."
-> <cite>[William Gibson]</cite>
+> <cite>[William Gibson]</cite>
 
 In 1995, about 15% of American adults used the internet. Historical
 [data from the Pew Research Center] shows how the internet has woven
@@ -682,7 +682,7 @@ the internet and, by extension, his company. Whatever day this is for
 Bitcoin, the vast amounts of untapped potential are clear to all but the
 most casual observer.
 
-{% include image.html name="internet-evolution-black-dates.png" caption="The internet, 1982 vs 2005. Source: cc-by Merit Network, Inc. and Barrett Lyon, Opte Project" %}
+{% include image.html name="internet-evolution-black-dates.png" caption="The internet, 1982 vs 2005. Source: cc-by Merit Network, Inc. and Barrett Lyon, Opte Project" %}
 
 
 Bitcoin's first node went online in 2009 after Satoshi mined the
@@ -701,7 +701,7 @@ In April 2019, the network grew to more than 4000 nodes and around
 where loss of funds can and does occur. Yet the [trend is clear][Jameson Lopp]:
 thousands of people are [reckless] and eager to use it.
 
-{% include image.html name="lnd-growth-lopp-black.png" caption="Lightning Network, January 2018 vs December 2018. Source: Jameson Lopp" %}
+{% include image.html name="lnd-growth-lopp-black.png" caption="Lightning Network, January 2018 vs December 2018. Source: Jameson Lopp" %}
 
 To me, having lived through the meteoric rise of the web, the parallels
 between the internet and Bitcoin are obvious. Both are networks, both
@@ -761,7 +761,7 @@ beautifully. The longer Bitcoin continues to work, the more people will
 opt-in to use it.
 
 > "It's true that things are beautiful when they work. Art is function."
-> <cite>[Giannina Braschi]</cite>
+> <cite>[Giannina Braschi]</cite>
 
 Bitcoin is growing exponentially, blurring the line between disciplines.
 It isn't clear where the realm of pure technology ends and where another
@@ -863,10 +863,10 @@ I've learned from Bitcoin.
 [trojan-paper]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.720.9288&rep=rep1&type=pdf
 
 [thick layer of ice]: https://en.wikipedia.org/wiki/Last_Glacial_Maximum
-[xkcd \#1125]: https://xkcd.com/1225/
+[xkcd \#1125]: https://xkcd.com/1225/
 [SHA-256]: https://en.wikipedia.org/wiki/SHA-2
 [hash functions]: https://en.bitcoin.it/wiki/Block_hashing_algorithm
-[Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=191.msg1585#msg1585
+[Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=191.msg1585#msg1585
 ["How secure is 256 bit security?"]: https://www.youtube.com/watch?v=S9JGmA5_unY
 [3Blue1Brown]: https://twitter.com/3blue1brown
 [Bruce Schneier]: https://www.schneier.com/
@@ -879,12 +879,12 @@ I've learned from Bitcoin.
 [specific problems]: https://en.wikipedia.org/wiki/Discrete_logarithm#Cryptography
 [epii]: https://bitcointalk.org/index.php?topic=4994.msg140770#msg140770
 [Elliptic curve examples]: https://commons.wikimedia.org/wiki/File:ECClines-2.svg
-[Emmanuel Boutet]: https://commons.wikimedia.org/wiki/User:Emmanuel.boutet
+[Emmanuel Boutet]: https://commons.wikimedia.org/wiki/User:Emmanuel.boutet
 [Satoshi]: http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source
 [Nakamoto]: https://bitcoin.org/bitcoin.pdf
 [majority]: https://bitcoin.org/en/developer-guide#term-51-attack
 [*Reflections on Trusting Trust*]: https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf
-[Carl Sagan]: https://en.wikipedia.org/wiki/Cosmos_%28Carl_Sagan_book%29
+[Carl Sagan]: https://en.wikipedia.org/wiki/Cosmos_%28Carl_Sagan_book%29
 [found a way]: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Stealthy+Dopant-Level+Hardware+Trojans&btnG=
 [secp256k1]: https://en.bitcoin.it/wiki/Secp256k1
 [has already happened]: https://en.wikipedia.org/wiki/Dual_EC_DRBG
@@ -899,7 +899,7 @@ I've learned from Bitcoin.
 [pointed out]: http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A9493
 [4]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
 [Unpacking Bitcoin's Social Contract]: https://uncommoncore.co/unpacking-bitcoins-social-contract/
-[Matthew 7:24--27]: https://en.wikipedia.org/wiki/Parable_of_the_Wise_and_the_Foolish_Builders
+[Matthew 7:24--27]: https://en.wikipedia.org/wiki/Parable_of_the_Wise_and_the_Foolish_Builders
 [pay to script hash]: https://en.bitcoin.it/wiki/Pay_to_script_hash
 [segregated witness]: https://en.bitcoin.it/wiki/Segregated_Witness
 [lightning network]: https://lightning.network/
@@ -909,13 +909,13 @@ I've learned from Bitcoin.
 [since the 80ies]: https://books.google.com/ngrams/graph?content=privacy+is+dead&year_start=1970&year_end=2019&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cprivacy%20is%20dead%3B%2Cc0
 [time-traveling AI]: https://blockchain24-7.com/is-crypto-creator-a-time-travelling-ai/
 ["I am not Dorian Nakamoto."]: http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A52186
-[Edward Snowden]: https://www.theguardian.com/world/2013/jun/17/edward-snowden-nsa-files-whistleblower
+[Edward Snowden]: https://www.theguardian.com/world/2013/jun/17/edward-snowden-nsa-files-whistleblower
 [MimbleWimble]: https://github.com/mimblewimble/docs/wiki/MimbleWimble-Origin
 [anonymous]: https://oeis.org/A180632/a180632.pdf
 [fundamental human right]: http://www.un.org/en/universal-declaration-human-rights/
-[Ludwig Von Mises]: https://mises.org/library/human-action-0/html/pp/613
+[Ludwig Von Mises]: https://mises.org/library/human-action-0/html/pp/613
 [cypherpunk manifesto]: https://www.activism.net/cypherpunk/manifesto.html
-[version 0.1.0]: https://bitcointalk.org/index.php?topic=68121.0
+[version 0.1.0]: https://bitcointalk.org/index.php?topic=68121.0
 [not to delay]: https://bitcointalk.org/index.php?topic=199.msg1670#msg1670
 [6]: http://www.metzdowd.com/pipermail/cryptography/2008-November/014832.html
 [Our World in Data]: https://ourworldindata.org/
@@ -925,7 +925,7 @@ I've learned from Bitcoin.
 [more time]: https://en.wikipedia.org/wiki/Lindy_effect
 [recording of the Today Show]: https://www.youtube.com/watch?v=UlJku_CSyNg
 [stacking]: https://twitter.com/hashtag/stackingsats
-[William Gibson]: https://www.npr.org/2018/10/22/1067220/the-science-in-science-fiction
+[William Gibson]: https://www.npr.org/2018/10/22/1067220/the-science-in-science-fiction
 [data from the Pew Research Center]: https://www.pewinternet.org/2014/02/27/part-1-how-the-internet-has-woven-itself-into-american-life/
 [consumer survey]: https://www.kaspersky.com/blog/money-report-2018/
 [letter to shareholders]: http://media.corporate-ir.net/media_files/irol/97/97664/reports/Shareholderletter97.pdf
@@ -933,9 +933,9 @@ I've learned from Bitcoin.
 [running bitcoin]: https://twitter.com/halfin/status/1110302988?lang=en
 [40 nodes]: https://bitcoinist.com/bitcoin-lightning-network-mainnet-nodes/
 [reckless]: https://twitter.com/hashtag/reckless
-[Jameson Lopp]: https://twitter.com/lopp/status/1077200836072296449
+[Jameson Lopp]: https://twitter.com/lopp/status/1077200836072296449
 [*The Internet of Money*]: https://theinternetofmoney.info/
-[Giannina Braschi]: https://en.wikipedia.org/wiki/Braschi%27s_Empire_of_Dreams
+[Giannina Braschi]: https://en.wikipedia.org/wiki/Braschi%27s_Empire_of_Dreams
 [educational material]: https://antonopoulos.com/
 [timechain]: https://twitter.com/francispouliot_/status/1106028072799744002
 [reach out to me]: https://twitter.com/dergigi

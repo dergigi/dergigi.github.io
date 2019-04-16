@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Magic Dust of Cryptography"
-subtitle: "How digital information is changing our society"
+subtitle: "How digital information is changing our society"
 date: 2018-08-17
 description:
 image: /assets/images/btc02-magic-dust.jpg
@@ -42,7 +42,7 @@ dust was ubiquitous, everywhere on earth?
 ---
 
 We, as a global society, are currently in the process of moving from the
-physical realm of things to the digital realm of information. We are
+physical realm of things to the digital realm of information. We are
 quickly moving towards the fantastical world of no-pants land, and we
 will have to update our current conceptions of things if we want to stay
 sane.
@@ -70,7 +70,7 @@ checked for authenticity instantly, and hidden in plain sight.
 Information is independent of a physical substrate and thus can take
 virtually infinite forms.
 
-{% include image.html name="xkcd-504.png" caption="'Jefferson would have been all about crypto.'" %}
+{% include image.html name="xkcd-504.png" caption="'Jefferson would have been all about crypto.'" %}
 
 What the full implications of this digitization will be is impossible to
 tell. We are not accustomed to this world of information: devoid of
@@ -92,13 +92,13 @@ ubiquitous, everywhere on earth? What if you memorize the key as a
 mnemonic phrase? Is your passport now in your brain?
 
 Does the concept of "your passport" even make sense, if all you have is
-access to the internet and some magic words?
+access to the internet and some magic words?
 
 ---
 
 **Warning: The following section contains example private keys. Do not import
 any sample keys or send bitcoins to the associated addresses; you will lose
-your money.**
+your money.**
 
 ---
 
@@ -111,7 +111,7 @@ money, which in turn is information. Thus, your money is pure
 information.
 
 {% include image.html name="xkcd-1553.png" caption="Never ever do that. Anyone who knows your private key can steal
-your funds." %}
+your funds." %}
 
 A private key is just a bunch of random bits. It can be encoded as a
 bunch of zeros and ones:
@@ -124,7 +124,7 @@ Antonopoulos] in [Mastering Bitcoin]:
 > "The bitcoin private key is just a number. You can pick your private
 > keys randomly using just a coin, pencil, and paper: toss a coin 256
 > times and you have the binary digits of a random private key you can
-> use in a bitcoin wallet."
+> use in a bitcoin wallet."
 
 The same information can be represented as a regular number:
 
@@ -150,16 +150,16 @@ Or, if you're Japanese:
 
 Of course, we can also encode this information as various images.
 
-{% include image.html name="private-key-qr.png" caption="Private key as QR code" %}
+{% include image.html name="private-key-qr.png" caption="Private key as QR code" %}
 
-{% include image.html name="private-key-flag.png" caption="Private key encoded as hex colors" %}
+{% include image.html name="private-key-flag.png" caption="Private key encoded as hex colors" %}
 
-{% include image.html name="private-key-pixels.png" caption="Same as above, but as one pixel per color" %}
+{% include image.html name="private-key-pixels.png" caption="Same as above, but as one pixel per color" %}
 
 You can also be more creative and hide a bitcoin private key in a piece
 of art:
 
-{% include image.html name="torched-hearts.jpg" caption="'TORCHED H34R7S' by YT (@coin_artist), a puzzle which hid 4.87 bitcoin in plain sight." %}
+{% include image.html name="torched-hearts.jpg" caption="'TORCHED H34R7S' by YT (@coin_artist), a puzzle which hid 4.87 bitcoin in plain sight." %}
 
 You get the idea.
 
@@ -173,8 +173,8 @@ zeros and ones.
 > "Central banks now have no way of stopping competition by just passing
 > laws as they have always done. They are now up against a digital
 > competitor that most likely cannot be brought under the physical
-> world's laws."
-> <cite>[Saifedean Ammous], [The Bitcoin Standard]</cite>
+> world's laws."
+> <cite>[Saifedean Ammous], [The Bitcoin Standard]</cite>
 
 Governments and corporations will continually try to outlaw certain
 kinds of information. It is likely that the last battle of the [crypto
@@ -198,9 +198,9 @@ numbers] and other absurdities.
 
 > "Any piece of digital information is representable as a number;
 > consequently, if communicating a specific set of information is
-> illegal in some way, then the number may be illegal as well."
+> illegal in some way, then the number may be illegal as well."
 > <cite>Wikipedia contributors, [Illegal number][illegal numbers]
-> ([this version])</cite>
+> ([this version])</cite>
 
 You might think that the tale of no-pants land featuring your favorite
 pajamas is silly, but we are already living in this world --- fairy tale
@@ -252,7 +252,7 @@ unstoppable. What will happen if more and more things will become pure
 information? What are the consequences of unbreakable and
 censorship-resistant codes?
 
-{% include image.html name="liberator-code-book.jpg" caption="The code for a 3D-printed gun in book form." %}
+{% include image.html name="liberator-code-book.jpg" caption="The code for a 3D-printed gun in book form." %}
 
 We are entering a new era. An era where information can be put in
 digital safes which can't be opened by force. An era where you can
@@ -276,17 +276,17 @@ bought as a book [on Amazon].
 [Mastering Bitcoin]: https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/
 [wallet import format]: https://en.bitcoin.it/wiki/Wallet_import_format
 [mnemonic code]: https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki
-[Same as above, but as one pixel per color]: https://cdn-images-1.medium.com/max/1600/1*HYq2cK8t5sX8KI2ls2qwyg.png
+[Same as above, but as one pixel per color]: https://cdn-images-1.medium.com/max/1600/1*HYq2cK8t5sX8KI2ls2qwyg.png
 [*YT,*]: https://medium.com/@coin_artist
 [Saifedean Ammous]: https://medium.com/@saifedean
-[The Bitcoin Standard]: https://thesaifhouse.wordpress.com/book/
+[The Bitcoin Standard]: https://thesaifhouse.wordpress.com/book/
 [crypto wars]: https://en.wikipedia.org/wiki/Crypto_Wars
 [encryption algorithms on t-shirts]: https://commons.wikimedia.org/wiki/File:Munitions_T-shirt_%28front%29.jpg
 [sing songs]: http://sing%20songs
 [Free Speech Flag]: https://en.wikipedia.org/wiki/Free_Speech_Flag
   "w:Free Speech Flag"
 [illegal numbers]: https://en.wikipedia.org/wiki/Illegal_number
-[this version]: https://en.wikipedia.org/w/index.php?title=Illegal_number&oldid=849115748
+[this version]: https://en.wikipedia.org/w/index.php?title=Illegal_number&oldid=849115748
 [required by law]: https://help.cbp.gov/app/answers/detail/a_id/195/~/currency-/-monetary-instruments---amount-that-can-be-brought-into-or-leave-the
 [small device]: https://en.bitcoin.it/wiki/Hardware_wallet
 [couple of words]: https://en.bitcoin.it/wiki/Mnemonic_phrase

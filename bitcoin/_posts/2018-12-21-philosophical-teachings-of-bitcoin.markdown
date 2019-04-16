@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Philosophical Teachings of Bitcoin"
-subtitle: "What I've Learned From Bitcoin: Part I"
+subtitle: "What I've Learned From Bitcoin: Part I"
 date: 2018-12-21
 description:
 image: /assets/images/btc03-the-school-of-bitcoin.jpg
@@ -52,7 +52,7 @@ enough, and Bitcoin will completely change your worldview.
 
 ---
 
-### Lesson 1: Immutability and change
+### Lesson 1: Immutability and change
 
 Bitcoin is inherently hard to describe. It is a *new* *thing*, and any
 attempt to draw a comparison to previous concepts --- be it by calling
@@ -70,8 +70,8 @@ The following might sound absurd at first, like so many other things in
 this space, but I believe that it is profoundly true nonetheless: You
 won't change Bitcoin, but Bitcoin will change you.
 
-> "Bitcoin will change us more than we will change it."
-> <cite>[Marty Bent]</cite>
+> "Bitcoin will change us more than we will change it."
+> <cite>[Marty Bent]</cite>
 
 It took me a long time to realize the profundity of this. Since Bitcoin
 is just software and all of it is open-source, you can simply change
@@ -109,7 +109,7 @@ happening.
 
 Bitcoin taught me that it won't change. I will.
 
-### Lesson 2: The scarcity of scarcity
+### Lesson 2: The scarcity of scarcity
 
 In general, the advance of technology seems to make things more
 abundant. More and more people are able to enjoy what previously have
@@ -156,7 +156,7 @@ authority. No inventor. No-one to prosecute, torture, blackmail, or
 extort. An immaculate conception of technology.
 
 > "One of the greatest things that Satoshi did was disappear."
-> <cite>[Jimmy Song]</cite>
+> <cite>[Jimmy Song]</cite>
 
 Since the birth of Bitcoin, thousands of other cryptocurrencies were
 created. None of these clones share its origin story. If you want to
@@ -175,7 +175,7 @@ the world, anonymous or not.
 
 Bitcoin taught me that narratives are important.
 
-### Lesson 4: The problem of identity
+### Lesson 4: The problem of identity
 
 Nic Carter, in an homage to Thomas Nagel's treatment of the same
 question [in regards to a bat], wrote an excellent piece which discusses
@@ -188,12 +188,12 @@ Theseus][]: which Bitcoin is the real Bitcoin?
 > entire codebase has been reworked, altered, and expanded such that it
 > barely resembles its original version. [...] The registry of who
 > owns what, the ledger itself, is virtually the only persistent trait
-> of the network [...]
+> of the network [...]
 >
 > To be considered truly leaderless, you must surrender the easy
 > solution of having an entity that can designate one chain as the
 > legitimate one."
-> <cite>[Nic Carter][What is it like to be a bitcoin?]</cite>
+> <cite>[Nic Carter][What is it like to be a bitcoin?]</cite>
 
 It seems like the advancement of technology keeps forcing us to take
 these philosophical questions seriously. Sooner or later, self-driving
@@ -215,7 +215,7 @@ value-transfer exist.
 
 Bitcoin taught me that decentralization contradicts identity.
 
-### Lesson 5: Replication and locality
+### Lesson 5: Replication and locality
 
 Quantum mechanics aside, locality is a non-issue in the physical world.
 The question *"Where is X?"* can be answered in a meaningful way, no
@@ -249,7 +249,7 @@ units a bitcoin.
 > entries in a ledger that's shared [...] They don't exist in any
 > physical location. The ledger exists in every physical location,
 > essentially. Geography doesn't make sense here --- it is not going to
-> help you figuring out your policy here."
+> help you figuring out your policy here."
 > <cite>[Peter Van Valkenburgh]</cite>
 
 So, what do you actually own when you say *"I have a bitcoin"* if there
@@ -263,7 +263,7 @@ keys.
 
 Bitcoin taught me that locality is a tricky business.
 
-### Lesson 6: The power of free speech
+### Lesson 6: The power of free speech
 
 Bitcoin is an idea. An idea which, in its current form, is the
 manifestation of a machinery purely powered by text. Every aspect of
@@ -289,7 +289,7 @@ As long as there is a part of the world where speech is free as in
 *freedom*, Bitcoin is unstoppable.
 
 > "There is no point in any Bitcoin transaction that Bitcoin ceases to
-> be *text.* It is *all* *text*, all the time. [...]
+> be *text.* It is *all* *text*, all the time. [...]
 >
 > Bitcoin is **text.** Bitcoin is **speech.** It cannot be regulated in
 > a free country like the USA with guaranteed inalienable rights and a
@@ -313,8 +313,8 @@ Wrong.
 Learning all the fundamentals which make Bitcoin work is hard.
 Understanding all of them deeply is borderline impossible.
 
-> "No one has found the bottom of the Bitcoin rabbit hole."
-> <cite>[Jameson Lopp]</cite>
+> "No one has found the bottom of the Bitcoin rabbit hole."
+> <cite>[Jameson Lopp]</cite>
 
 My list of books to read keeps expanding way quicker than I could
 possibly read them. The list of papers and articles to read is virtually
@@ -395,13 +395,13 @@ What have you learned from Bitcoin?
 [III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
 [this question]: https://twitter.com/arjunblj/status/1050073234719293440
 [automated social contract]: https://medium.com/@hasufly/bitcoins-social-contract-1f8b05ee24a9
-[Marty Bent]: https://twitter.com/martybent
+[Marty Bent]: https://twitter.com/martybent
 [Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
 [Ralph Merkle]: http://merkle.com/papers/DAOdemocracyDraft.pdf
 [changing people's diets]: https://motherboard.vice.com/en_us/article/ne74nw/inside-the-world-of-the-bitcoin-carnivores
 [Abundance]: https://www.diamandis.com/abundance
 [Saifedean Ammous]: https://www.bayernlb.de/internet/media/de/ir/downloads_1/bayernlb_research/sonderpublikationen_1/bitcoin_munich_may_28.pdf
-[Jimmy Song]: https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947
+[Jimmy Song]: https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947
 [Gold: The Extraordinary Metal]: https://www.muenzeoesterreich.at/eng/discover/for-investors/gold-the-extraordinary-metal
 [in regards to a bat]: https://en.wikipedia.org/wiki/What_Is_it_Like_to_Be_a_Bat%3F
 [What is it like to be a bitcoin?]: https://medium.com/s/story/what-is-it-like-to-be-a-bitcoin-56109f3e6753
@@ -414,7 +414,7 @@ What have you learned from Bitcoin?
 [illegal numbers]: https://en.wikipedia.org/wiki/Illegal_number
 [illegal primes]: https://en.wikipedia.org/wiki/Illegal_prime
 [Beautyon]: https://hackernoon.com/why-america-cant-regulate-bitcoin-8c77cee8d794
-[Jameson Lopp]: https://twitter.com/lopp/status/1061415918616698881
+[Jameson Lopp]: https://twitter.com/lopp/status/1061415918616698881
 [Arjun Balaji]: https://medium.com/@arjunblj
 [the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
 [1]: https://medium.com/@martysbent
