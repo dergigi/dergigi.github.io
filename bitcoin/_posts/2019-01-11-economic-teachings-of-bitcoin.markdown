@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Economic Teachings of Bitcoin"
-subtitle: "What I've Learned From Bitcoin: Part II"
+subtitle: "What I've Learned From Bitcoin: Part II"
 date: 2019-01-11
 description:
 image: /assets/images/btc04-the-garden-of-bitcoin.jpg
@@ -87,7 +87,7 @@ reassurance in realizing that I was in good company.
 
 > "Isn't it ironic that Bitcoin has taught me more about money than all
 > these years I've spent working for financial
-> institutions? ...including starting my career at a central
+> institutions? ...including starting my career at a central
 > bank"
 > <cite>[aarontaycc]</cite>
 
@@ -107,8 +107,8 @@ experience, living things are inherently difficult to understand.
 > inherent in every human effort. But to acknowledge these facts does
 > not mean that present-day economics is backward. It merely means that
 > economics is a living thing --- and to live implies both imperfection
-> and change."
-> <cite>[Ludwig von Mises]</cite>
+> and change."
+> <cite>[Ludwig von Mises]</cite>
 
 We all read about various financial crises in the news, wonder about how
 these big bailouts work and are puzzled over the fact that no one ever
@@ -128,8 +128,8 @@ aluminum make an effective tinfoil hat. Probably three.
 > "Those crashes, these bailouts, are not accidents. And neither is it
 > an accident that there is no financial education in school. [...]
 > It's premeditated. Just as prior to the Civil War it was illegal to
-> educate a slave, we are not allowed to learn about money in school."
-> <cite>[Robert Kiyosaki]</cite>
+> educate a slave, we are not allowed to learn about money in school."
+> <cite>[Robert Kiyosaki]</cite>
 
 Like in The Wizard of Oz, we are told to pay no attention to the man
 behind the curtain. Unlike in The Wizard of Oz, we now have [real
@@ -172,8 +172,8 @@ who holds the currency which is being inflated.
 > "Mere inflation --- that is, the mere issuance of more money, with the
 > consequence of higher wages and prices --- may look like the creation
 > of more demand. But in terms of the actual production and exchange of
-> real things it is not."
-> <cite>[Henry Hazlitt]</cite>
+> real things it is not."
+> <cite>[Henry Hazlitt]</cite>
 
 The destructive force of inflation becomes obvious as soon as a little
 inflation turns into *a lot*. If money [hyperinflates], things get ugly
@@ -227,7 +227,7 @@ percent, money is basically worthless.
 
 It might not happen in the next couple of years, or to the particular
 currency used in your country. But a glance at the [list of historical
-currencies] shows that it will inevitably happen over a long enough period of
+currencies] shows that it will inevitably happen over a long enough period of
 time. I remember and used plenty of those listed: the Austrian
 schilling, the German mark, the Italian lira, the French franc, the
 Irish pound, the Croatian dinar, etc. My grandma even used the
@@ -266,7 +266,7 @@ matter the outcome.
 Bitcoin taught me about the hidden tax of inflation and the catastrophe
 of hyperinflation.
 
-### Lesson 10: Value
+### Lesson 10: Value
 
 Value is somewhat paradoxical, and there are [multiple theories] which
 try to explain why we value certain things over other things. People
@@ -277,7 +277,7 @@ rare, and not merely based on their necessity for our survival.
 > "And if you are prudent you will give this same counsel to your pupils
 > also --- that they are never to converse with anybody except you and
 > each other. For it is the rare, Euthydemus, that is precious, while
-> water is cheapest, though best, as Pindar said."
+> water is cheapest, though best, as Pindar said."
 > <cite>[Plato]</cite>
 
 This [paradox of value] shows something interesting about us humans: we
@@ -304,11 +304,11 @@ just to name two.
 
 Bitcoin taught me that value is subjective but not arbitrary.
 
-### Lesson 11: Money
+### Lesson 11: Money
 
 What is money? We use it every day, yet this question is surprisingly
 difficult to answer. We are dependent on it in ways big and small, and
-if we have too little of it our lives become very difficult. Yet, we
+if we have too little of it our lives become very difficult. Yet, we
 seldom think about the thing which supposedly makes the world go round.
 Bitcoin forced me to answer this question over and over again: What the
 hell is money?
@@ -325,7 +325,7 @@ of commercial history.
 > "In this sense, it's more typical of a precious metal. Instead of the
 > supply changing to keep the value the same, the supply is
 > predetermined and the value changes."
-> <cite>[Satoshi Nakamoto]</cite>
+> <cite>[Satoshi Nakamoto]</cite>
 
 Seashells, gold, silver, paper, bitcoin. In the end, **money is whatever
 people use as money**, no matter its shape and form, or lack thereof.
@@ -361,8 +361,8 @@ money with enormous power.
 > their money, we are talking about an awesome power, one that flies
 > under the cover of night. It is the power to weave illusions that
 > appear real as long as they last. That is the very core of the
-> Fed's power."
-> <cite>[Ron Paul]</cite>
+> Fed's power."
+> <cite>[Ron Paul]</cite>
 
 Bitcoin peacefully removes this power, since it does away with money
 creation and it does so without the use of force.
@@ -378,19 +378,19 @@ If it will take a series of catastrophes or simply a monumental
 educational effort to correct this corruption remains to be seen. I pray
 to the gods of sound money that it will be the latter.
 
-Bitcoin taught me what money is.
+Bitcoin taught me what money is.
 
-### Lesson 12: The history and downfall of money
+### Lesson 12: The history and downfall of money
 
 Many people think that money is backed by gold, which is locked away in
 big vaults, protected by thick
-walls. This ceased to be true many decades ago. I am not sure what I
+walls. This ceased to be true many decades ago. I am not sure what I
 thought, since I was in much deeper trouble, having virtually no
 understanding of gold, paper money, or why it would need to be backed by
 something in the first place.
 
 One part of learning about Bitcoin is learning about fiat money: what it
-means, how it came to be, and why it might not be the best idea we ever
+means, how it came to be, and why it might not be the best idea we ever
 had. So, what exactly is fiat money? And how did we end up using it?
 
 If something is imposed by *fiat*, it simply means that it is imposed by
@@ -407,7 +407,7 @@ good a certain type of fiat money is, is only correlated to the
 political and fiscal (in)stability of those who dream it into existence.
 Its value is imposed by decree, arbitrarily.
 
-{% include image.html name="fiat-definition.png" caption="fi·at /ˈfēˌät,ˈfēət/ --- 'Let it be done'" %}
+{% include image.html name="fiat-definition.png" caption="fi·at /ˈfēˌät,ˈfēət/ --- 'Let it be done'" %}
 
 Until recently, two types of money were used: **commodity money**, made
 out of precious *things*, and **representative money**, which simply
@@ -420,7 +420,7 @@ coin] found so far is made of a natural gold-and-silver mix and was made
 more than 2700 years ago. If something is new in Bitcoin, the concept of
 a coin is not it.
 
-{% include image.html name="lydian-coin-stater.png" caption="Lydian electrum coin" %}
+{% include image.html name="lydian-coin-stater.png" caption="Lydian electrum coin" %}
 
 Turns out that hoarding coins, or hodling, to use today's parlance, is
 almost as old as coins. The earliest coin hodler was someone who put
@@ -487,12 +487,12 @@ federal reserve notes.
 As mentioned above, the same thing happened to gold. Most of the world
 was on a [bimetallic standard], meaning coins were made primarily of
 gold and silver. Having certificates for gold, redeemable in gold coins,
-was arguably a technological improvement. Paper is more convenient,
+was arguably a technological improvement. Paper is more convenient,
 lighter, and since it can be divided arbitrarily by simply printing a
-smaller number on it, it is easier to break into smaller units.
+smaller number on it, it is easier to break into smaller units.
 
 To remind the bearers (users) that these certificates were
-representative for actual gold and silver, they were colored accordingly
+representative for actual gold and silver, they were colored accordingly
 and stated this clearly on the certificate itself. You can fluently read
 the writing from top to bottom:
 
@@ -500,7 +500,7 @@ the writing from top to bottom:
 > United States of America one hundred dollars in gold coin payable to
 > the bearer on demand."
 
-{% include image.html name="us-gold-cert-100-smaller.png" caption="Picture credit to National Numismatic Collection, National Museum of American History." %}
+{% include image.html name="us-gold-cert-100-smaller.png" caption="Picture credit to National Numismatic Collection, National Museum of American History." %}
 
 In 1963, the words "PAYABLE TO THE BEARER ON DEMAND" were removed from
 all newly issued notes. Five years later, the redemption of paper notes
@@ -518,13 +518,13 @@ an army and operating jails says it is worth something. As can be
 clearly read on every dollar note in circulation today, "THIS NOTE IS
 LEGAL TENDER". In other words: It is valuable because the note says so.
 
-{% include image.html name="us-dollar-2004.jpg" caption="A 2004 series U.S. twenty dollar note used today. 'THIS NOTE IS LEGAL TENDER'" %}
+{% include image.html name="us-dollar-2004.jpg" caption="A 2004 series U.S. twenty dollar note used today. 'THIS NOTE IS LEGAL TENDER'" %}
 
 By the way, there is another interesting lesson on today's bank notes,
 hidden in plain sight. The second line reads that this is legal tender
 "FOR ALL DEBTS, PUBLIC AND PRIVATE". What might be obvious to economists
 was surprising to me: All money is debt. My head is still hurting
-because of it, and I will leave the exploration of the relation of money
+because of it, and I will leave the exploration of the relation of money
 and debt as an exercise to the reader.
 
 As we have seen, gold and silver were used as money for millennia. Over
@@ -536,9 +536,9 @@ actual: abolishing the gold standard and convincing everyone that the
 paper in itself is precious.
 
 Bitcoin taught me about the history of money and the greatest sleight of
-hand in the history of economics: fiat currency.
+hand in the history of economics: fiat currency.
 
-### Lesson 13: Fractional Reserve Insanity
+### Lesson 13: Fractional Reserve Insanity
 
 Value and money aren't trivial topics, especially in today's times. The
 process of money creation in our banking system is equally non-trivial,
@@ -632,7 +632,7 @@ choose to do so.
 
 Bitcoin taught me that fractional reserve banking is pure insanity.
 
-### Lesson 14: Sound money
+### Lesson 14: Sound money
 
 The most important lesson I have learned from Bitcoin is that in the
 long run, hard money is superior to soft money. Hard money, also
@@ -649,8 +649,8 @@ bitcoin.
 
 > "A fixed money supply, or a supply altered only in accord with
 > objective and calculable criteria, is a necessary condition to a
-> meaningful just price of money."
-> <cite>[Fr. Bernard W. Dempsey, S.J.]</cite>
+> meaningful just price of money."
+> <cite>[Fr. Bernard W. Dempsey, S.J.]</cite>
 
 As a quick stroll through the graveyard of forgotten currencies has
 shown, money which can be printed will be printed. So far, no human in
@@ -701,8 +701,8 @@ effort: flipping a few bits in a bank computer is enough.
 
 > "One important aspect of this new reality is that institutions like
 > the Fed cannot go bankrupt. They can print any amount of money that
-> they might need for themselves at virtually zero cost."
-> <cite>[Jörg Guido Hülsmann]</cite>
+> they might need for themselves at virtually zero cost."
+> <cite>[Jörg Guido Hülsmann]</cite>
 
 The principle outlined above can be expressed more generally as the
 ratio of "stock" to "flow". Simply put, the *stock* is how much of
@@ -763,7 +763,7 @@ somewhere around the year 2140, effectively stopping the production of
 bitcoin. This is a long game. If you are reading this, you are still
 early.
 
-{% include image.html name="soundness-over-time.png" caption="Rising stock-to-flow ratio of bitcoin as compared to gold" %}
+{% include image.html name="soundness-over-time.png" caption="Rising stock-to-flow ratio of bitcoin as compared to gold" %}
 
 As bitcoin approaches infinite stock to flow ratio it will be the
 soundest money in existence. Infinite soundness is hard to beat.
@@ -906,11 +906,11 @@ There exists an almost endless list of books and essays on the topics discussed 
 [aarontaycc]: https://twitter.com/aarontaycc/status/1072880815661436928?s=19
 [bitcoindunny]: https://twitter.com/BitcoinDunny/status/935330541263519745
 [many confessions]: https://twitter.com/search?q=bitcoin%20AND%20I%20AND%20%28learned%20OR%20taught%29&src=typd
-[Ludwig von Mises]: https://mises.org/library/human-action-0/html/p/607
-[Robert Kiyosaki]: https://www.youtube.com/watch?v=vkCXytxwH-M
+[Ludwig von Mises]: https://mises.org/library/human-action-0/html/p/607
+[Robert Kiyosaki]: https://www.youtube.com/watch?v=vkCXytxwH-M
 [real wizardry]: https://external-preview.redd.it/8d03MWWOf2HIyKrT8ThBGO4WFv-u25JaYqhbEO9b1Sk.jpg?width=683&auto=webp&s=dc5922d84717c6a94527bafc0189fd4ca02a24bb
 [visible to anyone]: https://github.com/bitcoin/bitcoin
-[Henry Hazlitt]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwi058KmgNrfAhWHneAKHbmCDFUQFjACegQIExAC&url=https%3A%2F%2Fmises.org%2Fsystem%2Ftdf%2FHenry%2520Hazlitt%2520Economics%2520in%2520One%2520Lesson.pdf%3Ffile%3D1%26type%3Ddocument&usg=AOvVaw0_kRtaNPMez0UdYGsrKThv
+[Henry Hazlitt]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwi058KmgNrfAhWHneAKHbmCDFUQFjACegQIExAC&url=https%3A%2F%2Fmises.org%2Fsystem%2Ftdf%2FHenry%2520Hazlitt%2520Economics%2520in%2520One%2520Lesson.pdf%3Ffile%3D1%26type%3Ddocument&usg=AOvVaw0_kRtaNPMez0UdYGsrKThv
 [hyperinflates]: https://en.wikipedia.org/wiki/Hyperinflation
 [Friedrich Hayek]: https://books.google.com/books?id=zZu3AAAAIAAJ&dq=%22only+while+it+accelerates%22&focus=searchwithinvolume&q=%22steady+inflation+cannot+help%22
 [1]: https://books.google.com/books?id=l_A1vVIaYBYC&pg=PA142&dq=%22history+is+largely+a+history+of+inflation%22&hl=en&sa=X&ved=0ahUKEwi90NDLrdnfAhUprVkKHUx1CmIQ6AEIKjAA#v=onepage&q=%22history%20is%20largely%20a%20history%20of%20inflation%22&f=false
@@ -923,10 +923,10 @@ There exists an almost endless list of books and essays on the topics discussed 
 [Plato]: http://www.perseus.tufts.edu/hopper/text?doc=plat.+euthyd.+304b
 [paradox of value]: https://en.wikipedia.org/wiki/Paradox_of_value
 [subjective]: https://en.wikipedia.org/wiki/Subjective_theory_of_value
-[Satoshi Nakamoto]: http://p2pfoundation.ning.com/xn/detail/2003008:Comment:9562
+[Satoshi Nakamoto]: http://p2pfoundation.ning.com/xn/detail/2003008:Comment:9562
 [Nick Szabo]: http://unenumerated.blogspot.com/
 [*Shelling Out: The Origins of Money*]: https://nakamotoinstitute.org/shelling-out/
-[Ron Paul]: http://endthefed.org/books/
+[Ron Paul]: http://endthefed.org/books/
 [oldest coin]: https://www.britishmuseum.org/explore/themes/money/the_origins_of_coinage.aspx
 [coin debasement]: https://en.wikipedia.org/wiki/Methods_of_coin_debasement
 [*Thaler*]: https://en.wikipedia.org/wiki/Thaler
@@ -938,9 +938,9 @@ There exists an almost endless list of books and essays on the topics discussed 
 [auditability]: https://i.ytimg.com/vi/ThFGs347MW8/maxresdefault.jpg
 [Keynesian]: https://en.wikipedia.org/wiki/Keynesian_economics
 [Austrian]: https://en.wikipedia.org/wiki/Austrian_School
-[Fr. Bernard W. Dempsey, S.J.]: https://www.jstor.org/stable/29769582
+[Fr. Bernard W. Dempsey, S.J.]: https://www.jstor.org/stable/29769582
 [algorithmically controlled]: https://en.bitcoin.it/wiki/Controlled_supply
-[Jörg Guido Hülsmann]: https://mises.org/sites/default/files/The%20Ethics%20of%20Money%20Production_2.pdf
+[Jörg Guido Hülsmann]: https://mises.org/sites/default/files/The%20Ethics%20of%20Money%20Production_2.pdf
 [how much money there is]: https://en.wikipedia.org/wiki/Money_supply
 [stopped publishing]: https://www.federalreserve.gov/Releases/h6/discm3.htm
 [last few years]: https://minerals.usgs.gov/minerals/pubs/mcs/2018/mcs2018.pdf
