@@ -23,7 +23,7 @@ social:
   - name: medium
     url: https://medium.com/@dergigi
   - name: bitcoin
-    url: https://tippin.me/@dergigi
+    url: bitcoin:33q1dJyoVkyYYYzxpVJA7cdZV8Kok4CDmq?amount=0.001?label=dergigi?message=You%27re%20awesome!
 
 # Contact settings
 contact_img: /assets/images/wanderer.jpg
