@@ -6,6 +6,21 @@
   background-color: $color-darkergrey;
   border-top: $border;
 
+  text-align: center;
+
+  a {
+    color: $color-blue;
+  }
+
+  small {
+    color: $color-darkgrey;
+  }
+
+  ul {
+    margin-left: -2.5em;
+  }
+
+
   &__container {
     margin-top: 1em;
   }
@@ -52,19 +67,7 @@
   }
 }
 
-//----------------------------------------------
-// Flex based sticky footer
-//----------------------------------------------
-// body {
-//   display: flex;
-//   flex-direction: column;
-//   min-height: 100vh;
-// }
-
 main {
   position: relative;
-  // z-index: $z-1;
-
-  // flex-grow: 1;
   margin-top: $header-height;
 }
