@@ -8,6 +8,19 @@
 
   text-align: center;
 
+  a {
+    color: $color-blue;
+  }
+
+  small {
+    color: $color-darkgrey;
+  }
+
+  ul {
+    margin-left: -2.5em;
+  }
+
+
   &__container {
     margin-top: 1em;
   }
