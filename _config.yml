@@ -9,10 +9,10 @@ google_analytics:
 name: Gigi
 title: derGigi.com
 description: >
-  Photography and writing.
+  Photography, writing, bitcoin.
 url: http://dergigi.com
 twitter_username: dergigi
-default_img: /assets/images/seo.jpg
+default_img: /assets/images/avatar.jpg
 social:
   - name: twitter
     url: https://twitter.com/dergigi
@@ -26,14 +26,13 @@ social:
     url: bitcoin:33q1dJyoVkyYYYzxpVJA7cdZV8Kok4CDmq?amount=0.001?label=dergigi?message=You%27re%20awesome!
 
 # Contact settings
-contact_img: /assets/images/wanderer.jpg
 formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Author settings
 author:
-  - name: Christoph Gigi Fuchs
+  - name: Gigi
     bio: Bio as in biological?
-    url: http://dergigi.com
+    url: http://dergigi.com/contact
 
 # Build settings
 markdown: kramdown
