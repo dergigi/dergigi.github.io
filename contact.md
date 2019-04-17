@@ -13,7 +13,7 @@ Hi! Nice to meet you. I'm [Gigi][twitter].
 
 I don't know how you ended up here. Maybe you have read some of the [things
 I wrote][medium]. Maybe you have seen some of my [photography] and googled the
-watermark. Maybe we know each other from meatspace, and you decided to check up on
+watermark. Maybe we know each other from meatspace and you decided to check up on
 me in cyberspace. It's hard to tell, really.
 
 So, what about me? I am interested in all kinds of things, but what I'm most
