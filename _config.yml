@@ -12,7 +12,7 @@ description: >
   Photography, writing, bitcoin.
 url: http://dergigi.com
 twitter_username: dergigi
-default_img: /assets/images/seo.jpg
+default_img: /assets/images/avatar.jpg
 social:
   - name: twitter
     url: https://twitter.com/dergigi
@@ -30,9 +30,9 @@ formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Author settings
 author:
-  - name: Gigi 
+  - name: Gigi
     bio: Bio as in biological?
-    url: http://dergigi.com
+    url: http://dergigi.com/contact
 
 # Build settings
 markdown: kramdown
