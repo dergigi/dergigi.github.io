@@ -3,23 +3,20 @@
 //----------------------------------------------
 .post {
 
-  // .amp-template & {
-  //   background-color: $color-black;
-  // }
-
   &__header {
     @extend %text-center;
 
     border-bottom: $border;
   }
 
-  &__date {
+  &__date, &__source {
     @extend %font-header;
-
-    display: block;
     margin-top: 0.25em;
-
     font-size: $font-xsmall;
+  }
+
+  &__date {
+    display: inline;
   }
 
   &__img {
@@ -52,6 +49,17 @@
 
   &__content {
     border-top: $border;
+  }
+
+  &__source {
+    margin-left: 0.5em;
+    padding-left: 0.5em;
+  }
+
+  &__source:before {
+    margin-right: 1em;
+
+    content: "·";
   }
 
   &__social {
