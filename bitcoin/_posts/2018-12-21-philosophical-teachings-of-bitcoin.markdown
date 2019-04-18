@@ -5,6 +5,7 @@ subtitle: "What I've Learned From Bitcoin: Part I"
 date: 2018-12-21
 description:
 image: /assets/images/btc03-the-school-of-bitcoin.jpg
+source: https://medium.com/@dergigi/philosophical-teachings-of-bitcoin-97f4b96f455f
 author: Gigi
 category: bitcoin
 tags:

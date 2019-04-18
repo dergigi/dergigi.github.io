@@ -8,6 +8,10 @@ layout: default
         <h2 itemprop="name headline">{{ page.title }}</h2>
         <h3 itemprop="name alternativeHeadline">{{ page.subtitle }}</h3>
         <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b %Y" }}</time>
+        {% if page.source %}
+          {% capture sourceHost %}{{ page.source | remove_first: "https://" | split: "/" | first }}{% endcapture %}
+          <span class="post__source" itemprop="isBasedOn">{{ sourceHost }}</span>
+        {% endif %}
       </div>
     </div>
 
