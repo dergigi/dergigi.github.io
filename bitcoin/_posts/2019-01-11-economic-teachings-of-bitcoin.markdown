@@ -867,6 +867,9 @@ There exists an almost endless list of books and essays on the topics discussed 
   - [The Bullish Case For Bitcoin] by [Vijay Boyapati]
   - [Bitcoin’s distribution was fair] by [Dan Held]
 
+#### Translations
+
+  - [Turkish translation] by [@deniz_zgur][deniz]
 
 [Arjun Balaji]: https://twitter.com/arjunblj
 [the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
@@ -879,6 +882,7 @@ There exists an almost endless list of books and essays on the topics discussed 
 [Nakamoto Institute]: http://nakamotoinstitute.org
 [Jannik]: https://twitter.com/jnnksbrt
 [Camilo]: https://twitter.com/CamiloJdL
+[deniz]: https://twitter.com/deniz_zgur
 [Dan Held]: https://twitter.com/danheld
 [Vijay Boyapati]: https://twitter.com/real_vijay
 
@@ -948,3 +952,4 @@ There exists an almost endless list of books and essays on the topics discussed 
 [much energy]: https://medium.com/@dergigi/bitcoins-energy-consumption-6dd7d7a2e463
 [universal speed limit]: https://en.wikipedia.org/wiki/Speed_of_light#Upper_limit_on_speeds
 [fair distribution]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
+[Turkish translation]: https://medium.com/@denizozzgur/bitcoinin-ekonomi-%C3%B6%C4%9Fretileri-a3e87dcff525

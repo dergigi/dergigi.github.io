@@ -389,6 +389,7 @@ What have you learned from Bitcoin?
 #### Translations
 
 -   [Spanish translation] by [@CamiloJdL][camilo]
+-   [Turkish translation] by [@deniz_zgur][deniz]
 
 [I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
 [II]: {% post_url /bitcoin/2019-01-11-economic-teachings-of-bitcoin %}
@@ -438,3 +439,5 @@ What have you learned from Bitcoin?
 [podcast1]: https://www.whatbitcoindid.com/podcast/coin-centers-peter-van-valkenburg-on-preserving-the-freedom-to-innovate-with-public-blockchains
 [Spanish translation]: https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9
 [camilo]: https://twitter.com/CamiloJdL
+[Turkish translation]: https://medium.com/@denizozzgur/bitcoinin-felsefi-%C3%B6%C4%9Fretileri-e7df2338a2fc
+[deniz]: https://twitter.com/deniz_zgur

@@ -232,7 +232,7 @@ both the introduction as well as the conclusion of the [Bitcoin
 whitepaper][Nakamoto].
 
 > "Conclusion: We have proposed a system for electronic transactions
-> without relying on trust." 
+> without relying on trust."
 > <cite>[Satoshi Nakamoto][Nakamoto]</cite>
 
 Note that "without relying on trust" is used in a very specific context
@@ -819,6 +819,10 @@ I've learned from Bitcoin.
 -   [*Why Bitcoin Matters*] by [Aleksandar Svetski]
 -   [*Guess My Bitcoin Private Key*] by [Michael Kerbleski]
 
+#### Translations
+
+  - [Turkish translation] by [@deniz_zgur][deniz]
+
 [*Bitcoin: A Peer-to-Peer Electronic Cash System*]: https://bitcoin.org/bitcoin.pdf
 [*Mastering Bitcoin*]: https://bitcoinbook.info/
 [*The Internet of Money*]: https://theinternetofmoney.info/
@@ -856,6 +860,7 @@ I've learned from Bitcoin.
 [Francis Pouliot]: https://twitter.com/francispouliot_
 [Aleksandar Svetski]:https://twitter.com/AleksSvetski
 [Michael Kerbleski]: https://twitter.com/kerbleski
+[deniz]: https://twitter.com/deniz_zgur
 
 [Nakamoto Institute]: http://nakamotoinstitute.org
 [the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
@@ -939,3 +944,4 @@ I've learned from Bitcoin.
 [educational material]: https://antonopoulos.com/
 [timechain]: https://twitter.com/francispouliot_/status/1106028072799744002
 [reach out to me]: https://twitter.com/dergigi
+[Turkish translation]: https://medium.com/@denizozzgur/blockchainin-teknolojik-%C3%B6%C4%9Fretileri-34ae5a6949a7
