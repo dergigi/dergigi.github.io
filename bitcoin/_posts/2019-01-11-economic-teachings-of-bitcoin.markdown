@@ -5,6 +5,7 @@ subtitle: "What I've Learned From Bitcoin: Part II"
 date: 2019-01-11
 description:
 image: /assets/images/btc04-the-garden-of-bitcoin.jpg
+source: https://medium.com/@dergigi/economic-teachings-of-bitcoin-b2cc4f2cfa96
 author: Gigi
 category: bitcoin
 tags:

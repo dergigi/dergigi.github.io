@@ -5,6 +5,7 @@ subtitle: "What I've Learned From Bitcoin: Part III"
 date: 2019-04-02
 description:
 image: /assets/images/btc05-the-anatomy-of-bitcoin.jpg
+source: https://medium.com/@dergigi/technological-teachings-of-bitcoin-20420b459417
 author: Gigi
 category: bitcoin
 tags:
