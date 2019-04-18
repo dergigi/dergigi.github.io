@@ -5,12 +5,18 @@
 
   &__header {
     @extend %text-center;
-
     border-bottom: $border;
+
+    a {
+      color: $color-darkgrey;
+      text-decoration: none;
+    }
   }
 
   &__date, &__source {
     @extend %font-header;
+
+    color: $color-darkgrey;
     margin-top: 0.25em;
     font-size: $font-xsmall;
   }
@@ -42,10 +48,6 @@
       background-color: $color-lightgrey;
     }
   }
-
-  // &__amp-img {
-  //   padding: 1em;
-  // }
 
   &__content {
     border-top: $border;

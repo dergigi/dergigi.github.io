@@ -10,7 +10,7 @@ layout: default
         <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b %Y" }}</time>
         {% if page.source %}
           {% capture sourceHost %}{{ page.source | remove_first: "https://" | split: "/" | first }}{% endcapture %}
-          <span class="post__source" itemprop="isBasedOn">{{ sourceHost }}</span>
+          <a href="{{ page.source }}" target="_blank" class="post__source" itemprop="isBasedOn">{{ sourceHost }}</a>
         {% endif %}
       </div>
     </div>
