@@ -5,6 +5,7 @@ subtitle: "How digital information is changing our society"
 date: 2018-08-17
 description:
 image: /assets/images/btc02-magic-dust.jpg
+source: https://medium.com/@dergigi/the-magic-dust-of-cryptography-c8ecd79ae13a
 author: Gigi
 category: bitcoin
 tags:

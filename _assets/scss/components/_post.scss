@@ -3,23 +3,26 @@
 //----------------------------------------------
 .post {
 
-  // .amp-template & {
-  //   background-color: $color-black;
-  // }
-
   &__header {
     @extend %text-center;
-
     border-bottom: $border;
+
+    a {
+      color: $color-darkgrey;
+      text-decoration: none;
+    }
+  }
+
+  &__date, &__source {
+    @extend %font-header;
+
+    color: $color-darkgrey;
+    margin-top: 0.25em;
+    font-size: $font-xsmall;
   }
 
   &__date {
-    @extend %font-header;
-
-    display: block;
-    margin-top: 0.25em;
-
-    font-size: $font-xsmall;
+    display: inline;
   }
 
   &__img {
@@ -46,12 +49,19 @@
     }
   }
 
-  // &__amp-img {
-  //   padding: 1em;
-  // }
-
   &__content {
     border-top: $border;
+  }
+
+  &__source {
+    margin-left: 0.5em;
+    padding-left: 0.5em;
+  }
+
+  &__source:before {
+    margin-right: 1em;
+
+    content: "·";
   }
 
   &__social {

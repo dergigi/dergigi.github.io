@@ -5,6 +5,7 @@ subtitle: "A shift in perspective"
 date: 2018-06-10
 description:
 image: /assets/images/btc01-david.jpg
+source: https://medium.com/@dergigi/bitcoins-energy-consumption-6dd7d7a2e463
 author: Gigi
 category: bitcoin
 tags:
