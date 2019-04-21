@@ -583,6 +583,7 @@ defending privacy with cryptography and digital signatures.
 > money.
 >
 > Cypherpunks write code."
+> <cite>[Eric Hughes][cypherpunk manifesto]</cite>
 
 Cypherpunks do not find comfort in hopes and wishes. They actively
 interfere with the course of events and shape their own destiny.
