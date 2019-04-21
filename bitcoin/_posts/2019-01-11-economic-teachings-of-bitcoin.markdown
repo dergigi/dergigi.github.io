@@ -833,6 +833,7 @@ and evolving too fast to ever be fully understood by a single person.
 the thing out of the hands of government, that is, we can’t take it violently
 out of the hands of government, all we can do is by some sly roundabout way
 introduce something that they can’t stop.”
+> <cite>[Friedrich Hayek][Sly roundabout way]</cite>
 
 Learning these lessons enabled me to finally understand what Hayek meant by
 the above. I believe that Bitcoin is the sly, roundabout way to re-introduce
@@ -919,6 +920,7 @@ There exists an almost endless list of books and essays on the topics discussed 
 [Henry Hazlitt]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwi058KmgNrfAhWHneAKHbmCDFUQFjACegQIExAC&url=https%3A%2F%2Fmises.org%2Fsystem%2Ftdf%2FHenry%2520Hazlitt%2520Economics%2520in%2520One%2520Lesson.pdf%3Ffile%3D1%26type%3Ddocument&usg=AOvVaw0_kRtaNPMez0UdYGsrKThv
 [hyperinflates]: https://en.wikipedia.org/wiki/Hyperinflation
 [Friedrich Hayek]: https://books.google.com/books?id=zZu3AAAAIAAJ&dq=%22only+while+it+accelerates%22&focus=searchwithinvolume&q=%22steady+inflation+cannot+help%22
+[Sly roundabout way]: https://youtu.be/EYhEDxFwFRU?t=1124
 [1]: https://books.google.com/books?id=l_A1vVIaYBYC&pg=PA142&dq=%22history+is+largely+a+history+of+inflation%22&hl=en&sa=X&ved=0ahUKEwi90NDLrdnfAhUprVkKHUx1CmIQ6AEIKjAA#v=onepage&q=%22history%20is%20largely%20a%20history%20of%20inflation%22&f=false
 [currently suffering]: https://en.wikipedia.org/wiki/Crisis_in_Venezuela#Economic_crisis
 [list of historical currencies]: https://en.wikipedia.org/wiki/List_of_historical_currencies
