@@ -126,6 +126,7 @@ Antonopoulos] in [Mastering Bitcoin]:
 > keys randomly using just a coin, pencil, and paper: toss a coin 256
 > times and you have the binary digits of a random private key you can
 > use in a bitcoin wallet."
+> <cite>[Andreas M. Antonopoulos][Mastering Bitcoin]</cite>
 
 The same information can be represented as a regular number:
 
