@@ -574,6 +574,7 @@ debate], said it way better than I ever could:
 > prison for a very long time [...] and until we start sending
 > bankers --- and I include central bankers and politicians --- to
 > prison for this outrage it will continue."
+> <cite>[Godfrey Bloom][joint debate]</cite>
 
 Let me repeat the most important part: banks can lend money that they
 don't actually have.
