@@ -47,7 +47,7 @@ enough, and Bitcoin will completely change your worldview.
 > story ends, you wake up in your bed and believe whatever you want to
 > believe. You take the red pill --- you stay in Wonderland, and I show
 > you how deep the rabbit hole goes."
-> <cite>Morpheus</cite>
+> <cite>[Morpheus][Morpheus]</cite>
 
 {% include image.html name="bitcoin-orange-pill.jpg" %}
 
@@ -397,6 +397,7 @@ What have you learned from Bitcoin?
 [III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
 [this question]: https://twitter.com/arjunblj/status/1050073234719293440
 [automated social contract]: https://medium.com/@hasufly/bitcoins-social-contract-1f8b05ee24a9
+[Morpheus]: https://en.wikipedia.org/wiki/Red_pill_and_blue_pill#The_Matrix_(1999)
 [Marty Bent]: https://twitter.com/martybent
 [Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
 [Ralph Merkle]: http://merkle.com/papers/DAOdemocracyDraft.pdf
