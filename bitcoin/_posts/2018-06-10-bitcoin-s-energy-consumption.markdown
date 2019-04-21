@@ -13,7 +13,7 @@ tags:
  - Writing
 ---
 
-You might have heard that Bitcoin wastes a tremendous amount energy. You
+You might have heard that Bitcoin wastes a tremendous amount of energy. You
 might also have heard that Bitcoin will use half a percent of the
 world's electric energy by the end of the year, the computations used
 for mining don't do anything useful, and if the current rate of growth
