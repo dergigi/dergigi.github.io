@@ -558,7 +558,7 @@ without the giants on whose shoulders he was standing on.
 
 > "He who only wishes and hopes does not interfere actively with the
 > course of events and with the shaping of his own destiny."
-> ― [Ludwig Von Mises]
+> <cite>[Ludwig Von Mises]</cite>
 
 One of these giants is Eric Hughes, one of the founders of the
 cypherpunk movement and author of the [cypherpunk manifesto]. It's hard
