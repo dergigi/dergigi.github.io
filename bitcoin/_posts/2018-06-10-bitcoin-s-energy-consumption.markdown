@@ -13,7 +13,7 @@ tags:
  - Writing
 ---
 
-You might have heard that Bitcoin wastes a tremendous amount energy. You
+You might have heard that Bitcoin wastes a tremendous amount of energy. You
 might also have heard that Bitcoin will use half a percent of the
 world's electric energy by the end of the year, the computations used
 for mining don't do anything useful, and if the current rate of growth
@@ -68,7 +68,7 @@ made this clear in [one of his posts].
 > "In this sense, it's more typical of a precious metal. Instead of the
 > supply changing to keep the value the same, the supply is
 > predetermined and the value changes."
-> <cite>Satoshi Nakamoto</cite>
+> <cite>[Satoshi Nakamoto][one of his posts]</cite>
 
 Hence bitcoins are not printed, they are mined. Even though we talk
 about "mining bitcoins" all the time, keep in mind that it isn't

@@ -530,7 +530,7 @@ anonymous: it is possible to have privacy online.
 
 > "Encryption works. Properly implemented strong crypto systems are one
 > of the few things that you can rely on."
-> ― [Edward Snowden]
+> <cite>[Edward Snowden]</cite>
 
 Satoshi wasn't the first pseudonymous or anonymous inventor, and he
 won't be the last. Some have directly imitated this pseudonymous
@@ -558,7 +558,7 @@ without the giants on whose shoulders he was standing on.
 
 > "He who only wishes and hopes does not interfere actively with the
 > course of events and with the shaping of his own destiny."
-> ― [Ludwig Von Mises]
+> <cite>[Ludwig Von Mises]</cite>
 
 One of these giants is Eric Hughes, one of the founders of the
 cypherpunk movement and author of the [cypherpunk manifesto]. It's hard
@@ -583,6 +583,7 @@ defending privacy with cryptography and digital signatures.
 > money.
 >
 > Cypherpunks write code."
+> <cite>[Eric Hughes][cypherpunk manifesto]</cite>
 
 Cypherpunks do not find comfort in hopes and wishes. They actively
 interfere with the course of events and shape their own destiny.

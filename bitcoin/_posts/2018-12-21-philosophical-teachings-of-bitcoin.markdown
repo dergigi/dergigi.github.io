@@ -47,7 +47,7 @@ enough, and Bitcoin will completely change your worldview.
 > story ends, you wake up in your bed and believe whatever you want to
 > believe. You take the red pill --- you stay in Wonderland, and I show
 > you how deep the rabbit hole goes."
-> <cite>Morpheus</cite>
+> <cite>[Morpheus][Morpheus]</cite>
 
 {% include image.html name="bitcoin-orange-pill.jpg" %}
 
@@ -277,7 +277,7 @@ equivalent to speech.
 > or prohibiting the free exercise thereof; or abridging the freedom of
 > speech, or of the press; or the right of the people peaceably to
 > assemble, and to petition the Government for a redress of grievances."
-> <cite>First Amendment to the United States Constitution</cite>
+> <cite>[First Amendment to the United States Constitution][1st Amendment]</cite>
 
 Although the final battle of the [Crypto Wars] has not been fought yet,
 it will be very difficult to criminalize an idea, let alone an idea
@@ -397,6 +397,7 @@ What have you learned from Bitcoin?
 [III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
 [this question]: https://twitter.com/arjunblj/status/1050073234719293440
 [automated social contract]: https://medium.com/@hasufly/bitcoins-social-contract-1f8b05ee24a9
+[Morpheus]: https://en.wikipedia.org/wiki/Red_pill_and_blue_pill#The_Matrix_(1999)
 [Marty Bent]: https://twitter.com/martybent
 [Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
 [Ralph Merkle]: http://merkle.com/papers/DAOdemocracyDraft.pdf
@@ -410,6 +411,7 @@ What have you learned from Bitcoin?
 [Ship of Theseus]: https://en.wikipedia.org/wiki/Ship_of_Theseus
 [trolley problem]: https://en.wikipedia.org/wiki/Trolley_problem
 [Daniel Dennett]: https://www.lehigh.edu/~mhb0/Dennett-WhereAmI.pdf
+[1st Amendment]: https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution
 [Peter Van Valkenburgh]: https://www.whatbitcoindid.com/podcast/coin-centers-peter-van-valkenburg-on-preserving-the-freedom-to-innovate-with-public-blockchains
 [a magic spell]: {% post_url /bitcoin/2018-08-17-the-magic-dust-of-cryptography %}  
 [Crypto Wars]: https://en.wikipedia.org/wiki/Crypto_Wars
