@@ -530,7 +530,7 @@ anonymous: it is possible to have privacy online.
 
 > "Encryption works. Properly implemented strong crypto systems are one
 > of the few things that you can rely on."
-> ― [Edward Snowden]
+> <cite>[Edward Snowden]</cite>
 
 Satoshi wasn't the first pseudonymous or anonymous inventor, and he
 won't be the last. Some have directly imitated this pseudonymous
