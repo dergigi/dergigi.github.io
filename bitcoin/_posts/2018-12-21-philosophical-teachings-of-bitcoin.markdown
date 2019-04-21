@@ -277,7 +277,7 @@ equivalent to speech.
 > or prohibiting the free exercise thereof; or abridging the freedom of
 > speech, or of the press; or the right of the people peaceably to
 > assemble, and to petition the Government for a redress of grievances."
-> <cite>First Amendment to the United States Constitution</cite>
+> <cite>[First Amendment to the United States Constitution][1st Amendment]</cite>
 
 Although the final battle of the [Crypto Wars] has not been fought yet,
 it will be very difficult to criminalize an idea, let alone an idea
@@ -411,6 +411,7 @@ What have you learned from Bitcoin?
 [Ship of Theseus]: https://en.wikipedia.org/wiki/Ship_of_Theseus
 [trolley problem]: https://en.wikipedia.org/wiki/Trolley_problem
 [Daniel Dennett]: https://www.lehigh.edu/~mhb0/Dennett-WhereAmI.pdf
+[1st Amendment]: https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution
 [Peter Van Valkenburgh]: https://www.whatbitcoindid.com/podcast/coin-centers-peter-van-valkenburg-on-preserving-the-freedom-to-innovate-with-public-blockchains
 [a magic spell]: {% post_url /bitcoin/2018-08-17-the-magic-dust-of-cryptography %}  
 [Crypto Wars]: https://en.wikipedia.org/wiki/Crypto_Wars
