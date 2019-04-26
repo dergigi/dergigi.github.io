@@ -848,12 +848,15 @@ I've learned from Bitcoin.
 [Dhruv Bansal]: https://twitter.com/dhruvbansal
 [Matt Odell]: https://twitter.com/matt_odell
 [Matt]: https://twitter.com/matt_odell
+[Marty]: https://twitter.com/martybent
 [Michael Goldstein]: https://twitter.com/bitstein
 [Pierre Rochard]: https://twitter.com/pierre_rochard
 [Hugo Nguyen]: hhttps://twitter.com/hugohano
 [Jannik]: https://twitter.com/jnnksbrt
 [Camilo]: https://twitter.com/CamiloJdL
 [Michael]: https://twitter.com/michael_rogger
+[Daniel]: https://twitter.com/dnlggr
+[Raphael]: https://twitter.com/dinemuatta
 [Dan Held]: https://twitter.com/danheld
 [Vijay Boyapati]: https://twitter.com/real_vijay
 [Hasu]: https://twitter.com/hasufl
