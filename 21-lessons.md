@@ -79,7 +79,7 @@ enough, and Bitcoin will completely change your worldview.
 # Chapter I - Philosophy
 ---
 
-### Lesson 1: Immutability and change
+## Lesson 1: Immutability and change
 
 Bitcoin is inherently hard to describe. It is a *new* *thing*, and any
 attempt to draw a comparison to previous concepts --- be it by calling
@@ -136,7 +136,7 @@ happening.
 
 Bitcoin taught me that it won't change. I will.
 
-### Lesson 2: The scarcity of scarcity
+## Lesson 2: The scarcity of scarcity
 
 In general, the advance of technology seems to make things more
 abundant. More and more people are able to enjoy what previously have
@@ -165,7 +165,7 @@ to produce scarcity.
 
 In a time of abundance, Bitcoin taught me what real scarcity is.
 
-### Lesson 3: An immaculate conception
+## Lesson 3: An immaculate conception
 
 Everyone loves a good origin story. The origin story of Bitcoin is a
 fascinating one, and the details of it are more important than one might
@@ -202,7 +202,7 @@ the world, anonymous or not.
 
 Bitcoin taught me that narratives are important.
 
-### Lesson 4: The problem of identity
+## Lesson 4: The problem of identity
 
 Nic Carter, in an homage to Thomas Nagel's treatment of the same
 question [in regards to a bat], wrote an excellent piece which discusses
@@ -242,7 +242,7 @@ value-transfer exist.
 
 Bitcoin taught me that decentralization contradicts identity.
 
-### Lesson 5: Replication and locality
+## Lesson 5: Replication and locality
 
 Quantum mechanics aside, locality is a non-issue in the physical world.
 The question *"Where is X?"* can be answered in a meaningful way, no
@@ -290,7 +290,7 @@ keys.
 
 Bitcoin taught me that locality is a tricky business.
 
-### Lesson 6: The power of free speech
+## Lesson 6: The power of free speech
 
 Bitcoin is an idea. An idea which, in its current form, is the
 manifestation of a machinery purely powered by text. Every aspect of
@@ -327,7 +327,7 @@ As long as there is a part of the world where speech is free as in
 Bitcoin taught me that in a free society, free speech and free software
 are unstoppable.
 
-### Lesson 7: The limits of knowledge
+## Lesson 7: The limits of knowledge
 
 Getting into Bitcoin is a humbling experience. I thought that I knew
 things. I thought that I was educated. I thought that I knew my computer
@@ -408,7 +408,7 @@ time. Final destination: sound money.
 
 Find lessons 1-7 [here][I].
 
-### Lesson 8: Financial Ignorance
+## Lesson 8: Financial Ignorance
 
 One of the most surprising things, to me, was the amount of finance,
 economics, and psychology required to get a grasp of what at first
@@ -484,7 +484,7 @@ anyone].
 Bitcoin taught me to look behind the curtain and face my financial
 ignorance.
 
-### Lesson 9: Inflation
+## Lesson 9: Inflation
 
 Trying to understand monetary inflation, and how a non-inflationary
 system like Bitcoin might change how we do things, was the starting
@@ -610,7 +610,7 @@ matter the outcome.
 Bitcoin taught me about the hidden tax of inflation and the catastrophe
 of hyperinflation.
 
-### Lesson 10: Value
+## Lesson 10: Value
 
 Value is somewhat paradoxical, and there are [multiple theories] which
 try to explain why we value certain things over other things. People
@@ -648,7 +648,7 @@ just to name two.
 
 Bitcoin taught me that value is subjective but not arbitrary.
 
-### Lesson 11: Money
+## Lesson 11: Money
 
 What is money? We use it every day, yet this question is surprisingly
 difficult to answer. We are dependent on it in ways big and small, and
@@ -724,7 +724,7 @@ to the gods of sound money that it will be the latter.
 
 Bitcoin taught me what money is.
 
-### Lesson 12: The history and downfall of money
+## Lesson 12: The history and downfall of money
 
 Many people think that money is backed by gold, which is locked away in
 big vaults, protected by thick
@@ -882,7 +882,7 @@ paper in itself is precious.
 Bitcoin taught me about the history of money and the greatest sleight of
 hand in the history of economics: fiat currency.
 
-### Lesson 13: Fractional Reserve Insanity
+## Lesson 13: Fractional Reserve Insanity
 
 Value and money aren't trivial topics, especially in today's times. The
 process of money creation in our banking system is equally non-trivial,
@@ -977,7 +977,7 @@ choose to do so.
 
 Bitcoin taught me that fractional reserve banking is pure insanity.
 
-### Lesson 14: Sound money
+## Lesson 14: Sound money
 
 The most important lesson I have learned from Bitcoin is that in the
 long run, hard money is superior to soft money. Hard money, also
@@ -1191,7 +1191,7 @@ own universe, the expansion seems to be accelerating.
 
 Find lessons 1--7 [here][I] and lessons 8--14 [here][II].
 
-### Lesson 15: Strength in numbers
+## Lesson 15: Strength in numbers
 
 Numbers are an essential part of our everyday life. Large numbers,
 however, aren't something most of us are too familiar with. The largest
@@ -1341,7 +1341,7 @@ unfathomably large haystack. I am now more aware of this fact than ever.
 
 Bitcoin taught me that there is strength in numbers.
 
-### Lesson 16: Reflections on "Don't Trust, Verify"
+## Lesson 16: Reflections on "Don't Trust, Verify"
 
 Bitcoin aims to replace, or at least provide an alternative to,
 conventional currency. Conventional currency is bound to a centralized
@@ -1480,7 +1480,7 @@ compromised.
 
 Bitcoin taught me not to trust, but to verify.
 
-### Lesson 17: Telling time takes work
+## Lesson 17: Telling time takes work
 
 It is often said that bitcoins are mined because thousands of computers
 work on solving *very complex* mathematical problems. Certain problems
@@ -1550,7 +1550,7 @@ Validation, not computation. Time, not blocks.
 Bitcoin taught me that telling the time is tricky, especially if you are
 decentralized.
 
-### Lesson 18: Move slowly and don't break things
+## Lesson 18: Move slowly and don't break things
 
 It might be a dead mantra, but "move fast and break things" is still how
 much of the tech world operates. The idea that it doesn't matter if you
@@ -1648,7 +1648,7 @@ in the first place.
 
 Bitcoin taught me that moving slowly is one of its features, not a bug.
 
-### Lesson 19: Privacy is not dead
+## Lesson 19: Privacy is not dead
 
 If pundits are to believed, privacy has been dead [since the 80ies]. The
 pseudonymous invention of Bitcoin and other events in recent history
@@ -1689,7 +1689,7 @@ We should all remember that privacy is a [fundamental human right]. And
 as long as people exercise and defend these rights the battle for
 privacy is far from over. Bitcoin taught me that privacy is not dead.
 
-### Lesson 20: Cypherpunks write code
+## Lesson 20: Cypherpunks write code
 
 Like many great ideas, Bitcoin didn't come out of nowhere. It was made
 possible by utilizing and combining many innovations and discoveries in
@@ -1755,7 +1755,7 @@ solutions. We should all aim to be a bit more cypherpunk.
 
 Bitcoin taught me that cypherpunks write code.
 
-### Lesson 21: Metaphors for Bitcoin's future
+## Lesson 21: Metaphors for Bitcoin's future
 
 In the last couple of decades, it became apparent that technological
 innovation does not follow a linear trend. Whether you believe in the
