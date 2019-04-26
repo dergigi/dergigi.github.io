@@ -71,6 +71,8 @@ enough, and Bitcoin will completely change your worldview.
 
 ---
 
+# Chapter I - Philosophy
+
 ### Lesson 1: Immutability and change
 
 Bitcoin is inherently hard to describe. It is a *new* *thing*, and any
@@ -372,10 +374,7 @@ which might help to grasp what Bitcoin is.
 
 What have you learned from Bitcoin?
 
-#### Translations
-
--   [Spanish translation] by [@CamiloJdL][camilo]
--   [Turkish translation] by [@deniz_zgur][deniz]
+# Chapter II - Economics
 
 Money doesn’t grow on trees. To believe that it does is foolish, and our
 parents make sure that we know about that by repeating this saying like a
@@ -1208,10 +1207,9 @@ What have you learned from Bitcoin?
 
 ---
 
+# Chapter III - Technology
 
-#### Translations
-
-  - [Turkish translation] by [@deniz_zgur][deniz]
+---
 
 What is Bitcoin? The many answers to this question are as interesting as
 they are varied. Bitcoin is both a social and a monetary phenomenon, but
@@ -2086,8 +2084,10 @@ insights, past and present.
 
 #### Translations
 
-  - [Turkish translation] by [@deniz_zgur][deniz]
+-   Chapter I is available in [Spanish][Spanish Translation] thanks to [@CamiloJdL][camilo]
+-   [Chapter I][tr-philosophy], [Chapter II][tr-economics], and [Chapter III][tr-technology] is available in Turkish thanks to [@deniz_zgur][deniz]
 
+<!-- Part I -->
 [*Bitcoin: A Peer-to-Peer Electronic Cash System*]: https://bitcoin.org/bitcoin.pdf
 [*Mastering Bitcoin*]: https://bitcoinbook.info/
 [*The Internet of Money*]: https://theinternetofmoney.info/
@@ -2241,7 +2241,7 @@ insights, past and present.
 [The Bullish Case For Bitcoin]: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
 [Bitcoin’s distribution was fair]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
 
-
+<!-- Part II -->
 [I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
 [II]: {% post_url /bitcoin/2019-01-11-economic-teachings-of-bitcoin %}
 [III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
@@ -2296,7 +2296,7 @@ insights, past and present.
 [fair distribution]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
 [Turkish translation]: https://medium.com/@denizozzgur/bitcoinin-ekonomi-%C3%B6%C4%9Fretileri-a3e87dcff525
 
-
+<!-- Part I -->
 [I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
 [II]: {% post_url /bitcoin/2019-01-11-economic-teachings-of-bitcoin %}
 [III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
