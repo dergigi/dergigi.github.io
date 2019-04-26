@@ -5,6 +5,24 @@ subtitle: What I've learned from falling down the Bitcoin rabbit hole
 category: bitcoin
 ---
 
+> Every experience is a paradox in that it means to be absolute, and yet
+> is relative; in that it somehow always goes beyond itself and yet never
+> escapes itself.
+> <cite>T.S. Elliot</cite>
+
+### Foreword
+
+This book is a compilation of three long-form articles I have written over the
+course of several months. My journey down the rabbit hole started long before
+writing said journey down, and since the following are lessons are a
+reflection of my personal experience, I don't claim them to be absolute nor
+complete.
+
+I hope, however, that they are instructive - or at least interesting -
+for some readers. Bitcoin, just like experience, may be a bitter teacher;
+but she is a good one.
+
+
 ### Table of Contents
 
   - Introduction
