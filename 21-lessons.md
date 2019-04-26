@@ -372,27 +372,6 @@ which might help to grasp what Bitcoin is.
 
 What have you learned from Bitcoin?
 
-
-### Acknowledgments
-
--   Thanks to [Arjun Balaji] for [the tweet] which motivated me to
-    write this.
--   Thanks to [Marty Bent][1] for providing endless food for thought
-    and entertainment. If you are not subscribed to [Marty's Ƀent] and
-    [Tales From The Crypt], you are missing out.
--   Thanks to [Michael Goldstein] and [Pierre Rochard] for curating and
-    providing the greatest Bitcoin literature via the [Nakamoto
-    Institute] and the [Noded Podcast] which influenced my philosophical
-    views on Bitcoin substantially.
--   Thanks to [Peter McCormack] for his [honest tweets] and the [What
-    Bitcoin Did] podcast, which keeps providing great insights from many
-    areas of the space.
--   Thanks to Jannik for providing feedback to early drafts of this
-    article.
--   And finally, thanks to all the bitcoin maximalists, shitcoin
-    minimalists, shills, bots, and shitposters which reside in the
-    beautiful garden that is crypto twitter.
-
 #### Translations
 
 -   [Spanish translation] by [@CamiloJdL][camilo]
@@ -1229,17 +1208,6 @@ What have you learned from Bitcoin?
 
 ---
 
-### Acknowledgments
-
-  - Again, thanks to [Arjun Balaji] for [the tweet] which gave birth to this series.
-  - Thanks to [Saifedean Ammous] for his convictions, savage tweets, and writing The Bitcoin Standard
-  - Thanks to [Dhruv Bansal] for taking the time to discuss some of these ideas with me.
-  - Thanks to [Matt Odell] for his candor and also for taking the time to discuss some of these ideas with me, even if he doesn’t remember all of it.
-  - Thanks to [Michael Goldstein] and [Pierre Rochard] for curating and providing relevant literature via the [Nakamoto Institute]
-  - Thanks to [Jannik], [Camilo], and [Matt] for providing feedback to early drafts of this article
-
-### Further Reading
-
 
 #### Translations
 
@@ -2019,6 +1987,26 @@ I've learned from Bitcoin.
 
 ### Acknowledgments
 
+<!-- Part I -->
+-   Thanks to [Arjun Balaji] for [the tweet] which motivated me to
+    write this.
+-   Thanks to [Marty Bent][1] for providing endless food for thought
+    and entertainment. If you are not subscribed to [Marty's Ƀent] and
+    [Tales From The Crypt], you are missing out.
+-   Thanks to [Michael Goldstein] and [Pierre Rochard] for curating and
+    providing the greatest Bitcoin literature via the [Nakamoto
+    Institute] and the [Noded Podcast] which influenced my philosophical
+    views on Bitcoin substantially.
+-   Thanks to [Peter McCormack] for his [honest tweets] and the [What
+    Bitcoin Did] podcast, which keeps providing great insights from many
+    areas of the space.
+-   Thanks to Jannik for providing feedback to early drafts of this
+    article.
+-   And finally, thanks to all the bitcoin maximalists, shitcoin
+    minimalists, shills, bots, and shitposters which reside in the
+    beautiful garden that is crypto twitter.
+
+<!-- Part II -->
 -   Once more, thanks to [Arjun Balaji] for [the tweet] which gave
     birth to this series.
 -   Thanks to [Andreas M. Antonopoulos] for all the [educational
@@ -2037,9 +2025,22 @@ I've learned from Bitcoin.
     enjoyed it as much as I did enjoy writing it. Feel free to [reach out
     to me] on twitter. My DMs are open.
 
+<!-- Part III -->
+-   Again, thanks to [Arjun Balaji] for [the tweet] which gave birth to this series.
+-   Thanks to [Saifedean Ammous] for his convictions, savage tweets, and writing The Bitcoin Standard
+-   Thanks to [Dhruv Bansal] for taking the time to discuss some of these ideas with me.
+-   Thanks to [Matt Odell] for his candor and also for taking the time to discuss some of these ideas with me, even if he doesn’t remember all of it.
+-   Thanks to [Michael Goldstein] and [Pierre Rochard] for curating and providing relevant literature via the [Nakamoto Institute]
+-   Thanks to [Jannik], [Camilo], and [Matt] for providing feedback to early drafts of this article
+
+
 ### Further Reading
 
-There exists an almost endless list of books and essays on the topics discussed above and economic thought in general. The books and articles listed below are but a small selection which were particularly influential in my thinking. I am grateful for all the people who shared their insights, past and present.
+There exists an almost endless list of books and essays on the topics
+discussed above and economic thought in general. The books and articles
+listed below are but a small selection which were particularly influential
+in my thinking. I am grateful for all the people who shared their
+insights, past and present.
 
 <!-- Part I -->
 -   [The Bitcoin Standard: The Decentralized Alternative to Central Banking][book1]
