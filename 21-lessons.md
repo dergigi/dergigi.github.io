@@ -1999,9 +1999,6 @@ I've learned from Bitcoin.
     Bitcoin Did] podcast, which keeps providing great insights from many
     areas of the space.
 -   Thanks to [Jannik] for providing feedback to early drafts of all chapters.
--   And finally, thanks to all the bitcoin maximalists, shitcoin
-    minimalists, shills, bots, and shitposters which reside in the
-    beautiful garden that is crypto twitter.
 
 <!-- Part II -->
 -   Thanks to [Andreas M. Antonopoulos] for all the [educational
@@ -2022,16 +2019,19 @@ I've learned from Bitcoin.
 
 <!-- Part III -->
 -   Thanks to [Saifedean Ammous] for his convictions, savage tweets, and
-writing The Bitcoin Standard
+    writing The Bitcoin Standard
 -   Thanks to [Dhruv Bansal] for taking the time to discuss some of these
-ideas with me.
+    ideas with me.
 -   Thanks to [Matt Odell] for his candor and also for taking the time to
-discuss some of these ideas with me, even if he doesn’t remember all of it.
+    discuss some of these ideas with me, even if he doesn’t remember all of it.
 -   Thanks to [Michael Goldstein] and [Pierre Rochard] for curating and
-providing relevant literature via the [Nakamoto Institute]
+    providing relevant literature via the [Nakamoto Institute]
 -   Thanks to [Jannik], [Camilo], and [Matt] for providing feedback to early
-drafts of this article
+    drafts of this article
 
+-   And finally, thanks to all the bitcoin maximalists, shitcoin
+    minimalists, shills, bots, and shitposters which reside in the
+    beautiful garden that is crypto twitter.
 
 ### Further Reading
 
