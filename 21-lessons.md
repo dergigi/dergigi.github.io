@@ -563,7 +563,7 @@ leads to outright inflation.
 
 > ""Mild" steady inflation cannot help --- it can lead only to outright
 > inflation."
-> <cite>[Friedrich Hayek]</cite>
+> <cite>[Friedrich Hayek][inflation cannot help]</cite>
 
 Inflation is particularly devious since it favors those who are closer
 to the printing presses. It takes time for the newly created money to
@@ -576,7 +576,7 @@ ends up paying the price.
 > "I do not think it is an exaggeration to say history is largely a
 > history of inflation, and usually of inflations engineered by
 > governments for the gain of governments."
-> <cite>[Friedrich Hayek][1]</cite>
+> <cite>[Friedrich Hayek][history of inflation]</cite>
 
 So far, all government-controlled currencies have eventually been
 replaced or have collapsed completely. No matter how small the rate of
@@ -1196,7 +1196,7 @@ and evolving too fast to ever be fully understood by a single person.
 the thing out of the hands of government, that is, we can’t take it violently
 out of the hands of government, all we can do is by some sly roundabout way
 introduce something that they can’t stop.”
-> <cite>[Friedrich Hayek][Sly roundabout way]</cite>
+> <cite>[Friedrich Hayek][sly roundabout way]</cite>
 
 Learning these lessons enabled me to finally understand what Hayek meant by
 the above. I believe that Bitcoin is the sly, roundabout way to re-introduce
@@ -2005,8 +2005,6 @@ I've learned from Bitcoin.
     beautiful garden that is crypto twitter.
 
 <!-- Part II -->
--   Once more, thanks to [Arjun Balaji] for [the tweet] which gave
-    birth to this series.
 -   Thanks to [Andreas M. Antonopoulos] for all the [educational
     material] he has put out over the years.
 -   Thanks to [Marty] and [Matt] for guiding me through the rabbit hole
@@ -2024,8 +2022,6 @@ I've learned from Bitcoin.
     to me] on twitter. My DMs are open.
 
 <!-- Part III -->
--   Again, thanks to [Arjun Balaji] for [the tweet] which gave birth to
-this series.
 -   Thanks to [Saifedean Ammous] for his convictions, savage tweets, and
 writing The Bitcoin Standard
 -   Thanks to [Dhruv Bansal] for taking the time to discuss some of these
@@ -2134,7 +2130,6 @@ insights, past and present.
 [deniz]: https://twitter.com/deniz_zgur
 
 [Nakamoto Institute]: http://nakamotoinstitute.org
-[the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
 
 [trojan-paper]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.720.9288&rep=rep1&type=pdf
 
@@ -2263,9 +2258,9 @@ insights, past and present.
 [visible to anyone]: https://github.com/bitcoin/bitcoin
 [Henry Hazlitt]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwi058KmgNrfAhWHneAKHbmCDFUQFjACegQIExAC&url=https%3A%2F%2Fmises.org%2Fsystem%2Ftdf%2FHenry%2520Hazlitt%2520Economics%2520in%2520One%2520Lesson.pdf%3Ffile%3D1%26type%3Ddocument&usg=AOvVaw0_kRtaNPMez0UdYGsrKThv
 [hyperinflates]: https://en.wikipedia.org/wiki/Hyperinflation
-[Friedrich Hayek]: https://books.google.com/books?id=zZu3AAAAIAAJ&dq=%22only+while+it+accelerates%22&focus=searchwithinvolume&q=%22steady+inflation+cannot+help%22
-[Sly roundabout way]: https://youtu.be/EYhEDxFwFRU?t=1124
-[1]: https://books.google.com/books?id=l_A1vVIaYBYC&pg=PA142&dq=%22history+is+largely+a+history+of+inflation%22&hl=en&sa=X&ved=0ahUKEwi90NDLrdnfAhUprVkKHUx1CmIQ6AEIKjAA#v=onepage&q=%22history%20is%20largely%20a%20history%20of%20inflation%22&f=false
+[inflation can not help]: https://books.google.com/books?id=zZu3AAAAIAAJ&dq=%22only+while+it+accelerates%22&focus=searchwithinvolume&q=%22steady+inflation+cannot+help%22
+[sly roundabout way]: https://youtu.be/EYhEDxFwFRU?t=1124
+[history of inflation]: https://books.google.com/books?id=l_A1vVIaYBYC&pg=PA142&dq=%22history+is+largely+a+history+of+inflation%22&hl=en&sa=X&ved=0ahUKEwi90NDLrdnfAhUprVkKHUx1CmIQ6AEIKjAA#v=onepage&q=%22history%20is%20largely%20a%20history%20of%20inflation%22&f=false
 [currently suffering]: https://en.wikipedia.org/wiki/Crisis_in_Venezuela#Economic_crisis
 [list of historical currencies]: https://en.wikipedia.org/wiki/List_of_historical_currencies
 [currently in use]: https://en.wikipedia.org/wiki/List_of_currencies
@@ -2330,8 +2325,6 @@ insights, past and present.
 [illegal primes]: https://en.wikipedia.org/wiki/Illegal_prime
 [Beautyon]: https://hackernoon.com/why-america-cant-regulate-bitcoin-8c77cee8d794
 [Jameson Lopp]: https://twitter.com/lopp/status/1061415918616698881
-[Arjun Balaji]: https://medium.com/@arjunblj
-[the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
 [1]: https://medium.com/@martysbent
 [Marty's Ƀent]: http://eepurl.com/cROArD
 [Tales From The Crypt]: https://talesfromthecrypt.libsyn.com/
