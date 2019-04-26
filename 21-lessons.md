@@ -2024,12 +2024,18 @@ I've learned from Bitcoin.
     to me] on twitter. My DMs are open.
 
 <!-- Part III -->
--   Again, thanks to [Arjun Balaji] for [the tweet] which gave birth to this series.
--   Thanks to [Saifedean Ammous] for his convictions, savage tweets, and writing The Bitcoin Standard
--   Thanks to [Dhruv Bansal] for taking the time to discuss some of these ideas with me.
--   Thanks to [Matt Odell] for his candor and also for taking the time to discuss some of these ideas with me, even if he doesn’t remember all of it.
--   Thanks to [Michael Goldstein] and [Pierre Rochard] for curating and providing relevant literature via the [Nakamoto Institute]
--   Thanks to [Jannik], [Camilo], and [Matt] for providing feedback to early drafts of this article
+-   Again, thanks to [Arjun Balaji] for [the tweet] which gave birth to
+this series.
+-   Thanks to [Saifedean Ammous] for his convictions, savage tweets, and
+writing The Bitcoin Standard
+-   Thanks to [Dhruv Bansal] for taking the time to discuss some of these
+ideas with me.
+-   Thanks to [Matt Odell] for his candor and also for taking the time to
+discuss some of these ideas with me, even if he doesn’t remember all of it.
+-   Thanks to [Michael Goldstein] and [Pierre Rochard] for curating and
+providing relevant literature via the [Nakamoto Institute]
+-   Thanks to [Jannik], [Camilo], and [Matt] for providing feedback to early
+drafts of this article
 
 
 ### Further Reading
@@ -2069,23 +2075,23 @@ insights, past and present.
 
 <!-- Part III -->
 
-  - [The Bitcoin Standard: The Decentralized Alternative to Central Banking][bitcoin-standard] by Saifedean Ammous
-  - [Economics in One Lesson] by Henry Hazlitt
-  - [Human Action] by Ludwig von Mises
-  - [The Ethics of Money Production] by Jörg Guido Hülsmann
-  - [The Denationalization of Money] by Friedrich Hayek
-  - [The Machinery of Freedom] by David D. Friedman
-  - [The Case Against The Fed] by Murray N. Rothbard
-  - [End the Fed] by Ron Paul
-  - [Shelling Out: The Origins of Money] by Nick Szabo
-  - [The Bitcoin Halving and Monetary Competition] by [Saifedean Ammous]
-  - [The Bullish Case For Bitcoin] by [Vijay Boyapati]
-  - [Bitcoin’s distribution was fair] by [Dan Held]
+-   [The Bitcoin Standard: The Decentralized Alternative to Central Banking][bitcoin-standard] by Saifedean Ammous
+-   [Economics in One Lesson] by Henry Hazlitt
+-   [Human Action] by Ludwig von Mises
+-   [The Ethics of Money Production] by Jörg Guido Hülsmann
+-   [The Denationalization of Money] by Friedrich Hayek
+-   [The Machinery of Freedom] by David D. Friedman
+-   [The Case Against The Fed] by Murray N. Rothbard
+-   [End the Fed] by Ron Paul
+-   [Shelling Out: The Origins of Money] by Nick Szabo
+-   [The Bitcoin Halving and Monetary Competition] by [Saifedean Ammous]
+-   [The Bullish Case For Bitcoin] by [Vijay Boyapati]
+-   [Bitcoin’s distribution was fair] by [Dan Held]
 
 #### Translations
 
--   Chapter I is available in [Spanish][Spanish Translation] thanks to [@CamiloJdL][camilo]
--   [Chapter I][tr-philosophy], [Chapter II][tr-economics], and [Chapter III][tr-technology] is available in Turkish thanks to [@deniz_zgur][deniz]
+-   Chapter I is available in [Spanish][Spanish Translation] thanks to [@CamiloJdL][camilo].
+-   [Chapter I][tr-philosophy], [Chapter II][tr-economics], and [Chapter III][tr-technology] is available in Turkish thanks to [@deniz_zgur][deniz]. Note that the order of the chapters is different in the Turkish translation.
 
 <!-- Part I -->
 [*Bitcoin: A Peer-to-Peer Electronic Cash System*]: https://bitcoin.org/bitcoin.pdf
@@ -2209,7 +2215,7 @@ insights, past and present.
 [educational material]: https://antonopoulos.com/
 [timechain]: https://twitter.com/francispouliot_/status/1106028072799744002
 [reach out to me]: https://twitter.com/dergigi
-[Turkish translation]: https://medium.com/@denizozzgur/blockchainin-teknolojik-%C3%B6%C4%9Fretileri-34ae5a6949a7
+[tr-technology]: https://medium.com/@denizozzgur/blockchainin-teknolojik-%C3%B6%C4%9Fretileri-34ae5a6949a7
 
 
 [Arjun Balaji]: https://twitter.com/arjunblj
@@ -2294,7 +2300,7 @@ insights, past and present.
 [much energy]: https://medium.com/@dergigi/bitcoins-energy-consumption-6dd7d7a2e463
 [universal speed limit]: https://en.wikipedia.org/wiki/Speed_of_light#Upper_limit_on_speeds
 [fair distribution]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
-[Turkish translation]: https://medium.com/@denizozzgur/bitcoinin-ekonomi-%C3%B6%C4%9Fretileri-a3e87dcff525
+[tr-economics]: https://medium.com/@denizozzgur/bitcoinin-ekonomi-%C3%B6%C4%9Fretileri-a3e87dcff525
 
 <!-- Part I -->
 [I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
@@ -2347,5 +2353,5 @@ insights, past and present.
 [podcast1]: https://www.whatbitcoindid.com/podcast/coin-centers-peter-van-valkenburg-on-preserving-the-freedom-to-innovate-with-public-blockchains
 [Spanish translation]: https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9
 [camilo]: https://twitter.com/CamiloJdL
-[Turkish translation]: https://medium.com/@denizozzgur/bitcoinin-felsefi-%C3%B6%C4%9Fretileri-e7df2338a2fc
+[tr-philosophy]: https://medium.com/@denizozzgur/bitcoinin-felsefi-%C3%B6%C4%9Fretileri-e7df2338a2fc
 [deniz]: https://twitter.com/deniz_zgur
