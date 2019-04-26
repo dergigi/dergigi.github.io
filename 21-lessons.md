@@ -76,8 +76,8 @@ enough, and Bitcoin will completely change your worldview.
 {% include image.html otherPost="2018-12-21-philosophical-teachings-of-bitcoin" name="bitcoin-orange-pill.jpg" %}
 
 ---
-
 # Chapter I - Philosophy
+---
 
 ### Lesson 1: Immutability and change
 
@@ -355,32 +355,8 @@ Bitcoin taught me that I know very little about almost anything. It
 taught me that this rabbit hole is bottomless.
 
 ---
-
-### Conclusion
-
-Bitcoin is a child of the internet. Even though it requires computers to
-function efficiently, computer science is not sufficient to understand
-it. The implications of this new technology are far-reaching. Bitcoin is
-not only borderless but also boundaryless in respect to academic
-disciplines.
-
-In this first part of the *Teachings of Bitcoin* I tried to outline some
-of the philosophical implications of this fascinating machinery. In part
-two I will try to discuss what Bitcoin taught me about economics. Part
-three will conclude this series to show what I, a technologist, have
-learned from the tech perspective by stumbling into Bitcoin.
-
-As mentioned above, I think that any answer to the question *"What have
-you learned from Bitcoin?"* will always be incomplete. The systems are
-too dynamic, the space moving too fast, and the topics too numerous.
-Politics, game theory, monetary history, network theory, finance,
-cryptography, information theory, censorship, law and regulation, human
-organization, psychology --- all these and more are areas of expertise
-which might help to grasp what Bitcoin is.
-
-What have you learned from Bitcoin?
-
 # Chapter II - Economics
+---
 
 Money doesn’t grow on trees. To believe that it does is foolish, and our
 parents make sure that we know about that by repeating this saying like a
@@ -431,8 +407,6 @@ In any case, hop on and enjoy the ride. Economy class is all I can offer this
 time. Final destination: sound money.
 
 Find lessons 1-7 [here][I].
-
----
 
 ### Lesson 8: Financial Ignorance
 
@@ -1179,42 +1153,7 @@ produce more of.
 Bitcoin taught me that me that sound money is essential.
 
 ---
-
-### Conclusion
-
-As we leave the “blockchain not bitcoin” days behind us, most people start
-to realize that there is not a single invention which encapsulates the
-genius of Bitcoin. It is the combination of multiple, previously unrelated
-pieces, glued together by game theoretical incentives, which make up the
-revolution that is Bitcoin.
-
-For me, the economic teachings of Bitcoin are as fascinating as the
-philosophical ones examined in [part one][I]. Being a technophile, I can’t wait
-to tell you what Bitcoin taught me about technology in the third and final
-part of this series.
-
-As mentioned before, I think that any answer to the question “What have you
-learned from Bitcoin?” will always be incomplete. The symbiosis of the
-two living systems examined here — Bitcoin and economics — is too intertwined
-and evolving too fast to ever be fully understood by a single person.
-
-> “I don’t believe we shall ever have a good money again before we take
-the thing out of the hands of government, that is, we can’t take it violently
-out of the hands of government, all we can do is by some sly roundabout way
-introduce something that they can’t stop.”
-> <cite>[Friedrich Hayek][sly roundabout way]</cite>
-
-Learning these lessons enabled me to finally understand what Hayek meant by
-the above. I believe that Bitcoin is the sly, roundabout way to re-introduce
-sound money to the world. Thanks to the economic teachings of Bitcoin I
-learned what good money is and that having it is possible.
-
-What have you learned from Bitcoin?
-
----
-
 # Chapter III - Technology
-
 ---
 
 What is Bitcoin? The many answers to this question are as interesting as
@@ -1251,8 +1190,6 @@ written on small, specific parts of this cosmos. And just like in our
 own universe, the expansion seems to be accelerating.
 
 Find lessons 1--7 [here][I] and lessons 8--14 [here][II].
-
----
 
 ### Lesson 15: Strength in numbers
 
@@ -1940,8 +1877,58 @@ understanding its future. A future which is just beginning.
 
 ---
 
-### Conclusion
+# Conclusion
 
+<!-- Chapter I -->
+Bitcoin is a child of the internet. Even though it requires computers to
+function efficiently, computer science is not sufficient to understand
+it. The implications of this new technology are far-reaching. Bitcoin is
+not only borderless but also boundaryless in respect to academic
+disciplines.
+
+In this first part of the *Teachings of Bitcoin* I tried to outline some
+of the philosophical implications of this fascinating machinery. In part
+two I will try to discuss what Bitcoin taught me about economics. Part
+three will conclude this series to show what I, a technologist, have
+learned from the tech perspective by stumbling into Bitcoin.
+
+As mentioned above, I think that any answer to the question *"What have
+you learned from Bitcoin?"* will always be incomplete. The systems are
+too dynamic, the space moving too fast, and the topics too numerous.
+Politics, game theory, monetary history, network theory, finance,
+cryptography, information theory, censorship, law and regulation, human
+organization, psychology --- all these and more are areas of expertise
+which might help to grasp what Bitcoin is.
+
+<!-- Chapter II -->
+As we leave the “blockchain not bitcoin” days behind us, most people start
+to realize that there is not a single invention which encapsulates the
+genius of Bitcoin. It is the combination of multiple, previously unrelated
+pieces, glued together by game theoretical incentives, which make up the
+revolution that is Bitcoin.
+
+For me, the economic teachings of Bitcoin are as fascinating as the
+philosophical ones examined in [part one][I]. Being a technophile, I can’t wait
+to tell you what Bitcoin taught me about technology in the third and final
+part of this series.
+
+As mentioned before, I think that any answer to the question “What have you
+learned from Bitcoin?” will always be incomplete. The symbiosis of the
+two living systems examined here — Bitcoin and economics — is too intertwined
+and evolving too fast to ever be fully understood by a single person.
+
+> “I don’t believe we shall ever have a good money again before we take
+the thing out of the hands of government, that is, we can’t take it violently
+out of the hands of government, all we can do is by some sly roundabout way
+introduce something that they can’t stop.”
+> <cite>[Friedrich Hayek][sly roundabout way]</cite>
+
+Learning these lessons enabled me to finally understand what Hayek meant by
+the above. I believe that Bitcoin is the sly, roundabout way to re-introduce
+sound money to the world. Thanks to the economic teachings of Bitcoin I
+learned what good money is and that having it is possible.
+
+<!-- Chapter III -->
 Technology is all about the application of scientific knowledge to solve
 problems in the real world. Every technology has to make tradeoffs in
 terms of efficiency, cost, security, and many other properties. Just
@@ -1989,7 +1976,9 @@ economics, and technology of Bitcoin interact in a complex feedback
 loop, and I hope that these 21 lessons are just the beginning of what
 I've learned from Bitcoin.
 
-### Acknowledgments
+---
+
+# Acknowledgments
 
 Thanks to the countless authors and content producers who
 influenced my thinking on Bitcoin and the topics it touches. There
@@ -2028,7 +2017,7 @@ are too many to list them all, but I'll do my best to name a few.
     reading this. I hope you enjoyed it as much as I did enjoy writing it.
     Feel free to [reach out to me] on twitter. My DMs are open.
 
-### Further Reading
+# Further Reading
 
 There exists an almost endless list of books and essays on the topics
 discussed above and economic thought in general. The books and articles
