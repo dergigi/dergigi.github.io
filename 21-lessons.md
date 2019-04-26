@@ -1985,53 +1985,42 @@ I've learned from Bitcoin.
 
 ### Acknowledgments
 
+Thanks to the countless authors and content producers who
+influenced my thinking on Bitcoin and the topics it touches. There
+are too many to list them all, but I'll do my best to name a few.
+
 <!-- Part I -->
 -   Thanks to [Arjun Balaji] for [the tweet] which motivated me to
     write this.
 -   Thanks to [Marty Bent] for providing endless food for thought
     and entertainment. If you are not subscribed to [Marty's Ƀent] and
-    [Tales From The Crypt], you are missing out.
+    [Tales From The Crypt], you are missing out. Cheers [Matt] and Marty
+    for guiding us through the rabbit hole.
 -   Thanks to [Michael Goldstein] and [Pierre Rochard] for curating and
     providing the greatest Bitcoin literature via the [Nakamoto
-    Institute] and the [Noded Podcast] which influenced my philosophical
-    views on Bitcoin substantially.
+    Institute]. And thank you for creating the [Noded Podcast]
+    which influenced my philosophical views on Bitcoin substantially.
 -   Thanks to [Peter McCormack] for his [honest tweets] and the [What
     Bitcoin Did] podcast, which keeps providing great insights from many
     areas of the space.
--   Thanks to [Jannik] for providing feedback to early drafts of all chapters.
-
 <!-- Part II -->
 -   Thanks to [Andreas M. Antonopoulos] for all the [educational
     material] he has put out over the years.
--   Thanks to [Marty] and [Matt] for guiding me through the rabbit hole
-    and reminding us all to stay humble and stack sats.
--   Thanks to [Francis Pouliot] for sharing his excitement about
-    finding out about the [timechain].
--   Thanks to [Brandon], [Camilo], [Daniel], [Jannik], [Michael], and
-    [Raphael] for providing feedback to early drafts of this
-    article
--   Thanks to the countless authors and content producers who
-    influenced my thinking on Bitcoin and the topics it touches. There
-    are simply too many to name.
--   And finally, thank *you* for reading this series. I hope you
-    enjoyed it as much as I did enjoy writing it. Feel free to [reach out
-    to me] on twitter. My DMs are open.
-
-<!-- Part III -->
 -   Thanks to [Saifedean Ammous] for his convictions, savage tweets, and
     writing The Bitcoin Standard
--   Thanks to [Dhruv Bansal] for taking the time to discuss some of these
-    ideas with me.
--   Thanks to [Matt Odell] for his candor and also for taking the time to
-    discuss some of these ideas with me, even if he doesn’t remember all of it.
--   Thanks to [Michael Goldstein] and [Pierre Rochard] for curating and
-    providing relevant literature via the [Nakamoto Institute]
--   Thanks to [Jannik], [Camilo], and [Matt] for providing feedback to early
-    drafts of this article
-
--   And finally, thanks to all the bitcoin maximalists, shitcoin
+-   Thanks to [Francis Pouliot] for sharing his excitement about
+    finding out about the [timechain].
+-   Thanks to [Jannik], [Brandon], [Matt], [Camilo], [Daniel], [Michael], and
+    [Raphael] for providing feedback to early drafts of some lessons.
+    Special thanks to [Jannik] who proofread multiple drafts multiple times.
+<!-- Part III -->
+-   Thanks to [Dhruv Bansal] and [Matt Odell] for taking the time to 
+    discuss some of these ideas with me.
+-   Last but not least, thanks to all the bitcoin maximalists, shitcoin
     minimalists, shills, bots, and shitposters which reside in the
-    beautiful garden that is crypto twitter.
+    beautiful garden that is crypto twitter. And finally, thank *you* for
+    reading this. I hope you enjoyed it as much as I did enjoy writing it.
+    Feel free to [reach out to me] on twitter. My DMs are open.
 
 ### Further Reading
 
