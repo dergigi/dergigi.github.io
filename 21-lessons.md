@@ -1988,7 +1988,7 @@ I've learned from Bitcoin.
 <!-- Part I -->
 -   Thanks to [Arjun Balaji] for [the tweet] which motivated me to
     write this.
--   Thanks to [Marty Bent][1] for providing endless food for thought
+-   Thanks to [Marty Bent] for providing endless food for thought
     and entertainment. If you are not subscribed to [Marty's Ƀent] and
     [Tales From The Crypt], you are missing out.
 -   Thanks to [Michael Goldstein] and [Pierre Rochard] for curating and
@@ -1998,8 +1998,7 @@ I've learned from Bitcoin.
 -   Thanks to [Peter McCormack] for his [honest tweets] and the [What
     Bitcoin Did] podcast, which keeps providing great insights from many
     areas of the space.
--   Thanks to Jannik for providing feedback to early drafts of this
-    article.
+-   Thanks to [Jannik] for providing feedback to early drafts of all chapters.
 -   And finally, thanks to all the bitcoin maximalists, shitcoin
     minimalists, shills, bots, and shitposters which reside in the
     beautiful garden that is crypto twitter.
@@ -2325,7 +2324,6 @@ insights, past and present.
 [illegal primes]: https://en.wikipedia.org/wiki/Illegal_prime
 [Beautyon]: https://hackernoon.com/why-america-cant-regulate-bitcoin-8c77cee8d794
 [Jameson Lopp]: https://twitter.com/lopp/status/1061415918616698881
-[1]: https://medium.com/@martysbent
 [Marty's Ƀent]: http://eepurl.com/cROArD
 [Tales From The Crypt]: https://talesfromthecrypt.libsyn.com/
 [Michael Goldstein]: https://medium.com/@bitstein
