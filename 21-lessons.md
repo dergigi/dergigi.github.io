@@ -847,7 +847,7 @@ because Joachimsthal was *the* valley for silver coin production, people
 simply referred to these silver coins as *Thaler.* Thaler (German)
 morphed into daalders (Dutch), and finally dollars (English).
 
-{% include image.html name="joachimsthaler.png" caption="The original 'dollar'. Saint Joachim is pictured with his robe and wizard hat. Picture cc-by-sa Berlin-George"%}
+{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="joachimsthaler.png" caption="The original 'dollar'. Saint Joachim is pictured with his robe and wizard hat. Picture cc-by-sa Berlin-George"%}
 
 The introduction of representative money heralded the downfall of hard
 money. Gold certificates were introduced in 1863, and about fifteen
@@ -1320,7 +1320,7 @@ There exists an almost endless list of books and essays on the topics discussed 
   -  10¹²: One trillion seconds ago Manhattan was covered under a [thick
       layer of ice].
 
-  {% include image.html name="xkcd-1125.png" caption="About 1 trillion seconds ago. Source: xkcd #1125" %}
+  {% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="xkcd-1125.png" caption="About 1 trillion seconds ago. Source: xkcd #1125" %}
 
   As soon as we enter the beyond-astronomical realm of modern
   cryptography, our intuition fails catastrophically. Bitcoin is built
@@ -1365,7 +1365,7 @@ There exists an almost endless list of books and essays on the topics discussed 
   [3Blue1Brown] videos it is not only fascinating but also exceptionally
   well made. Warning: You might fall down a math rabbit hole.
 
-  {% include image.html name="youtube-vid.png" caption="Answer: Pretty secure." %}
+  {% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="youtube-vid.png" caption="Answer: Pretty secure." %}
 
   [Bruce Schneier] used the physical limits of computation to put this
   number into perspective: even if we could build an optimal computer,
@@ -1426,7 +1426,7 @@ There exists an almost endless list of books and essays on the topics discussed 
   central authority of account creation is mathematics. And God only knows
   who is in charge of that.
 
-  {% include image.html name="elliptic-curve-examples.png" caption="Elliptic curve examples (cc-by-sa Emmanuel Boutet)" %}
+  {% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="elliptic-curve-examples.png" caption="Elliptic curve examples (cc-by-sa Emmanuel Boutet)" %}
 
   Bitcoin is built upon our best understanding of reality. While there are
   still many open problems in physics, computer science, and mathematics,
@@ -1493,7 +1493,7 @@ There exists an almost endless list of books and essays on the topics discussed 
   "The moral is obvious. You can't trust code that you did not totally
   create yourself."
 
-  {% include image.html name="ken-thompson-hack.png" %}
+  {% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="ken-thompson-hack.png" %}
 
   Thompson demonstrated that even if you have access to the source code,
   your compiler --- or any other program-handling program or
@@ -1518,7 +1518,7 @@ There exists an almost endless list of books and essays on the topics discussed 
   which is one of the most important tamper-detection mechanism for chips
   like these.
 
-  {% include image.html name="stealthy-hardware-trojan.png" caption="Stealthy Dopant-Level Hardware Trojans by Becker, Regazzoni, Paar, Burleson" %}
+  {% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="stealthy-hardware-trojan.png" caption="Stealthy Dopant-Level Hardware Trojans by Becker, Regazzoni, Paar, Burleson" %}
 
   Sounds scary? Well, even if you would be able to build everything from
   scratch, you would still have to trust the underlying mathematics. You
@@ -1558,7 +1558,7 @@ There exists an almost endless list of books and essays on the topics discussed 
   As of this writing, a [pull-request] is in progress to integrate Guix
   into the Bitcoin build process.
 
-  {% include image.html name="guix-bootstrap-dependencies.png" caption="Which came first, the chicken or the egg?" %}
+  {% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="guix-bootstrap-dependencies.png" caption="Which came first, the chicken or the egg?" %}
 
   Luckily, Bitcoin doesn't rely on a single algorithm or piece of
   hardware. One effect of Bitcoin's radical decentralization is a
@@ -1597,7 +1597,7 @@ There exists an almost endless list of books and essays on the topics discussed 
   As outlined in the whitepaper, the proof-of-work system (aka mining) is
   a way to implement a distributed timestamp server.
 
-  {% include image.html name="bitcoin-whitepaper-timestamp-wide.png" caption="Excerpts from the whitepaper. Did someone say timechain?" %}
+  {% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="bitcoin-whitepaper-timestamp-wide.png" caption="Excerpts from the whitepaper. Did someone say timechain?" %}
 
   When I first learned how Bitcoin works I also thought that proof-of-work
   is inefficient and wasteful. After a while, I started to [shift my
@@ -1766,7 +1766,7 @@ There exists an almost endless list of books and essays on the topics discussed 
   Japanese male, which is why I don't assume but respect his chosen gender
   and refer to him as *he*.
 
-  {% include image.html name="nope.png" caption="I am not Dorian Nakamoto." %}
+  {% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="nope.png" caption="I am not Dorian Nakamoto." %}
 
   Whatever his real identity might be, Satoshi was successful in hiding
   it. He set an encouraging example for everyone who wishes to remain
@@ -1840,7 +1840,7 @@ There exists an almost endless list of books and essays on the topics discussed 
   works, and every 10 minutes or so Bitcoin proofs to the world that it is
   still living.
 
-  {% include image.html name="bitcoin-v0.1-code.png" caption="Code excerpts from Bitcoin version 0.1.0" %}
+  {% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="bitcoin-v0.1-code.png" caption="Code excerpts from Bitcoin version 0.1.0" %}
 
   To make sure that his innovation transcends fantasy and becomes reality,
   Satoshi wrote code to implement his idea before he wrote the whitepaper.
@@ -1876,7 +1876,7 @@ There exists an almost endless list of books and essays on the topics discussed 
   all follow exponential trends in price-performance and adoption. Bitcoin
   does too.
 
-  {% include image.html name="tech-adoption.png" caption="Bitcoin is literally off the charts." %}
+  {% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="tech-adoption.png" caption="Bitcoin is literally off the charts." %}
 
   Bitcoin has not one but [multiple network effects], all of which
   resulting in exponential growth patterns in their respective area:
@@ -1888,7 +1888,7 @@ There exists an almost endless list of books and essays on the topics discussed 
   yet. It might be in its adolescence. But if the technology is
   exponential, the path from obscurity to ubiquity is short.
 
-  {% include image.html name="mobile-phone.png" caption="Mobile phone, ca 1965 vs 2019." %}
+  {% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="mobile-phone.png" caption="Mobile phone, ca 1965 vs 2019." %}
 
   In his 2003 [TED talk], Jeff Bezos chose to use electricity as a
   metaphor for the web's future. All three phenomena --- electricity, the
@@ -1928,7 +1928,7 @@ There exists an almost endless list of books and essays on the topics discussed 
   Bitcoin, the vast amounts of untapped potential are clear to all but the
   most casual observer.
 
-  {% include image.html name="internet-evolution-black-dates.png" caption="The internet, 1982 vs 2005. Source: cc-by Merit Network, Inc. and Barrett Lyon, Opte Project" %}
+  {% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="internet-evolution-black-dates.png" caption="The internet, 1982 vs 2005. Source: cc-by Merit Network, Inc. and Barrett Lyon, Opte Project" %}
 
 
   Bitcoin's first node went online in 2009 after Satoshi mined the
@@ -1947,7 +1947,7 @@ There exists an almost endless list of books and essays on the topics discussed 
   where loss of funds can and does occur. Yet the [trend is clear][Jameson Lopp]:
   thousands of people are [reckless] and eager to use it.
 
-  {% include image.html name="lnd-growth-lopp-black.png" caption="Lightning Network, January 2018 vs December 2018. Source: Jameson Lopp" %}
+  {% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="lnd-growth-lopp-black.png" caption="Lightning Network, January 2018 vs December 2018. Source: Jameson Lopp" %}
 
   To me, having lived through the meteoric rise of the web, the parallels
   between the internet and Bitcoin are obvious. Both are networks, both
