@@ -2074,8 +2074,52 @@ insights, past and present.
 
 #### Translations
 
--   Chapter I is available in [Spanish][Spanish Translation] thanks to [@CamiloJdL][camilo].
+-   Chapter I is available in [Spanish][Spanish Translation] thanks to [@CamiloJdL][Camilo].
 -   [Chapter I][tr-philosophy], [Chapter II][tr-economics], and [Chapter III][tr-technology] is available in Turkish thanks to [@deniz_zgur][deniz]. Note that the order of the chapters is different in the Turkish translation.
+
+<!-- Internal -->
+[I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
+[II]: {% post_url /bitcoin/2019-01-11-economic-teachings-of-bitcoin %}
+[III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
+[energy]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
+
+<!-- Twitter -->
+[Arjun Balaji]: https://twitter.com/arjunblj
+[Saifedean Ammous]: https://twitter.com/saifedean
+[Dhruv Bansal]: https://twitter.com/dhruvbansal
+[Matt Odell]: https://twitter.com/matt_odell
+[Matt]: https://twitter.com/matt_odell
+[Michael Goldstein]: https://twitter.com/bitstein
+[Pierre Rochard]: https://twitter.com/pierre_rochard
+[Hugo Nguyen]: hhttps://twitter.com/hugohano
+[Jannik]: https://twitter.com/jnnksbrt
+[Camilo]: https://twitter.com/CamiloJdL
+[Michael]: https://twitter.com/michael_rogger
+[Daniel]: https://twitter.com/dnlggr
+[Raphael]: https://twitter.com/dinemuatta
+[Dan Held]: https://twitter.com/danheld
+[Vijay Boyapati]: https://twitter.com/real_vijay
+[Hasu]: https://twitter.com/hasufl
+[Brandon]: https://twitter.com/bquittem
+[Andreas M. Antonopoulos]: https://twitter.com/aantonop
+[Francis Pouliot]: https://twitter.com/francispouliot_
+[Aleksandar Svetski]:https://twitter.com/AleksSvetski
+[Michael Kerbleski]: https://twitter.com/kerbleski
+[deniz]: https://twitter.com/deniz_zgur
+[3Blue1Brown]: https://twitter.com/3blue1brown
+[Arjun Balaji]: https://twitter.com/arjunblj
+[the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
+[Saifedean Ammous]: https://twitter.com/saifedean
+[Dhruv Bansal]: https://twitter.com/dhruvbansal
+[Matt Odell]: https://twitter.com/matt_odell
+[Matt]: https://twitter.com/matt_odell
+[Michael Goldstein]: https://twitter.com/bitstein
+[Pierre Rochard]: https://twitter.com/pierre_rochard
+[Nakamoto Institute]: http://nakamotoinstitute.org
+[Jannik]: https://twitter.com/jnnksbrt
+[Dan Held]: https://twitter.com/danheld
+[Vijay Boyapati]: https://twitter.com/real_vijay
+[stacking]: https://twitter.com/hashtag/stackingsats
 
 <!-- Part I -->
 [*Bitcoin: A Peer-to-Peer Electronic Cash System*]: https://bitcoin.org/bitcoin.pdf
@@ -2091,31 +2135,6 @@ insights, past and present.
 [*Why Bitcoin Matters*]: https://hackernoon.com/why-bitcoin-matters-c8bf733b9fad
 [*Guess My Bitcoin Private Key*]: https://medium.com/@kerbleski/a-dance-with-infinity-980bd8e9a781
 
-[I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
-[II]: {% post_url /bitcoin/2019-01-11-economic-teachings-of-bitcoin %}
-[III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
-[energy]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
-
-[Arjun Balaji]: https://twitter.com/arjunblj
-[Saifedean Ammous]: https://twitter.com/saifedean
-[Dhruv Bansal]: https://twitter.com/dhruvbansal
-[Matt Odell]: https://twitter.com/matt_odell
-[Matt]: https://twitter.com/matt_odell
-[Michael Goldstein]: https://twitter.com/bitstein
-[Pierre Rochard]: https://twitter.com/pierre_rochard
-[Hugo Nguyen]: hhttps://twitter.com/hugohano
-[Jannik]: https://twitter.com/jnnksbrt
-[Camilo]: https://twitter.com/CamiloJdL
-[Michael]: https://twitter.com/michael_rogger
-[Dan Held]: https://twitter.com/danheld
-[Vijay Boyapati]: https://twitter.com/real_vijay
-[Hasu]: https://twitter.com/hasufl
-[Brandon]: https://twitter.com/bquittem
-[Andreas M. Antonopoulos]: https://twitter.com/aantonop
-[Francis Pouliot]: https://twitter.com/francispouliot_
-[Aleksandar Svetski]:https://twitter.com/AleksSvetski
-[Michael Kerbleski]: https://twitter.com/kerbleski
-[deniz]: https://twitter.com/deniz_zgur
 
 [Nakamoto Institute]: http://nakamotoinstitute.org
 
@@ -2127,7 +2146,6 @@ insights, past and present.
 [hash functions]: https://en.bitcoin.it/wiki/Block_hashing_algorithm
 [Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=191.msg1585#msg1585
 ["How secure is 256 bit security?"]: https://www.youtube.com/watch?v=S9JGmA5_unY
-[3Blue1Brown]: https://twitter.com/3blue1brown
 [Bruce Schneier]: https://www.schneier.com/
 [flip bits perfectly]: https://en.wikipedia.org/wiki/Landauer%27s_principle#Equation
 [Dyson sphere]: https://en.wikipedia.org/wiki/Dyson_sphere
@@ -2183,7 +2201,6 @@ insights, past and present.
 [TED talk]: https://www.ted.com/talks/jeff_bezos_on_the_next_web_innovation
 [more time]: https://en.wikipedia.org/wiki/Lindy_effect
 [recording of the Today Show]: https://www.youtube.com/watch?v=UlJku_CSyNg
-[stacking]: https://twitter.com/hashtag/stackingsats
 [William Gibson]: https://www.npr.org/2018/10/22/1067220/the-science-in-science-fiction
 [data from the Pew Research Center]: https://www.pewinternet.org/2014/02/27/part-1-how-the-internet-has-woven-itself-into-american-life/
 [consumer survey]: https://www.kaspersky.com/blog/money-report-2018/
@@ -2201,20 +2218,6 @@ insights, past and present.
 [tr-technology]: https://medium.com/@denizozzgur/blockchainin-teknolojik-%C3%B6%C4%9Fretileri-34ae5a6949a7
 
 
-[Arjun Balaji]: https://twitter.com/arjunblj
-[the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
-[Saifedean Ammous]: https://twitter.com/saifedean
-[Dhruv Bansal]: https://twitter.com/dhruvbansal
-[Matt Odell]: https://twitter.com/matt_odell
-[Matt]: https://twitter.com/matt_odell
-[Michael Goldstein]: https://twitter.com/bitstein
-[Pierre Rochard]: https://twitter.com/pierre_rochard
-[Nakamoto Institute]: http://nakamotoinstitute.org
-[Jannik]: https://twitter.com/jnnksbrt
-[Camilo]: https://twitter.com/CamiloJdL
-[deniz]: https://twitter.com/deniz_zgur
-[Dan Held]: https://twitter.com/danheld
-[Vijay Boyapati]: https://twitter.com/real_vijay
 
 
 [bitcoin-standard]: http://amzn.to/2L95bJW
@@ -2231,9 +2234,6 @@ insights, past and present.
 [Bitcoin’s distribution was fair]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
 
 <!-- Part II -->
-[I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
-[II]: {% post_url /bitcoin/2019-01-11-economic-teachings-of-bitcoin %}
-[III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
 [Blind monks]: https://en.wikipedia.org/wiki/Blind_men_and_an_elephant
 [the question]: https://twitter.com/arjunblj/status/1050073234719293440
 [so much debt]: http://www.usdebtclock.org/
@@ -2286,9 +2286,6 @@ insights, past and present.
 [tr-economics]: https://medium.com/@denizozzgur/bitcoinin-ekonomi-%C3%B6%C4%9Fretileri-a3e87dcff525
 
 <!-- Part I -->
-[I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
-[II]: {% post_url /bitcoin/2019-01-11-economic-teachings-of-bitcoin %}
-[III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
 [this question]: https://twitter.com/arjunblj/status/1050073234719293440
 [automated social contract]: https://medium.com/@hasufly/bitcoins-social-contract-1f8b05ee24a9
 [Morpheus]: https://en.wikipedia.org/wiki/Red_pill_and_blue_pill#The_Matrix_(1999)
@@ -2332,6 +2329,4 @@ insights, past and present.
 [article5]: https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947
 [podcast1]: https://www.whatbitcoindid.com/podcast/coin-centers-peter-van-valkenburg-on-preserving-the-freedom-to-innovate-with-public-blockchains
 [Spanish translation]: https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9
-[camilo]: https://twitter.com/CamiloJdL
 [tr-philosophy]: https://medium.com/@denizozzgur/bitcoinin-felsefi-%C3%B6%C4%9Fretileri-e7df2338a2fc
-[deniz]: https://twitter.com/deniz_zgur
