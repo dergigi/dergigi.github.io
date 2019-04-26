@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Gravity of Ideas in Bitcoin"
-date: 2019-04-02
+date: 2019-04-27
 description:
 image: /assets/images/btc06-the-gravity-of-ideas-in-bitcoin.jpg
 source: https://medium.com/@dergigi
@@ -55,7 +55,7 @@ chaos.
 > peace, stability, and potential prosperity --- a good game. The good,
 > however, is the enemy of the better; a more compelling game might
 > always exist." 
-> <cite>Maps of Meaning</cite>
+> <cite>[Maps of Meaning]</cite>
 
 Bitcoin's consensus rules are just that: a set of ideas, codified into
 validation rules, acted out by nodes on the network. Changing this core
@@ -79,10 +79,10 @@ Many of these ideas are articulated in his [writing], and even in the
 [genesis block]. Most importantly, however, his core ideas are codified
 in Bitcoin's consensus rules:
 
--   [fixed supply]
--   [no central point of failure]
--   [no possibility of confiscation or censorship]
--   [everything can be validated by everyone at all times]
+- fixed supply
+- no central point of failure
+- no possibility of confiscation or censorship
+- everything can be validated by everyone at all times
 
 This set of ideas is embedded in the rules of the network, and you have
 to adopt them to participate. In essence, a network like Bitcoin encodes
@@ -114,8 +114,7 @@ helpful to focus on some constituents in more detail. In particular, I
 want to focus on the following four: **ideas**, **people**, **code**,
 and **nodes**.
 
-
-Bitcoin's ingredients: two parts software, two parts hardware.
+{% include image.html name="bitcoin-ingredients-trans.png" caption="Bitcoin's ingredients: two parts software, two parts hardware." %}
 
 On the physical layer, the network is made up of interconnecting
 *nodes*. Bitcoin's consensus rules are embodied in its software, i.e.
@@ -136,7 +135,7 @@ this, consensus emerges.
 
 > "Freedom brings men rudely and directly face to face with their own
 > personal responsibility for their own free actions." 
-> Frank Meyer, *In Defense of Freedom*
+> <cite>Frank Meyer, *In Defense of Freedom*</cite>
 
 As soon as consensus is reached on the network, *value* comes into play.
 That bitcoins --- or any monies, for that matter --- have value, is in
@@ -151,17 +150,19 @@ an instant, the network became valuable in a tangible way.
 Ever since this moment, the following *idea-value feedback loop* is at
 play:
 
-1.  [Bitcoin's set of **ideas **--- its value proposition --- is
-    attracting people.]
-2.  [Those **people** freely choose which code to run.]
-3.  [The selected code runs on individual **nodes**, dictating their
-    behavior.]
-4.  [Nodes join the **network**, connecting to peers who share their
-    ideas.]
-5.  [The network reaches **consensus**, enabling agreement on who owns
-    what.]
-6.  [The **value**, in turn, is based on the set of ideas enforced by
-    consensus rules: the embodiment of its value proposition.]
+- Bitcoin's set of **ideas **--- its value proposition --- is
+    attracting people.
+- Those **people** freely choose which code to run.
+- The selected code runs on individual **nodes**, dictating their
+    behavior.
+- Nodes join the **network**, connecting to peers who share their
+    ideas.
+- The network reaches **consensus**, enabling agreement on who owns
+    what.
+- The **value**, in turn, is based on the set of ideas enforced by
+    consensus rules: the embodiment of its value proposition.
+
+{% include image.html name="bitcoin-receipt-trans-labels.png" caption="Idea-value feedback loop." %}
 
 This idea-value feedback loop, the re-enforcement of ideas through value
 creation, is the receipt for Bitcoin's gravity. Everything in this cycle
@@ -201,8 +202,7 @@ focus on a small subset. And since we are talking about Bitcoin, we will
 focus on the small universe of ideas spawned by asking the question of
 what Bitcoin is.
 
-
-"What is Bitcoin?"
+{% include image.html name="people-have-ideas-v2-trans.png" caption="What is Bitcoin?" %}
 
 Ask three strangers what Bitcoin is, and you will probably get three
 very different answers. Any answer is necessarily shaped by past
@@ -235,6 +235,8 @@ ideas. If your set of ideas overlaps with those embodied by Bitcoin, you
 are close to its gravity well and captured easily. If your set of ideas
 is opposed to Bitcoin's, you are far away from its gravitational pull
 and remain unattracted.
+
+{% include image.html name="bitcoin-gravity-well-trans.png" caption="What is Bitcoin?" %}
 
 Consequently, Bitcoin is attracting opinionated people who share certain
 ideas and ideals. "Birds of a feather flock together," as the saying
@@ -306,6 +308,8 @@ coins in the last few years. While most of these altcoins are outright
 scams, some try to find a niche, attracting people who share its new or
 modified set of ideas.
 
+{% include image.html name="ideas-have-people-v3-clumped-trans.png" caption="Different ideas are captured by different gravity wells." %}
+
 Being sucked into one of these gravity wells --- and thus into an
 idea-value feedback loop --- is the reason for much of the toxicity we
 see in Bitcoin and elsewhere. The direct link between holding beliefs
@@ -338,8 +342,8 @@ I plan to explore some of these events in the future, but for now, let's
 just acknowledge that there are other projects orbiting Bitcoin and that
 there have been collisions in the past.
 
-An artist's impression of Bitcoin and its satellites. Source:
-KQED Science
+
+{% include image.html name="space-debris.gif" caption="An artist's impression of Bitcoin and its satellites. Source: KQED Science" %}
 
 Whether all other projects will be swallowed by Bitcoin or die on their
 own, or whether some will find stable orbits, is yet to be seen. What
@@ -541,6 +545,7 @@ black hole and vanishing forever.
 [genesis block]: https://medium.com/r/?url=https%3A%2F%2Fen.bitcoin.it%2Fwiki%2FGenesis_block
 [social contract]: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
 [Laszlo]: https://medium.com/r/?url=https%3A%2F%2Fen.bitcoin.it%2Fwiki%2FLaszlo_Hanyecz
+[Maps of Meaning]: https://en.wikipedia.org/wiki/Maps_of_Meaning
 [two pizzas]: https://medium.com/r/?url=https%3A%2F%2Fduckduckgo.com%2FBitcoin%2BPizza%2BDay
 [*Planting Bitcoin*]: https://medium.com/@danhedl/planting-bitcoin-56bd1459cb23
 [Satoshi Nakamoto]: https://medium.com/r/?url=https%3A%2F%2Fsatoshi.nakamotoinstitute.org%2Femails%2Fcryptography%2F12%2F
