@@ -1978,7 +1978,7 @@ I've learned from Bitcoin.
 
 ---
 
-# Acknowledgments
+## Acknowledgments
 
 Thanks to the countless authors and content producers who
 influenced my thinking on Bitcoin and the topics it touches. There
@@ -2017,7 +2017,7 @@ are too many to list them all, but I'll do my best to name a few.
     reading this. I hope you enjoyed it as much as I did enjoy writing it.
     Feel free to [reach out to me] on twitter. My DMs are open.
 
-# Further Reading
+## Further Reading
 
 There exists an almost endless list of books and essays on the topics
 discussed above and economic thought in general. The books and articles
@@ -2067,7 +2067,7 @@ insights, past and present.
 -   [The Bullish Case For Bitcoin] by [Vijay Boyapati]
 -   [Bitcoin’s distribution was fair] by [Dan Held]
 
-#### Translations
+### Translations
 
 -   Chapter I is available in [Spanish][Spanish Translation] thanks to [@CamiloJdL][Camilo].
 -   [Chapter I][tr-philosophy], [Chapter II][tr-economics], and [Chapter III][tr-technology] is available in Turkish thanks to [@deniz_zgur][deniz]. Note that the order of the chapters is different in the Turkish translation.
