@@ -551,7 +551,7 @@ paper money in your wallet will still be there, of course. But it will
 be exactly that: worthless paper.
 
 
-{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" otherPost="2018-12-21-philosophical-teachings-of-bitcoin" name="children-playing-with-money.png" caption="Hyperinflation in the Weimar Republic (1921-1923)" %}
+{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="children-playing-with-money.png" caption="Hyperinflation in the Weimar Republic (1921-1923)" %}
 
 Money declines in value with so-called "mild" inflation as well. It
 just happens slowly enough that most people don't notice the diminishing
@@ -2014,7 +2014,7 @@ are too many to list them all, but I'll do my best to name a few.
     [Raphael] for providing feedback to early drafts of some lessons.
     Special thanks to [Jannik] who proofread multiple drafts multiple times.
 <!-- Part III -->
--   Thanks to [Dhruv Bansal] and [Matt Odell] for taking the time to 
+-   Thanks to [Dhruv Bansal] and [Matt Odell] for taking the time to
     discuss some of these ideas with me.
 -   Last but not least, thanks to all the bitcoin maximalists, shitcoin
     minimalists, shills, bots, and shitposters which reside in the
