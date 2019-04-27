@@ -13,55 +13,59 @@ listed below are but a small selection which were particularly influential
 in my thinking. I am grateful for all the people who shared their
 insights, past and present.
 
-<!-- Part I -->
--   [The Bitcoin Standard: The Decentralized Alternative to Central Banking][book1]
+## Papers
+- [Bitcoin: A Peer-to-Peer Electronic Cash System][whitepaper] by Satoshi Nakamoto
+- [Reflections on Trusting Trust] by Ken Thompson
+
+## Books
+- [The Bitcoin Standard: The Decentralized Alternative to Central Banking][book1]
     by Saifedean Ammous
--   [Abundance: The Future Is Better Than You Think][book2] by Peter Diamandis
--   [The Mind’s I][book3] by Daniel Dennett and Douglas Hofstadter
--   [Money, blockchains, and social scalability][article1] by Nick Szabo
--   [Bitcoin’s Existential Crisis, originally published][article2] as What is it like to be a Bitcoin? by Nic Carter
--   [Unpacking Bitcoin’s Social Contract: A framework for skeptics][article3] by Hasu
--   [Why America Can’t Regulate Bitcoin][article4] by Beautyon
--   [Why Bitcoin is different][article5] by Jimmy Song
--   Peter Van Valkenburg on [Preserving the Freedom to Innovate with Public Blockchains][podcast1] hosted by Peter McCormack
+- [Mastering Bitcoin] by Andreas Antonopoulos
+- [The Internet of Money] by Andreas Antonopoulos
+- [Inventing Bitcoin] by Yan Pritzker
+- [Abundance: The Future Is Better Than You Think][book2] by Peter Diamandis
+- [The Mind’s I][book3] by Daniel Dennett and Douglas Hofstadter
+- [Applied Cryptography] by Bruce Schneier
+- [Cypherpunks] by Julian Assange with Jacob Appelbaum
+- [The Bitcoin Standard: The Decentralized Alternative to Central Banking][bitcoin-standard] by Saifedean Ammous
+- [Economics in One Lesson] by Henry Hazlitt
+- [Human Action] by Ludwig von Mises
+- [The Ethics of Money Production] by Jörg Guido Hülsmann
+- [The Denationalization of Money] by Friedrich Hayek
+- [The Machinery of Freedom] by David D. Friedman
+- [The Case Against The Fed] by Murray N. Rothbard
+- [End the Fed] by Ron Paul
 
-<!-- Part II -->
--   [Bitcoin: A Peer-to-Peer Electronic Cash System] by Satoshi
-    Nakamoto
--   [Mastering Bitcoin] by Andreas Antonopoulos
--   [The Internet of Money] by Andreas Antonopoulos
--   [Inventing Bitcoin] by Yan Pritzker
--   [Applied Cryptography] by Bruce Schneier
--   [Reflections on Trusting Trust] by Ken Thompson
--   [Cypherpunks] by Julian Assange with Jacob Appelbaum
--   [The Anatomy of Proof-of-Work] by [Hugo Nguyen]
--   [Blockchain Proof-of-Work Is a Decentralized Clock] by Gregory Trubetskoy
--   [Unpacking Bitcoin's Social Contract] by [Hasu]
--   [Why Bitcoin Matters] by [Aleksandar Svetski]
--   [Guess My Bitcoin Private Key] by [Michael Kerbleski]
+## Articles, essays, and podcast episodes
+- [Shelling Out: The Origins of Money] by Nick Szabo
+- [Money, blockchains, and social scalability][article1] by Nick Szabo
+- [Bitcoin’s Existential Crisis, originally published][article2] as "What is it like to be a Bitcoin?" by Nic Carter
+- [The Bitcoin Halving and Monetary Competition] by [Saifedean Ammous]
+- [The Bullish Case For Bitcoin] by [Vijay Boyapati]
+- [Bitcoin’s distribution was fair] by [Dan Held]
+- [Unpacking Bitcoin’s Social Contract: A framework for skeptics][article3] by Hasu
+- [Why America Can’t Regulate Bitcoin][article4] by Beautyon
+- [Why Bitcoin is different][article5] by Jimmy Song
+- [The Anatomy of Proof-of-Work] by [Hugo Nguyen]
+- [Blockchain Proof-of-Work Is a Decentralized Clock] by Gregory Trubetskoy
+- [Unpacking Bitcoin's Social Contract] by [Hasu]
+- [Why Bitcoin Matters] by [Aleksandar Svetski]
+- [Guess My Bitcoin Private Key] by [Michael Kerbleski]
 
-<!-- Part III -->
+## Podcasts
+- Peter Van Valkenburg on [Preserving the Freedom to Innovate with Public Blockchains][podcast1] hosted by Peter McCormack
 
--   [The Bitcoin Standard: The Decentralized Alternative to Central Banking][bitcoin-standard] by Saifedean Ammous
--   [Economics in One Lesson] by Henry Hazlitt
--   [Human Action] by Ludwig von Mises
--   [The Ethics of Money Production] by Jörg Guido Hülsmann
--   [The Denationalization of Money] by Friedrich Hayek
--   [The Machinery of Freedom] by David D. Friedman
--   [The Case Against The Fed] by Murray N. Rothbard
--   [End the Fed] by Ron Paul
--   [Shelling Out: The Origins of Money] by Nick Szabo
--   [The Bitcoin Halving and Monetary Competition] by [Saifedean Ammous]
--   [The Bullish Case For Bitcoin] by [Vijay Boyapati]
--   [Bitcoin’s distribution was fair] by [Dan Held]
+<!-- Papers -->
+[whitepaper]: https://bitcoin.org/bitcoin.pdf
+[Reflections on Trusting Trust]: https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf
 
-
-[Bitcoin: A Peer-to-Peer Electronic Cash System]: https://bitcoin.org/bitcoin.pdf
+<!-- Books -->
+[bitcoin-standard]: http://amzn.to/2L95bJW
 [Mastering Bitcoin]: https://bitcoinbook.info/
 [The Internet of Money]: https://theinternetofmoney.info/
 [Inventing Bitcoin]: http://inventingbitcoin.com/
 [Applied Cryptography]: https://www.schneier.com/books/applied_cryptography/
-[Reflections on Trusting Trust]: https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf
+
 [Cypherpunks]: https://www.orbooks.com/catalog/cypherpunks/
 [The Anatomy of Proof-of-Work]: https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667
 [Blockchain Proof-of-Work Is a Decentralized Clock]: https://grisha.org/blog/2018/01/23/explaining-proof-of-work/
@@ -69,7 +73,6 @@ insights, past and present.
 [Why Bitcoin Matters]: https://hackernoon.com/why-bitcoin-matters-c8bf733b9fad
 [Guess My Bitcoin Private Key]: https://medium.com/@kerbleski/a-dance-with-infinity-980bd8e9a781
 
-[bitcoin-standard]: http://amzn.to/2L95bJW
 [Economics in One Lesson]: https://mises.org/library/economics-one-lesson
 [Human Action]: https://mises.org/library/human-action-0
 [The Ethics of Money Production]: https://mises.org/library/ethics-money-production
