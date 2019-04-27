@@ -17,13 +17,6 @@ wonderful world of crypto. Hence, the subtitle of this series is *What
 I've Learned From Bitcoin*, with which I want to acknowledge the
 inherent personal bias of answering a question like this.
 
-I tried to group the teachings of Bitcoin by topics, resulting in three
-parts:
-
-1. **[Philosophical Teachings of Bitcoin][I]**
-2. [Economic Teachings of Bitcoin][II]
-3. [Technological Teachings of Bitcoin][III]
-
 As hinted above, attempting to answer this question fully is a fool's
 errand, thus my answers will always be incomplete. I would like to
 lessen this shortcoming by inviting you, dear reader, to share your own
@@ -44,3 +37,5 @@ enough, and Bitcoin will completely change your worldview.
 > <cite>[Morpheus][Morpheus]</cite>
 
 {% include image.html otherPost="2018-12-21-philosophical-teachings-of-bitcoin" name="bitcoin-orange-pill.jpg" %}
+
+[Morpheus]: https://en.wikipedia.org/wiki/Red_pill_and_blue_pill#The_Matrix_(1999)
