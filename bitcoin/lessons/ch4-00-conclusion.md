@@ -103,3 +103,11 @@ always be incomplete. In any case, I've learned that the philosophy,
 economics, and technology of Bitcoin interact in a complex feedback
 loop, and I hope that these 21 lessons are just the beginning of what
 I've learned from Bitcoin.
+
+<!-- Internal -->
+[I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
+[II]: {% post_url /bitcoin/2019-01-11-economic-teachings-of-bitcoin %}
+[III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
+[energy]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
+[sly roundabout way]: https://youtu.be/EYhEDxFwFRU?t=1124
+[Giannina Braschi]: https://en.wikipedia.org/wiki/Braschi%27s_Empire_of_Dreams
