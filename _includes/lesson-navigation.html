@@ -1,0 +1,17 @@
+{% capture previousLesson %}ch{{ page.chapter }}-{{ page.section }}-{{ page.subtitle | slugify }}{% endcapture %}
+{% capture nextLesson %}ch{{ page.chapter }}-{{ page.section }}-{{ page.subtitle | slugify }}{% endcapture %}
+
+<ul>
+{% for lesson in site.pages %}
+  {% if lesson.categories contains 'lesson' %}
+    {% if page == lesson %}<b>{% endif %}
+    <li>{{ lesson.subtitle }} {{ lesson.path }}</li>
+    {% if page == lesson %}</b>{% endif %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+<ul>
+  <li><a href="/bitcoin/lessons/{{ previousLesson }}">Previous Lesson</a></li>
+  <li><a href="/bitcoin/lessons/{{ nextLesson }}">Next Lesson</a></li>
+</ul>
