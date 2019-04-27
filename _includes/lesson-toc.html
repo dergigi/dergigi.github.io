@@ -4,7 +4,7 @@
     {% if page == lesson %}<b>{% endif %}
     <li>
       <a href="{{ lesson.path | remove: '.md' | absolute_url }}">
-        {% if lesson.title contains 'Lesson ' %}{{ lesson.title }}: {% endif %}
+        {% if lesson.title contains 'Lesson ' or lesson.title contains 'Chapter ' %}{{ lesson.title }}: {% endif %}
         {{ lesson.subtitle }}
       </a>
     </li>
