@@ -26,19 +26,19 @@ insights, past and present.
 -   Peter Van Valkenburg on [Preserving the Freedom to Innovate with Public Blockchains][podcast1] hosted by Peter McCormack
 
 <!-- Part II -->
--   [*Bitcoin: A Peer-to-Peer Electronic Cash System*] by Satoshi
+-   [Bitcoin: A Peer-to-Peer Electronic Cash System] by Satoshi
     Nakamoto
--   [*Mastering Bitcoin*] by Andreas Antonopoulos
--   [*The Internet of Money*] by Andreas Antonopoulos
--   [*Inventing Bitcoin*] by Yan Pritzker
--   [*Applied Cryptography*] by Bruce Schneier
--   [*Reflections on Trusting Trust*] by Ken Thompson
--   [*Cypherpunks*] by Julian Assange with Jacob Appelbaum
--   [*The Anatomy of Proof-of-Work*] by [Hugo Nguyen]
--   [*Blockchain Proof-of-Work Is a Decentralized Clock*] by Gregory Trubetskoy
--   [*Unpacking Bitcoin's Social Contract*] by [Hasu]
--   [*Why Bitcoin Matters*] by [Aleksandar Svetski]
--   [*Guess My Bitcoin Private Key*] by [Michael Kerbleski]
+-   [Mastering Bitcoin] by Andreas Antonopoulos
+-   [The Internet of Money] by Andreas Antonopoulos
+-   [Inventing Bitcoin] by Yan Pritzker
+-   [Applied Cryptography] by Bruce Schneier
+-   [Reflections on Trusting Trust] by Ken Thompson
+-   [Cypherpunks] by Julian Assange with Jacob Appelbaum
+-   [The Anatomy of Proof-of-Work] by [Hugo Nguyen]
+-   [Blockchain Proof-of-Work Is a Decentralized Clock] by Gregory Trubetskoy
+-   [Unpacking Bitcoin's Social Contract] by [Hasu]
+-   [Why Bitcoin Matters] by [Aleksandar Svetski]
+-   [Guess My Bitcoin Private Key] by [Michael Kerbleski]
 
 <!-- Part III -->
 
@@ -56,18 +56,18 @@ insights, past and present.
 -   [Bitcoin’s distribution was fair] by [Dan Held]
 
 
-[*Bitcoin: A Peer-to-Peer Electronic Cash System*]: https://bitcoin.org/bitcoin.pdf
-[*Mastering Bitcoin*]: https://bitcoinbook.info/
-[*The Internet of Money*]: https://theinternetofmoney.info/
-[*Inventing Bitcoin*]: http://inventingbitcoin.com/
-[*Applied Cryptography*]: https://www.schneier.com/books/applied_cryptography/
-[*Reflections on Trusting Trust*]: https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf
-[*Cypherpunks*]: https://www.orbooks.com/catalog/cypherpunks/
-[*The Anatomy of Proof-of-Work*]: https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667
-[*Blockchain Proof-of-Work Is a Decentralized Clock*]: https://grisha.org/blog/2018/01/23/explaining-proof-of-work/
-[*Unpacking Bitcoin's Social Contract*]: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
-[*Why Bitcoin Matters*]: https://hackernoon.com/why-bitcoin-matters-c8bf733b9fad
-[*Guess My Bitcoin Private Key*]: https://medium.com/@kerbleski/a-dance-with-infinity-980bd8e9a781
+[Bitcoin: A Peer-to-Peer Electronic Cash System]: https://bitcoin.org/bitcoin.pdf
+[Mastering Bitcoin]: https://bitcoinbook.info/
+[The Internet of Money]: https://theinternetofmoney.info/
+[Inventing Bitcoin]: http://inventingbitcoin.com/
+[Applied Cryptography]: https://www.schneier.com/books/applied_cryptography/
+[Reflections on Trusting Trust]: https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf
+[Cypherpunks]: https://www.orbooks.com/catalog/cypherpunks/
+[The Anatomy of Proof-of-Work]: https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667
+[Blockchain Proof-of-Work Is a Decentralized Clock]: https://grisha.org/blog/2018/01/23/explaining-proof-of-work/
+[Unpacking Bitcoin's Social Contract]: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
+[Why Bitcoin Matters]: https://hackernoon.com/why-bitcoin-matters-c8bf733b9fad
+[Guess My Bitcoin Private Key]: https://medium.com/@kerbleski/a-dance-with-infinity-980bd8e9a781
 
 [bitcoin-standard]: http://amzn.to/2L95bJW
 [Economics in One Lesson]: https://mises.org/library/economics-one-lesson
