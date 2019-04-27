@@ -43,7 +43,7 @@ insights, past and present.
 - [The Bitcoin Halving and Monetary Competition] by [Saifedean Ammous]
 - [The Bullish Case For Bitcoin] by [Vijay Boyapati]
 - [Bitcoin’s distribution was fair] by [Dan Held]
-- [Unpacking Bitcoin’s Social Contract: A framework for skeptics][article3] by Hasu
+- [Unpacking Bitcoin’s Social Contract: A framework for skeptics][article3] by [Hasu]
 - [Why America Can’t Regulate Bitcoin][article4] by Beautyon
 - [Why Bitcoin is different][article5] by Jimmy Song
 - [The Anatomy of Proof-of-Work] by [Hugo Nguyen]
@@ -95,3 +95,12 @@ insights, past and present.
 [article4]: https://hackernoon.com/why-america-cant-regulate-bitcoin-8c77cee8d794
 [article5]: https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947
 [podcast1]: https://www.whatbitcoindid.com/podcast/coin-centers-peter-van-valkenburg-on-preserving-the-freedom-to-innovate-with-public-blockchains
+
+<!-- People -->
+[Saifedean Ammous]: https://twitter.com/saifedean
+[Vijay Boyapati]: https://twitter.com/real_vijay
+[Dan Held]: https://twitter.com/danheld
+[Hasu]: https://twitter.com/hasufl
+[Hugo Nguyen]: hhttps://twitter.com/hugohano
+[Aleksandar Svetski]:https://twitter.com/AleksSvetski
+[Michael Kerbleski]: https://twitter.com/kerbleski
