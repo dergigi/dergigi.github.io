@@ -5,8 +5,6 @@ subtitle: Philosophy
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
-
 Some questions have easy answers. "What have you learned from Bitcoin?"
 isn't one of them. After trying to answer this question in a short
 tweet, and failing miserably, I realized that the amount of things I've
