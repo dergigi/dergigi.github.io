@@ -1,14 +1,14 @@
 {% capture thisPost %}{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | slugify }}{% endcapture %}
 {% capture specifiedPath %}{{ include.otherPost }}}{% endcapture %}
-{% capture folderPath %}/assets/images/{{ page.category | slugify }}/{% if include.otherPost %}{{ include.otherPost }}{% else %}{{ thisPost }}{% endif %}{% endcapture %}
+{% capture folderPath %}/assets/images/{{ page.categories[0] | slugify }}/{% if include.otherPost %}{{ include.otherPost }}{% else %}{{ thisPost }}{% endif %}{% endcapture %}
 {% capture imagePath %}{{ folderPath }}/{{ include.name }}{% endcapture %}
 {% if include.caption %}
 <figure>
-  <img src="{{ imagePath }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
+  <img src="{{ imagePath | replace: '//', '/' | absolute_url }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
   <figcaption>{{ include.caption }}</figcaption>
 </figure>
 {% else %}
 <figure>
-  <img src="{{ imagePath }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
+  <img src="{{ imagePath | replace: '//', '/' | absolute_url }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
 </figure>
 {% endif %}
