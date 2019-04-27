@@ -5,8 +5,6 @@ subtitle: Table of Contents
 categories: [bitcoin, lesson]
 ---
 
-### Table of Contents
-
 {% include lesson-toc.html %}
 
   - Introduction
