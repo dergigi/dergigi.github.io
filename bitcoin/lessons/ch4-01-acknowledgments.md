@@ -43,3 +43,55 @@ are too many to list them all, but I'll do my best to name a few.
     beautiful garden that is crypto twitter. And finally, thank *you* for
     reading this. I hope you enjoyed it as much as I did enjoy writing it.
     Feel free to [reach out to me] on twitter. My DMs are open.
+
+<!-- Twitter -->
+[Arjun Balaji]: https://twitter.com/arjunblj
+[Saifedean Ammous]: https://twitter.com/saifedean
+[Dhruv Bansal]: https://twitter.com/dhruvbansal
+[Marty Bent]: https://twitter.com/martybent
+[Matt Odell]: https://twitter.com/matt_odell
+[Matt]: https://twitter.com/matt_odell
+[Michael Goldstein]: https://twitter.com/bitstein
+[Pierre Rochard]: https://twitter.com/pierre_rochard
+[Hugo Nguyen]: hhttps://twitter.com/hugohano
+[Jannik]: https://twitter.com/jnnksbrt
+[Camilo]: https://twitter.com/CamiloJdL
+[deniz]: https://twitter.com/deniz_zgur
+[Michael]: https://twitter.com/michael_rogger
+[Daniel]: https://twitter.com/dnlggr
+[Raphael]: https://twitter.com/dinemuatta
+[Dan Held]: https://twitter.com/danheld
+[Vijay Boyapati]: https://twitter.com/real_vijay
+[Hasu]: https://twitter.com/hasufl
+[Brandon]: https://twitter.com/bquittem
+[Andreas M. Antonopoulos]: https://twitter.com/aantonop
+[Francis Pouliot]: https://twitter.com/francispouliot_
+[timechain]: https://twitter.com/francispouliot_/status/1106028072799744002
+[Aleksandar Svetski]:https://twitter.com/AleksSvetski
+[Michael Kerbleski]: https://twitter.com/kerbleski
+[3Blue1Brown]: https://twitter.com/3blue1brown
+[Arjun Balaji]: https://twitter.com/arjunblj
+[the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
+[Saifedean Ammous]: https://twitter.com/saifedean
+[Dhruv Bansal]: https://twitter.com/dhruvbansal
+[Matt Odell]: https://twitter.com/matt_odell
+[Matt]: https://twitter.com/matt_odell
+[Michael Goldstein]: https://twitter.com/bitstein
+[Pierre Rochard]: https://twitter.com/pierre_rochard
+[Nakamoto Institute]: http://nakamotoinstitute.org
+[Jannik]: https://twitter.com/jnnksbrt
+[Dan Held]: https://twitter.com/danheld
+[Vijay Boyapati]: https://twitter.com/real_vijay
+[Peter McCormack]: https://twitter.com/whatbitcoindid
+[honest tweets]: https://twitter.com/PeterMcCormack/status/1073196778705559553
+[stacking]: https://twitter.com/hashtag/stackingsats
+[reach out to me]: https://twitter.com/dergigi
+
+<!-- Pods -->
+[Tales From The Crypt]: https://talesfromthecrypt.libsyn.com/
+[Noded Podcast]: https://noded.org/
+[Marty's Ƀent]: http://eepurl.com/cROArD
+[What Bitcoin Did]: https://www.whatbitcoindid.com/podcast
+
+<!-- Other -->
+[educational material]: https://antonopoulos.com/

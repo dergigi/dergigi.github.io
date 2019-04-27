@@ -12,44 +12,6 @@ category: bitcoin
 [III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
 [energy]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
 
-<!-- Twitter -->
-[Arjun Balaji]: https://twitter.com/arjunblj
-[Saifedean Ammous]: https://twitter.com/saifedean
-[Dhruv Bansal]: https://twitter.com/dhruvbansal
-[Matt Odell]: https://twitter.com/matt_odell
-[Matt]: https://twitter.com/matt_odell
-[Michael Goldstein]: https://twitter.com/bitstein
-[Pierre Rochard]: https://twitter.com/pierre_rochard
-[Hugo Nguyen]: hhttps://twitter.com/hugohano
-[Jannik]: https://twitter.com/jnnksbrt
-[Camilo]: https://twitter.com/CamiloJdL
-[deniz]: https://twitter.com/deniz_zgur
-[Michael]: https://twitter.com/michael_rogger
-[Daniel]: https://twitter.com/dnlggr
-[Raphael]: https://twitter.com/dinemuatta
-[Dan Held]: https://twitter.com/danheld
-[Vijay Boyapati]: https://twitter.com/real_vijay
-[Hasu]: https://twitter.com/hasufl
-[Brandon]: https://twitter.com/bquittem
-[Andreas M. Antonopoulos]: https://twitter.com/aantonop
-[Francis Pouliot]: https://twitter.com/francispouliot_
-[Aleksandar Svetski]:https://twitter.com/AleksSvetski
-[Michael Kerbleski]: https://twitter.com/kerbleski
-[3Blue1Brown]: https://twitter.com/3blue1brown
-[Arjun Balaji]: https://twitter.com/arjunblj
-[the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
-[Saifedean Ammous]: https://twitter.com/saifedean
-[Dhruv Bansal]: https://twitter.com/dhruvbansal
-[Matt Odell]: https://twitter.com/matt_odell
-[Matt]: https://twitter.com/matt_odell
-[Michael Goldstein]: https://twitter.com/bitstein
-[Pierre Rochard]: https://twitter.com/pierre_rochard
-[Nakamoto Institute]: http://nakamotoinstitute.org
-[Jannik]: https://twitter.com/jnnksbrt
-[Dan Held]: https://twitter.com/danheld
-[Vijay Boyapati]: https://twitter.com/real_vijay
-[stacking]: https://twitter.com/hashtag/stackingsats
-
 <!-- Part I -->
 [*Bitcoin: A Peer-to-Peer Electronic Cash System*]: https://bitcoin.org/bitcoin.pdf
 [*Mastering Bitcoin*]: https://bitcoinbook.info/
@@ -141,9 +103,6 @@ category: bitcoin
 [Jameson Lopp]: https://twitter.com/lopp/status/1077200836072296449
 [*The Internet of Money*]: https://theinternetofmoney.info/
 [Giannina Braschi]: https://en.wikipedia.org/wiki/Braschi%27s_Empire_of_Dreams
-[educational material]: https://antonopoulos.com/
-[timechain]: https://twitter.com/francispouliot_/status/1106028072799744002
-[reach out to me]: https://twitter.com/dergigi
 
 
 
@@ -216,7 +175,6 @@ category: bitcoin
 [this question]: https://twitter.com/arjunblj/status/1050073234719293440
 [automated social contract]: https://medium.com/@hasufly/bitcoins-social-contract-1f8b05ee24a9
 [Morpheus]: https://en.wikipedia.org/wiki/Red_pill_and_blue_pill#The_Matrix_(1999)
-[Marty Bent]: https://twitter.com/martybent
 [Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
 [Ralph Merkle]: http://merkle.com/papers/DAOdemocracyDraft.pdf
 [changing people's diets]: https://motherboard.vice.com/en_us/article/ne74nw/inside-the-world-of-the-bitcoin-carnivores
@@ -237,15 +195,9 @@ category: bitcoin
 [illegal primes]: https://en.wikipedia.org/wiki/Illegal_prime
 [Beautyon]: https://hackernoon.com/why-america-cant-regulate-bitcoin-8c77cee8d794
 [Jameson Lopp]: https://twitter.com/lopp/status/1061415918616698881
-[Marty's Ƀent]: http://eepurl.com/cROArD
-[Tales From The Crypt]: https://talesfromthecrypt.libsyn.com/
 [Michael Goldstein]: https://medium.com/@bitstein
 [Pierre Rochard]: https://medium.com/@pierre_rochard
 [Nakamoto Institute]: https://nakamotoinstitute.org/
-[Noded Podcast]: https://noded.org/
-[Peter McCormack]: https://medium.com/@whatbitcoindid
-[honest tweets]: https://twitter.com/PeterMcCormack/status/1073196778705559553
-[What Bitcoin Did]: https://www.whatbitcoindid.com/podcast
 [book1]: http://amzn.to/2L95bJW
 [book2]: https://www.diamandis.com/abundance
 [book3]: https://en.wikipedia.org/wiki/The_Mind%27s_I
