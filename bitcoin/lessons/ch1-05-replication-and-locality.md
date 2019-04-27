@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lesson 5
-subtitle: The problem of identity
+subtitle: Replication and locality 
 categories: [bitcoin, lesson]
 ---
 
