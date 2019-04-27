@@ -2,7 +2,7 @@
 {% for lesson in site.pages %}
   {% if lesson.categories contains 'lesson' %}
     {% if page == lesson %}<b>{% endif %}
-    <li><a href="{{ lesson.path | absolute_url }}">{{ lesson.subtitle }}</a></li>
+    <li><a href="{{ lesson.path | remove: '.md' | absolute_url }}">{{ lesson.subtitle }}</a></li>
     {% if page == lesson %}</b>{% endif %}
   {% endif %}
 {% endfor %}
