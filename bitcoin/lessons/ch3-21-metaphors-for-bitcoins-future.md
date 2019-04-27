@@ -5,7 +5,7 @@ subtitle: Metaphors for Bitcoin's future
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 In the last couple of decades, it became apparent that technological
 innovation does not follow a linear trend. Whether you believe in the

@@ -5,7 +5,7 @@ subtitle: Sound money
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 The most important lesson I have learned from Bitcoin is that in the
 long run, hard money is superior to soft money. Hard money, also

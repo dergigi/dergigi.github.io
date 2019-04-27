@@ -5,7 +5,7 @@ subtitle: Money
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 What is money? We use it every day, yet this question is surprisingly
 difficult to answer. We are dependent on it in ways big and small, and

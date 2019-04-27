@@ -5,7 +5,7 @@ subtitle: Technology
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 What is Bitcoin? The many answers to this question are as interesting as
 they are varied. Bitcoin is both a social and a monetary phenomenon, but

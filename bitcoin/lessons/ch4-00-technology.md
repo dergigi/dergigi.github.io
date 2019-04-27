@@ -5,7 +5,7 @@ subtitle: Conclusion
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 <!-- Chapter I -->
 Bitcoin is a child of the internet. Even though it requires computers to

@@ -5,7 +5,7 @@ subtitle: Reflections on "Don't Trust, Verify"
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 Bitcoin aims to replace, or at least provide an alternative to,
 conventional currency. Conventional currency is bound to a centralized

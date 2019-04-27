@@ -5,7 +5,7 @@ subtitle: Immutability and change
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 Bitcoin is inherently hard to describe. It is a *new thing*, and any
 attempt to draw a comparison to previous concepts --- be it by calling

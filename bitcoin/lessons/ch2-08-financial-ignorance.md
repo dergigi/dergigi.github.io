@@ -5,7 +5,7 @@ subtitle: Financial ignorance
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 One of the most surprising things, to me, was the amount of finance,
 economics, and psychology required to get a grasp of what at first

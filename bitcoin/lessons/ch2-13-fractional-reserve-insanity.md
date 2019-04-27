@@ -5,7 +5,7 @@ subtitle: Fractional Reserve Insanity
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 Value and money aren't trivial topics, especially in today's times. The
 process of money creation in our banking system is equally non-trivial,

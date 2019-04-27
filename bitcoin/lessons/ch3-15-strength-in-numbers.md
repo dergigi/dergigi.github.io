@@ -5,7 +5,7 @@ subtitle: Sound money
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 Numbers are an essential part of our everyday life. Large numbers,
 however, aren't something most of us are too familiar with. The largest

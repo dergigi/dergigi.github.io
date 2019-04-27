@@ -5,7 +5,7 @@ subtitle: The limits of knowledge
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 Getting into Bitcoin is a humbling experience. I thought that I knew
 things. I thought that I was educated. I thought that I knew my computer

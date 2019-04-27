@@ -5,7 +5,7 @@ subtitle: Further reading
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 There exists an almost endless list of books and essays on the topics
 discussed above and economic thought in general. The books and articles

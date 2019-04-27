@@ -5,7 +5,7 @@ subtitle: The history and downfall of money
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 Many people think that money is backed by gold, which is locked away in
 big vaults, protected by thick

@@ -5,7 +5,7 @@ subtitle: The problem of identity
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 Nic Carter, in an homage to Thomas Nagel's treatment of the same
 question [in regards to a bat], wrote an excellent piece which discusses

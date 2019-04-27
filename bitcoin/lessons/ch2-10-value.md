@@ -5,7 +5,7 @@ subtitle: Value
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 Value is somewhat paradoxical, and there are [multiple theories] which
 try to explain why we value certain things over other things. People

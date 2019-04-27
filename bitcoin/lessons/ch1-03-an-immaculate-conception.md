@@ -5,7 +5,7 @@ subtitle: An immaculate conception
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 Everyone loves a good origin story. The origin story of Bitcoin is a
 fascinating one, and the details of it are more important than one might
