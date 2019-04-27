@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 10
-subtitle: Value 
+subtitle: Value
 categories: [bitcoin, lesson]
 ---
 

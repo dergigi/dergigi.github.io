@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: بيتكوين
 subtitle: Translations
 categories: [bitcoin, lesson]

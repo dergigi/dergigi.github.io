@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Bibliography
 subtitle: Further reading
 categories: [bitcoin, lesson]

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 3
 subtitle: An immaculate conception
 categories: [bitcoin, lesson]

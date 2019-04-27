@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 15
 subtitle: Sound money
 categories: [bitcoin, lesson]

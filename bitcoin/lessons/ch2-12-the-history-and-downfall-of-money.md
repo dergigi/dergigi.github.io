@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 12
 subtitle: The history and downfall of money
 categories: [bitcoin, lesson]

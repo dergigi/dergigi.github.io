@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Chapter III
 subtitle: Technology
 categories: [bitcoin, lesson]

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 11
 subtitle: Money
 categories: [bitcoin, lesson]

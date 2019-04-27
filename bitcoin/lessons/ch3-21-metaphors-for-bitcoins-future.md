@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 21
 subtitle: Metaphors for Bitcoin's future
 categories: [bitcoin, lesson]
