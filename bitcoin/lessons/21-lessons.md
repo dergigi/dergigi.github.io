@@ -5,13 +5,6 @@ subtitle: What I've learned from falling down the Bitcoin rabbit hole
 category: bitcoin
 ---
 
-
-<!-- Internal -->
-[I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
-[II]: {% post_url /bitcoin/2019-01-11-economic-teachings-of-bitcoin %}
-[III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
-[energy]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
-
 <!-- Part I -->
 
 
