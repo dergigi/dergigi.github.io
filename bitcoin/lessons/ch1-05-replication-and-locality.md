@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lesson 4
+title: Lesson 5
 subtitle: The problem of identity
 categories: [bitcoin, lesson]
 ---
