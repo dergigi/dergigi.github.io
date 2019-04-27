@@ -49,20 +49,22 @@ ol {
   &__navigation {
     @extend %no-list-style;
     @extend %no-margin-or-padding;
+    justify-content: space-between;
+    display: flex;
 
-    ul li {
-      display: flex;
-      justify-content: space-between;
-    }
+    margin: 3em 0;
 
     li {
+      @extend %no-margin-or-padding;
+
       &:first-child {
-        &:before {
+        & a:before {
           content: "← "
         }
       }
       &:last-child {
-        &:after {
+        align: right;
+        & a:after {
           content: " →"
         }
       }
