@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Introduction
-category: bitcoin
+title: 21 Lessons
+subtitle: Introduction
+categories: [bitcoin, lesson]
 ---
+
+{% include lesson-toc.html %}
 
 Some questions have easy answers. "What have you learned from Bitcoin?"
 isn't one of them. After trying to answer this question in a short
