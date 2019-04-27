@@ -5,7 +5,7 @@ subtitle: Privacy is not dead
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 If pundits are to believed, privacy has been dead [since the 80ies]. The
 pseudonymous invention of Bitcoin and other events in recent history

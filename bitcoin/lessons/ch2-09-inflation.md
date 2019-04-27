@@ -5,7 +5,7 @@ subtitle: Inflation
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 Trying to understand monetary inflation, and how a non-inflationary
 system like Bitcoin might change how we do things, was the starting

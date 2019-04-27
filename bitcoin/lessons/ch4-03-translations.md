@@ -5,7 +5,7 @@ subtitle: Translations
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 ### Translations
 

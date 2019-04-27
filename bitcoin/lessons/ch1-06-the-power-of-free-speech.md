@@ -5,7 +5,7 @@ subtitle: The power of free speech
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 Bitcoin is an idea. An idea which, in its current form, is the
 manifestation of a machinery purely powered by text. Every aspect of

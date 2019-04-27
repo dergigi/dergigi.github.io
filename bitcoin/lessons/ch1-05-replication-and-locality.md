@@ -5,7 +5,7 @@ subtitle: Replication and locality
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 Quantum mechanics aside, locality is a non-issue in the physical world.
 The question *"Where is X?"* can be answered in a meaningful way, no

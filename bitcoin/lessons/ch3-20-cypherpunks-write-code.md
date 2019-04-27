@@ -5,7 +5,7 @@ subtitle: Cypherpunks write code
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 Like many great ideas, Bitcoin didn't come out of nowhere. It was made
 possible by utilizing and combining many innovations and discoveries in

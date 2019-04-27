@@ -5,7 +5,7 @@ subtitle: Move slowly and don't break things
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 It might be a dead mantra, but "move fast and break things" is still how
 much of the tech world operates. The idea that it doesn't matter if you

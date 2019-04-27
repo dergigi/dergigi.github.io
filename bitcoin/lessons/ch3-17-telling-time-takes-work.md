@@ -5,7 +5,7 @@ subtitle: Telling time takes work
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 It is often said that bitcoins are mined because thousands of computers
 work on solving *very complex* mathematical problems. Certain problems

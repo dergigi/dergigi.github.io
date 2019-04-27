@@ -5,7 +5,7 @@ subtitle: Economics
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 Money doesn’t grow on trees. To believe that it does is foolish, and our
 parents make sure that we know about that by repeating this saying like a

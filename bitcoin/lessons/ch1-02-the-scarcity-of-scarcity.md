@@ -5,7 +5,7 @@ subtitle: The scarcity of scarcity
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 ## Lesson 2: The scarcity of scarcity
 

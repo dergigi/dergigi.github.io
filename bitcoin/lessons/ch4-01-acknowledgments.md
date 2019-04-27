@@ -5,7 +5,7 @@ subtitle: Acknowledgments
 categories: [bitcoin, lesson]
 ---
 
-{% include lesson-toc.html %}
+
 
 Thanks to the countless authors and content producers who
 influenced my thinking on Bitcoin and the topics it touches. There
