@@ -5,60 +5,6 @@ subtitle: What I've learned from falling down the Bitcoin rabbit hole
 category: bitcoin
 ---
 
-## Further Reading
-
-There exists an almost endless list of books and essays on the topics
-discussed above and economic thought in general. The books and articles
-listed below are but a small selection which were particularly influential
-in my thinking. I am grateful for all the people who shared their
-insights, past and present.
-
-<!-- Part I -->
--   [The Bitcoin Standard: The Decentralized Alternative to Central Banking][book1]
-    by Saifedean Ammous
--   [Abundance: The Future Is Better Than You Think][book2] by Peter Diamandis
--   [The Mind’s I][book3] by Daniel Dennett and Douglas Hofstadter
--   [Money, blockchains, and social scalability][article1] by Nick Szabo
--   [Bitcoin’s Existential Crisis, originally published][article2] as What is it like to be a Bitcoin? by Nic Carter
--   [Unpacking Bitcoin’s Social Contract: A framework for skeptics][article3] by Hasu
--   [Why America Can’t Regulate Bitcoin][article4] by Beautyon
--   [Why Bitcoin is different][article5] by Jimmy Song
--   Peter Van Valkenburg on [Preserving the Freedom to Innovate with Public Blockchains][podcast1] hosted by Peter McCormack
-
-<!-- Part II -->
--   [*Bitcoin: A Peer-to-Peer Electronic Cash System*] by Satoshi
-    Nakamoto
--   [*Mastering Bitcoin*] by Andreas Antonopoulos
--   [*The Internet of Money*] by Andreas Antonopoulos
--   [*Inventing Bitcoin*] by Yan Pritzker
--   [*Applied Cryptography*] by Bruce Schneier
--   [*Reflections on Trusting Trust*] by Ken Thompson
--   [*Cypherpunks*] by Julian Assange with Jacob Appelbaum
--   [*The Anatomy of Proof-of-Work*] by [Hugo Nguyen]
--   [*Blockchain Proof-of-Work Is a Decentralized Clock*] by Gregory Trubetskoy
--   [*Unpacking Bitcoin's Social Contract*] by [Hasu]
--   [*Why Bitcoin Matters*] by [Aleksandar Svetski]
--   [*Guess My Bitcoin Private Key*] by [Michael Kerbleski]
-
-<!-- Part III -->
-
--   [The Bitcoin Standard: The Decentralized Alternative to Central Banking][bitcoin-standard] by Saifedean Ammous
--   [Economics in One Lesson] by Henry Hazlitt
--   [Human Action] by Ludwig von Mises
--   [The Ethics of Money Production] by Jörg Guido Hülsmann
--   [The Denationalization of Money] by Friedrich Hayek
--   [The Machinery of Freedom] by David D. Friedman
--   [The Case Against The Fed] by Murray N. Rothbard
--   [End the Fed] by Ron Paul
--   [Shelling Out: The Origins of Money] by Nick Szabo
--   [The Bitcoin Halving and Monetary Competition] by [Saifedean Ammous]
--   [The Bullish Case For Bitcoin] by [Vijay Boyapati]
--   [Bitcoin’s distribution was fair] by [Dan Held]
-
-### Translations
-
--   Chapter I is available in [Spanish][Spanish Translation] thanks to [@CamiloJdL][Camilo].
--   [Chapter I][tr-philosophy], [Chapter II][tr-economics], and [Chapter III][tr-technology] is available in Turkish thanks to [@deniz_zgur][deniz]. Note that the order of the chapters is different in the Turkish translation.
 
 <!-- Internal -->
 [I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
@@ -77,6 +23,7 @@ insights, past and present.
 [Hugo Nguyen]: hhttps://twitter.com/hugohano
 [Jannik]: https://twitter.com/jnnksbrt
 [Camilo]: https://twitter.com/CamiloJdL
+[deniz]: https://twitter.com/deniz_zgur
 [Michael]: https://twitter.com/michael_rogger
 [Daniel]: https://twitter.com/dnlggr
 [Raphael]: https://twitter.com/dinemuatta
@@ -88,7 +35,6 @@ insights, past and present.
 [Francis Pouliot]: https://twitter.com/francispouliot_
 [Aleksandar Svetski]:https://twitter.com/AleksSvetski
 [Michael Kerbleski]: https://twitter.com/kerbleski
-[deniz]: https://twitter.com/deniz_zgur
 [3Blue1Brown]: https://twitter.com/3blue1brown
 [Arjun Balaji]: https://twitter.com/arjunblj
 [the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
@@ -198,7 +144,6 @@ insights, past and present.
 [educational material]: https://antonopoulos.com/
 [timechain]: https://twitter.com/francispouliot_/status/1106028072799744002
 [reach out to me]: https://twitter.com/dergigi
-[tr-technology]: https://medium.com/@denizozzgur/blockchainin-teknolojik-%C3%B6%C4%9Fretileri-34ae5a6949a7
 
 
 
@@ -266,7 +211,6 @@ insights, past and present.
 [much energy]: https://medium.com/@dergigi/bitcoins-energy-consumption-6dd7d7a2e463
 [universal speed limit]: https://en.wikipedia.org/wiki/Speed_of_light#Upper_limit_on_speeds
 [fair distribution]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
-[tr-economics]: https://medium.com/@denizozzgur/bitcoinin-ekonomi-%C3%B6%C4%9Fretileri-a3e87dcff525
 
 <!-- Part I -->
 [this question]: https://twitter.com/arjunblj/status/1050073234719293440
@@ -311,5 +255,3 @@ insights, past and present.
 [article4]: https://hackernoon.com/why-america-cant-regulate-bitcoin-8c77cee8d794
 [article5]: https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947
 [podcast1]: https://www.whatbitcoindid.com/podcast/coin-centers-peter-van-valkenburg-on-preserving-the-freedom-to-innovate-with-public-blockchains
-[Spanish translation]: https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9
-[tr-philosophy]: https://medium.com/@denizozzgur/bitcoinin-felsefi-%C3%B6%C4%9Fretileri-e7df2338a2fc
