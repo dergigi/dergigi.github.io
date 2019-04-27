@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 21 Lessons
-subtitle: Introduction
+title: Chapter I
+subtitle: Philosophy
 categories: [bitcoin, lesson]
 ---
 
