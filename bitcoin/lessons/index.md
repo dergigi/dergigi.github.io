@@ -5,6 +5,8 @@ subtitle: What I've learned from Bitcoin
 category: bitcoin
 ---
 
+{% include lesson-navigation.html %}
+
 > Every experience is a paradox in that it means to be absolute, and yet
 > is relative; in that it somehow always goes beyond itself and yet never
 > escapes itself.
