@@ -2,10 +2,12 @@
 layout: page
 title: 21 Lessons
 subtitle: Table of Contents
-category: bitcoin
+categories: [bitcoin, lesson]
 ---
 
 ### Table of Contents
+
+{% include lesson-toc.html %}
 
   - Introduction
   - Chapter I: Philosophy
