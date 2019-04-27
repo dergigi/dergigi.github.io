@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lesson 18
-subtitle: Telling time takes work
+subtitle: Move slowly and don't break things
 categories: [bitcoin, lesson]
 ---
 
