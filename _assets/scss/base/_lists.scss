@@ -14,7 +14,7 @@ ol {
 //----------------------------------------------
 .post {
   ol,
-  ul:not(.post__social) {
+  ul:not(.post__social):not(.lesson__navigation) {
     margin: {
       bottom: 1.5rem;
       left: 1em;
@@ -40,5 +40,32 @@ ol {
       }
     }
   }
+}
 
+//----------------------------------------------
+//  Lesson Lists
+//----------------------------------------------
+.lesson {
+  &__navigation {
+    @extend %no-list-style;
+    @extend %no-margin-or-padding;
+
+    ul li {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    li {
+      &:first-child {
+        &:before {
+          content: "← "
+        }
+      }
+      &:last-child {
+        &:after {
+          content: " →"
+        }
+      }
+    }
+  }
 }
