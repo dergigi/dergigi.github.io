@@ -1,6 +1,6 @@
 {% for lesson in site.pages %}
   {% if lesson.categories contains 'lesson' %}
-    {% if page == lesson %}
+    {% if page.path == lesson.path %}
       {% assign idxp = forloop.index | minus: 1 | minus: 1 %}
       {% assign idxn = forloop.index | plus: 1 | minus: 1 %}
     {% endif %}
@@ -11,5 +11,4 @@
 {% assign nextLesson = site.pages[idxn] %}
 
 <a href="{{ previousLesson.path | remove: '.md' | absolute_url }}">&larr; {{ previousLesson.subtitle }}</a>
-|
 <a href="{{ nextLesson.path | remove: '.md' | absolute_url }}">{{ nextLesson.subtitle }} &rarr;</a>
