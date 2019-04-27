@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 19
 subtitle: Privacy is not dead
 categories: [bitcoin, lesson]

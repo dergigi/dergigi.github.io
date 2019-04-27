@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 20
-subtitle: Cypherpunks write code 
+subtitle: Cypherpunks write code
 categories: [bitcoin, lesson]
 ---
 

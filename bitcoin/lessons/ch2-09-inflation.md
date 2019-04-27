@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 9
 subtitle: Inflation
 categories: [bitcoin, lesson]

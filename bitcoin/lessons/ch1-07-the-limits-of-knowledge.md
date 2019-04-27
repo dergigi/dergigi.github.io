@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 7
-subtitle: The limits of knowledge 
+subtitle: The limits of knowledge
 categories: [bitcoin, lesson]
 ---
 

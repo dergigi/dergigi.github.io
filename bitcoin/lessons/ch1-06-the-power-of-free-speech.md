@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 6
 subtitle: The power of free speech
 categories: [bitcoin, lesson]

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Lessons Learned
 subtitle: Conclusion
 categories: [bitcoin, lesson]

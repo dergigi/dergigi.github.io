@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 16
 subtitle: Reflections on "Don't Trust, Verify"
 categories: [bitcoin, lesson]

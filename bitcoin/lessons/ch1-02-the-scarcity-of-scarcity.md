@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 2
 subtitle: The scarcity of scarcity
 categories: [bitcoin, lesson]

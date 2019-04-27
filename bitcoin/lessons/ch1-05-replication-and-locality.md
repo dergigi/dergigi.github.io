@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 5
-subtitle: Replication and locality 
+subtitle: Replication and locality
 categories: [bitcoin, lesson]
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 1
 subtitle: Immutability and change
 categories: [bitcoin, lesson]

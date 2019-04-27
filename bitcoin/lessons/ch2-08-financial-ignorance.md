@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 8
 subtitle: Financial ignorance
 categories: [bitcoin, lesson]

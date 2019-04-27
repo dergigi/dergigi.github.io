@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 4
 subtitle: The problem of identity
 categories: [bitcoin, lesson]

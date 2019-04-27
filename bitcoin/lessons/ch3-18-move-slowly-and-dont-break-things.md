@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 18
 subtitle: Move slowly and don't break things
 categories: [bitcoin, lesson]

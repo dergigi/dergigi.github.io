@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 17
 subtitle: Telling time takes work
 categories: [bitcoin, lesson]

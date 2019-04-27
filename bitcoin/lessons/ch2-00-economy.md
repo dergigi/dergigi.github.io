@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Chapter II
 subtitle: Economics
 categories: [bitcoin, lesson]

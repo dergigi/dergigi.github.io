@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: 21 Lessons
 subtitle: What I've learned from falling down the Bitcoin rabbit hole
 category: bitcoin
@@ -83,7 +83,6 @@ category: bitcoin
 [reckless]: https://twitter.com/hashtag/reckless
 [Jameson Lopp]: https://twitter.com/lopp/status/1077200836072296449
 [*The Internet of Money*]: https://theinternetofmoney.info/
-[Giannina Braschi]: https://en.wikipedia.org/wiki/Braschi%27s_Empire_of_Dreams
 
 
 
@@ -103,7 +102,6 @@ category: bitcoin
 [Henry Hazlitt]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwi058KmgNrfAhWHneAKHbmCDFUQFjACegQIExAC&url=https%3A%2F%2Fmises.org%2Fsystem%2Ftdf%2FHenry%2520Hazlitt%2520Economics%2520in%2520One%2520Lesson.pdf%3Ffile%3D1%26type%3Ddocument&usg=AOvVaw0_kRtaNPMez0UdYGsrKThv
 [hyperinflates]: https://en.wikipedia.org/wiki/Hyperinflation
 [inflation can not help]: https://books.google.com/books?id=zZu3AAAAIAAJ&dq=%22only+while+it+accelerates%22&focus=searchwithinvolume&q=%22steady+inflation+cannot+help%22
-[sly roundabout way]: https://youtu.be/EYhEDxFwFRU?t=1124
 [history of inflation]: https://books.google.com/books?id=l_A1vVIaYBYC&pg=PA142&dq=%22history+is+largely+a+history+of+inflation%22&hl=en&sa=X&ved=0ahUKEwi90NDLrdnfAhUprVkKHUx1CmIQ6AEIKjAA#v=onepage&q=%22history%20is%20largely%20a%20history%20of%20inflation%22&f=false
 [currently suffering]: https://en.wikipedia.org/wiki/Crisis_in_Venezuela#Economic_crisis
 [list of historical currencies]: https://en.wikipedia.org/wiki/List_of_historical_currencies
@@ -143,7 +141,6 @@ category: bitcoin
 <!-- Part I -->
 [this question]: https://twitter.com/arjunblj/status/1050073234719293440
 [automated social contract]: https://medium.com/@hasufly/bitcoins-social-contract-1f8b05ee24a9
-[Morpheus]: https://en.wikipedia.org/wiki/Red_pill_and_blue_pill#The_Matrix_(1999)
 [Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
 [Ralph Merkle]: http://merkle.com/papers/DAOdemocracyDraft.pdf
 [changing people's diets]: https://motherboard.vice.com/en_us/article/ne74nw/inside-the-world-of-the-bitcoin-carnivores

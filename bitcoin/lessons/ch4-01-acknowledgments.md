@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Thank you
 subtitle: Acknowledgments
 categories: [bitcoin, lesson]

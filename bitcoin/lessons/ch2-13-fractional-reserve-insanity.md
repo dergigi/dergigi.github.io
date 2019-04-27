@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Lesson 13
 subtitle: Fractional Reserve Insanity
 categories: [bitcoin, lesson]
