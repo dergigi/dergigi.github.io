@@ -71,8 +71,19 @@
 //----------------------------------------------
 // Bitcoin Header
 //----------------------------------------------
+.orange {
+  background-color: $color-orange;
+
+  img.& {
+    border: 1px solid $color-orange;
+  }
+}
+
 .bitcoin {
   top: $header-height;
   height: $bitcoin-header-height;
-  opacity: 50%;
+
+  a {
+    color: $color-orange;
+  }
 }
