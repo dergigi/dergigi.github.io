@@ -1,13 +1,2 @@
-<header class="header">
-  <a class="header__title" href="{{ '/' | absolute_url }}">
-    <img src="{{ site.default_img | absolute_url }}"/>
-  </a>
-  {% include navigation.html %}
-</header>
-
-{% if page.path contains 'bitcoin' %}
-<header class="header bitcoin">
-  <a class="bitcoin__title" href="{{ '/bitcoin' | absolute_url }}"> </a>
-  {% include navigation-bitcoin.html %}
-</header>
-{% endif %}
+{% include header-site.html %}
+{% if page.path contains 'bitcoin' %}{% include header-bitcoin.html %}{% endif %}
