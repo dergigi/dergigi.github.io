@@ -1,7 +1,8 @@
 //----------------------------------------------
 // Header
 //----------------------------------------------
-.header {
+.header,
+.bitcoin {
   @extend %letter-spacing;
   @extend %box-shadow;
 
@@ -65,4 +66,13 @@
       }
     }
   }
+}
+
+//----------------------------------------------
+// Bitcoin Header
+//----------------------------------------------
+.bitcoin {
+  top: $header-height;
+  height: $bitcoin-header-height;
+  opacity: 50%;
 }
