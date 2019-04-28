@@ -73,26 +73,25 @@
 //----------------------------------------------
 .orange {
   background-color: $color-orange;
+}
 
-  img.& {
-    outline: 1px solid $color-orange;
-  }
+img.orange {
+  border: 3px solid $color-orange;
 }
 
 .bitcoin {
   top: $header-height;
   height: $bitcoin-header-height;
 
-  a {
-    color: $color-orange;
-  }
-
   li {
     font-weight: lighter;
+
+    a:hover {
+      color: $color-orange;
+    }
   }
 
-.bitcoin__list {
-    background-color: $color-red;
+  .bitcoin__list {
     font-weight: lighter;
   }
 }
