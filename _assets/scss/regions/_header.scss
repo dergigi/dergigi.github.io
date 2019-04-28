@@ -75,7 +75,7 @@
   background-color: $color-orange;
 
   img.& {
-    border: 1px solid $color-orange;
+    outline: 1px solid $color-orange;
   }
 }
 
@@ -85,5 +85,14 @@
 
   a {
     color: $color-orange;
+  }
+
+  li {
+    font-weight: lighter;
+  }
+
+.bitcoin__list {
+    background-color: $color-red;
+    font-weight: lighter;
   }
 }
