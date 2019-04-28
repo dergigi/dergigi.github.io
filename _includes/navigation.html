@@ -2,6 +2,6 @@
   <ul class="header__list">
     <li><a href="{{ '/contact' | absolute_url }}">Contact</a></li>
     <li><a href="{{ '/' | absolute_url }}">Photography</a></li>
-    <li><a href="{{ '/bitcoin' | prepend: site.baseurl }}">Bitcoin</a></li>
+    <li><a href="{{ '/bitcoin' | prepend: site.baseurl }}" {% if page.path contains 'bitcoin' %}class="orange"{% endif %}>Bitcoin</a></li>
   </ul>
 </nav>
