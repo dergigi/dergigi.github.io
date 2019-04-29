@@ -1,4 +1,6 @@
 <header class="header bitcoin">
-  <a class="bitcoin__title" href="{{ '/bitcoin' | absolute_url }}"> </a>
+  <a class="header__title" href="{{ '/' | absolute_url }}">
+    <img src="{{ site.default_img | absolute_url }}" {% if page.path contains 'bitcoin' %}class="orange"{% endif %}/>
+  </a>
   {% include navigation-bitcoin.html %}
 </header>

@@ -1,2 +1,5 @@
-{% include header-site.html %}
-{% if page.path contains 'bitcoin' %}{% include header-bitcoin.html %}{% endif %}
+{% if page.path contains 'bitcoin' %}
+  {% include header-bitcoin.html %}
+{% else %}
+  {% include header-site.html %}
+{% endif %}
