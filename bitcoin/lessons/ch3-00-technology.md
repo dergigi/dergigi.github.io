@@ -2,6 +2,7 @@
 layout: lesson
 title: Chapter III
 subtitle: Technology
+image: /assets/images/btc05-the-anatomy-of-bitcoin.jpg
 categories: [bitcoin, lesson]
 ---
 

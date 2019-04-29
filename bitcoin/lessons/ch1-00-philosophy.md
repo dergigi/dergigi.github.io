@@ -2,6 +2,7 @@
 layout: lesson
 title: Chapter I
 subtitle: Philosophy
+image: /assets/images/btc03-the-school-of-bitcoin.jpg
 categories: [bitcoin, lesson]
 ---
 
