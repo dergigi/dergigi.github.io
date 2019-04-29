@@ -1,5 +1,5 @@
 ---
-layout: lesson 
+layout: lesson
 title: 21 Lessons
 subtitle: Foreword
 categories: [bitcoin, lesson]
