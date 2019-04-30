@@ -113,11 +113,7 @@ helpful to focus on some constituents in more detail. In particular, I
 want to focus on the following four: **ideas**, **people**, **code**,
 and **nodes**.
 
-
-
-
-
-Bitcoin's ingredients: two parts software, two parts hardware.
+{% include image.html name="bitcoin-ingredients-trans.png" caption="Bitcoin's ingredients: two parts software, two parts hardware." %}
 
 On the physical layer, the network is made up of interconnecting
 *nodes*. Bitcoin's consensus rules are embodied in its software, i.e.
@@ -165,11 +161,7 @@ play:
 6.  [The **value**, in turn, reinforces the set of ideas defined by its
     consensus rules: the embodiment of its value proposition.]
 
-
-
-
-
-Idea-value feedback loop.
+{% include image.html name="bitcoin-receipt-trans-labels.png" caption="Idea-value feedback loop." %}
 
 This idea-value feedback loop, the re-enforcement of ideas through value
 creation, is the mechanism behind Bitcoin's gravity. Everything in this
@@ -209,11 +201,7 @@ focus on a small subset. And since we are talking about Bitcoin, we will
 focus on the small universe of ideas spawned by asking the question of
 what Bitcoin is.
 
-
-
-
-
-"What is Bitcoin?"
+{% include image.html name="people-have-ideas-v2-more-trans.png" caption="What is Bitcoin?" %}
 
 Ask three strangers what Bitcoin is, and you will probably get three
 very different answers. Any answer is necessarily shaped by past
@@ -324,11 +312,7 @@ coins in the last few years. While most of these altcoins are outright
 scams, some try to find a niche, attracting people who share its new or
 modified set of ideas.
 
-
-
-
-
-Different ideas are captured by different gravity wells.
+{% include image.html name="ideas-have-people-v3-clumped-trans.png" caption="Different ideas are captured by different gravity wells." %}
 
 Being sucked into one of these gravity wells --- and thus into an
 idea-value feedback loop --- is the reason for much of the toxicity we
@@ -362,12 +346,7 @@ I plan to explore some of these events in the future, but for now, let's
 just acknowledge that there are other projects orbiting Bitcoin and that
 there have been collisions in the past.
 
-
-
-
-
-An artist's impression of Bitcoin and its satellites. Source:
-KQED Science
+{% include image.html name="space-debris.gif" caption="An artist's impression of Bitcoin and its satellites. Source: KQED Science" %}
 
 Whether all other projects will be swallowed by Bitcoin or die on their
 own, or whether some will find stable orbits, is yet to be seen. What
@@ -518,14 +497,6 @@ you've been a [hodlonaut] in close orbit, Bitcoin's gravity will
 continue to increase. I am convinced of that idea, and I hope to have
 planted a seed of conviction in you as well.
 
-
-
-
-
-
-
-[Go to the profile of Gigi]: https://cdn-images-1.medium.com/fit/c/100/100/1*yerG1L9BlJqTdPaLt4FlIQ.jpeg
-[![Go to the profile of Gigi]]: https://medium.com/@dergigi?source=post_header_lockup
 [Douglas Adams]: https://medium.com/r/?url=http%3A%2F%2Fwww.biota.org%2Fpeople%2Fdouglasadams%2Findex.html
 [unforgeable costliness]: https://medium.com/r/?url=http%3A%2F%2Funenumerated.blogspot.com%2F2008%2F08%2F
 [Maps of Meaning]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMaps_of_Meaning
