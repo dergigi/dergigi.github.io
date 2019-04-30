@@ -177,7 +177,7 @@ creating an opinionated network. The result of an opinionated network is
 that it attracts opinionated people. 
 
 Arguably, most early adopters of Bitcoin shared its core set of ideas.
-As Dan Held points out in [*Planting Bitcoin*], Satoshi carefully chose
+As [Dan Held] points out in [*Planting Bitcoin*], Satoshi carefully chose
 the initial group of people: cryptographers and cypherpunks, who
 understood the technical components Bitcoin is made of.
 
@@ -299,7 +299,7 @@ overlaps; sometimes almost exactly.
 > there are, in fact, a menu of beliefs competing for their affiliation;
 > [...] Trying to identify where one narrative ends and another begins
 > is a challenging task, as ideas tend to have permeable borders."
-> <cite>[Nathaniel Whittemore]</cite>
+> <cite>[Nathaniel Whittemore][crypto-narrative-index]</cite>
 
 Since creating new gravity wells is (a) possible and (b) relatively easy
 to do (copy Bitcoin's code, change a few parameters, launch the new
@@ -495,24 +495,47 @@ planted a seed of conviction in you as well.
 
 ### Further Reading
 
-- [Unpacking Bitcoin's Social Contract][social-contract] by Hasu
-- [We can't all be friends: crypto and the psychology of mass movements][mass-movements] by Tony Sheng
-- [Visions of Bitcoin - How major Bitcoin narratives changed over time][visions] by Hasu and Nic Carter
-- [The Many Faces of Bitcoin][many-faces] by Murad Mahmudov and Adam Taché
-- [Bitcoin: Past and Future][past-and-future] by Murad Mahmudov and Adam Taché
-- [Crypto-incrementalism vs Crypto-anarchy][incrementalism-vs-anarchy] by Tony Sheng
-- [Bitcoin Culture Wars][culture-wars] by Brandon Quittem
-- [Schrödinger's Securities][securities] by Nathaniel Whittemore
-- [Market Narratives Are Marketing][market-narratives] by Nathaniel Whittemore
-- [Quantum Narratives][quantum-narratives] by Dan Held
+- [Unpacking Bitcoin's Social Contract][social-contract] by [Hasu]
+- [We can't all be friends: crypto and the psychology of mass movements][mass-movements] by [Tony Sheng]
+- [Visions of Bitcoin - How major Bitcoin narratives changed over time][visions] by [Hasu] and [Nic Carter]
+- [The Many Faces of Bitcoin][many-faces] by [Murad Mahmudov] and [Adam Taché]
+- [Bitcoin: Past and Future][past-and-future] by [Murad Mahmudov] and [Adam Taché]
+- [Crypto-incrementalism vs Crypto-anarchy][incrementalism-vs-anarchy] by [Tony Sheng]
+- [Bitcoin Culture Wars][culture-wars] by [Brandon Quittem]
+- [Schrödinger's Securities][securities] by [Nathaniel Whittemore]
+- [Market Narratives Are Marketing][market-narratives] by [Nathaniel Whittemore]
+- [Quantum Narratives][quantum-narratives] by [Dan Held]
 
 ### Acknowledgments
 
-- Thanks to Hasu, whose incredible feedback helped to shape large parts of this article. His writing on Unpacking Bitcoin's Social Contract was the inspiration for this article.
-- Thanks to Nathaniel Whittemore for his writings on narratives and feedback on earlier drafts of this article.
-- Thanks to Ben Prentice for proofreading the final draft.
-- Dedicated to the bravest space cat of them all (* April 2017, † April 2019).
+- Thanks to [Hasu], whose incredible feedback helped to shape large parts of this article. His writing on Unpacking Bitcoin's Social Contract was the inspiration for this article.
+- Thanks to [Nathaniel Whittemore] for his writings on narratives and feedback on earlier drafts of this article.
+- Thanks to [Ben Prentice] for proofreading the final draft.
+- Dedicated to the [bravest space cat][hodlonaut] of them all (* April 2017, † April 2019).
 
+<!-- Twitter People -->
+[Hasu]: https://twitter.com/hasu
+[Tony Sheng]: https://twitter.com/tonysheng
+[Nic Carter]: https://twitter.com/nic__carter
+[Murad Mahmudov]: https://twitter.com/MustStopMurad
+[Adam Taché]: https://twitter.com/adam_tache
+[Brandon Quittem]: https://twitter.com/bquittem
+[Nathaniel Whittemore]: https://twitter.com/nlw
+[Dan Held]: https://twitter.com/danheld
+
+<!-- References -->
+[social-contract]: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
+[mass-movements]: https://medium.com/r/?url=https%3A%2F%2Fwww.tonysheng.com%2Fmass-movement
+[visions]: https://uncommoncore.co/visions-of-bitcoin-how-major-bitcoin-narratives-changed-over-time/
+[many-faces]: https://hackernoon.com/the-many-faces-of-bitcoin-1c298570d191
+[past-and-future]: https://hackernoon.com/bitcoin-past-and-future-f2feba1f419d
+[incrementalism-vs-anarchy]: https://www.tonysheng.com/incremental-vs-anarchy
+[culture-wars]: https://medium.com/@BrandonQuittem/bitcoin-culture-wars-what-doesnt-kill-you-only-makes-you-stronger-b0db7e5515e1
+[securities]: https://hackernoon.com/schr%C3%B6dingers-securities-regulation-the-quantum-state-of-crypto-ffb4e5b7446
+[market-narratives]: https://tokeneconomy.co/market-narratives-are-marketing-introducing-the-crypto-narrative-index-deeeb49bc909
+[quantum-narratives]: https://www.danheld.com/blog/2019/1/13/quantum-narratives
+
+<!-- Links -->
 [Douglas Adams]: http://www.biota.org/people/douglasadams/index.html
 [unforgeable costliness]: http://unenumerated.blogspot.com/2008/08/
 [Maps of Meaning]: https://en.wikipedia.org/wiki/Maps_of_Meaning
@@ -530,7 +553,7 @@ planted a seed of conviction in you as well.
 [Isaac Asimov]: https://openlibrary.org/works/OL46374W/Nightfall
 [learned myself]: https://medium.com/@dergigi/philosophical-teachings-of-bitcoin-97f4b96f455f
 [Alan Guth]: http://ocw.mit.edu/courses/physics/8-286-the-early-universe-fall-2013/
-[Nathaniel Whittemore]: https://tokeneconomy.co/market-narratives-are-marketing-introducing-the-crypto-narrative-index-deeeb49bc909
+[crypto-narrative-index]: https://tokeneconomy.co/market-narratives-are-marketing-introducing-the-crypto-narrative-index-deeeb49bc909
 [Carl Jung]: http://jungcurrents.com/jung-complexes-have-us
 [payments to script hashes]: https://en.bitcoin.it/wiki/Pay_to_script_hash
 [segregated witness]: https://en.bitcoin.it/wiki/Segregated_Witness
