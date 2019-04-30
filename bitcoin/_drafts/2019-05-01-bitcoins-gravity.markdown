@@ -493,6 +493,26 @@ you've been a [hodlonaut] in close orbit, Bitcoin's gravity will
 continue to increase. I am convinced of that idea, and I hope to have
 planted a seed of conviction in you as well.
 
+### Further Reading
+
+- [Unpacking Bitcoin's Social Contract][social-contract] by Hasu
+- [We can't all be friends: crypto and the psychology of mass movements][mass-movements] by Tony Sheng
+- [Visions of Bitcoin - How major Bitcoin narratives changed over time][visions] by Hasu and Nic Carter
+- [The Many Faces of Bitcoin][many-faces] by Murad Mahmudov and Adam Taché
+- [Bitcoin: Past and Future][past-and-future] by Murad Mahmudov and Adam Taché
+- [Crypto-incrementalism vs Crypto-anarchy][incrementalism-vs-anarchy] by Tony Sheng
+- [Bitcoin Culture Wars][culture-wars] by Brandon Quittem
+- [Schrödinger's Securities][securities] by Nathaniel Whittemore
+- [Market Narratives Are Marketing][market-narratives] by Nathaniel Whittemore
+- [Quantum Narratives][quantum-narratives] by Dan Held
+
+### Acknowledgments
+
+- Thanks to Hasu, whose incredible feedback helped to shape large parts of this article. His writing on Unpacking Bitcoin's Social Contract was the inspiration for this article.
+- Thanks to Nathaniel Whittemore for his writings on narratives and feedback on earlier drafts of this article.
+- Thanks to Ben Prentice for proofreading the final draft.
+- Dedicated to the bravest space cat of them all (* April 2017, † April 2019).
+
 [Douglas Adams]: http://www.biota.org/people/douglasadams/index.html
 [unforgeable costliness]: http://unenumerated.blogspot.com/2008/08/
 [Maps of Meaning]: https://en.wikipedia.org/wiki/Maps_of_Meaning
