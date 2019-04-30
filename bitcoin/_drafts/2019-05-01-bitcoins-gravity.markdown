@@ -13,21 +13,6 @@ tags:
  - Writing
 ---
 
-
-
-
-
-
-
-How idea-value feedback loops are pulling people in
----------------------------------------------------
-
-
-
-[![Go to the profile of Gigi]]
-
-
-
 Bitcoin is different things to different people. Whatever it might be to
 you, it is undoubtedly an opinionated and polarizing phenomenon. There
 are certain ideas embedded in the essence of Bitcoin, and you might be
@@ -52,18 +37,7 @@ towards Bitcoin.
 > indication of how skewed our perspective tends to be, but we have done
 > various things over intellectual history to slowly correct some of our
 > misapprehensions." 
-
-> --- [Douglas Adams]
-
-
-
-
-
-
-
-
-
-
+> <cite>[Douglas Adams]</cite>
 
 ### Agreeing on a Set of Ideas
 
@@ -84,8 +58,7 @@ chaos.
 > peace, stability, and potential prosperity --- a good game. The good,
 > however, is the enemy of the better; a more compelling game might
 > always exist." 
-
-> --- [Maps of Meaning]
+> <cite>[Maps of Meaning]</cite>
 
 Bitcoin's consensus rules are just that: a set of ideas, codified into
 validation rules, acted out by nodes on the network. Changing this core
@@ -124,8 +97,7 @@ months later, on 3 January 2009, the genesis block was mined. 
 
 > "The Times 03/Jan/2009 Chancellor on brink of second bailout
 > for banks." 
-
-> --- [Bitcoin's Genesis Block][genesis block]
+> <cite>[Bitcoin's Genesis Block][genesis block]</cite>
 
 It took only two days until a second person was intrigued enough to join
 the network. Hal Finney ran the software, connected to Satoshi's node,
@@ -166,8 +138,7 @@ this, consensus emerges.
 
 > "Freedom brings men rudely and directly face to face with their own
 > personal responsibility for their own free actions." 
-
-> --- Frank Meyer, [*In Defense of Freedom*]
+> <cite>Frank Meyer, [*In Defense of Freedom*]</cite>
 
 As soon as consensus is reached on the network, *value* comes into play.
 That bitcoins --- or any monies, for that matter --- have value, is in
@@ -230,8 +201,7 @@ cryptography mailing list.
 
 > "It's very attractive to the libertarian viewpoint if we can explain
 > it properly. I'm better with code than with words though." 
-
-> --- [Satoshi Nakamoto]
+> <cite>[Satoshi Nakamoto]</cite>
 
 One way to illustrate this is by visualizing a landscape of ideas. Since
 the number of all possible ideas is basically infinite, we will have to
@@ -262,8 +232,8 @@ constructs, focusing on automation of contracts and similar ideas.
 > "Nobody can know everything. The complexity of society is irreducible.
 > We cling to mental models that satisfy our thirst for understanding a
 > given phenomenon, and stick to groups who identify with similar
-> narratives." \
-> --- [Dan Held]
+> narratives."
+> <cite> [Dan Held]</cite>
 
 These narratives, these sets of ideas, describe both what Bitcoin
 *actually* is --- at least in part --- and what people *think* it is.
@@ -298,7 +268,7 @@ particularly effective in changing it.
 
 > "So the universe is not quite as you thought it was. You'd better
 > rearrange your beliefs, then. Because you certainly can't rearrange
-> the universe." \
+> the universe."
 >  --- [Isaac Asimov]
 
 To repeat an old TFTC trope: Bitcoin will change us more than we will
@@ -314,9 +284,8 @@ ideas?
 > "The miracle of physics that I'm talking about here is something that
 > was actually known since the time of Einstein's general relativity;
 > that gravity is not always attractive. Gravity can act
-> repulsively.**" **
-
-> **---** [Alan Guth]
+> repulsively."
+> <cite>[Alan Guth]</cite>
 
 If you are truly repulsed by Bitcoin's ideas, you might end up drifting
 away into space, joining the interstellar void where nocoiners float
@@ -346,8 +315,7 @@ overlaps; sometimes almost exactly.
 > there are, in fact, a menu of beliefs competing for their affiliation;
 > [...] Trying to identify where one narrative ends and another begins
 > is a challenging task, as ideas tend to have permeable borders."
-
-> --- [Nathaniel Whittemore]
+> <cite>[Nathaniel Whittemore]</cite>
 
 Since creating new gravity wells is (a) possible and (b) relatively easy
 to do (copy Bitcoin's code, change a few parameters, launch the new
@@ -371,8 +339,7 @@ result in ever deeper entrenchment. 
 > "Everyone knows nowadays that people "have complexes." What is not so
 > well known, though far more important theoretically, is that complexes
 > can have us." 
-
-> --- [Carl Jung]
+> <cite>[Carl Jung]</cite>
 
 One could argue, as Carl Jung did in relationship to complexes, that
 *block chains have people*. At the root of every gravity well is a set
@@ -465,8 +432,7 @@ well.
 > goods. They, and all that appertained to them, went down alive into
 > the pit, and the earth closed upon them: and they perished from among
 > the congregation." 
-
-> --- [*Book of Numbers*]
+> <cite>[*Book of Numbers*]</cite>
 
 I'm not saying that *all* other projects will perish, necessarily. But
 networks thrive because of network effects: the winner takes most, if
@@ -531,8 +497,7 @@ will taint the world view of anyone captured by it.
 > betimes why one is possessed. One should ask oneself for once: Why has
 > this idea taken possession of me? What does that mean in regard
 > to myself?" 
-
-> --- [Carl Jung][1]
+> <cite>[Carl Jung][1]</cite>
 
 Both the world and Bitcoin are dynamic things, making any set of ideas
 we currently hold insufficient for a permanent, complete view of either.
@@ -559,34 +524,34 @@ planted a seed of conviction in you as well.
 
 
 
-  [Go to the profile of Gigi]: https://cdn-images-1.medium.com/fit/c/100/100/1*yerG1L9BlJqTdPaLt4FlIQ.jpeg
-  [![Go to the profile of Gigi]]: https://medium.com/@dergigi?source=post_header_lockup
-  [Douglas Adams]: https://medium.com/r/?url=http%3A%2F%2Fwww.biota.org%2Fpeople%2Fdouglasadams%2Findex.html
-  [unforgeable costliness]: https://medium.com/r/?url=http%3A%2F%2Funenumerated.blogspot.com%2F2008%2F08%2F
-  [Maps of Meaning]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMaps_of_Meaning
-  [famously said]: https://medium.com/r/?url=https%3A%2F%2Fsatoshi.nakamotoinstitute.org%2Fposts%2Fbitcointalk%2F126%2F
-  [writing]: https://medium.com/r/?url=https%3A%2F%2Fsatoshi.nakamotoinstitute.org%2F
-  [genesis block]: https://medium.com/r/?url=https%3A%2F%2Fen.bitcoin.it%2Fwiki%2FGenesis_block
-  [social contract]: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
-  [*In Defense of Freedom*]: https://medium.com/r/?url=https%3A%2F%2Fwww.libertyfund.org%2Fbooks%2Fin-defense-of-freedom-and-related-essays
-  [Laszlo]: https://medium.com/r/?url=https%3A%2F%2Fen.bitcoin.it%2Fwiki%2FLaszlo_Hanyecz
-  [two pizzas]: https://medium.com/r/?url=https%3A%2F%2Fduckduckgo.com%2FBitcoin%2BPizza%2BDay
-  [*Planting Bitcoin*]: https://medium.com/@danhedl/planting-bitcoin-56bd1459cb23
-  [Satoshi Nakamoto]: https://medium.com/r/?url=https%3A%2F%2Fsatoshi.nakamotoinstitute.org%2Femails%2Fcryptography%2F12%2F
-  [Dan Held]: https://medium.com/r/?url=https%3A%2F%2Ftokeneconomy.co%2Fquantum-narratives-859cde44401b
-  [visions of Bitcoin]: https://medium.com/r/?url=https%3A%2F%2Funcommoncore.co%2Fvisions-of-bitcoin-how-major-bitcoin-narratives-changed-over-time%2F
-  [Isaac Asimov]: https://medium.com/r/?url=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL46374W%2FNightfall
-  [learned myself]: https://medium.com/@dergigi/philosophical-teachings-of-bitcoin-97f4b96f455f
-  [Alan Guth]: https://medium.com/r/?url=http%3A%2F%2Focw.mit.edu%2Fcourses%2Fphysics%2F8-286-the-early-universe-fall-2013%2F
-  [Nathaniel Whittemore]: https://medium.com/r/?url=https%3A%2F%2Ftokeneconomy.co%2Fmarket-narratives-are-marketing-introducing-the-crypto-narrative-index-deeeb49bc909
-  [Carl Jung]: https://medium.com/r/?url=http%3A%2F%2Fjungcurrents.com%2Fjung-complexes-have-us
-  [payments to script hashes]: https://medium.com/r/?url=https%3A%2F%2Fen.bitcoin.it%2Fwiki%2FPay_to_script_hash
-  [segregated witness]: https://medium.com/r/?url=https%3A%2F%2Fen.bitcoin.it%2Fwiki%2FSegregated_Witness
-  [lightning network]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLightning_Network
-  [Schnorr signatures]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSchnorr_signature
-  [whirlpool]: https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2FSamourai-Wallet%2FWhirlpool
-  [CoinJoins]: https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2FzkSNACKs%2FWalletWasabi
-  [*Book of Numbers*]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBook_of_Numbers
-    "wikipedia:Book of Numbers"
-  [1]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSpirit_in_Man%2C_Art%2C_and_Literature
-  [hodlonaut]: https://medium.com/r/?url=http%3A%2F%2Fduckduckgo.com%2Fhodlonaut
+[Go to the profile of Gigi]: https://cdn-images-1.medium.com/fit/c/100/100/1*yerG1L9BlJqTdPaLt4FlIQ.jpeg
+[![Go to the profile of Gigi]]: https://medium.com/@dergigi?source=post_header_lockup
+[Douglas Adams]: https://medium.com/r/?url=http%3A%2F%2Fwww.biota.org%2Fpeople%2Fdouglasadams%2Findex.html
+[unforgeable costliness]: https://medium.com/r/?url=http%3A%2F%2Funenumerated.blogspot.com%2F2008%2F08%2F
+[Maps of Meaning]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMaps_of_Meaning
+[famously said]: https://medium.com/r/?url=https%3A%2F%2Fsatoshi.nakamotoinstitute.org%2Fposts%2Fbitcointalk%2F126%2F
+[writing]: https://medium.com/r/?url=https%3A%2F%2Fsatoshi.nakamotoinstitute.org%2F
+[genesis block]: https://medium.com/r/?url=https%3A%2F%2Fen.bitcoin.it%2Fwiki%2FGenesis_block
+[social contract]: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
+[*In Defense of Freedom*]: https://medium.com/r/?url=https%3A%2F%2Fwww.libertyfund.org%2Fbooks%2Fin-defense-of-freedom-and-related-essays
+[Laszlo]: https://medium.com/r/?url=https%3A%2F%2Fen.bitcoin.it%2Fwiki%2FLaszlo_Hanyecz
+[two pizzas]: https://medium.com/r/?url=https%3A%2F%2Fduckduckgo.com%2FBitcoin%2BPizza%2BDay
+[*Planting Bitcoin*]: https://medium.com/@danhedl/planting-bitcoin-56bd1459cb23
+[Satoshi Nakamoto]: https://medium.com/r/?url=https%3A%2F%2Fsatoshi.nakamotoinstitute.org%2Femails%2Fcryptography%2F12%2F
+[Dan Held]: https://medium.com/r/?url=https%3A%2F%2Ftokeneconomy.co%2Fquantum-narratives-859cde44401b
+[visions of Bitcoin]: https://medium.com/r/?url=https%3A%2F%2Funcommoncore.co%2Fvisions-of-bitcoin-how-major-bitcoin-narratives-changed-over-time%2F
+[Isaac Asimov]: https://medium.com/r/?url=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL46374W%2FNightfall
+[learned myself]: https://medium.com/@dergigi/philosophical-teachings-of-bitcoin-97f4b96f455f
+[Alan Guth]: https://medium.com/r/?url=http%3A%2F%2Focw.mit.edu%2Fcourses%2Fphysics%2F8-286-the-early-universe-fall-2013%2F
+[Nathaniel Whittemore]: https://medium.com/r/?url=https%3A%2F%2Ftokeneconomy.co%2Fmarket-narratives-are-marketing-introducing-the-crypto-narrative-index-deeeb49bc909
+[Carl Jung]: https://medium.com/r/?url=http%3A%2F%2Fjungcurrents.com%2Fjung-complexes-have-us
+[payments to script hashes]: https://medium.com/r/?url=https%3A%2F%2Fen.bitcoin.it%2Fwiki%2FPay_to_script_hash
+[segregated witness]: https://medium.com/r/?url=https%3A%2F%2Fen.bitcoin.it%2Fwiki%2FSegregated_Witness
+[lightning network]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLightning_Network
+[Schnorr signatures]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSchnorr_signature
+[whirlpool]: https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2FSamourai-Wallet%2FWhirlpool
+[CoinJoins]: https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2FzkSNACKs%2FWalletWasabi
+[*Book of Numbers*]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBook_of_Numbers
+  "wikipedia:Book of Numbers"
+[1]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSpirit_in_Man%2C_Art%2C_and_Literature
+[hodlonaut]: https://medium.com/r/?url=http%3A%2F%2Fduckduckgo.com%2Fhodlonaut
