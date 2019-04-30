@@ -508,7 +508,7 @@ planted a seed of conviction in you as well.
 
 ### Acknowledgments
 
-- Thanks to [Hasu], whose incredible feedback helped to shape large parts of this article. His writing on Unpacking Bitcoin's Social Contract was the inspiration for this article.
+- Thanks to [Hasu], whose incredible feedback helped to shape large parts of this article. His writing on [Unpacking Bitcoin's Social Contract][social-contract] was my inspiration for writing about Bitcoin's gravity.
 - Thanks to [Nathaniel Whittemore] for his writings on narratives and feedback on earlier drafts of this article.
 - Thanks to [Ben Prentice] for proofreading the final draft.
 - Dedicated to the [bravest space cat][hodlonaut] of them all (* April 2017, † April 2019).
@@ -522,6 +522,7 @@ planted a seed of conviction in you as well.
 [Brandon Quittem]: https://twitter.com/bquittem
 [Nathaniel Whittemore]: https://twitter.com/nlw
 [Dan Held]: https://twitter.com/danheld
+[Ben Prentice]: https://twitter.com/mrcoolbp
 
 <!-- References -->
 [social-contract]: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
