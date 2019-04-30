@@ -497,31 +497,31 @@ you've been a [hodlonaut] in close orbit, Bitcoin's gravity will
 continue to increase. I am convinced of that idea, and I hope to have
 planted a seed of conviction in you as well.
 
-[Douglas Adams]: https://medium.com/r/?url=http%3A%2F%2Fwww.biota.org%2Fpeople%2Fdouglasadams%2Findex.html
-[unforgeable costliness]: https://medium.com/r/?url=http%3A%2F%2Funenumerated.blogspot.com%2F2008%2F08%2F
-[Maps of Meaning]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMaps_of_Meaning
-[famously said]: https://medium.com/r/?url=https%3A%2F%2Fsatoshi.nakamotoinstitute.org%2Fposts%2Fbitcointalk%2F126%2F
-[writing]: https://medium.com/r/?url=https%3A%2F%2Fsatoshi.nakamotoinstitute.org%2F
-[genesis block]: https://medium.com/r/?url=https%3A%2F%2Fen.bitcoin.it%2Fwiki%2FGenesis_block
+[Douglas Adams]: http://www.biota.org/people/douglasadams/index.html
+[unforgeable costliness]: http://unenumerated.blogspot.com/2008/08/
+[Maps of Meaning]: https://en.wikipedia.org/wiki/Maps_of_Meaning
+[famously said]: https://satoshi.nakamotoinstitute.org/posts/bitcointalk/126/
+[writing]: https://satoshi.nakamotoinstitute.org/
+[genesis block]: https://en.bitcoin.it/wiki/Genesis_block
 [social contract]: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
-[In Defense of Freedom]: https://medium.com/r/?url=https%3A%2F%2Fwww.libertyfund.org%2Fbooks%2Fin-defense-of-freedom-and-related-essays
-[Laszlo]: https://medium.com/r/?url=https%3A%2F%2Fen.bitcoin.it%2Fwiki%2FLaszlo_Hanyecz
-[two pizzas]: https://medium.com/r/?url=https%3A%2F%2Fduckduckgo.com%2FBitcoin%2BPizza%2BDay
+[In Defense of Freedom]: https://www.libertyfund.org/books/in-defense-of-freedom-and-related-essays
+[Laszlo]: https://en.bitcoin.it/wiki/Laszlo_Hanyecz
+[two pizzas]: https://duckduckgo.com/Bitcoin%2BPizza%2BDay
 [*Planting Bitcoin*]: https://medium.com/@danhedl/planting-bitcoin-56bd1459cb23
-[Satoshi Nakamoto]: https://medium.com/r/?url=https%3A%2F%2Fsatoshi.nakamotoinstitute.org%2Femails%2Fcryptography%2F12%2F
-[Dan Held]: https://medium.com/r/?url=https%3A%2F%2Ftokeneconomy.co%2Fquantum-narratives-859cde44401b
-[visions of Bitcoin]: https://medium.com/r/?url=https%3A%2F%2Funcommoncore.co%2Fvisions-of-bitcoin-how-major-bitcoin-narratives-changed-over-time%2F
-[Isaac Asimov]: https://medium.com/r/?url=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL46374W%2FNightfall
+[Satoshi Nakamoto]: https://satoshi.nakamotoinstitute.org/emails/cryptography/12/
+[Dan Held]: https://tokeneconomy.co/quantum-narratives-859cde44401b
+[visions of Bitcoin]: https://uncommoncore.co/visions-of-bitcoin-how-major-bitcoin-narratives-changed-over-time/
+[Isaac Asimov]: https://openlibrary.org/works/OL46374W/Nightfall
 [learned myself]: https://medium.com/@dergigi/philosophical-teachings-of-bitcoin-97f4b96f455f
-[Alan Guth]: https://medium.com/r/?url=http%3A%2F%2Focw.mit.edu%2Fcourses%2Fphysics%2F8-286-the-early-universe-fall-2013%2F
-[Nathaniel Whittemore]: https://medium.com/r/?url=https%3A%2F%2Ftokeneconomy.co%2Fmarket-narratives-are-marketing-introducing-the-crypto-narrative-index-deeeb49bc909
-[Carl Jung]: https://medium.com/r/?url=http%3A%2F%2Fjungcurrents.com%2Fjung-complexes-have-us
-[payments to script hashes]: https://medium.com/r/?url=https%3A%2F%2Fen.bitcoin.it%2Fwiki%2FPay_to_script_hash
-[segregated witness]: https://medium.com/r/?url=https%3A%2F%2Fen.bitcoin.it%2Fwiki%2FSegregated_Witness
-[lightning network]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLightning_Network
-[Schnorr signatures]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSchnorr_signature
-[whirlpool]: https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2FSamourai-Wallet%2FWhirlpool
-[CoinJoins]: https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2FzkSNACKs%2FWalletWasabi
-[Book of Numbers]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBook_of_Numbers
-[1]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSpirit_in_Man%2C_Art%2C_and_Literature
-[hodlonaut]: https://medium.com/r/?url=http%3A%2F%2Fduckduckgo.com%2Fhodlonaut
+[Alan Guth]: http://ocw.mit.edu/courses/physics/8-286-the-early-universe-fall-2013/
+[Nathaniel Whittemore]: https://tokeneconomy.co/market-narratives-are-marketing-introducing-the-crypto-narrative-index-deeeb49bc909
+[Carl Jung]: http://jungcurrents.com/jung-complexes-have-us
+[payments to script hashes]: https://en.bitcoin.it/wiki/Pay_to_script_hash
+[segregated witness]: https://en.bitcoin.it/wiki/Segregated_Witness
+[lightning network]: https://en.wikipedia.org/wiki/Lightning_Network
+[Schnorr signatures]: https://en.wikipedia.org/wiki/Schnorr_signature
+[whirlpool]: https://github.com/Samourai-Wallet/Whirlpool
+[CoinJoins]: https://github.com/zkSNACKs/WalletWasabi
+[Book of Numbers]: https://en.wikipedia.org/wiki/Book_of_Numbers
+[1]: https://en.wikipedia.org/wiki/Spirit_in_Man%2C_Art%2C_and_Literature
+[hodlonaut]: http://duckduckgo.com/hodlonaut
