@@ -476,7 +476,7 @@ will taint the world view of anyone captured by it.
 > betimes why one is possessed. One should ask oneself for once: Why has
 > this idea taken possession of me? What does that mean in regard
 > to myself?" 
-> <cite>[Carl Jung][1]</cite>
+> <cite>[Carl Jung][Spirit in Man]</cite>
 
 Both the world and Bitcoin are dynamic things, making any set of ideas
 we currently hold insufficient for a permanent, complete view of either.
@@ -523,5 +523,5 @@ planted a seed of conviction in you as well.
 [whirlpool]: https://github.com/Samourai-Wallet/Whirlpool
 [CoinJoins]: https://github.com/zkSNACKs/WalletWasabi
 [Book of Numbers]: https://en.wikipedia.org/wiki/Book_of_Numbers
-[1]: https://en.wikipedia.org/wiki/Spirit_in_Man%2C_Art%2C_and_Literature
+[Spirit in Man]: https://en.wikipedia.org/wiki/Spirit_in_Man%2C_Art%2C_and_Literature
 [hodlonaut]: http://duckduckgo.com/hodlonaut
