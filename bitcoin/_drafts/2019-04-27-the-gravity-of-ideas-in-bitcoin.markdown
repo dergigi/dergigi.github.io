@@ -402,7 +402,7 @@ lightning network is successful on a large scale. 
 
 Privacy is another idea which is at the root of several competing
 projects. If future privacy enhancements in Bitcoin prove to be
-successful([Schnorr signatures], lightning, [whirlpool], wallets
+successful ([Schnorr signatures], lightning, [whirlpool], wallets
 supporting [CoinJoins]), these projects might be swallowed by Bitcoin as
 well.
 

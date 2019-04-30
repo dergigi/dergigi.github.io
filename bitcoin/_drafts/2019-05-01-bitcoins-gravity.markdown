@@ -236,11 +236,7 @@ are close to its gravity well and captured easily. If your set of ideas
 is opposed to Bitcoin's, you are far away from its gravitational pull
 and remain unattracted.
 
-
-
-
-
-Bitcoin's gravity well.
+{% include image.html name="bitcoin-gravity-well-trans.png" caption="What is Bitcoin?" %}
 
 Consequently, Bitcoin is attracting opinionated people who share certain
 ideas and ideals. "Birds of a feather flock together," as the saying
@@ -402,7 +398,7 @@ lightning network is successful on a large scale. 
 
 Privacy is another idea which is at the root of several competing
 projects. If future privacy enhancements in Bitcoin prove to be
-successful([Schnorr signatures], lightning, [whirlpool], wallets
+successful ([Schnorr signatures], lightning, [whirlpool], wallets
 supporting [CoinJoins]), these projects might be swallowed by Bitcoin as
 well.
 
