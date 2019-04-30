@@ -149,17 +149,17 @@ an instant, the network became valuable in a tangible way.
 Ever since this moment, the following *idea-value feedback loop* is at
 play:
 
-1.  [Bitcoin's set of **ideas **--- its value proposition --- is
-    attracting people.]
-2.  [Those **people** freely choose which code to run.]
-3.  [The selected code runs on individual **nodes**, dictating their
-    behavior.]
-4.  [Nodes join the **network**, connecting to peers who share their
-    ideas.]
-5.  [The network reaches **consensus**, enabling agreement on who owns
-    what.]
-6.  [The **value**, in turn, reinforces the set of ideas defined by its
-    consensus rules: the embodiment of its value proposition.]
+- Bitcoin's set of **ideas **--- its value proposition --- is
+    attracting people.
+- Those **people** freely choose which code to run.
+- The selected code runs on individual **nodes**, dictating their
+    behavior.
+- Nodes join the **network**, connecting to peers who share their
+    ideas.
+- The network reaches **consensus**, enabling agreement on who owns
+    what.
+- The **value**, in turn, is based on the set of ideas enforced by
+    consensus rules: the embodiment of its value proposition.
 
 {% include image.html name="bitcoin-receipt-trans-labels.png" caption="Idea-value feedback loop." %}
 
