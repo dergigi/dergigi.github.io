@@ -69,7 +69,7 @@ new set of ideas virtually impossible. Anyone who changes the rules,
 even if he thinks such a change is for the better, will start to play a
 different game, with only those who join him.
 
-As Bitcoin's creator [famously said][]: the nature of Bitcoin is such
+As Bitcoin's creator [famously said]: the nature of Bitcoin is such
 that once the first version was released, the core design was set in
 stone for the rest of its lifetime.
 
@@ -78,10 +78,10 @@ Many of these ideas are articulated in his [writing], and even in the
 [genesis block]. Most importantly, however, his core ideas are codified
 in Bitcoin's consensus rules:
 
--   [fixed supply]
--   [no central point of failure]
--   [no possibility of confiscation or censorship]
--   [everything can be validated by everyone at all times]
+- fixed supply
+- no central point of failure
+- no possibility of confiscation or censorship
+- everything can be validated by everyone at all times
 
 This set of ideas is embedded in the rules of the network, and you have
 to adopt them to participate. In essence, a network like Bitcoin encodes
@@ -134,7 +134,7 @@ this, consensus emerges.
 
 > "Freedom brings men rudely and directly face to face with their own
 > personal responsibility for their own free actions." 
-> <cite>Frank Meyer, [*In Defense of Freedom*]</cite>
+> <cite>Frank Meyer, [In Defense of Freedom]</cite>
 
 As soon as consensus is reached on the network, *value* comes into play.
 That bitcoins --- or any monies, for that matter --- have value, is in
@@ -411,7 +411,7 @@ well.
 > goods. They, and all that appertained to them, went down alive into
 > the pit, and the earth closed upon them: and they perished from among
 > the congregation." 
-> <cite>[*Book of Numbers*]</cite>
+> <cite>[Book of Numbers]</cite>
 
 I'm not saying that *all* other projects will perish, necessarily. But
 networks thrive because of network effects: the winner takes most, if
@@ -504,7 +504,7 @@ planted a seed of conviction in you as well.
 [writing]: https://medium.com/r/?url=https%3A%2F%2Fsatoshi.nakamotoinstitute.org%2F
 [genesis block]: https://medium.com/r/?url=https%3A%2F%2Fen.bitcoin.it%2Fwiki%2FGenesis_block
 [social contract]: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
-[*In Defense of Freedom*]: https://medium.com/r/?url=https%3A%2F%2Fwww.libertyfund.org%2Fbooks%2Fin-defense-of-freedom-and-related-essays
+[In Defense of Freedom]: https://medium.com/r/?url=https%3A%2F%2Fwww.libertyfund.org%2Fbooks%2Fin-defense-of-freedom-and-related-essays
 [Laszlo]: https://medium.com/r/?url=https%3A%2F%2Fen.bitcoin.it%2Fwiki%2FLaszlo_Hanyecz
 [two pizzas]: https://medium.com/r/?url=https%3A%2F%2Fduckduckgo.com%2FBitcoin%2BPizza%2BDay
 [*Planting Bitcoin*]: https://medium.com/@danhedl/planting-bitcoin-56bd1459cb23
@@ -522,7 +522,6 @@ planted a seed of conviction in you as well.
 [Schnorr signatures]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSchnorr_signature
 [whirlpool]: https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2FSamourai-Wallet%2FWhirlpool
 [CoinJoins]: https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2FzkSNACKs%2FWalletWasabi
-[*Book of Numbers*]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBook_of_Numbers
-  "wikipedia:Book of Numbers"
+[Book of Numbers]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBook_of_Numbers
 [1]: https://medium.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSpirit_in_Man%2C_Art%2C_and_Literature
 [hodlonaut]: https://medium.com/r/?url=http%3A%2F%2Fduckduckgo.com%2Fhodlonaut
