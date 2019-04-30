@@ -13,20 +13,20 @@ tags:
  - Writing
 ---
 
-::: {#readability-page-1 .page}
-::: {.section name="6030"}
-<div>
 
-<div>
 
-How idea-value feedback loops are pulling people in {#8dd1 name="8dd1"}
+
+
+
+
+How idea-value feedback loops are pulling people in
 ---------------------------------------------------
 
-<div>
+
 
 [![Go to the profile of Gigi]]
 
-</div>
+
 
 Bitcoin is different things to different people. Whatever it might be to
 you, it is undoubtedly an opinionated and polarizing phenomenon. There
@@ -55,17 +55,17 @@ towards Bitcoin.
 
 > --- [Douglas Adams]
 
-</div>
 
-</div>
-:::
 
-::: {.section name="2e55"}
-<div>
 
-<div>
 
-### Agreeing on a Set of Ideas {#68b2 name="68b2"}
+
+
+
+
+
+
+### Agreeing on a Set of Ideas
 
 The goal of the Bitcoin network is to reach *consensus*, a general
 agreement on the state of the system. Bitcoin's breakthrough innovation
@@ -79,7 +79,7 @@ chaos.
 
 > "Before any game can be played, the rules have to be established;
 > before the game can be altered, the rules have to be made manifest.
-> \[...\] All those who know the rules, and accept them, can play the
+> [...] All those who know the rules, and accept them, can play the
 > game --- without fighting over the rules of the game. This makes for
 > peace, stability, and potential prosperity --- a good game. The good,
 > however, is the enemy of the better; a more compelling game might
@@ -105,17 +105,17 @@ Many of these ideas are articulated in his [writing], and even in the
 [genesis block]. Most importantly, however, his core ideas are codified
 in Bitcoin's consensus rules:
 
--   [fixed supply]{#7ca6}
--   [no central point of failure]{#4b3d}
--   [no possibility of confiscation or censorship]{#7c34}
--   [everything can be validated by everyone at all times]{#7bbc}
+-   [fixed supply]
+-   [no central point of failure]
+-   [no possibility of confiscation or censorship]
+-   [everything can be validated by everyone at all times]
 
 This set of ideas is embedded in the rules of the network, and you have
 to adopt them to participate. In essence, a network like Bitcoin encodes
 a [social contract] in its software: ideas which are shared by everyone
 on the network.
 
-### Spreading ideas {#685e name="685e"}
+### Spreading ideas
 
 All great things start small, and Bitcoin was no exception. In the
 beginning, it was one node, one piece of software, one person, one set
@@ -141,9 +141,9 @@ helpful to focus on some constituents in more detail. In particular, I
 want to focus on the following four: **ideas**, **people**, **code**,
 and **nodes**.
 
-<div>
 
-</div>
+
+
 
 Bitcoin's ingredients: two parts software, two parts hardware.
 
@@ -183,20 +183,20 @@ Ever since this moment, the following *idea-value feedback loop* is at
 play:
 
 1.  [Bitcoin's set of **ideas **--- its value proposition --- is
-    attracting people.]{#3cc9}
-2.  [Those **people** freely choose which code to run.]{#412f}
+    attracting people.]
+2.  [Those **people** freely choose which code to run.]
 3.  [The selected code runs on individual **nodes**, dictating their
-    behavior.]{#4bf3}
+    behavior.]
 4.  [Nodes join the **network**, connecting to peers who share their
-    ideas.]{#5c09}
+    ideas.]
 5.  [The network reaches **consensus**, enabling agreement on who owns
-    what.]{#e1cc}
+    what.]
 6.  [The **value**, in turn, reinforces the set of ideas defined by its
-    consensus rules: the embodiment of its value proposition.]{#4cf6}
+    consensus rules: the embodiment of its value proposition.]
 
-<div>
 
-</div>
+
+
 
 Idea-value feedback loop.
 
@@ -207,7 +207,7 @@ or wetware. This loop is what ultimately captures people, and since
 Bitcoin's core set of ideas is virtually fixed, it has some surprising
 effects on the sets of ideas held by people.
 
-### Bitcoin's Gravity Well {#f9c0 name="f9c0"}
+### Bitcoin's Gravity Well
 
 As we have seen above, Bitcoin is an opinionated piece of software,
 creating an opinionated network. The result of an opinionated network is
@@ -239,9 +239,9 @@ focus on a small subset. And since we are talking about Bitcoin, we will
 focus on the small universe of ideas spawned by asking the question of
 what Bitcoin is.
 
-<div>
 
-</div>
+
+
 
 "What is Bitcoin?"
 
@@ -278,9 +278,9 @@ are close to its gravity well and captured easily. If your set of ideas
 is opposed to Bitcoin's, you are far away from its gravitational pull
 and remain unattracted.
 
-<div>
 
-</div>
+
+
 
 Bitcoin's gravity well.
 
@@ -304,7 +304,7 @@ particularly effective in changing it.
 To repeat an old TFTC trope: Bitcoin will change us more than we will
 change it, as I have [learned myself].
 
-### Attraction and Repulsion {#61ce name="61ce"}
+### Attraction and Repulsion
 
 But what if your set of ideas does not overlap with Bitcoin's? What if
 you wish to change Bitcoin's set of ideas, not convinced of the futility
@@ -344,7 +344,7 @@ overlaps; sometimes almost exactly.
 
 > "Tracking narratives is a good way to help people understand that
 > there are, in fact, a menu of beliefs competing for their affiliation;
-> \[...\] Trying to identify where one narrative ends and another begins
+> [...] Trying to identify where one narrative ends and another begins
 > is a challenging task, as ideas tend to have permeable borders."
 
 > --- [Nathaniel Whittemore]
@@ -356,9 +356,9 @@ coins in the last few years. While most of these altcoins are outright
 scams, some try to find a niche, attracting people who share its new or
 modified set of ideas.
 
-<div>
 
-</div>
+
+
 
 Different ideas are captured by different gravity wells.
 
@@ -383,7 +383,7 @@ difference in ideologies --- and vice versa. Giving up on ideas is
 difficult in any case, but if your net worth is intractably linked these
 ideas it becomes ever more difficult.
 
-### Orbits and Collisions {#4a18 name="4a18"}
+### Orbits and Collisions
 
 The formation of any gravity well isn't exactly a smooth ride. Just like
 stellar and planetary formation is violent at times --- suns swallowing
@@ -395,9 +395,9 @@ I plan to explore some of these events in the future, but for now, let's
 just acknowledge that there are other projects orbiting Bitcoin and that
 there have been collisions in the past.
 
-<div>
 
-</div>
+
+
 
 An artist's impression of Bitcoin and its satellites. Source:
 KQED Science
@@ -428,7 +428,7 @@ The best ideas, however, might be discovered by the biggest networks and
 will be assimilated, if assimilation is possible. If Bitcoin can eat it,
 it will eat it.
 
-### Feeding on Ideas {#d857 name="d857"}
+### Feeding on Ideas
 
 As mentioned above, Bitcoin's core set of ideas is fixed from day one.
 However, this doesn't imply that Bitcoin can't be improved. It can and
@@ -472,7 +472,7 @@ I'm not saying that *all* other projects will perish, necessarily. But
 networks thrive because of network effects: the winner takes most, if
 not all.
 
-### The Value of Conviction {#912c name="912c"}
+### The Value of Conviction
 
 Whenever people are debating ideas, tribalism is the norm, not the
 exception. Whether it is politics, sports, iPhone vs Android, or
@@ -504,7 +504,7 @@ diametrically opposed to them, Bitcoin will continue to not care. Its
 gravitational pull will continue to increase, swallowing ideas, people,
 code, and nodes in the process.
 
-### Conclusion {#4054 name="4054"}
+### Conclusion
 
 We have seen that Bitcoin embodies a certain set of ideas in its
 consensus rules and overall architecture. Changing Bitcoin's core set of
@@ -553,11 +553,11 @@ you've been a [hodlonaut] in close orbit, Bitcoin's gravity will
 continue to increase. I am convinced of that idea, and I hope to have
 planted a seed of conviction in you as well.
 
-</div>
 
-</div>
-:::
-:::
+
+
+
+
 
   [Go to the profile of Gigi]: https://cdn-images-1.medium.com/fit/c/100/100/1*yerG1L9BlJqTdPaLt4FlIQ.jpeg
   [![Go to the profile of Gigi]]: https://medium.com/@dergigi?source=post_header_lockup
