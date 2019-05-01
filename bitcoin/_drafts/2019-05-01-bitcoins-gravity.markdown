@@ -511,7 +511,12 @@ planted a seed of conviction in you as well.
 - Thanks to [Hasu], whose incredible feedback helped to shape large parts of this article. His writing on [Unpacking Bitcoin's Social Contract][social-contract] was my inspiration for writing about Bitcoin's gravity.
 - Thanks to [Nathaniel Whittemore] for his writings on narratives and feedback on earlier drafts of this article.
 - Thanks to [Ben Prentice] for proofreading the final draft.
+- Graphics based on the [fxemoji] set cc-by [Sabrina Smelko]
 - Dedicated to the [bravest space cat][hodlonaut] of them all (* April 2017, † April 2019).
+
+<!-- cc-by -->
+[fxemoji]: https://github.com/mozilla/fxemoji
+[Sabrina Smelko]: https://commons.wikimedia.org/w/index.php?title=Category:Firefox_OS_Emoji
 
 <!-- Twitter People -->
 [Hasu]: https://twitter.com/hasu
