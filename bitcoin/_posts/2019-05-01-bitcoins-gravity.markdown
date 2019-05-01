@@ -5,7 +5,7 @@ subtitle: "How idea-value feedback loops are pulling people in"
 date: 2019-05-01
 description:
 image: /assets/images/btc06-the-gravity-of-ideas-in-bitcoin.jpg
-source: https://medium.com/@dergigi
+source: https://medium.com/@dergigi/bitcoins-gravity-e1674ad9f8e4
 author: Gigi
 category: bitcoin
 tags:
