@@ -322,7 +322,7 @@ result in ever deeper entrenchment. 
 > <cite>[Carl Jung]</cite>
 
 One could argue, as Carl Jung did in relationship to complexes, that
-*block chains have people*. At the root of every gravity well is a set
+*blockchains have people*. At the root of every gravity well is a set
 of ideas and a group of people which are had by them.
 
 Once captured, a difference in technicalities can easily become a
