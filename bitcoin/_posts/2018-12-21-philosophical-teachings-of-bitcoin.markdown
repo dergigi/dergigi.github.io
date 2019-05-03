@@ -3,7 +3,7 @@ layout: post
 title: "Philosophical Teachings of Bitcoin"
 subtitle: "What I've Learned From Bitcoin: Part I"
 date: 2018-12-21
-description:
+description: "Part one of 21 lessons learned from Bitcoin."
 image: /assets/images/btc03-the-school-of-bitcoin.jpg
 source: https://medium.com/@dergigi/philosophical-teachings-of-bitcoin-97f4b96f455f
 author: Gigi
@@ -391,6 +391,7 @@ What have you learned from Bitcoin?
 
 -   [Spanish translation] by [@CamiloJdL][camilo]
 -   [Turkish translation] by [@deniz_zgur][deniz]
+-   [Chinese translation] by [@andywan][andywan]
 
 [I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
 [II]: {% post_url /bitcoin/2019-01-11-economic-teachings-of-bitcoin %}
@@ -444,3 +445,5 @@ What have you learned from Bitcoin?
 [camilo]: https://twitter.com/CamiloJdL
 [Turkish translation]: https://medium.com/@denizozzgur/bitcoinin-felsefi-%C3%B6%C4%9Fretileri-e7df2338a2fc
 [deniz]: https://twitter.com/deniz_zgur
+[Chinese translation]: https://www.weibo.com/ttarticle/p/show?id=2309404363977307068572
+[andywan]: https://twitter.com/andywan

@@ -3,7 +3,7 @@ layout: post
 title: "Technological Teachings of Bitcoin"
 subtitle: "What I've Learned From Bitcoin: Part III"
 date: 2019-04-02
-description:
+description: "Part three of 21 lessons learned from Bitcoin."
 image: /assets/images/btc05-the-anatomy-of-bitcoin.jpg
 source: https://medium.com/@dergigi/technological-teachings-of-bitcoin-20420b459417
 author: Gigi
@@ -824,6 +824,7 @@ I've learned from Bitcoin.
 #### Translations
 
   - [Turkish translation] by [@deniz_zgur][deniz]
+  - [Chinese translation] by [@andywan][andywan]
 
 [*Bitcoin: A Peer-to-Peer Electronic Cash System*]: https://bitcoin.org/bitcoin.pdf
 [*Mastering Bitcoin*]: https://bitcoinbook.info/
@@ -950,3 +951,5 @@ I've learned from Bitcoin.
 [timechain]: https://twitter.com/francispouliot_/status/1106028072799744002
 [reach out to me]: https://twitter.com/dergigi
 [Turkish translation]: https://medium.com/@denizozzgur/blockchainin-teknolojik-%C3%B6%C4%9Fretileri-34ae5a6949a7
+[Chinese translation]: https://www.weibo.com/ttarticle/p/show?id=2309404363977307068572
+[andywan]: https://twitter.com/andywan
