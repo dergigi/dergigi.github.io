@@ -51,3 +51,5 @@ lens of economics to look at seven more. I hope that you will find the world
 of Bitcoin as educational, fascinating and entertaining as I did and still do.
 In any case, hop on and enjoy the ride. Economy class is all I can offer this
 time. Final destination: sound money.
+
+[the question]: https://twitter.com/arjunblj/status/1050073234719293440
