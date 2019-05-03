@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: Lesson 15
-subtitle: Sound money
+subtitle: Strength in numbers
 categories: [bitcoin, lesson]
 ---
 
