@@ -91,12 +91,6 @@ category: bitcoin
 <!-- Part II -->
 [Blind monks]: https://en.wikipedia.org/wiki/Blind_men_and_an_elephant
 
-[oldest coin]: https://www.britishmuseum.org/explore/themes/money/the_origins_of_coinage.aspx
-[coin debasement]: https://en.wikipedia.org/wiki/Methods_of_coin_debasement
-[*Thaler*]: https://en.wikipedia.org/wiki/Thaler
-[Berlin-George]: https://en.wikipedia.org/wiki/File:Bohemia,_Joachimsthaler_1525_Electrotype_Copy._VF._Obverse..jpg
-[silver certificates]: https://en.wikipedia.org/wiki/Silver_certificate_%28United_States%29
-[bimetallic standard]: https://en.wikipedia.org/wiki/Bimetallism
 [joint debate]: https://www.youtube.com/watch?v=hYzX3YZoMrs
 [money multiplier]: https://en.wikipedia.org/wiki/Money_multiplier
 [auditability]: https://i.ytimg.com/vi/ThFGs347MW8/maxresdefault.jpg

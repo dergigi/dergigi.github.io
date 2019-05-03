@@ -162,3 +162,10 @@ paper in itself is precious.
 
 Bitcoin taught me about the history of money and the greatest sleight of
 hand in the history of economics: fiat currency.
+
+[oldest coin]: https://www.britishmuseum.org/explore/themes/money/the_origins_of_coinage.aspx
+[coin debasement]: https://en.wikipedia.org/wiki/Methods_of_coin_debasement
+[*Thaler*]: https://en.wikipedia.org/wiki/Thaler
+[Berlin-George]: https://en.wikipedia.org/wiki/File:Bohemia,_Joachimsthaler_1525_Electrotype_Copy._VF._Obverse..jpg
+[silver certificates]: https://en.wikipedia.org/wiki/Silver_certificate_%28United_States%29
+[bimetallic standard]: https://en.wikipedia.org/wiki/Bimetallism
