@@ -91,16 +91,6 @@ category: bitcoin
 <!-- Part II -->
 [Blind monks]: https://en.wikipedia.org/wiki/Blind_men_and_an_elephant
 
-[Fr. Bernard W. Dempsey, S.J.]: https://www.jstor.org/stable/29769582
-[algorithmically controlled]: https://en.bitcoin.it/wiki/Controlled_supply
-[Jörg Guido Hülsmann]: https://mises.org/sites/default/files/The%20Ethics%20of%20Money%20Production_2.pdf
-[how much money there is]: https://en.wikipedia.org/wiki/Money_supply
-[stopped publishing]: https://www.federalreserve.gov/Releases/h6/discm3.htm
-[last few years]: https://minerals.usgs.gov/minerals/pubs/mcs/2018/mcs2018.pdf
-[my calculations]: https://www.wolframalpha.com/input/?i=volume+of+190000+metric+tons+gold+%2F+olympic+swimming+pool+volume
-[much energy]: https://medium.com/@dergigi/bitcoins-energy-consumption-6dd7d7a2e463
-[universal speed limit]: https://en.wikipedia.org/wiki/Speed_of_light#Upper_limit_on_speeds
-[fair distribution]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
 
 <!-- Part I -->
 [Michael Goldstein]: https://medium.com/@bitstein
