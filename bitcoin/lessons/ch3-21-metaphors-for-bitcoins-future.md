@@ -124,3 +124,20 @@ it.
 
 Bitcoin taught me that understanding the past is essential to
 understanding its future. A future which is just beginning.
+
+[Our World in Data]: https://ourworldindata.org/
+[the rising speed of technological adoption]: https://www.visualcapitalist.com/rising-speed-technological-adoption/
+[multiple network effects]: https://www.thrivenotes.com/the-7-network-effects-of-bitcoin/
+[TED talk]: https://www.ted.com/talks/jeff_bezos_on_the_next_web_innovation
+[more time]: https://en.wikipedia.org/wiki/Lindy_effect
+[recording of the Today Show]: https://www.youtube.com/watch?v=UlJku_CSyNg
+[William Gibson]: https://www.npr.org/2018/10/22/1067220/the-science-in-science-fiction
+[data from the Pew Research Center]: https://www.pewinternet.org/2014/02/27/part-1-how-the-internet-has-woven-itself-into-american-life/
+[consumer survey]: https://www.kaspersky.com/blog/money-report-2018/
+[letter to shareholders]: http://media.corporate-ir.net/media_files/irol/97/97664/reports/Shareholderletter97.pdf
+[genesis block]: https://en.bitcoin.it/wiki/Genesis_block
+[running bitcoin]: https://twitter.com/halfin/status/1110302988?lang=en
+[40 nodes]: https://bitcoinist.com/bitcoin-lightning-network-mainnet-nodes/
+[reckless]: https://twitter.com/hashtag/reckless
+[Jameson Lopp]: https://twitter.com/lopp/status/1077200836072296449
+[*The Internet of Money*]: https://theinternetofmoney.info/
