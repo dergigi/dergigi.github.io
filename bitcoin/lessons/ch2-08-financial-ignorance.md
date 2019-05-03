@@ -80,3 +80,12 @@ anyone].
 
 Bitcoin taught me to look behind the curtain and face my financial
 ignorance.
+
+[so much debt]: http://www.usdebtclock.org/
+[aarontaycc]: https://twitter.com/aarontaycc/status/1072880815661436928?s=19
+[bitcoindunny]: https://twitter.com/BitcoinDunny/status/935330541263519745
+[many confessions]: https://twitter.com/search?q=bitcoin%20AND%20I%20AND%20%28learned%20OR%20taught%29&src=typd
+[Ludwig von Mises]: https://mises.org/library/human-action-0/html/p/607
+[Robert Kiyosaki]: https://www.youtube.com/watch?v=vkCXytxwH-M
+[real wizardry]: https://external-preview.redd.it/8d03MWWOf2HIyKrT8ThBGO4WFv-u25JaYqhbEO9b1Sk.jpg?width=683&auto=webp&s=dc5922d84717c6a94527bafc0189fd4ca02a24bb
+[visible to anyone]: https://github.com/bitcoin/bitcoin
