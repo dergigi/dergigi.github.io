@@ -139,9 +139,6 @@ category: bitcoin
 [fair distribution]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
 
 <!-- Part I -->
-[changing people's diets]: https://motherboard.vice.com/en_us/article/ne74nw/inside-the-world-of-the-bitcoin-carnivores
-[Abundance]: https://www.diamandis.com/abundance
-[Saifedean Ammous]: https://www.bayernlb.de/internet/media/de/ir/downloads_1/bayernlb_research/sonderpublikationen_1/bitcoin_munich_may_28.pdf
 [Jimmy Song]: https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947
 [Gold: The Extraordinary Metal]: https://www.muenzeoesterreich.at/eng/discover/for-investors/gold-the-extraordinary-metal
 [in regards to a bat]: https://en.wikipedia.org/wiki/What_Is_it_Like_to_Be_a_Bat%3F

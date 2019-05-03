@@ -12,7 +12,7 @@ categories: [bitcoin, lesson]
 In general, the advance of technology seems to make things more
 abundant. More and more people are able to enjoy what previously have
 been luxurious goods. Soon, we will all live like kings. Most of us
-already do. As Peter Diamandis wrote in [Abundance][]: "Technology is a
+already do. As Peter Diamandis wrote in [Abundance]: "Technology is a
 resource-liberating mechanism. It can make the once scarce the now
 abundant."
 
@@ -35,3 +35,6 @@ All of this duplication wonderfully works together in a concerted effort
 to produce scarcity.
 
 In a time of abundance, Bitcoin taught me what real scarcity is.
+
+[Abundance]: https://www.diamandis.com/abundance
+[Saifedean Ammous]: https://www.bayernlb.de/internet/media/de/ir/downloads_1/bayernlb_research/sonderpublikationen_1/bitcoin_munich_may_28.pdf
