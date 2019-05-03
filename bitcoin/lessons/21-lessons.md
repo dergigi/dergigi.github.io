@@ -90,10 +90,7 @@ category: bitcoin
 
 <!-- Part II -->
 [Blind monks]: https://en.wikipedia.org/wiki/Blind_men_and_an_elephant
-[multiple theories]: https://en.wikipedia.org/wiki/Theory_of_value_%28economics%29
-[Plato]: http://www.perseus.tufts.edu/hopper/text?doc=plat.+euthyd.+304b
-[paradox of value]: https://en.wikipedia.org/wiki/Paradox_of_value
-[subjective]: https://en.wikipedia.org/wiki/Subjective_theory_of_value
+
 [Satoshi Nakamoto]: http://p2pfoundation.ning.com/xn/detail/2003008:Comment:9562
 [Nick Szabo]: http://unenumerated.blogspot.com/
 [*Shelling Out: The Origins of Money*]: https://nakamotoinstitute.org/shelling-out/

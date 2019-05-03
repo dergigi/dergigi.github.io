@@ -42,3 +42,8 @@ individuals to store their wealth independent of banks and governments,
 just to name two.
 
 Bitcoin taught me that value is subjective but not arbitrary.
+
+[multiple theories]: https://en.wikipedia.org/wiki/Theory_of_value_%28economics%29
+[Plato]: http://www.perseus.tufts.edu/hopper/text?doc=plat.+euthyd.+304b
+[paradox of value]: https://en.wikipedia.org/wiki/Paradox_of_value
+[subjective]: https://en.wikipedia.org/wiki/Subjective_theory_of_value
