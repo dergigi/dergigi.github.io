@@ -102,3 +102,14 @@ centralized environment, which is why everyone tries not to break things
 in the first place.
 
 Bitcoin taught me that moving slowly is one of its features, not a bug.
+
+[pointed out]: http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A9493
+[4]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
+[Unpacking Bitcoin's Social Contract]: https://uncommoncore.co/unpacking-bitcoins-social-contract/
+[Matthew 7:24--27]: https://en.wikipedia.org/wiki/Parable_of_the_Wise_and_the_Foolish_Builders
+[pay to script hash]: https://en.bitcoin.it/wiki/Pay_to_script_hash
+[segregated witness]: https://en.bitcoin.it/wiki/Segregated_Witness
+[lightning network]: https://lightning.network/
+[Schnorr signatures]: https://github.com/sipa/bips/blob/bip-schnorr/bip-schnorr.mediawiki#cite_ref-6-0
+[Taproot]: https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2018-January/015614.html
+[5]: https://bitcointalk.org/index.php?topic=13.msg46#msg46
