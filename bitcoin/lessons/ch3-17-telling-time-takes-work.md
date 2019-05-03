@@ -50,7 +50,7 @@ what is now known as Nakamoto consensus.
 
 > "The network timestamps transactions by hashing them into an ongoing
 > chain which serves as proof of the sequence of events witnessed"
-> <cite>[Satoshi Nakamoto][Nakamoto]</cite>
+> <cite>[Satoshi Nakamoto][whitepaper]</cite>
 
 Without a consistent way to tell the time, there is no consistent way to
 tell before from after. Reliable ordering is impossible. As mentioned
@@ -74,3 +74,7 @@ Validation, not computation. Time, not blocks.
 
 Bitcoin taught me that telling the time is tricky, especially if you are
 decentralized.
+
+[points out]: https://grisha.org/blog/2018/01/23/explaining-proof-of-work/
+[energy]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
+[whitepaper]: https://bitcoin.org/bitcoin.pdf
