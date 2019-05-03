@@ -154,3 +154,19 @@ modern world boils down to the improbability of finding a needle in an
 unfathomably large haystack. I am now more aware of this fact than ever.
 
 Bitcoin taught me that there is strength in numbers.
+
+[thick layer of ice]: https://en.wikipedia.org/wiki/Last_Glacial_Maximum
+[xkcd \#1125]: https://xkcd.com/1225/
+[SHA-256]: https://en.wikipedia.org/wiki/SHA-2
+[hash functions]: https://en.bitcoin.it/wiki/Block_hashing_algorithm
+[Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=191.msg1585#msg1585
+["How secure is 256 bit security?"]: https://www.youtube.com/watch?v=S9JGmA5_unY
+[Bruce Schneier]: https://www.schneier.com/
+[flip bits perfectly]: https://en.wikipedia.org/wiki/Landauer%27s_principle#Equation
+[Dyson sphere]: https://en.wikipedia.org/wiki/Dyson_sphere
+[2]: https://books.google.com/books?id=Ok0nDwAAQBAJ&pg=PT316&dq=%22These+numbers+have+nothing+to+do+with+the+technology+of+the+devices;%22&hl=en&sa=X&ved=0ahUKEwjXttWl8YLhAhUphOAKHZZOCcsQ6AEIKjAA#v=onepage&q&f=false
+[wrench attack]: https://xkcd.com/538/
+[call to cryptographic arms]: https://cryptome.org/2012/12/assange-crypto-arms.htm
+[P actually equals NP]: https://en.wikipedia.org/wiki/P_versus_NP_problem#P_=_NP
+[specific problems]: https://en.wikipedia.org/wiki/Discrete_logarithm#Cryptography
+[epii]: https://bitcointalk.org/index.php?topic=4994.msg140770#msg140770
