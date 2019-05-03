@@ -41,3 +41,6 @@ know who the gods of development and maintenance are: people all over
 the world, anonymous or not.
 
 Bitcoin taught me that narratives are important.
+
+[Jimmy Song]: https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947
+[Gold: The Extraordinary Metal]: https://www.muenzeoesterreich.at/eng/discover/for-investors/gold-the-extraordinary-metal
