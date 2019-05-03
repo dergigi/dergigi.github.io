@@ -91,11 +91,6 @@ category: bitcoin
 <!-- Part II -->
 [Blind monks]: https://en.wikipedia.org/wiki/Blind_men_and_an_elephant
 
-[joint debate]: https://www.youtube.com/watch?v=hYzX3YZoMrs
-[money multiplier]: https://en.wikipedia.org/wiki/Money_multiplier
-[auditability]: https://i.ytimg.com/vi/ThFGs347MW8/maxresdefault.jpg
-[Keynesian]: https://en.wikipedia.org/wiki/Keynesian_economics
-[Austrian]: https://en.wikipedia.org/wiki/Austrian_School
 [Fr. Bernard W. Dempsey, S.J.]: https://www.jstor.org/stable/29769582
 [algorithmically controlled]: https://en.bitcoin.it/wiki/Controlled_supply
 [Jörg Guido Hülsmann]: https://mises.org/sites/default/files/The%20Ethics%20of%20Money%20Production_2.pdf
