@@ -39,7 +39,7 @@ reassurance in realizing that I was in good company.
 > <cite>[bitcoindunny]</cite>
 
 These are just two of the [many confessions] all over twitter. Bitcoin,
-as was explored in [part one][I], is a living thing. Mises argued that
+as was explored in [Lesson 1], is a living thing. Mises argued that
 economics also is a living thing. And as we all know from personal
 experience, living things are inherently difficult to understand.
 
@@ -81,6 +81,7 @@ anyone].
 Bitcoin taught me to look behind the curtain and face my financial
 ignorance.
 
+[Lesson 1]: {{ '/bitcoin/lessons/ch1-01-immutability-and-change' | absolute_url }}
 [so much debt]: http://www.usdebtclock.org/
 [aarontaycc]: https://twitter.com/aarontaycc/status/1072880815661436928?s=19
 [bitcoindunny]: https://twitter.com/BitcoinDunny/status/935330541263519745
