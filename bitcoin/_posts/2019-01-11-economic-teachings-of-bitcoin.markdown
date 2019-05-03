@@ -3,7 +3,7 @@ layout: post
 title: "Economic Teachings of Bitcoin"
 subtitle: "What I've Learned From Bitcoin: Part II"
 date: 2019-01-11
-description: Part two of 21 lessons learned from Bitcoin.
+description: "Part two of 21 lessons learned from Bitcoin."
 image: /assets/images/btc04-the-garden-of-bitcoin.jpg
 source: https://medium.com/@dergigi/economic-teachings-of-bitcoin-b2cc4f2cfa96
 author: Gigi
