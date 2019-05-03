@@ -143,3 +143,20 @@ awareness of the many ways in which software and hardware can be
 compromised.
 
 Bitcoin taught me not to trust, but to verify.
+
+[Emmanuel Boutet]: https://commons.wikimedia.org/wiki/User:Emmanuel.boutet
+[Satoshi]: http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source
+[Nakamoto]: https://bitcoin.org/bitcoin.pdf
+[majority]: https://bitcoin.org/en/developer-guide#term-51-attack
+[*Reflections on Trusting Trust*]: https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf
+[Carl Sagan]: https://en.wikipedia.org/wiki/Cosmos_%28Carl_Sagan_book%29
+[found a way]: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Stealthy+Dopant-Level+Hardware+Trojans&btnG=
+[secp256k1]: https://en.bitcoin.it/wiki/Secp256k1
+[has already happened]: https://en.wikipedia.org/wiki/Dual_EC_DRBG
+[backdoors]: https://en.wikipedia.org/wiki/Elliptic-curve_cryptography#Backdoors
+[Gitian]: https://gitian.org/
+[bootstrapping]: https://www.gnu.org/software/guix/manual/en/html_node/Bootstrapping.html
+[Guix]: https://www.gnu.org/software/guix/
+[pull-request]: https://github.com/bitcoin/bitcoin/pull/15277
+[flip a coin]: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc#private-keys
+[Glacier]: https://glacierprotocol.org/
