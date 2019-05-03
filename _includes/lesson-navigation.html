@@ -17,12 +17,13 @@
 {% if include.style == "compact" %}
 <ul class="lesson__navigation">
   <li><a href="{{ previousLesson.path | remove: '.md' | absolute_url }}" title="Previous"></a></li>
+  <li><a href="{{ toc.path | remove: '.md' | absolute_url }}" title="{{ toc.subtitle }}">·</a></li>
   <li><a href="{{ nextLesson.path | remove: '.md' | absolute_url }}" title="Next"></a></li>
 </ul>
 {% else %}
 <ul class="lesson__navigation">
-  <li><a href="{{ previousLesson.path | remove: '.md' | absolute_url }}">{{ previousLesson.subtitle }}</a></li>
+  <li><a href="{{ previousLesson.path | remove: '.md' | absolute_url }}" title="{{ previousLesson.subtitle }}">{{ previousLesson.title }}</a></li>
   <li><a href="{{ toc.path | remove: '.md' | absolute_url }}">{{ toc.subtitle }}</a></li>
-  <li><a href="{{ nextLesson.path | remove: '.md' | absolute_url }}">{{ nextLesson.subtitle }}</a></li>
+  <li><a href="{{ nextLesson.path | remove: '.md' | absolute_url }}" title="{{ nextLesson.subtitle }}">{{ nextLesson.title }}</a></li>
 </ul>
 {% endif %}
