@@ -139,12 +139,6 @@ category: bitcoin
 [fair distribution]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
 
 <!-- Part I -->
-[Jimmy Song]: https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947
-[Gold: The Extraordinary Metal]: https://www.muenzeoesterreich.at/eng/discover/for-investors/gold-the-extraordinary-metal
-[in regards to a bat]: https://en.wikipedia.org/wiki/What_Is_it_Like_to_Be_a_Bat%3F
-[What is it like to be a bitcoin?]: https://medium.com/s/story/what-is-it-like-to-be-a-bitcoin-56109f3e6753
-[Ship of Theseus]: https://en.wikipedia.org/wiki/Ship_of_Theseus
-[trolley problem]: https://en.wikipedia.org/wiki/Trolley_problem
 [Daniel Dennett]: https://www.lehigh.edu/~mhb0/Dennett-WhereAmI.pdf
 [1st Amendment]: https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution
 [Peter Van Valkenburgh]: https://www.whatbitcoindid.com/podcast/coin-centers-peter-van-valkenburg-on-preserving-the-freedom-to-innovate-with-public-blockchains

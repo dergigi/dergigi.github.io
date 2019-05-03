@@ -12,7 +12,7 @@ question [in regards to a bat], wrote an excellent piece which discusses
 the following question: [What is it like to be a bitcoin?] He
 brilliantly shows that open, public blockchains in general, and Bitcoin
 in particular, suffer from the same conundrum as the [Ship of
-Theseus][]: which Bitcoin is the real Bitcoin?
+Theseus]: which Bitcoin is the real Bitcoin?
 
 > "Consider just how little persistence Bitcoin's components have. The
 > entire codebase has been reworked, altered, and expanded such that it
@@ -44,3 +44,8 @@ will have to be answered in perpetuity for as long as these networks of
 value-transfer exist.
 
 Bitcoin taught me that decentralization contradicts identity.
+
+[in regards to a bat]: https://en.wikipedia.org/wiki/What_Is_it_Like_to_Be_a_Bat%3F
+[What is it like to be a bitcoin?]: https://medium.com/s/story/what-is-it-like-to-be-a-bitcoin-56109f3e6753
+[Ship of Theseus]: https://en.wikipedia.org/wiki/Ship_of_Theseus
+[trolley problem]: https://en.wikipedia.org/wiki/Trolley_problem
