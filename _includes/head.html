@@ -27,15 +27,27 @@
 <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
 
-<meta name="twitter:url" content="{{ page.url | absolute_url }}">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }} | {{ site.title }}{% else %}{{ site.title | escape }}{% endif %}">
-<meta name="twitter:site" content="{{ site.title }}">
-<meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
-{% if site.twitter_username %}
-  <meta name="twitter:creator" content="@{{ site.twitter_username }}">
+
+<!-- Twitter cards -->
+<meta name="twitter:site"    content="@{{ site.title }}">
+<meta name="twitter:creator" content="@{{ site.twitter_username }}">
+<meta name="twitter:title"   content="{{ fullTitle }}">
+<meta name="twitter:url"     content="{{ page.url | absolute_url }}">
+
+{% if page.description %}
+<meta name="twitter:description" content="{{ page.description | escape }}">
+{% else %}
+<meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
-<meta property="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
+
+{% if page.image %}
+<meta name="twitter:card"  content="summary_large_image">
+<meta name="twitter:image" content="{{ page.image | absolute_url }}">
+{% else %}
+<meta name="twitter:card"  content="summary">
+<meta name="twitter:image" content="{{ site.default_img | absolute_url }}">
+{% endif %}
+<!-- end of Twitter cards -->
 
 <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | prepend: site.baseurl }}">
 

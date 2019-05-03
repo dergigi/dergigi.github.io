@@ -3,7 +3,7 @@ layout: post
 title: "Technological Teachings of Bitcoin"
 subtitle: "What I've Learned From Bitcoin: Part III"
 date: 2019-04-02
-description:
+description: "Part three of 21 lessons learned from Bitcoin."
 image: /assets/images/btc05-the-anatomy-of-bitcoin.jpg
 source: https://medium.com/@dergigi/technological-teachings-of-bitcoin-20420b459417
 author: Gigi
