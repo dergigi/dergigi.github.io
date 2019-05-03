@@ -14,8 +14,15 @@
 {% assign toc = site.pages[idxtoc] %}
 {% assign nextLesson = site.pages[idxn] %}
 
+{% if include.style == "compact" %}
+<ul class="lesson__navigation">
+  <li><a href="{{ previousLesson.path | remove: '.md' | absolute_url }}" title="Previous"></a></li>
+  <li><a href="{{ nextLesson.path | remove: '.md' | absolute_url }}" title="Next"></a></li>
+</ul>
+{% else %}
 <ul class="lesson__navigation">
   <li><a href="{{ previousLesson.path | remove: '.md' | absolute_url }}">{{ previousLesson.subtitle }}</a></li>
   <li><a href="{{ toc.path | remove: '.md' | absolute_url }}">{{ toc.subtitle }}</a></li>
   <li><a href="{{ nextLesson.path | remove: '.md' | absolute_url }}">{{ nextLesson.subtitle }}</a></li>
 </ul>
+{% endif %}
