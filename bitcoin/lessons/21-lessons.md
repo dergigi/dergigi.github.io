@@ -139,10 +139,6 @@ category: bitcoin
 [fair distribution]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
 
 <!-- Part I -->
-[Daniel Dennett]: https://www.lehigh.edu/~mhb0/Dennett-WhereAmI.pdf
-[1st Amendment]: https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution
-[Peter Van Valkenburgh]: https://www.whatbitcoindid.com/podcast/coin-centers-peter-van-valkenburg-on-preserving-the-freedom-to-innovate-with-public-blockchains
-[a magic spell]: {% post_url /bitcoin/2018-08-17-the-magic-dust-of-cryptography %}  
 [Crypto Wars]: https://en.wikipedia.org/wiki/Crypto_Wars
 [illegal numbers]: https://en.wikipedia.org/wiki/Illegal_number
 [illegal primes]: https://en.wikipedia.org/wiki/Illegal_prime
