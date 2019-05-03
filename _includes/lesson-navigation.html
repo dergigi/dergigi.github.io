@@ -13,17 +13,38 @@
 {% assign previousLesson = site.pages[idxp] %}
 {% assign toc = site.pages[idxtoc] %}
 {% assign nextLesson = site.pages[idxn] %}
+{% assign notFound = "Page Not Found" %}
 
 {% if include.style == "compact" %}
 <ul class="lesson__navigation">
+  {% if previousLesson.title == notFound %}
+  <li></li>
+  {% else %}
   <li><a href="{{ previousLesson.path | remove: '.md' | absolute_url }}" title="Previous"></a></li>
+  {% endif %}
+
   <li><a href="{{ toc.path | remove: '.md' | absolute_url }}" title="{{ toc.subtitle }}">·</a></li>
+
+  {% if nextLesson.title == notFound %}
+  <li></li>
+  {% else %}
   <li><a href="{{ nextLesson.path | remove: '.md' | absolute_url }}" title="Next"></a></li>
+  {% endif %}
 </ul>
 {% else %}
 <ul class="lesson__navigation">
+  {% if previousLesson.title == notFound %}
+  <li></li>
+  {% else %}
   <li><a href="{{ previousLesson.path | remove: '.md' | absolute_url }}" title="{{ previousLesson.subtitle }}">{{ previousLesson.title }}</a></li>
+  {% endif %}
+
   <li><a href="{{ toc.path | remove: '.md' | absolute_url }}">{{ toc.subtitle }}</a></li>
+
+  {% if nextLesson.title == notFound %}
+  <li></li>
+  {% else %}
   <li><a href="{{ nextLesson.path | remove: '.md' | absolute_url }}" title="{{ nextLesson.subtitle }}">{{ nextLesson.title }}</a></li>
+  {% endif %}
 </ul>
 {% endif %}
