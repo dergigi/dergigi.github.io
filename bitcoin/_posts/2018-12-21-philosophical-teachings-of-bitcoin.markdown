@@ -3,7 +3,7 @@ layout: post
 title: "Philosophical Teachings of Bitcoin"
 subtitle: "What I've Learned From Bitcoin: Part I"
 date: 2018-12-21
-description:
+description: Part one of 21 lessons learned from Bitcoin.
 image: /assets/images/btc03-the-school-of-bitcoin.jpg
 source: https://medium.com/@dergigi/philosophical-teachings-of-bitcoin-97f4b96f455f
 author: Gigi
