@@ -31,3 +31,5 @@ people have already built the second layer and are working on the third.
 
 Bitcoin taught me that I know very little about almost anything. It
 taught me that this rabbit hole is bottomless.
+
+[Jameson Lopp]: https://twitter.com/lopp/status/1061415918616698881
