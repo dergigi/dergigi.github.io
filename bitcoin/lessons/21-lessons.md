@@ -91,10 +91,6 @@ category: bitcoin
 <!-- Part II -->
 [Blind monks]: https://en.wikipedia.org/wiki/Blind_men_and_an_elephant
 
-[Satoshi Nakamoto]: http://p2pfoundation.ning.com/xn/detail/2003008:Comment:9562
-[Nick Szabo]: http://unenumerated.blogspot.com/
-[*Shelling Out: The Origins of Money*]: https://nakamotoinstitute.org/shelling-out/
-[Ron Paul]: http://endthefed.org/books/
 [oldest coin]: https://www.britishmuseum.org/explore/themes/money/the_origins_of_coinage.aspx
 [coin debasement]: https://en.wikipedia.org/wiki/Methods_of_coin_debasement
 [*Thaler*]: https://en.wikipedia.org/wiki/Thaler

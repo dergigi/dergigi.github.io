@@ -80,3 +80,8 @@ educational effort to correct this corruption remains to be seen. I pray
 to the gods of sound money that it will be the latter.
 
 Bitcoin taught me what money is.
+
+[Satoshi Nakamoto]: http://p2pfoundation.ning.com/xn/detail/2003008:Comment:9562
+[Nick Szabo]: http://unenumerated.blogspot.com/
+[*Shelling Out: The Origins of Money*]: https://nakamotoinstitute.org/shelling-out/
+[Ron Paul]: http://endthefed.org/books/
