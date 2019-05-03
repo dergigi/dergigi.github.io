@@ -45,3 +45,11 @@ this has the potential to change the world for the better.
 We should all remember that privacy is a [fundamental human right]. And
 as long as people exercise and defend these rights the battle for
 privacy is far from over. Bitcoin taught me that privacy is not dead.
+
+[since the 80ies]: https://books.google.com/ngrams/graph?content=privacy+is+dead&year_start=1970&year_end=2019&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cprivacy%20is%20dead%3B%2Cc0
+[time-traveling AI]: https://blockchain24-7.com/is-crypto-creator-a-time-travelling-ai/
+["I am not Dorian Nakamoto."]: http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A52186
+[Edward Snowden]: https://www.theguardian.com/world/2013/jun/17/edward-snowden-nsa-files-whistleblower
+[MimbleWimble]: https://github.com/mimblewimble/docs/wiki/MimbleWimble-Origin
+[anonymous]: https://oeis.org/A180632/a180632.pdf
+[fundamental human right]: http://www.un.org/en/universal-declaration-human-rights/

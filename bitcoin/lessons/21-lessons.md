@@ -14,13 +14,6 @@ category: bitcoin
 
 [Elliptic curve examples]: https://commons.wikimedia.org/wiki/File:ECClines-2.svg
 
-[since the 80ies]: https://books.google.com/ngrams/graph?content=privacy+is+dead&year_start=1970&year_end=2019&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cprivacy%20is%20dead%3B%2Cc0
-[time-traveling AI]: https://blockchain24-7.com/is-crypto-creator-a-time-travelling-ai/
-["I am not Dorian Nakamoto."]: http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A52186
-[Edward Snowden]: https://www.theguardian.com/world/2013/jun/17/edward-snowden-nsa-files-whistleblower
-[MimbleWimble]: https://github.com/mimblewimble/docs/wiki/MimbleWimble-Origin
-[anonymous]: https://oeis.org/A180632/a180632.pdf
-[fundamental human right]: http://www.un.org/en/universal-declaration-human-rights/
 [Ludwig Von Mises]: https://mises.org/library/human-action-0/html/pp/613
 [cypherpunk manifesto]: https://www.activism.net/cypherpunk/manifesto.html
 [version 0.1.0]: https://bitcointalk.org/index.php?topic=68121.0
