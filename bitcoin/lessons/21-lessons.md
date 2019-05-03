@@ -139,10 +139,6 @@ category: bitcoin
 [fair distribution]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
 
 <!-- Part I -->
-[this question]: https://twitter.com/arjunblj/status/1050073234719293440
-[automated social contract]: https://medium.com/@hasufly/bitcoins-social-contract-1f8b05ee24a9
-[Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
-[Ralph Merkle]: http://merkle.com/papers/DAOdemocracyDraft.pdf
 [changing people's diets]: https://motherboard.vice.com/en_us/article/ne74nw/inside-the-world-of-the-bitcoin-carnivores
 [Abundance]: https://www.diamandis.com/abundance
 [Saifedean Ammous]: https://www.bayernlb.de/internet/media/de/ir/downloads_1/bayernlb_research/sonderpublikationen_1/bitcoin_munich_may_28.pdf

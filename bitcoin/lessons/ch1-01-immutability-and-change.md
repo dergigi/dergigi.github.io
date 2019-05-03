@@ -52,3 +52,8 @@ the Bitcoin honeybadger will continue to not care.
 > <cite>[Ralph Merkle]</cite>
 
 The heartbeat of the Bitcoin network will outlast all of ours.
+
+[automated social contract]: https://medium.com/@hasufly/bitcoins-social-contract-1f8b05ee24a9
+[Ralph Merkle]: http://merkle.com/papers/DAOdemocracyDraft.pdf
+[Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
+[Marty Bent]: https://twitter.com/martybent
