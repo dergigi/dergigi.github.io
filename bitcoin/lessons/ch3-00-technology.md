@@ -40,3 +40,5 @@ only be able to scratch the surface. Bitcoin is an expanding universe,
 evolving and improving every day. Whole books can be and have been
 written on small, specific parts of this cosmos. And just like in our
 own universe, the expansion seems to be accelerating.
+
+[Arjun Balaji]: https://twitter.com/arjunblj
