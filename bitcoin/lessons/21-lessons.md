@@ -90,15 +90,6 @@ category: bitcoin
 
 <!-- Part II -->
 [Blind monks]: https://en.wikipedia.org/wiki/Blind_men_and_an_elephant
-[Henry Hazlitt]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwi058KmgNrfAhWHneAKHbmCDFUQFjACegQIExAC&url=https%3A%2F%2Fmises.org%2Fsystem%2Ftdf%2FHenry%2520Hazlitt%2520Economics%2520in%2520One%2520Lesson.pdf%3Ffile%3D1%26type%3Ddocument&usg=AOvVaw0_kRtaNPMez0UdYGsrKThv
-[hyperinflates]: https://en.wikipedia.org/wiki/Hyperinflation
-[inflation can not help]: https://books.google.com/books?id=zZu3AAAAIAAJ&dq=%22only+while+it+accelerates%22&focus=searchwithinvolume&q=%22steady+inflation+cannot+help%22
-[history of inflation]: https://books.google.com/books?id=l_A1vVIaYBYC&pg=PA142&dq=%22history+is+largely+a+history+of+inflation%22&hl=en&sa=X&ved=0ahUKEwi90NDLrdnfAhUprVkKHUx1CmIQ6AEIKjAA#v=onepage&q=%22history%20is%20largely%20a%20history%20of%20inflation%22&f=false
-[currently suffering]: https://en.wikipedia.org/wiki/Crisis_in_Venezuela#Economic_crisis
-[list of historical currencies]: https://en.wikipedia.org/wiki/List_of_historical_currencies
-[currently in use]: https://en.wikipedia.org/wiki/List_of_currencies
-[by the laws of physics]: https://link.medium.com/9fzq2L0J3S
-[*Gold-to-Decent-Suit Ratio*]: https://www.businesswire.com/news/home/20110819005774/en/History-Shows-Price-Ounce-Gold-Equals-Price
 [multiple theories]: https://en.wikipedia.org/wiki/Theory_of_value_%28economics%29
 [Plato]: http://www.perseus.tufts.edu/hopper/text?doc=plat.+euthyd.+304b
 [paradox of value]: https://en.wikipedia.org/wiki/Paradox_of_value
