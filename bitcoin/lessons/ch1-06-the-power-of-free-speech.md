@@ -41,3 +41,9 @@ As long as there is a part of the world where speech is free as in
 
 Bitcoin taught me that in a free society, free speech and free software
 are unstoppable.
+
+[1st Amendment]: https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution
+[Crypto Wars]: https://en.wikipedia.org/wiki/Crypto_Wars
+[illegal numbers]: https://en.wikipedia.org/wiki/Illegal_number
+[illegal primes]: https://en.wikipedia.org/wiki/Illegal_prime
+[Beautyon]: https://hackernoon.com/why-america-cant-regulate-bitcoin-8c77cee8d794

@@ -139,10 +139,6 @@ category: bitcoin
 [fair distribution]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
 
 <!-- Part I -->
-[Crypto Wars]: https://en.wikipedia.org/wiki/Crypto_Wars
-[illegal numbers]: https://en.wikipedia.org/wiki/Illegal_number
-[illegal primes]: https://en.wikipedia.org/wiki/Illegal_prime
-[Beautyon]: https://hackernoon.com/why-america-cant-regulate-bitcoin-8c77cee8d794
 [Jameson Lopp]: https://twitter.com/lopp/status/1061415918616698881
 [Michael Goldstein]: https://medium.com/@bitstein
 [Pierre Rochard]: https://medium.com/@pierre_rochard
