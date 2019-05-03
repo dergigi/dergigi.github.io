@@ -14,11 +14,6 @@ category: bitcoin
 
 [Elliptic curve examples]: https://commons.wikimedia.org/wiki/File:ECClines-2.svg
 
-[Ludwig Von Mises]: https://mises.org/library/human-action-0/html/pp/613
-[cypherpunk manifesto]: https://www.activism.net/cypherpunk/manifesto.html
-[version 0.1.0]: https://bitcointalk.org/index.php?topic=68121.0
-[not to delay]: https://bitcointalk.org/index.php?topic=199.msg1670#msg1670
-[6]: http://www.metzdowd.com/pipermail/cryptography/2008-November/014832.html
 [Our World in Data]: https://ourworldindata.org/
 [the rising speed of technological adoption]: https://www.visualcapitalist.com/rising-speed-technological-adoption/
 [multiple network effects]: https://www.thrivenotes.com/the-7-network-effects-of-bitcoin/

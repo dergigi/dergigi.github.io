@@ -70,3 +70,9 @@ yourself that you can actually solve the problems, and implement the
 solutions. We should all aim to be a bit more cypherpunk.
 
 Bitcoin taught me that cypherpunks write code.
+
+[Ludwig Von Mises]: https://mises.org/library/human-action-0/html/pp/613
+[cypherpunk manifesto]: https://www.activism.net/cypherpunk/manifesto.html
+[version 0.1.0]: https://bitcointalk.org/index.php?topic=68121.0
+[not to delay]: https://bitcointalk.org/index.php?topic=199.msg1670#msg1670
+[6]: http://www.metzdowd.com/pipermail/cryptography/2008-November/014832.html
