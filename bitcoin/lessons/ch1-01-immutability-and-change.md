@@ -53,7 +53,17 @@ the Bitcoin honeybadger will continue to not care.
 
 The heartbeat of the Bitcoin network will outlast all of ours.
 
+Realizing the above changed me way more than the past blocks of the
+Bitcoin blockchain ever will. It changed my time preference, my
+understanding of economics, my political views, and so much more. Hell,
+it is even [changing people's diets]. If all of this sounds crazy to
+you, you're in good company. All of this is crazy, and yet it is
+happening.
+
+Bitcoin taught me that it won't change. I will.
+
 [automated social contract]: https://medium.com/@hasufly/bitcoins-social-contract-1f8b05ee24a9
 [Ralph Merkle]: http://merkle.com/papers/DAOdemocracyDraft.pdf
 [Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
 [Marty Bent]: https://twitter.com/martybent
+[changing people's diets]: https://motherboard.vice.com/en_us/article/ne74nw/inside-the-world-of-the-bitcoin-carnivores
