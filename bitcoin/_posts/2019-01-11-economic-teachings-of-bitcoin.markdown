@@ -873,6 +873,7 @@ There exists an almost endless list of books and essays on the topics discussed 
 #### Translations
 
   - [Turkish translation] by [@deniz_zgur][deniz]
+  - [Chinese translation] by [@andywan][andywan]
 
 [Arjun Balaji]: https://twitter.com/arjunblj
 [the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
@@ -957,3 +958,5 @@ There exists an almost endless list of books and essays on the topics discussed 
 [universal speed limit]: https://en.wikipedia.org/wiki/Speed_of_light#Upper_limit_on_speeds
 [fair distribution]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
 [Turkish translation]: https://medium.com/@denizozzgur/bitcoinin-ekonomi-%C3%B6%C4%9Fretileri-a3e87dcff525
+[Chinese translation]: https://www.weibo.com/ttarticle/p/show?id=2309404363977307068572
+[andywan]: https://twitter.com/andywan
