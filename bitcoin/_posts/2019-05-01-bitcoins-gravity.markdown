@@ -514,6 +514,14 @@ planted a seed of conviction in you as well.
 - Graphics based on the [fxemoji] set cc-by [Sabrina Smelko]
 - Dedicated to the [bravest space cat][hodlonaut] of them all (* April 2017, † April 2019).
 
+### Translations
+
+- [Turkish translation] by [@deniz_zgur][deniz]
+
+<!-- Translations -->
+[Turkish translation]: https://medium.com/@denizozzgur/bitcoinin-%C3%A7ekim-yasas%C4%B1-1dbe3e8698af
+[deniz]: https://twitter.com/deniz_zgur
+
 <!-- cc-by -->
 [fxemoji]: https://github.com/mozilla/fxemoji
 [Sabrina Smelko]: https://commons.wikimedia.org/w/index.php?title=Category:Firefox_OS_Emoji
