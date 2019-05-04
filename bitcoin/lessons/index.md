@@ -5,7 +5,14 @@ subtitle: What I've learned from Bitcoin
 category: bitcoin
 ---
 
+Falling down the Bitcoin rabbit hole is a strange experience. You will learn
+about all kinds of topics, ranging from mathematics and physics to history,
+money, economics, politics and game theory. The list of topics is almost
+endless, as is the list of relevant literature.
 
+The following is an account of my own journey down the rabbit hole. A
+journey which is still ongoing, and if my assumptions are correct, will
+continue for quite a while. 
 
 {% include lesson-list.html %}
 
