@@ -526,6 +526,9 @@ planted a seed of conviction in you as well.
 [fxemoji]: https://github.com/mozilla/fxemoji
 [Sabrina Smelko]: https://commons.wikimedia.org/w/index.php?title=Category:Firefox_OS_Emoji
 
+<!-- Internal -->
+[learned myself]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
+
 <!-- Twitter People -->
 [Hasu]: https://twitter.com/hasu
 [Tony Sheng]: https://twitter.com/tonysheng
@@ -565,7 +568,6 @@ planted a seed of conviction in you as well.
 [Dan Held]: https://tokeneconomy.co/quantum-narratives-859cde44401b
 [visions of Bitcoin]: https://uncommoncore.co/visions-of-bitcoin-how-major-bitcoin-narratives-changed-over-time/
 [Isaac Asimov]: https://openlibrary.org/works/OL46374W/Nightfall
-[learned myself]: https://medium.com/@dergigi/philosophical-teachings-of-bitcoin-97f4b96f455f
 [Alan Guth]: http://ocw.mit.edu/courses/physics/8-286-the-early-universe-fall-2013/
 [crypto-narrative-index]: https://tokeneconomy.co/market-narratives-are-marketing-introducing-the-crypto-narrative-index-deeeb49bc909
 [Carl Jung]: http://jungcurrents.com/jung-complexes-have-us
