@@ -14,17 +14,16 @@ are universal or complete. I hope, however, that they are instructive. Or at
 least interesting at times.
 
 Falling down the Bitcoin rabbit hole is a strange experience. It is quite
-fascinating where simple questions like "What is money?" can lead you. A more
+fascinating where simple questions like "What is money?" can lead you. The
 modern equivalent is, of course, the following: "What is Bitcoin?" Exploring
 this question with curiosity will lead you to strange places and even stranger
 conclusions.
 
-If you dig deep enough you will inevitably learn about a plethora of subjects.
 Bitcoin touches everything from cryptography (based in mathematics and physics)
 to economics, politics, game theory, computer science, and so much more. You
 will learn about money and its history, micro- and macro-economics, distributed
-and centralized systems, elliptic-curve and Schelling points, and hundreds of
-other things. The list of topics is almost endless, as is the list of relevant
+and centralized systems, as well as Schelling points and points on elliptic
+curves. The list of topics is almost endless, as is the list of relevant
 literature.
 
 What follows is an account of my own journey down the rabbit hole. A journey
