@@ -12,7 +12,7 @@ tweet, and failing miserably, I realized that the amount of things I've
 learned is far too numerous to answer quickly, if at all. I also
 realized that any set of answers to this question will be different for
 everyone --- a reflection of the very personal journey through the
-wonderful world of crypto. Hence, the subtitle of this series is *What
+wonderful world of Bitcoin. Hence, the subtitle of this series is *What
 I've Learned From Bitcoin*, with which I want to acknowledge the
 inherent personal bias of answering a question like this.
 
