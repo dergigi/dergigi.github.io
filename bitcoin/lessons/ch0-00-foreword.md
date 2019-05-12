@@ -35,10 +35,18 @@ The 21 lessons were first published as a three-part article series titled ["What
 I’ve Learned From Bitcoin"][I] and are still roughly grouped into three chapters
 based on the original articles: philosophy, economy, and technology.
 
-Alright, enough about how all this came to be. Have fun diving in! Oh, and if
-you find these lessons useful, or if you have other comments or suggestions of
-any kind, [I'd love to hear from you][contact].
+{% include lesson-list.html %}
 
+Alright, enough about how all this came to be. Start with [Chapter I][chapter1]
+if you are sequentialist. Or jump around if that's your thing. I don't judge.
+The lessons are mostly independent chunks and the order doesn't really matter
+too much. Also, don't despair if you are feeling lost. There is a link to the
+[Table of Contents][toc] at the bottom of each page. And at the top.
+
+Have fun diving in! And if you find these lessons useful, or if you have other
+comments or suggestions of any kind, [I'd love to hear from you][contact].
+
+Safe journey,<br/>
 [Gigi][dergigi]
 
 <!-- Internal -->
@@ -46,6 +54,8 @@ any kind, [I'd love to hear from you][contact].
 [gravity]: {% post_url /bitcoin/2019-05-01-bitcoins-gravity %}
 [contact]: {{ '/contact' | absolute_url }}
 [lesson1]: {{ 'bitcoin/lessons/ch1-01-immutability-and-change' | absolute_url }}
+[toc]: {{ 'bitcoin/lessons/ch0-01-table-of-contents' | absolute_url }}
+[chapter1]: {{ 'bitcoin/lessons/ch1-00-philosophy' | absolute_url }}
 
 <!-- Twitter -->
 [dergigi]: https://twitter.com/dergigi
