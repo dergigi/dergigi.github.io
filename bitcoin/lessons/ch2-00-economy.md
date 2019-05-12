@@ -34,15 +34,15 @@ one of the largest and fuzziest pieces of the Bitcoin puzzle.
 
 {% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="blind-monks.jpg" caption="Blind monks examining Bitcoin" %}
 
-Like the first part, this essay is an exploration of the various things I have
-learned from Bitcoin. And just like the first part, it is a personal reflection
-of my journey down the rabbit hole. Having no background in economics, I am
-definitely out of my comfort zone and aware that any understanding I might
-have is incomplete. Like blind monks examining an elephant, everyone who
-approaches this novel technology does so from a different angle and will come
-to different conclusions. Blindfolded as I am, I will try to outline what I
-have learned, even at the risk of making a fool out of myself. After all, I am
-still trying to answer [the question]: *“What have you learned from Bitcoin?”*
+Again, these lessons are an exploration of the various things I have learned
+from Bitcoin. They are a personal reflection of my journey down the rabbit hole.
+Having no background in economics, I am definitely out of my comfort zone and
+especially aware that any understanding I might have is incomplete. Like blind
+monks examining an elephant, everyone who approaches this novel technology does
+so from a different angle and will come to different conclusions. Blindfolded as
+I am, I will try to outline what I have learned, even at the risk of making a
+fool out of myself. After all, I am still trying to answer [the question]:
+*“What have you learned from Bitcoin?”*
 
 After seven lessons examined through the lens of philosophy, let’s use the
 lens of economics to look at seven more. I hope that you will find the world
