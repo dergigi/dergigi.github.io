@@ -17,9 +17,9 @@ article is the last of this series, I am still stumbling down with no
 end in sight, and I invite you to stumble along with me.
 
 This is the third chapter of a personal journey. Again, I am indebted to
-[Arjun Balaji] who asked the following on Twitter: "What have you
-learned from Bitcoin?" It is this question which has led me to write
-this series to outline some of the things I've learned.
+[Arjun Balaji] who asked the following on Twitter: *"What have you
+learned from Bitcoin?"* It is this question which has led me to write
+these lessons down and outline some of the things I've learned.
 
 [Chapter I][chapter1] explored what I've learned from Bitcoin when seen through a
 philosophical lens: the interplay of immutability and change, copying
