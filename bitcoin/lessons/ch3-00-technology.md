@@ -8,13 +8,16 @@ categories: [bitcoin, lesson]
 
 
 
-What is Bitcoin? The many answers to this question are as interesting as
-they are varied. Bitcoin is both a social and a monetary phenomenon, but
-it is also a technological one. The intersection of many disciplines is
-what makes Bitcoin endlessly fascinating. Like many others, I began to
-stumble down this strange rabbit hole a while ago. Even though this
-article is the last of this series, I am still stumbling down with no
-end in sight, and I invite you to stumble along with me.
+What is Bitcoin? The many answers to this question are as interesting as they
+are varied. Bitcoin is both a social and a monetary phenomenon, but it is also a
+technological one. The intersection of many disciplines is what makes Bitcoin
+endlessly fascinating.
+
+Like many others, I began to stumble down this strange rabbit hole a while ago.
+Even though the following lessons are the final seven, one could easily expand
+this list of lessons to 21 dozens. Maybe even 21 million. In any case, I am
+still stumbling down the rabbit hole with no end in sight, and I invite you to
+stumble along with me.
 
 This is the third chapter of a personal journey. Again, I am indebted to
 [Arjun Balaji] who asked the following on Twitter: *"What have you
