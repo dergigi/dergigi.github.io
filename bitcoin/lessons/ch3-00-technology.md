@@ -21,20 +21,16 @@ This is the third chapter of a personal journey. Again, I am indebted to
 learned from Bitcoin?" It is this question which has led me to write
 this series to outline some of the things I've learned.
 
-1. [Philosophical Teachings of Bitcoin][I]
-2. [Economic Teachings of Bitcoin][II]
-3. **[Technological Teachings of Bitcoin][III]**
-
-Part one explored what I've learned from Bitcoin when seen through a
+[Chapter I][chapter1] explored what I've learned from Bitcoin when seen through a
 philosophical lens: the interplay of immutability and change, copying
 and scarcity, Bitcoin's origin story and identity, locality in a world
 of replication, money as free speech, and the limits of knowledge.
 
-Part two discussed some of the economic teachings of Bitcoin: the
+[Chapter II][chapter2] discussed some of the economic teachings of Bitcoin: the
 concept of value, (sound) money and its history, inflation, and some
 aspects of "modern" banking like fractional reserve banking.
 
-Part three will explore seven things I have learned from examining
+[Chapter III][chapter3] will explore seven lessons I have learned from examining
 Bitcoin through the lens of technology. As in the previous parts, I will
 only be able to scratch the surface. Bitcoin is an expanding universe,
 evolving and improving every day. Whole books can be and have been
@@ -42,3 +38,6 @@ written on small, specific parts of this cosmos. And just like in our
 own universe, the expansion seems to be accelerating.
 
 [Arjun Balaji]: https://twitter.com/arjunblj
+[chapter1]: {{ 'bitcoin/lessons/ch1-00-philosophy' | absolute_url }}
+[chapter2]: {{ 'bitcoin/lessons/ch2-00-economy' | absolute_url }}
+[chapter3]: {{ 'bitcoin/lessons/ch3-00-technology' | absolute_url }}
