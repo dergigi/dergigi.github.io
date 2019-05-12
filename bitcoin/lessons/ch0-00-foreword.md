@@ -31,9 +31,10 @@ time. I plan to expand on some topics in more detail, as I have done by writing
 about [Bitcoin's Gravity][gravity] which expands on the main idea in [Lesson
 1][lesson1].
 
-The 21 lessons were first published as a three-part article series titled ["What
-I’ve Learned From Bitcoin"][I] and are still roughly grouped into three chapters
-based on the original articles: philosophy, economy, and technology.
+First published as a three-part article series titled [“What I’ve Learned From
+Bitcoin,”][I] the lessons are still roughly grouped into three chapters:
+philosophy, economics, and technology. Each chapter contains seven lessons
+learned, resulting in the following 21:
 
 {% include lesson-list.html %}
 
