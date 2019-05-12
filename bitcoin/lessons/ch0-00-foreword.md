@@ -7,31 +7,40 @@ categories: [bitcoin, lesson]
 
 The following lessons are extracted from three long-form articles I have written
 over the course of several months. My journey down the rabbit hole started long
-before I started writing about Bitcoin, and since the following lessons are a
-reflection of my personal experience, I don't claim them to be absolute nor
-complete. I hope, however, that they are instructive or at least interesting at
-times.
+before I started writing about Bitcoin, and since these lessons are a reflection
+of my personal experience, I don't claim them to be absolute nor complete. I
+hope, however, that they are instructive or at least interesting at times.
 
 Falling down the Bitcoin rabbit hole is a strange experience. It is quite
-fascinating where simple questions like "What is money?" can lead you. In
-today's time, the question to ask is "What is Bitcoin?" -- and the places (and
-conclusions) this question will lead you are strange indeed.
+fascinating how simple questions like "What is money?" can lead you if pursued
+with curiosity. In today's time, the question to ask is "What is Bitcoin?" and
+the places (and conclusions) this question will lead you to are strange indeed.
 
 If you dig deep enough you will inevitably learn about a plethora of subjects.
-Bitcoin touches everything from cryptography - which is based in mathematics and
-physics - to economics, politics, game theory, computer science, and so much
-more. You will learn about money and the history of money, micro- and
-macro-economics, incentives and Schelling points, and why things have value in
-the first place. The list of topics is almost endless, as is the list of
-relevant literature.
+Bitcoin touches everything from cryptography (based in mathematics and physics)
+to economics, politics, game theory, computer science, and so much more. You
+will learn about money and its history, micro- and macro-economics, distributed
+and centralized systems, elliptic-curve and Schelling points, and why things
+have value in the first place. The list of topics is almost endless, as is the
+list of relevant literature.
 
 What follows is an account of my own journey down the rabbit hole. A journey
-which is still ongoing, and if my spidey senses are to be trusted, will continue
-for quite a while.
+which is still ongoing, which is why these lessons might be updated from time to
+time. I plan to expand on some topics in more detail, as I have done by writing
+about [Bitcoin's Gravity][gravity] which expands on the main idea in
+[Lesson 1][lesson1].
 
-The 21 lessons were first published as a three-part article series titled "What
-I’ve Learned From Bitcoin" and are still roughly grouped into three chapters
+The 21 lessons were first published as a three-part article series titled ["What
+I’ve Learned From Bitcoin"] and are still roughly grouped into three chapters
 based on the original articles: philosophy, economy, and technology.
 
-If you find these lessons useful, or if you have other comments or suggestions
-of any kind, I'd love to hear from you.
+Alright, enough about how all this came to be. Have fun diving in! Oh, and if
+you find these lessons useful, or if you have other comments or suggestions of
+any kind, [I'd love to hear from you][contact].
+
+[Gigi][dergigi]
+
+[dergigi]: https://twitter.com/dergigi
+[contact]: {{ '/contact' | absolute_url }}
+[gravity]: {% post_url /bitcoin/2019-05-01-bitcoins-gravity %}
+[lesson1]: {{ 'bitcoin/lessons/ch1-01-immutability-and-change' | absolute_url }}
