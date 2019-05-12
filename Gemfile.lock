@@ -245,8 +245,9 @@ DEPENDENCIES
   github-pages
   jekyll (~> 3.7.3)
   jekyll-paginate
+  jekyll-redirect-from
   jekyll-sitemap
   tzinfo-data
 
 BUNDLED WITH
-   1.16.6
+   1.17.3
