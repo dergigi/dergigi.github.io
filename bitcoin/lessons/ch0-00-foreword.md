@@ -27,11 +27,11 @@ list of relevant literature.
 What follows is an account of my own journey down the rabbit hole. A journey
 which is still ongoing, which is why these lessons might be updated from time to
 time. I plan to expand on some topics in more detail, as I have done by writing
-about [Bitcoin's Gravity][gravity] which expands on the main idea in
-[Lesson 1][lesson1].
+about [Bitcoin's Gravity][gravity] which expands on the main idea in [Lesson
+1][lesson1].
 
 The 21 lessons were first published as a three-part article series titled ["What
-I’ve Learned From Bitcoin"] and are still roughly grouped into three chapters
+I’ve Learned From Bitcoin"][I] and are still roughly grouped into three chapters
 based on the original articles: philosophy, economy, and technology.
 
 Alright, enough about how all this came to be. Have fun diving in! Oh, and if
@@ -40,7 +40,11 @@ any kind, [I'd love to hear from you][contact].
 
 [Gigi][dergigi]
 
-[dergigi]: https://twitter.com/dergigi
-[contact]: {{ '/contact' | absolute_url }}
+<!-- Internal -->
+[I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
 [gravity]: {% post_url /bitcoin/2019-05-01-bitcoins-gravity %}
+[contact]: {{ '/contact' | absolute_url }}
 [lesson1]: {{ 'bitcoin/lessons/ch1-01-immutability-and-change' | absolute_url }}
+
+<!-- Twitter -->
+[dergigi]: https://twitter.com/dergigi
