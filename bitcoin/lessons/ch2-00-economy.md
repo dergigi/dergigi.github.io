@@ -20,12 +20,12 @@ schools of economic thought, and many other things. The quest to understand
 Bitcoin lead me down a plethora of paths, some of which I try to explore in
 this series.
 
-In Part I of this series, some of the philosophical questions Bitcoin touches
-on were discussed. Part II will take a closer look at money and economics.
-Again, I will only be able to scratch the surface. Bitcoin is not only
-ambitious, but also broad and deep in scope, making it impossible to cover
-all relevant topics in a single essay, article, or book. I am starting to
-doubt if it is even possible at all.
+In the first seven lessons some of the philosophical questions Bitcoin touches
+on were discussed. The next seven lessons will take a closer look at money and
+economics. Again, I will only be able to scratch the surface. Bitcoin is not
+only ambitious, but also broad and deep in scope, making it impossible to cover
+all relevant topics in a single lesson, essay, article, or book. I am starting
+to doubt if it is even possible at all.
 
 Bitcoin is a child of many disciplines. Being a new form of money, learning
 about economics is paramount in understanding it. Dealing with the nature of
@@ -42,14 +42,13 @@ have is incomplete. Like blind monks examining an elephant, everyone who
 approaches this novel technology does so from a different angle and will come
 to different conclusions. Blindfolded as I am, I will try to outline what I
 have learned, even at the risk of making a fool out of myself. After all, I am
-still trying to answer [the question]:
-
-“What have you learned from Bitcoin?”
+still trying to answer [the question]: *“What have you learned from Bitcoin?”*
 
 After seven lessons examined through the lens of philosophy, let’s use the
 lens of economics to look at seven more. I hope that you will find the world
 of Bitcoin as educational, fascinating and entertaining as I did and still do.
 In any case, hop on and enjoy the ride. Economy class is all I can offer this
-time. Final destination: sound money.
+time. Final destination: [sound money][lesson14].
 
 [the question]: https://twitter.com/arjunblj/status/1050073234719293440
+[lesson14]: {{ 'bitcoin/lessons/ch2-14-sound-money' | absolute_url }}
