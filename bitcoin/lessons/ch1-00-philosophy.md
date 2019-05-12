@@ -8,8 +8,8 @@ categories: [bitcoin, lesson]
 
 Some questions have easy answers. "What have you learned from Bitcoin?"
 isn't one of them. After trying to answer this question in a short
-tweet, and failing miserably, I realized that the amount of things I've
-learned is far too numerous to answer quickly, if at all. I also
+tweet, and failing miserably, I realized that the things I've
+learned are far too numerous to answer quickly, if at all. I also
 realized that any set of answers to this question will be different for
 everyone --- a reflection of the very personal journey through the
 wonderful world of Bitcoin. Hence, the subtitle of this series is *What
