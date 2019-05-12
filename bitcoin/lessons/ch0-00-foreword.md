@@ -8,22 +8,24 @@ categories: [bitcoin, lesson]
 
 The following lessons are extracted from three long-form articles I have written
 over the course of several months. My journey down the rabbit hole started long
-before I started writing about Bitcoin, and since these lessons are a reflection
-of my personal experience, I don't claim them to be absolute nor complete. I
-hope, however, that they are instructive or at least interesting at times.
+before I started writing about Bitcoin. And since these lessons are a reflection
+of my personal experience and my memory isn't perfect, I don't claim that they
+are universal or complete. I hope, however, that they are instructive. Or at
+least interesting at times.
 
 Falling down the Bitcoin rabbit hole is a strange experience. It is quite
-fascinating how simple questions like "What is money?" can lead you if pursued
-with curiosity. In today's time, the question to ask is "What is Bitcoin?" and
-the places (and conclusions) this question will lead you to are strange indeed.
+fascinating where simple questions like "What is money?" can lead you. A more
+modern equivalent is, of course, the following: "What is Bitcoin?" Exploring
+this question with curiosity will lead you to strange places and even stranger
+conclusions.
 
 If you dig deep enough you will inevitably learn about a plethora of subjects.
 Bitcoin touches everything from cryptography (based in mathematics and physics)
 to economics, politics, game theory, computer science, and so much more. You
 will learn about money and its history, micro- and macro-economics, distributed
-and centralized systems, elliptic-curve and Schelling points, and why things
-have value in the first place. The list of topics is almost endless, as is the
-list of relevant literature.
+and centralized systems, elliptic-curve and Schelling points, and hundreds of
+other things. The list of topics is almost endless, as is the list of relevant
+literature.
 
 What follows is an account of my own journey down the rabbit hole. A journey
 which is still ongoing, which is why these lessons might be updated from time to
