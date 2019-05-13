@@ -14,7 +14,7 @@ ol {
 //----------------------------------------------
 .post {
   ol,
-  ul:not(.post__social) {
+  ul:not(.post__social):not(.lesson__navigation) {
     margin: {
       bottom: 1.5rem;
       left: 1em;
@@ -22,9 +22,9 @@ ol {
 
     font-size: 1.1em;
 
-    @media (min-width: $mq-small) {
-      font-size: 1.25em;
-    }
+    // @media (min-width: $mq-small) {
+    //   font-size: 1.25em;
+    // }
 
     & > li {
       position: relative;
@@ -40,5 +40,34 @@ ol {
       }
     }
   }
+}
 
+//----------------------------------------------
+//  Lesson Lists
+//----------------------------------------------
+.lesson {
+  &__navigation {
+    @extend %no-list-style;
+    @extend %no-margin-or-padding;
+    justify-content: space-between;
+    display: flex;
+
+    margin: 3em 0;
+
+    li {
+      @extend %no-margin-or-padding;
+
+      &:first-child {
+        & a:before {
+          content: "← "
+        }
+      }
+      &:last-child {
+        align: right;
+        & a:after {
+          content: " →"
+        }
+      }
+    }
+  }
 }
