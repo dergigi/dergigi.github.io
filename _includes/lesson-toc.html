@@ -3,8 +3,8 @@
   {% if lesson.categories contains 'lesson' %}
     <li>
       <a href="{{ lesson.path | remove: '.md' | absolute_url }}">
-        {% if lesson.title contains 'Lesson ' or lesson.title contains 'Chapter ' %}{{ lesson.title }}: {% endif %}
-        {{ lesson.subtitle }}
+        {{ lesson.title }}
+        {% if lesson.title contains 'Lesson ' or lesson.title contains 'Chapter ' %} : {{ lesson.subtitle }} {% endif %}
       </a>
     </li>
 

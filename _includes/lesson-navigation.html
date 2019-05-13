@@ -4,7 +4,7 @@
       {% assign idxp = forloop.index | minus: 1 | minus: 1 %}
       {% assign idxn = forloop.index | plus: 1 | minus: 1 %}
     {% endif %}
-    {% if lesson.subtitle == "Table of Contents" %}
+    {% if lesson.title == "Table of Contents" %}
       {% assign idxtoc = forloop.index | minus: 1 %}
     {% endif %}
   {% endif %}
@@ -23,7 +23,7 @@
   <li><a href="{{ previousLesson.path | remove: '.md' | absolute_url }}" title="Previous"></a></li>
   {% endif %}
 
-  <li><a href="{{ toc.path | remove: '.md' | absolute_url }}" title="{{ toc.subtitle }}">ToC</a></li>
+  <li><a href="{{ toc.path | remove: '.md' | absolute_url }}" title="{{ toc.title }}">ToC</a></li>
 
   {% if nextLesson.title == notFound %}
   <li></li>
@@ -39,7 +39,7 @@
   <li><a href="{{ previousLesson.path | remove: '.md' | absolute_url }}" title="{{ previousLesson.subtitle }}">{{ previousLesson.title }}</a></li>
   {% endif %}
 
-  <li><a href="{{ toc.path | remove: '.md' | absolute_url }}">{{ toc.subtitle }}</a></li>
+  <li><a href="{{ toc.path | remove: '.md' | absolute_url }}">{{ toc.title }}</a></li>
 
   {% if nextLesson.title == notFound %}
   <li></li>

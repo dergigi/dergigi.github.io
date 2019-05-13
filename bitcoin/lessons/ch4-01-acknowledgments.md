@@ -1,7 +1,7 @@
 ---
 layout: lesson
-title: Thank you
-subtitle: Acknowledgments
+title: Acknowledgments
+subtitle: Thank you
 categories: [bitcoin, lesson]
 ---
 

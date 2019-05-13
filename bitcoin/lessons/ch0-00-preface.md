@@ -1,7 +1,6 @@
 ---
 layout: lesson
-title: 21 Lessons
-subtitle: Foreword
+title: Preface
 redirect_from: '/bitcoin/lessons/'
 categories: [bitcoin, lesson]
 ---

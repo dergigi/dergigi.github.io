@@ -1,7 +1,7 @@
 ---
 layout: lesson
-title: Lessons Learned
-subtitle: Conclusion
+title: Conclusion
+subtitle: Lessons Learned
 categories: [bitcoin, lesson]
 ---
 

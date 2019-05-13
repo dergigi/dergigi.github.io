@@ -1,7 +1,7 @@
 ---
 layout: lesson
-title: بيتكوين
-subtitle: Translations
+title: Translations
+subtitle: بيتكوين
 categories: [bitcoin, lesson]
 ---
 
