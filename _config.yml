@@ -39,6 +39,7 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
 compress_html:
   clippings: all
   comments: all
