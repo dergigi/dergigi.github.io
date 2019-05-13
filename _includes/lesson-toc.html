@@ -9,6 +9,12 @@
       </a>
     </li>
     {% if page == lesson %}</b>{% endif %}
+
+    <!-- Sub-lists for each chapter -->
+    {% if lesson.title contains 'Chapter' %}<ul>{% endif %}
+    {% if lesson.title == 'Lesson 7' %}</ul>{% endif %}
+    {% if lesson.title == 'Lesson 14' %}</ul>{% endif %}
+    {% if lesson.title == 'Lesson 21' %}</ul>{% endif %}
   {% endif %}
 {% endfor %}
 </ul>
