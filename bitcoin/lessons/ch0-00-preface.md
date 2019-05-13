@@ -1,7 +1,6 @@
 ---
 layout: lesson
 title: Preface
-redirect_from: '/bitcoin/lessons/'
 categories: [bitcoin, lesson]
 ---
 Falling down the Bitcoin rabbit hole is a strange experience. Like many others,
