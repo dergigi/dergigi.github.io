@@ -4,59 +4,36 @@ title: Preface
 redirect_from: '/bitcoin/lessons/'
 categories: [bitcoin, lesson]
 ---
+Falling down the Bitcoin rabbit hole is a strange experience. Like many others,
+I feel like I have learned more in the last couple of years studying Bitcoin
+than I have during two decades of formal education.
 
-The following lessons are extracted from three long-form articles I have written
-over the course of several months. My journey down the rabbit hole started long
-before I started writing about Bitcoin. And since these lessons are a reflection
-of my personal experience and my memory isn't perfect, I don't claim that they
-are universal or complete. I hope, however, that they are instructive. Or at
-least interesting at times.
+The following 21 lessons are a distillation of what I've learned. Bitcoin is an
+inexhaustible teacher, which is why I do not claim that they are
+all-encompassing or complete. There are many more lessons to be learned, and
+every person will learn something different from entering the world of Bitcoin.
 
-Falling down the Bitcoin rabbit hole is a strange experience. It is quite
-fascinating where simple questions like "What is money?" can lead you. The
-modern equivalent is, of course, the following: "What is Bitcoin?" Exploring
-this question with curiosity will lead you to strange places and even stranger
-conclusions.
+Like Bitcoin, what follows should not be seen as a static thing. I plan to work
+on these pages periodically, releasing updated versions in the future. Version
+one was an article series titled ["What I've Learned From Bitcoin."][I] Version
+two is what you are reading right now: the original 21 lessons in a (hopefully)
+more digestible format. Unlike Bitcoin, future versions of this project do not
+have to be backward compatible. Some lessons might be extended, others might be
+reworked or replaced. I hope that version three will be something you can hold
+in your hands, but I don't want to promise anything just yet.
 
-Bitcoin touches everything from cryptography (based in mathematics and physics)
-to economics, politics, game theory, computer science, and so much more. You
-will learn about money and its history, micro- and macro-economics, distributed
-and centralized systems, as well as Schelling points and points on elliptic
-curves. The list of topics is almost endless, as is the list of relevant
-literature.
+Although my writing is intended to inform and educate, I hope that it also
+serves as inspiration for others to dig beneath the surface and examine some of
+the deeper questions Bitcoin raises. My own inspiration came from a multitude of
+authors and content creators to all of whom I am eternally grateful.
 
-What follows is an account of my own journey down the rabbit hole. A journey
-which is still ongoing, which is why these lessons might be updated from time to
-time. I plan to expand on some topics in more detail, as I have done by writing
-about [Bitcoin's Gravity][gravity] which expands on the main idea in [Lesson
-1][lesson1].
+I hope that you will find these lessons useful and that the process of learning
+them by reading won't be as arduous and painful as learning them firsthand.  
 
-First published as a three-part article series titled [“What I’ve Learned From
-Bitcoin,”][I] the lessons are still roughly grouped into three chapters:
-philosophy, economics, and technology. Each chapter contains seven lessons
-learned, resulting in the following 21:
-
-{% include lesson-list.html %}
-
-Alright, enough about how all this came to be. Start with [Chapter I][chapter1]
-if you are sequentialist. Or jump around if that's your thing. I don't judge.
-The lessons are mostly independent chunks and the order doesn't really matter
-too much. Also, don't despair if you are feeling lost. There is a link to the
-[Table of Contents][toc] at the top and bottom of each page.
-
-Have fun diving in! And if you find these lessons useful, or if you have other
-comments or suggestions of any kind, [I'd love to hear from you][contact].
-
-Safe journey,<br/>
 [Gigi][dergigi]
 
 <!-- Internal -->
 [I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
-[gravity]: {% post_url /bitcoin/2019-05-01-bitcoins-gravity %}
-[contact]: {{ '/contact' | absolute_url }}
-[lesson1]: {{ 'bitcoin/lessons/ch1-01-immutability-and-change' | absolute_url }}
-[toc]: {{ 'bitcoin/lessons/ch0-01-table-of-contents' | absolute_url }}
-[chapter1]: {{ 'bitcoin/lessons/ch1-00-philosophy' | absolute_url }}
 
 <!-- Twitter -->
 [dergigi]: https://twitter.com/dergigi
