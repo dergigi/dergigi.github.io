@@ -39,7 +39,9 @@
   <li><a href="{{ previousLesson.path | remove: '.md' | absolute_url }}" title="{{ previousLesson.subtitle }}">{{ previousLesson.title }}</a></li>
   {% endif %}
 
+  {% unless previousLesson.title == notFound %}
   <li><a href="{{ toc.path | remove: '.md' | absolute_url }}">{{ toc.title }}</a></li>
+  {% endunless %}
 
   {% if nextLesson.title == notFound %}
   <li></li>
