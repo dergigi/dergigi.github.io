@@ -3,6 +3,11 @@ layout: lesson
 title: Introduction
 categories: [bitcoin, lesson]
 ---
+> “But I don’t want to go among mad people," Alice remarked.
+> "Oh, you can’t help that," said the Cat: "we’re all mad here. I’m mad. You’re mad."
+> "How do you know I’m mad?" said Alice.
+> "You must be," said the Cat, "or you wouldn’t have come here.”
+> <cite>Lewis Carroll, Alice in Wonderland</cite>
 
 The following lessons are extracted from three long-form articles I have written
 over the course of several months. My journey down the rabbit hole started long
