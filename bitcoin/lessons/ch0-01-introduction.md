@@ -7,7 +7,7 @@ categories: [bitcoin, lesson]
 > "Oh, you can’t help that," said the Cat: "we’re all mad here. I’m mad. You’re mad."
 > "How do you know I’m mad?" said Alice.
 > "You must be," said the Cat, "or you wouldn’t have come here.”
-> <cite>Lewis Carroll, Alice in Wonderland</cite>
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 The following lessons are extracted from three long-form articles I have written
 over the course of several months. My journey down the rabbit hole started long
@@ -64,3 +64,7 @@ Safe journey,<br/>
 
 <!-- Twitter -->
 [dergigi]: https://twitter.com/dergigi
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll
