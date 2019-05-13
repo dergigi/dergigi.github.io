@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Ladies"
+date: 2019-05-12
+description:
+image: /assets/images/lady.jpg
+author: Gigi
+category: photography
+tags:
+  - Photography
+  - Travel
+---
