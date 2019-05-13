@@ -43,7 +43,7 @@ Alright, enough about how all this came to be. Start with [Chapter I][chapter1]
 if you are sequentialist. Or jump around if that's your thing. I don't judge.
 The lessons are mostly independent chunks and the order doesn't really matter
 too much. Also, don't despair if you are feeling lost. There is a link to the
-[Table of Contents][toc] at the bottom of each page. And at the top.
+[Table of Contents][toc] at the top and bottom of each page.
 
 Have fun diving in! And if you find these lessons useful, or if you have other
 comments or suggestions of any kind, [I'd love to hear from you][contact].

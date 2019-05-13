@@ -1,14 +1,18 @@
 <ul>
 {% for lesson in site.pages %}
   {% if lesson.categories contains 'lesson' %}
-    {% if page == lesson %}<b>{% endif %}
     <li>
       <a href="{{ lesson.path | remove: '.md' | absolute_url }}">
         {% if lesson.title contains 'Lesson ' or lesson.title contains 'Chapter ' %}{{ lesson.title }}: {% endif %}
         {{ lesson.subtitle }}
       </a>
     </li>
-    {% if page == lesson %}</b>{% endif %}
+
+    <!-- Sub-lists for each chapter -->
+    {% if lesson.title contains 'Chapter' %}<ul>{% endif %}
+    {% if lesson.title == 'Lesson 7' %}</ul>{% endif %}
+    {% if lesson.title == 'Lesson 14' %}</ul>{% endif %}
+    {% if lesson.title == 'Lesson 21' %}</ul>{% endif %}
   {% endif %}
 {% endfor %}
 </ul>

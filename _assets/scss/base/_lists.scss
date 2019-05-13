@@ -20,14 +20,10 @@ ol {
       left: 1em;
     }
 
-    font-size: 1.1em;
-
-    // @media (min-width: $mq-small) {
-    //   font-size: 1.25em;
-    // }
-
     & > li {
       position: relative;
+
+      font-size: 1.1em;
 
       &:not(:last-child) {
         margin-bottom: 0.25rem;
