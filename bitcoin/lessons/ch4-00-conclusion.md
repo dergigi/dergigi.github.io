@@ -5,7 +5,7 @@ subtitle: Conclusion
 categories: [bitcoin, lesson]
 ---
 
-
+TODO: Conclusive conclusion
 
 <!-- Chapter I -->
 Bitcoin is a child of the internet. Even though it requires computers to
@@ -14,7 +14,7 @@ it. The implications of this new technology are far-reaching. Bitcoin is
 not only borderless but also boundaryless in respect to academic
 disciplines.
 
-In this first part of the *Teachings of Bitcoin* I tried to outline some
+In the [first chapter][chapter1] I tried to outline some
 of the philosophical implications of this fascinating machinery. In part
 two I will try to discuss what Bitcoin taught me about economics. Part
 three will conclude this series to show what I, a technologist, have
