@@ -5,7 +5,9 @@ subtitle: Move slowly and don't break things
 categories: [bitcoin, lesson]
 ---
 
-
+> So the boat wound slowly along, beneath the bright summer-day, with its merry
+> crew and its music of voices and laughter
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 It might be a dead mantra, but "move fast and break things" is still how
 much of the tech world operates. The idea that it doesn't matter if you
@@ -113,3 +115,7 @@ Bitcoin taught me that moving slowly is one of its features, not a bug.
 [Schnorr signatures]: https://github.com/sipa/bips/blob/bip-schnorr/bip-schnorr.mediawiki#cite_ref-6-0
 [Taproot]: https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2018-January/015614.html
 [5]: https://bitcointalk.org/index.php?topic=13.msg46#msg46
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll
