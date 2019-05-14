@@ -44,16 +44,6 @@ feature and not a bug, what Bitcoin's creation can tell us about privacy, why
 cypherpunks write code (and not laws), and what metaphors might be useful to
 explore Bitcoin's future.
 
-Even though some prior knowledge about Bitcoin is beneficial, I hope that these
-lessons can be digested by any curious reader. Each lesson stands on its own and
-can be read independently. While some domain-specific vocabulary is used, I did
-my best to shy away from technical jargon and everything else that makes things
-more difficult rather than easier to understand.
-
-My goal in writing this is not to convince you of anything. My goal is to make
-you think, and show you that there is way more to Bitcoin than meets the eye. I
-can't even tell you what Bitcoin is or what Bitcoin will teach you. *You* will
-have to find that out for yourself.
 
 <!-- Internal -->
 [chapter1]: {{ 'bitcoin/lessons/ch1-00-philosophy' | absolute_url }}
