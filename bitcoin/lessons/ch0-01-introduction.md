@@ -3,6 +3,7 @@ layout: lesson
 title: Introduction
 categories: [bitcoin, lesson]
 ---
+
 > “But I don’t want to go among mad people," Alice remarked.
 > "Oh, you can’t help that," said the Cat: "we’re all mad here. I’m mad. You’re mad."
 > "How do you know I’m mad?" said Alice.
@@ -51,21 +52,13 @@ more difficult rather than easier to understand.
 
 My goal in writing this is not to convince you of anything. My goal is to make
 you think, and show you that there is way more to Bitcoin than meets the eye. I
-can't even tell you what Bitcoin is or what Bitcoin will teach *you*. You will
+can't even tell you what Bitcoin is or what Bitcoin will teach you. *You* will
 have to find that out for yourself.
 
 <!-- Internal -->
-[I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
-[gravity]: {% post_url /bitcoin/2019-05-01-bitcoins-gravity %}
-[contact]: {{ '/contact' | absolute_url }}
-[lesson1]: {{ 'bitcoin/lessons/ch1-01-immutability-and-change' | absolute_url }}
-[toc]: {{ 'bitcoin/lessons/ch0-01-table-of-contents' | absolute_url }}
 [chapter1]: {{ 'bitcoin/lessons/ch1-00-philosophy' | absolute_url }}
 [chapter2]: {{ 'bitcoin/lessons/ch2-00-economics' | absolute_url }}
 [chapter3]: {{ 'bitcoin/lessons/ch3-00-technology' | absolute_url }}
-
-<!-- Twitter -->
-[dergigi]: https://twitter.com/dergigi
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
