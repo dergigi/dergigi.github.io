@@ -5,7 +5,13 @@ subtitle: Inflation
 categories: [bitcoin, lesson]
 ---
 
-
+> Alas! it was too late: she went on growing and growing, and very soon had to
+> kneel down: in another minute there was not room even for this, and she tried
+> the effect of lying down, with one elbow against the door, and the other arm
+> curled round her head. Still she went on growing, and as a last resource she
+> put one arm out of the window, and one foot up the chimney, and said to
+> herself "now I can do no more—what will become of me?"
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Trying to understand monetary inflation, and how a non-inflationary
 system like Bitcoin might change how we do things, was the starting
@@ -141,3 +147,7 @@ of hyperinflation.
 [by the laws of physics]: https://link.medium.com/9fzq2L0J3S
 [*Gold-to-Decent-Suit Ratio*]: https://www.businesswire.com/news/home/20110819005774/en/History-Shows-Price-Ounce-Gold-Equals-Price
 [The Bitcoin Standard]: https://thesaifhouse.wordpress.com/book/
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll
