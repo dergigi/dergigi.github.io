@@ -11,7 +11,7 @@
 <ul>
 {% for lesson in site.pages %}
   {% if lesson.categories contains 'lesson' and lesson.title contains 'Lesson ' %}
-    {% if lesson.title == skipUntil %}{% assign skipUntil = false %}{% endif %}
+    {% if lesson.title == skipUntil %}{% assign skipUntil = false %}{% continue %}{% endif %}
     {% if skipUntil %}{% continue %}{% endif %}
     <li>
       <a href="{{ lesson.path | remove: '.md' | absolute_url }}">
