@@ -10,7 +10,7 @@ categories: [bitcoin, lesson]
 > I got up this morning? I almost think I can remember feeling a little
 > different. But if I'm not the same, the next question is 'Who in the world am
 > I?' Ah, that's the great puzzle!”
-> <cite>[Friedrich Hayek][sly roundabout way]</cite>
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Bitcoin is inherently hard to describe. It is a *new thing*, and any
 attempt to draw a comparison to previous concepts --- be it by calling
