@@ -26,20 +26,22 @@ Each chapter is looking at Bitcoin through a different lens, extracting what
 lessons can be learned by looking at this strange network from a different
 angle.
 
-Chapter 1 explores the philosophical teachings of Bitcoin. The interplay of
-immutability and change, the concept of true scarcity, Bitcoin's immaculate
-conception, the problem of identity, the contradiction of replication and
-locality, the power of free speech, and the limits of knowledge.
+[Chapter 1][chapter1] explores the philosophical teachings of Bitcoin. The
+interplay of immutability and change, the concept of true scarcity, Bitcoin's
+immaculate conception, the problem of identity, the contradiction of replication
+and locality, the power of free speech, and the limits of knowledge.
 
-Chapter 2 explores the economic teachings of Bitcoin. Lessons about financial
-ignorance, inflation, value, money and the history of money, fractional reserve
-banking, and how Bitcoin is re-introducing sound money in a sly, roundabout way.
+[Chapter 2][chapter2] explores the economic teachings of Bitcoin. Lessons about
+financial ignorance, inflation, value, money and the history of money,
+fractional reserve banking, and how Bitcoin is re-introducing sound money in a
+sly, roundabout way.
 
-Chapter 3 explores some of the lessons related to the technology of Bitcoin. Why
-there is strength in numbers, reflections on trust, why telling time takes work,
-how moving slowly and not breaking things is a feature and not a bug, what
-Bitcoin's creation can tell us about privacy, why cypherpunks write code (and
-not laws), and what metaphors might be useful to explore Bitcoin's future.
+[Chapter 3][chapter3] explores some of the lessons related to the technology of
+Bitcoin. Why there is strength in numbers, reflections on trust, why telling
+time takes work, how moving slowly and not breaking things is a feature and not
+a bug, what Bitcoin's creation can tell us about privacy, why cypherpunks write
+code (and not laws), and what metaphors might be useful to explore Bitcoin's
+future.
 
 Even though some prior knowledge about Bitcoin is beneficial, I hope that these
 lessons can be digested by any curious reader. Each lesson stands on its own and
@@ -48,9 +50,9 @@ my best to shy away from technical jargon and everything else that makes things
 more difficult rather than easier to understand.
 
 My goal in writing this is not to convince you of anything. My goal is to make
-you think, and show you that Bitcoin is way more than meets the eye. I can't
-even tell you what Bitcoin is or what Bitcoin will teach you. You will have to
-find that out for yourself.
+you think, and show you that there is way more to Bitcoin than meets the eye. I
+can't even tell you what Bitcoin is or what Bitcoin will teach *you*. You will
+have to find that out for yourself.
 
 <!-- Internal -->
 [I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
@@ -59,6 +61,8 @@ find that out for yourself.
 [lesson1]: {{ 'bitcoin/lessons/ch1-01-immutability-and-change' | absolute_url }}
 [toc]: {{ 'bitcoin/lessons/ch0-01-table-of-contents' | absolute_url }}
 [chapter1]: {{ 'bitcoin/lessons/ch1-00-philosophy' | absolute_url }}
+[chapter2]: {{ 'bitcoin/lessons/ch2-00-economics' | absolute_url }}
+[chapter3]: {{ 'bitcoin/lessons/ch3-00-technology' | absolute_url }}
 
 <!-- Twitter -->
 [dergigi]: https://twitter.com/dergigi
