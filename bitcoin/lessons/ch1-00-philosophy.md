@@ -11,6 +11,8 @@ categories: [bitcoin, lesson]
 
 {% include lesson-list.html chapter="1"%}
 
+TODO: Chapter introduction
+
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
 [carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll
