@@ -5,7 +5,8 @@ subtitle: Fractional Reserve Insanity
 categories: [bitcoin, lesson]
 ---
 
-
+> "We must burn the house down!"
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Value and money aren't trivial topics, especially in today's times. The
 process of money creation in our banking system is equally non-trivial,
@@ -105,3 +106,7 @@ Bitcoin taught me that fractional reserve banking is pure insanity.
 [auditability]: https://i.ytimg.com/vi/ThFGs347MW8/maxresdefault.jpg
 [Keynesian]: https://en.wikipedia.org/wiki/Keynesian_economics
 [Austrian]: https://en.wikipedia.org/wiki/Austrian_School
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll
