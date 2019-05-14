@@ -36,12 +36,12 @@ financial ignorance, inflation, value, money and the history of money,
 fractional reserve banking, and how Bitcoin is re-introducing sound money in a
 sly, roundabout way.
 
-[Chapter 3][chapter3] explores some of the lessons related to the technology of
-Bitcoin. Why there is strength in numbers, reflections on trust, why telling
-time takes work, how moving slowly and not breaking things is a feature and not
-a bug, what Bitcoin's creation can tell us about privacy, why cypherpunks write
-code (and not laws), and what metaphors might be useful to explore Bitcoin's
-future.
+[Chapter 3][chapter3] explores some of the lessons learned by examining the
+technology of Bitcoin.  Why there is strength in numbers, reflections on trust,
+why telling time takes work, how moving slowly and not breaking things is a
+feature and not a bug, what Bitcoin's creation can tell us about privacy, why
+cypherpunks write code (and not laws), and what metaphors might be useful to
+explore Bitcoin's future.
 
 Even though some prior knowledge about Bitcoin is beneficial, I hope that these
 lessons can be digested by any curious reader. Each lesson stands on its own and
