@@ -9,50 +9,48 @@ categories: [bitcoin, lesson]
 > "You must be," said the Cat, "or you wouldn’t have come here.”
 > <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
-The following lessons are extracted from three long-form articles I have written
-over the course of several months. My journey down the rabbit hole started long
-before I started writing about Bitcoin. And since these lessons are a reflection
-of my personal experience and my memory isn't perfect, I don't claim that they
-are universal or complete. I hope, however, that they are instructive. Or at
-least interesting at times.
+The following lessons are, obviously, about Bitcoin. However, while some of the
+inner workings of Bitcoin are explained, what follows is not an explanation of
+how Bitcoin works or what it is. It is a place to explore some of the things
+Bitcoin touches: philosophical questions, economic realities, and technological
+innovations.
 
-Falling down the Bitcoin rabbit hole is a strange experience. It is quite
-fascinating where simple questions like "What is money?" can lead you. The
-modern equivalent is, of course, the following: "What is Bitcoin?" Exploring
-this question with curiosity will lead you to strange places and even stranger
-conclusions.
+There certainly are better points of entry if you have never heard about Bitcoin
+before. Great books have been written, videos have been made, courses have been
+created. However, there is no "right way" to learn about Bitcoin. So if you are
+new and ended up here, that's fine! I hope some of these lessons will be useful
+to you.
 
-Bitcoin touches everything from cryptography (based in mathematics and physics)
-to economics, politics, game theory, computer science, and so much more. You
-will learn about money and its history, micro- and macro-economics, distributed
-and centralized systems, as well as Schelling points and points on elliptic
-curves. The list of topics is almost endless, as is the list of relevant
-literature.
+The 21 lessons are structured in bundles of seven, resulting in three chapters.
+Each chapter is looking at Bitcoin through a different lens, extracting what
+lessons can be learned by looking at this strange network from a different
+angle.
 
-What follows is an account of my own journey down the rabbit hole. A journey
-which is still ongoing, which is why these lessons might be updated from time to
-time. I plan to expand on some topics in more detail, as I have done by writing
-about [Bitcoin's Gravity][gravity] which expands on the main idea in [Lesson
-1][lesson1].
+Chapter 1 explores the philosophical teachings of Bitcoin. The interplay of
+immutability and change, the concept of true scarcity, Bitcoin's immaculate
+conception, the problem of identity, the contradiction of replication and
+locality, the power of free speech, and the limits of knowledge.
 
-First published as a three-part article series titled [“What I’ve Learned From
-Bitcoin,”][I] the lessons are still roughly grouped into three chapters:
-philosophy, economics, and technology. Each chapter contains seven lessons
-learned, resulting in the following 21:
+Chapter 2 explores the economic teachings of Bitcoin. Lessons about financial
+ignorance, inflation, value, money and the history of money, fractional reserve
+banking, and how Bitcoin is re-introducing sound money in a sly, roundabout way.
 
-{% include lesson-list.html %}
+Chapter 3 explores some of the lessons related to the technology of Bitcoin. Why
+there is strength in numbers, reflections on trust, why telling time takes work,
+how moving slowly and not breaking things is a feature and not a bug, what
+Bitcoin's creation can tell us about privacy, why cypherpunks write code (and
+not laws), and what metaphors might be useful to explore Bitcoin's future.
 
-Alright, enough about how all this came to be. Start with [Chapter I][chapter1]
-if you are sequentialist. Or jump around if that's your thing. I don't judge.
-The lessons are mostly independent chunks and the order doesn't really matter
-too much. Also, don't despair if you are feeling lost. There is a link to the
-[Table of Contents][toc] at the top and bottom of each page.
+Even though some prior knowledge about Bitcoin is beneficial, I hope that these
+lessons can be digested by any curious reader. Each lesson stands on its own and
+can be read independently. While some domain-specific vocabulary is used, I did
+my best to shy away from technical jargon and everything else that makes things
+more difficult rather than easier to understand.
 
-Have fun diving in! And if you find these lessons useful, or if you have other
-comments or suggestions of any kind, [I'd love to hear from you][contact].
-
-Safe journey,<br/>
-[Gigi][dergigi]
+My goal in writing this is not to convince you of anything. My goal is to make
+you think, and show you that Bitcoin is way more than meets the eye. I can't
+even tell you what Bitcoin is or what Bitcoin will teach you. You will have to
+find that out for yourself.
 
 <!-- Internal -->
 [I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
