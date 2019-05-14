@@ -9,12 +9,12 @@ categories: [bitcoin, lesson]
 > the little golden key, and unlocking the door that led into the garden
 > <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
-{% include lesson-list.html chapter="3"%}
-
 Bitcoin is both a social and a monetary phenomenon, but it is also a
-technological one. The intersection of many disciplines is what makes Bitcoin
-endlessly fascinating.
+technological one. While the intersection of many disciplines is what makes
+Bitcoin so special, Bitcoin's technology is endlessly fascinating in its own
+right.
 
+{% include lesson-list.html chapter="3"%}
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
