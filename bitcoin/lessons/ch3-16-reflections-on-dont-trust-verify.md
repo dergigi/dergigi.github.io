@@ -5,7 +5,8 @@ subtitle: Reflections on "Don't Trust, Verify"
 categories: [bitcoin, lesson]
 ---
 
-
+> "Now for the evidence," said the King, "and then the sentence."
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Bitcoin aims to replace, or at least provide an alternative to,
 conventional currency. Conventional currency is bound to a centralized
@@ -160,3 +161,7 @@ Bitcoin taught me not to trust, but to verify.
 [pull-request]: https://github.com/bitcoin/bitcoin/pull/15277
 [flip a coin]: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc#private-keys
 [Glacier]: https://glacierprotocol.org/
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll

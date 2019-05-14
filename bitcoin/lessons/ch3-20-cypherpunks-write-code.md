@@ -5,7 +5,8 @@ subtitle: Cypherpunks write code
 categories: [bitcoin, lesson]
 ---
 
-
+> "I see you're trying to invent something."
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Like many great ideas, Bitcoin didn't come out of nowhere. It was made
 possible by utilizing and combining many innovations and discoveries in
@@ -76,3 +77,7 @@ Bitcoin taught me that cypherpunks write code.
 [version 0.1.0]: https://bitcointalk.org/index.php?topic=68121.0
 [not to delay]: https://bitcointalk.org/index.php?topic=199.msg1670#msg1670
 [6]: http://www.metzdowd.com/pipermail/cryptography/2008-November/014832.html
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll

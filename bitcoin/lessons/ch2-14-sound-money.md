@@ -5,7 +5,10 @@ subtitle: Sound money
 categories: [bitcoin, lesson]
 ---
 
-
+> "The first thing I've got to do," said Alice to herself, as she wandered about
+> in the wood, "is to grow to my right size, and the second thing is to find my
+> way into that lovely garden. I think that will be the best plan."
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 The most important lesson I have learned from Bitcoin is that in the
 long run, hard money is superior to soft money. Hard money, also
@@ -190,3 +193,7 @@ Bitcoin taught me that me that sound money is essential.
 [much energy]: https://medium.com/@dergigi/bitcoins-energy-consumption-6dd7d7a2e463
 [universal speed limit]: https://en.wikipedia.org/wiki/Speed_of_light#Upper_limit_on_speeds
 [fair distribution]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll

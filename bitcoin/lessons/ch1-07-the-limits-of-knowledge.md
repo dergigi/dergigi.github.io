@@ -5,7 +5,8 @@ subtitle: The limits of knowledge
 categories: [bitcoin, lesson]
 ---
 
-
+> Down, down, down. Would the fall never come to an end?
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Getting into Bitcoin is a humbling experience. I thought that I knew
 things. I thought that I was educated. I thought that I knew my computer
@@ -33,3 +34,7 @@ Bitcoin taught me that I know very little about almost anything. It
 taught me that this rabbit hole is bottomless.
 
 [Jameson Lopp]: https://twitter.com/lopp/status/1061415918616698881
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll

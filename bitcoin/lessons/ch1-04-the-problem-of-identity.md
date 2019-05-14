@@ -5,7 +5,8 @@ subtitle: The problem of identity
 categories: [bitcoin, lesson]
 ---
 
-
+> "Who are you?" said the caterpillar.
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Nic Carter, in an homage to Thomas Nagel's treatment of the same
 question [in regards to a bat], wrote an excellent piece which discusses
@@ -49,3 +50,7 @@ Bitcoin taught me that decentralization contradicts identity.
 [What is it like to be a bitcoin?]: https://medium.com/s/story/what-is-it-like-to-be-a-bitcoin-56109f3e6753
 [Ship of Theseus]: https://en.wikipedia.org/wiki/Ship_of_Theseus
 [trolley problem]: https://en.wikipedia.org/wiki/Trolley_problem
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll

@@ -5,7 +5,12 @@ subtitle: The history and downfall of money
 categories: [bitcoin, lesson]
 ---
 
-
+> they would not remember the simple rules their friends had given them, such
+> as, that, if you get into the fire, it will burn you, and that, if you cut
+> your finger very deeply with a knife, it generally bleeds, and she had never
+> forgotten that, if you drink a bottle marked "poison," it is almost certain to
+> disagree with you, sooner or later.
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Many people think that money is backed by gold, which is locked away in
 big vaults, protected by thick
@@ -169,3 +174,7 @@ hand in the history of economics: fiat currency.
 [Berlin-George]: https://en.wikipedia.org/wiki/File:Bohemia,_Joachimsthaler_1525_Electrotype_Copy._VF._Obverse..jpg
 [silver certificates]: https://en.wikipedia.org/wiki/Silver_certificate_%28United_States%29
 [bimetallic standard]: https://en.wikipedia.org/wiki/Bimetallism
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll

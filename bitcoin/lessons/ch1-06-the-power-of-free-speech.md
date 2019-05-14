@@ -5,7 +5,9 @@ subtitle: The power of free speech
 categories: [bitcoin, lesson]
 ---
 
-
+> "I beg your pardon?" said the mouse, frowning, but very politely, "did you
+> speak?"
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Bitcoin is an idea. An idea which, in its current form, is the
 manifestation of a machinery purely powered by text. Every aspect of
@@ -47,3 +49,7 @@ are unstoppable.
 [illegal numbers]: https://en.wikipedia.org/wiki/Illegal_number
 [illegal primes]: https://en.wikipedia.org/wiki/Illegal_prime
 [Beautyon]: https://hackernoon.com/why-america-cant-regulate-bitcoin-8c77cee8d794
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll

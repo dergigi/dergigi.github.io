@@ -5,7 +5,9 @@ subtitle: بيتكوين
 categories: [bitcoin, lesson]
 ---
 
-
+> These words were followed by a very long silence, broken only by an occasional
+> exclamation of "hjckrrh!"
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 ### Translations
 
@@ -21,3 +23,7 @@ categories: [bitcoin, lesson]
 [andywan]: https://twitter.com/andywan
 [Camilo]: https://twitter.com/CamiloJdL
 [deniz]: https://twitter.com/deniz_zgur
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll

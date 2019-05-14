@@ -5,7 +5,9 @@ subtitle: Financial ignorance
 categories: [bitcoin, lesson]
 ---
 
-
+> "and what an ignorant little girl she'll think me for asking! No, it'll never
+> do to ask: perhaps I shall see it written up somewhere."
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 One of the most surprising things, to me, was the amount of finance,
 economics, and psychology required to get a grasp of what at first
@@ -90,3 +92,7 @@ ignorance.
 [Robert Kiyosaki]: https://www.youtube.com/watch?v=vkCXytxwH-M
 [real wizardry]: https://external-preview.redd.it/8d03MWWOf2HIyKrT8ThBGO4WFv-u25JaYqhbEO9b1Sk.jpg?width=683&auto=webp&s=dc5922d84717c6a94527bafc0189fd4ca02a24bb
 [visible to anyone]: https://github.com/bitcoin/bitcoin
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll

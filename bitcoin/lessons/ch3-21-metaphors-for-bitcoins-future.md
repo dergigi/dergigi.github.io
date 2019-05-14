@@ -5,7 +5,8 @@ subtitle: Metaphors for Bitcoin's future
 categories: [bitcoin, lesson]
 ---
 
-
+> "I know something interesting is sure to happen"
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 In the last couple of decades, it became apparent that technological
 innovation does not follow a linear trend. Whether you believe in the
@@ -142,3 +143,7 @@ understanding its future. A future which is just beginning.
 [Jameson Lopp]: https://twitter.com/lopp/status/1077200836072296449
 [*The Internet of Money*]: https://theinternetofmoney.info/
 [stacking]: https://twitter.com/hashtag/stackingsats
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll

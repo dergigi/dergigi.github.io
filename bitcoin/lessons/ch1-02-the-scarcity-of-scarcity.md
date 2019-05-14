@@ -5,9 +5,8 @@ subtitle: The scarcity of scarcity
 categories: [bitcoin, lesson]
 ---
 
-
-
-## Lesson 2: The scarcity of scarcity
+> "That's quite enough — I hope I sha'n't grow any more"
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 In general, the advance of technology seems to make things more
 abundant. More and more people are able to enjoy what previously have
@@ -38,3 +37,7 @@ In a time of abundance, Bitcoin taught me what real scarcity is.
 
 [Abundance]: https://www.diamandis.com/abundance
 [Saifedean Ammous]: https://www.bayernlb.de/internet/media/de/ir/downloads_1/bayernlb_research/sonderpublikationen_1/bitcoin_munich_may_28.pdf
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll

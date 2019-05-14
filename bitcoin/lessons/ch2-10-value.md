@@ -5,7 +5,9 @@ subtitle: Value
 categories: [bitcoin, lesson]
 ---
 
-
+> It was the white rabbit, trotting slowly back again, and looking anxiously
+> about it as it went, as if it had lost something
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Value is somewhat paradoxical, and there are [multiple theories] which
 try to explain why we value certain things over other things. People
@@ -47,3 +49,7 @@ Bitcoin taught me that value is subjective but not arbitrary.
 [Plato]: http://www.perseus.tufts.edu/hopper/text?doc=plat.+euthyd.+304b
 [paradox of value]: https://en.wikipedia.org/wiki/Paradox_of_value
 [subjective]: https://en.wikipedia.org/wiki/Subjective_theory_of_value
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll

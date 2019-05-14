@@ -5,7 +5,8 @@ subtitle: Replication and locality
 categories: [bitcoin, lesson]
 ---
 
-
+> Next came an angry voice—the rabbit's—"Pat, Pat! where are you?"
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Quantum mechanics aside, locality is a non-issue in the physical world.
 The question *"Where is X?"* can be answered in a meaningful way, no
@@ -57,3 +58,7 @@ Bitcoin taught me that locality is a tricky business.
 [1st Amendment]: https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution
 [Peter Van Valkenburgh]: https://www.whatbitcoindid.com/podcast/coin-centers-peter-van-valkenburg-on-preserving-the-freedom-to-innovate-with-public-blockchains
 [a magic spell]: {% post_url /bitcoin/2018-08-17-the-magic-dust-of-cryptography %}  
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll

@@ -5,7 +5,8 @@ subtitle: Telling time takes work
 categories: [bitcoin, lesson]
 ---
 
-
+> "Dear, dear! I shall be too late!"
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 It is often said that bitcoins are mined because thousands of computers
 work on solving *very complex* mathematical problems. Certain problems
@@ -78,3 +79,7 @@ decentralized.
 [points out]: https://grisha.org/blog/2018/01/23/explaining-proof-of-work/
 [energy]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
 [whitepaper]: https://bitcoin.org/bitcoin.pdf
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll

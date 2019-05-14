@@ -3,6 +3,25 @@ layout: lesson
 title: Preface
 categories: [bitcoin, lesson]
 ---
+
+
+> “Little Alice fell
+>
+> d
+>
+> o
+>
+> w
+>
+> n
+>
+> the hOle,
+>
+> bumped her head
+>
+> and bruised her soul”
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
+
 Falling down the Bitcoin rabbit hole is a strange experience. Like many others,
 I feel like I have learned more in the last couple of years studying Bitcoin
 than I have during two decades of formal education.
@@ -36,3 +55,7 @@ them by reading won't be as arduous and painful as learning them firsthand.
 
 <!-- Twitter -->
 [dergigi]: https://twitter.com/dergigi
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll
