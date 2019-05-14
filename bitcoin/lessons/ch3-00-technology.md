@@ -5,7 +5,9 @@ subtitle: Technology
 categories: [bitcoin, lesson]
 ---
 
-
+> "now, I'll manage better this time" she said to herself, and began by taking
+> the little golden key, and unlocking the door that led into the garden
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 What is Bitcoin? The many answers to this question are as interesting as they
 are varied. Bitcoin is both a social and a monetary phenomenon, but it is also a
@@ -43,3 +45,7 @@ own universe, the expansion seems to be accelerating.
 [chapter1]: {{ 'bitcoin/lessons/ch1-00-philosophy' | absolute_url }}
 [chapter2]: {{ 'bitcoin/lessons/ch2-00-economy' | absolute_url }}
 [chapter3]: {{ 'bitcoin/lessons/ch3-00-technology' | absolute_url }}
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll
