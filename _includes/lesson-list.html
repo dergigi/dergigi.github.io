@@ -1,3 +1,11 @@
+{% case include.chapter %}
+{% when '1' %}
+{% assign breakAfter = "Lesson 7" %}
+{% when '2' %}
+{% assign breakAfter = "Lesson 14" %}
+{% when '3' %}
+{% assign breakAfter = "Lesson 21" %}
+{% endcase %}
 <ul>
 {% for lesson in site.pages %}
   {% if lesson.categories contains 'lesson' and lesson.title contains 'Lesson ' %}
@@ -6,6 +14,7 @@
         {{ lesson.title }}: {{ lesson.subtitle }}
       </a>
     </li>
+    {% if lesson.title == breakAfter %}{% break %}{% endif %}
   {% endif %}
 {% endfor %}
 </ul>
