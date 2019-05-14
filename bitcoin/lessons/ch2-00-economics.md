@@ -5,7 +5,10 @@ subtitle: Economics
 categories: [bitcoin, lesson]
 ---
 
-
+> A large rose tree stood near the entrance of the garden: the roses on it were
+> white, but there were three gardeners at it, busily painting them red. This
+> Alice thought a very curious thing
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Money doesn’t grow on trees. To believe that it does is foolish, and our
 parents make sure that we know about that by repeating this saying like a
@@ -51,3 +54,7 @@ time. Final destination: [sound money][lesson14].
 
 [the question]: https://twitter.com/arjunblj/status/1050073234719293440
 [lesson14]: {{ 'bitcoin/lessons/ch2-14-sound-money' | absolute_url }}
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll
