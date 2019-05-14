@@ -5,6 +5,10 @@ subtitle: Philosophy
 categories: [bitcoin, lesson]
 ---
 
+> The mouse looked at her rather inquisitively, and seemed to her to wink with
+> one of its little eyes, but it said nothing.
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
+
 Some questions have easy answers. "What have you learned from Bitcoin?"
 isn't one of them. After trying to answer this question in a short
 tweet, and failing miserably, I realized that the things I've
@@ -38,3 +42,7 @@ enough, and Bitcoin will completely change your worldview.
 
 [Morpheus]: https://en.wikipedia.org/wiki/Red_pill_and_blue_pill#The_Matrix_(1999)
 [this question]: https://twitter.com/arjunblj/status/1050073234719293440
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll
