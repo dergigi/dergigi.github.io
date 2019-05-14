@@ -54,10 +54,9 @@ After seven lessons examined through the lens of philosophy, let’s use the
 lens of economics to look at seven more. I hope that you will find the world
 of Bitcoin as educational, fascinating and entertaining as I did and still do.
 In any case, hop on and enjoy the ride. Economy class is all I can offer this
-time. Final destination: [sound money][lesson14].
+time. Final destination: **sound money**.
 
 [the question]: https://twitter.com/arjunblj/status/1050073234719293440
-[lesson14]: {{ 'bitcoin/lessons/ch2-14-sound-money' | absolute_url }}
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
