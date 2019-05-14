@@ -5,7 +5,8 @@ subtitle: An immaculate conception
 categories: [bitcoin, lesson]
 ---
 
-
+> "Their heads are gone," the soldiers shouted in reply, "if it please your Majesty!"
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Everyone loves a good origin story. The origin story of Bitcoin is a
 fascinating one, and the details of it are more important than one might
@@ -44,3 +45,7 @@ Bitcoin taught me that narratives are important.
 
 [Jimmy Song]: https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947
 [Gold: The Extraordinary Metal]: https://www.muenzeoesterreich.at/eng/discover/for-investors/gold-the-extraordinary-metal
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll
