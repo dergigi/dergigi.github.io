@@ -7,8 +7,6 @@ categories: [bitcoin, lesson]
 
 
 
-## Lesson 2: The scarcity of scarcity
-
 In general, the advance of technology seems to make things more
 abundant. More and more people are able to enjoy what previously have
 been luxurious goods. Soon, we will all live like kings. Most of us
