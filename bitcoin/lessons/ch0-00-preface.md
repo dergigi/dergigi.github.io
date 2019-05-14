@@ -40,10 +40,20 @@ have to be backward compatible. Some lessons might be extended, others might be
 reworked or replaced. I hope that version three will be something you can hold
 in your hands, but I don't want to promise anything just yet.
 
-Although my writing is intended to inform and educate, I hope that it also
-serves as inspiration for others to dig beneath the surface and examine some of
-the deeper questions Bitcoin raises. My own inspiration came from a multitude of
-authors and content creators to all of whom I am eternally grateful.
+Even though some prior knowledge about Bitcoin is beneficial, I hope that these
+lessons can be digested by any curious reader. Each lesson stands on its own and
+can be read independently. While some domain-specific vocabulary is used, I did
+my best to shy away from technical jargon and everything else that makes things
+more difficult rather than easier to understand. Although my writing is intended
+to inform and educate, I hope that it also serves as inspiration for others to
+dig beneath the surface and examine some of the deeper questions Bitcoin raises.
+My own inspiration came from a multitude of authors and content creators to all
+of whom I am eternally grateful.
+
+My goal in writing this is not to convince you of anything. My goal is to make
+you think, and show you that there is way more to Bitcoin than meets the eye. I
+can't even tell you what Bitcoin is or what Bitcoin will teach you. *You* will
+have to find that out for yourself.
 
 I hope that you will find these lessons useful and that the process of learning
 them by reading won't be as arduous and painful as learning them firsthand.  

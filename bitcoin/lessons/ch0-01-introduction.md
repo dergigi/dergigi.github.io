@@ -16,7 +16,7 @@ how Bitcoin works or what it is. It is a place to explore some of the things
 Bitcoin touches: philosophical questions, economic realities, and technological
 innovations.
 
-There certainly are better points of entry if you have never heard about Bitcoin
+There are probably better points of entry if you have never heard about Bitcoin
 before. Great books have been written, videos have been made, courses have been
 created. However, there is no "right way" to learn about Bitcoin. So if you are
 new and ended up here, that's fine! I hope some of these lessons will be useful
@@ -44,16 +44,29 @@ feature and not a bug, what Bitcoin's creation can tell us about privacy, why
 cypherpunks write code (and not laws), and what metaphors might be useful to
 explore Bitcoin's future.
 
-Even though some prior knowledge about Bitcoin is beneficial, I hope that these
-lessons can be digested by any curious reader. Each lesson stands on its own and
-can be read independently. While some domain-specific vocabulary is used, I did
-my best to shy away from technical jargon and everything else that makes things
-more difficult rather than easier to understand.
+In October 2010, Arjun Balaji asked the innocuous question, [*What have you
+learned from Bitcoin?*][this question] After trying to answer this question in a
+short tweet, and failing miserably, I realized that the things I've learned are
+far too numerous to answer quickly, if at all. I also realized that any set of
+answers to this question will be different for everyone --- a reflection of the
+very personal journey through the wonderful world of Bitcoin. Hence, the
+subtitle is *What I've Learned From Falling Down The Bitcoin Rabbit Hole*, with
+which I want to acknowledge the inherent personal bias of answering a question
+like this.
 
-My goal in writing this is not to convince you of anything. My goal is to make
-you think, and show you that there is way more to Bitcoin than meets the eye. I
-can't even tell you what Bitcoin is or what Bitcoin will teach you. *You* will
-have to find that out for yourself.
+Attempting to answer this question fully is a fool's errand, thus my answers
+will always be incomplete.
+
+> "After this, there is no turning back. You take the blue pill --- the
+> story ends, you wake up in your bed and believe whatever you want to
+> believe. You take the red pill --- you stay in Wonderland, and I show
+> you how deep the rabbit hole goes."
+> <cite>[Morpheus][Morpheus]</cite>
+
+{% include image.html otherPost="2018-12-21-philosophical-teachings-of-bitcoin" name="bitcoin-orange-pill.jpg" %}
+
+[Morpheus]: https://en.wikipedia.org/wiki/Red_pill_and_blue_pill#The_Matrix_(1999)
+[this question]: https://twitter.com/arjunblj/status/1050073234719293440
 
 <!-- Internal -->
 [chapter1]: {{ 'bitcoin/lessons/ch1-00-philosophy' | absolute_url }}
