@@ -3,7 +3,7 @@ layout: lesson
 title: Chapter I
 subtitle: Philosophy
 image: /assets/images/btc03-the-school-of-bitcoin.jpg
-categories: [bitcoin, trash]
+categories: [bitcoin, lesson]
 ---
 
 Some questions have easy answers. "What have you learned from Bitcoin?"
