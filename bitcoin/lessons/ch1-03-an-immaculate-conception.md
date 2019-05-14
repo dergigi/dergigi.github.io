@@ -5,7 +5,7 @@ subtitle: An immaculate conception
 categories: [bitcoin, lesson]
 ---
 
-> "Their heads are gone," the soldiers shouted in reply, "if it please your Majesty!"
+> "Their heads are gone," the soldiers shouted in reply
 > <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Everyone loves a good origin story. The origin story of Bitcoin is a
