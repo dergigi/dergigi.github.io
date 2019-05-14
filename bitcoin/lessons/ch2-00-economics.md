@@ -10,6 +10,8 @@ categories: [bitcoin, lesson]
 > Alice thought a very curious thing
 > <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
+{% include lesson-list.html chapter="2"%}
+
 Money doesn’t grow on trees. To believe that it does is foolish, and our
 parents make sure that we know about that by repeating this saying like a
 mantra. We are encouraged to use money wisely, to not spend it frivolously,
