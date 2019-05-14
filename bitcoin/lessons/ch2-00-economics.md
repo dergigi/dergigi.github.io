@@ -2,7 +2,6 @@
 layout: lesson
 title: Chapter II
 subtitle: Economics
-image: /assets/images/btc04-the-garden-of-bitcoin.jpg
 categories: [bitcoin, lesson]
 ---
 
