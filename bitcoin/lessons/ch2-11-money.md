@@ -5,7 +5,14 @@ subtitle: Money
 categories: [bitcoin, lesson]
 ---
 
-
+> "In my youth," said the sage, as he shook his gray locks,
+>
+>"I kept all my limbs very supple,
+>
+> By the use of this ointment, five shillings the box—
+>
+> Allow me to sell you a couple."
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 What is money? We use it every day, yet this question is surprisingly
 difficult to answer. We are dependent on it in ways big and small, and
@@ -85,3 +92,7 @@ Bitcoin taught me what money is.
 [Nick Szabo]: http://unenumerated.blogspot.com/
 [*Shelling Out: The Origins of Money*]: https://nakamotoinstitute.org/shelling-out/
 [Ron Paul]: http://endthefed.org/books/
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll
