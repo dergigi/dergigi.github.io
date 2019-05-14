@@ -6,6 +6,11 @@ categories: [bitcoin, lesson]
 ---
 
 
+> “I wonder if I've been changed in the night. Let me think. Was I the same when
+> I got up this morning? I almost think I can remember feeling a little
+> different. But if I'm not the same, the next question is 'Who in the world am
+> I?' Ah, that's the great puzzle!”
+> <cite>[Friedrich Hayek][sly roundabout way]</cite>
 
 Bitcoin is inherently hard to describe. It is a *new thing*, and any
 attempt to draw a comparison to previous concepts --- be it by calling
@@ -67,3 +72,7 @@ Bitcoin taught me that it won't change. I will.
 [Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
 [Marty Bent]: https://twitter.com/martybent
 [changing people's diets]: https://motherboard.vice.com/en_us/article/ne74nw/inside-the-world-of-the-bitcoin-carnivores
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll
