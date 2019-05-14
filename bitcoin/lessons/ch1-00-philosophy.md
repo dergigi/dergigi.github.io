@@ -9,6 +9,7 @@ categories: [bitcoin, lesson]
 > one of its little eyes, but it said nothing.
 > <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
+{% include lesson-list.html chapter="1"%}
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
