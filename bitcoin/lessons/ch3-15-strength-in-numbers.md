@@ -5,7 +5,10 @@ subtitle: Strength in numbers
 categories: [bitcoin, lesson]
 ---
 
-
+> "Let me see: four times five is twelve, and four times six is thirteen, and
+> four times seven is fourteen—oh dear! I shall never get to twenty at this
+> rate!"
+> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Numbers are an essential part of our everyday life. Large numbers,
 however, aren't something most of us are too familiar with. The largest
@@ -170,3 +173,7 @@ Bitcoin taught me that there is strength in numbers.
 [P actually equals NP]: https://en.wikipedia.org/wiki/P_versus_NP_problem#P_=_NP
 [specific problems]: https://en.wikipedia.org/wiki/Discrete_logarithm#Cryptography
 [epii]: https://bitcointalk.org/index.php?topic=4994.msg140770#msg140770
+
+<!-- Wikipedia -->
+[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
+[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll
