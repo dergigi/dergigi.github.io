@@ -518,9 +518,14 @@ planted a seed of conviction in you as well.
 
 - [Turkish translation] by [@deniz_zgur][deniz]
 
-<!-- Translations -->
+### Audio Version
+
+- [Bitcoin's Gravity][audio-version] read by [Guy] from [cryptoconomy.life]
+
+<!-- Translations and Audio version -->
 [Turkish translation]: https://medium.com/@denizozzgur/bitcoinin-%C3%A7ekim-yasas%C4%B1-1dbe3e8698af
-[deniz]: https://twitter.com/deniz_zgur
+[audio-version]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_245---Bitcoins-Gravity-e3urjl
+[cryptoconomy.life]: https://cryptoconomy.life/
 
 <!-- cc-by -->
 [fxemoji]: https://github.com/mozilla/fxemoji
@@ -539,6 +544,8 @@ planted a seed of conviction in you as well.
 [Nathaniel Whittemore]: https://twitter.com/nlw
 [Dan Held]: https://twitter.com/danheld
 [Ben Prentice]: https://twitter.com/mrcoolbp
+[deniz]: https://twitter.com/deniz_zgur
+[Guy]: https://twitter.com/TheCryptoconomy
 
 <!-- References -->
 [social-contract]: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
