@@ -52,7 +52,7 @@ Bitcoin taught me that decentralization contradicts identity.
 
 - [What Is It Like to be a Bat?][in regards to a bat] by Thomas Nagel
 - [What is it like to be a bitcoin?] by Nic Carter
-- Wikipedia: The [Ship of Theseus] and the [trolley problem]
+- [Ship of Theseus], [trolley problem] on Wikipedia
 
 [in regards to a bat]: https://en.wikipedia.org/wiki/What_Is_it_Like_to_Be_a_Bat%3F
 [What is it like to be a bitcoin?]: https://medium.com/s/story/what-is-it-like-to-be-a-bitcoin-56109f3e6753

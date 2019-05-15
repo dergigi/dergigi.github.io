@@ -64,7 +64,6 @@ Bitcoin taught me that locality is a tricky business.
 
 - [Where Am I?][Daniel Dennett] by Daniel Dennett
 - Coin Center's Peter Van Valkenburg on [Preserving the Freedom to Innovate with Public Blockchains][Peter Van Valkenburgh] hosted by Peter McCormack
-- Wikipedia: [First Amendment to the United States Constitution][1st Amendment]
 
 <!-- Through the Looking-Glass -->
 [a magic spell]: {% post_url /bitcoin/2018-08-17-the-magic-dust-of-cryptography %}  
