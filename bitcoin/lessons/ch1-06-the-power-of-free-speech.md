@@ -44,6 +44,21 @@ As long as there is a part of the world where speech is free as in
 Bitcoin taught me that in a free society, free speech and free software
 are unstoppable.
 
+---
+
+#### Through the Looking-Glass
+
+- [The Magic Dust of Cryptography: How digital information is changing our society][a magic spell]
+
+#### Down the Rabbit Hole
+
+- [Why America can't regulate Bitcoin][Beautyon] by Beautyon
+- [First Amendment to the United States Constitution][1st Amendment], [Crypto Wars], [illegal numbers], [illegal primes] on Wikipedia
+
+<!-- Through the Looking-Glass -->
+[a magic spell]: {% post_url /bitcoin/2018-08-17-the-magic-dust-of-cryptography %}  
+
+<!-- Down the Rabbit Hole -->
 [1st Amendment]: https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution
 [Crypto Wars]: https://en.wikipedia.org/wiki/Crypto_Wars
 [illegal numbers]: https://en.wikipedia.org/wiki/Illegal_number
