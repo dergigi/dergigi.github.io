@@ -71,12 +71,12 @@ Bitcoin taught me that it won't change. I will.
 
 #### Through the Looking-Glass
 
-- [Bitcoin's Gravity][gravity] - How idea-value feedback loops are pulling people in
+- [Bitcoin's Gravity: How idea-value feedback loops are pulling people in][gravity]
 
 #### Down the Rabbit Hole
 
-- [Unpacking Bitcoin's Social Contract][automated social contract] - A framework for skeptics by [Hasu]
-- [Inside the World of the Bitcoin Carnivores][carnivores]
+- [Unpacking Bitcoin's Social Contract][automated social contract]: A framework for skeptics by [Hasu]
+- [Inside the World of the Bitcoin Carnivores][carnivores]: Why a small community of Bitcoin users is eating meat exclusively by Jordan Pearson
 
 <!-- Internal -->
 [gravity]: {% post_url /bitcoin/2019-05-01-bitcoins-gravity %}
