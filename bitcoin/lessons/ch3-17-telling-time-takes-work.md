@@ -76,6 +76,17 @@ Validation, not computation. Time, not blocks.
 Bitcoin taught me that telling the time is tricky, especially if you are
 decentralized.
 
+---
+
+#### Through the Looking-Glass
+
+- [Bitcoin's Energy Consumption: A shift in perspective][energy]
+
+#### Down the Rabbit Hole
+
+- [The Bitcoin whitepaper][whitepaper] by Satoshi Nakamoto
+- [Blockchain Proof-of-Work Is a Decentralized Clock][points out] by Gregory Trubetskoy
+
 [points out]: https://grisha.org/blog/2018/01/23/explaining-proof-of-work/
 [energy]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
 [whitepaper]: https://bitcoin.org/bitcoin.pdf
