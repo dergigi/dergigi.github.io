@@ -93,7 +93,7 @@ will eventually have to level off or suffer from catastrophic collapse.
 
 "It can't happen in my country," is what you're probably thinking. You
 don't think that if you are from Venezuela, which is [currently
-suffering] from hyperinflation. With an inflation rate of over 1 million
+suffering][wiki-venezuela] from hyperinflation. With an inflation rate of over 1 million
 percent, money is basically worthless.
 
 It might not happen in the next couple of years, or to the particular
@@ -137,11 +137,24 @@ matter the outcome.
 Bitcoin taught me about the hidden tax of inflation and the catastrophe
 of hyperinflation.
 
-[Henry Hazlitt]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwi058KmgNrfAhWHneAKHbmCDFUQFjACegQIExAC&url=https%3A%2F%2Fmises.org%2Fsystem%2Ftdf%2FHenry%2520Hazlitt%2520Economics%2520in%2520One%2520Lesson.pdf%3Ffile%3D1%26type%3Ddocument&usg=AOvVaw0_kRtaNPMez0UdYGsrKThv
+---
+
+#### Down the Rabbit Hole
+
+- [Economics in One Lesson][Henry Hazlitt] by Henry Hazlitt
+- [1980's Unemployment and the Unions][unions] by Friedrich Hayek
+- [Good Money, Part II][good-money]: Volume Six of the Collected Works of F.A. Hayek
+- [The Bitcoin Standard] by Saifedean Ammous
+- [Hyperinflation][hyperinflates], [economic crisis in Venezuela][wiki-venezuela], [list of historical currencies], [list of currencies][currently in use] on Wikipedia
+
+[unions]: https://books.google.com/books/about/1980s_unemployment_and_the_unions.html?id=xM9CAQAAIAAJ
+[good-money]: https://books.google.com/books?id=l_A1vVIaYBYC
+
+[Henry Hazlitt]: https://mises.org/library/economics-one-lesson
 [hyperinflates]: https://en.wikipedia.org/wiki/Hyperinflation
 [inflation cannot help]: https://books.google.com/books?id=zZu3AAAAIAAJ&dq=%22only+while+it+accelerates%22&focus=searchwithinvolume&q=%22steady+inflation+cannot+help%22
 [history of inflation]: https://books.google.com/books?id=l_A1vVIaYBYC&pg=PA142&dq=%22history+is+largely+a+history+of+inflation%22&hl=en&sa=X&ved=0ahUKEwi90NDLrdnfAhUprVkKHUx1CmIQ6AEIKjAA#v=onepage&q=%22history%20is%20largely%20a%20history%20of%20inflation%22&f=false
-[currently suffering]: https://en.wikipedia.org/wiki/Crisis_in_Venezuela#Economic_crisis
+[wiki-venezuela]: https://en.wikipedia.org/wiki/Crisis_in_Venezuela#Economic_crisis
 [list of historical currencies]: https://en.wikipedia.org/wiki/List_of_historical_currencies
 [currently in use]: https://en.wikipedia.org/wiki/List_of_currencies
 [by the laws of physics]: https://link.medium.com/9fzq2L0J3S
