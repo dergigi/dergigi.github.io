@@ -28,7 +28,7 @@ than I have during two decades of formal education.
 
 The following lessons are a distillation of what I’ve learned. First published
 as an article series titled [“What I’ve Learned From Bitcoin,”][I] what follows
-is something like a second edition of the original series.
+can be seen as a second edition of the original series.
 
 Like Bitcoin, these lessons should not be seen as a static thing. I plan to work
 on them periodically, releasing updated versions in the future. I hope that this
