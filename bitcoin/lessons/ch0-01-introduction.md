@@ -16,11 +16,11 @@ how Bitcoin works or what it is. It is a place to explore some of the things
 Bitcoin touches: philosophical questions, economic realities, and technological
 innovations.
 
-There are probably better points of entry if you have never heard about Bitcoin
-before. Great books have been written, videos have been made, courses have been
-created. However, there is no "right way" to learn about Bitcoin. So if you are
-new and ended up here, that's fine! I hope some of these lessons will be useful
-to you.
+There are better points of entry if you have never heard about Bitcoin before
+and want to know how it work. Great books have been written, videos have been
+made, courses have been created. However, there is no "right way" to learn about
+Bitcoin. So if you are new and ended up here, that's fine! I hope some of these
+lessons will be useful to you.
 
 The 21 lessons are structured in bundles of seven, resulting in three chapters.
 Each chapter is looking at Bitcoin through a different lens, extracting what
