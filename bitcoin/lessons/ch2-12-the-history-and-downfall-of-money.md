@@ -181,6 +181,7 @@ hand in the history of economics: fiat currency.
 [Berlin-George]: https://en.wikipedia.org/wiki/File:Bohemia,_Joachimsthaler_1525_Electrotype_Copy._VF._Obverse..jpg
 [silver certificates]: https://en.wikipedia.org/wiki/Silver_certificate_%28United_States%29
 [bimetallic standard]: https://en.wikipedia.org/wiki/Bimetallism
+[Shelling Out: The Origins of Money]: https://nakamotoinstitute.org/shelling-out/
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
