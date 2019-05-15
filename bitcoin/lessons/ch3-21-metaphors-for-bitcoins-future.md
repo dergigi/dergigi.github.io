@@ -126,17 +126,26 @@ it.
 Bitcoin taught me that understanding the past is essential to
 understanding its future. A future which is just beginning.
 
+---
+
+#### Down the Rabbit Hole
+
+- [The Rising Speed of Technological Adoption][the rising speed of technological adoption] by Jeff Desjardins
+- [The 7 Network Effects of Bitcoin][multiple network effects] by Trace Mayer
+- [The Electricity Metaphor for the Web's Future][TED talk] by Jeff Bezos
+- [How the internet has woven itself into American life][data from the Pew Research Center] by Susannah Fox and Lee Rainie
+- [Genesis Block][genesis block] on the Bitcoin Wiki
+- [Lindy Effect][more time] on Wikipedia
+
 [Our World in Data]: https://ourworldindata.org/
 [the rising speed of technological adoption]: https://www.visualcapitalist.com/rising-speed-technological-adoption/
 [multiple network effects]: https://www.thrivenotes.com/the-7-network-effects-of-bitcoin/
 [TED talk]: https://www.ted.com/talks/jeff_bezos_on_the_next_web_innovation
-[more time]: https://en.wikipedia.org/wiki/Lindy_effect
 [recording of the Today Show]: https://www.youtube.com/watch?v=UlJku_CSyNg
 [William Gibson]: https://www.npr.org/2018/10/22/1067220/the-science-in-science-fiction
 [data from the Pew Research Center]: https://www.pewinternet.org/2014/02/27/part-1-how-the-internet-has-woven-itself-into-american-life/
 [consumer survey]: https://www.kaspersky.com/blog/money-report-2018/
 [letter to shareholders]: http://media.corporate-ir.net/media_files/irol/97/97664/reports/Shareholderletter97.pdf
-[genesis block]: https://en.bitcoin.it/wiki/Genesis_block
 [running bitcoin]: https://twitter.com/halfin/status/1110302988?lang=en
 [40 nodes]: https://bitcoinist.com/bitcoin-lightning-network-mainnet-nodes/
 [reckless]: https://twitter.com/hashtag/reckless
@@ -144,6 +153,10 @@ understanding its future. A future which is just beginning.
 [*The Internet of Money*]: https://theinternetofmoney.info/
 [stacking]: https://twitter.com/hashtag/stackingsats
 
+<!-- Bitcoin Wiki -->
+[genesis block]: https://en.bitcoin.it/wiki/Genesis_block
+
 <!-- Wikipedia -->
+[more time]: https://en.wikipedia.org/wiki/Lindy_effect
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
 [carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll

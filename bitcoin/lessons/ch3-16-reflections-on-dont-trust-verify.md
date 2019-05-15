@@ -145,23 +145,34 @@ compromised.
 
 Bitcoin taught me not to trust, but to verify.
 
+---
+
+#### Down the Rabbit Hole
+
+- [The Bitcoin whitepaper][Nakamoto] by Satoshi Nakamoto
+- [Reflections on Trusting Trust][*Reflections on Trusting Trust*] by Ken Thompson
+- [51% Attack][majority] on the Bitcoin Developer Guide
+- [Bootstrapping][bootstrapping], Guix Manual
+- [Secp256k1][secp256k1] on the Bitcoin Wiki
+- [ECC Backdoors][backdoors], [Dual EC DRBG][has already happened] on Wikipedia
+
 [Emmanuel Boutet]: https://commons.wikimedia.org/wiki/User:Emmanuel.boutet
 [Satoshi]: http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source
 [Nakamoto]: https://bitcoin.org/bitcoin.pdf
-[majority]: https://bitcoin.org/en/developer-guide#term-51-attack
 [*Reflections on Trusting Trust*]: https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf
-[Carl Sagan]: https://en.wikipedia.org/wiki/Cosmos_%28Carl_Sagan_book%29
 [found a way]: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Stealthy+Dopant-Level+Hardware+Trojans&btnG=
-[secp256k1]: https://en.bitcoin.it/wiki/Secp256k1
-[has already happened]: https://en.wikipedia.org/wiki/Dual_EC_DRBG
-[backdoors]: https://en.wikipedia.org/wiki/Elliptic-curve_cryptography#Backdoors
 [Gitian]: https://gitian.org/
 [bootstrapping]: https://www.gnu.org/software/guix/manual/en/html_node/Bootstrapping.html
 [Guix]: https://www.gnu.org/software/guix/
 [pull-request]: https://github.com/bitcoin/bitcoin/pull/15277
 [flip a coin]: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc#private-keys
 [Glacier]: https://glacierprotocol.org/
+[secp256k1]: https://en.bitcoin.it/wiki/Secp256k1
+[majority]: https://bitcoin.org/en/developer-guide#term-51-attack
 
 <!-- Wikipedia -->
+[backdoors]: https://en.wikipedia.org/wiki/Elliptic-curve_cryptography#Backdoors
+[has already happened]: https://en.wikipedia.org/wiki/Dual_EC_DRBG
+[Carl Sagan]: https://en.wikipedia.org/wiki/Cosmos_%28Carl_Sagan_book%29
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
 [carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll

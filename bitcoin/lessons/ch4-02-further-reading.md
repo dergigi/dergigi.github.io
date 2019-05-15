@@ -19,24 +19,28 @@ insights, past and present.
 - [Bitcoin: A Peer-to-Peer Electronic Cash System][whitepaper] by Satoshi Nakamoto
 - [Reflections on Trusting Trust] by Ken Thompson
 
-## Books
-- [The Bitcoin Standard: The Decentralized Alternative to Central Banking][book1]
+## Bitcoin Books
+- [The Bitcoin Standard: The Decentralized Alternative to Central Banking][bitcoin-standard]
     by Saifedean Ammous
 - [Mastering Bitcoin] by Andreas Antonopoulos
 - [The Internet of Money] by Andreas Antonopoulos
 - [Inventing Bitcoin] by Yan Pritzker
-- [Abundance: The Future Is Better Than You Think][book2] by Peter Diamandis
-- [The Mind’s I][book3] by Daniel Dennett and Douglas Hofstadter
-- [Applied Cryptography] by Bruce Schneier
-- [Cypherpunks] by Julian Assange with Jacob Appelbaum
-- [The Bitcoin Standard: The Decentralized Alternative to Central Banking][bitcoin-standard] by Saifedean Ammous
-- [Economics in One Lesson] by Henry Hazlitt
+
+## Economy Books
 - [Human Action] by Ludwig von Mises
+- [Economics in One Lesson] by Henry Hazlitt
 - [The Ethics of Money Production] by Jörg Guido Hülsmann
 - [The Denationalization of Money] by Friedrich Hayek
 - [The Machinery of Freedom] by David D. Friedman
 - [The Case Against The Fed] by Murray N. Rothbard
+- [The Creature From Jekyll Island] by G. Edward Griffin
 - [End the Fed] by Ron Paul
+
+## Other Books
+- [Cypherpunks] by Julian Assange with Jacob Appelbaum
+- [Applied Cryptography] by Bruce Schneier
+- [Abundance: The Future Is Better Than You Think][book2] by Peter Diamandis
+- [The Mind’s I][book3] by Daniel Dennett and Douglas Hofstadter
 
 ## Articles and essays
 - [Shelling Out: The Origins of Money] by Nick Szabo
@@ -79,6 +83,7 @@ insights, past and present.
 [The Machinery of Freedom]: http://daviddfriedman.com/The_Machinery_of_Freedom_.pdf
 [The Case Against The Fed]: https://mises.org/sites/default/files/The%20Case%20Against%20the%20Fed_2.pdf
 [End the Fed]: https://en.wikipedia.org/wiki/End_the_Fed
+[The Creature From Jekyll Island]: https://archive.org/details/pdfy--Pori1NL6fKm2SnY
 
 <!-- Articles -->
 [article1]: http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html
