@@ -30,10 +30,8 @@ The following lessons are a distillation of what I’ve learned. First published
 as an article series titled [“What I’ve Learned From Bitcoin,”][I] what follows
 can be seen as a second edition of the original series.
 
-Like Bitcoin, these lessons should not be seen as a static thing. I plan to work
-on them periodically, releasing updated versions in the future. I hope that this
-format is more digestible and easier to refer to than the long-form article
-version.
+Like Bitcoin, these lessons aren't a static thing. I plan to work on them
+periodically, releasing updated versions and additional material in the future.
 
 Unlike Bitcoin, future versions of this project do not have to be backward
 compatible. Some lessons might be extended, others might be reworked or
