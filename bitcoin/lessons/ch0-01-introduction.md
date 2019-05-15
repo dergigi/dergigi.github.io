@@ -10,17 +10,16 @@ categories: [bitcoin, lesson]
 > "You must be," said the Cat, "or you wouldn’t have come here.”
 > <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
-The following lessons are, obviously, about Bitcoin. However, while some of the
-inner workings of Bitcoin are explained, what follows is not an explanation of
-how Bitcoin works or what it is. It is a place to explore some of the things
-Bitcoin touches: philosophical questions, economic realities, and technological
-innovations.
+In October 2010, Arjun Balaji asked the innocuous question, [*What have you
+learned from Bitcoin?*][this question] After trying to answer this question in a
+short tweet, and failing miserably, I realized that the things I've learned are
+far too numerous to answer quickly, if at all.
 
-There are probably better points of entry if you have never heard about Bitcoin
-before. Great books have been written, videos have been made, courses have been
-created. However, there is no "right way" to learn about Bitcoin. So if you are
-new and ended up here, that's fine! I hope some of these lessons will be useful
-to you.
+The things I've learned are, obviously, about Bitcoin - or at least related to
+it. However, while some of the inner workings of Bitcoin are explained, the
+following lessons are not an explanation of how Bitcoin works or what it is.
+They might help to explore some of the things Bitcoin touches: philosophical
+questions, economic realities, and technological innovations.
 
 The 21 lessons are structured in bundles of seven, resulting in three chapters.
 Each chapter is looking at Bitcoin through a different lens, extracting what
@@ -44,18 +43,27 @@ feature and not a bug, what Bitcoin's creation can tell us about privacy, why
 cypherpunks write code (and not laws), and what metaphors might be useful to
 explore Bitcoin's future.
 
-In October 2010, Arjun Balaji asked the innocuous question, [*What have you
-learned from Bitcoin?*][this question] After trying to answer this question in a
-short tweet, and failing miserably, I realized that the things I've learned are
-far too numerous to answer quickly, if at all. I also realized that any set of
-answers to this question will be different for everyone --- a reflection of the
-very personal journey through the wonderful world of Bitcoin. Hence, the
-subtitle is *What I've Learned From Falling Down The Bitcoin Rabbit Hole*, with
-which I want to acknowledge the inherent personal bias of answering a question
-like this.
+Each lesson contains several quotes and links throughout the text. If I have
+explored an idea in more detail, you can find links to my related works in the
+"Through the Looking-Glass" section. If you like to go deeper, links to the most
+relevant material are listed in the "Down the Rabbit Hole" section. Both can be
+found at the end of each lesson.
 
-Attempting to answer this question fully is a fool's errand, thus my answers
-will always be incomplete.
+Even though some prior knowledge about Bitcoin is beneficial, I hope that these
+lessons can be digested by any curious reader. While some relate to each other,
+each lesson should be able to stand on its own and can be read independently. I
+did my best to shy away from technical jargon, even though some domain-specific
+vocabulary is unavoidable.
+
+I hope that my writing serves as inspiration for others to dig beneath the
+surface and examine some of the deeper questions Bitcoin raises. My own
+inspiration came from a multitude of authors and content creators to all of whom
+I am eternally grateful.
+
+Last but not least: my goal in writing this is not to convince you of anything.
+My goal is to make you think, and show you that there is way more to Bitcoin
+than meets the eye. I can’t even tell you what Bitcoin is or what Bitcoin will
+teach you. You will have to find that out for yourself.
 
 > "After this, there is no turning back. You take the blue pill --- the
 > story ends, you wake up in your bed and believe whatever you want to
