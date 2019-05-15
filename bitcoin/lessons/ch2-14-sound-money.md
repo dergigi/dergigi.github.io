@@ -183,17 +183,35 @@ produce more of.
 
 Bitcoin taught me that me that sound money is essential.
 
+---
+
+#### Through the Looking-Glass
+
+- [Bitcoin's Energy Consumption: A Shift in Perspective][much energy]
+
+#### Down the Rabbit Hole
+
+- [The Ethics of Money Production][Jörg Guido Hülsmann] by Jörg Guido Hülsmann
+- [Bitcoin's Controlled Supply][algorithmically controlled] on the Bitcoin Wiki
+- [Mineral Commodity Summaries 2019][last few years] by the United States Geological Survey
+- [Bitcoin’s Distribution was Fair][fair distribution] by Dan Held
+- [Money Supply][how much money there is], [Speed of Light][universal speed limit] on Wikipedia
+
+<!-- Internal -->
+[much energy]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
+
 [Fr. Bernard W. Dempsey, S.J.]: https://www.jstor.org/stable/29769582
-[algorithmically controlled]: https://en.bitcoin.it/wiki/Controlled_supply
 [Jörg Guido Hülsmann]: https://mises.org/sites/default/files/The%20Ethics%20of%20Money%20Production_2.pdf
-[how much money there is]: https://en.wikipedia.org/wiki/Money_supply
 [stopped publishing]: https://www.federalreserve.gov/Releases/h6/discm3.htm
 [last few years]: https://minerals.usgs.gov/minerals/pubs/mcs/2018/mcs2018.pdf
 [my calculations]: https://www.wolframalpha.com/input/?i=volume+of+190000+metric+tons+gold+%2F+olympic+swimming+pool+volume
-[much energy]: https://medium.com/@dergigi/bitcoins-energy-consumption-6dd7d7a2e463
-[universal speed limit]: https://en.wikipedia.org/wiki/Speed_of_light#Upper_limit_on_speeds
 [fair distribution]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
 
+<!-- Bitcoin Wiki -->
+[algorithmically controlled]: https://en.bitcoin.it/wiki/Controlled_supply
+
 <!-- Wikipedia -->
+[how much money there is]: https://en.wikipedia.org/wiki/Money_supply
+[universal speed limit]: https://en.wikipedia.org/wiki/Speed_of_light#Upper_limit_on_speeds
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
 [carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll
