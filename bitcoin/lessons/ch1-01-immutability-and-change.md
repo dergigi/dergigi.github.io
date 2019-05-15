@@ -75,7 +75,7 @@ Bitcoin taught me that it won't change. I will.
 
 #### Down the Rabbit Hole
 
-- [Unpacking Bitcoin's Social Contract][automated social contract]: A framework for skeptics by [Hasu]
+- [Unpacking Bitcoin's Social Contract][automated social contract]: A framework for skeptics by Hasu
 - [Inside the World of the Bitcoin Carnivores][carnivores]: Why a small community of Bitcoin users is eating meat exclusively by Jordan Pearson
 
 <!-- Internal -->
@@ -90,7 +90,6 @@ Bitcoin taught me that it won't change. I will.
 [Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
 
 <!-- Twitter People -->
-[Hasu]: https://twitter.com/hasu
 [Marty Bent]: https://twitter.com/martybent
 
 <!-- Wikipedia -->
