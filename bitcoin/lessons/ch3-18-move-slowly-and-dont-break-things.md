@@ -43,7 +43,7 @@ This is one of the many paradoxical properties of Bitcoin. We all came
 to believe that anything which is software can be changed easily. But
 the nature of the beast makes changing it bloody hard.
 
-As [Hasu] beautifully shows in [Unpacking Bitcoin's Social Contract],
+As Hasu beautifully shows in [Unpacking Bitcoin's Social Contract],
 changing the rules of Bitcoin is only possible by *proposing* a change,
 and consequently *convincing* all users of Bitcoin to adopt this change.
 This makes Bitcoin very resilient to change, even though it is software.
