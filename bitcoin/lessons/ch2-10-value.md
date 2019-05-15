@@ -45,11 +45,19 @@ just to name two.
 
 Bitcoin taught me that value is subjective but not arbitrary.
 
-[multiple theories]: https://en.wikipedia.org/wiki/Theory_of_value_%28economics%29
+---
+
+#### Down the Rabbit Hole
+
+- [Euthydemus] by Plato
+- [Theory of Value][multiple theories], [Paradox of Value][paradox of value], [Subjective Theory of Value][subjective] on Wikipedia
+
+[Euthydemus]: http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0178:text=Euthyd.
 [Plato]: http://www.perseus.tufts.edu/hopper/text?doc=plat.+euthyd.+304b
-[paradox of value]: https://en.wikipedia.org/wiki/Paradox_of_value
-[subjective]: https://en.wikipedia.org/wiki/Subjective_theory_of_value
 
 <!-- Wikipedia -->
+[multiple theories]: https://en.wikipedia.org/wiki/Theory_of_value_%28economics%29
+[paradox of value]: https://en.wikipedia.org/wiki/Paradox_of_value
+[subjective]: https://en.wikipedia.org/wiki/Subjective_theory_of_value
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
 [carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll

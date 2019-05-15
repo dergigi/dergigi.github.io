@@ -83,6 +83,13 @@ anyone].
 Bitcoin taught me to look behind the curtain and face my financial
 ignorance.
 
+---
+
+#### Down the Rabbit Hole
+
+- [Human Action][Ludwig von Mises] by Ludwig von Mises
+- [Why the Rich are Getting Richer][Robert Kiyosaki] by Robert Kiyosaki
+
 [Lesson 1]: {{ '/bitcoin/lessons/ch1-01-immutability-and-change' | absolute_url }}
 [so much debt]: http://www.usdebtclock.org/
 [aarontaycc]: https://twitter.com/aarontaycc/status/1072880815661436928?s=19

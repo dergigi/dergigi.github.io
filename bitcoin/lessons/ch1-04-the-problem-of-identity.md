@@ -46,6 +46,14 @@ value-transfer exist.
 
 Bitcoin taught me that decentralization contradicts identity.
 
+---
+
+#### Down the Rabbit Hole
+
+- [What Is It Like to be a Bat?][in regards to a bat] by Thomas Nagel
+- [What is it like to be a bitcoin?] by Nic Carter
+- [Ship of Theseus], [trolley problem] on Wikipedia
+
 [in regards to a bat]: https://en.wikipedia.org/wiki/What_Is_it_Like_to_Be_a_Bat%3F
 [What is it like to be a bitcoin?]: https://medium.com/s/story/what-is-it-like-to-be-a-bitcoin-56109f3e6753
 [Ship of Theseus]: https://en.wikipedia.org/wiki/Ship_of_Theseus

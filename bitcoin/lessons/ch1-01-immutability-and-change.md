@@ -61,17 +61,36 @@ The heartbeat of the Bitcoin network will outlast all of ours.
 Realizing the above changed me way more than the past blocks of the
 Bitcoin blockchain ever will. It changed my time preference, my
 understanding of economics, my political views, and so much more. Hell,
-it is even [changing people's diets]. If all of this sounds crazy to
+it is even [changing people's diets][carnivores]. If all of this sounds crazy to
 you, you're in good company. All of this is crazy, and yet it is
 happening.
 
 Bitcoin taught me that it won't change. I will.
 
+---
+
+#### Through the Looking-Glass
+
+- [Bitcoin's Gravity: How idea-value feedback loops are pulling people in][gravity]
+
+#### Down the Rabbit Hole
+
+- [Unpacking Bitcoin's Social Contract][automated social contract]: A framework for skeptics by Hasu
+- [Inside the World of the Bitcoin Carnivores][carnivores]: Why a small community of Bitcoin users is eating meat exclusively by Jordan Pearson
+
+<!-- Internal -->
+[gravity]: {% post_url /bitcoin/2019-05-01-bitcoins-gravity %}
+
+<!-- Further Reading -->
 [automated social contract]: https://medium.com/@hasufly/bitcoins-social-contract-1f8b05ee24a9
+[carnivores]: https://motherboard.vice.com/en_us/article/ne74nw/inside-the-world-of-the-bitcoin-carnivores
+
+<!-- Quotes -->
 [Ralph Merkle]: http://merkle.com/papers/DAOdemocracyDraft.pdf
 [Satoshi Nakamoto]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
+
+<!-- Twitter People -->
 [Marty Bent]: https://twitter.com/martybent
-[changing people's diets]: https://motherboard.vice.com/en_us/article/ne74nw/inside-the-world-of-the-bitcoin-carnivores
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland

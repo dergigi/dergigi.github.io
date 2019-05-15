@@ -21,7 +21,7 @@ the scarcest things in the universe. The supply can't be inflated, no
 matter how much effort one chooses to expend towards creating more.
 
 > "Only two things are genuinely scarce: time and bitcoin."
-> <cite>[Saifedean Ammous]</cite>
+> <cite>[Saifedean Ammous][bitcoin-standard-presentation]</cite>
 
 Paradoxically, it does so by a mechanism of copying. Transactions are
 broadcast, blocks are propagated, the distributed ledger is --- well,
@@ -35,8 +35,16 @@ to produce scarcity.
 
 In a time of abundance, Bitcoin taught me what real scarcity is.
 
+---
+
+#### Down the Rabbit Hole
+
+- [Abundance: The Future Is Better Than You Think][Abundance] by Peter Diamandis
+- [Presentation on The Bitcoin Standard][bitcoin-standard-presentation] by Saifedean Ammous
+
+<!-- Down the Rabbit Hole -->
 [Abundance]: https://www.diamandis.com/abundance
-[Saifedean Ammous]: https://www.bayernlb.de/internet/media/de/ir/downloads_1/bayernlb_research/sonderpublikationen_1/bitcoin_munich_may_28.pdf
+[bitcoin-standard-presentation]: https://www.bayernlb.de/internet/media/de/ir/downloads_1/bayernlb_research/sonderpublikationen_1/bitcoin_munich_may_28.pdf
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland

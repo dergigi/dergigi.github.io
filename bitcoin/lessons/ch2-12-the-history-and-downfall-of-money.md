@@ -86,7 +86,7 @@ a Mercedes isn't very practical.
 
 Speaking of German things: How the United States *dollar* got its name
 is another interesting story. The word "dollar" is derived from the
-German word [*Thaler*], short for a *Joachimsthaler.* A Joachimsthaler
+German word *[Thaler]*, short for a *Joachimsthaler.* A Joachimsthaler
 was a coin minted in the town of *Sankt Joachimsthal*. Thaler is simply
 a shorthand for someone (or something) coming from the valley, and
 because Joachimsthal was *the* valley for silver coin production, people
@@ -168,12 +168,20 @@ paper in itself is precious.
 Bitcoin taught me about the history of money and the greatest sleight of
 hand in the history of economics: fiat currency.
 
+---
+
+#### Down the Rabbit Hole
+
+- [Shelling Out: The Origins of Money] by Nick Szabo
+- [Methods of Coin Debasement][coin debasement], [Thaler], [U.S. Silver Certificate][silver certificates], [Bimetallism][bimetallic standard] on Wikipedia
+
 [oldest coin]: https://www.britishmuseum.org/explore/themes/money/the_origins_of_coinage.aspx
 [coin debasement]: https://en.wikipedia.org/wiki/Methods_of_coin_debasement
-[*Thaler*]: https://en.wikipedia.org/wiki/Thaler
+[Thaler]: https://en.wikipedia.org/wiki/Thaler
 [Berlin-George]: https://en.wikipedia.org/wiki/File:Bohemia,_Joachimsthaler_1525_Electrotype_Copy._VF._Obverse..jpg
 [silver certificates]: https://en.wikipedia.org/wiki/Silver_certificate_%28United_States%29
 [bimetallic standard]: https://en.wikipedia.org/wiki/Bimetallism
+[Shelling Out: The Origins of Money]: https://nakamotoinstitute.org/shelling-out/
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
