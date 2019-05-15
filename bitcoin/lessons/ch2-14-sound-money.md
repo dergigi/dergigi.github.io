@@ -192,9 +192,9 @@ Bitcoin taught me that me that sound money is essential.
 #### Down the Rabbit Hole
 
 - [The Ethics of Money Production][Jörg Guido Hülsmann] by Jörg Guido Hülsmann
-- [Bitcoin's Controlled Supply][algorithmically controlled] on the Bitcoin Wiki
 - [Mineral Commodity Summaries 2019][last few years] by the United States Geological Survey
 - [Bitcoin’s Distribution was Fair][fair distribution] by Dan Held
+- [Bitcoin's Controlled Supply][algorithmically controlled] on the Bitcoin Wiki
 - [Money Supply][how much money there is], [Speed of Light][universal speed limit] on Wikipedia
 
 <!-- Internal -->
