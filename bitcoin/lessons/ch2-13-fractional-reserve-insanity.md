@@ -101,6 +101,16 @@ choose to do so.
 
 Bitcoin taught me that fractional reserve banking is pure insanity.
 
+---
+
+#### Down the Rabbit Hole
+
+- [The Creature From Jekyll Island] by G. Edward Griffin
+- [Why the whole banking system is a scam][joint debate] by Godfrey Bloom
+- [Money Multiplier][money multiplier], [Keynesian Economics][Keynesian], [Austrian School][Austrian] on Wikipedia
+
+[The Creature From Jekyll Island]: https://archive.org/details/pdfy--Pori1NL6fKm2SnY
+
 [joint debate]: https://www.youtube.com/watch?v=hYzX3YZoMrs
 [money multiplier]: https://en.wikipedia.org/wiki/Money_multiplier
 [auditability]: https://i.ytimg.com/vi/ThFGs347MW8/maxresdefault.jpg
