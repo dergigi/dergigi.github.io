@@ -54,10 +54,25 @@ keys.
 
 Bitcoin taught me that locality is a tricky business.
 
+---
+
+#### Through the Looking-Glass
+
+- [The Magic Dust of Cryptography: How digital information is changing our society][a magic spell]
+
+#### Down the Rabbit Hole
+
+- [Where Am I?][Daniel Dennett] by Daniel Dennett
+- Coin Center's Peter Van Valkenburg on [Preserving the Freedom to Innovate with Public Blockchains][Peter Van Valkenburgh] hosted by Peter McCormack
+- Wikipedia: [First Amendment to the United States Constitution][1st Amendment]
+
+<!-- Through the Looking-Glass -->
+[a magic spell]: {% post_url /bitcoin/2018-08-17-the-magic-dust-of-cryptography %}  
+
+<!-- Down the Rabbit Hole -->
 [Daniel Dennett]: https://www.lehigh.edu/~mhb0/Dennett-WhereAmI.pdf
 [1st Amendment]: https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution
 [Peter Van Valkenburgh]: https://www.whatbitcoindid.com/podcast/coin-centers-peter-van-valkenburg-on-preserving-the-freedom-to-innovate-with-public-blockchains
-[a magic spell]: {% post_url /bitcoin/2018-08-17-the-magic-dust-of-cryptography %}  
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
