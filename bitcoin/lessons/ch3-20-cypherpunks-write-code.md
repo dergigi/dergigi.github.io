@@ -72,6 +72,15 @@ solutions. We should all aim to be a bit more cypherpunk.
 
 Bitcoin taught me that cypherpunks write code.
 
+---
+
+#### Down the Rabbit Hole
+
+- [A Cypherpunk's Manifesto][cypherpunk manifesto] by Eric Hughes
+- [Bitcoin version 0.1.0 announcement][version 0.1.0] by Satoshi Nakamoto
+- [Bitcoin P2P e-cash paper announcement][mail-announcement] by Satoshi Nakamoto
+
+[mail-announcement]: http://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html
 [Ludwig Von Mises]: https://mises.org/library/human-action-0/html/pp/613
 [cypherpunk manifesto]: https://www.activism.net/cypherpunk/manifesto.html
 [version 0.1.0]: https://bitcointalk.org/index.php?topic=68121.0
