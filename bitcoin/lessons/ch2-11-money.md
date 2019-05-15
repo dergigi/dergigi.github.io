@@ -93,14 +93,12 @@ Bitcoin taught me what money is.
 #### Down the Rabbit Hole
 
 - [End the Fed][Ron Paul] by Ron Paul
-- [The Creature From Jekyll Island] by G. Edward Griffin
 - [Shelling Out: The Origins of Money] by Nick Szabo
 
 [Satoshi Nakamoto]: http://p2pfoundation.ning.com/xn/detail/2003008:Comment:9562
 [Nick Szabo]: http://unenumerated.blogspot.com/
 [Shelling Out: The Origins of Money]: https://nakamotoinstitute.org/shelling-out/
 [Ron Paul]: http://endthefed.org/books/
-[The Creature From Jekyll Island]: https://archive.org/details/pdfy--Pori1NL6fKm2SnY
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
