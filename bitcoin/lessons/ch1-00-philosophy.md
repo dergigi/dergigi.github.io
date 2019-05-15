@@ -14,9 +14,8 @@ unnecessarily redundant, and overly paranoid. Looking at Bitcoin inquisitively,
 one might find out that things are not always as they seem.
 
 Bitcoin has a way of taking your assumptions and turning them on their heads.
-After a while, just when you were about to get comfortable with your new set of
-assumptions, Bitcoin will smash through a wall and shatter your assumptions
-again.
+After a while, just when you were about to get comfortable again, Bitcoin will
+smash through a wall and shatter your assumptions again.
 
 The following lessons are about some of the conceptual and philosophical
 assumptions which Bitcoin touches: identity, locality, scarcity, immutability,
