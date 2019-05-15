@@ -46,7 +46,7 @@ to realize that a barter economy is maddeningly inefficient.
 
 The great thing about money is that it can be exchanged for *anything
 else* --- that's quite the invention! As [Nick Szabo] brilliantly
-summarizes in [*Shelling Out: The Origins of Money*], we humans have
+summarizes in *[Shelling Out: The Origins of Money]*, we humans have
 used all kinds of things as money: beads made of rare materials like
 ivory, shells, or special bones, various kinds of jewelry, and later on
 rare metals like silver and gold.
@@ -88,10 +88,19 @@ to the gods of sound money that it will be the latter.
 
 Bitcoin taught me what money is.
 
+---
+
+#### Down the Rabbit Hole
+
+- [End the Fed][Ron Paul] by Ron Paul
+- [The Creature From Jekyll Island] by G. Edward Griffin
+- [Shelling Out: The Origins of Money] by Nick Szabo
+
 [Satoshi Nakamoto]: http://p2pfoundation.ning.com/xn/detail/2003008:Comment:9562
 [Nick Szabo]: http://unenumerated.blogspot.com/
-[*Shelling Out: The Origins of Money*]: https://nakamotoinstitute.org/shelling-out/
+[Shelling Out: The Origins of Money]: https://nakamotoinstitute.org/shelling-out/
 [Ron Paul]: http://endthefed.org/books/
+[The Creature From Jekyll Island]: https://archive.org/details/pdfy--Pori1NL6fKm2SnY
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
