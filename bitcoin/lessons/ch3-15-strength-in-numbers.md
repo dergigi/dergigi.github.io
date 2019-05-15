@@ -158,6 +158,14 @@ unfathomably large haystack. I am now more aware of this fact than ever.
 
 Bitcoin taught me that there is strength in numbers.
 
+---
+
+#### Down the Rabbit Hole
+
+- [How secure is 256 bit security?]["How secure is 256 bit security?"] by 3Blue1Brown
+- [Block Hashing Algorithm][hash functions] on the Bitcoin Wiki
+- [Last Glacial Maximum][thick layer of ice], [SHA-2][SHA-256], [Dyson Sphere][Dyson sphere], [Landauer's Principle][flip bits perfectly] [P versus NP][P actually equals NP], [Discrete Logarithm][specific problems] on Wikipedia
+
 [thick layer of ice]: https://en.wikipedia.org/wiki/Last_Glacial_Maximum
 [xkcd \#1125]: https://xkcd.com/1225/
 [SHA-256]: https://en.wikipedia.org/wiki/SHA-2
