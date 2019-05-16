@@ -10,7 +10,7 @@ categories: [bitcoin, lesson]
 > <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Golden keys, clocks which only work by chance, races to solve strange riddles,
-builders that don't have faces or names. What sounds like fairy tales from
+and builders that don't have faces or names. What sounds like fairy tales from
 Wonderland is daily business in the world of Bitcoin.
 
 As we explored in [Chapter 2][chapter2], large parts of the current financial
