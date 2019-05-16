@@ -16,8 +16,7 @@ Wonderland is daily business in the world of Bitcoin.
 As we explored in [Chapter 2][chapter2], large parts of the current financial
 system are systematically broken. Like Alice, we can only hope to manage better
 this time. But, thanks to a pseudonymous inventor, we have incredibly
-sophisticated technology to support us in our endeavor this time around:
-Bitcoin.
+sophisticated technology to support us this time around: Bitcoin.
 
 Solving problems in a radically decentralized and adversarial environment
 requires unique solutions to problems which would otherwise be trivial. Bitcoin
