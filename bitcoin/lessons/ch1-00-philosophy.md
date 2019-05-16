@@ -17,6 +17,8 @@ Bitcoin has a way of taking your assumptions and turning them on their heads.
 After a while, just when you were about to get comfortable again, Bitcoin will
 smash through a wall and shatter your assumptions again.
 
+{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="blind-monks.jpg" caption="Blind monks examining Bitcoin" %}
+
 The following lessons are about some of the conceptual and philosophical
 assumptions which Bitcoin touches: identity, locality, scarcity, immutability,
 code, speech, and more.
