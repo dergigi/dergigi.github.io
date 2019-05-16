@@ -35,8 +35,8 @@ examine these grains in the second lesson of this chapter.
 The last couple of lessons explore the ethos of technological development in
 Bitcoin, which is arguably as important as the technology itself. Bitcoin is not
 the next shiny app on your phone. It is the foundation of a new economic
-reality, which is why Bitcoin should be treated as nuclear-reactor grade
-financial software.
+reality, which is why Bitcoin should be treated as nuclear-grade financial
+software.
 
 Where are we in this financial/societal/technological revolution? Networks and
 technologies of the past may serve as metaphors for Bitcoins future, which are
