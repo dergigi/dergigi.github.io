@@ -76,6 +76,9 @@ Bitcoin taught me that it won't change. I will.
 #### Down the Rabbit Hole
 
 - [Unpacking Bitcoin's Social Contract][automated social contract]: A framework for skeptics by Hasu
+- [Tales From the Crypt][tftc] hosted by Marty Bent
+- [DAOs, Democracy and Governance][Ralph Merkle] by Ralph C. Merkle
+- [Marty's Bent][bent]: A daily newsletter highlighting signal in Bitcoin by Marty Bent
 - [Inside the World of the Bitcoin Carnivores][carnivores]: Why a small community of Bitcoin users is eating meat exclusively by Jordan Pearson
 
 <!-- Internal -->
@@ -84,6 +87,8 @@ Bitcoin taught me that it won't change. I will.
 <!-- Further Reading -->
 [automated social contract]: https://medium.com/@hasufly/bitcoins-social-contract-1f8b05ee24a9
 [carnivores]: https://motherboard.vice.com/en_us/article/ne74nw/inside-the-world-of-the-bitcoin-carnivores
+[tftc]: https://tftc.io/tales-from-the-crypt/
+[bent]: https://tftc.io/martys-bent/
 
 <!-- Quotes -->
 [Ralph Merkle]: http://merkle.com/papers/DAOdemocracyDraft.pdf
