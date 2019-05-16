@@ -30,25 +30,21 @@ economics.
 
 Again, I will only be able to scratch the surface. Bitcoin is not only
 ambitious, but also broad and deep in scope, making it impossible to cover all
-relevant topics in a single lesson, essay, article, or book. I am starting to
-doubt if it is even possible at all.
+relevant topics in a single lesson, essay, article, or book. I  doubt if it is
+even possible at all.
 
-Bitcoin is a child of many disciplines. Being a new form of money, learning
-about economics is paramount in understanding it. Dealing with the nature of
-human action and the interactions of economic agents, economics is probably one
-of the largest and fuzziest pieces of the Bitcoin puzzle.
-
-{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="blind-monks.jpg" caption="Blind monks examining Bitcoin" %}
+Bitcoin is a new form of money, which makes learning about economics paramount
+to understanding it. Dealing with the nature of human action and the
+interactions of economic agents, economics is probably one of the largest and
+fuzziest pieces of the Bitcoin puzzle.
 
 Again, these lessons are an exploration of the various things I have learned
 from Bitcoin. They are a personal reflection of my journey down the rabbit hole.
 Having no background in economics, I am definitely out of my comfort zone and
-especially aware that any understanding I might have is incomplete. Like blind
-monks examining an elephant, everyone who approaches this novel technology does
-so from a different angle and will come to different conclusions. Blindfolded as
-I am, I will try to outline what I have learned, even at the risk of making a
-fool out of myself. After all, I am still trying to answer the question:
-[*“What have you learned from Bitcoin?”*][the question]
+especially aware that any understanding I might have is incomplete. I will do my
+best to outline what I have learned, even at the risk of making a fool out of
+myself. After all, I am still trying to answer the question: [*“What have you
+learned from Bitcoin?”*][the question]
 
 After seven lessons examined through the lens of philosophy, let’s use the lens
 of economics to look at seven more. Economy class is all I can offer this time.

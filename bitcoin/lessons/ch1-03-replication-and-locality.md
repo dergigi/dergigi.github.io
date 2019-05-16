@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Lesson 5
+title: Lesson 3
 subtitle: Replication and locality
 categories: [bitcoin, lesson]
 ---
