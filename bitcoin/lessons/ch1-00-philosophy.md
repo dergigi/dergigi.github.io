@@ -26,7 +26,7 @@ And everyone will come to different conclusions about the nature of the beast.
 
 The following lessons are about some of my assumptions which Bitcoin shattered,
 and the conclusions I arrived at. Philosophical questions of immutability,
-scarcity, locality, and identity are explored.
+scarcity, locality, and identity are explored in the first four lessons.
 
 {% include lesson-list.html chapter="1"%}
 
