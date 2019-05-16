@@ -5,12 +5,8 @@ subtitle: Inflation
 categories: [bitcoin, lesson]
 ---
 
-> Alas! it was too late: she went on growing and growing, and very soon had to
-> kneel down: in another minute there was not room even for this, and she tried
-> the effect of lying down, with one elbow against the door, and the other arm
-> curled round her head. Still she went on growing, and as a last resource she
-> put one arm out of the window, and one foot up the chimney, and said to
-> herself "now I can do no more—what will become of me?"
+> My dear, here we must run as fast as we can, just to stay in place. And if you
+> wish to go anywhere you must run twice as fast as that.
 > <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Trying to understand monetary inflation, and how a non-inflationary
