@@ -535,7 +535,7 @@ planted a seed of conviction in you as well.
 [learned myself]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
 
 <!-- Twitter People -->
-[Hasu]: https://twitter.com/hasu
+[Hasu]: https://twitter.com/hasufl
 [Tony Sheng]: https://twitter.com/tonysheng
 [Nic Carter]: https://twitter.com/nic__carter
 [Murad Mahmudov]: https://twitter.com/MustStopMurad
