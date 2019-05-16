@@ -19,16 +19,16 @@ this time. But, thanks to a pseudonymous inventor, we have incredibly
 sophisticated technology to support us this time around: Bitcoin.
 
 Solving problems in a radically decentralized and adversarial environment
-requires unique solutions to problems which would otherwise be trivial. Bitcoin
-relies on strong cryptography to solve these problems, at least if looked at
-through the lens of technology. Just how strong this cryptography is will be
-explored in one of the following lessons.
+requires unique solutions. What would otherwise be trivial problems to solve
+are everything but in this strange world of nodes. Bitcoin relies on strong
+cryptography for most solutions, at least if looked at through the lens of
+technology. Just how strong this cryptography is will be explored in one of the
+following lessons.
 
-Cryptography is what Bitcoin uses to do away with trust in institutions. Instead
-of relying on centralized authorities, the system relies on the central
-authority of our universe: mathematics and physics. Some grains of trust still
-remain, however. We will examine these grains in the second lesson of this
-chapter.
+Cryptography is what Bitcoin uses to remove trust in authorities. Instead of
+relying on centralized institutions, the system relies on the final authority of
+our universe: physics. Some grains of trust still remain, however. We will
+examine these grains in the second lesson of this chapter.
 
 {% include lesson-list.html chapter="3"%}
 
