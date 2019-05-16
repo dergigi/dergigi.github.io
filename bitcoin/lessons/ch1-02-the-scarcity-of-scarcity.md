@@ -43,7 +43,8 @@ In a time of abundance, Bitcoin taught me what real scarcity is.
 - [Abundance: The Future Is Better Than You Think][Abundance] by Peter Diamandis
 - [Presentation on The Bitcoin Standard][bitcoin-standard-presentation] by Saifedean Ammous
 - [Modeling Bitcoin's Value with Scarcity][planb-scarcity] by PlanB
-- 🎧 [TFTC #60: Misir Mahmudov on the Scarcity of Time and Bitcoin][tftc60] hosted by Marty Bent
+- 🎧 [Misir Mahmudov on the Scarcity of Time & Bitcoin][tftc60] TFTC #60 hosted by Marty Bent
+- 🎧 [PlanB – Modelling Bitcoin's digital scarcity through stock-to-flow techniques﻿][slp67] SLP #67 hosted by Stephan Livera
 
 <!-- Down the Rabbit Hole -->
 [Abundance]: https://www.diamandis.com/abundance
@@ -51,6 +52,7 @@ In a time of abundance, Bitcoin taught me what real scarcity is.
 [bitcoin-standard-presentation]: https://www.bayernlb.de/internet/media/de/ir/downloads_1/bayernlb_research/sonderpublikationen_1/bitcoin_munich_may_28.pdf
 [planb-scarcity]: https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25
 [tftc60]: https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-60-Misir-Mahmudov-e3aibh
+[slp67]: https://stephanlivera.com/episode/67
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
