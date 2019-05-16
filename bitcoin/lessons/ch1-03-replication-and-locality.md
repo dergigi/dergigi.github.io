@@ -41,7 +41,7 @@ units a bitcoin.
 > physical location. The ledger exists in every physical location,
 > essentially. Geography doesn't make sense here --- it is not going to
 > help you figuring out your policy here."
-> <cite>[Peter Van Valkenburgh]</cite>
+> <cite>[Peter Van Valkenburgh][wbd049]</cite>
 
 So, what do you actually own when you say *"I have a bitcoin"* if there
 are no bitcoins? Well, remember all these strange words which you were
@@ -63,7 +63,7 @@ Bitcoin taught me that locality is a tricky business.
 #### Down the Rabbit Hole
 
 - [Where Am I?][Daniel Dennett] by Daniel Dennett
-- Coin Center's Peter Van Valkenburg on [Preserving the Freedom to Innovate with Public Blockchains][Peter Van Valkenburgh] hosted by Peter McCormack
+- 🎧 [Peter Van Valkenburg on Preserving the Freedom to Innovate with Public Blockchains][wbd049] WBD #49 hosted by Peter McCormack
 
 <!-- Through the Looking-Glass -->
 [a magic spell]: {% post_url /bitcoin/2018-08-17-the-magic-dust-of-cryptography %}  
@@ -71,7 +71,7 @@ Bitcoin taught me that locality is a tricky business.
 <!-- Down the Rabbit Hole -->
 [Daniel Dennett]: https://www.lehigh.edu/~mhb0/Dennett-WhereAmI.pdf
 [1st Amendment]: https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution
-[Peter Van Valkenburgh]: https://www.whatbitcoindid.com/podcast/coin-centers-peter-van-valkenburg-on-preserving-the-freedom-to-innovate-with-public-blockchains
+[wbd049]: https://www.whatbitcoindid.com/podcast/coin-centers-peter-van-valkenburg-on-preserving-the-freedom-to-innovate-with-public-blockchains
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
