@@ -19,11 +19,6 @@ this time. But, thanks to a pseudonymous inventor, we have incredibly
 sophisticated technology to support us in our endeavor this time around:
 Bitcoin.
 
-While Bitcoin is both a social and a monetary phenomenon, it is also a
-technological one. Again, I would argue that the intersection of many
-disciplines is what makes Bitcoin so special. However, I would also argue that
-Bitcoin’s technology is endlessly fascinating in its own right.
-
 Solving problems in a radically decentralized and adversarial environment
 requires unique solutions to problems which would otherwise be trivial. Bitcoin
 relies on strong cryptography to solve these problems, at least if looked at
