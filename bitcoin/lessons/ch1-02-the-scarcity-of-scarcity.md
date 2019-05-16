@@ -37,6 +37,10 @@ In a time of abundance, Bitcoin taught me what real scarcity is.
 
 ---
 
+#### Through the Looking-Glass
+
+- [Lesson 14: Sound money][lesson14]
+
 #### Down the Rabbit Hole
 
 - [The Bitcoin Standard: The Decentralized Alternative to Central Banking][bitcoin-standard]
@@ -45,6 +49,9 @@ In a time of abundance, Bitcoin taught me what real scarcity is.
 - [Modeling Bitcoin's Value with Scarcity][planb-scarcity] by PlanB
 - 🎧 [Misir Mahmudov on the Scarcity of Time & Bitcoin][tftc60] TFTC #60 hosted by Marty Bent
 - 🎧 [PlanB – Modelling Bitcoin's digital scarcity through stock-to-flow techniques﻿][slp67] SLP #67 hosted by Stephan Livera
+
+<!-- Through the Looking-Glass -->
+[lesson14]: {{ 'bitcoin/lessons/ch2-14-sound-money' | absolute_url }}
 
 <!-- Down the Rabbit Hole -->
 [Abundance]: https://www.diamandis.com/abundance
