@@ -42,8 +42,8 @@ Where are we in this financial, societal, and technological revolution? Networks
 and technologies of the past may serve as metaphors for Bitcoins future, which
 are explored in the last lesson of this chapter.
 
-Again, strap in and enjoy the ride. Like all exponential technologies, we are
-about to go parabolic.
+Once more, strap in and enjoy the ride. Like all exponential technologies, we
+are about to go parabolic.
 
 <!-- Internal -->
 [chapter2]: {{ 'bitcoin/lessons/ch2-00-economics' | absolute_url }}
