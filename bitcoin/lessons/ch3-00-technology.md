@@ -25,9 +25,11 @@ relies on strong cryptography to solve these problems, at least if looked at
 through the lens of technology. Just how strong this cryptography is will be
 explored in one of the following lessons.
 
-Bitcoin replaces trust in institutions with cryptographic proof, relying on the
-authority of physics instead of centralized authorities. What it means to trust
-software is explored in more details in the second lessons of this chapter.
+Cryptography is what Bitcoin uses to do away with trust in institutions. Instead
+of relying on centralized authorities, the system relies on the central
+authority of our universe: mathematics and physics. Some grains of trust still
+remain, however. We will examine these grains in the second lesson of this
+chapter.
 
 {% include lesson-list.html chapter="3"%}
 
