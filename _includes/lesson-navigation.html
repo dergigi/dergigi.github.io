@@ -53,7 +53,7 @@
   <li></li>
   {% else %}
   <li><a href="{{ nextLesson.path | remove: '.md' | absolute_url }}" title="{{ nextLesson.subtitle }}">
-  {% unless nextLesson.title == tableOfContents %}{{ nextLesson.title }}{% endunless %}
+  {{ nextLesson.title }}
   </a></li>
   {% endif %}
 </ul>
