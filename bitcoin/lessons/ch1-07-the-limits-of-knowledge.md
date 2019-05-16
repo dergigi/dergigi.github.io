@@ -33,7 +33,21 @@ people have already built the second layer and are working on the third.
 Bitcoin taught me that I know very little about almost anything. It
 taught me that this rabbit hole is bottomless.
 
+---
+
+#### Down the Rabbit Hole
+
+- [Bitcoin Literature] by the Satoshi Nakamoto Institute
+- [Bitcoin Information & Resources][lopp-resources] by Jameson Lopp
+- [Educational Resources][bitcoin-only] by Bitcoin Only
+
+<!-- Twitter -->
 [Jameson Lopp]: https://twitter.com/lopp/status/1061415918616698881
+
+<!-- Down the Rabbit Hole -->
+[lopp-resources]: https://www.lopp.net/bitcoin-information.html
+[bitcoin-only]: https://bitcoin-only.com/#learning
+[Bitcoin Literature]: https://nakamotoinstitute.org/literature/
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
