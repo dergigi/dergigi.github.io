@@ -15,19 +15,31 @@ one might find out that things are not always as they seem.
 
 Bitcoin has a way of taking your assumptions and turning them on their heads.
 After a while, just when you were about to get comfortable again, Bitcoin will
-smash through a wall and shatter your assumptions again.
+smash through the wall like a bull in a china shop and shatter your assumptions
+once more.
 
 {% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="blind-monks.jpg" caption="Blind monks examining Bitcoin" %}
 
-The following lessons are about some of the conceptual and philosophical
-assumptions which Bitcoin touches: identity, locality, scarcity, immutability,
-code, speech, and more.
+Bitcoin is a child of many disciplines. Like blind monks examining an elephant,
+everyone who approaches this novel technology does so from a different angle.
+And everyone will come to different conclusions about the nature of the beast.
+None of them wrong, necessarily, but all of them incomplete.
+
+The following lessons are about some of my conceptual and philosophical
+assumptions which Bitcoin shattered, and the conclusions I arrived at. Questions
+of immutability, scarcity, locality, and identity are explored.
 
 {% include lesson-list.html chapter="1"%}
 
+Lesson 5 explores how Bitcoin's origin story is not only fascinating but
+absolutely essential for a leaderless system. The last two lessons of this
+chapter explore the power of free speech and the limits of our individual
+knowledge, reflected by the surprising depth of the Bitcoin rabbit hole.
+
 I hope that you will find the world of Bitcoin as educational, fascinating and
-entertaining as I did and still do. In any case, hop on and enjoy the ride.
-Let's follow the white rabbit and see how deep this rabbit hole goes.
+entertaining as I did and still do. I invite you to follow the white rabbit and
+explore the depths of this rabbit hole. Now hold on to your pocket watch, pop
+down, and enjoy the fall.
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
