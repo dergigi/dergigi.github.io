@@ -181,7 +181,7 @@ bitcoin out of it. For the first time in human history, we have a
 monetary good which, no matter how hard you try, you won't be able to
 produce more of.
 
-Bitcoin taught me that me that sound money is essential.
+Bitcoin taught me that sound money is essential.
 
 ---
 
