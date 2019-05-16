@@ -11,23 +11,22 @@ categories: [bitcoin, lesson]
 
 Looking at Bitcoin superficially, one might conclude that it is slow, wasteful,
 unnecessarily redundant, and overly paranoid. Looking at Bitcoin inquisitively,
-one might find out that things are not always as they seem.
+one might find out that things are not as they seem at first glance.
 
 Bitcoin has a way of taking your assumptions and turning them on their heads.
 After a while, just when you were about to get comfortable again, Bitcoin will
 smash through the wall like a bull in a china shop and shatter your assumptions
 once more.
 
-{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="blind-monks.jpg" caption="Blind monks examining Bitcoin" %}
+{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="blind-monks.jpg" caption="Blind monks examining the Bitcoin bull" %}
 
 Bitcoin is a child of many disciplines. Like blind monks examining an elephant,
 everyone who approaches this novel technology does so from a different angle.
 And everyone will come to different conclusions about the nature of the beast.
-None of them wrong, necessarily, but all of them incomplete.
 
-The following lessons are about some of my conceptual and philosophical
-assumptions which Bitcoin shattered, and the conclusions I arrived at. Questions
-of immutability, scarcity, locality, and identity are explored.
+The following lessons are about some of my assumptions which Bitcoin shattered,
+and the conclusions I arrived at. Philosophical questions of immutability,
+scarcity, locality, and identity are explored.
 
 {% include lesson-list.html chapter="1"%}
 
