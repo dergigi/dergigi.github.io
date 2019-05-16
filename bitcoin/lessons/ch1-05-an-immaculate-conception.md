@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Lesson 3
+title: Lesson 5
 subtitle: An immaculate conception
 categories: [bitcoin, lesson]
 ---
