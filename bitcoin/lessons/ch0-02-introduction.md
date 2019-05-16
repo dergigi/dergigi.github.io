@@ -10,7 +10,7 @@ categories: [bitcoin, lesson]
 > "You must be," said the Cat, "or you wouldn’t have come here.”
 > <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
-In October 2010, Arjun Balaji asked the innocuous question, [*What have you
+In October 2018, Arjun Balaji asked the innocuous question, [*What have you
 learned from Bitcoin?*][this question] After trying to answer this question in a
 short tweet, and failing miserably, I realized that the things I've learned are
 far too numerous to answer quickly, if at all.
