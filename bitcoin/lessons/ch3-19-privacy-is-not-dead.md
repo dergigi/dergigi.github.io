@@ -50,6 +50,13 @@ We should all remember that privacy is a [fundamental human right]. And
 as long as people exercise and defend these rights the battle for
 privacy is far from over. Bitcoin taught me that privacy is not dead.
 
+---
+
+#### Down the Rabbit Hole
+
+- [Universal Declaration of Human Rights][fundamental human right] by the United Nations
+- [A lower bound on the length of the shortest superpattern][anonymous] by Anonymous 4chan Poster, Robin Houston, Jay Pantone, and Vince Vatter
+
 [since the 80ies]: https://books.google.com/ngrams/graph?content=privacy+is+dead&year_start=1970&year_end=2019&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cprivacy%20is%20dead%3B%2Cc0
 [time-traveling AI]: https://blockchain24-7.com/is-crypto-creator-a-time-travelling-ai/
 ["I am not Dorian Nakamoto."]: http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A52186
