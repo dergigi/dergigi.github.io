@@ -64,7 +64,7 @@ ol {
         }
       }
       &:last-child {
-        margin-right: 1em; // white rabbit
+        margin-right: -1em; // white rabbit
         align: right;
         & a:after {
           content: " →"
