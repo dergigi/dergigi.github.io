@@ -39,7 +39,7 @@ ol {
 }
 
 //----------------------------------------------
-//  Lesson Lists
+//  Lesson Navigation
 //----------------------------------------------
 .lesson {
   &__navigation {
@@ -59,6 +59,7 @@ ol {
         }
       }
       &:last-child {
+        margin-right: -32px; // white rabbit
         align: right;
         & a:after {
           content: " →"
