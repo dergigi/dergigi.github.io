@@ -52,9 +52,12 @@
   {% if nextLesson.title == notFound %}
   <li></li>
   {% else %}
-  <li><a href="{{ nextLesson.path | remove: '.md' | absolute_url }}" title="{{ nextLesson.subtitle }}">
-  {{ nextLesson.title }}
-  </a></li>
+  <li>
+    <a href="{{ nextLesson.path | remove: '.md' | absolute_url }}" title="{{ nextLesson.subtitle }}">
+    {{ nextLesson.title }}
+    </a>
+    <img src="{{ 'assets/images/rabbit.png' | absolute_url }}" title="Follow the white rabbit..."/>
+  </li>
   {% endif %}
 </ul>
 {% endif %}
