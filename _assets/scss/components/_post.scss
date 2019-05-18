@@ -7,6 +7,16 @@
     @extend %text-center;
     border-bottom: $border;
 
+    blockquote {
+      margin-top: 2em;
+
+      border-top: 2px solid $color-darkergrey;
+      border-bottom: 2px solid $color-darkergrey;
+
+      color: $color-grey;
+      font-style: italic;
+    }
+
     a {
       color: $color-darkgrey;
       text-decoration: none;
