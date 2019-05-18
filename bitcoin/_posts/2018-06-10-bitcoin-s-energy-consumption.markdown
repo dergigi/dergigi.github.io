@@ -97,14 +97,12 @@ Third, that mining is not a fixed process. Both the mining reward and
 the mining difficulty are dynamic and thus will necessarily change over
 time.
 
-Fourth, that mining is *supposed* to cost a lot of energy. It is
-computationally expensive by design, which is why Satoshi chose to
-reward people *extra* for expending this energy. It is the main
-ingredient of the Nakamoto Consensus. It is the work in proof-of-work.
+Fourth, that mining is *supposed* to cost a lot of energy. It is computationally
+expensive by design, which is why Satoshi chose to reward people *extra* for
+expending this energy. It is the main ingredient of the Nakamoto Consensus. It
+is the work in proof-of-work. It is absolutely essential.
 
 ---
-
-It is absolutely essential.
 
 Without a closer look at the mining process, it is easy to confuse the
 energy-intensive process of finding valid blocks with "finding new

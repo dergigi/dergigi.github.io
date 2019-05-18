@@ -86,10 +86,18 @@ decentralized.
 
 - [The Bitcoin whitepaper][whitepaper] by Satoshi Nakamoto
 - [Blockchain Proof-of-Work Is a Decentralized Clock][points out] by Gregory Trubetskoy
+- [The Anatomy of Proof-of-Work][pow-anatomy] by Hugo Nguyen
+- [PoW is efficient][pow-efficient] by Dan Held
+- [Mining][bw-mining], [Controlled supply][bw-supply] on the Bitcoin Wiki
 
 [points out]: https://grisha.org/blog/2018/01/23/explaining-proof-of-work/
 [energy]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
 [whitepaper]: https://bitcoin.org/bitcoin.pdf
+
+[pow-efficient]: https://blog.picks.co/pow-is-efficient-aa3d442754d3
+[pow-anatomy]: https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667
+[bw-mining]: https://en.bitcoin.it/wiki/Mining
+[bw-supply]: https://en.bitcoin.it/wiki/Controlled_supply
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland

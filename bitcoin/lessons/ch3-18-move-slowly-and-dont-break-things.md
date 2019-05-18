@@ -107,6 +107,10 @@ Bitcoin taught me that moving slowly is one of its features, not a bug.
 
 ---
 
+#### Through the Looking-Glass
+
+- [Lesson 1: Immutability and Change][lesson1]
+
 #### Down the Rabbit Hole
 
 - [Unpacking Bitcoin's Social Contract] by Hasu
@@ -115,6 +119,8 @@ Bitcoin taught me that moving slowly is one of its features, not a bug.
 - [P2SH][pay to script hash], [SegWit][segregated witness] on the Bitcoin Wiki
 - [Parable of the Wise and the Foolish Builders][Matthew 7:24--27] on Wikipedia
 
+<!-- Down the Rabbit Hole -->
+[lesson1]: {{ '/bitcoin/lessons/ch1-01-immutability-and-change' | absolute_url }}
 
 [pointed out]: http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A9493
 [4]: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611

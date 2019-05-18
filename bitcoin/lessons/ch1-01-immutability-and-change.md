@@ -72,6 +72,7 @@ Bitcoin taught me that it won't change. I will.
 #### Through the Looking-Glass
 
 - [Bitcoin's Gravity: How idea-value feedback loops are pulling people in][gravity]
+- [Lesson 18: Move slowly and don't break things][lesson18]
 
 #### Down the Rabbit Hole
 
@@ -84,6 +85,7 @@ Bitcoin taught me that it won't change. I will.
 
 <!-- Internal -->
 [gravity]: {% post_url /bitcoin/2019-05-01-bitcoins-gravity %}
+[lesson18]: {{ 'bitcoin/lessons/ch3-18-move-slowly-and-dont-break-things' | absolute_url }}
 
 <!-- Further Reading -->
 [automated social contract]: https://medium.com/@hasufly/bitcoins-social-contract-1f8b05ee24a9
