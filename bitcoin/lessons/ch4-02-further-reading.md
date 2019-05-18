@@ -5,10 +5,6 @@ subtitle: Further reading
 categories: [bitcoin, lesson]
 ---
 
-> When I used to read fairy-tales, I fancied that sort of thing never happened,
-> and now here I am in the middle of one!
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
-
 There exists an almost endless list of books and essays on the topics
 discussed above and economic thought in general. The books and articles
 listed below are but a small selection which were particularly influential

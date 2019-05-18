@@ -2,11 +2,9 @@
 layout: lesson
 title: Lesson 20
 subtitle: Cypherpunks write code
+quote: "I see you're trying to invent something."
 categories: [bitcoin, lesson]
 ---
-
-> "I see you're trying to invent something."
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Like many great ideas, Bitcoin didn't come out of nowhere. It was made
 possible by utilizing and combining many innovations and discoveries in

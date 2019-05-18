@@ -5,9 +5,6 @@ subtitle: Thank you
 categories: [bitcoin, lesson]
 ---
 
-> "Thank you," said Alice
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
-
 Thanks to the countless authors and content producers who
 influenced my thinking on Bitcoin and the topics it touches. There
 are too many to list them all, but I'll do my best to name a few.

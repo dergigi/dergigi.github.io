@@ -2,11 +2,9 @@
 layout: lesson
 title: Lesson 16
 subtitle: Reflections on "Don't Trust, Verify"
+quote: "\"Now for the evidence,\" said the King, \"and then the sentence.\""
 categories: [bitcoin, lesson]
 ---
-
-> "Now for the evidence," said the King, "and then the sentence."
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Bitcoin aims to replace, or at least provide an alternative to,
 conventional currency. Conventional currency is bound to a centralized

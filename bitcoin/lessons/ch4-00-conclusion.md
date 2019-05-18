@@ -2,12 +2,9 @@
 layout: lesson
 title: Conclusion
 subtitle: Lessons Learned
+quote: "\"Begin at the beginning,\" the King said, very gravely, \"and go on till you come to the end: then stop.\""
 categories: [bitcoin, lesson]
 ---
-
-> "Begin at the beginning," the King said, very gravely, "and go on till you
-> come to the end: then stop."
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 As mentioned in the beginning, I think that any answer to the question *“What
 have you learned from Bitcoin?”* will always be incomplete. The symbiosis of

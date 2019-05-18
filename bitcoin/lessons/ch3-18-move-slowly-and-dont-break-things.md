@@ -2,12 +2,9 @@
 layout: lesson
 title: Lesson 18
 subtitle: Move slowly and don't break things
+quote: "So the boat wound slowly along, beneath the bright summer-day, with its merry crew and its music of voices and laughter..."
 categories: [bitcoin, lesson]
 ---
-
-> So the boat wound slowly along, beneath the bright summer-day, with its merry
-> crew and its music of voices and laughter
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 It might be a dead mantra, but "move fast and break things" is still how
 much of the tech world operates. The idea that it doesn't matter if you
