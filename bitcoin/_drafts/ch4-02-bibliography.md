@@ -2,7 +2,7 @@
 layout: lesson
 title: Bibliography
 quote: "When I used to read fairy-tales, I fancied that sort of thing never happened, and now here I am in the middle of one!"
-categories: [bitcoin, lesson]
+categories: [bitcoin, todo]
 ---
 
 There exists an almost endless list of books and essays on the topics
