@@ -5,7 +5,7 @@ subtitle: What I've Learned from Falling Down the Bitcoin Rabbit Hole
 category: bitcoin
 description: An exploration of questions and lessons learned from falling down the Bitcoin rabbit hole.
 quote: "\"Oh, you foolish Alice!\" she said again, \"how can you learn lessons in here? Why, there's hardly room for you, and no room at all for any lesson-books!\""
-image: /assets/images/21-lessons-cover-rabbit.jpg
+image: /assets/images/21-lessons-twitter-cover.jpg
 ---
 
 [![21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole](/assets/images/21-lessons-cover-rabbit.jpg)][preface]
