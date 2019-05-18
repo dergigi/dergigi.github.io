@@ -15,7 +15,7 @@ point of my venture into economics. I knew that inflation was the rate
 at which new money was created, but I didn't know too much beyond that.
 
 While some economists argue that inflation is a good thing, others argue
-that "hard" money which can't be inflated easily ---as we had in the
+that "hard" money which can't be inflated easily --- as we had in the
 days of the gold standard --- is essential for a healthy economy.
 Bitcoin, having a fixed supply of 21 million, agrees with the latter
 camp.
