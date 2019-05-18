@@ -3,6 +3,7 @@ layout: page
 title: 21 Lessons
 subtitle: What I've Learned from Falling Down the Bitcoin Rabbit Hole
 category: bitcoin
+image: /assets/images/21-lessons-cover-rabbit.jpg
 ---
 
 [![21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole](/assets/images/21-lessons-cover-rabbit.jpg)][preface]
