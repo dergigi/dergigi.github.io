@@ -9,6 +9,11 @@ layout: default
         {% if page.subtitle %}
           <h3 itemprop="name alternativeHeadline">{{ page.subtitle }}</h3>
         {% endif %}
+        {% if page.quote %}
+          <blockquote cite="{{ page.cite }}">
+            {{ page.quote }}
+          </blockquote>
+        {% endif %}
       </div>
     </div>
 
