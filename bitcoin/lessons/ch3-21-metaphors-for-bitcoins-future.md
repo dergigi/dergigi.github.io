@@ -2,11 +2,9 @@
 layout: lesson
 title: Lesson 21
 subtitle: Metaphors for Bitcoin's future
+quote: "I know something interesting is sure to happen..."
 categories: [bitcoin, lesson]
 ---
-
-> "I know something interesting is sure to happen"
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 In the last couple of decades, it became apparent that technological
 innovation does not follow a linear trend. Whether you believe in the

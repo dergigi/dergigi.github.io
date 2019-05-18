@@ -2,11 +2,9 @@
 layout: lesson
 title: Lesson 17
 subtitle: Telling time takes work
+quote: "\"Dear, dear! I shall be too late!\""
 categories: [bitcoin, lesson]
 ---
-
-> "Dear, dear! I shall be too late!"
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 It is often said that bitcoins are mined because thousands of computers
 work on solving *very complex* mathematical problems. Certain problems

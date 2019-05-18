@@ -2,12 +2,9 @@
 layout: lesson
 title: Lesson 9
 subtitle: Inflation
+quote: "My dear, here we must run as fast as we can, just to stay in place. And if you wish to go anywhere you must run twice as fast as that."
 categories: [bitcoin, lesson]
 ---
-
-> My dear, here we must run as fast as we can, just to stay in place. And if you
-> wish to go anywhere you must run twice as fast as that.
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Trying to understand monetary inflation, and how a non-inflationary
 system like Bitcoin might change how we do things, was the starting

@@ -2,11 +2,9 @@
 layout: lesson
 title: Lesson 4
 subtitle: The problem of identity
+quote: "\"Who are you?\" said the caterpillar."
 categories: [bitcoin, lesson]
 ---
-
-> "Who are you?" said the caterpillar.
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Nic Carter, in an homage to Thomas Nagel's treatment of the same
 question [in regards to a bat], wrote an excellent piece which discusses

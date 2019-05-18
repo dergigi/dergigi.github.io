@@ -2,14 +2,9 @@
 layout: lesson
 title: Lesson 19
 subtitle: Privacy is not dead
+quote: "The players all played at once without waiting for turns, and quarrelled all the while at the tops of their voices, and in a very few minutes the Queen was in a furious passion, and went stamping about and shouting \"off with his head!\" of \"off with her head!\" about once in a minute."
 categories: [bitcoin, lesson]
 ---
-
-> The players all played at once without waiting for turns, and quarrelled all
-> the while at the tops of their voices, and in a very few minutes the Queen was
-> in a furious passion, and went stamping about and shouting "off with his
-> head!" of "off with her head!" about once in a minute.
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 If pundits are to believed, privacy has been dead [since the 80ies]. The
 pseudonymous invention of Bitcoin and other events in recent history

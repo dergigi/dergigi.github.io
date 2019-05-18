@@ -2,16 +2,9 @@
 layout: lesson
 title: Lesson 13
 subtitle: Fractional Reserve Insanity
+quote: "Alas! it was too late: she went on growing and growing, and very soon had to kneel down: in another minute there was not room even for this, and she tried the effect of lying down, with one elbow against the door, and the other arm curled round her head. Still she went on growing, and as a last resource she put one arm out of the window, and one foot up the chimney, and said to herself \"now I can do no more—what will become of me?\""
 categories: [bitcoin, lesson]
 ---
-
-> Alas! it was too late: she went on growing and growing, and very soon had to
-> kneel down: in another minute there was not room even for this, and she tried
-> the effect of lying down, with one elbow against the door, and the other arm
-> curled round her head. Still she went on growing, and as a last resource she
-> put one arm out of the window, and one foot up the chimney, and said to
-> herself "now I can do no more—what will become of me?"
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Value and money aren't trivial topics, especially in today's times. The
 process of money creation in our banking system is equally non-trivial,

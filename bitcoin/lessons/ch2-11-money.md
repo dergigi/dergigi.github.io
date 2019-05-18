@@ -2,17 +2,9 @@
 layout: lesson
 title: Lesson 11
 subtitle: Money
+quote: "\"In my youth,\" said the sage, as he shook his gray locks,</br> \"I kept all my limbs very supple,</br> By the use of this ointment, five shillings the box—</br> Allow me to sell you a couple.\"</br>"
 categories: [bitcoin, lesson]
 ---
-
-> "In my youth," said the sage, as he shook his gray locks,
->
->"I kept all my limbs very supple,
->
-> By the use of this ointment, five shillings the box—
->
-> Allow me to sell you a couple."
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 What is money? We use it every day, yet this question is surprisingly
 difficult to answer. We are dependent on it in ways big and small, and

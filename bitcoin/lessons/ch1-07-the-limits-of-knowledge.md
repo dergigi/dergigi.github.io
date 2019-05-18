@@ -2,11 +2,9 @@
 layout: lesson
 title: Lesson 7
 subtitle: The limits of knowledge
+quote: "Down, down, down. Would the fall never come to an end?"
 categories: [bitcoin, lesson]
 ---
-
-> Down, down, down. Would the fall never come to an end?
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Getting into Bitcoin is a humbling experience. I thought that I knew
 things. I thought that I was educated. I thought that I knew my computer

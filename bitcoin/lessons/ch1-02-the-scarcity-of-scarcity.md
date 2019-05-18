@@ -2,11 +2,9 @@
 layout: lesson
 title: Lesson 2
 subtitle: The scarcity of scarcity
+quote: "That's quite enough — I hope I sha'n't grow any more..."
 categories: [bitcoin, lesson]
 ---
-
-> "That's quite enough — I hope I sha'n't grow any more"
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 In general, the advance of technology seems to make things more
 abundant. More and more people are able to enjoy what previously have

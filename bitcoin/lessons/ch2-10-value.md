@@ -2,12 +2,9 @@
 layout: lesson
 title: Lesson 10
 subtitle: Value
+quote: "It was the white rabbit, trotting slowly back again, and looking anxiously about it as it went, as if it had lost something..."
 categories: [bitcoin, lesson]
 ---
-
-> It was the white rabbit, trotting slowly back again, and looking anxiously
-> about it as it went, as if it had lost something
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Value is somewhat paradoxical, and there are [multiple theories] which
 try to explain why we value certain things over other things. People

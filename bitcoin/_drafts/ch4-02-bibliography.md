@@ -1,13 +1,9 @@
 ---
 layout: lesson
 title: Bibliography
-subtitle: Further reading
-categories: [bitcoin, lesson]
+quote: "When I used to read fairy-tales, I fancied that sort of thing never happened, and now here I am in the middle of one!"
+categories: [bitcoin, todo]
 ---
-
-> When I used to read fairy-tales, I fancied that sort of thing never happened,
-> and now here I am in the middle of one!
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 There exists an almost endless list of books and essays on the topics
 discussed above and economic thought in general. The books and articles

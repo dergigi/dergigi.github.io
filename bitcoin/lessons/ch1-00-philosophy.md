@@ -2,12 +2,9 @@
 layout: lesson
 title: Chapter I
 subtitle: Philosophy
+quote: "The mouse looked at her rather inquisitively, and seemed to her to wink with one of its little eyes, but it said nothing."
 categories: [bitcoin, lesson]
 ---
-
-> The mouse looked at her rather inquisitively, and seemed to her to wink with
-> one of its little eyes, but it said nothing.
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Looking at Bitcoin superficially, one might conclude that it is slow, wasteful,
 unnecessarily redundant, and overly paranoid. Looking at Bitcoin inquisitively,

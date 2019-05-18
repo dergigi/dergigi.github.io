@@ -2,12 +2,9 @@
 layout: lesson
 title: Chapter III
 subtitle: Technology
+quote: "\"Now, I'll manage better this time\" she said to herself, and began by taking the little golden key, and unlocking the door that led into the garden"
 categories: [bitcoin, lesson]
 ---
-
-> "Now, I'll manage better this time" she said to herself, and began by taking
-> the little golden key, and unlocking the door that led into the garden
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Golden keys, clocks which only work by chance, races to solve strange riddles,
 and builders that don't have faces or names. What sounds like fairy tales from

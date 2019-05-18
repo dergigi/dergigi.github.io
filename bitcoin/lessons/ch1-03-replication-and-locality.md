@@ -2,11 +2,9 @@
 layout: lesson
 title: Lesson 3
 subtitle: Replication and locality
+quote: "Next came an angry voice—the rabbit's—\"Pat, Pat! where are you?\""
 categories: [bitcoin, lesson]
 ---
-
-> Next came an angry voice—the rabbit's—"Pat, Pat! where are you?"
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Quantum mechanics aside, locality is a non-issue in the physical world.
 The question *"Where is X?"* can be answered in a meaningful way, no
