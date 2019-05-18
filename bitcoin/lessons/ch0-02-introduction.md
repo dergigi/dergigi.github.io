@@ -17,9 +17,9 @@ far too numerous to answer quickly, if at all.
 
 The things I've learned are, obviously, about Bitcoin - or at least related to
 it. However, while some of the inner workings of Bitcoin are explained, the
-following lessons are not an explanation of how Bitcoin works or what it is.
-They might help to explore some of the things Bitcoin touches: philosophical
-questions, economic realities, and technological innovations.
+following lessons are not an explanation of how Bitcoin works or what it is,
+they might, however, help to explore some of the things Bitcoin touches:
+philosophical questions, economic realities, and technological innovations.
 
 The 21 lessons are structured in bundles of seven, resulting in three chapters.
 Each chapter is looking at Bitcoin through a different lens, extracting what
