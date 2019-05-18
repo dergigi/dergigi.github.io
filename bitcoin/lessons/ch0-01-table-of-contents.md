@@ -1,14 +1,9 @@
 ---
 layout: lesson
 title: Table of Contents
+quote: "\"Would you tell me, please, which way I ought to go from here?\"<br/> \"That depends a good deal on where you want to get to.\"<br/> \"I don't much care where –\"<br/> \"Then it doesn't matter which way you go.\""
 categories: [bitcoin, lesson]
 ---
-
-> “Would you tell me, please, which way I ought to go from here?"
-> "That depends a good deal on where you want to get to."
-> "I don't much care where –"
-> "Then it doesn't matter which way you go.”
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 {% include lesson-toc.html %}
 
