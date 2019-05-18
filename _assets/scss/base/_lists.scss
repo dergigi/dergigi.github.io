@@ -51,8 +51,9 @@ ol {
 
     margin: 3em 0;
 
-    img {
+    img { // white rabbit
       height: 1em;
+      margin-right: -1em;
     }
 
     li {
@@ -64,7 +65,6 @@ ol {
         }
       }
       &:last-child {
-        margin-right: -1em; // white rabbit
         align: right;
         & a:after {
           content: " →"
