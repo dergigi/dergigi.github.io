@@ -2,12 +2,9 @@
 layout: lesson
 title: Lesson 8
 subtitle: Financial ignorance
+quote: "And what an ignorant little girl she'll think me for asking! No, it'll never do to ask: perhaps I shall see it written up somewhere."
 categories: [bitcoin, lesson]
 ---
-
-> "and what an ignorant little girl she'll think me for asking! No, it'll never
-> do to ask: perhaps I shall see it written up somewhere."
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 One of the most surprising things, to me, was the amount of finance,
 economics, and psychology required to get a grasp of what at first

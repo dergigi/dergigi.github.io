@@ -2,11 +2,9 @@
 layout: lesson
 title: Lesson 5
 subtitle: An immaculate conception
+quote: "\"Their heads are gone,\" the soldiers shouted in reply..."
 categories: [bitcoin, lesson]
 ---
-
-> "Their heads are gone," the soldiers shouted in reply
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Everyone loves a good origin story. The origin story of Bitcoin is a
 fascinating one, and the details of it are more important than one might

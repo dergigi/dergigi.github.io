@@ -2,13 +2,9 @@
 layout: lesson
 title: Chapter II
 subtitle: Economics
+quote: "A large rose tree stood near the entrance of the garden: the roses on it were white, but there were three gardeners at it, busily painting them red. This Alice thought a very curious thing..."
 categories: [bitcoin, lesson]
 ---
-
-> A large rose tree stood near the entrance of the garden: the roses on it were
-> white, but there were three gardeners at it, busily painting them red. This
-> Alice thought a very curious thing
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Money doesn’t grow on trees. To believe that it does is foolish, and our
 parents make sure that we know about that by repeating this saying like a

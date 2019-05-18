@@ -2,12 +2,9 @@
 layout: lesson
 title: Lesson 6
 subtitle: The power of free speech
+quote: "\"I beg your pardon?\" said the mouse, frowning, but very politely, \"did you speak?\""
 categories: [bitcoin, lesson]
 ---
-
-> "I beg your pardon?" said the mouse, frowning, but very politely, "did you
-> speak?"
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Bitcoin is an idea. An idea which, in its current form, is the
 manifestation of a machinery purely powered by text. Every aspect of
