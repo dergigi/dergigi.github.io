@@ -12,7 +12,12 @@ image: /assets/images/21-lessons-cover-rabbit.jpg
 
 > "Oh, you foolish Alice!" she said again, "how can you learn lessons in here?
 > Why, there's hardly room for you, and no room at all for any lesson-books!"
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
+
+<center>
+  <p>Ready to enter Wonderland?<br/>
+  <a href="{{ 'bitcoin/lessons/ch0-00-preface' | absolute_url }}">Follow the white rabbit →</a></p>
+  <p><a href="{{ 'bitcoin/lessons/ch0-00-preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>
+</center>
 
 [preface]: {{ 'bitcoin/lessons/ch0-00-preface' | absolute_url }}
 
