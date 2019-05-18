@@ -39,7 +39,7 @@ ol {
 }
 
 //----------------------------------------------
-//  Lesson Lists
+//  Lesson Navigation
 //----------------------------------------------
 .lesson {
   &__navigation {
@@ -47,8 +47,13 @@ ol {
     @extend %no-margin-or-padding;
     justify-content: space-between;
     display: flex;
+    vertical-align: bottom;
 
     margin: 3em 0;
+
+    img {
+      height: 1em;
+    }
 
     li {
       @extend %no-margin-or-padding;
@@ -59,6 +64,7 @@ ol {
         }
       }
       &:last-child {
+        margin-right: -1em; // white rabbit
         align: right;
         & a:after {
           content: " →"
