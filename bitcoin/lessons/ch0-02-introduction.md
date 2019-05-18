@@ -22,7 +22,7 @@ they might, however, help to explore some of the things Bitcoin touches:
 philosophical questions, economic realities, and technological innovations.
 
 The 21 lessons are structured in bundles of seven, resulting in three chapters.
-Each chapter is looking at Bitcoin through a different lens, extracting what
+Each chapter looks at Bitcoin through a different lens, extracting what
 lessons can be learned by looking at this strange network from a different
 angle.
 
