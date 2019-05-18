@@ -1,26 +1,9 @@
 ---
 layout: lesson
 title: Preface
+quote: "Little Alice fell \n d \n o \n w \n n \n the hOle, \n bumped her head \n and bruised her soul"
 categories: [bitcoin, lesson]
 ---
-
-
-> “Little Alice fell
->
-> d
->
-> o
->
-> w
->
-> n
->
-> the hOle,
->
-> bumped her head
->
-> and bruised her soul”
-> <cite>[Lewis Carroll][carroll], [Alice in Wonderland][alice]</cite>
 
 Falling down the Bitcoin rabbit hole is a strange experience. Like many others,
 I feel like I have learned more in the last couple of years studying Bitcoin
