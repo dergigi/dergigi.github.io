@@ -1,0 +1,5 @@
+{% capture folderPath %}/assets/images/bitcoin/books{% endcapture %}
+{% capture imagePath %}{{ folderPath }}/{{ include.name }}.jpg{% endcapture %}
+<li>
+  <img src="{{ imagePath | replace: '//', '/' | absolute_url }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %}/>
+</li>
