@@ -23,12 +23,44 @@ you are looking for longer, more varied lists, the following got you covered:
 
 ### Books
 
-Thanks to Bitcoin, my list of books to read gets longer way quicker than I could
+Thanks to Bitcoin, my list of books to read gets longer and longer, way quicker than I could
 ever read them. The books listed below are books I can highly recommend. If a
 particular book is not listed here, it is probably because I didn't get around
-to read it yet.
+to read it yet. I aim to update this list continually.
 
-TODO
+#### Bitcoin
+
+<ul class="books">
+{% include book.html name="bitcoin-standard" alt="The Bitcoin Standard: The Decentralized Alternative to Central Banking" %}
+{% include book.html name="internet-of-money-vol1" %}
+{% include book.html name="internet-of-money-vol2" %}
+{% include book.html name="mastering-bitcoin" %}
+</ul>
+
+#### Computation
+
+<ul class="books">
+{% include book.html name="goedel-escher-bach" %}
+{% include book.html name="quantum-computing-since-democritus" %}
+{% include book.html name="new-kind-of-science" %}
+</ul>
+
+#### Software and Programming
+
+<ul class="books">
+{% include book.html name="free-software-free-society" %}
+{% include book.html name="cathedral-and-bazaar" %}
+{% include book.html name="art-of-unix-programming" %}
+{% include book.html name="pragmatic-programmer" %}
+</ul>
+
+#### Economics and Central Banking
+
+<ul class="books">
+{% include book.html name="economics-in-one-lesson" %}
+{% include book.html name="creature-from-jekyll-island" %}
+{% include book.html name="end-the-fed" %}
+</ul>
 
 ---
 
