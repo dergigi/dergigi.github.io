@@ -39,6 +39,24 @@ ol {
 }
 
 //----------------------------------------------
+//  Books
+//----------------------------------------------
+
+.books {
+  @extend %no-list-style;
+  @extend %no-margin-or-padding;
+  justify-content: space-between;
+  display: flex;
+
+  img {
+    display: block;
+    max-height:250px;
+    width: auto;
+    height: auto;
+  }
+}
+
+//----------------------------------------------
 //  Lesson Navigation
 //----------------------------------------------
 .lesson {
