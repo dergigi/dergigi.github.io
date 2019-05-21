@@ -20,10 +20,11 @@ gave birth to Bitcoin:
 
 ### Books
 
-Thanks to Bitcoin, my list of books to read gets longer and longer, way quicker than I could
-ever read them. The books listed below are books I can highly recommend. If a
-particular book is not listed here, it is probably because I didn't get around
-to read it yet. I aim to update this list continually.
+Thanks to Bitcoin, my list of books to read gets longer and longer, way quicker
+than I could ever read them. The books listed below are books I can highly
+recommend. If a particular book is not listed here, it is probably because I
+didn't get around to read it yet. I hope to update this list continually as my
+reading progresses.
 
 
 #### Bitcoin (non-technical)
@@ -200,7 +201,7 @@ about Bitcoin's future.
 [bullish-case]: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
 
 Nick Szabo's blog is a treasure trove of excellent essays.
- 
+
 - [Shelling Out: The Origins of Money][shelling-out] by Nick Szabo
 - [Money, blockchains, and social scalability][social-scalability] by Nick Szabo
 - [The God Protocols][god-protocols] by Nick Szabo
