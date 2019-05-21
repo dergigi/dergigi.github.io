@@ -31,7 +31,7 @@ to read it yet. I aim to update this list continually.
 {% include book.html name="internet-of-money-vol1" %}
 {% include book.html name="internet-of-money-vol2" %}
 {% include book.html name="inventing-bitcoin" %}
-{% include book.html name="bitcoin-money" %}
+<!-- {% include book.html name="bitcoin-money" %} -->
 </ul>
 
 #### Bitcoin (technical)
@@ -66,6 +66,14 @@ to read it yet. I aim to update this list continually.
 {% include book.html name="ethics-of-money-production" %}
 {% include book.html name="creature-from-jekyll-island" %}
 {% include book.html name="end-the-fed" %}
+</ul>
+
+#### Work
+
+<ul class="books">
+{% include book.html name="crazy-at-work" %}
+{% include book.html name="remote" %}
+{% include book.html name="war-of-art" %}
 </ul>
 
 ---
