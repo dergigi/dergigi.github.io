@@ -39,14 +39,17 @@ conversations of other people. We are living in the golden age of podcasts, and
 although I try to listen to every Bitcoin podcast under the sun it is simply an
 unsurmountable feat.
 
-#### Top 4
+I consider the following podcasts the best in the space:
 
 - [Tales From The Crypt][tftc] by Marty Bent with RHR co-host Matt Odell
 - [Noded][noded] by Pierre Rochard and Michael Goldstein
 - [Stephan Livera Podcast][slp] by Stephan Livera
 - [What Bitcoin Did][wbd] by Peter McCormack
 
-#### Others
+The line between the best and the rest is quite arbitrary, but I felt like one
+very long list might not be as useful as separate semi-sorted lists. While the
+following podcasts  are excellent as well, they are either not as established or
+not for everyone:
 
 - [The Cryptoconomy][cryptoconomy] by Guy
 - [Bitcoin Echo Chamber][bec] by Heavily Armed Clown
