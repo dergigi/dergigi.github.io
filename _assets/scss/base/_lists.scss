@@ -47,6 +47,7 @@ ol {
   @extend %no-margin-or-padding;
   justify-content: space-between;
   display: flex;
+  flex-wrap: wrap;
 
   img {
     display: block;
