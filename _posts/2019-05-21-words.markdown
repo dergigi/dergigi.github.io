@@ -33,10 +33,10 @@ Performing magic, or in this case, properly expressing one's thoughts in
 writing, is *hard*. Writing forces you to structure your thoughts. Structuring
 your thoughts - and by extension, yourself - can be a painful process.
 
-> "Words do not express thoughts very well. They always become a little different
-> immediately after they are expressed, a little distorted, a little foolish. And
-> yet it also pleases me and seems right that what is of value and wisdom to one
-> man seems nonsense to another."
+> "Words do not express thoughts very well. They always become a little
+> different immediately after they are expressed, a little distorted, a little
+> foolish. And yet it also pleases me and seems right that what is of value and
+> wisdom to one man seems nonsense to another."
 > <cite>Hermann Hesse, Siddhartha</cite>
 
 Painful, because you actually don't want to put in the work to clean up your
@@ -46,7 +46,7 @@ comfortable one. The option of ignoring any holes in your reasoning is too.
 It is so easy to convince yourself that your reasoning is sound. That you have
 it all figured out. "The easiest person to fool is yourself," to paraphrase
 Richard Feynman. Knowing that you can be fooled easily and that you can also
-easily fool yourself is not only helpful. It is the root of the scientific
+easily fool yourself is not only helpful -- it is the root of the scientific
 method.
 
 I've had many conversations in the last couple of weeks, some of which related
@@ -55,8 +55,8 @@ convinced of something. No matter what it is, I'm always intrigued. Don't get me
 wrong, I have strong convictions as well, but I'm more than willing to entertain
 the question: "What if I'm wrong?"
 
-> "The fundamental cause of the trouble is that in the modern world the stupid are
-> cocksure while the intelligent are full of doubt."
+> "The fundamental cause of the trouble is that in the modern world the stupid
+> are cocksure while the intelligent are full of doubt."
 > <cite>Bertrand Russell, The Triumph of Stupidity</cite>
 
 Many people do not entertain the idea that they could be wrong. I wouldn't go as
