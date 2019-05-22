@@ -1,0 +1,84 @@
+---
+layout: post
+title: "Words"
+date: 2019-05-21
+description:
+image: /assets/images/words.jpg
+author: Gigi
+category: photography
+tags:
+  - Photography
+  - Travel
+---
+
+Words have to be one of the greatest inventions of mankind. Granted, it's a
+stretch to say that the spoken word was invented. The written word, however,
+undoubtedly was.
+
+> "What an astonishing thing a book is. It's a flat object made from a tree with
+> flexible parts on which are imprinted lots of funny dark squiggles. But one
+> glance at it and you're inside the mind of another person, maybe somebody dead
+> for thousands of years. Across the millennia, an author is speaking clearly
+> and silently inside your head, directly to you. Writing is perhaps the
+> greatest of human inventions, binding together people who never knew each
+> other, citizens of distant epochs. Books break the shackles of time. A book is
+> proof that humans are capable of working magic."
+> <cite>Carl Sagan, Cosmos</cite>
+
+Books are indeed proof that humans are capable of working magic. I wonder what
+Carl's thoughts would be on the technology of today, some of which is truly
+indistinguishable from magic.
+
+Performing magic, or in this case, properly expressing one's thoughts in
+writing, is *hard*. Writing forces you to structure your thoughts. Structuring
+your thoughts - and by extension, yourself - can be a painful process.
+
+> "Words do not express thoughts very well. They always become a little different
+> immediately after they are expressed, a little distorted, a little foolish. And
+> yet it also pleases me and seems right that what is of value and wisdom to one
+> man seems nonsense to another."
+> <cite>Hermann Hesse, Siddhartha</cite>
+
+Painful, because you actually don't want to put in the work to clean up your
+thoughts, exactly *because* it is work. The option of not doing this work is a
+comfortable one. The option of ignoring any holes in your reasoning is too.
+
+It is so easy to convince yourself that your reasoning is sound. That you have
+it all figured out. "The easiest person to fool is yourself," to paraphrase
+Richard Feynman. Knowing that you can be fooled easily and that you can also
+easily fool yourself is not only helpful. It is the root of the scientific
+method.
+
+I've had many conversations in the last couple of weeks, some of which related
+to questions of certainty and doubt. I love meeting people who are fully
+convinced of something. No matter what it is, I'm always intrigued. Don't get me
+wrong, I have strong convictions as well, but I'm more than willing to entertain
+the question: "What if I'm wrong?"
+
+> "The fundamental cause of the trouble is that in the modern world the stupid are
+> cocksure while the intelligent are full of doubt."
+> <cite>Bertrand Russell, The Triumph of Stupidity</cite>
+
+Many people do not entertain the idea that they could be wrong. I wouldn't go as
+far as Bertrand Russel and call them stupid -- because I don't think they are. I
+was cocksure about things too, some years ago. What changed? I do not think that
+I got smarter. I just learned certain tricks, just like a magician learns magic
+tricks.
+
+One of those tricks is very useful to check your level of conviction: ask
+yourself what it would take to change your mind. What would it take for you to
+admit that you are wrong? Sometimes, it is also a great way to check the depth
+of your understanding.
+
+![Words](/assets/images/words-chalk.jpg#full)
+
+The more I write, the more blind-spots I keep finding in my understanding. The
+more I write, the less I am convinced that I have it all figured out. The more I
+write, the greater my respect for any successful writer. The more I write,
+however, the more I am convinced of the power of words and ideas.
+
+> “No matter what anybody tells you, words and ideas can change the world.”
+> <cite>Tom Schulman, Dead Poets Society</cite>
+
+What would it take to convince me of the opposite? And with that, the magician
+vanishes...
