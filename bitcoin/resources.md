@@ -188,9 +188,9 @@ distinction. I enjoy or have enjoyed the these podcasts as well:
 
 Many amazing articles have been written about Bitcoin. I am aware that trying to
 link to all of them is futile, but I want to make an effort and at least
-highlight some of them. I highly recommend the literature listed at the
-[Nakamoto Institute][sni] and the selection of [articles read][guy-episodes] by
-Guy Swann.
+highlight some of them. I highly recommend the [literature listed][sni] at the
+Nakamoto Institute, the selection of [articles read][guy-episodes] by
+Guy Swann, and the [writings collected][brh-writings] by Adam Taché.
 
 One of the best articles to read if you are new to Bitcoin is *The Bullish Case
 for Bitcoin*, which outlines why there are very good reasons to be optimistic
@@ -235,10 +235,16 @@ On the uniqueness of Bitcoin:
 On proof-of-work:
 
 - [The Anatomy of Proof-of-Work][pow-anatomy] by Hugo Nguyen
+- [Work is Timeless, Stake is Not][pow-timeless] by Hugo Nguyen
 - [Blockchain Proof-of-Work Is a Decentralized Clock][decentralized-clock] by Gregory Trubetskoy
+- [Bitcoin Doesn't Waste Electricity][no-waste] by Beautyon
+- [Nothing is Cheaper than Proof of Work][pow-cheapest] by Paul Sztorc
 
 [pow-anatomy]: https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667
+[pow-timeless]: https://medium.com/@hugonguyen/work-is-timeless-stake-is-not-554c4450ce18
 [decentralized-clock]: https://grisha.org/blog/2018/01/23/explaining-proof-of-work/
+[no-waste]: https://hackernoon.com/bitcoin-doesnt-waste-electricity-649694ea3605
+[pow-cheapest]: http://www.truthcoin.info/blog/pow-cheapest/
 
 On Bitcoin's identity:
 
@@ -246,11 +252,15 @@ On Bitcoin's identity:
 - [The Many Faces of Bitcoin][many-faces] by Murad Mahmudov and Adam Taché
 - [Bitcoin: Past and Future][past-and-future] by Murad Mahmudov and Adam Taché
 - [Bitcoin is. And that is enough.][bitcoin-is] by Beautyon
+- [That’s not Bitcoin, this is Bitcoin][that-this] by StopAndDecrypt
+- [That’s not Bitcoin, that’s BCash][that-this] by StopAndDecrypt
 
 [be-a-bitcoin]: https://medium.com/s/story/what-is-it-like-to-be-a-bitcoin-56109f3e6753
 [many-faces]: https://hackernoon.com/the-many-faces-of-bitcoin-1c298570d191
 [past-and-future]: https://hackernoon.com/bitcoin-past-and-future-f2feba1f419d
 [bitcoin-is]: https://hackernoon.com/bitcoin-is-and-that-is-enough-e3116870eed1
+[that-this]: https://hackernoon.com/thats-not-bitcoin-this-is-bitcoin-95f05a6fd6c2
+[bcash]: https://hackernoon.com/thats-not-bitcoin-that-s-bcash-f730f0d0a837
 
 On the question of Who Controls Bitcoin?
 
@@ -261,6 +271,28 @@ On the question of Who Controls Bitcoin?
 [social-contract]: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
 [invalid-blocks]: https://hackernoon.com/bitcoin-miners-beware-invalid-blocks-need-not-apply-51c293ee278b
 [cant-regulate]: https://hackernoon.com/why-america-cant-regulate-bitcoin-8c77cee8d794
+
+Bitcoin as an organic system:
+
+- [Foreword to The Bitcoin Standard][taleb-foreword] by Nassim Nicholas Taleb
+- [Bitcoin is a Decentralized Organism][fungi1] by Brandon Quittem
+- [Bitcoin is a Social Creature][fungi2] by Brandon Quittem
+
+[taleb-foreword]: https://medium.com/opacity/bitcoin-1537e616a074
+[fungi1]: https://medium.com/@BrandonQuittem/bitcoin-is-a-decentralized-organism-mycelium-part-1-3-6ec58cdcfaa6
+[fungi2]: https://medium.com/@BrandonQuittem/bitcoin-is-a-social-creature-mushroom-part-2-3-6a05c3abe8f0
+
+---
+
+# Cypherpunks
+
+- [A Cypherpunk's Manifesto][cypherpunks-manifesto] by Eric Hughes
+- [The Crypto Anarchist Manifesto][crypto-anarchist-manifesto] by Timothy C. May
+- [The Cyphernomicon][cyphernomicon] by Timothy C. May
+
+[cypherpunks-manifesto]: https://www.activism.net/cypherpunk/manifesto.html
+[crypto-anarchist-manifesto]: http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html
+[cyphernomicon]: https://ia600208.us.archive.org/10/items/cyphernomicon/cyphernomicon.txt
 
 Misc:
 
@@ -277,6 +309,8 @@ Misc:
 
 ### Wikis and Guides
 
+There are many great articles written by contributors of the *Bitcoin Wiki*. If you want to know more about a specific topic, the Bitcoin Wiki is a great resource. The *Libbitcoin Wiki* has an amazing list of fallacies, and some great explanations of Bitcoin's properties and principles. If you want to start hacking on Bitcoin you might want to check out the *Bitcoin Developer Guide*.
+
 - [Bitcoin Wiki][wiki-bitcoin] maintained by the Bitcoin community
 - [Libbitcoin Wiki][wiki-libbitcoin] by libbitcoin developers
 - [Bitcoin Developer Guide][bitcoin-dev-guide] by bitcoin.org
@@ -285,7 +319,7 @@ Misc:
 [wiki-libbitcoin]: https://github.com/libbitcoin/libbitcoin-system/wiki
 [bitcoin-dev-guide]: https://bitcoin.org/en/developer-guide
 
-## Curated Content
+## Other Curated Resources
 
 There are other, more complete curations of Bitcoin content and resources. If
 you are looking for longer, more varied lists, the following got you covered:
@@ -296,10 +330,13 @@ you are looking for longer, more varied lists, the following got you covered:
 - [Curated Bitcoin Articles][guy] by Guy Swann
 - [Bitcoin Survivor's Book List][guy-books] by Guy Swann
 - [Bitcoin Archive][bitcoin-archive] by Max Hillebrand
+- [Bitcoin Rabbit Hole][brh] by Adam Taché
 
 [lopp]: https://www.lopp.net/bitcoin-information.html
 [bitcoin-only]: https://bitcoin-only.com/
 [bitcoin-archive]: http://towardsliberty.com/bitcoin
+[brh]: http://bitcoinrabbithole.org/
+[brh-writings]: http://bitcoinrabbithole.org/writings/
 [guy]: https://cryptoconomy.life/
 [guy-books]: https://cryptoconomy.life/bitcoin-survivors-book-list/
 [guy-episodes]: https://anchor.fm/thecryptoconomy
