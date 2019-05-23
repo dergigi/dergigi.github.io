@@ -177,6 +177,7 @@ Bitcoin taught me that there is strength in numbers.
 [P actually equals NP]: https://en.wikipedia.org/wiki/P_versus_NP_problem#P_=_NP
 [specific problems]: https://en.wikipedia.org/wiki/Discrete_logarithm#Cryptography
 [epii]: https://bitcointalk.org/index.php?topic=4994.msg140770#msg140770
+[3Blue1Brown]: https://twitter.com/3blue1brown
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
