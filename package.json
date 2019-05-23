@@ -23,7 +23,7 @@
   "dependencies": {
     "aos": "^2.2.0",
     "gulp": "^3.9.1",
-    "jquery": "2.2.4",
+    "jquery": "3.4.0",
     "salvattore": "^1.0.9"
   },
   "devDependencies": {
