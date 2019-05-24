@@ -123,6 +123,10 @@ on things.
 One of the best ways to educate yourself on Bitcoin is by listening to the
 smartest people in the space. Luckily, we are living in the golden age of
 podcasts, and many great conversations are "open source" so to speak.
+Disclosure: I was a guest on some of these podcasts. Links to those specific
+episodes can be found [here][interviews].
+
+[interviews]: {{ '/bitcoin/interviews' | absolute_url }}
 
 I consider the following podcasts the best in the space:
 
@@ -173,6 +177,10 @@ distinction. I enjoy or have enjoyed the these podcasts as well:
 [ba]: https://twitter.com/bennd77
 
 ### Podcast episodes
+
+Some "evergreen" episodes were recorded in the last couple of years. Again, this is a personal selection so it is biased towards certain guests and topics. If there is an episode missing that you consider to be one of the best, feel free to [reach out to me][contact] and shill me said episode.
+
+[contact]: {{ '/contact' | absolute_url }}
 
 - 🎧 [BitcoinTina on why he is bullish on Bitcoin][tftc55] TFTC #55 hosted by Marty Bent
 - 🎧 [Misir Mahmudov on the Scarcity of Time & Bitcoin][tftc60] TFTC #60 hosted by Marty Bent
