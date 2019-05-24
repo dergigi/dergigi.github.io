@@ -54,25 +54,14 @@ programming, and/or mathematics are beneficial.
 {% include book.html name="grokking-bitcoin" %}
 </ul>
 
-#### Computation and Complexity Theory
-
-While Bitcoin is in the business of verification and not computation, knowing
-the limits of what computers can do and what future computers might be able to
-do can be beneficial to better understand some parts of Bitcoin. I highly
-recommend *Gödel, Escher, Bach* because it is a deeply fascinating and beautiful
-book.
+#### Economics and Central Banking
 
 <ul class="books">
-{% include book.html name="goedel-escher-bach" %}
-{% include book.html name="quantum-computing-since-democritus" %}
-{% include book.html name="new-kind-of-science" %}
+{% include book.html name="economics-in-one-lesson" %}
+{% include book.html name="ethics-of-money-production" %}
+{% include book.html name="creature-from-jekyll-island" %}
+{% include book.html name="end-the-fed" %}
 </ul>
-
-*Quantum Computing Since Democritus* is quite dense, but it is also quite
-entertaining at times. The first couple of chapters stay in the non-quantum
-world of computing and might help to understand why breaking Bitcoin's security
-is so hard. *A new Kind of Science* is certainly not for everyone, but parts of
-it are quite interesting.
 
 #### Software and Programming
 
@@ -92,14 +81,25 @@ stones for Bitcoin. Further, Bitcoin is a pragmatic piece of software, which is
 why I consider *The Pragmatic Programmer* a great book for anyone who wishes to
 hack away on Bitcoin.
 
-#### Economics and Central Banking
+#### Computation and Complexity Theory
+
+While Bitcoin is in the business of verification and not computation, knowing
+the limits of what computers can do and what future computers might be able to
+do can be beneficial to better understand some parts of Bitcoin. I highly
+recommend *Gödel, Escher, Bach* because it is a deeply fascinating and beautiful
+book.
 
 <ul class="books">
-{% include book.html name="economics-in-one-lesson" %}
-{% include book.html name="ethics-of-money-production" %}
-{% include book.html name="creature-from-jekyll-island" %}
-{% include book.html name="end-the-fed" %}
+{% include book.html name="goedel-escher-bach" %}
+{% include book.html name="quantum-computing-since-democritus" %}
+{% include book.html name="new-kind-of-science" %}
 </ul>
+
+*Quantum Computing Since Democritus* is quite dense, but it is also quite
+entertaining at times. The first couple of chapters stay in the non-quantum
+world of computing and might help to understand why breaking Bitcoin's security
+is so hard. *A new Kind of Science* is certainly not for everyone, but parts of
+it are quite interesting.
 
 #### Work
 
