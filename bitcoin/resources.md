@@ -54,13 +54,61 @@ programming, and/or mathematics are beneficial.
 {% include book.html name="grokking-bitcoin" %}
 </ul>
 
-#### Economics and Central Banking
+#### Economics
 
 <ul class="books">
 {% include book.html name="economics-in-one-lesson" %}
+{% include book.html name="human-action" %}
+{% include book.html name="creature-from-jekyll-island" %}
+{% include book.html name="end-the-fed" %}
+</ul>
+
+#### Central Banking
+
+<ul class="books">
 {% include book.html name="ethics-of-money-production" %}
 {% include book.html name="creature-from-jekyll-island" %}
 {% include book.html name="end-the-fed" %}
+</ul>
+
+#### Money
+
+<ul class="books">
+{% include book.html name="ethics-of-money-production" %}
+{% include book.html name="creature-from-jekyll-island" %}
+{% include book.html name="end-the-fed" %}
+</ul>
+
+#### Internet
+
+<ul class="books">
+{% include book.html name="the-innovators" %}
+{% include book.html name="without-their-permission" %}
+{% include book.html name="filter-bubble" %}
+</ul>
+
+#### Exponential Technologies
+
+<ul class="books">
+{% include book.html name="singularity-is-near" %}
+{% include book.html name="life-3.0" %}
+{% include book.html name="homo-deus" %}
+{% include book.html name="exponential-organizations" %}
+</ul>
+
+
+<ul class="books">
+{% include book.html name="indistinguishable-from-magic" %}
+{% include book.html name="abundance" %}
+{% include book.html name="who-owns-the-future" %}
+</ul>
+
+#### Cypherpunks
+
+
+<ul class="books">
+{% include book.html name="homo-deus" %}
+{% include book.html name="homo-deus" %}
 </ul>
 
 #### Software and Programming
@@ -342,6 +390,7 @@ you are looking for longer, more varied lists, the following got you covered:
 - [Bitcoin Survivor's Book List][guy-books] by Guy Swann
 - [Bitcoin Archive][bitcoin-archive] by Max Hillebrand
 - [Bitcoin Rabbit Hole][brh] by Adam Taché
+- [Mises Library][mises] by The Mises Institute
 
 [lopp]: https://www.lopp.net/bitcoin-information.html
 [bitcoin-only]: https://bitcoin-only.com/
@@ -352,3 +401,4 @@ you are looking for longer, more varied lists, the following got you covered:
 [guy-books]: https://cryptoconomy.life/bitcoin-survivors-book-list/
 [guy-episodes]: https://anchor.fm/thecryptoconomy
 [sni]: https://nakamotoinstitute.org/literature/
+[mises]: https://mises.org/library
