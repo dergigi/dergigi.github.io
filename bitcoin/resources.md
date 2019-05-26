@@ -24,7 +24,7 @@ the 8 pages which gave birth to Bitcoin:
 - [Bitcoin: A Peer-to-Peer Electronic Cash System][bitcoin-whitepaper] by Satoshi Nakamoto
 
 To get a grasp on Bitcoin you will have to read a book or two. If you only want
-to read one, you can't do wrong with Saifedean's *The Bitcoin Standard*.
+to read one, you can't do wrong with Saifedean's ***The Bitcoin Standard***.
 Bitcoin is money, so understanding *The Ethics of Money Production* is paramount
 to understanding what Bitcoin is about. If you need a crash-course in economics
 I recommend reading *Economics in one Lesson* by Henry Hazlitt. All three books
