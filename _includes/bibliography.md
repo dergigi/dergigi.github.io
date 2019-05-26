@@ -25,7 +25,13 @@
 [tftc60]: https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-60-Misir-Mahmudov-e3aibh
 [slp67]: https://stephanlivera.com/episode/67
 
+<!-- Videos -->
+[aantonop-intro]: https://www.youtube.com/watch?v=l1si5ZWLgy0
+[aantonop-stories]: https://www.youtube.com/watch?v=ONvg9SbauMg
+
 <!-- Articles -->
+[bullish-case]: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
+[bullish-case-audio]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuickRead_021---The-Bullish-case-For-Bitcoin-e2ndu7
 [why-different]: https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947
 [why-matters]: https://hackernoon.com/why-bitcoin-matters-c8bf733b9fad
 [worse-better]: https://www.gwern.net/Bitcoin-is-Worse-is-Better
@@ -35,6 +41,7 @@
 [god-protocols]: https://nakamotoinstitute.org/the-god-protocols/
 [security-holes]: https://nakamotoinstitute.org/trusted-third-parties/
 [shelling-out]: https://nakamotoinstitute.org/shelling-out/
+[shelling-out-audio]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_179---Shelling-Out---The-Origins-of-Money-Part-4-e2ndop
 [social-scalability]: http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html
 [pow-anatomy]: https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667
 [pow-timeless]: https://medium.com/@hugonguyen/work-is-timeless-stake-is-not-554c4450ce18
@@ -85,6 +92,9 @@
 <!-- Papers -->
 [bitcoin-whitepaper]: https://bitcoin.org/bitcoin.pdf
 
+<!-- GitHub -->
+[issues]: https://github.com/dergigi/dergigi.github.io/issues
+[pulls]: https://github.com/dergigi/dergigi.github.io/pulls
 
 <!-- Internal -->
 [contact]: {{ '/contact' | absolute_url }}

@@ -9,10 +9,40 @@ below are but a small selection which were particularly influential in my
 thinking. I am grateful for all the people who shared their insights, past and
 present.
 
-I encourage everyone to start at the beginning, and read the 8 pages which
-gave birth to Bitcoin:
+I tried to structure the resources in a meaningful way. If you think something
+is missing or the structure could be improved, please [let me know][contact]. If
+you have any suggestions, open [issues] or [PRs][pulls] on GitHub or [reach out to
+me][contact].
+
+---
+
+### Essentials
+
+I encourage everyone to start at the beginning, and read -- or at least skim --
+the 8 pages which gave birth to Bitcoin:
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System][bitcoin-whitepaper] by Satoshi Nakamoto
+
+To get a grasp on Bitcoin you will have to read a book or two. If you only want
+to read one, you can't do wrong with Saifedean's *The Bitcoin Standard*.
+Bitcoin is money, so understanding *The Ethics of Money Production* is paramount
+to understanding what Bitcoin is about. If you need a crash-course in economics
+I recommend reading *Economics in one Lesson* by Henry Hazlitt. All three books
+are also available as audiobooks.
+
+<ul class="books">
+{% include book.html name="bitcoin-standard" alt="The Bitcoin Standard: The
+Decentralized Alternative to Central Banking" %}
+{% include book.html name="economics-in-one-lesson" %}
+{% include book.html name="ethics-of-money-production" %}
+</ul>
+
+While you wait for these books to arrive, you might want to pass the time by reading the following article:
+
+- [The Bullish Case for Bitcoin][bullish-case] by Vijay Boyapati ([audio version][bullish-case-audio])
+
+If you would rather lean back and watch something, I'd recommend listening to
+Andreas Antonopoulos's *[The Stories We Tell About Money][aantonop-stories]*.
 
 ---
 
@@ -219,8 +249,6 @@ for Bitcoin*, which outlines why there are very good reasons to be optimistic
 about Bitcoin's future.
 
 - [The Bullish Case for Bitcoin][bullish-case] by Vijay Boyapati
-
-[bullish-case]: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
 
 Nick Szabo's blog is a treasure trove of excellent essays.
 
