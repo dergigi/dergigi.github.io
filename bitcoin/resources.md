@@ -48,7 +48,7 @@ Andreas Antonopoulos's *[The Stories We Tell About Money][aantonop-stories]*.
 ### Books
 
 Thanks to Bitcoin, my list of books to read gets longer and longer, way quicker
-than I could ever read them. The books listed below are books I can highly
+than I could ever read them. The books listed below are books I personally
 recommend. If a particular book is not listed here, it is probably because I
 didn't get around to read it yet. I hope to update this list continually as my
 reading progresses.
