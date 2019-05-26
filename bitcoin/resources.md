@@ -56,8 +56,8 @@ reading progresses.
 #### Bitcoin (non-technical)
 
 Books about Bitcoin which can be read by anyone, no special background Knowledge
-or education required.  I consider *The Bitcoin Standard* required reading for
-anyone interested in Bitcoin.
+or education required. As mentioned above, I consider *The Bitcoin Standard*
+required reading for anyone interested in Bitcoin.
 
 <ul class="books">
 {% include book.html name="bitcoin-standard" alt="The Bitcoin Standard: The
@@ -85,13 +85,23 @@ programming, and/or mathematics are beneficial.
 <ul class="books">
 {% include book.html name="economics-in-one-lesson" %}
 {% include book.html name="human-action" %}
+{% include book.html name="the-machinery-of-freedom" %}
 </ul>
 
-#### Money Production and Central Banking
+#### Money
 
 <ul class="books">
 {% include book.html name="ethics-of-money-production" %}
+{% include book.html name="what-has-government-done-to-our-money" %}
+{% include book.html name="money-sound-unsound" %}
+{% include book.html name="how-is-fiat-money-possible" %}
+</ul>
+
+#### Banking
+
+<ul class="books">
 {% include book.html name="creature-from-jekyll-island" %}
+{% include book.html name="mystery-of-banking" %}
 {% include book.html name="end-the-fed" %}
 </ul>
 
