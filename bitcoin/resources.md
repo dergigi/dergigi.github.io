@@ -56,8 +56,6 @@ programming, and/or mathematics are beneficial.
 <ul class="books">
 {% include book.html name="economics-in-one-lesson" %}
 {% include book.html name="human-action" %}
-{% include book.html name="creature-from-jekyll-island" %}
-{% include book.html name="end-the-fed" %}
 </ul>
 
 #### Central Banking
@@ -72,8 +70,6 @@ programming, and/or mathematics are beneficial.
 
 <ul class="books">
 {% include book.html name="ethics-of-money-production" %}
-{% include book.html name="creature-from-jekyll-island" %}
-{% include book.html name="end-the-fed" %}
 </ul>
 
 #### Internet
