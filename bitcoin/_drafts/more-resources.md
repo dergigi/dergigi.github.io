@@ -88,12 +88,43 @@ programming, and/or mathematics are beneficial.
 {% include book.html name="human-action" %}
 </ul>
 
-#### Money Production and Central Banking
+#### Money Production and Central Bankin
 
 <ul class="books">
 {% include book.html name="ethics-of-money-production" %}
 {% include book.html name="creature-from-jekyll-island" %}
 {% include book.html name="end-the-fed" %}
+</ul>
+
+
+#### Internet
+
+<ul class="books">
+{% include book.html name="the-innovators" %}
+{% include book.html name="without-their-permission" %}
+{% include book.html name="filter-bubble" %}
+</ul>
+
+#### Exponential Technologies
+
+<ul class="books">
+{% include book.html name="singularity-is-near" %}
+{% include book.html name="life-3.0" %}
+{% include book.html name="homo-deus" %}
+{% include book.html name="exponential-organizations" %}
+</ul>
+
+<ul class="books">
+{% include book.html name="indistinguishable-from-magic" %}
+{% include book.html name="abundance" %}
+{% include book.html name="who-owns-the-future" %}
+</ul>
+
+#### Cypherpunks
+
+<ul class="books">
+{% include book.html name="homo-deus" %}
+{% include book.html name="homo-deus" %}
 </ul>
 
 #### Software and Programming
