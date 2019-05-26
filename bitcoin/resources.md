@@ -14,8 +14,6 @@ gave birth to Bitcoin:
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System][bitcoin-whitepaper] by Satoshi Nakamoto
 
-[bitcoin-whitepaper]: https://bitcoin.org/bitcoin.pdf
-
 ---
 
 ### Books
@@ -25,7 +23,6 @@ than I could ever read them. The books listed below are books I can highly
 recommend. If a particular book is not listed here, it is probably because I
 didn't get around to read it yet. I hope to update this list continually as my
 reading progresses.
-
 
 #### Bitcoin (non-technical)
 
@@ -96,7 +93,6 @@ programming, and/or mathematics are beneficial.
 {% include book.html name="exponential-organizations" %}
 </ul>
 
-
 <ul class="books">
 {% include book.html name="indistinguishable-from-magic" %}
 {% include book.html name="abundance" %}
@@ -104,7 +100,6 @@ programming, and/or mathematics are beneficial.
 </ul>
 
 #### Cypherpunks
-
 
 <ul class="books">
 {% include book.html name="homo-deus" %}
@@ -174,19 +169,12 @@ podcasts, and many great conversations are "open source" so to speak.
 Disclosure: I was a guest on some of these podcasts. Links to those specific
 episodes can be found [here][interviews].
 
-[interviews]: {{ '/bitcoin/interviews' | absolute_url }}
-
 I consider the following podcasts the best in the space:
 
 - [Tales From The Crypt][tftc] by Marty Bent with RHR co-host Matt Odell
 - [Noded][noded] by Pierre Rochard and Michael Goldstein
 - [Stephan Livera Podcast][slp] by Stephan Livera
 - [What Bitcoin Did][wbd] by Peter McCormack
-
-[tftc]: https://tftc.io/tales-from-the-crypt/
-[noded]: https://noded.org/
-[slp]: https://stephanlivera.com/
-[wbd]: https://www.whatbitcoindid.com/
 
 Although I try to listen to every Bitcoin podcast under the sun, it is simply an
 unsurmountable feat due to the sheer volume of content. The following podcasts
@@ -200,14 +188,6 @@ are excellent as well:
 - [Contrarian Island][ci] by MD
 - [Crypto & Grill][cag] by CryptoDantes and StigofthePump
 
-[bkp]: https://www.bitcoin.kn/about/
-[cryptoconomy]: https://cryptoconomy.life/
-[bec]: https://bitcoinechochamber.com/
-[cb]: https://citizenbitcoin.world/
-[ci]: https://contrarianisland.com
-[cag]: https://twitter.com/cryptoandgrill
-[cv]: https://cryptovoices.com/
-
 The line between the best and the rest is quite arbitrary, but I felt like one
 very long list might not be as useful as separate lists, however arbitrary the
 distinction. I enjoy or have enjoyed the these podcasts as well:
@@ -218,12 +198,6 @@ distinction. I enjoy or have enjoyed the these podcasts as well:
 - [Fun With Crypto][fwc] by @Coinicarus
 - [Bottomshelf Bitcoin][bsb] by Josh Humphrey
 
-[rr]: https://www.buzzsprout.com/263522
-[ltb]: https://letstalkbitcoin.com/
-[fwc]: https://funwithcrypto.libsyn.com/
-[bsb]: https://bottomshelfbitcoin.com/
-[ba]: https://twitter.com/bennd77
-
 ### Podcast episodes
 
 Some "evergreen" episodes were recorded in the last couple of years. Again, this
@@ -231,17 +205,10 @@ is a personal selection so it is biased towards certain guests and topics. If
 there is an episode missing that you consider to be one of the best, feel free
 to [reach out to me][contact] and shill me said episode.
 
-[contact]: {{ '/contact' | absolute_url }}
-
 - 🎧 [BitcoinTina on why he is bullish on Bitcoin][tftc55] TFTC #55 hosted by Marty Bent
 - 🎧 [Misir Mahmudov on the Scarcity of Time & Bitcoin][tftc60] TFTC #60 hosted by Marty Bent
 - 🎧 [PlanB – Modelling Bitcoin's digital scarcity through stock-to-flow techniques﻿][slp67] SLP #67 hosted by Stephan Livera
 - 🎧 [Murad Mahmudov][tftc34] TFTC #34 hosted by Marty Bent
-
-[tftc34]: https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-34-Murad-Mahmudov-e1qndn
-[tftc55]: https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-55-BitcoinTINA-aka-Rick-Flex-e2vpt9
-[tftc60]: https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-60-Misir-Mahmudov-e3aibh
-[slp67]: https://stephanlivera.com/episode/67
 
 ### Selected Articles
 
@@ -266,18 +233,10 @@ Nick Szabo's blog is a treasure trove of excellent essays.
 - [The God Protocols][god-protocols] by Nick Szabo
 - [Trusted Third Parties Are Security Holes][security-holes] by Nick Szabo
 
-[god-protocols]: https://nakamotoinstitute.org/the-god-protocols/
-[security-holes]: https://nakamotoinstitute.org/trusted-third-parties/
-[shelling-out]: https://nakamotoinstitute.org/shelling-out/
-[social-scalability]: http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html
-
 On the difficulty of understanding Bitcoin:
 
 - [Why It’s Hard to “Get” Bitcoin][blockchain-spectrum] by Dhruv Bansal
 - [Why Blockchain is Hard][blockchain-is-hard] by Jimmy Song
-
-[blockchain-spectrum]: https://blog.unchained-capital.com/blockchain-spectrum-806847e1c575
-[blockchain-is-hard]: https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c
 
 On the uniqueness of Bitcoin:
 
@@ -286,11 +245,6 @@ On the uniqueness of Bitcoin:
 - [Bitcoin is Worse is Better][worse-better] by Gwern
 - [Bitcoin’s distribution was fair][distribution-fair] by Dan Held
 
-[why-different]: https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947
-[why-matters]: https://hackernoon.com/why-bitcoin-matters-c8bf733b9fad
-[worse-better]: https://www.gwern.net/Bitcoin-is-Worse-is-Better
-[distribution-fair]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
-
 On proof-of-work:
 
 - [The Anatomy of Proof-of-Work][pow-anatomy] by Hugo Nguyen
@@ -298,12 +252,6 @@ On proof-of-work:
 - [Blockchain Proof-of-Work Is a Decentralized Clock][decentralized-clock] by Gregory Trubetskoy
 - [Bitcoin Doesn't Waste Electricity][no-waste] by Beautyon
 - [Nothing is Cheaper than Proof of Work][pow-cheapest] by Paul Sztorc
-
-[pow-anatomy]: https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667
-[pow-timeless]: https://medium.com/@hugonguyen/work-is-timeless-stake-is-not-554c4450ce18
-[decentralized-clock]: https://grisha.org/blog/2018/01/23/explaining-proof-of-work/
-[no-waste]: https://hackernoon.com/bitcoin-doesnt-waste-electricity-649694ea3605
-[pow-cheapest]: http://www.truthcoin.info/blog/pow-cheapest/
 
 On Bitcoin's identity:
 
@@ -314,32 +262,18 @@ On Bitcoin's identity:
 - [That’s not Bitcoin, this is Bitcoin][that-this] by StopAndDecrypt
 - [That’s not Bitcoin, that’s BCash][that-this] by StopAndDecrypt
 
-[be-a-bitcoin]: https://medium.com/s/story/what-is-it-like-to-be-a-bitcoin-56109f3e6753
-[many-faces]: https://hackernoon.com/the-many-faces-of-bitcoin-1c298570d191
-[past-and-future]: https://hackernoon.com/bitcoin-past-and-future-f2feba1f419d
-[bitcoin-is]: https://hackernoon.com/bitcoin-is-and-that-is-enough-e3116870eed1
-[that-this]: https://hackernoon.com/thats-not-bitcoin-this-is-bitcoin-95f05a6fd6c2
-[bcash]: https://hackernoon.com/thats-not-bitcoin-that-s-bcash-f730f0d0a837
-
 On the question of Who Controls Bitcoin?
 
 - [Unpacking Bitcoin's Social Contract][social-contract] by Hasu
 - [Bitcoin Miners Beware: Invalid Blocks Need Not Apply][invalid-blocks] by StopAndDecrypt
 - [Why America Can’t Regulate Bitcoin][cant-regulate] by Beautyon
 
-[social-contract]: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
-[invalid-blocks]: https://hackernoon.com/bitcoin-miners-beware-invalid-blocks-need-not-apply-51c293ee278b
-[cant-regulate]: https://hackernoon.com/why-america-cant-regulate-bitcoin-8c77cee8d794
 
 Bitcoin as an organic system:
 
 - [Foreword to The Bitcoin Standard][taleb-foreword] by Nassim Nicholas Taleb
 - [Bitcoin is a Decentralized Organism][fungi1] by Brandon Quittem
 - [Bitcoin is a Social Creature][fungi2] by Brandon Quittem
-
-[taleb-foreword]: https://medium.com/opacity/bitcoin-1537e616a074
-[fungi1]: https://medium.com/@BrandonQuittem/bitcoin-is-a-decentralized-organism-mycelium-part-1-3-6ec58cdcfaa6
-[fungi2]: https://medium.com/@BrandonQuittem/bitcoin-is-a-social-creature-mushroom-part-2-3-6a05c3abe8f0
 
 ---
 
@@ -349,22 +283,12 @@ Bitcoin as an organic system:
 - [The Crypto Anarchist Manifesto][crypto-anarchist-manifesto] by Timothy C. May
 - [The Cyphernomicon][cyphernomicon] by Timothy C. May
 
-[cypherpunks-manifesto]: https://www.activism.net/cypherpunk/manifesto.html
-[crypto-anarchist-manifesto]: http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html
-[cyphernomicon]: https://ia600208.us.archive.org/10/items/cyphernomicon/cyphernomicon.txt
-
 Misc:
 
 - [An Open Letter to Banks about Bitcoin and Cryptocurrencies][open-letter] by Peter McCormack
 - [The Bitcoin Halving and Monetary Competition][bitcoin-halving] by Saifedean Ammous
 
-
-[bitcoin-halving]: https://thesaifhouse.wordpress.com/2016/07/09/the-bitcoin-halving-and-monetary-competition/
-[open-letter]: https://hackernoon.com/an-open-letter-to-banks-about-bitcoin-and-cryptocurrencies-b0c7ef9b7c62
-
-
 <!-- - [Guess My Bitcoin Private Key][guess-pk] by Michael Kerbleski -->
-<!-- [guess-pk]: https://medium.com/@kerbleski/a-dance-with-infinity-980bd8e9a781 -->
 
 ### Wikis and Guides
 
@@ -373,10 +297,6 @@ There are many great articles written by contributors of the *Bitcoin Wiki*. If 
 - [Bitcoin Wiki][wiki-bitcoin] maintained by the Bitcoin community
 - [Libbitcoin Wiki][wiki-libbitcoin] by libbitcoin developers
 - [Bitcoin Developer Guide][bitcoin-dev-guide] by bitcoin.org
-
-[wiki-bitcoin]: https://en.bitcoin.it/wiki/
-[wiki-libbitcoin]: https://github.com/libbitcoin/libbitcoin-system/wiki
-[bitcoin-dev-guide]: https://bitcoin.org/en/developer-guide
 
 ## Other Curated Resources
 
@@ -392,13 +312,4 @@ you are looking for longer, more varied lists, the following got you covered:
 - [Bitcoin Rabbit Hole][brh] by Adam Taché
 - [Mises Library][mises] by The Mises Institute
 
-[lopp]: https://www.lopp.net/bitcoin-information.html
-[bitcoin-only]: https://bitcoin-only.com/
-[bitcoin-archive]: http://towardsliberty.com/bitcoin
-[brh]: http://bitcoinrabbithole.org/
-[brh-writings]: http://bitcoinrabbithole.org/writings/
-[guy]: https://cryptoconomy.life/
-[guy-books]: https://cryptoconomy.life/bitcoin-survivors-book-list/
-[guy-episodes]: https://anchor.fm/thecryptoconomy
-[sni]: https://nakamotoinstitute.org/literature/
-[mises]: https://mises.org/library
+{% include bibliography.md %}
