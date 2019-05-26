@@ -9,7 +9,26 @@ below are but a small selection which were particularly influential in my
 thinking. I am grateful for all the people who shared their insights, past and
 present.
 
-I tried to structure the resources in a meaningful way. If you think something
+I tried to structure the resources in a meaningful way. The [essentials] come
+first, since I consider them to be a good starting point and required reading
+for everyone. After that, all resources are broken down by category:
+
+- [Books] on bitcoin, economics, money, banking, and computer science
+- [Podcasts] and [selected episodes]
+- [Selected articles], broken down by topic
+
+Note that there is a list of [other curated resources] at the end of this page.
+Make sure to check them out, since everyone's selection is different and one of
+those might better suite your taste.
+
+[essentials]: #essentials
+[Books]: #books
+[Podcasts]: #podcasts
+[selected episodes]: #podcast-episodes
+[Selected articles]: #articles
+[other curated resources]: #further-resources
+
+If you think something
 is missing or the structure could be improved, please [let me know][contact]. If
 you have any suggestions, open [issues] or [PRs][pulls] on GitHub or [reach out to
 me][contact].
@@ -36,7 +55,8 @@ are also available as audiobooks.
 {% include book.html name="ethics-of-money-production" %}
 </ul>
 
-While you wait for these books to arrive, you might want to pass the time by reading the following article:
+While you wait for these books to arrive, you might want to pass the time by
+reading the following article:
 
 - [The Bullish Case for Bitcoin][bullish-case] by Vijay Boyapati ([audio version][bullish-case-audio])
 
@@ -209,7 +229,9 @@ to [reach out to me][contact] and shill me said episode.
 - 🎧 [PlanB – Modelling Bitcoin's digital scarcity through stock-to-flow techniques﻿][slp67] SLP #67 hosted by Stephan Livera
 - 🎧 [Murad Mahmudov][tftc34] TFTC #34 hosted by Marty Bent
 
-### Selected Articles
+---
+
+### Articles
 
 Many amazing articles have been written about Bitcoin. I am aware that trying to
 link to all of them is futile, but I want to make an effort and at least
@@ -223,6 +245,8 @@ about Bitcoin's future.
 
 - [The Bullish Case for Bitcoin][bullish-case] by Vijay Boyapati
 
+#### Nick Szabo
+
 Nick Szabo's blog is a treasure trove of excellent essays.
 
 - [Shelling Out: The Origins of Money][shelling-out] by Nick Szabo
@@ -230,19 +254,19 @@ Nick Szabo's blog is a treasure trove of excellent essays.
 - [The God Protocols][god-protocols] by Nick Szabo
 - [Trusted Third Parties Are Security Holes][security-holes] by Nick Szabo
 
-On the difficulty of understanding Bitcoin:
+#### On the difficulty of understanding Bitcoin:
 
 - [Why It’s Hard to “Get” Bitcoin][blockchain-spectrum] by Dhruv Bansal
 - [Why Blockchain is Hard][blockchain-is-hard] by Jimmy Song
 
-On the uniqueness of Bitcoin:
+#### On the uniqueness of Bitcoin:
 
 - [Why Bitcoin is Different][why-different] by Jimmy Song
 - [Why Bitcoin Matters][why-matters] by Aleksandar Svetski
 - [Bitcoin is Worse is Better][worse-better] by Gwern
 - [Bitcoin’s distribution was fair][distribution-fair] by Dan Held
 
-On proof-of-work:
+#### On proof-of-work:
 
 - [The Anatomy of Proof-of-Work][pow-anatomy] by Hugo Nguyen
 - [Work is Timeless, Stake is Not][pow-timeless] by Hugo Nguyen
@@ -250,7 +274,7 @@ On proof-of-work:
 - [Bitcoin Doesn't Waste Electricity][no-waste] by Beautyon
 - [Nothing is Cheaper than Proof of Work][pow-cheapest] by Paul Sztorc
 
-On Bitcoin's identity:
+#### On Bitcoin's identity:
 
 - [Bitcoin’s Existential Crisis][be-a-bitcoin] (original title: What is it like to be a Bitcoin?) by Nic Carter
 - [The Many Faces of Bitcoin][many-faces] by Murad Mahmudov and Adam Taché
@@ -259,33 +283,33 @@ On Bitcoin's identity:
 - [That’s not Bitcoin, this is Bitcoin][that-this] by StopAndDecrypt
 - [That’s not Bitcoin, that’s BCash][that-this] by StopAndDecrypt
 
-On the question of Who Controls Bitcoin?
+#### On the question of Who Controls Bitcoin?
 
 - [Unpacking Bitcoin's Social Contract][social-contract] by Hasu
 - [Bitcoin Miners Beware: Invalid Blocks Need Not Apply][invalid-blocks] by StopAndDecrypt
 - [Why America Can’t Regulate Bitcoin][cant-regulate] by Beautyon
 
 
-Bitcoin as an organic system:
+#### Bitcoin as an organic system
 
 - [Foreword to The Bitcoin Standard][taleb-foreword] by Nassim Nicholas Taleb
 - [Bitcoin is a Decentralized Organism][fungi1] by Brandon Quittem
 - [Bitcoin is a Social Creature][fungi2] by Brandon Quittem
 
----
-
-# Cypherpunks
+#### Cypherpunks
 
 - [A Cypherpunk's Manifesto][cypherpunks-manifesto] by Eric Hughes
 - [The Crypto Anarchist Manifesto][crypto-anarchist-manifesto] by Timothy C. May
 - [The Cyphernomicon][cyphernomicon] by Timothy C. May
 
-Misc:
+#### Misc
 
 - [An Open Letter to Banks about Bitcoin and Cryptocurrencies][open-letter] by Peter McCormack
 - [The Bitcoin Halving and Monetary Competition][bitcoin-halving] by Saifedean Ammous
 
 <!-- - [Guess My Bitcoin Private Key][guess-pk] by Michael Kerbleski -->
+
+---
 
 ### Wikis and Guides
 
@@ -295,7 +319,7 @@ There are many great articles written by contributors of the *Bitcoin Wiki*. If 
 - [Libbitcoin Wiki][wiki-libbitcoin] by libbitcoin developers
 - [Bitcoin Developer Guide][bitcoin-dev-guide] by bitcoin.org
 
-## Other Curated Resources
+### Further Resources
 
 There are other, more complete curations of Bitcoin content and resources. If
 you are looking for longer, more varied lists, the following got you covered:
