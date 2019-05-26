@@ -22,8 +22,8 @@ ol {
 
     & > li {
       position: relative;
-
-      font-size: 1.1em;
+      font-family: $font-post;
+      font-size: 1.2em;
 
       &:not(:last-child) {
         margin-bottom: 0.25rem;
