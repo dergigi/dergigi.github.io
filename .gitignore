@@ -6,3 +6,4 @@ node_modules/
 _site
 .sass-cache
 .jekyll-metadata
+scripts/spreadsheet_to_resource_mds/client_secret.json
