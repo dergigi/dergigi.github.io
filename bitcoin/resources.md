@@ -107,6 +107,13 @@ or education required. As mentioned above, I consider *The Bitcoin Standard*
 required reading for anyone interested in Bitcoin.
 
 <ul class="books">
+{% assign non-technical = site.books | where: 'category', 'non-technical' %}
+{% for book in non-technical %}
+{% include book.html book=book %}
+{% endfor %}
+</ul>
+
+<ul class="books">
 {% include book.html title="The Bitcoin Standard" %}
 {% include book.html name="internet-of-money-vol1" %}
 {% include book.html name="internet-of-money-vol2" %}
