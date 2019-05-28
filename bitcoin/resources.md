@@ -28,10 +28,9 @@ those might better suite your taste.
 [Selected articles]: #articles
 [other curated resources]: #further-resources
 
-If you think something
-is missing or the structure could be improved, please [let me know][contact]. If
-you have any suggestions, open [issues] or [PRs][pulls] on GitHub or [reach out to
-me][contact].
+If you think something is missing or the structure could be improved, please
+[let me know][contact]. If you have any suggestions, open [issues] or
+[PRs][pulls] on GitHub or [reach out to me][contact].
 
 ---
 
@@ -100,7 +99,19 @@ programming, and/or mathematics are beneficial.
 {% include book.html name="grokking-bitcoin" %}
 </ul>
 
+There are also great online resource available, see [Wikis and
+Guides][wikis-and-guides].
+
+[wikis-and-guides]: #wikis-and-guides
+
 #### Economics
+
+Bitcoin is capable of being the new base layer of our economy, which is why
+understanding economics is essential in understanding Bitcoin. Bitcoin's
+monetary policy is aligned with the Austrian School of economic thought, which
+is why reading the works of Austrian's such as Hayek, Hazlitt, Hoppe, Menger,
+Mises, Rothbard, and others is recommended by those who take Bitcoin's value
+proposition seriously.
 
 <ul class="books">
 {% include book.html name="economics-in-one-lesson" %}
@@ -108,7 +119,12 @@ programming, and/or mathematics are beneficial.
 {% include book.html name="the-machinery-of-freedom" %}
 </ul>
 
+*Human Action* is Mises' magnum opus, and is freely available online as both an
+ebook and an audiobook.
+
 #### Money
+
+In stark contrast to our current economic system, Bitcoin does not offer the possibility of inflating the monetary base.
 
 <ul class="books">
 {% include book.html name="ethics-of-money-production" %}
