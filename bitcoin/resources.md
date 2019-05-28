@@ -300,28 +300,24 @@ about Bitcoin's future.
 
 - [The Bullish Case for Bitcoin][bullish-case] by Vijay Boyapati
 
-#### Nick Szabo
-
-Nick Szabo's blog is a treasure trove of excellent essays.
-
-- [Shelling Out: The Origins of Money][shelling-out] by Nick Szabo
-- [Money, blockchains, and social scalability][social-scalability] by Nick Szabo
-- [The God Protocols][god-protocols] by Nick Szabo
-- [Trusted Third Parties Are Security Holes][security-holes] by Nick Szabo
-
-#### On the difficulty of understanding Bitcoin:
+#### The Difficulty of Understanding Bitcoin
 
 - [Why It’s Hard to “Get” Bitcoin][blockchain-spectrum] by Dhruv Bansal
 - [Why Blockchain is Hard][blockchain-is-hard] by Jimmy Song
 
-#### On the uniqueness of Bitcoin:
+#### Bitcoin's uniqueness
 
 - [Why Bitcoin is Different][why-different] by Jimmy Song
 - [Why Bitcoin Matters][why-matters] by Aleksandar Svetski
 - [Bitcoin is Worse is Better][worse-better] by Gwern
 - [Bitcoin’s distribution was fair][distribution-fair] by Dan Held
 
-#### On proof-of-work:
+#### Money
+
+- [Shelling Out: The Origins of Money][shelling-out] by Nick Szabo
+- [Money, blockchains, and social scalability][social-scalability] by Nick Szabo
+
+#### Proof-of-work
 
 - [The Anatomy of Proof-of-Work][pow-anatomy] by Hugo Nguyen
 - [Work is Timeless, Stake is Not][pow-timeless] by Hugo Nguyen
@@ -329,7 +325,7 @@ Nick Szabo's blog is a treasure trove of excellent essays.
 - [Bitcoin Doesn't Waste Electricity][no-waste] by Beautyon
 - [Nothing is Cheaper than Proof of Work][pow-cheapest] by Paul Sztorc
 
-#### On Bitcoin's identity:
+#### Bitcoin's Identity
 
 - [Bitcoin’s Existential Crisis][be-a-bitcoin] (original title: What is it like to be a Bitcoin?) by Nic Carter
 - [The Many Faces of Bitcoin][many-faces] by Murad Mahmudov and Adam Taché
@@ -338,7 +334,7 @@ Nick Szabo's blog is a treasure trove of excellent essays.
 - [That’s not Bitcoin, this is Bitcoin][that-this] by StopAndDecrypt
 - [That’s not Bitcoin, that’s BCash][that-this] by StopAndDecrypt
 
-#### On the question of Who Controls Bitcoin?
+#### Who Controls Bitcoin?
 
 - [Unpacking Bitcoin's Social Contract][social-contract] by Hasu
 - [Bitcoin Miners Beware: Invalid Blocks Need Not Apply][invalid-blocks] by StopAndDecrypt
@@ -359,6 +355,8 @@ Nick Szabo's blog is a treasure trove of excellent essays.
 
 #### Misc
 
+- [The God Protocols][god-protocols] by Nick Szabo
+- [Trusted Third Parties Are Security Holes][security-holes] by Nick Szabo
 - [An Open Letter to Banks about Bitcoin and Cryptocurrencies][open-letter] by Peter McCormack
 - [The Bitcoin Halving and Monetary Competition][bitcoin-halving] by Saifedean Ammous
 
@@ -391,5 +389,6 @@ you are looking for longer, more varied lists, the following got you covered:
 - [Bitcoin Archive][bitcoin-archive] by Max Hillebrand
 - [Bitcoin Rabbit Hole][brh] by Adam Taché
 - [Mises Library][mises] by The Mises Institute
+- [Unenumerated][unenumerated] by Nick Szabo
 
 {% include bibliography.md %}
