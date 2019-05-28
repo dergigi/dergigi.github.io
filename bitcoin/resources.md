@@ -3,8 +3,9 @@ layout: page-with-toc
 title: Resources
 ---
 
-**TL;DR:** Read *The Bitcoin Standard* and *The Bullish Case for Bitcoin.*
-Listen to *The Stories We Tell About Money.* Then read some more.
+**TL;DR:** Read [*The Bitcoin Standard*][bitcoin-standard] and [*The Bullish
+Case for Bitcoin*][bullish-case]. Listen to [*The Stories We Tell About
+Money*][aantonop-stories]. Then read some more.
 
 ---
 

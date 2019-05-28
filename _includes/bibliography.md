@@ -1,3 +1,7 @@
+<!-- Books -->
+
+[bitcoin-standard]: https://t.co/IDdQejTYH6
+
 <!-- Podcasts -->
 
 [tftc]: https://tftc.io/tales-from-the-crypt/
