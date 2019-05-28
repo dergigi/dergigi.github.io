@@ -55,9 +55,9 @@ I recommend reading *Economics in One Lesson* by Henry Hazlitt. All three books
 are also available as audiobooks.
 
 <ul class="books">
-{% include book.html name="bitcoin-standard" alt="The Bitcoin Standard: The Decentralized Alternative to Central Banking" %}
-{% include book.html name="ethics-of-money-production" %}
-{% include book.html name="economics-in-one-lesson" %}
+{% include book.html title="The Bitcoin Standard" %}
+{% include book.html title="The Ethics of Money Production" %}
+{% include book.html title="Economics in One Lesson" %}
 </ul>
 
 While you wait for these books to arrive, you might want to pass the time by
