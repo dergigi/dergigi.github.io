@@ -67,9 +67,30 @@ Andreas Antonopoulos's *[The Stories We Tell About Money][aantonop-stories]*.
 ### Books
 
 Thanks to Bitcoin, my list of books to read gets longer and longer, way quicker
-than I could ever read them. The books listed below are books I personally
+than I could ever read them. The books listed below are books I can personally
 recommend. If a particular book is not listed here, it is probably because I
-didn't get around to read it yet. I hope to update this list continually as my
+didn't get around to read it yet. Although there is some overlap, the books are
+roughly grouped by topics as follows:
+
+* [Bitcoin (non-technical)][bitcoin-non-technical]
+* [Bitcoin (technical)][bitcoin-technical]
+* [Economics][economics]
+* [Money][money]
+* [Banking][banking]
+* [Software and Programming][software-and-programming]
+* [Computation and Complexity Theory][computation-and-complexity-theory]
+* [Work][work]
+
+[bitcoin-non-technical]: #bitcoin-non-technical
+[bitcoin-technical]: #bitcoin-technical
+[economics]: #economics
+[money]: #money
+[banking]: #banking
+[software-and-programming]: #software-and-programming
+[computation-and-complexity-theory]: #computation-and-complexity-theory
+[work]: #work
+
+I hope to update this list continually as my
 reading progresses.
 
 #### Bitcoin (non-technical)
@@ -124,7 +145,10 @@ ebook and an audiobook.
 
 #### Money
 
-In stark contrast to our current economic system, Bitcoin does not offer the possibility of inflating the monetary base.
+In stark contrast to our current economic system, Bitcoin does not offer the
+possibility of inflating the monetary base. Understanding money, and especially
+*sound* money, is paramount to understanding the value proposition and ultimate
+impact of Bitcoin.
 
 <ul class="books">
 {% include book.html name="ethics-of-money-production" %}
@@ -133,19 +157,27 @@ In stark contrast to our current economic system, Bitcoin does not offer the pos
 {% include book.html name="how-is-fiat-money-possible" %}
 </ul>
 
+Note that *How is Fiat Money Possible* is an essay, but it is too poignant to
+not be included here.
+
 #### Banking
 
+Banking is a mystery to most, and central banking doubly so. Bitcoin isn't
+necessarily an enemy of the former, but, if successful, it will abolish and
+replace the latter.
+
 <ul class="books">
-{% include book.html name="creature-from-jekyll-island" %}
 {% include book.html name="mystery-of-banking" %}
+{% include book.html name="creature-from-jekyll-island" %}
 {% include book.html name="end-the-fed" %}
 </ul>
 
 #### Software and Programming
 
 Bitcoin is free, libre open-source software. It is free as in freedom, free as
-in free speech. Understanding what this means and why free software exists is
-essential to understanding Bitcoin.
+in free speech. What this means, why free software exists, and what the
+implications of free (vs proprietary) software are, is important to understand
+the unstoppability of Bitcoin.
 
 <ul class="books">
 {% include book.html name="free-software-free-society" %}
@@ -155,9 +187,9 @@ essential to understanding Bitcoin.
 </ul>
 
 I would argue that the ethos of GNU and UNIX programming are important corner
-stones for Bitcoin. Further, Bitcoin is a pragmatic piece of software, which is
-why I consider *The Pragmatic Programmer* a great book for anyone who wishes to
-hack away on Bitcoin.
+stones for Bitcoin as well. Further, Bitcoin is a pragmatic piece of software,
+which is why I consider *The Pragmatic Programmer* a great book for anyone who
+wishes to hack away on Bitcoin.
 
 #### Computation and Complexity Theory
 
@@ -186,7 +218,8 @@ people interact and work with each other. People who work on or create content
 for Bitcoin are located all over the world, thus regular approaches to work
 might not produce the best results. I found the following books to hit a certain
 nerve, speaking as someone who has stepped outside of the regular way of working
-on things.
+on things. If you think about working on Bitcoin or other open-source projects,
+these books are for you.
 
 <ul class="books">
 {% include book.html name="crazy-at-work" %}
