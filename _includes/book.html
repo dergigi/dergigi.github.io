@@ -1,7 +1,7 @@
-{% capture slugTitle %}{{ include.title | slugify }}{% endcapture %}
+{% assign book = include.book %}
+{% capture slugTitle %}{{ book.title | slugify }}{% endcapture %}
 {% capture folderPath %}/assets/images/bitcoin/books{% endcapture %}
 {% capture imagePath %}{{ folderPath }}/{{ slugTitle }}.jpg{% endcapture %}
-{% assign book = site.books | where: 'title', 'The Bitcoin Standard' %}
 <li>
   <a href="{{ book.link }}">
   <img src="{{ imagePath | replace: '//', '/' | absolute_url }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %}/>
