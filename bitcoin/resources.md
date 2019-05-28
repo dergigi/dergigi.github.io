@@ -362,7 +362,11 @@ Nick Szabo's blog is a treasure trove of excellent essays.
 
 ### Wikis and Guides
 
-There are many great articles written by contributors of the *Bitcoin Wiki*. If you want to know more about a specific topic, the Bitcoin Wiki is a great resource. The *Libbitcoin Wiki* has an amazing list of fallacies, and some great explanations of Bitcoin's properties and principles. If you want to start hacking on Bitcoin you might want to check out the *Bitcoin Developer Guide*.
+There are many great articles written by contributors of the *Bitcoin Wiki*. If
+you want to know more about a specific topic, the Bitcoin Wiki is a great
+resource. The *Libbitcoin Wiki* has an amazing list of fallacies, and some great
+explanations of Bitcoin's properties and principles. If you want to start
+hacking on Bitcoin you might want to check out the *Bitcoin Developer Guide*.
 
 - [Bitcoin Wiki][wiki-bitcoin] maintained by the Bitcoin community
 - [Libbitcoin Wiki][wiki-libbitcoin] by libbitcoin developers
