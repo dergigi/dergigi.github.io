@@ -3,6 +3,11 @@ layout: page-with-toc
 title: Resources
 ---
 
+**TL;DR:** Read *The Bitcoin Standard* and *The Bullish Case for Bitcoin.*
+Listen to *The Stories We Tell About Money.* Then read some more.
+
+---
+
 There exists an almost endless list of essays, articles, books, podcasts, and
 other content on Bitcoin and the topics it touches on. The resources listed
 below are but a small selection which were particularly influential in my
