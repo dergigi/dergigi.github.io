@@ -55,9 +55,10 @@ I recommend reading *Economics in One Lesson* by Henry Hazlitt. All three books
 are also available as audiobooks.
 
 <ul class="books">
-{% include book.html title="The Bitcoin Standard" %}
-{% include book.html title="The Ethics of Money Production" %}
-{% include book.html title="Economics in One Lesson" %}
+{% assign essentials = site.books | where: 'category', 'essentials' %}
+{% for book in essentials %}
+{% include book.html book=book %}
+{% endfor %}
 </ul>
 
 While you wait for these books to arrive, you might want to pass the time by
