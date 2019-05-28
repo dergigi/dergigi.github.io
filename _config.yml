@@ -29,6 +29,7 @@ social:
 formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Collections
+collections_dir: collections
 collections:
   posts:
     title: Posts
