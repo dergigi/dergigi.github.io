@@ -55,9 +55,9 @@ I recommend reading *Economics in One Lesson* by Henry Hazlitt. All three books
 are also available as audiobooks.
 
 <ul class="books">
-{% include book.html name="economics-in-one-lesson" %}
 {% include book.html name="bitcoin-standard" alt="The Bitcoin Standard: The Decentralized Alternative to Central Banking" %}
 {% include book.html name="ethics-of-money-production" %}
+{% include book.html name="economics-in-one-lesson" %}
 </ul>
 
 While you wait for these books to arrive, you might want to pass the time by
@@ -110,8 +110,12 @@ required reading for anyone interested in Bitcoin.
 Decentralized Alternative to Central Banking" %}
 {% include book.html name="internet-of-money-vol1" %}
 {% include book.html name="internet-of-money-vol2" %}
+</ul>
+
+<ul class="books">
+{% include book.html name="bitcoin-money" %}
 {% include book.html name="inventing-bitcoin" %}
-<!-- {% include book.html name="bitcoin-money" %} -->
+{% include book.html name="digital-gold" %}
 </ul>
 
 #### Bitcoin (technical)
