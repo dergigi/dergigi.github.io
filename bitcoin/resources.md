@@ -106,8 +106,7 @@ or education required. As mentioned above, I consider *The Bitcoin Standard*
 required reading for anyone interested in Bitcoin.
 
 <ul class="books">
-{% include book.html name="bitcoin-standard" alt="The Bitcoin Standard: The
-Decentralized Alternative to Central Banking" %}
+{% include book.html title="The Bitcoin Standard" %}
 {% include book.html name="internet-of-money-vol1" %}
 {% include book.html name="internet-of-money-vol2" %}
 </ul>
