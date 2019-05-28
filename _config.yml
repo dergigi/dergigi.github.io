@@ -29,15 +29,12 @@ social:
 formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Collections
-collections_dir: collections
 collections:
   posts:
     title: Posts
-    output: true
   books:
     title: Books
     permalink: /books/
-    output: false
 
 # Author settings
 author:
