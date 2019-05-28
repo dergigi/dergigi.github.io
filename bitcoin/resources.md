@@ -113,8 +113,8 @@ Decentralized Alternative to Central Banking" %}
 </ul>
 
 <ul class="books">
-{% include book.html name="bitcoin-money" %}
 {% include book.html name="inventing-bitcoin" %}
+{% include book.html name="bitcoin-money" %}
 {% include book.html name="digital-gold" %}
 </ul>
 
