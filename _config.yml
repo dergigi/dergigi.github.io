@@ -34,10 +34,6 @@ collections:
   posts:
     title: Posts
     output: true
-  bitcoin:
-    title: Bitcoin
-    permalink: /bitcoin/
-    output: true
   books:
     title: Books
     permalink: /books/
