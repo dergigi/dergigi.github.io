@@ -8,3 +8,4 @@ _site
 .sass-cache
 .jekyll-metadata
 scripts/spreadsheet_to_resource_mds/client_secret.json
+scripts/spreadsheet_to_resource_mds/__pycache__
