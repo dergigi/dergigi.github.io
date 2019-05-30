@@ -6,6 +6,7 @@ date: 2018-06-10
 description: "Why the energy expenditure of Bitcoin's network is not as bad as you might think."
 image: /assets/images/btc01-david.jpg
 source: https://medium.com/@dergigi/bitcoins-energy-consumption-6dd7d7a2e463
+redirect_from: /bitcoin/2018-06-10-bitcoin-s-energy-consumption
 author: Gigi
 category: bitcoin
 tags:
