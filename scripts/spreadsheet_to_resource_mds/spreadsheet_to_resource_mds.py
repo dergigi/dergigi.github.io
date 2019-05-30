@@ -23,26 +23,27 @@ for row in sheet.get_all_values():
     resource_categories = row[0].split(',')
     resource_type = row[1].lower()
     resource_title = row[2].title().replace(":", "&#58")
-    resource_authors = row[3].lstrip().rstrip().split(',')
-    resource_url = row[4]
-    resource_date = row[5] if row[5] != '' else NO_DATE
+    resource_title = row[3].replace(":", "&#58")
+    resource_authors = row[4].lstrip().rstrip().split(',')
+    resource_url = row[6]
+    # resource_date = row[5] if row[5] != '' else NO_DATE
     resource_excerpt = get_excerpt_from_page(resource_url)
 
-    for author in resource_authors:
-        author_slug = get_valid_author_slug(author)
-        author_file_path = author_to_file_path(author_slug)
-        if os.path.exists(author_file_path) or author_file_path == "":
-            continue
-
-        author_file = (
-            f"---\n"
-            f"name: {author.strip()}\n"
-            f"slug: {author_slug}\n"
-            f"permalink: /author/{author_slug}\n"
-            f"---")
-
-        with open(author_file_path, 'w') as f:
-            f.write(author_file)
+    # for author in resource_authors:
+    #     author_slug = get_valid_author_slug(author)
+    #     author_file_path = author_to_file_path(author_slug)
+    #     if os.path.exists(author_file_path) or author_file_path == "":
+    #         continue
+    #
+    #     author_file = (
+    #         f"---\n"
+    #         f"name: {author.strip()}\n"
+    #         f"slug: {author_slug}\n"
+    #         f"permalink: /author/{author_slug}\n"
+    #         f"---")
+    #
+    #     with open(author_file_path, 'w') as f:
+    #         f.write(author_file)
 
     md_file_path = title_to_file_path(resource_title, resource_type)
     if os.path.exists(md_file_path) or md_file_path == "":
@@ -52,7 +53,7 @@ for row in sheet.get_all_values():
                 f"---\n"
                 f"layout: {resource_type}\n"
                 f"title: {resource_title}\n"
-                f"date: {resource_date}\n"
+                # f"date: {resource_date}\n"
                 f"categories: {resource_categories}\n"
                 f"author: {resource_authors}\n"
                 f"excerpt: {resource_excerpt}\n"
