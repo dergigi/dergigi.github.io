@@ -17,7 +17,7 @@ sheet = client.open("Bitcoin Resources").sheet1
 NO_DATE = "1111-11-11"
 
 for row in sheet.get_all_values():
-    if row[0] == '':
+    if row[0] == 'Categories':
         continue
 
     resource_categories = row[0].split(',')
