@@ -7,39 +7,6 @@ title: Resources
 Case for Bitcoin*][bullish-case]. Listen to [*The Stories We Tell About
 Money*][aantonop-stories]. Then read some more.
 
----
-
-There exists an almost endless list of essays, articles, books, podcasts, and
-other content on Bitcoin and the topics it touches on. The resources listed
-below are but a small selection which were particularly influential in my
-thinking. I am grateful for all the people who shared their insights, past and
-present.
-
-I tried to structure the resources in a meaningful way. The [essentials] come
-first, since I consider them to be a good starting point and required reading
-for everyone. After that, all resources are broken down by category:
-
-- [Books] on bitcoin, economics, money, banking, and computer science
-- [Podcasts] and [selected episodes]
-- [Selected articles], broken down by topic
-
-Note that there is a list of [other curated resources] at the end of this page.
-Make sure to check them out, since everyone's selection is different and one of
-those might better suite your taste.
-
-[essentials]: #essentials
-[Books]: #books
-[Podcasts]: #podcasts
-[selected episodes]: #podcast-episodes
-[Selected articles]: #articles
-[other curated resources]: #further-resources
-
-If you think something is missing or the structure could be improved, please
-[let me know][contact]. If you have any suggestions, open [issues] or
-[PRs][pulls] on GitHub or [reach out to me][contact].
-
----
-
 ### Essentials
 
 I encourage everyone to start at the beginning, and read -- or at least skim --
@@ -65,6 +32,42 @@ If you would rather lean back and watch something, I'd recommend listening to
 Andreas Antonopoulos's *[The Stories We Tell About Money][aantonop-stories]*.
 
 ---
+
+### About these Resources
+
+There exists an almost endless list of essays, articles, books, podcasts, and
+other content on Bitcoin and the topics it touches on. The resources listed
+here are but a small selection which were particularly influential in my
+thinking.
+
+I tried to structure the resources in a meaningful way. The [essentials] come
+first, since I consider them to be a good starting point and required reading
+for everyone. Further resources are listed below and grouped by category:
+
+- [Books] on Bitcoin, economics, money, and other topics
+- [Podcasts] and [selected episodes]
+- [Selected articles], grouped by topic
+
+Note that there is a list of [other curated resources] at the end of this page.
+Make sure to check them out, since everyone's selection is different and one of
+those might better suite your taste.
+
+[essentials]: #essentials
+[Books]: #books
+[Podcasts]: #podcasts
+[selected episodes]: #podcast-episodes
+[Selected articles]: #articles
+[other curated resources]: #further-resources
+
+If you think something is missing or the structure could be improved, please
+[let me know][contact]. If you have any suggestions, open [issues] or
+[PRs][pulls] on GitHub or [reach out to me][contact].
+
+Last but not least, *Thank You* to all the people who shared their insights,
+past and present. I am eternally grateful.
+
+---
+
 
 ### Books
 
