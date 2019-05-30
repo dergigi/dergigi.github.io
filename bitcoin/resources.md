@@ -101,12 +101,7 @@ Books about Bitcoin which can be read by anyone, no special background Knowledge
 or education required. As mentioned above, I consider *The Bitcoin Standard*
 required reading for anyone interested in Bitcoin.
 
-<ul class="books">
-{% assign non-technical = site.books | where: 'categories', 'non-technical' %}
-{% for book in non-technical %}
-{% include book.html book=book %}
-{% endfor %}
-</ul>
+{% include books.html category='non-technical' %}
 
 #### Bitcoin (technical)
 
@@ -114,11 +109,7 @@ If you would like to dig deeper or get your hands dirty with programming, these
 books are for you. Technical knowledge and skills in computer science,
 programming, and/or mathematics are beneficial.
 
-<ul class="books">
-{% include book.html name="mastering-bitcoin" %}
-{% include book.html name="programming-bitcoin" %}
-{% include book.html name="grokking-bitcoin" %}
-</ul>
+{% include books.html category='technical' %}
 
 There are also great online resource available, see [Wikis and
 Guides][wikis-and-guides].
@@ -134,11 +125,7 @@ is why reading the works of Austrian's such as Hayek, Hazlitt, Hoppe, Menger,
 Mises, Rothbard, and others is recommended by those who take Bitcoin's value
 proposition seriously.
 
-<ul class="books">
-{% include book.html name="economics-in-one-lesson" %}
-{% include book.html name="human-action" %}
-{% include book.html name="the-machinery-of-freedom" %}
-</ul>
+{% include books.html category='economics' %}
 
 *Human Action* is Mises' magnum opus, and is freely available online as both an
 ebook and an audiobook.
@@ -150,12 +137,7 @@ possibility of inflating the monetary base. Understanding money, and especially
 *sound* money, is paramount to understanding the value proposition and ultimate
 impact of Bitcoin.
 
-<ul class="books">
-{% include book.html name="ethics-of-money-production" %}
-{% include book.html name="what-has-government-done-to-our-money" %}
-{% include book.html name="money-sound-unsound" %}
-{% include book.html name="how-is-fiat-money-possible" %}
-</ul>
+{% include books.html category='money' %}
 
 Note that *How is Fiat Money Possible* is an essay, but it is too poignant to
 not be included here.
@@ -166,11 +148,7 @@ Banking is a mystery to most, and central banking doubly so. Bitcoin isn't
 necessarily an enemy of the former, but, if successful, it will abolish and
 replace the latter.
 
-<ul class="books">
-{% include book.html name="mystery-of-banking" %}
-{% include book.html name="creature-from-jekyll-island" %}
-{% include book.html name="end-the-fed" %}
-</ul>
+{% include books.html category='banking' %}
 
 #### Software and Programming
 
@@ -179,12 +157,7 @@ in free speech. What this means, why free software exists, and what the
 implications of free (vs proprietary) software are, is important to understand
 the unstoppability of Bitcoin.
 
-<ul class="books">
-{% include book.html name="free-software-free-society" %}
-{% include book.html name="cathedral-and-bazaar" %}
-{% include book.html name="art-of-unix-programming" %}
-{% include book.html name="pragmatic-programmer" %}
-</ul>
+{% include books.html category='software' %}
 
 I would argue that the ethos of GNU and UNIX programming are important corner
 stones for Bitcoin as well. Further, Bitcoin is a pragmatic piece of software,
@@ -199,11 +172,7 @@ do can be beneficial to better understand some parts of Bitcoin. I highly
 recommend *Gödel, Escher, Bach* because it is a deeply fascinating and beautiful
 book.
 
-<ul class="books">
-{% include book.html name="goedel-escher-bach" %}
-{% include book.html name="quantum-computing-since-democritus" %}
-{% include book.html name="new-kind-of-science" %}
-</ul>
+{% include books.html category='computation' %}
 
 *Quantum Computing Since Democritus* is quite dense, but it is also quite
 entertaining at times. The first couple of chapters stay in the non-quantum
@@ -221,11 +190,7 @@ nerve, speaking as someone who has stepped outside of the regular way of working
 on things. If you think about working on Bitcoin or other open-source projects,
 these books are for you.
 
-<ul class="books">
-{% include book.html name="crazy-at-work" %}
-{% include book.html name="war-of-art" %}
-{% include book.html name="remote" %}
-</ul>
+{% include books.html category='work' %}
 
 ---
 
