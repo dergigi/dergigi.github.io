@@ -23,7 +23,7 @@ for row in sheet.get_all_values():
     resource_categories = row[0].split(',')
     resource_type = row[1].lower()
     resource_title = row[2].title().replace(":", "&#58")
-    resource_title = row[3].replace(":", "&#58")
+    resource_subtitle = row[3].replace(":", "&#58")
     resource_authors = row[4].lstrip().rstrip().split(',')
     resource_url = row[6]
     # resource_date = row[5] if row[5] != '' else NO_DATE
