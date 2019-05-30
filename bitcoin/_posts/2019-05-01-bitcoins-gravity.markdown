@@ -517,6 +517,7 @@ planted a seed of conviction in you as well.
 ### Translations
 
 - [Turkish translation] by [@deniz_zgur][deniz]
+- [Spanish translation] by [@CamiloJdL][camilo]
 
 ### Audio Version
 
@@ -524,6 +525,7 @@ planted a seed of conviction in you as well.
 
 <!-- Translations and Audio version -->
 [Turkish translation]: https://medium.com/@denizozzgur/bitcoinin-%C3%A7ekim-yasas%C4%B1-1dbe3e8698af
+[Spanish translation]: https://medium.com/@dergigi/la-gravedad-de-bitcoin-33d351b213ce
 [audio-version]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_245---Bitcoins-Gravity-e3urjl
 [cryptoconomy.life]: https://cryptoconomy.life/
 
@@ -545,6 +547,7 @@ planted a seed of conviction in you as well.
 [Dan Held]: https://twitter.com/danheld
 [Ben Prentice]: https://twitter.com/mrcoolbp
 [deniz]: https://twitter.com/deniz_zgur
+[camilo]: https://twitter.com/CamiloJdL
 [Guy]: https://twitter.com/TheCryptoconomy
 
 <!-- References -->
