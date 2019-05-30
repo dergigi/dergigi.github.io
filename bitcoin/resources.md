@@ -54,12 +54,7 @@ to understanding what Bitcoin is about. If you need a crash-course in economics
 I recommend reading *Economics in One Lesson* by Henry Hazlitt. All three books
 are also available as audiobooks.
 
-<ul class="books">
-{% assign essentials = site.books | where: 'category', 'essentials' %}
-{% for book in essentials %}
-{% include book.html book=book %}
-{% endfor %}
-</ul>
+{% include books.html category='essentials' %}
 
 While you wait for these books to arrive, you might want to pass the time by
 reading the following article:
@@ -107,22 +102,10 @@ or education required. As mentioned above, I consider *The Bitcoin Standard*
 required reading for anyone interested in Bitcoin.
 
 <ul class="books">
-{% assign non-technical = site.books | where: 'category', 'non-technical' %}
+{% assign non-technical = site.books | where: 'categories', 'non-technical' %}
 {% for book in non-technical %}
 {% include book.html book=book %}
 {% endfor %}
-</ul>
-
-<ul class="books">
-{% include book.html title="The Bitcoin Standard" %}
-{% include book.html name="internet-of-money-vol1" %}
-{% include book.html name="internet-of-money-vol2" %}
-</ul>
-
-<ul class="books">
-{% include book.html name="inventing-bitcoin" %}
-{% include book.html name="bitcoin-money" %}
-{% include book.html name="digital-gold" %}
 </ul>
 
 #### Bitcoin (technical)

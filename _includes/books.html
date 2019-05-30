@@ -1,0 +1,7 @@
+{% assign category = site.books | where: 'categories', include.category %}
+
+<ul class="books">
+{% for book in category %}
+{% include book.html book=book %}
+{% endfor %}
+</ul>
