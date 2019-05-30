@@ -1,4 +1,8 @@
+{% if include.category == 'essentials' %}
+{% assign category = site.books | where: 'essential', true %}
+{% else %}
 {% assign category = site.books | where: 'categories', include.category %}
+{% endif %}
 
 <ul class="books">
 {% for book in category %}
