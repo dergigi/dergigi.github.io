@@ -1,7 +1,9 @@
 ---
 layout: books
 title: Economics In One Lesson
-categories: ['essentials', ' economics']
+subtitle: 
+essential: true
+categories: ['economics']
 author: ['Henry Hazlitt']
 excerpt: .
 external_url: 

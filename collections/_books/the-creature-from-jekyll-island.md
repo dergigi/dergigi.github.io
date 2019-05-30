@@ -1,8 +1,10 @@
 ---
 layout: books
 title: The Creature From Jekyll Island
+subtitle: 
+essential: 
 categories: ['banking']
-author: ['']
+author: ['G. Edward Griffin']
 excerpt: .
 external_url: 
 ---
