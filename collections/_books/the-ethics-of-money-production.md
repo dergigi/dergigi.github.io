@@ -1,5 +1,8 @@
 ---
-title: The Ethics of Money Production
-link: https://mises.org/library/ethics-money-production
-category: essentials
+layout: books
+title: The Ethics Of Money Production
+categories: ['essentials', ' money']
+author: ['Jörg Guido Hülsmann']
+excerpt: .
+external_url: 
 ---

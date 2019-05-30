@@ -1,5 +1,8 @@
 ---
+layout: books
 title: The Bitcoin Standard
-link: https://t.co/IDdQejTYH6
-category: essentials
+categories: ['essentials', ' non-technical']
+author: ['Saifedean Ammous']
+excerpt: .
+external_url: 
 ---

@@ -1,5 +1,8 @@
 ---
-title: Economics in One Lesson
-link: https://mises.org/library/economics-one-lesson
-category: essentials
+layout: books
+title: Economics In One Lesson
+categories: ['essentials', ' economics']
+author: ['Henry Hazlitt']
+excerpt: .
+external_url: 
 ---
