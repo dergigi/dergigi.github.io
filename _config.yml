@@ -54,6 +54,8 @@ compress_html:
   comments: all
   startings: [html, head, body]
 exclude:
+  - env
+  - scripts
   - node_modules
   - .DS_Store
   - barber.jpg
