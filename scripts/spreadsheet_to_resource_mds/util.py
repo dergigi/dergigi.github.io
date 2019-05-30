@@ -52,10 +52,7 @@ def _is_common_bad_excerpt(sentence):
 
 def title_to_file_path(title, resource_type):
     resources_folder_path = "../../collections/_"
-    if (resource_type == 'writing'):
-        resources_folder_path = resources_folder_path + "writings/"
-    elif (resource_type == 'multimedia' or resource_type == "media"):
-        resources_folder_path = resources_folder_path + "multimedia/"
+    resources_folder_path = resources_folder_path + resource_type + "/"
 
     if title == EMPTY or title == UNDERSCORE:
         return EMPTY
