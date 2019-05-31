@@ -26,7 +26,9 @@ for row in sheet.get_all_values():
     resource_title = row[3].title().replace(":", "&#58")
     resource_subtitle = row[4].replace(":", "&#58")
     resource_authors = row[5].lstrip().rstrip().split(',')
+    resource_authors_twitter = row[6].lstrip().rstrip().split(',')
     resource_url = row[7]
+    resource_amazon_url = row[8]
     # resource_date = row[5] if row[5] != '' else NO_DATE
     resource_excerpt = get_excerpt_from_page(resource_url)
 
@@ -58,9 +60,11 @@ for row in sheet.get_all_values():
                 f"essential: {resource_essential}\n"
                 # f"date: {resource_date}\n"
                 f"categories: {resource_categories}\n"
-                f"author: {resource_authors}\n"
+                f"authors: {resource_authors}\n"
+                f"authors_twitter: {resource_authors_twitter}\n"
                 f"excerpt: {resource_excerpt}\n"
-                f"external_url: {resource_url}\n"
+                f"url: {resource_url}\n"
+                f"amazon_url: {resource_amazon_url}\n"
                 f"---")
 
     with open(md_file_path, 'w') as f:
