@@ -35,7 +35,8 @@ collections:
     title: Posts
   books:
     title: Books
-    permalink: /books/
+    output: true
+    permalink: /bitcoin/resources/:slug
 
 # Author settings
 author:
