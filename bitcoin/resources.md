@@ -271,22 +271,39 @@ about Bitcoin's future.
 
 #### The Difficulty of Understanding Bitcoin
 
+Bitcoin isn't exactly easy to understand. Some of the reasons for this
+phenomenon are explored in the following articles:
+
 - [Why It’s Hard to “Get” Bitcoin][blockchain-spectrum] by Dhruv Bansal
 - [Why Blockchain is Hard][blockchain-is-hard] by Jimmy Song
 
+Shameless plug: I explore the multi-disciplinary nature of Bitcoin at [21lessons.com].
+
+[21lessons.com]: http://21lessons.com
+
 #### Bitcoin's uniqueness
+
+Why Bitcoin, and not something else? Because Bitcoin matters, Bitcoin is unique,
+Bitcoin is fair, and Bitcoin is way better than you think.
 
 - [Why Bitcoin is Different][why-different] by Jimmy Song
 - [Why Bitcoin Matters][why-matters] by Aleksandar Svetski
 - [Bitcoin is Worse is Better][worse-better] by Gwern
 - [Bitcoin’s distribution was fair][distribution-fair] by Dan Held
 
+Conclusion: If it's not Bitcoin, it's a shitcoin. Stay away from those.
+
 #### Money
+
+If you aren't ready yet to read [books on money][money], these articles are a great entry point to start learning about the purpose and history of money.
 
 - [Shelling Out: The Origins of Money][shelling-out] by Nick Szabo
 - [Money, blockchains, and social scalability][social-scalability] by Nick Szabo
 
 #### Proof-of-work
+
+In my opinion proof-of-work is one of the most misunderstood parts of the
+Bitcoin puzzle. The following
 
 - [The Anatomy of Proof-of-Work][pow-anatomy] by Hugo Nguyen
 - [Work is Timeless, Stake is Not][pow-timeless] by Hugo Nguyen
@@ -294,7 +311,16 @@ about Bitcoin's future.
 - [Bitcoin Doesn't Waste Electricity][no-waste] by Beautyon
 - [Nothing is Cheaper than Proof of Work][pow-cheapest] by Paul Sztorc
 
+Shameless plug: I wrote about how I changed my view on proof of work in [Bitcoin's Energy Consumption: A shift in perspective][energy-consumption].
+
+[energy-consumption]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
+
 #### Bitcoin's Identity
+
+What is Bitcoin? This question is surprisingly difficult to answer. It is a
+network (Bitcoin), money (bitcoin), software (various implementations), an idea
+(the white paper), an immutable record of ownership (Bitcoin's ledger, aka the
+"block chain"), a movement, a monetary revolution, and more.
 
 - [Bitcoin’s Existential Crisis][be-a-bitcoin] (original title: What is it like to be a Bitcoin?) by Nic Carter
 - [The Many Faces of Bitcoin][many-faces] by Murad Mahmudov and Adam Taché
@@ -303,14 +329,33 @@ about Bitcoin's future.
 - [That’s not Bitcoin, this is Bitcoin][that-this] by StopAndDecrypt
 - [That’s not Bitcoin, that’s BCash][that-this] by StopAndDecrypt
 
+Shameless plug: I explored Bitcoin's identity in [Lesson 4][lesson-4] of [21lessons.com].
+
+[lesson-4]: {{ '/bitcoin/lessons/ch1-04-the-problem-of-identity' | absolute_url }}
+
 #### Who Controls Bitcoin?
+
+One of the first responses of people learning about Bitcoin is "Yeah yeah I get
+it... but who controls it?" The question of control is not an easy one to
+answer, because you have to understand the whole system on a pretty deep level
+to answer it. The following articles might help.
 
 - [Unpacking Bitcoin's Social Contract][social-contract] by Hasu
 - [Bitcoin Miners Beware: Invalid Blocks Need Not Apply][invalid-blocks] by StopAndDecrypt
 - [Why America Can’t Regulate Bitcoin][cant-regulate] by Beautyon
 
+Shameless plug: I explore the question of control (and censorability) in [Lesson
+6][lesson-6] of [21lessons.com] and in [The Magic Dust of
+Cryptography][magic-dust].
+
+[magic-dust]: {% post_url /bitcoin/2018-08-17-the-magic-dust-of-cryptography %}  
+[lesson-6]: {{ '/bitcoin/lessons/ch1-06-the-power-of-free-speech' | absolute_url }}
 
 #### Bitcoin as an organic system
+
+Ralph Merkle famously called Bitcoin ["the first example of a new form of
+life."][dao-merkle]. Others developed this idea further, which is - in my opinion -
+one of the most useful analogies to understand Bitcoin.
 
 - [Foreword to The Bitcoin Standard][taleb-foreword] by Nassim Nicholas Taleb
 - [Bitcoin is a Decentralized Organism][fungi1] by Brandon Quittem
@@ -318,11 +363,17 @@ about Bitcoin's future.
 
 #### Cypherpunks
 
+Bitcoin is cypherpunk technology. Made by a cypherpunk, based on cypherpunk
+ideas. I consider learning about cypherpunks and their ideals as essential.
+
 - [A Cypherpunk's Manifesto][cypherpunks-manifesto] by Eric Hughes
 - [The Crypto Anarchist Manifesto][crypto-anarchist-manifesto] by Timothy C. May
 - [The Cyphernomicon][cyphernomicon] by Timothy C. May
 
 #### Misc
+
+The following are what I consider excellent articles that didn't fit into one
+of my arbitrarily chosen categories above.
 
 - [The God Protocols][god-protocols] by Nick Szabo
 - [Trusted Third Parties Are Security Holes][security-holes] by Nick Szabo
