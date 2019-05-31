@@ -5,8 +5,7 @@ title: Resources
 
 **TL;DR:** Read [*The Bitcoin Standard*][bitcoin-standard] and [*The Bullish
 Case for Bitcoin*][bullish-case]. Listen to [*The Stories We Tell About
-Money*][aantonop-stories]. Read [books][books] and [articles][articles]. Listen
-to [podcasts][podcasts]. Do your own research.
+Money*][aantonop-stories]. Don't trust, verify. Do your own research.
 
 ### Essentials
 
