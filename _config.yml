@@ -28,6 +28,16 @@ social:
 # Contact settings
 formcarry: https://formcarry.com/s/HkIo0nMb7
 
+# Collections
+collections_dir: collections
+collections:
+  posts:
+    title: Posts
+  books:
+    title: Books
+    output: true
+    permalink: /bitcoin/resources/:slug
+
 # Author settings
 author:
   - name: Gigi
@@ -45,6 +55,8 @@ compress_html:
   comments: all
   startings: [html, head, body]
 exclude:
+  - env
+  - scripts
   - node_modules
   - .DS_Store
   - barber.jpg

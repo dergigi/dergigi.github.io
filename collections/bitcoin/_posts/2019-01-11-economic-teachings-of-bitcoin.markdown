@@ -6,6 +6,7 @@ date: 2019-01-11
 description: "Part two of 21 lessons learned from Bitcoin."
 image: /assets/images/btc04-the-garden-of-bitcoin.jpg
 source: https://medium.com/@dergigi/economic-teachings-of-bitcoin-b2cc4f2cfa96
+redirect_from: /bitcoin/2019-01-11-economic-teachings-of-bitcoin
 author: Gigi
 category: bitcoin
 tags:

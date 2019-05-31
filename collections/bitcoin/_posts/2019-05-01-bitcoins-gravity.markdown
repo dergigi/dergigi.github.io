@@ -6,6 +6,7 @@ date: 2019-05-01
 description: "People have coins, but coins also have people."
 image: /assets/images/btc06-the-gravity-of-ideas-in-bitcoin.jpg
 source: https://medium.com/@dergigi/bitcoins-gravity-e1674ad9f8e4
+redirect_from: /bitcoin/2019-05-01-bitcoins-gravity
 author: Gigi
 category: bitcoin
 tags:

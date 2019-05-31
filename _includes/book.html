@@ -1,0 +1,9 @@
+{% assign book = include.book %}
+{% capture slugTitle %}{{ book.title | slugify }}{% endcapture %}
+{% capture folderPath %}/assets/images/bitcoin/books{% endcapture %}
+{% capture imagePath %}{{ folderPath }}/{{ slugTitle }}.jpg{% endcapture %}
+<li>
+  <a href="{{ link_to /collections/_books/ | append: slugTitle }}">
+  <img src="{{ imagePath | replace: '//', '/' | absolute_url }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %}/>
+  </a>
+</li>
