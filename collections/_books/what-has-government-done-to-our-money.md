@@ -4,7 +4,9 @@ title: What Has Government Done To Our Money
 subtitle: 
 essential: 
 categories: ['money']
-author: ['Murray Rothbard']
+authors: ['Murray Rothbard']
+authors_twitter: ['']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---

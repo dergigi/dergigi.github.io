@@ -4,7 +4,9 @@ title: Quantum Computing Since Democritus
 subtitle: 
 essential: 
 categories: ['computation']
-author: ['Scott Aaronson']
+authors: ['Scott Aaronson']
+authors_twitter: ['']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---

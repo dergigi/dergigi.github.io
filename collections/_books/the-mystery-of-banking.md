@@ -4,7 +4,9 @@ title: The Mystery Of Banking
 subtitle: 
 essential: 
 categories: ['banking']
-author: ['Murray Rothbard']
+authors: ['Murray Rothbard']
+authors_twitter: ['']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---

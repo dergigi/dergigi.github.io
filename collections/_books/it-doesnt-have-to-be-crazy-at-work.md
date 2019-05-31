@@ -4,7 +4,9 @@ title: It Doesn'T Have To Be Crazy At Work
 subtitle: 
 essential: 
 categories: ['work']
-author: ['David Heinemeier Hansson', ' \nJason Fried']
+authors: ['David Heinemeier Hansson', ' \nJason Fried']
+authors_twitter: ['']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---

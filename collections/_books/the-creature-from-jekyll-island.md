@@ -4,7 +4,9 @@ title: The Creature From Jekyll Island
 subtitle: 
 essential: 
 categories: ['banking']
-author: ['G. Edward Griffin']
+authors: ['G. Edward Griffin']
+authors_twitter: ['']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---

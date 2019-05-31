@@ -4,7 +4,9 @@ title: The Pragmatic Programmer
 subtitle: 
 essential: 
 categories: ['software']
-author: ['Andy Hunt', ' Dave Thomas']
+authors: ['Andy Hunt', ' Dave Thomas']
+authors_twitter: ['']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---

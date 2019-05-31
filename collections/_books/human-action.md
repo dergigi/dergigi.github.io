@@ -4,7 +4,9 @@ title: Human Action
 subtitle: 
 essential: 
 categories: ['economics']
-author: ['Ludwig von Mises']
+authors: ['Ludwig von Mises']
+authors_twitter: ['']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---

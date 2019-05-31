@@ -4,7 +4,9 @@ title: The Machinery Of Freedom
 subtitle: 
 essential: 
 categories: ['economics']
-author: ['David D. Friedman']
+authors: ['David D. Friedman']
+authors_twitter: ['']
 excerpt: .
-external_url: http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf
+url: http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf
+amazon_url: 
 ---

@@ -4,7 +4,9 @@ title: The Bitcoin Standard
 subtitle: The Decentralized Alternative to Central Banking
 essential: true
 categories: ['non-technical']
-author: ['Saifedean Ammous']
+authors: ['Saifedean Ammous']
+authors_twitter: ['https://twitter.com/saifedean']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---

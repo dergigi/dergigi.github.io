@@ -4,7 +4,9 @@ title: The Ethics Of Money Production
 subtitle: 
 essential: true
 categories: ['money']
-author: ['Jörg Guido Hülsmann']
+authors: ['Jörg Guido Hülsmann']
+authors_twitter: ['']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---

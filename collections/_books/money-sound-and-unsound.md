@@ -4,7 +4,9 @@ title: Money, Sound And Unsound
 subtitle: 
 essential: 
 categories: ['money']
-author: ['Joseph Salerno']
+authors: ['Joseph Salerno']
+authors_twitter: ['']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---

@@ -4,7 +4,9 @@ title: Programming Bitcoin
 subtitle: 
 essential: 
 categories: ['technical']
-author: ['Jimmy Song']
+authors: ['Jimmy Song']
+authors_twitter: ['https://twitter.com/jimmysong']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---

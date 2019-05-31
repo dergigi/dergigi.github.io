@@ -4,7 +4,9 @@ title: A New Kind Of Science
 subtitle: 
 essential: 
 categories: ['computation']
-author: ['Stephen Wolfram']
+authors: ['Stephen Wolfram']
+authors_twitter: ['']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---

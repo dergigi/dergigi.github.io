@@ -4,7 +4,9 @@ title: How Is Fiat Money Possible
 subtitle: 
 essential: 
 categories: ['money']
-author: ['Hans-Hermann Hoppe']
+authors: ['Hans-Hermann Hoppe']
+authors_twitter: ['']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---

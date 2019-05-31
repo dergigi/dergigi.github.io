@@ -4,7 +4,9 @@ title: End The Fed
 subtitle: 
 essential: 
 categories: ['banking']
-author: ['Ron Paul']
+authors: ['Ron Paul']
+authors_twitter: ['']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---

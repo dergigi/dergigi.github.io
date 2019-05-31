@@ -4,7 +4,9 @@ title: Gödel, Escher, Bach
 subtitle: 
 essential: 
 categories: ['computation']
-author: ['Douglas Hofstadter']
+authors: ['Douglas Hofstadter']
+authors_twitter: ['']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---

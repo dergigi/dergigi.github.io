@@ -4,7 +4,9 @@ title: Grokking Bitcoin
 subtitle: 
 essential: 
 categories: ['technical']
-author: ['Kalle Rosenbaum']
+authors: ['Kalle Rosenbaum']
+authors_twitter: ['https://twitter.com/kallerosenbaum']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---

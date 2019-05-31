@@ -4,7 +4,9 @@ title: Free Software, Free Society
 subtitle: 
 essential: 
 categories: ['software']
-author: ['Richard Stallman']
+authors: ['Richard Stallman']
+authors_twitter: ['']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---

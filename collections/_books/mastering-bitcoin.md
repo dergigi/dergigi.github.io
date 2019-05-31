@@ -4,7 +4,9 @@ title: Mastering Bitcoin
 subtitle: 
 essential: 
 categories: ['technical']
-author: ['Andreas Antonopoulos']
+authors: ['Andreas Antonopoulos']
+authors_twitter: ['https://twitter.com/aantonop']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---

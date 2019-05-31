@@ -4,7 +4,9 @@ title: The Art Of Unix Programming
 subtitle: 
 essential: 
 categories: ['software']
-author: ['Eric S. Raymond']
+authors: ['Eric S. Raymond']
+authors_twitter: ['']
 excerpt: .
-external_url: 
+url: 
+amazon_url: 
 ---
