@@ -61,6 +61,7 @@
 [social-contract]: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
 [invalid-blocks]: https://hackernoon.com/bitcoin-miners-beware-invalid-blocks-need-not-apply-51c293ee278b
 [cant-regulate]: https://hackernoon.com/why-america-cant-regulate-bitcoin-8c77cee8d794
+[dao-merkle]: http://merkle.com/papers/DAOdemocracyDraft.pdf
 [taleb-foreword]: https://medium.com/opacity/bitcoin-1537e616a074
 [fungi1]: https://medium.com/@BrandonQuittem/bitcoin-is-a-decentralized-organism-mycelium-part-1-3-6ec58cdcfaa6
 [fungi2]: https://medium.com/@BrandonQuittem/bitcoin-is-a-social-creature-mushroom-part-2-3-6a05c3abe8f0
