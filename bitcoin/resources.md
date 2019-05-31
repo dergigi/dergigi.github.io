@@ -5,8 +5,8 @@ title: Resources
 
 **TL;DR:** Read [*The Bitcoin Standard*][bitcoin-standard] and [*The Bullish
 Case for Bitcoin*][bullish-case]. Listen to [*The Stories We Tell About
-Money*][aantonop-stories]. Subscribe to [podcasts][podcasts]. Read
-[books][books] and [articles][articles].
+Money*][aantonop-stories]. Read [books][books] and [articles][articles]. Listen
+to [podcasts][podcasts]. Do your own research.
 
 ### Essentials
 
@@ -204,57 +204,6 @@ these books are for you.
 
 ---
 
-### Podcasts
-
-One of the best ways to educate yourself on Bitcoin is by listening to the
-smartest people in the space. Luckily, we are living in the golden age of
-podcasts, and many great conversations are "open source" so to speak.
-Disclosure: I was a guest on some of these podcasts. Links to those specific
-episodes can be found [here][interviews].
-
-I consider the following podcasts the best in the space:
-
-- [Tales From The Crypt][tftc] by Marty Bent with RHR co-host Matt Odell
-- [Noded][noded] by Pierre Rochard and Michael Goldstein
-- [Stephan Livera Podcast][slp] by Stephan Livera
-- [What Bitcoin Did][wbd] by Peter McCormack
-
-Although I try to listen to every Bitcoin podcast under the sun, it is simply an
-unsurmountable feat due to the sheer volume of content. The following podcasts
-are excellent as well:
-
-- [The Cryptoconomy][cryptoconomy] by Guy Swann
-- [Bitcoin Echo Chamber][bec] by Heavily Armed Clown
-- [Citizen Bitcoin][cb] by Brady
-- [Crypto Voices][cv] by Matthew Mežinskis and Fernando Ulrich
-- [The Bitcoin Knowledge Podcast][bkp] by Trace Mayer
-- [Contrarian Island][ci] by MD
-- [Crypto & Grill][cag] by CryptoDantes and StigofthePump
-
-The line between the best and the rest is quite arbitrary, but I felt like one
-very long list might not be as useful as separate lists, however arbitrary the
-distinction. I enjoy or have enjoyed the these podcasts as well:
-
-- [Let's Talk Bitcoin][ltb] with Adam B. Levine, Andreas Antonopoulos, Stephanie Murphy and Jonathan Mohan
-- [Reckless Review][rr] by Udi Wertheimer and Lawrence Nahum
-- [Bitcoin and...][ba] by @bennd77
-- [Fun With Crypto][fwc] by @Coinicarus
-- [Bottomshelf Bitcoin][bsb] by Josh Humphrey
-
-### Podcast episodes
-
-Some "evergreen" episodes were recorded in the last couple of years. Again, this
-is a personal selection so it is biased towards certain guests and topics. If
-there is an episode missing that you consider to be one of the best, feel free
-to [reach out to me][contact] and shill me said episode.
-
-- 🎧 [BitcoinTina on why he is bullish on Bitcoin][tftc55] TFTC #55 hosted by Marty Bent
-- 🎧 [Misir Mahmudov on the Scarcity of Time & Bitcoin][tftc60] TFTC #60 hosted by Marty Bent
-- 🎧 [PlanB – Modelling Bitcoin's digital scarcity through stock-to-flow techniques﻿][slp67] SLP #67 hosted by Stephan Livera
-- 🎧 [Murad Mahmudov][tftc34] TFTC #34 hosted by Marty Bent
-
----
-
 ### Articles
 
 Many amazing articles have been written about Bitcoin. I am aware that trying to
@@ -381,6 +330,57 @@ of my arbitrarily chosen categories above.
 - [The Bitcoin Halving and Monetary Competition][bitcoin-halving] by Saifedean Ammous
 
 <!-- - [Guess My Bitcoin Private Key][guess-pk] by Michael Kerbleski -->
+
+---
+
+### Podcasts
+
+One of the best ways to educate yourself on Bitcoin is by listening to the
+smartest people in the space. Luckily, we are living in the golden age of
+podcasts, and many great conversations are "open source" so to speak.
+Disclosure: I was a guest on some of these podcasts. Links to those specific
+episodes can be found [here][interviews].
+
+I consider the following podcasts the best in the space:
+
+- [Tales From The Crypt][tftc] by Marty Bent with RHR co-host Matt Odell
+- [Noded][noded] by Pierre Rochard and Michael Goldstein
+- [Stephan Livera Podcast][slp] by Stephan Livera
+- [What Bitcoin Did][wbd] by Peter McCormack
+
+Although I try to listen to every Bitcoin podcast under the sun, it is simply an
+unsurmountable feat due to the sheer volume of content. The following podcasts
+are excellent as well:
+
+- [The Cryptoconomy][cryptoconomy] by Guy Swann
+- [Bitcoin Echo Chamber][bec] by Heavily Armed Clown
+- [Citizen Bitcoin][cb] by Brady
+- [Crypto Voices][cv] by Matthew Mežinskis and Fernando Ulrich
+- [The Bitcoin Knowledge Podcast][bkp] by Trace Mayer
+- [Contrarian Island][ci] by MD
+- [Crypto & Grill][cag] by CryptoDantes and StigofthePump
+
+The line between the best and the rest is quite arbitrary, but I felt like one
+very long list might not be as useful as separate lists, however arbitrary the
+distinction. I enjoy or have enjoyed the these podcasts as well:
+
+- [Let's Talk Bitcoin][ltb] with Adam B. Levine, Andreas Antonopoulos, Stephanie Murphy and Jonathan Mohan
+- [Reckless Review][rr] by Udi Wertheimer and Lawrence Nahum
+- [Bitcoin and...][ba] by @bennd77
+- [Fun With Crypto][fwc] by @Coinicarus
+- [Bottomshelf Bitcoin][bsb] by Josh Humphrey
+
+### Podcast episodes
+
+Some "evergreen" episodes were recorded in the last couple of years. Again, this
+is a personal selection so it is biased towards certain guests and topics. If
+there is an episode missing that you consider to be one of the best, feel free
+to [reach out to me][contact] and shill me said episode.
+
+- 🎧 [BitcoinTina on why he is bullish on Bitcoin][tftc55] TFTC #55 hosted by Marty Bent
+- 🎧 [Misir Mahmudov on the Scarcity of Time & Bitcoin][tftc60] TFTC #60 hosted by Marty Bent
+- 🎧 [PlanB – Modelling Bitcoin's digital scarcity through stock-to-flow techniques﻿][slp67] SLP #67 hosted by Stephan Livera
+- 🎧 [Murad Mahmudov][tftc34] TFTC #34 hosted by Marty Bent
 
 ---
 
