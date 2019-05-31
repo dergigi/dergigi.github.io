@@ -63,7 +63,7 @@ for row in sheet.get_all_values():
                 f"authors: {resource_authors}\n"
                 f"authors_twitter: {resource_authors_twitter}\n"
                 f"excerpt: {resource_excerpt}\n"
-                f"url: {resource_url}\n"
+                f"resource_url: {resource_url}\n"
                 f"amazon_url: {resource_amazon_url}\n"
                 f"---")
 
