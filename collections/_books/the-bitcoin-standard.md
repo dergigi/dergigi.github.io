@@ -6,7 +6,7 @@ essential: true
 categories: ['non-technical']
 authors: ['Saifedean Ammous']
 authors_twitter: ['https://twitter.com/saifedean']
-excerpt: .
-url: 
-amazon_url: 
+excerpt: The Bitcoin Standard was first published by Wiley in April 2018 The book is available, or being produced, in thirteen languages English original version is available on Amazon. Turkish translation is available from Liber Plus.
+url: https://thesaifhouse.wpcomstaging.com/book/
+amazon_url: https://www.amazon.com/dp/1119473861
 ---

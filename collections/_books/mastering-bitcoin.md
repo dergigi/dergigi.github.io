@@ -8,5 +8,5 @@ authors: ['Andreas Antonopoulos']
 authors_twitter: ['https://twitter.com/aantonop']
 excerpt: .
 url: 
-amazon_url: 
+amazon_url: https://www.amazon.com/dp/1449374042
 ---

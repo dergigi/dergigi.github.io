@@ -8,5 +8,5 @@ authors: ['Douglas Hofstadter']
 authors_twitter: ['']
 excerpt: .
 url: 
-amazon_url: 
+amazon_url: https://www.amazon.com/dp/0465026567
 ---

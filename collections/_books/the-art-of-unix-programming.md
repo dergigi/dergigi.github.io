@@ -8,5 +8,5 @@ authors: ['Eric S. Raymond']
 authors_twitter: ['']
 excerpt: .
 url: 
-amazon_url: 
+amazon_url: https://www.amazon.com/dp/0131429019
 ---
