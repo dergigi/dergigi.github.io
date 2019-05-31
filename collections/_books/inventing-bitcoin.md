@@ -7,6 +7,6 @@ categories: ['non-technical']
 authors: ['Yan Pritzker']
 authors_twitter: ['https://twitter.com/skwp']
 excerpt: .
-url: 
+resource_url: 
 amazon_url: https://www.amazon.com/dp/B07MWXRWNB/
 ---

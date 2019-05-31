@@ -7,6 +7,6 @@ categories: ['money']
 authors: ['Hans-Hermann Hoppe']
 authors_twitter: ['']
 excerpt: .
-url: 
+resource_url: 
 amazon_url: 
 ---

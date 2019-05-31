@@ -7,6 +7,6 @@ categories: ['economics']
 authors: ['David D. Friedman']
 authors_twitter: ['']
 excerpt: .
-url: http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf
+resource_url: http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf
 amazon_url: https://www.amazon.com/dp/0812690699
 ---

@@ -7,6 +7,6 @@ categories: ['economics']
 authors: ['Ludwig von Mises']
 authors_twitter: ['']
 excerpt: .
-url: 
+resource_url: 
 amazon_url: https://www.amazon.com/dp/0865976317
 ---

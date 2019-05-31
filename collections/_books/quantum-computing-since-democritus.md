@@ -7,6 +7,6 @@ categories: ['computation']
 authors: ['Scott Aaronson']
 authors_twitter: ['']
 excerpt: .
-url: 
+resource_url: 
 amazon_url: https://www.amazon.com/dp/0521199565
 ---

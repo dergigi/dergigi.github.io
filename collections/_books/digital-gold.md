@@ -7,6 +7,6 @@ categories: ['non-technical']
 authors: ['Nathaniel Popper']
 authors_twitter: ['https://twitter.com/nathanielpopper']
 excerpt: .
-url: 
+resource_url: 
 amazon_url: https://www.amazon.com/dp/006236250X
 ---

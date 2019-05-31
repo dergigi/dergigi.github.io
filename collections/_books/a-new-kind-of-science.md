@@ -7,6 +7,6 @@ categories: ['computation']
 authors: ['Stephen Wolfram']
 authors_twitter: ['']
 excerpt: .
-url: 
+resource_url: 
 amazon_url: https://www.amazon.com/dp/1579550088
 ---

@@ -7,6 +7,6 @@ categories: ['banking']
 authors: ['Murray Rothbard']
 authors_twitter: ['']
 excerpt: .
-url: 
+resource_url: 
 amazon_url: https://www.amazon.com/dp/1933550287
 ---

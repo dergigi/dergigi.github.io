@@ -7,6 +7,6 @@ categories: ['software']
 authors: ['Andy Hunt', ' Dave Thomas']
 authors_twitter: ['']
 excerpt: .
-url: 
+resource_url: 
 amazon_url: https://www.amazon.com/dp/020161622X
 ---

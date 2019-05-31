@@ -7,6 +7,6 @@ categories: ['banking']
 authors: ['Ron Paul']
 authors_twitter: ['']
 excerpt: .
-url: 
+resource_url: 
 amazon_url: https://www.amazon.com/dp/B006J3V150
 ---
