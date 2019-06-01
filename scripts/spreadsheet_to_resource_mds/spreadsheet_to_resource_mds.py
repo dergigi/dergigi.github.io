@@ -15,6 +15,7 @@ client = gspread.authorize(creds)
 sheet = client.open("Bitcoin Resources").sheet1
 
 NO_DATE = "1111-11-11"
+NO_AUTHOR_LINKS = ""
 
 for row in sheet.get_all_values():
     if row[0] == 'Categories':
@@ -26,7 +27,7 @@ for row in sheet.get_all_values():
     resource_title = row[3].title().replace(":", "&#58")
     resource_subtitle = row[4].replace(":", "&#58")
     resource_authors = row[5].lstrip().rstrip().split(',')
-    resource_authors_twitter = row[6].lstrip().rstrip().split(',')
+    resource_authors_twitter = row[6].lstrip().rstrip().split(',') if row[6] != '' else NO_AUTHOR_LINKS
     resource_url = row[7]
     resource_amazon_url = row[8]
     resource_wikipedia_url = row[9]
