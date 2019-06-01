@@ -12,13 +12,15 @@ layout: page
 
   <div class="links">
     <!-- Links -->
-    <ul class="author_links">
-      <li>
-        {% if page.authors_twitter %}<a href="{{ page.authors_twitter }}">{% endif %}
-        {{ page.authors | join: ", " }}
-        {% if page.authors_twitter %}</a>{% endif %}
-      </li>
-    </ul>
+    <p>Written by
+    {% assign author_count = page.authors | size | minus: 1 %}
+    {% for i in (0..author_count) %}
+      {% if page.authors_twitter[i] %}<a href="{{ page.authors_twitter[i] }}">{% endif %}
+      {{ page.authors[i]}}
+      {% if i != author_count %} and {% endif %}
+      {% if page.authors_twitter[i] %}</a>{% endif %}
+    {% endfor %}
+    .</p>
     <ul class="book_links">
       {% if page.resource_url %}<li><a href="{{ page.resource_url }}">External Link</a></li>{% endif %}
       {% if page.amazon_url %}<li><a href="{{ page.amazon_url }}">Buy on Amazon</a></li>{% endif %}
