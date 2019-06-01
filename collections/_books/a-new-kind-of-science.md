@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: A New Kind Of Science
 subtitle: 
 essential: 

@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: How Is Fiat Money Possible
 subtitle: 
 essential: 

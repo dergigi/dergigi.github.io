@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: The Machinery Of Freedom
 subtitle: 
 essential: 

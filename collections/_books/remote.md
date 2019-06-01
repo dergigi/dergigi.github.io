@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: Remote
 subtitle: Office Not Required
 essential: 

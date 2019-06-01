@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: The War Of Art
 subtitle: Break Through the Blocks and Win Your Inner Creative Battles
 essential: 

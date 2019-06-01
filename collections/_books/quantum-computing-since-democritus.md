@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: Quantum Computing Since Democritus
 subtitle: 
 essential: 

@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: The Creature From Jekyll Island
 subtitle: 
 essential: 

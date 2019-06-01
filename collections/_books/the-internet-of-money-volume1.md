@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: The Internet Of Money (Volume 1)
 subtitle: 
 essential: 

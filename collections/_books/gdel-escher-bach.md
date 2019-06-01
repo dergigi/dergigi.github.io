@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: Gödel, Escher, Bach
 subtitle: 
 essential: 

@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: The Cathedral And The Bazaar
 subtitle: 
 essential: 

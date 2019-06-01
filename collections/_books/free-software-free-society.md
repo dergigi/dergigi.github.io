@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: Free Software, Free Society
 subtitle: 
 essential: 

@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: The Ethics Of Money Production
 subtitle: 
 essential: true

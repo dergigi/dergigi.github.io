@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: Economics In One Lesson
 subtitle: 
 essential: true

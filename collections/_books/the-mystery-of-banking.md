@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: The Mystery Of Banking
 subtitle: 
 essential: 

@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: Bitcoin Money
 subtitle: A Tale of Bitville Discovering Good Money
 essential: 

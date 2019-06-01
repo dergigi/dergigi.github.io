@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: Money, Sound And Unsound
 subtitle: 
 essential: 

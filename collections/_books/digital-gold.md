@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: Digital Gold
 subtitle: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money
 essential: 

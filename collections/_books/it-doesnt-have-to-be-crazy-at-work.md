@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: It Doesn'T Have To Be Crazy At Work
 subtitle: 
 essential: 

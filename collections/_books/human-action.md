@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: page-books
 title: Human Action
 subtitle: 
 essential: 
