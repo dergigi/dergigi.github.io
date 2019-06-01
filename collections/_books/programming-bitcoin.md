@@ -9,4 +9,6 @@ authors_twitter: ['https://twitter.com/jimmysong']
 excerpt: .
 resource_url: 
 amazon_url: https://www.amazon.com/dp/1492031496
+wikipedia_url: 
+free_url: 
 ---

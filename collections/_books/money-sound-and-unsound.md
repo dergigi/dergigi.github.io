@@ -9,4 +9,6 @@ authors_twitter: ['']
 excerpt: .
 resource_url: 
 amazon_url: https://www.amazon.com/dp/1610166558
+wikipedia_url: 
+free_url: 
 ---
