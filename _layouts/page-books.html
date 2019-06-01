@@ -10,7 +10,7 @@ layout: page
     <img src="{{ imagePath | replace: '//', '/' | absolute_url }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %}/>
   </div>
 
-  <div class="links">
+  <div class="book_links">
     <!-- Links -->
     <p>Written by
     {% assign author_count = page.authors | size | minus: 1 %}
@@ -21,7 +21,7 @@ layout: page
       {% if i != author_count %} and {% endif %}
     {% endfor %}
     .</p>
-    <ul class="book_links">
+    <ul class="book_reading_links">
       {% if page.resource_url %}<li><a href="{{ page.resource_url }}">External Link</a></li>{% endif %}
       {% if page.amazon_url %}<li><a href="{{ page.amazon_url }}">Buy on Amazon</a></li>{% endif %}
       {% if page.wikipedia_url %}<li><a href="{{ page.wikipedia_url }}">Wikipedia</a></li>{% endif %}

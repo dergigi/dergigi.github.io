@@ -6,6 +6,15 @@
    // flex-wrap: wrap;
 }
 
+.book_links {
+  p {
+    margin-left: 1.8em;
+
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+}
 .cover > img {
   display: block;
   max-height: 400px;
