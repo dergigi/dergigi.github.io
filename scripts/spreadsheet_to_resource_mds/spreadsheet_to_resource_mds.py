@@ -56,7 +56,7 @@ for row in sheet.get_all_values():
 
     md_file = (
                 f"---\n"
-                f"layout: {resource_type}\n"
+                f"layout: page-{resource_type}\n"
                 f"title: {resource_title}\n"
                 f"subtitle: {resource_subtitle}\n"
                 f"essential: {resource_essential}\n"
