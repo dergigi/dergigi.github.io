@@ -17,8 +17,8 @@ layout: page
     {% for i in (0..author_count) %}
       {% if page.authors_twitter[i] %}<a href="{{ page.authors_twitter[i] }}">{% endif %}
       {{ page.authors[i]}}
-      {% if i != author_count %} and {% endif %}
       {% if page.authors_twitter[i] %}</a>{% endif %}
+      {% if i != author_count %} and {% endif %}
     {% endfor %}
     .</p>
     <ul class="book_links">
