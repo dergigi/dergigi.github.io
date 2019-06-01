@@ -11,6 +11,13 @@ download links (if available), etc.</p>
 <img src="{{ imagePath | replace: '//', '/' | absolute_url }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %}/>
 
 <ul class="book_links">
+  <li>
+    {% if page.authors_twitter %}<a href="{{ page.authors_twitter }}">{% endif %}
+    {{ page.authors | join: ", " }}
+    {% if page.authors_twitter %}</a>{% endif %}
+  </li>
+</ul>
+<ul class="book_links">
   {% if page.resource_url %}<li><a href="{{ page.resource_url }}">External Link</a></li>{% endif %}
   {% if page.amazon_url %}<li><a href="{{ page.amazon_url }}">Buy on Amazon</a></li>{% endif %}
   {% if page.wikipedia_url %}<li><a href="{{ page.wikipedia_url }}">Wikipedia</a></li>{% endif %}
