@@ -5,7 +5,7 @@ subtitle:
 essential: 
 categories: ['money']
 authors: ['Murray Rothbard']
-authors_twitter: ['']
+authors_twitter: 
 excerpt: .
 resource_url: 
 amazon_url: https://www.amazon.com/dp/1610166450

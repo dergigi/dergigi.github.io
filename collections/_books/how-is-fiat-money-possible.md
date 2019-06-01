@@ -5,7 +5,7 @@ subtitle:
 essential: 
 categories: ['money']
 authors: ['Hans-Hermann Hoppe']
-authors_twitter: ['']
+authors_twitter: 
 excerpt: .
 resource_url: 
 amazon_url: 

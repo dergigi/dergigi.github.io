@@ -5,7 +5,7 @@ subtitle:
 essential: 
 categories: ['software']
 authors: ['Andy Hunt', ' Dave Thomas']
-authors_twitter: ['']
+authors_twitter: 
 excerpt: .
 resource_url: 
 amazon_url: https://www.amazon.com/dp/020161622X

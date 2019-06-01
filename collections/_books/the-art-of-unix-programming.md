@@ -5,7 +5,7 @@ subtitle:
 essential: 
 categories: ['software']
 authors: ['Eric S. Raymond']
-authors_twitter: ['']
+authors_twitter: 
 excerpt: .
 resource_url: 
 amazon_url: https://www.amazon.com/dp/0131429019
