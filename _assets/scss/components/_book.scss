@@ -1,6 +1,14 @@
 //----------------------------------------------
 // Book
 //----------------------------------------------
-.book {
+.book_flex {
+   display: flex;
+   // flex-wrap: wrap;
+}
 
+.cover > img {
+  display: block;
+  max-height: 400px;
+  width: auto;
+  height: auto;
 }

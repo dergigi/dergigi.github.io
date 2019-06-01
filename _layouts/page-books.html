@@ -1,27 +1,31 @@
 ---
 layout: page
 ---
-<p>TODO: Include cover, author, date, reading time, excerpt, twitter links, free
-download links (if available), etc.</p>
+<div class="book_flex">
+  <!-- Image -->
+  <div class="cover">
+    {% capture slugTitle %}{{ page.title | slugify }}{% endcapture %}
+    {% capture folderPath %}/assets/images/bitcoin/books{% endcapture %}
+    {% capture imagePath %}{{ folderPath }}/{{ slugTitle }}.jpg{% endcapture %}
+    <img src="{{ imagePath | replace: '//', '/' | absolute_url }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %}/>
+  </div>
 
-<!-- Image -->
-{% capture slugTitle %}{{ page.title | slugify }}{% endcapture %}
-{% capture folderPath %}/assets/images/bitcoin/books{% endcapture %}
-{% capture imagePath %}{{ folderPath }}/{{ slugTitle }}.jpg{% endcapture %}
-<img src="{{ imagePath | replace: '//', '/' | absolute_url }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %}/>
-
-<ul class="book_links">
-  <li>
-    {% if page.authors_twitter %}<a href="{{ page.authors_twitter }}">{% endif %}
-    {{ page.authors | join: ", " }}
-    {% if page.authors_twitter %}</a>{% endif %}
-  </li>
-</ul>
-<ul class="book_links">
-  {% if page.resource_url %}<li><a href="{{ page.resource_url }}">External Link</a></li>{% endif %}
-  {% if page.amazon_url %}<li><a href="{{ page.amazon_url }}">Buy on Amazon</a></li>{% endif %}
-  {% if page.wikipedia_url %}<li><a href="{{ page.wikipedia_url }}">Wikipedia</a></li>{% endif %}
-  {% if page.free_url %}<li><a href="{{ page.free_url }}">Read for free</a></li>{% endif %}
-</ul>
+  <div class="links">
+    <!-- Links -->
+    <ul class="author_links">
+      <li>
+        {% if page.authors_twitter %}<a href="{{ page.authors_twitter }}">{% endif %}
+        {{ page.authors | join: ", " }}
+        {% if page.authors_twitter %}</a>{% endif %}
+      </li>
+    </ul>
+    <ul class="book_links">
+      {% if page.resource_url %}<li><a href="{{ page.resource_url }}">External Link</a></li>{% endif %}
+      {% if page.amazon_url %}<li><a href="{{ page.amazon_url }}">Buy on Amazon</a></li>{% endif %}
+      {% if page.wikipedia_url %}<li><a href="{{ page.wikipedia_url }}">Wikipedia</a></li>{% endif %}
+      {% if page.free_url %}<li><a href="{{ page.free_url }}">Read for free</a></li>{% endif %}
+    </ul>
+  </div>
+</div>
 
 {{content}}
