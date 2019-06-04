@@ -8,7 +8,11 @@ quote: "\"Oh, you foolish Alice!\" she said again, \"how can you learn lessons i
 image: /assets/images/21-lessons-twitter-cover.jpg
 ---
 
-[![21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole](/assets/images/21-lessons-cover-rabbit.jpg)][preface]
+> The White Rabbit put on his spectacles. 'Where shall I begin, please your
+> Majesty?' he asked. '[Begin at the beginning][preface],' the King said
+> gravely, 'and go on till you come to the end: then stop.'
+
+{% include lesson-toc.html %}
 
 ---
 
@@ -18,11 +22,12 @@ image: /assets/images/21-lessons-twitter-cover.jpg
   <p><a href="{{ 'bitcoin/lessons/ch0-00-preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>
 </center>
 
-[preface]: {{ 'bitcoin/lessons/ch0-00-preface' | absolute_url }}
-
 ---
 
-{% include lesson-toc.html %}
+[![21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole](/assets/images/21-lessons-cover-rabbit.jpg)][preface]
+
+<!-- Internal  -->
+[preface]: {{ 'bitcoin/lessons/ch0-00-preface' | absolute_url }}
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
