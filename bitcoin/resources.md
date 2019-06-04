@@ -1,11 +1,15 @@
 ---
 layout: page-with-toc
-title: Resources
+title: Bitcoin Resources
+subtitle: bitcoin-resources.com
+subtitle_link: http://bitcoin-resources.com
 ---
 
 **TL;DR:** Read [*The Bitcoin Standard*][bitcoin-standard] and [*The Bullish
 Case for Bitcoin*][bullish-case]. Listen to [*The Stories We Tell About
 Money*][aantonop-stories]. Don't trust, verify. Do your own research.
+
+---
 
 ### Essentials
 
@@ -224,8 +228,9 @@ phenomenon are explored in the following articles:
 
 - [Why It’s Hard to “Get” Bitcoin][blockchain-spectrum] by Dhruv Bansal
 - [Why Blockchain is Hard][blockchain-is-hard] by Jimmy Song
+- [Nobody Understands Bitcoin (And That’s OK)][nobody-understands] by Jameson Lopp
 
-Shameless plug: I explore the multi-disciplinary nature of Bitcoin at [21lessons.com].
+I explore the multi-disciplinary nature of Bitcoin at [21lessons.com].
 
 [21lessons.com]: http://21lessons.com
 
@@ -243,7 +248,8 @@ Conclusion: If it's not Bitcoin, it's a shitcoin. Stay away from those.
 
 #### Money
 
-If you aren't ready yet to read [books on money][money], these articles are a great entry point to start learning about the purpose and history of money.
+If you aren't ready yet to read [books on money][money], these articles are a
+great entry point to start learning about the purpose and history of money.
 
 - [Shelling Out: The Origins of Money][shelling-out] by Nick Szabo
 - [Money, blockchains, and social scalability][social-scalability] by Nick Szabo
@@ -251,7 +257,9 @@ If you aren't ready yet to read [books on money][money], these articles are a gr
 #### Proof-of-work
 
 In my opinion proof-of-work is one of the most misunderstood parts of the
-Bitcoin puzzle. The following
+Bitcoin puzzle. It solves multiple problems, making it one of the most integral
+parts of the system. The following articles explore proof-of-work in more
+detail:
 
 - [The Anatomy of Proof-of-Work][pow-anatomy] by Hugo Nguyen
 - [Work is Timeless, Stake is Not][pow-timeless] by Hugo Nguyen
@@ -259,7 +267,8 @@ Bitcoin puzzle. The following
 - [Bitcoin Doesn't Waste Electricity][no-waste] by Beautyon
 - [Nothing is Cheaper than Proof of Work][pow-cheapest] by Paul Sztorc
 
-Shameless plug: I wrote about how I changed my view on proof of work in [Bitcoin's Energy Consumption: A shift in perspective][energy-consumption].
+I wrote about how I changed my view on proof of work in [Bitcoin's Energy
+Consumption: A shift in perspective][energy-consumption].
 
 [energy-consumption]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
 
@@ -277,7 +286,7 @@ network (Bitcoin), money (bitcoin), software (various implementations), an idea
 - [That’s not Bitcoin, this is Bitcoin][that-this] by StopAndDecrypt
 - [That’s not Bitcoin, that’s BCash][that-this] by StopAndDecrypt
 
-Shameless plug: I explored Bitcoin's identity in [Lesson 4][lesson-4] of [21lessons.com].
+I explored Bitcoin's identity in [Lesson 4][lesson-4] of [21lessons.com].
 
 [lesson-4]: {{ '/bitcoin/lessons/ch1-04-the-problem-of-identity' | absolute_url }}
 
@@ -288,11 +297,12 @@ it... but who controls it?" The question of control is not an easy one to
 answer, because you have to understand the whole system on a pretty deep level
 to answer it. The following articles might help.
 
+- [Bitcoin Governance][bitcoin-governance] by Pierre Rochard
 - [Unpacking Bitcoin's Social Contract][social-contract] by Hasu
 - [Bitcoin Miners Beware: Invalid Blocks Need Not Apply][invalid-blocks] by StopAndDecrypt
 - [Why America Can’t Regulate Bitcoin][cant-regulate] by Beautyon
 
-Shameless plug: I explore the question of control (and censorability) in [Lesson
+I explore the question of control (and censorability) in [Lesson
 6][lesson-6] of [21lessons.com] and in [The Magic Dust of
 Cryptography][magic-dust].
 
@@ -376,10 +386,18 @@ is a personal selection so it is biased towards certain guests and topics. If
 there is an episode missing that you consider to be one of the best, feel free
 to [reach out to me][contact] and shill me said episode.
 
-- 🎧 [BitcoinTina on why he is bullish on Bitcoin][tftc55] TFTC #55 hosted by Marty Bent
+- 🎧 [Jameson Lopp on Freedom-Enabling Technologies like Bitcoin][tftc29] TFTC #29 hosted by Marty Bent
+- 🎧 [Murad Mahmudov on Bitcoin as the World Reserve Currency][tftc34] TFTC #34 hosted by Marty Bent
+- 🎧 [Murad Mahmudov on The Ultimate Bitcoin Argument][otc25] OTC #25 hosted by Pomp
+- 🎧 [Ansel Lindner on Why Ether is Bad Money][pov22] POV #22 hosted by Christian
+- 🎧 [BitcoinTina on Why he is Bullish on Bitcoin][tftc55] TFTC #55 hosted by Marty Bent
 - 🎧 [Misir Mahmudov on the Scarcity of Time & Bitcoin][tftc60] TFTC #60 hosted by Marty Bent
-- 🎧 [PlanB – Modelling Bitcoin's digital scarcity through stock-to-flow techniques﻿][slp67] SLP #67 hosted by Stephan Livera
-- 🎧 [Murad Mahmudov][tftc34] TFTC #34 hosted by Marty Bent
+- 🎧 [PlanB – Modelling Bitcoin's Digital Scarcity through Stock-to-Flow Techniques﻿][slp67] SLP #67 hosted by Stephan Livera
+- 🎧 [Intro to Bitcoin Austrian thought][slp71] SLP #71 by Stephan Livera
+- 🎧 [Luke Dashjr on 300k Blocks and Full Nodes][wbd109] WBD #109 hosted by Peter McCormack
+- 🎧 [Tuur Demeester: Bitcoin 101][tip244] TIP #244 hosted by Preston Pysh and Stig Brodersen
+- 🎧 [Giacomo Zucco on The Uniqueness of Bitcoin][slp75] SLP #75 hosted by Stephan Livera
+- 🎧 [Alex Gladstein on Bitcoin's Role in the Fight for Human Rights][tftc76] TFTC #76 hosted by Marty Bent
 
 ---
 

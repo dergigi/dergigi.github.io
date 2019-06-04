@@ -18,16 +18,24 @@
 [cv]: https://cryptovoices.com/
 
 [rr]: https://www.buzzsprout.com/263522
-[ltb]: https://letstalkbitcoin.com/
+[ltb]: https://letstalkbitcoin.com/blog/category/episodes
 [fwc]: https://funwithcrypto.libsyn.com/
 [bsb]: https://bottomshelfbitcoin.com/
 [ba]: https://twitter.com/bennd77
 
 <!-- Podcast Episodes -->
+[tftc29]: https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-29-Jameson-Lopp-e1qndr
 [tftc34]: https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-34-Murad-Mahmudov-e1qndn
+[otc25]: https://player.fm/series/off-the-chain-2428336/murad-mahmudov-the-ultimate-bitcoin-argument
+[pov22]: https://medium.com/pov-crypto/pov-crypto-episode-22-why-ether-is-bad-money-w-ansel-lindner-71154308a71a
 [tftc55]: https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-55-BitcoinTINA-aka-Rick-Flex-e2vpt9
 [tftc60]: https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-60-Misir-Mahmudov-e3aibh
 [slp67]: https://stephanlivera.com/episode/67
+[slp71]: https://stephanlivera.com/episode/71
+[wbd109]: https://www.whatbitcoindid.com/podcast/luke-dashjr-on-300k-blocks-and-full-nodes
+[tip244]: https://www.theinvestorspodcast.com/episodes/tip244-bitcoin-101-tuur-demeester/
+[slp75]: https://stephanlivera.com/episode/75
+[tftc76]: https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-76-Alex-Gladstein-e46v9e
 
 <!-- Videos -->
 [aantonop-intro]: https://www.youtube.com/watch?v=l1si5ZWLgy0
@@ -42,6 +50,7 @@
 [distribution-fair]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
 [blockchain-spectrum]: https://blog.unchained-capital.com/blockchain-spectrum-806847e1c575
 [blockchain-is-hard]: https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c
+[nobody-understands]: https://www.coindesk.com/nobody-understands-bitcoin-thats-ok
 [god-protocols]: https://nakamotoinstitute.org/the-god-protocols/
 [security-holes]: https://nakamotoinstitute.org/trusted-third-parties/
 [shelling-out]: https://nakamotoinstitute.org/shelling-out/
@@ -59,6 +68,7 @@
 [that-this]: https://hackernoon.com/thats-not-bitcoin-this-is-bitcoin-95f05a6fd6c2
 [bcash]: https://hackernoon.com/thats-not-bitcoin-that-s-bcash-f730f0d0a837
 [social-contract]: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
+[bitcoin-governance]: https://medium.com/@pierre_rochard/bitcoin-governance-37e86299470f
 [invalid-blocks]: https://hackernoon.com/bitcoin-miners-beware-invalid-blocks-need-not-apply-51c293ee278b
 [cant-regulate]: https://hackernoon.com/why-america-cant-regulate-bitcoin-8c77cee8d794
 [dao-merkle]: http://merkle.com/papers/DAOdemocracyDraft.pdf

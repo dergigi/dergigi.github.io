@@ -35,53 +35,5 @@ layout: default
       </div>
     </div>
 
-    <!-- Everything inside the #author tags pulls data from the author -->
-    <!--
-    {% if page.author %}
-      <div class="section-padding--none">
-        <div class="grid">
-          <hr class="sep"/>
-        </div>
-      </div>
-
-      <div class="section-padding">
-        <div class="grid-small">
-          {% for author in site.author %}
-            <span class="post__author">Posted by {% if author["name"] == page.author and author["url"] %}<a href="{{ author['url'] }}" title="More By {{ page.author }}">{% endif %}{{ page.author }}{% if author["name"] == page.author and author["url"] %}</a>{% endif %}</span>
-            {% if author["name"] == page.author %}
-              <p class="post__bio">{{ author["bio"] }}</p>
-            {% endif %}
-          {% endfor %}
-        </div>
-      </div>
-    {% endif %}
-    -->
   </article>
 </div>
-
-<!-- Links to Previous/Next posts
-{% assign relatedTag = page.tags | first %}
-{% if relatedTag %}
-  <section class="related section-padding">
-    <div class="grid-xlarge">
-      <h2 class="related__title">Related</h2>
-      <div class="related__container">
-        {% for post in site.tags[relatedTag] limit: 3 %}
-          <article class="related__post">
-            <a class="related__link" href="{{ post.url | absolute_url }}">
-              {% if post.image %}
-                <figure class="related__img">
-                  <img src="{{ post.image }}" alt="{{ post.title }}"/>
-                </figure>
-              {% endif %}
-              <div>
-                <h2 class="related__text">{{ post.title }}</h2>
-              </div>
-            </a>
-          </article>
-        {% endfor %}
-      </div>
-    </div>
-  </section>
-{% endif %}
- -->
