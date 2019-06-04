@@ -97,7 +97,7 @@ for row in sodes.get_all_values():
 
     md_file = (
                 f"---\n"
-                f"layout: page-episode\n"
+                f"layout: page\n"
                 f"title: {sode_title}\n"
                 f"podcast: {sode_podcast}\n"
                 f"episode: {sode_episode}\n"
