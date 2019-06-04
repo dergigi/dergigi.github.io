@@ -53,7 +53,7 @@ for row in books.get_all_values():
     #         f.write(author_file)
 
     md_file_path = title_to_file_path(resource_title, resource_type)
-    if os.path.exists(md_file_path) or md_file_path == "":
+    if md_file_path == "":
         continue
 
     md_file = (
@@ -92,7 +92,7 @@ for row in sodes.get_all_values():
     sode_link = row[8]
 
     md_file_path = '../../collections/_episodes/' + sode_podcast + str(sode_episode) + '.md'
-    if os.path.exists(md_file_path) or md_file_path == "":
+    if md_file_path == "":
         continue
 
     md_file = (
