@@ -243,7 +243,8 @@ Conclusion: If it's not Bitcoin, it's a shitcoin. Stay away from those.
 
 #### Money
 
-If you aren't ready yet to read [books on money][money], these articles are a great entry point to start learning about the purpose and history of money.
+If you aren't ready yet to read [books on money][money], these articles are a
+great entry point to start learning about the purpose and history of money.
 
 - [Shelling Out: The Origins of Money][shelling-out] by Nick Szabo
 - [Money, blockchains, and social scalability][social-scalability] by Nick Szabo
@@ -251,7 +252,9 @@ If you aren't ready yet to read [books on money][money], these articles are a gr
 #### Proof-of-work
 
 In my opinion proof-of-work is one of the most misunderstood parts of the
-Bitcoin puzzle. The following
+Bitcoin puzzle. It solves multiple problems, making it one of the most integral
+parts of the system. The following articles explore proof-of-work in more
+detail:
 
 - [The Anatomy of Proof-of-Work][pow-anatomy] by Hugo Nguyen
 - [Work is Timeless, Stake is Not][pow-timeless] by Hugo Nguyen
@@ -259,7 +262,8 @@ Bitcoin puzzle. The following
 - [Bitcoin Doesn't Waste Electricity][no-waste] by Beautyon
 - [Nothing is Cheaper than Proof of Work][pow-cheapest] by Paul Sztorc
 
-I wrote about how I changed my view on proof of work in [Bitcoin's Energy Consumption: A shift in perspective][energy-consumption].
+I wrote about how I changed my view on proof of work in [Bitcoin's Energy
+Consumption: A shift in perspective][energy-consumption].
 
 [energy-consumption]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
 
