@@ -8,7 +8,7 @@ quote: "\"Oh, you foolish Alice!\" she said again, \"how can you learn lessons i
 image: /assets/images/21-lessons-twitter-cover.jpg
 ---
 
-{% include lesson-list.html %}
+[![21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole](/assets/images/21-lessons-cover-rabbit.jpg)][preface]
 
 ---
 
@@ -22,7 +22,7 @@ image: /assets/images/21-lessons-twitter-cover.jpg
 
 ---
 
-[![21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole](/assets/images/21-lessons-cover-rabbit.jpg)][preface]
+{% include lesson-toc.html %}
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
