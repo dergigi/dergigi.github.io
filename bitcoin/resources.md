@@ -399,6 +399,8 @@ to [reach out to me][contact] and shill me said episode.
 - 🎧 [Giacomo Zucco on The Uniqueness of Bitcoin][slp75] SLP #75 hosted by Stephan Livera
 - 🎧 [Alex Gladstein on Bitcoin's Role in the Fight for Human Rights][tftc76] TFTC #76 hosted by Marty Bent
 
+{% include sodes.html %}
+
 ---
 
 ### Wikis and Guides

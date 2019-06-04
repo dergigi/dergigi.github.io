@@ -39,7 +39,7 @@ collections:
     permalink: /bitcoin/resources/:slug
   episodes:
     title: Episodes
-    output: false
+    output: true
 
 # Author settings
 author:
