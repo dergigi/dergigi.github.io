@@ -12,8 +12,8 @@ scope = ['https://spreadsheets.google.com/feeds',
 creds = ServiceAccountCredentials.from_json_keyfile_name('client_secret.json', scope)
 client = gspread.authorize(creds)
 
-books = client.open("Bitcoin Resources").sheet1
-sodes = client.open("Bitcoin Resources").sheet1
+books = client.open("Bitcoin Resources").worksheet("Books")
+sodes = client.open("Bitcoin Resources").worksheet("Sodes")
 
 NO_DATE = "1111-11-11"
 NO_AUTHOR_LINKS = ""
@@ -91,7 +91,7 @@ for row in sodes.get_all_values():
     sode_lesson = row[7]
     sode_link = row[8]
 
-    md_file_path = title_to_file_path(resource_title, 'episode')
+    md_file_path = '../../collections/_episodes/' + sode_podcast + str(sode_episode) + '.md'
     if os.path.exists(md_file_path) or md_file_path == "":
         continue
 
