@@ -292,6 +292,7 @@ it... but who controls it?" The question of control is not an easy one to
 answer, because you have to understand the whole system on a pretty deep level
 to answer it. The following articles might help.
 
+- [Bitcoin Governance][bitcoin-governance] by Pierre Rochard
 - [Unpacking Bitcoin's Social Contract][social-contract] by Hasu
 - [Bitcoin Miners Beware: Invalid Blocks Need Not Apply][invalid-blocks] by StopAndDecrypt
 - [Why America Can’t Regulate Bitcoin][cant-regulate] by Beautyon

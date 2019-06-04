@@ -59,6 +59,7 @@
 [that-this]: https://hackernoon.com/thats-not-bitcoin-this-is-bitcoin-95f05a6fd6c2
 [bcash]: https://hackernoon.com/thats-not-bitcoin-that-s-bcash-f730f0d0a837
 [social-contract]: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
+[bitcoin-governance]: https://medium.com/@pierre_rochard/bitcoin-governance-37e86299470f
 [invalid-blocks]: https://hackernoon.com/bitcoin-miners-beware-invalid-blocks-need-not-apply-51c293ee278b
 [cant-regulate]: https://hackernoon.com/why-america-cant-regulate-bitcoin-8c77cee8d794
 [dao-merkle]: http://merkle.com/papers/DAOdemocracyDraft.pdf
