@@ -224,6 +224,7 @@ phenomenon are explored in the following articles:
 
 - [Why It’s Hard to “Get” Bitcoin][blockchain-spectrum] by Dhruv Bansal
 - [Why Blockchain is Hard][blockchain-is-hard] by Jimmy Song
+- [Nobody Understands Bitcoin (And That’s OK)][nobody-understands] by Jameson Lopp
 
 I explore the multi-disciplinary nature of Bitcoin at [21lessons.com].
 

@@ -42,6 +42,7 @@
 [distribution-fair]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
 [blockchain-spectrum]: https://blog.unchained-capital.com/blockchain-spectrum-806847e1c575
 [blockchain-is-hard]: https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c
+[nobody-understands]: https://www.coindesk.com/nobody-understands-bitcoin-thats-ok
 [god-protocols]: https://nakamotoinstitute.org/the-god-protocols/
 [security-holes]: https://nakamotoinstitute.org/trusted-third-parties/
 [shelling-out]: https://nakamotoinstitute.org/shelling-out/
