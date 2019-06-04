@@ -386,10 +386,18 @@ is a personal selection so it is biased towards certain guests and topics. If
 there is an episode missing that you consider to be one of the best, feel free
 to [reach out to me][contact] and shill me said episode.
 
-- 🎧 [BitcoinTina on why he is bullish on Bitcoin][tftc55] TFTC #55 hosted by Marty Bent
+- 🎧 [Jameson Lopp on Freedom-Enabling Technologies like Bitcoin][tftc29] TFTC #29 hosted by Marty Bent
+- 🎧 [Murad Mahmudov on Bitcoin as the World Reserve Currency][tftc34] TFTC #34 hosted by Marty Bent
+- 🎧 [Murad Mahmudov on The Ultimate Bitcoin Argument][otc25] OTC #25 hosted by Pomp
+- 🎧 [Ansel Lindner on Why Ether is Bad Money][pov22] POV #22 hosted by Christian
+- 🎧 [BitcoinTina on Why he is Bullish on Bitcoin][tftc55] TFTC #55 hosted by Marty Bent
 - 🎧 [Misir Mahmudov on the Scarcity of Time & Bitcoin][tftc60] TFTC #60 hosted by Marty Bent
-- 🎧 [PlanB – Modelling Bitcoin's digital scarcity through stock-to-flow techniques﻿][slp67] SLP #67 hosted by Stephan Livera
-- 🎧 [Murad Mahmudov][tftc34] TFTC #34 hosted by Marty Bent
+- 🎧 [PlanB – Modelling Bitcoin's Digital Scarcity through Stock-to-Flow Techniques﻿][slp67] SLP #67 hosted by Stephan Livera
+- 🎧 [Intro to Bitcoin Austrian thought][slp71] SLP #71 by Stephan Livera
+- 🎧 [Luke Dashjr on 300k Blocks and Full Nodes][wbd109] WBD #109 hosted by Peter McCormack
+- 🎧 [Tuur Demeester: Bitcoin 101][tip244] TIP #244 hosted by Preston Pysh and Stig Brodersen
+- 🎧 [Giacomo Zucco on The Uniqueness of Bitcoin][slp75] SLP #75 hosted by Stephan Livera
+- 🎧 [Alex Gladstein on Bitcoin's Role in the Fight for Human Rights][tftc76] TFTC #76 hosted by Marty Bent
 
 ---
 
