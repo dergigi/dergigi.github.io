@@ -1,0 +1,11 @@
+---
+layout: page
+title: Bitcointina Aka Rick Flex
+podcast: TFTC
+episode: 55
+hosts: Marty Bent
+date: Jan 18, 2019
+guest: BitcoinTina
+lesson: 
+link: https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-55-BitcoinTINA-aka-Rick-Flex-e2vpt9
+---
