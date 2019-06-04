@@ -18,7 +18,7 @@
 [cv]: https://cryptovoices.com/
 
 [rr]: https://www.buzzsprout.com/263522
-[ltb]: https://letstalkbitcoin.com/
+[ltb]: https://letstalkbitcoin.com/blog/category/episodes
 [fwc]: https://funwithcrypto.libsyn.com/
 [bsb]: https://bottomshelfbitcoin.com/
 [ba]: https://twitter.com/bennd77
