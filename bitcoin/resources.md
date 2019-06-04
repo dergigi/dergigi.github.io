@@ -1,11 +1,15 @@
 ---
 layout: page-with-toc
-title: Resources
+title: Bitcoin Resources
+subtitle: bitcoin-resources.com
+subtitle_link: http://bitcoin-resources.com
 ---
 
 **TL;DR:** Read [*The Bitcoin Standard*][bitcoin-standard] and [*The Bullish
 Case for Bitcoin*][bullish-case]. Listen to [*The Stories We Tell About
 Money*][aantonop-stories]. Don't trust, verify. Do your own research.
+
+---
 
 ### Essentials
 

@@ -7,7 +7,11 @@ layout: default
       <div class="grid-small">
         <h2>{{ page.title }}</h2>
         {% if page.subtitle %}
-          <h3 itemprop="name alternativeHeadline">{{ page.subtitle }}</h3>
+          <h3 itemprop="name alternativeHeadline">
+            {% if page.subtitle_link %}<a href="{{ page.subtitle_link }}">{% endif %}
+            {{ page.subtitle }}
+            {% if page.subtitle_link %}</a>{% endif %}
+          </h3>
         {% endif %}
         {% if page.quote %}
           <blockquote cite="{{ page.cite }}">
