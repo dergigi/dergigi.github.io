@@ -225,7 +225,7 @@ phenomenon are explored in the following articles:
 - [Why It’s Hard to “Get” Bitcoin][blockchain-spectrum] by Dhruv Bansal
 - [Why Blockchain is Hard][blockchain-is-hard] by Jimmy Song
 
-Shameless plug: I explore the multi-disciplinary nature of Bitcoin at [21lessons.com].
+I explore the multi-disciplinary nature of Bitcoin at [21lessons.com].
 
 [21lessons.com]: http://21lessons.com
 
@@ -259,7 +259,7 @@ Bitcoin puzzle. The following
 - [Bitcoin Doesn't Waste Electricity][no-waste] by Beautyon
 - [Nothing is Cheaper than Proof of Work][pow-cheapest] by Paul Sztorc
 
-Shameless plug: I wrote about how I changed my view on proof of work in [Bitcoin's Energy Consumption: A shift in perspective][energy-consumption].
+I wrote about how I changed my view on proof of work in [Bitcoin's Energy Consumption: A shift in perspective][energy-consumption].
 
 [energy-consumption]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
 
@@ -277,7 +277,7 @@ network (Bitcoin), money (bitcoin), software (various implementations), an idea
 - [That’s not Bitcoin, this is Bitcoin][that-this] by StopAndDecrypt
 - [That’s not Bitcoin, that’s BCash][that-this] by StopAndDecrypt
 
-Shameless plug: I explored Bitcoin's identity in [Lesson 4][lesson-4] of [21lessons.com].
+I explored Bitcoin's identity in [Lesson 4][lesson-4] of [21lessons.com].
 
 [lesson-4]: {{ '/bitcoin/lessons/ch1-04-the-problem-of-identity' | absolute_url }}
 
@@ -292,7 +292,7 @@ to answer it. The following articles might help.
 - [Bitcoin Miners Beware: Invalid Blocks Need Not Apply][invalid-blocks] by StopAndDecrypt
 - [Why America Can’t Regulate Bitcoin][cant-regulate] by Beautyon
 
-Shameless plug: I explore the question of control (and censorability) in [Lesson
+I explore the question of control (and censorability) in [Lesson
 6][lesson-6] of [21lessons.com] and in [The Magic Dust of
 Cryptography][magic-dust].
 
