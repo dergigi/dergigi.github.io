@@ -83,11 +83,11 @@ for row in sodes.get_all_values():
         continue
 
     sode_episode = row[0]
-    sode_podcast = row[1]
-    sode_hosts = row[2]
+    sode_podcast = row[1].lstrip().rstrip()
+    sode_hosts = row[2].lstrip().rstrip()
     sode_date = row[3] if row[3] != '' else NO_DATE
-    sode_title = row[4].title().replace(":", "&#58")
-    sode_guest = row[5]
+    sode_guest = row[4].lstrip().rstrip()
+    sode_title = sode_guest + ' ' + row[5].lstrip().rstrip()
     sode_lesson = row[7]
     sode_link = row[8]
 
