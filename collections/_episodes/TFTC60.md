@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Misir Mahmudov
+title: Misir Mahmudov on the Scarcity of Time and Bitcoin
 podcast: TFTC
 episode: 60
 hosts: Marty Bent

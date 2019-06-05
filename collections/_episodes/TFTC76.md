@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alex Gladstein
+title: Alex Gladstein on Bitcoin’s Role in the Fight for Human Rights
 podcast: TFTC
 episode: 76
 hosts: Marty Bent

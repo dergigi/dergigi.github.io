@@ -1,6 +1,6 @@
 ---
 layout: page
-title: There Is Only One Bitcoin (Newbie Episode)
+title: Giacomo Zucco on Bitcoin's Identity and Copycats
 podcast: SLP
 episode: 75
 hosts: Stephan Livera

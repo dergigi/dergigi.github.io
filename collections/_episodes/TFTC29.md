@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jameson Lopp
+title: Jameson Lopp on Freedom-Enabling Technologies like Bitcoin
 podcast: TFTC
 episode: 29
 hosts: Marty Bent

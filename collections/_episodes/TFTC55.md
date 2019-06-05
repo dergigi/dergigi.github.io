@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bitcointina Aka Rick Flex
+title: BitcoinTina on Why he is Bullish on Bitcoin
 podcast: TFTC
 episode: 55
 hosts: Marty Bent

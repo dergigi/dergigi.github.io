@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Murad Mahmudov
+title: Murad Mahmudov on Bitcoin as the World Reserve Currency
 podcast: TFTC
 episode: 34
 hosts: Marty Bent

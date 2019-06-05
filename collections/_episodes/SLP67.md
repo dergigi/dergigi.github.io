@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Modelling Bitcoin’S Digital Scarcity Through Stock-To-Flow Techniques
+title: Plan B (@100trillionUSD) on Modelling Bitcoin’s Digital Scarcity Through Stock-to-Flow Techniques
 podcast: SLP
 episode: 67
 hosts: Stephan Livera

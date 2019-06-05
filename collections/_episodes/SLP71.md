@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intro To Bitcoin Austrian Thought
+title: Stephan Livera - Intro to Bitcoin Austrian thought
 podcast: SLP
 episode: 71
 hosts: Stephan Livera

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Ultimate Bitcoin Argument
+title: Murad Mahmudov on The Ultimate Bitcoin Argument
 podcast: OTC
 episode: 25
 hosts: Pomp
