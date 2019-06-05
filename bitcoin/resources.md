@@ -37,6 +37,12 @@ Andreas Antonopoulos's *[The Stories We Tell About Money][aantonop-stories]*.
 
 ---
 
+<center>
+  <small><p><a href="#toc">Table of Contents</a></p></small>
+</center>
+
+---
+
 ### About these Resources
 
 There exists an almost endless list of essays, articles, books, podcasts, and
