@@ -422,4 +422,8 @@ you are looking for longer, more varied lists, the following got you covered:
 - [Mises Library][mises] by The Mises Institute
 - [Unenumerated][unenumerated] by Nick Szabo
 
+That's it!
+
+The above should keep you busy for a while. If you found a typo, broken link, or have something to add please [reach out to me][contact] or create an [issue][issues]/[PR][pulls] on GitHub.
+
 {% include bibliography.md %}
