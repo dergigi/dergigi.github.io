@@ -240,7 +240,7 @@ I explore the multi-disciplinary nature of Bitcoin at [21lessons.com].
 
 [21lessons.com]: http://21lessons.com
 
-#### Bitcoin's uniqueness
+#### Bitcoin's Uniqueness
 
 Why Bitcoin, and not something else? Because Bitcoin matters, Bitcoin is unique,
 Bitcoin is fair, and Bitcoin is way better than you think.
@@ -315,11 +315,11 @@ Cryptography][magic-dust].
 [magic-dust]: {% post_url /bitcoin/2018-08-17-the-magic-dust-of-cryptography %}  
 [lesson-6]: {{ '/bitcoin/lessons/ch1-06-the-power-of-free-speech' | absolute_url }}
 
-#### Bitcoin as an organic system
+#### Bitcoin as a Living Organism
 
 Ralph Merkle famously called Bitcoin ["the first example of a new form of
-life."][dao-merkle]. Others developed this idea further, which is - in my opinion -
-one of the most useful analogies to understand Bitcoin.
+life."][dao-merkle]. Others developed this idea further, which is - in my
+opinion - one of the most useful analogies to understand Bitcoin.
 
 - [Foreword to The Bitcoin Standard][taleb-foreword] by Nassim Nicholas Taleb
 - [Bitcoin is a Decentralized Organism][fungi1] by Brandon Quittem
