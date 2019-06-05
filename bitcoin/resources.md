@@ -37,6 +37,12 @@ Andreas Antonopoulos's *[The Stories We Tell About Money][aantonop-stories]*.
 
 ---
 
+<center>
+  <small><p><a href="#toc">Table of Contents</a></p></small>
+</center>
+
+---
+
 ### About these Resources
 
 There exists an almost endless list of essays, articles, books, podcasts, and
@@ -45,16 +51,16 @@ here are but a small selection which were particularly influential in my
 thinking.
 
 I tried to structure the resources in a meaningful way. A quick overview can be
-gained from the [Table of Contents][toc]. The [essentials] come first, since I
+gained from the [Table of Contents][toc]. I put the essentials on top since I
 consider them to be a good starting point and required reading for everyone.
 
 Further resources are listed below and grouped by category:
 
 - [Books][books] on Bitcoin, economics, money, and other topics
-- [Podcasts][podcasts] and [selected episodes][episodes]
 - [Selected articles][articles], grouped by topic
+- [Podcasts][podcasts] and [selected episodes][episodes]
 
-Note that there is a list of [other curated resources][other] at the end of this
+Note that there is a list of other curated resources at the end of this
 page. Make sure to check them out, since everyone's selection is different and
 one of those might better suite your taste.
 
@@ -67,7 +73,7 @@ one of those might better suite your taste.
 [other]: #further-resources
 
 If you think something is missing or the structure could be improved, please
-[let me know][contact]. If you have any suggestions, open [issues] or
+let me know. If you have any suggestions, open [issues] or
 [PRs][pulls] on GitHub or [reach out to me][contact].
 
 Last but not least, *thank you* to all the people who shared their thoughts and
@@ -234,7 +240,7 @@ I explore the multi-disciplinary nature of Bitcoin at [21lessons.com].
 
 [21lessons.com]: http://21lessons.com
 
-#### Bitcoin's uniqueness
+#### Bitcoin's Uniqueness
 
 Why Bitcoin, and not something else? Because Bitcoin matters, Bitcoin is unique,
 Bitcoin is fair, and Bitcoin is way better than you think.
@@ -268,9 +274,10 @@ detail:
 - [Nothing is Cheaper than Proof of Work][pow-cheapest] by Paul Sztorc
 
 I wrote about how I changed my view on proof of work in [Bitcoin's Energy
-Consumption: A shift in perspective][energy-consumption].
+Consumption: A shift in perspective][energy-consumption] and in [Lesson 17][lesson-17].
 
 [energy-consumption]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
+[lesson-17]: {{ '/bitcoin/lessons/ch3-17-telling-time-takes-work' | absolute_url }}
 
 #### Bitcoin's Identity
 
@@ -286,7 +293,7 @@ network (Bitcoin), money (bitcoin), software (various implementations), an idea
 - [That’s not Bitcoin, this is Bitcoin][that-this] by StopAndDecrypt
 - [That’s not Bitcoin, that’s BCash][that-this] by StopAndDecrypt
 
-I explored Bitcoin's identity in [Lesson 4][lesson-4] of [21lessons.com].
+I explored Bitcoin's identity in [Lesson 4][lesson-4].
 
 [lesson-4]: {{ '/bitcoin/lessons/ch1-04-the-problem-of-identity' | absolute_url }}
 
@@ -302,18 +309,17 @@ to answer it. The following articles might help.
 - [Bitcoin Miners Beware: Invalid Blocks Need Not Apply][invalid-blocks] by StopAndDecrypt
 - [Why America Can’t Regulate Bitcoin][cant-regulate] by Beautyon
 
-I explore the question of control (and censorability) in [Lesson
-6][lesson-6] of [21lessons.com] and in [The Magic Dust of
-Cryptography][magic-dust].
+I explore the question of control (and censorability) in [Lesson 6][lesson-6]
+and in [The Magic Dust of Cryptography][magic-dust].
 
 [magic-dust]: {% post_url /bitcoin/2018-08-17-the-magic-dust-of-cryptography %}  
 [lesson-6]: {{ '/bitcoin/lessons/ch1-06-the-power-of-free-speech' | absolute_url }}
 
-#### Bitcoin as an organic system
+#### Bitcoin as a Living Organism
 
 Ralph Merkle famously called Bitcoin ["the first example of a new form of
-life."][dao-merkle]. Others developed this idea further, which is - in my opinion -
-one of the most useful analogies to understand Bitcoin.
+life."][dao-merkle]. Others developed this idea further, which is - in my
+opinion - one of the most useful analogies to understand Bitcoin.
 
 - [Foreword to The Bitcoin Standard][taleb-foreword] by Nassim Nicholas Taleb
 - [Bitcoin is a Decentralized Organism][fungi1] by Brandon Quittem
@@ -375,8 +381,9 @@ distinction. I enjoy or have enjoyed the these podcasts as well:
 
 - [Let's Talk Bitcoin][ltb] with Adam B. Levine, Andreas Antonopoulos, Stephanie Murphy and Jonathan Mohan
 - [Reckless Review][rr] by Udi Wertheimer and Lawrence Nahum
-- [Bitcoin and...][ba] by @bennd77
-- [Fun With Crypto][fwc] by @Coinicarus
+- [Bitcoin and...][ba] by David Bennet
+- [Fun With Crypto][fwc] by Coinicarus
+- [POV Crypto][pov] by David Hoffman and Christian Keroles
 - [Bottomshelf Bitcoin][bsb] by Josh Humphrey
 
 ### Podcast episodes
@@ -386,18 +393,11 @@ is a personal selection so it is biased towards certain guests and topics. If
 there is an episode missing that you consider to be one of the best, feel free
 to [reach out to me][contact] and shill me said episode.
 
-- 🎧 [Jameson Lopp on Freedom-Enabling Technologies like Bitcoin][tftc29] TFTC #29 hosted by Marty Bent
-- 🎧 [Murad Mahmudov on Bitcoin as the World Reserve Currency][tftc34] TFTC #34 hosted by Marty Bent
-- 🎧 [Murad Mahmudov on The Ultimate Bitcoin Argument][otc25] OTC #25 hosted by Pomp
-- 🎧 [Ansel Lindner on Why Ether is Bad Money][pov22] POV #22 hosted by Christian
-- 🎧 [BitcoinTina on Why he is Bullish on Bitcoin][tftc55] TFTC #55 hosted by Marty Bent
-- 🎧 [Misir Mahmudov on the Scarcity of Time & Bitcoin][tftc60] TFTC #60 hosted by Marty Bent
-- 🎧 [PlanB – Modelling Bitcoin's Digital Scarcity through Stock-to-Flow Techniques﻿][slp67] SLP #67 hosted by Stephan Livera
-- 🎧 [Intro to Bitcoin Austrian thought][slp71] SLP #71 by Stephan Livera
-- 🎧 [Luke Dashjr on 300k Blocks and Full Nodes][wbd109] WBD #109 hosted by Peter McCormack
-- 🎧 [Tuur Demeester: Bitcoin 101][tip244] TIP #244 hosted by Preston Pysh and Stig Brodersen
-- 🎧 [Giacomo Zucco on The Uniqueness of Bitcoin][slp75] SLP #75 hosted by Stephan Livera
-- 🎧 [Alex Gladstein on Bitcoin's Role in the Fight for Human Rights][tftc76] TFTC #76 hosted by Marty Bent
+{% include sodes.html %}
+
+I am still in the process of going through the archives, so this list will
+probably be extended (and split up) soon. Again, you can help by shilling me
+your favorite episode.
 
 ---
 
@@ -427,5 +427,9 @@ you are looking for longer, more varied lists, the following got you covered:
 - [Bitcoin Rabbit Hole][brh] by Adam Taché
 - [Mises Library][mises] by The Mises Institute
 - [Unenumerated][unenumerated] by Nick Szabo
+
+That's it!
+
+The above should keep you busy for a while. If you found a typo, broken link, or have something to add please [reach out to me][contact] or create an [issue][issues]/[PR][pulls] on GitHub.
 
 {% include bibliography.md %}

@@ -20,6 +20,7 @@
 [rr]: https://www.buzzsprout.com/263522
 [ltb]: https://letstalkbitcoin.com/blog/category/episodes
 [fwc]: https://funwithcrypto.libsyn.com/
+[pov]: https://medium.com/pov-crypto
 [bsb]: https://bottomshelfbitcoin.com/
 [ba]: https://twitter.com/bennd77
 

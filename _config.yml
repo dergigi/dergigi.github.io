@@ -37,6 +37,9 @@ collections:
     title: Books
     output: true
     permalink: /bitcoin/resources/:slug
+  episodes:
+    title: Episodes
+    output: true
 
 # Author settings
 author:
