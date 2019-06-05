@@ -51,16 +51,16 @@ here are but a small selection which were particularly influential in my
 thinking.
 
 I tried to structure the resources in a meaningful way. A quick overview can be
-gained from the [Table of Contents][toc]. The [essentials] come first, since I
+gained from the [Table of Contents][toc]. I put the essentials on top since I
 consider them to be a good starting point and required reading for everyone.
 
 Further resources are listed below and grouped by category:
 
 - [Books][books] on Bitcoin, economics, money, and other topics
-- [Podcasts][podcasts] and [selected episodes][episodes]
 - [Selected articles][articles], grouped by topic
+- [Podcasts][podcasts] and [selected episodes][episodes]
 
-Note that there is a list of [other curated resources][other] at the end of this
+Note that there is a list of other curated resources at the end of this
 page. Make sure to check them out, since everyone's selection is different and
 one of those might better suite your taste.
 
@@ -73,7 +73,7 @@ one of those might better suite your taste.
 [other]: #further-resources
 
 If you think something is missing or the structure could be improved, please
-[let me know][contact]. If you have any suggestions, open [issues] or
+let me know. If you have any suggestions, open [issues] or
 [PRs][pulls] on GitHub or [reach out to me][contact].
 
 Last but not least, *thank you* to all the people who shared their thoughts and
