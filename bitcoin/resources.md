@@ -377,6 +377,7 @@ distinction. I enjoy or have enjoyed the these podcasts as well:
 - [Reckless Review][rr] by Udi Wertheimer and Lawrence Nahum
 - [Bitcoin and...][ba] by @bennd77
 - [Fun With Crypto][fwc] by @Coinicarus
+- [POV Crypto][pov] by David Hoffman and Christian Keroles
 - [Bottomshelf Bitcoin][bsb] by Josh Humphrey
 
 ### Podcast episodes
