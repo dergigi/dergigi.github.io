@@ -389,6 +389,10 @@ to [reach out to me][contact] and shill me said episode.
 
 {% include sodes.html %}
 
+I am still in the process of going through the archives, so this list will
+probably be extended (and split up) soon. Again, you can help by shilling me
+your favorite episode.
+
 ---
 
 ### Wikis and Guides
