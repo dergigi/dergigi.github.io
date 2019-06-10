@@ -41,8 +41,19 @@ version][bullish-case-audio])
 
 ---
 
-<center>
-  <small><p><a href="#toc">Table of Contents</a></p></small>
+<center class="resources">
+  <p><a href="#toc">Table of Contents</a></p>
+
+  <ul class="resources__navigation">
+    <li><a href="#books">Books</a></li>
+    <li><a href="#articles">Articles</a></li>
+    <li><a href="#podcasts">Podcasts</a></li>
+  <!-- </ul>
+  <ul class="resources__navigation"> -->
+    <!-- <li><a href="#podcast-episodes">Selected podcast episodes</a></li>
+    <li><a href="#wikis-and-guides">Wikis and guides</a></li> -->
+    <li><a href="#further-resources">Other</a></li>
+  </ul>
 </center>
 
 [toc]: #toc
