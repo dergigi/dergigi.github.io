@@ -87,6 +87,8 @@
 <!-- Misc -->
 [bitcoin-halving]: https://thesaifhouse.wordpress.com/2016/07/09/the-bitcoin-halving-and-monetary-competition/
 [open-letter]: https://hackernoon.com/an-open-letter-to-banks-about-bitcoin-and-cryptocurrencies-b0c7ef9b7c62
+[everyone-scammer]: https://nakamotoinstitute.org/mempool/everyones-a-scammer/
+[no-bitcoin-2.0]: http://www.contravex.com/2014/03/19/there-is-no-bitcoin-2-0
 
 <!-- Wikis and Guides -->
 [wiki-bitcoin]: https://en.bitcoin.it/wiki/
