@@ -41,19 +41,9 @@ version][bullish-case-audio])
 
 ---
 
-<center class="resources">
-  <p><a href="#toc">Table of Contents</a></p>
+<center>
+  <p><small><a href="#toc">Table of Contents</a></small></p>
 
-  <ul class="resources__navigation">
-    <li><a href="#books">Books</a></li>
-    <li><a href="#articles">Articles</a></li>
-    <li><a href="#podcasts">Podcasts</a></li>
-  <!-- </ul>
-  <ul class="resources__navigation"> -->
-    <!-- <li><a href="#podcast-episodes">Selected podcast episodes</a></li>
-    <li><a href="#wikis-and-guides">Wikis and guides</a></li> -->
-    <li><a href="#further-resources">Other</a></li>
-  </ul>
 </center>
 
 [toc]: #toc
@@ -374,7 +364,7 @@ distinction. I enjoy or have enjoyed the these podcasts as well:
 - [POV Crypto][pov] by David Hoffman and Christian Keroles
 - [Bottomshelf Bitcoin][bsb] by Josh Humphrey
 
-### Podcast episodes
+#### Podcast episodes
 
 Some "evergreen" episodes were recorded in the last couple of years. Again, this
 is a personal selection so it is biased towards certain guests and topics. If
@@ -384,12 +374,15 @@ to [reach out to me][contact] and shill me said episode.
 {% include sodes.html %}
 
 I am still in the process of going through the archives, so this list will
-probably be extended (and split up) soon. Again, you can help by shilling me
-your favorite episode.
+probably grow over time.
 
 ---
 
-### Wikis and Guides
+### Further Resources
+
+
+
+#### Wikis and Guides
 
 There are many great articles written by contributors of the *Bitcoin Wiki*. If
 you want to know more about a specific topic, the Bitcoin Wiki is a great
@@ -401,7 +394,7 @@ hacking on Bitcoin you might want to check out the *Bitcoin Developer Guide*.
 - [Libbitcoin Wiki][wiki-libbitcoin] by libbitcoin developers
 - [Bitcoin Developer Guide][bitcoin-dev-guide] by bitcoin.org
 
-### Further Resources
+#### Other Curations
 
 There are other, more complete curations of Bitcoin content and resources. If
 you are looking for longer, more varied lists, the following got you covered:
