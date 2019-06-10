@@ -76,7 +76,7 @@
 [taleb-foreword]: https://medium.com/opacity/bitcoin-1537e616a074
 [fungi1]: https://medium.com/@BrandonQuittem/bitcoin-is-a-decentralized-organism-mycelium-part-1-3-6ec58cdcfaa6
 [fungi2]: https://medium.com/@BrandonQuittem/bitcoin-is-a-social-creature-mushroom-part-2-3-6a05c3abe8f0
-<!-- [guess-pk]: https://medium.com/@kerbleski/a-dance-with-infinity-980bd8e9a781 -->
+[guess-pk]: https://medium.com/@kerbleski/a-dance-with-infinity-980bd8e9a781
 
 
 <!-- Cypherpunks -->
