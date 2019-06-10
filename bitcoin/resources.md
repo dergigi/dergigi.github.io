@@ -345,7 +345,8 @@ of my arbitrarily chosen categories above.
 - [An Open Letter to Banks about Bitcoin and Cryptocurrencies][open-letter] by Peter McCormack
 - [The Bitcoin Halving and Monetary Competition][bitcoin-halving] by Saifedean Ammous
 - [Everyone's a Scammer][everyone-scammer] by Michael Goldstein
-<!-- - [Guess My Bitcoin Private Key][guess-pk] by Michael Kerbleski -->
+- [Guess My Bitcoin Private Key][guess-pk] by Michael Kerbleski
+- [Stage n: Bitcoin exists][stage-n] by Mircea Popescu
 
 ---
 
