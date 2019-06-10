@@ -106,14 +106,14 @@ roughly grouped by topics as follows:
 [computation-and-complexity-theory]: #computation-and-complexity-theory
 [work]: #work
 
-I hope to update this list continually as my
-reading progresses.
+I hope to update this list continually as my reading progresses.
 
 #### Bitcoin (non-technical)
 
 Books about Bitcoin which can be read by anyone, no special background Knowledge
-or education required. As mentioned above, I consider *The Bitcoin Standard*
-required reading for anyone interested in Bitcoin.
+or education required. As mentioned above, I consider [The Bitcoin
+Standard][the-bitcoin-standard] required reading for anyone interested in
+Bitcoin.
 
 {% include books.html category='non-technical' %}
 
@@ -125,9 +125,11 @@ programming, and/or mathematics are beneficial.
 
 {% include books.html category='technical' %}
 
-There are also great online resource available, see [Wikis and
-Guides][wikis-and-guides].
+Mastering Bitcoin is [available for free on GitHub][mastering-bitcoin-free]. For
+more free online resources have a look at the [Wikis and
+Guides][wikis-and-guides] section.
 
+[mastering-bitcoin-free]: https://github.com/bitcoinbook/bitcoinbook
 [wikis-and-guides]: #wikis-and-guides
 
 #### Economics
@@ -141,8 +143,10 @@ proposition seriously.
 
 {% include books.html category='economics' %}
 
-*Human Action* is Mises' magnum opus, and is freely available online as both an
-ebook and an audiobook.
+Human Action, Mises' magnum opus, is [freely available][human-action-free] as
+both an ebook and an audiobook.
+
+[human-action-free]: https://mises.org/library/human-action-0
 
 #### Money
 
@@ -153,8 +157,7 @@ impact of Bitcoin.
 
 {% include books.html category='money' %}
 
-Note that *How is Fiat Money Possible* is an essay, but it is too poignant to
-not be included here.
+All of the above are available for free at the Mises Institute.
 
 #### Banking
 
