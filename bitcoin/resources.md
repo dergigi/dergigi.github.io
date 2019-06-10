@@ -5,9 +5,8 @@ subtitle: bitcoin-resources.com
 subtitle_link: http://bitcoin-resources.com
 ---
 
-**TL;DR:** Read [*The Bitcoin Standard*][bitcoin-standard] and [*The Bullish
-Case for Bitcoin*][bullish-case]. Listen to [*The Stories We Tell About
-Money*][aantonop-stories]. Don't trust, verify. Do your own research.
+**TL;DR:** Read [The Bitcoin Standard][bitcoin-standard] and [The Bullish
+Case for Bitcoin][bullish-case].
 
 ---
 
@@ -18,22 +17,27 @@ the 8 pages which gave birth to Bitcoin:
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System][bitcoin-whitepaper] by Satoshi Nakamoto
 
-To get a grasp on Bitcoin you will have to read a book or two. If you only want
-to read one, you can't do wrong with Saifedean's ***The Bitcoin Standard***.
-Bitcoin is money, so understanding *The Ethics of Money Production* is paramount
-to understanding what Bitcoin is about. If you need a crash-course in economics
-I recommend reading *Economics in One Lesson* by Henry Hazlitt. All three books
-are also available as audiobooks.
+To get a grasp on Bitcoin you will have to read a book or two. If you need a
+crash-course in economics I recommend reading [Economics in One
+Lesson][economics-in-one-lesson] by Henry Hazlitt. If you only want to read one,
+you can't do wrong with Saifedean's **[The Bitcoin
+Standard][the-bitcoin-standard]**. Bitcoin is money, so understanding [The
+Ethics of Money Production][the-ethics-of-money-production] is paramount to
+understanding what Bitcoin is about. All three books are also available as
+audiobooks.
+
+[economics-in-one-lesson]: {{ '/bitcoin/resources/economics-in-one-lesson' | absolute_url }}
+[the-bitcoin-standard]: {{ '/bitcoin/resources/the-bitcoin-standard' | absolute_url }}
+[the-ethics-of-money-production]: {{ '/bitcoin/resources/the-ethics-of-money-production' | absolute_url }}
 
 {% include books.html category='essentials' %}
 
-While you wait for these books to arrive, you might want to pass the time by
-reading the following article:
+If you prefer a shorter introduction, I recommend you read and listen to the
+following:
 
-- [The Bullish Case for Bitcoin][bullish-case] by Vijay Boyapati ([audio version][bullish-case-audio])
-
-If you would rather lean back and watch something, I'd recommend listening to
-Andreas Antonopoulos's *[The Stories We Tell About Money][aantonop-stories]*.
+- [The Bullish Case for Bitcoin][bullish-case] by Vijay Boyapati ([audio
+version][bullish-case-audio])
+- [The Stories We Tell About Money][aantonop-stories] by Andreas Antonopoulos
 
 ---
 
