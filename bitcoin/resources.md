@@ -1,5 +1,5 @@
 ---
-layout: page-with-toc
+layout: resources
 title: Bitcoin Resources
 subtitle: bitcoin-resources.com
 subtitle_link: http://bitcoin-resources.com
@@ -19,8 +19,8 @@ the 8 pages which gave birth to Bitcoin:
 
 To get a grasp on Bitcoin you will have to read a book or two. If you need a
 crash-course in economics I recommend reading [Economics in One
-Lesson][economics-in-one-lesson] by Henry Hazlitt. If you only want to read one,
-you can't do wrong with Saifedean's **[The Bitcoin
+Lesson][economics-in-one-lesson] by Henry Hazlitt. If you only want to read one
+book, you can't do wrong with Saifedean's **[The Bitcoin
 Standard][the-bitcoin-standard]**. Bitcoin is money, so understanding [The
 Ethics of Money Production][the-ethics-of-money-production] is paramount to
 understanding what Bitcoin is about. All three books are also available as
@@ -88,7 +88,7 @@ I hope to update this list continually as my reading progresses.
 
 #### Bitcoin (non-technical)
 
-Books about Bitcoin which can be read by anyone, no special background Knowledge
+Books about Bitcoin which can be read by anyone, no special background knowledge
 or education required. As mentioned above, I consider [The Bitcoin
 Standard][the-bitcoin-standard] required reading for anyone interested in
 Bitcoin.
@@ -364,17 +364,17 @@ distinction. I enjoy or have enjoyed the these podcasts as well:
 - [POV Crypto][pov] by David Hoffman and Christian Keroles
 - [Bottomshelf Bitcoin][bsb] by Josh Humphrey
 
-#### Podcast episodes
+#### Selected Podcast Episodes
 
 Some "evergreen" episodes were recorded in the last couple of years. Again, this
-is a personal selection so it is biased towards certain guests and topics. If
-there is an episode missing that you consider to be one of the best, feel free
-to [reach out to me][contact] and shill me said episode.
+is a personal selection so it is biased towards certain guests and topics.
 
 {% include sodes.html %}
 
 I am still in the process of going through the archives, so this list will
-probably grow over time.
+probably grow over time. If there is an episode missing that you consider to be
+one of the best, feel free to [reach out to me][contact] and shill me said
+episode.
 
 ---
 
