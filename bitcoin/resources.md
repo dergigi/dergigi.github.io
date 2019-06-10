@@ -54,37 +54,28 @@ other content on Bitcoin and the topics it touches on. The resources listed
 here are but a small selection which were particularly influential in my
 thinking.
 
-I tried to structure the resources in a meaningful way. A quick overview can be
-gained from the [Table of Contents][toc]. I put the essentials on top since I
-consider them to be a good starting point and required reading for everyone.
-
-Further resources are listed below and grouped by category:
-
-- [Books][books] on Bitcoin, economics, money, and other topics
-- [Selected articles][articles], grouped by topic
-- [Podcasts][podcasts] and [selected episodes][episodes]
-
-Note that there is a list of other curated resources at the end of this
-page. Make sure to check them out, since everyone's selection is different and
-one of those might better suite your taste.
+- [Books][books]
+- [Articles][articles]
+- [Podcasts][podcasts]
+- [Selected podcast episodes][episodes]
+- [Wikis and guides][wikis-and-guides]
+- [Further resources][other]
 
 [toc]: #toc
 [essentials]: #essentials
 [books]: #books
+[articles]: #articles
 [podcasts]: #podcasts
 [episodes]: #podcast-episodes
-[articles]: #articles
+[wikis-and-guides]: #wikis-and-guides
 [other]: #further-resources
 
-If you think something is missing or the structure could be improved, please
-let me know. If you have any suggestions, open [issues] or
-[PRs][pulls] on GitHub or [reach out to me][contact].
-
-Last but not least, *thank you* to all the people who shared their thoughts and
+A sincere *thank you* to all the people who shared their thoughts and
 insights, past and present. I have learned so much, and for that I will be
 eternally grateful.
 
-Gigi
+If you have suggestions for content or improvements, feel free to open issues
+or PRs on [GitHub][issues] or [reach out to me][contact].
 
 ---
 
