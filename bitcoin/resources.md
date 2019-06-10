@@ -45,22 +45,6 @@ version][bullish-case-audio])
   <small><p><a href="#toc">Table of Contents</a></p></small>
 </center>
 
----
-
-### About these Resources
-
-There exists an almost endless list of essays, articles, books, podcasts, and
-other content on Bitcoin and the topics it touches on. The resources listed
-here are but a small selection which were particularly influential in my
-thinking.
-
-- [Books][books]
-- [Articles][articles]
-- [Podcasts][podcasts]
-- [Selected podcast episodes][episodes]
-- [Wikis and guides][wikis-and-guides]
-- [Further resources][other]
-
 [toc]: #toc
 [essentials]: #essentials
 [books]: #books
@@ -69,13 +53,6 @@ thinking.
 [episodes]: #podcast-episodes
 [wikis-and-guides]: #wikis-and-guides
 [other]: #further-resources
-
-A sincere *thank you* to all the people who shared their thoughts and
-insights, past and present. I have learned so much, and for that I will be
-eternally grateful.
-
-If you have suggestions for content or improvements, feel free to open issues
-or PRs on [GitHub][issues] or [reach out to me][contact].
 
 ---
 
@@ -428,8 +405,16 @@ you are looking for longer, more varied lists, the following got you covered:
 - [Mises Library][mises] by The Mises Institute
 - [Unenumerated][unenumerated] by Nick Szabo
 
-That's it!
+---
 
-The above should keep you busy for a while. If you found a typo, broken link, or have something to add please [reach out to me][contact] or create an [issue][issues]/[PR][pulls] on GitHub.
+### About these Resources
+
+The resources listed above are but a small selection which were particularly
+influential in my thinking. A sincere *thank you* to all the people who shared
+their thoughts and insights, past and present. I have learned so much, and for
+that I will be eternally grateful.
+
+If you have suggestions for content or improvements, feel free to open issues
+or PRs on [GitHub][issues] or [reach out to me][contact].
 
 {% include bibliography.md %}
