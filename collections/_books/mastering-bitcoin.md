@@ -10,5 +10,5 @@ excerpt: .
 resource_url: 
 amazon_url: https://www.amazon.com/dp/1449374042
 wikipedia_url: 
-free_url: 
+free_url: https://github.com/bitcoinbook/bitcoinbook
 ---
