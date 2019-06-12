@@ -11,4 +11,5 @@ resource_url: https://theinternetofmoney.info/
 amazon_url: https://www.amazon.com/dp/1537000454
 wikipedia_url: 
 free_url: 
+permalink: bitcoin/resources/the-internet-of-money-volume-1
 ---
