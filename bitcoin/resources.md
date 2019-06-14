@@ -206,9 +206,9 @@ highlight some of them. I highly recommend the [literature listed][sni] at the
 Nakamoto Institute, the selection of [articles read][guy-episodes] by
 Guy Swann, and the [writings collected][brh-writings] by Adam Taché.
 
-One of the best articles to read if you are new to Bitcoin is *The Bullish Case
-for Bitcoin*, which outlines why there are very good reasons to be optimistic
-about Bitcoin's future.
+One of the best articles to read if you are new to Bitcoin is [The Bullish Case
+for Bitcoin][bullish-case], which outlines why there are very good reasons to be
+optimistic about Bitcoin's future.
 
 - [The Bullish Case for Bitcoin][bullish-case] by Vijay Boyapati
 
