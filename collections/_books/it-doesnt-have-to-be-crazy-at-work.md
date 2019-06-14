@@ -12,4 +12,5 @@ amazon_url: https://www.amazon.com/dp/0062874780
 wikipedia_url: 
 free_url: 
 permalink: bitcoin/resources/it-doesnt-have-to-be-crazy-at-work
+rating_order: 10
 ---

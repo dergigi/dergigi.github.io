@@ -12,4 +12,5 @@ amazon_url: https://www.amazon.com/dp/B075VB7LVG
 wikipedia_url: 
 free_url: 
 permalink: bitcoin/resources/the-internet-of-money-volume-2
+rating_order: 8
 ---

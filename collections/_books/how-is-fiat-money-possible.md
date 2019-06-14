@@ -11,4 +11,5 @@ resource_url: https://mises.org/library/how-fiat-money-possible-or-devolution-mo
 amazon_url: 
 wikipedia_url: 
 free_url: https://mises-media.s3.amazonaws.com/rae7_2_3_3.pdf
+rating_order: 
 ---

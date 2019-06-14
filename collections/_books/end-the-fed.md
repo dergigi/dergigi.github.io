@@ -11,4 +11,5 @@ resource_url: http://endthefed.org/
 amazon_url: https://www.amazon.com/dp/B006J3V150
 wikipedia_url: https://en.wikipedia.org/wiki/End_the_Fed
 free_url: 
+rating_order: 
 ---

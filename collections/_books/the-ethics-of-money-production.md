@@ -11,4 +11,5 @@ resource_url: https://mises.org/library/ethics-money-production
 amazon_url: https://www.amazon.com/dp/1933550090
 wikipedia_url: 
 free_url: https://mises.org/sites/default/files/The%20Ethics%20of%20Money%20Production_2.pdf
+rating_order: 8
 ---

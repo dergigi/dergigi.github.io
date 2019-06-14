@@ -11,4 +11,5 @@ resource_url: https://basecamp.com/books/remote
 amazon_url: https://www.amazon.com/dp/0804137501
 wikipedia_url: 
 free_url: 
+rating_order: 8
 ---

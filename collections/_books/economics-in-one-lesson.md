@@ -11,4 +11,5 @@ resource_url: https://mises.org/library/economics-one-lesson
 amazon_url: https://www.amazon.com/dp/0517548232
 wikipedia_url: 
 free_url: http://www.hacer.org/pdf/Hazlitt00.pdf
+rating_order: 9
 ---

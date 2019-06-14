@@ -11,4 +11,5 @@ resource_url:
 amazon_url: https://www.amazon.com/dp/1933550287
 wikipedia_url: 
 free_url: 
+rating_order: 
 ---
