@@ -11,4 +11,5 @@ resource_url: https://thesaifhouse.wpcomstaging.com/book/
 amazon_url: https://www.amazon.com/dp/1119473861
 wikipedia_url: 
 free_url: 
+rating_order: 10
 ---

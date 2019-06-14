@@ -64,6 +64,19 @@
 }
 
 //----------------------------------------------
+//  Resources Navigation
+//----------------------------------------------
+.resources {
+  &__navigation {
+    @extend %no-list-style;
+    @extend %no-margin-or-padding;
+    justify-content: space-between;
+    display: flex;
+    vertical-align: bottom;
+  }
+}
+
+//----------------------------------------------
 //  Lesson Navigation
 //----------------------------------------------
 .lesson {

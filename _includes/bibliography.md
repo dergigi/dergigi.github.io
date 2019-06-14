@@ -76,7 +76,7 @@
 [taleb-foreword]: https://medium.com/opacity/bitcoin-1537e616a074
 [fungi1]: https://medium.com/@BrandonQuittem/bitcoin-is-a-decentralized-organism-mycelium-part-1-3-6ec58cdcfaa6
 [fungi2]: https://medium.com/@BrandonQuittem/bitcoin-is-a-social-creature-mushroom-part-2-3-6a05c3abe8f0
-<!-- [guess-pk]: https://medium.com/@kerbleski/a-dance-with-infinity-980bd8e9a781 -->
+[guess-pk]: https://medium.com/@kerbleski/a-dance-with-infinity-980bd8e9a781
 
 
 <!-- Cypherpunks -->
@@ -87,6 +87,9 @@
 <!-- Misc -->
 [bitcoin-halving]: https://thesaifhouse.wordpress.com/2016/07/09/the-bitcoin-halving-and-monetary-competition/
 [open-letter]: https://hackernoon.com/an-open-letter-to-banks-about-bitcoin-and-cryptocurrencies-b0c7ef9b7c62
+[everyone-scammer]: https://nakamotoinstitute.org/mempool/everyones-a-scammer/
+[no-bitcoin-2.0]: http://www.contravex.com/2014/03/19/there-is-no-bitcoin-2-0
+[stage-n]: http://trilema.com/2013/stage-n-bitcoin-exists/
 
 <!-- Wikis and Guides -->
 [wiki-bitcoin]: https://en.bitcoin.it/wiki/

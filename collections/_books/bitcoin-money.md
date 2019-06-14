@@ -11,4 +11,5 @@ resource_url: https://thebitcoinrabbi.com/bitcoin-money-book/
 amazon_url: https://www.amazon.com/dp/0578490676/
 wikipedia_url: 
 free_url: 
+rating_order: 9
 ---

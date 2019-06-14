@@ -33,7 +33,13 @@ for row in books.get_all_values():
     resource_amazon_url = row[8]
     resource_wikipedia_url = row[9]
     resource_free_url = row[10]
+    resource_summary = row[11]
+    if row[12] != '':
+        permalink_line = 'permalink: bitcoin/resources/' + row[12] + '\n'
+    else:
+        permalink_line = ''
     # resource_date = row[5] if row[5] != '' else NO_DATE
+    resource_rating_order = row[13]
     resource_excerpt = get_excerpt_from_page(resource_url)
 
     # for author in resource_authors:
@@ -71,7 +77,9 @@ for row in books.get_all_values():
                 f"amazon_url: {resource_amazon_url}\n"
                 f"wikipedia_url: {resource_wikipedia_url}\n"
                 f"free_url: {resource_free_url}\n"
-                f"---")
+                f"{permalink_line}"
+                f"rating_order: {resource_rating_order}\n"
+                f"---\n")
 
     with open(md_file_path, 'w') as f:
         f.write(md_file)

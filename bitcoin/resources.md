@@ -1,13 +1,12 @@
 ---
-layout: page-with-toc
+layout: resources
 title: Bitcoin Resources
 subtitle: bitcoin-resources.com
 subtitle_link: http://bitcoin-resources.com
 ---
 
-**TL;DR:** Read [*The Bitcoin Standard*][bitcoin-standard] and [*The Bullish
-Case for Bitcoin*][bullish-case]. Listen to [*The Stories We Tell About
-Money*][aantonop-stories]. Don't trust, verify. Do your own research.
+**TL;DR:** Read [The Bitcoin Standard][bitcoin-standard] and [The Bullish
+Case for Bitcoin][bullish-case].
 
 ---
 
@@ -18,69 +17,42 @@ the 8 pages which gave birth to Bitcoin:
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System][bitcoin-whitepaper] by Satoshi Nakamoto
 
-To get a grasp on Bitcoin you will have to read a book or two. If you only want
-to read one, you can't do wrong with Saifedean's ***The Bitcoin Standard***.
-Bitcoin is money, so understanding *The Ethics of Money Production* is paramount
-to understanding what Bitcoin is about. If you need a crash-course in economics
-I recommend reading *Economics in One Lesson* by Henry Hazlitt. All three books
-are also available as audiobooks.
+To get a grasp on Bitcoin you will have to read a book or two.  If you only want
+to read one book, you can't do wrong with Saifedean's **[The Bitcoin
+Standard][the-bitcoin-standard]**. Bitcoin is money, so understanding [The
+Ethics of Money Production][the-ethics-of-money-production] is paramount to
+understanding what Bitcoin is about. If you need a crash-course in economics I
+recommend reading [Economics in One Lesson][economics-in-one-lesson] by Henry
+Hazlitt. All three books are also available as audiobooks.
+
+[economics-in-one-lesson]: {{ '/bitcoin/resources/economics-in-one-lesson' | absolute_url }}
+[the-bitcoin-standard]: {{ '/bitcoin/resources/the-bitcoin-standard' | absolute_url }}
+[the-ethics-of-money-production]: {{ '/bitcoin/resources/the-ethics-of-money-production' | absolute_url }}
 
 {% include books.html category='essentials' %}
 
-While you wait for these books to arrive, you might want to pass the time by
-reading the following article:
+If you prefer a shorter introduction, I recommend you read and listen to the
+following:
 
-- [The Bullish Case for Bitcoin][bullish-case] by Vijay Boyapati ([audio version][bullish-case-audio])
-
-If you would rather lean back and watch something, I'd recommend listening to
-Andreas Antonopoulos's *[The Stories We Tell About Money][aantonop-stories]*.
+- [The Bullish Case for Bitcoin][bullish-case] by Vijay Boyapati ([audio
+version][bullish-case-audio])
+- [The Stories We Tell About Money][aantonop-stories] by Andreas Antonopoulos
 
 ---
 
 <center>
-  <small><p><a href="#toc">Table of Contents</a></p></small>
+  <p><small><a href="#toc">Table of Contents</a></small></p>
+
 </center>
-
----
-
-### About these Resources
-
-There exists an almost endless list of essays, articles, books, podcasts, and
-other content on Bitcoin and the topics it touches on. The resources listed
-here are but a small selection which were particularly influential in my
-thinking.
-
-I tried to structure the resources in a meaningful way. A quick overview can be
-gained from the [Table of Contents][toc]. I put the essentials on top since I
-consider them to be a good starting point and required reading for everyone.
-
-Further resources are listed below and grouped by category:
-
-- [Books][books] on Bitcoin, economics, money, and other topics
-- [Selected articles][articles], grouped by topic
-- [Podcasts][podcasts] and [selected episodes][episodes]
-
-Note that there is a list of other curated resources at the end of this
-page. Make sure to check them out, since everyone's selection is different and
-one of those might better suite your taste.
 
 [toc]: #toc
 [essentials]: #essentials
 [books]: #books
+[articles]: #articles
 [podcasts]: #podcasts
 [episodes]: #podcast-episodes
-[articles]: #articles
+[wikis-and-guides]: #wikis-and-guides
 [other]: #further-resources
-
-If you think something is missing or the structure could be improved, please
-let me know. If you have any suggestions, open [issues] or
-[PRs][pulls] on GitHub or [reach out to me][contact].
-
-Last but not least, *thank you* to all the people who shared their thoughts and
-insights, past and present. I have learned so much, and for that I will be
-eternally grateful.
-
-Gigi
 
 ---
 
@@ -111,16 +83,22 @@ roughly grouped by topics as follows:
 [computation-and-complexity-theory]: #computation-and-complexity-theory
 [work]: #work
 
-I hope to update this list continually as my
-reading progresses.
+I hope to update this list continually as my reading progresses.
 
 #### Bitcoin (non-technical)
 
-Books about Bitcoin which can be read by anyone, no special background Knowledge
-or education required. As mentioned above, I consider *The Bitcoin Standard*
-required reading for anyone interested in Bitcoin.
+Books about Bitcoin which can be read by anyone, no special background knowledge
+or education required. As mentioned above, I consider [The Bitcoin
+Standard][the-bitcoin-standard] required reading for anyone interested in
+Bitcoin.
 
 {% include books.html category='non-technical' %}
+{% include books.html category='non-technical2' %}
+
+The Internet of Money books are a collection of talks by Andreas Antonopoulos,
+most of which are available for [free on YouTube][aantonop-bitcoin-talks].
+
+[aantonop-bitcoin-talks]: https://www.youtube.com/playlist?list=PLPQwGV1aLnTthcG265_FYSaV24hFScvC0
 
 #### Bitcoin (technical)
 
@@ -130,9 +108,15 @@ programming, and/or mathematics are beneficial.
 
 {% include books.html category='technical' %}
 
-There are also great online resource available, see [Wikis and
-Guides][wikis-and-guides].
+Mastering Bitcoin is [available for free on GitHub][mastering-bitcoin-free].
+Programming Bitcoin includes plenty of [programming
+exercises][programming-bitcoin-exercises], which are available for free on
+GitHub as well. Grokking Bitcoin will be open-sourced soon; in the meanwhile,
+there is a [livebook version][grokking-bitcoin-preview] available.
 
+[mastering-bitcoin-free]: https://github.com/bitcoinbook/bitcoinbook
+[programming-bitcoin-exercises]: https://github.com/jimmysong/programmingbitcoin
+[grokking-bitcoin-preview]: https://livebook.manning.com/#!/book/grokking-bitcoin/
 [wikis-and-guides]: #wikis-and-guides
 
 #### Economics
@@ -146,8 +130,10 @@ proposition seriously.
 
 {% include books.html category='economics' %}
 
-*Human Action* is Mises' magnum opus, and is freely available online as both an
-ebook and an audiobook.
+Human Action, Mises' magnum opus, is [freely available][human-action-free] as
+both an ebook and an audiobook.
+
+[human-action-free]: https://mises.org/library/human-action-0
 
 #### Money
 
@@ -158,8 +144,7 @@ impact of Bitcoin.
 
 {% include books.html category='money' %}
 
-Note that *How is Fiat Money Possible* is an essay, but it is too poignant to
-not be included here.
+All of the above are available for free at the Mises Institute.
 
 #### Banking
 
@@ -221,9 +206,9 @@ highlight some of them. I highly recommend the [literature listed][sni] at the
 Nakamoto Institute, the selection of [articles read][guy-episodes] by
 Guy Swann, and the [writings collected][brh-writings] by Adam Taché.
 
-One of the best articles to read if you are new to Bitcoin is *The Bullish Case
-for Bitcoin*, which outlines why there are very good reasons to be optimistic
-about Bitcoin's future.
+One of the best articles to read if you are new to Bitcoin is [The Bullish Case
+for Bitcoin][bullish-case], which outlines why there are very good reasons to be
+optimistic about Bitcoin's future.
 
 - [The Bullish Case for Bitcoin][bullish-case] by Vijay Boyapati
 
@@ -249,6 +234,7 @@ Bitcoin is fair, and Bitcoin is way better than you think.
 - [Why Bitcoin Matters][why-matters] by Aleksandar Svetski
 - [Bitcoin is Worse is Better][worse-better] by Gwern
 - [Bitcoin’s distribution was fair][distribution-fair] by Dan Held
+- [There is no Bitcoin 2.0][no-bitcoin-2.0] by Pete Dushenski
 
 Conclusion: If it's not Bitcoin, it's a shitcoin. Stay away from those.
 
@@ -343,8 +329,9 @@ of my arbitrarily chosen categories above.
 - [Trusted Third Parties Are Security Holes][security-holes] by Nick Szabo
 - [An Open Letter to Banks about Bitcoin and Cryptocurrencies][open-letter] by Peter McCormack
 - [The Bitcoin Halving and Monetary Competition][bitcoin-halving] by Saifedean Ammous
-
-<!-- - [Guess My Bitcoin Private Key][guess-pk] by Michael Kerbleski -->
+- [Everyone's a Scammer][everyone-scammer] by Michael Goldstein
+- [Guess My Bitcoin Private Key][guess-pk] by Michael Kerbleski
+- [Stage n: Bitcoin exists][stage-n] by Mircea Popescu
 
 ---
 
@@ -386,22 +373,25 @@ distinction. I enjoy or have enjoyed the these podcasts as well:
 - [POV Crypto][pov] by David Hoffman and Christian Keroles
 - [Bottomshelf Bitcoin][bsb] by Josh Humphrey
 
-### Podcast episodes
+#### Selected Podcast Episodes
 
 Some "evergreen" episodes were recorded in the last couple of years. Again, this
-is a personal selection so it is biased towards certain guests and topics. If
-there is an episode missing that you consider to be one of the best, feel free
-to [reach out to me][contact] and shill me said episode.
+is a personal selection so it is biased towards certain guests and topics.
 
 {% include sodes.html %}
 
 I am still in the process of going through the archives, so this list will
-probably be extended (and split up) soon. Again, you can help by shilling me
-your favorite episode.
+probably grow over time. If there is an episode missing that you consider to be
+one of the best, feel free to [reach out to me][contact] and shill me said
+episode.
 
 ---
 
-### Wikis and Guides
+### Further Resources
+
+
+
+#### Wikis and Guides
 
 There are many great articles written by contributors of the *Bitcoin Wiki*. If
 you want to know more about a specific topic, the Bitcoin Wiki is a great
@@ -413,7 +403,7 @@ hacking on Bitcoin you might want to check out the *Bitcoin Developer Guide*.
 - [Libbitcoin Wiki][wiki-libbitcoin] by libbitcoin developers
 - [Bitcoin Developer Guide][bitcoin-dev-guide] by bitcoin.org
 
-### Further Resources
+#### Other Curations
 
 There are other, more complete curations of Bitcoin content and resources. If
 you are looking for longer, more varied lists, the following got you covered:
@@ -428,8 +418,16 @@ you are looking for longer, more varied lists, the following got you covered:
 - [Mises Library][mises] by The Mises Institute
 - [Unenumerated][unenumerated] by Nick Szabo
 
-That's it!
+---
 
-The above should keep you busy for a while. If you found a typo, broken link, or have something to add please [reach out to me][contact] or create an [issue][issues]/[PR][pulls] on GitHub.
+### About these Resources
+
+The resources listed above are but a small selection which were particularly
+influential in my thinking. A sincere *thank you* to all the people who shared
+their thoughts and insights, past and present. I have learned so much, and for
+that I will be eternally grateful.
+
+If you have suggestions for content or improvements, feel free to open issues
+or PRs on [GitHub][issues] or [reach out to me][contact].
 
 {% include bibliography.md %}
