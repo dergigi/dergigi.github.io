@@ -94,6 +94,12 @@ Standard][the-bitcoin-standard] required reading for anyone interested in
 Bitcoin.
 
 {% include books.html category='non-technical' %}
+{% include books.html category='non-technical2' %}
+
+The Internet of Money books are a collection of talks by Andreas Antonopoulos,
+most of which are available for [free on YouTube][aantonop-bitcoin-talks].
+
+[aantonop-bitcoin-talks]: https://www.youtube.com/playlist?list=PLPQwGV1aLnTthcG265_FYSaV24hFScvC0
 
 #### Bitcoin (technical)
 
