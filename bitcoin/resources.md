@@ -165,24 +165,32 @@ the unstoppability of Bitcoin.
 
 I would argue that the ethos of GNU and UNIX programming are important corner
 stones for Bitcoin as well. Further, Bitcoin is a pragmatic piece of software,
-which is why I consider *The Pragmatic Programmer* a great book for anyone who
-wishes to hack away on Bitcoin.
+which is why I consider [The Pragmatic Programmer][the-pragmatic-programmer] a
+great book for anyone who wishes to hack away on Bitcoin.
+
+[the-pragmatic-programmer]: {{ '/bitcoin/resources/the-pragmatic-programmer' | absolute_url }}
 
 #### Computation and Complexity Theory
 
 While Bitcoin is in the business of verification and not computation, knowing
 the limits of what computers can do and what future computers might be able to
 do can be beneficial to better understand some parts of Bitcoin. I highly
-recommend *Gödel, Escher, Bach* because it is a deeply fascinating and beautiful
-book.
+recommend [Gödel, Escher, Bach][gödel-escher-bach] because it is a deeply
+fascinating and beautiful book.
+
+[gödel-escher-bach]: {{ '/bitcoin/resources/gödel-escher-bach' | absolute_url }}
 
 {% include books.html category='computation' %}
 
-*Quantum Computing Since Democritus* is quite dense, but it is also quite
-entertaining at times. The first couple of chapters stay in the non-quantum
-world of computing and might help to understand why breaking Bitcoin's security
-is so hard. *A new Kind of Science* is certainly not for everyone, but parts of
-it are quite interesting.
+[Quantum Computing Since Democritus][quantum-computing-since-democritus] is
+quite dense, but it is also quite entertaining at times. The first couple of
+chapters stay in the non-quantum world of computing and might help to understand
+why breaking Bitcoin's security is so hard. [A New Kind of
+Science][a-new-kind-of-science] is certainly not for everyone, but it
+beautifully shows how simple rules can lead to complex systems.
+
+[quantum-computing-since-democritus]: {{ '/bitcoin/resources/quantum-computing-since-democritus' | absolute_url }}
+[a-new-kind-of-science]: {{ '/bitcoin/resources/a-new-kind-of-science' | absolute_url }}
 
 #### Work
 
