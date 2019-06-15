@@ -1,8 +1,7 @@
 ---
 layout: resources
 title: Bitcoin Resources
-subtitle: bitcoin-resources.com
-subtitle_link: http://bitcoin-resources.com
+image: /assets/images/bitcoin-resources-twitter-cover.jpg
 ---
 
 **TL;DR:** Read [The Bitcoin Standard][bitcoin-standard] and [The Bullish
@@ -41,7 +40,7 @@ version][bullish-case-audio])
 ---
 
 <center>
-  <p><small><a href="#toc">Table of Contents</a></small></p>
+  <p><small><a href="#toc">↓ Table of Contents ↓</a></small></p>
 
 </center>
 
@@ -65,14 +64,14 @@ recommend. If a particular book is not listed here, it is probably because I
 didn't get around to read it yet. Although there is some overlap, the books are
 roughly grouped by topics as follows:
 
-* [Bitcoin (non-technical)][bitcoin-non-technical]
-* [Bitcoin (technical)][bitcoin-technical]
-* [Economics][economics]
-* [Money][money]
-* [Banking][banking]
-* [Software and Programming][software-and-programming]
-* [Computation and Complexity Theory][computation-and-complexity-theory]
-* [Work][work]
+- [Bitcoin (non-technical)][bitcoin-non-technical]
+- [Bitcoin (technical)][bitcoin-technical]
+- [Economics][economics]
+- [Money][money]
+- [Banking][banking]
+- [Software and Programming][software-and-programming]
+- [Computation and Complexity Theory][computation-and-complexity-theory]
+- [Work][work]
 
 [bitcoin-non-technical]: #bitcoin-non-technical
 [bitcoin-technical]: #bitcoin-technical
@@ -93,11 +92,17 @@ Standard][the-bitcoin-standard] required reading for anyone interested in
 Bitcoin.
 
 {% include books.html category='non-technical' %}
+
+Even though [Bitcoin Money][bitcoin-money] is a children's book, it drives home
+the value proposition of Bitcoin in a succinct way, making it valuable for
+readers of all ages.
+
 {% include books.html category='non-technical2' %}
 
 The Internet of Money books are a collection of talks by Andreas Antonopoulos,
 most of which are available for [free on YouTube][aantonop-bitcoin-talks].
 
+[bitcoin-money]: {{ '/bitcoin/resources/bitcoin-money' | absolute_url }}
 [aantonop-bitcoin-talks]: https://www.youtube.com/playlist?list=PLPQwGV1aLnTthcG265_FYSaV24hFScvC0
 
 #### Bitcoin (technical)
@@ -112,7 +117,7 @@ Mastering Bitcoin is [available for free on GitHub][mastering-bitcoin-free].
 Programming Bitcoin includes plenty of [programming
 exercises][programming-bitcoin-exercises], which are available for free on
 GitHub as well. Grokking Bitcoin will be open-sourced soon; in the meanwhile,
-there is a [livebook version][grokking-bitcoin-preview] available.
+there is a [liveBook version][grokking-bitcoin-preview] available.
 
 [mastering-bitcoin-free]: https://github.com/bitcoinbook/bitcoinbook
 [programming-bitcoin-exercises]: https://github.com/jimmysong/programmingbitcoin
@@ -125,7 +130,7 @@ Bitcoin is capable of being the new base layer of our economy, which is why
 understanding economics is essential in understanding Bitcoin. Bitcoin's
 monetary policy is aligned with the Austrian School of economic thought, which
 is why reading the works of Austrian's such as Hayek, Hazlitt, Hoppe, Menger,
-Mises, Rothbard, and others is recommended by those who take Bitcoin's value
+Mises, Rothbard (and others) is recommended by those who take Bitcoin's value
 proposition seriously.
 
 {% include books.html category='economics' %}
@@ -138,8 +143,8 @@ both an ebook and an audiobook.
 #### Money
 
 In stark contrast to our current economic system, Bitcoin does not offer the
-possibility of inflating the monetary base. Understanding money, and especially
-*sound* money, is paramount to understanding the value proposition and ultimate
+possibility of inflating the monetary base. Understanding money - and especially
+*sound* money - is paramount to understanding the value proposition and ultimate
 impact of Bitcoin.
 
 {% include books.html category='money' %}
@@ -159,30 +164,35 @@ replace the latter.
 Bitcoin is free, libre open-source software. It is free as in freedom, free as
 in free speech. What this means, why free software exists, and what the
 implications of free (vs proprietary) software are, is important to understand
-the unstoppability of Bitcoin.
+the unstoppability of Bitcoin. I would argue that the ethos of GNU and UNIX
+programming are important cornerstones for Bitcoin as well.
 
 {% include books.html category='software' %}
-
-I would argue that the ethos of GNU and UNIX programming are important corner
-stones for Bitcoin as well. Further, Bitcoin is a pragmatic piece of software,
-which is why I consider *The Pragmatic Programmer* a great book for anyone who
-wishes to hack away on Bitcoin.
 
 #### Computation and Complexity Theory
 
 While Bitcoin is in the business of verification and not computation, knowing
 the limits of what computers can do and what future computers might be able to
 do can be beneficial to better understand some parts of Bitcoin. I highly
-recommend *Gödel, Escher, Bach* because it is a deeply fascinating and beautiful
-book.
+recommend [Gödel, Escher, Bach][gödel-escher-bach] because it is a deeply
+fascinating and beautiful book.
+
+[gödel-escher-bach]: {{ '/bitcoin/resources/gödel-escher-bach' | absolute_url }}
 
 {% include books.html category='computation' %}
 
-*Quantum Computing Since Democritus* is quite dense, but it is also quite
-entertaining at times. The first couple of chapters stay in the non-quantum
-world of computing and might help to understand why breaking Bitcoin's security
-is so hard. *A new Kind of Science* is certainly not for everyone, but parts of
-it are quite interesting.
+[Quantum Computing Since Democritus][quantum-computing-since-democritus] is
+quite dense, but it is also quite entertaining at times. The [lecture
+notes][quantum-computing-since-democritus-free] which this book is based upon
+are freely available online. Note that the first couple of chapters stay in the
+non-quantum world of computing and might help to understand why breaking
+Bitcoin's security is so hard. [A New Kind of Science][a-new-kind-of-science] is
+certainly not for everyone, but it beautifully shows how simple rules can lead
+to complex systems.
+
+[quantum-computing-since-democritus]: {{ '/bitcoin/resources/quantum-computing-since-democritus' | absolute_url }}
+[quantum-computing-since-democritus-free]: https://www.scottaaronson.com/democritus/
+[a-new-kind-of-science]: {{ '/bitcoin/resources/a-new-kind-of-science' | absolute_url }}
 
 #### Work
 
@@ -236,8 +246,6 @@ Bitcoin is fair, and Bitcoin is way better than you think.
 - [Bitcoin’s distribution was fair][distribution-fair] by Dan Held
 - [There is no Bitcoin 2.0][no-bitcoin-2.0] by Pete Dushenski
 
-Conclusion: If it's not Bitcoin, it's a shitcoin. Stay away from those.
-
 #### Money
 
 If you aren't ready yet to read [books on money][money], these articles are a
@@ -248,16 +256,16 @@ great entry point to start learning about the purpose and history of money.
 
 #### Proof-of-work
 
-In my opinion proof-of-work is one of the most misunderstood parts of the
+In my opinion, proof-of-work is one of the most misunderstood parts of the
 Bitcoin puzzle. It solves multiple problems, making it one of the most integral
 parts of the system. The following articles explore proof-of-work in more
 detail:
 
 - [The Anatomy of Proof-of-Work][pow-anatomy] by Hugo Nguyen
 - [Work is Timeless, Stake is Not][pow-timeless] by Hugo Nguyen
-- [Blockchain Proof-of-Work Is a Decentralized Clock][decentralized-clock] by Gregory Trubetskoy
 - [Bitcoin Doesn't Waste Electricity][no-waste] by Beautyon
 - [Nothing is Cheaper than Proof of Work][pow-cheapest] by Paul Sztorc
+- [Blockchain Proof-of-Work Is a Decentralized Clock][decentralized-clock] by Gregory Trubetskoy
 
 I wrote about how I changed my view on proof of work in [Bitcoin's Energy
 Consumption: A shift in perspective][energy-consumption] and in [Lesson 17][lesson-17].
@@ -314,7 +322,8 @@ opinion - one of the most useful analogies to understand Bitcoin.
 #### Cypherpunks
 
 Bitcoin is cypherpunk technology. Made by a cypherpunk, based on cypherpunk
-ideas. I consider learning about cypherpunks and their ideals as essential.
+ideas. I consider exposure to the ideas and ideals of cypherpunk culture
+essential.
 
 - [A Cypherpunk's Manifesto][cypherpunks-manifesto] by Eric Hughes
 - [The Crypto Anarchist Manifesto][crypto-anarchist-manifesto] by Timothy C. May
@@ -327,11 +336,11 @@ of my arbitrarily chosen categories above.
 
 - [The God Protocols][god-protocols] by Nick Szabo
 - [Trusted Third Parties Are Security Holes][security-holes] by Nick Szabo
-- [An Open Letter to Banks about Bitcoin and Cryptocurrencies][open-letter] by Peter McCormack
 - [The Bitcoin Halving and Monetary Competition][bitcoin-halving] by Saifedean Ammous
 - [Everyone's a Scammer][everyone-scammer] by Michael Goldstein
 - [Guess My Bitcoin Private Key][guess-pk] by Michael Kerbleski
 - [Stage n: Bitcoin exists][stage-n] by Mircea Popescu
+- [An Open Letter to Banks about Bitcoin and Cryptocurrencies][open-letter] by Peter McCormack
 
 ---
 
@@ -364,9 +373,9 @@ are excellent as well:
 
 The line between the best and the rest is quite arbitrary, but I felt like one
 very long list might not be as useful as separate lists, however arbitrary the
-distinction. I enjoy or have enjoyed the these podcasts as well:
+distinction. I enjoy or have enjoyed these podcasts as well:
 
-- [Let's Talk Bitcoin][ltb] with Adam B. Levine, Andreas Antonopoulos, Stephanie Murphy and Jonathan Mohan
+- [Let's Talk Bitcoin][ltb] with Adam B. Levine, Andreas Antonopoulos, Stephanie Murphy, and Jonathan Mohan
 - [Reckless Review][rr] by Udi Wertheimer and Lawrence Nahum
 - [Bitcoin and...][ba] by David Bennet
 - [Fun With Crypto][fwc] by Coinicarus
@@ -381,7 +390,7 @@ is a personal selection so it is biased towards certain guests and topics.
 {% include sodes.html %}
 
 I am still in the process of going through the archives, so this list will
-probably grow over time. If there is an episode missing that you consider to be
+probably grow over time. If there is an episode missing that you consider
 one of the best, feel free to [reach out to me][contact] and shill me said
 episode.
 
@@ -393,11 +402,12 @@ episode.
 
 #### Wikis and Guides
 
-There are many great articles written by contributors of the *Bitcoin Wiki*. If
-you want to know more about a specific topic, the Bitcoin Wiki is a great
-resource. The *Libbitcoin Wiki* has an amazing list of fallacies, and some great
-explanations of Bitcoin's properties and principles. If you want to start
-hacking on Bitcoin you might want to check out the *Bitcoin Developer Guide*.
+There are many great articles written by contributors of the [Bitcoin
+Wiki][wiki-bitcoin]. If you want to know more about a specific topic, the
+Bitcoin Wiki is a great resource. The [Libbitcoin Wiki][wiki-libbitcoin] has an
+amazing list of fallacies and some great explanations of Bitcoin's properties
+and principles. If you want to start hacking on Bitcoin you might want to check
+out the [Bitcoin Developer Guide][bitcoin-dev-guide].
 
 - [Bitcoin Wiki][wiki-bitcoin] maintained by the Bitcoin community
 - [Libbitcoin Wiki][wiki-libbitcoin] by libbitcoin developers
@@ -409,7 +419,7 @@ There are other, more complete curations of Bitcoin content and resources. If
 you are looking for longer, more varied lists, the following got you covered:
 
 - [Bitcoin Literature][sni] by the Satoshi Nakamoto Institute
-- [Learning Resources][bitcoin-only] by Bitcoin Only
+- [Learning Resources][bitcoin-only] by Bitcoin-Only
 - [Bitcoin Information & Resources][lopp] by Jameson Lopp
 - [Curated Bitcoin Articles][guy] by Guy Swann
 - [Bitcoin Survivor's Book List][guy-books] by Guy Swann
@@ -422,10 +432,10 @@ you are looking for longer, more varied lists, the following got you covered:
 
 ### About these Resources
 
-The resources listed above are but a small selection which were particularly
+The resources listed above are but a small selection which was particularly
 influential in my thinking. A sincere *thank you* to all the people who shared
 their thoughts and insights, past and present. I have learned so much, and for
-that I will be eternally grateful.
+that, I will be eternally grateful.
 
 If you have suggestions for content or improvements, feel free to open issues
 or PRs on [GitHub][issues] or [reach out to me][contact].

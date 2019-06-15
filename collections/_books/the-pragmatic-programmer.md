@@ -3,7 +3,7 @@ layout: page-books
 title: The Pragmatic Programmer
 subtitle: 
 essential: 
-categories: ['software']
+categories: ['software2']
 authors: ['Andy Hunt', ' Dave Thomas']
 authors_twitter: 
 excerpt: .

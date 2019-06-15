@@ -114,7 +114,7 @@ for row in sodes.get_all_values():
                 f"guest: {sode_guest}\n"
                 f"lesson: {sode_lesson}\n"
                 f"link: {sode_link}\n"
-                f"---")
+                f"---\n")
 
     with open(md_file_path, 'w') as f:
         f.write(md_file)
