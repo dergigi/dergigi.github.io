@@ -65,14 +65,14 @@ recommend. If a particular book is not listed here, it is probably because I
 didn't get around to read it yet. Although there is some overlap, the books are
 roughly grouped by topics as follows:
 
-* [Bitcoin (non-technical)][bitcoin-non-technical]
-* [Bitcoin (technical)][bitcoin-technical]
-* [Economics][economics]
-* [Money][money]
-* [Banking][banking]
-* [Software and Programming][software-and-programming]
-* [Computation and Complexity Theory][computation-and-complexity-theory]
-* [Work][work]
+- [Bitcoin (non-technical)][bitcoin-non-technical]
+- [Bitcoin (technical)][bitcoin-technical]
+- [Economics][economics]
+- [Money][money]
+- [Banking][banking]
+- [Software and Programming][software-and-programming]
+- [Computation and Complexity Theory][computation-and-complexity-theory]
+- [Work][work]
 
 [bitcoin-non-technical]: #bitcoin-non-technical
 [bitcoin-technical]: #bitcoin-technical
