@@ -91,11 +91,17 @@ Standard][the-bitcoin-standard] required reading for anyone interested in
 Bitcoin.
 
 {% include books.html category='non-technical' %}
+
+Even though [Bitcoin Money][bitcoin-money] is a children's book, it is drives home the value
+proposition of Bitcoin in a succinct way, making it valuable for readers of all
+ages.
+
 {% include books.html category='non-technical2' %}
 
 The Internet of Money books are a collection of talks by Andreas Antonopoulos,
 most of which are available for [free on YouTube][aantonop-bitcoin-talks].
 
+[bitcoin-money]: {{ '/bitcoin/resources/bitcoin-money' | absolute_url }}
 [aantonop-bitcoin-talks]: https://www.youtube.com/playlist?list=PLPQwGV1aLnTthcG265_FYSaV24hFScvC0
 
 #### Bitcoin (technical)
