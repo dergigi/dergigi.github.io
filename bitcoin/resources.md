@@ -1,8 +1,6 @@
 ---
 layout: resources
 title: Bitcoin Resources
-subtitle: bitcoin-resources.com
-subtitle_link: http://bitcoin-resources.com
 ---
 
 **TL;DR:** Read [The Bitcoin Standard][bitcoin-standard] and [The Bullish
