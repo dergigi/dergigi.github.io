@@ -1,6 +1,7 @@
 ---
 layout: resources
 title: Bitcoin Resources
+image: /assets/images/bitcoin-resources-twitter-cover.jpg
 ---
 
 **TL;DR:** Read [The Bitcoin Standard][bitcoin-standard] and [The Bullish
