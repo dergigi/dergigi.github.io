@@ -262,9 +262,9 @@ detail:
 
 - [The Anatomy of Proof-of-Work][pow-anatomy] by Hugo Nguyen
 - [Work is Timeless, Stake is Not][pow-timeless] by Hugo Nguyen
-- [Blockchain Proof-of-Work Is a Decentralized Clock][decentralized-clock] by Gregory Trubetskoy
 - [Bitcoin Doesn't Waste Electricity][no-waste] by Beautyon
 - [Nothing is Cheaper than Proof of Work][pow-cheapest] by Paul Sztorc
+- [Blockchain Proof-of-Work Is a Decentralized Clock][decentralized-clock] by Gregory Trubetskoy
 
 I wrote about how I changed my view on proof of work in [Bitcoin's Energy
 Consumption: A shift in perspective][energy-consumption] and in [Lesson 17][lesson-17].
