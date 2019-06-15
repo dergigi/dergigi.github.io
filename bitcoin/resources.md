@@ -183,13 +183,16 @@ fascinating and beautiful book.
 {% include books.html category='computation' %}
 
 [Quantum Computing Since Democritus][quantum-computing-since-democritus] is
-quite dense, but it is also quite entertaining at times. The first couple of
-chapters stay in the non-quantum world of computing and might help to understand
-why breaking Bitcoin's security is so hard. [A New Kind of
-Science][a-new-kind-of-science] is certainly not for everyone, but it
-beautifully shows how simple rules can lead to complex systems.
+quite dense, but it is also quite entertaining at times. The [lecture
+notes][quantum-computing-since-democritus-free] which this book is based upon
+are freely available online. Note that the first couple of chapters stay in the
+non-quantum world of computing and might help to understand why breaking
+Bitcoin's security is so hard. [A New Kind of Science][a-new-kind-of-science] is
+certainly not for everyone, but it beautifully shows how simple rules can lead
+to complex systems.
 
 [quantum-computing-since-democritus]: {{ '/bitcoin/resources/quantum-computing-since-democritus' | absolute_url }}
+[quantum-computing-since-democritus-free]: https://www.scottaaronson.com/democritus/
 [a-new-kind-of-science]: {{ '/bitcoin/resources/a-new-kind-of-science' | absolute_url }}
 
 #### Work
