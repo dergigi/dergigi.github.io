@@ -247,8 +247,6 @@ Bitcoin is fair, and Bitcoin is way better than you think.
 - [Bitcoin’s distribution was fair][distribution-fair] by Dan Held
 - [There is no Bitcoin 2.0][no-bitcoin-2.0] by Pete Dushenski
 
-Conclusion: If it's not Bitcoin, it's a shitcoin. Stay away from those.
-
 #### Money
 
 If you aren't ready yet to read [books on money][money], these articles are a
@@ -338,11 +336,11 @@ of my arbitrarily chosen categories above.
 
 - [The God Protocols][god-protocols] by Nick Szabo
 - [Trusted Third Parties Are Security Holes][security-holes] by Nick Szabo
-- [An Open Letter to Banks about Bitcoin and Cryptocurrencies][open-letter] by Peter McCormack
 - [The Bitcoin Halving and Monetary Competition][bitcoin-halving] by Saifedean Ammous
 - [Everyone's a Scammer][everyone-scammer] by Michael Goldstein
 - [Guess My Bitcoin Private Key][guess-pk] by Michael Kerbleski
 - [Stage n: Bitcoin exists][stage-n] by Mircea Popescu
+- [An Open Letter to Banks about Bitcoin and Cryptocurrencies][open-letter] by Peter McCormack
 
 ---
 
