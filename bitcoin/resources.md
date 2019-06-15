@@ -168,11 +168,7 @@ the unstoppability of Bitcoin.
 {% include books.html category='software' %}
 
 I would argue that the ethos of GNU and UNIX programming are important corner
-stones for Bitcoin as well. Further, Bitcoin is a pragmatic piece of software,
-which is why I consider [The Pragmatic Programmer][the-pragmatic-programmer] a
-great book for anyone who wishes to hack away on Bitcoin.
-
-[the-pragmatic-programmer]: {{ '/bitcoin/resources/the-pragmatic-programmer' | absolute_url }}
+stones for Bitcoin as well.
 
 #### Computation and Complexity Theory
 
