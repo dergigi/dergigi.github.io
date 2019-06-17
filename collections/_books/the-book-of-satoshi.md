@@ -10,6 +10,6 @@ excerpt: Learn about Bitcoin and its early history Have you, like the rest of th
 resource_url: https://www.bookofsatoshi.com/
 amazon_url: https://www.amazon.com/dp/0996061312
 wikipedia_url: 
-free_url: 
+free_url: https://satoshi.nakamotoinstitute.org/
 rating_order: 
 ---
