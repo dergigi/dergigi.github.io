@@ -119,12 +119,12 @@ programming, and/or mathematics are beneficial.
 Mastering Bitcoin is [available for free on GitHub][mastering-bitcoin-free].
 Programming Bitcoin includes plenty of [programming
 exercises][programming-bitcoin-exercises], which are available for free on
-GitHub as well. Grokking Bitcoin will be open-sourced soon; in the meanwhile,
-there is a [liveBook version][grokking-bitcoin-preview] available.
+GitHub as well. Grokking Bitcoin is [available for free on
+GitHub][grokking-bitcoin-free] as well.
 
 [mastering-bitcoin-free]: https://github.com/bitcoinbook/bitcoinbook
 [programming-bitcoin-exercises]: https://github.com/jimmysong/programmingbitcoin
-[grokking-bitcoin-preview]: https://livebook.manning.com/#!/book/grokking-bitcoin/
+[grokking-bitcoin-free]: https://github.com/kallerosenbaum/grokkingbitcoin
 [wikis-and-guides]: #wikis-and-guides
 
 #### Economics
