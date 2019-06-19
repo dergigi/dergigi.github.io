@@ -4,6 +4,7 @@ title: Lesson 3
 subtitle: Replication and locality
 quote: "Next came an angry voice—the rabbit's—\"Pat, Pat! where are you?\""
 categories: [bitcoin, lesson]
+audio: /assets/audio/21lessons/1-03.m4a 
 ---
 
 Quantum mechanics aside, locality is a non-issue in the physical world.

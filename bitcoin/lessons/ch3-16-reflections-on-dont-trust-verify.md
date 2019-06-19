@@ -4,6 +4,7 @@ title: Lesson 16
 subtitle: Reflections on "Don't Trust, Verify"
 quote: "\"Now for the evidence,\" said the King, \"and then the sentence.\""
 categories: [bitcoin, lesson]
+audio: /assets/audio/21lessons/3-16.m4a 
 ---
 
 Bitcoin aims to replace, or at least provide an alternative to,

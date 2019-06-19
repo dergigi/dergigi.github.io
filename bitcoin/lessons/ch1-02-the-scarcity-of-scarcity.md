@@ -4,6 +4,7 @@ title: Lesson 2
 subtitle: The scarcity of scarcity
 quote: "That's quite enough — I hope I sha'n't grow any more..."
 categories: [bitcoin, lesson]
+audio: /assets/audio/21lessons/1-02.m4a 
 ---
 
 In general, the advance of technology seems to make things more

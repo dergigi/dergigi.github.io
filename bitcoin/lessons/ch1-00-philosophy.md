@@ -4,6 +4,7 @@ title: Chapter I
 subtitle: Philosophy
 quote: "The mouse looked at her rather inquisitively, and seemed to her to wink with one of its little eyes, but it said nothing."
 categories: [bitcoin, lesson]
+audio: /assets/audio/21lessons/1-00.m4a 
 ---
 
 Looking at Bitcoin superficially, one might conclude that it is slow, wasteful,
