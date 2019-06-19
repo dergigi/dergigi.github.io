@@ -8,8 +8,14 @@ picture,
 object,
 embed,
 iframe,
+audio,
 video {
   max-width: 100%;
+  height: auto;
+}
+
+audio {
+  min-width: 100%;
   height: auto;
 }
 
@@ -23,7 +29,7 @@ iframe {
 
 //----------------------------------------------
 // Absolute Background
-//---------------------------------------------- 
+//----------------------------------------------
 .absolute-bg {
   position: absolute;
   top: 0;
@@ -49,7 +55,7 @@ iframe {
 
   &:before {
     content: "";
-    
+
     display: block;
     padding-bottom: 56.5%; // Widescreen
   }
