@@ -7,6 +7,11 @@ category: bitcoin
 description: An exploration of questions and lessons learned from falling down the Bitcoin rabbit hole.
 quote: "\"Oh, you foolish Alice!\" she said again, \"how can you learn lessons in here? Why, there's hardly room for you, and no room at all for any lesson-books!\""
 image: /assets/images/21-lessons-twitter-cover.jpg
+audio: /assets/audio/21lessons/21-lessons.m4a
+---
+
+{% include player.html file=page.audio %}
+
 ---
 
 > The White Rabbit put on his spectacles. 'Where shall I begin, please your
