@@ -3,7 +3,8 @@ layout: page
 ---
 <div class="lesson">
 {% if page.audio %}
-  {% include player.html file=page.audio %}
+  {% capture absoluteURL %}{{ page.audio | absolute_url }}{% endcapture %}
+  {% include player.html file=absoluteURL %}
   <hr/>
 {% endif %}
   {% include lesson-navigation.html style="compact"%}
