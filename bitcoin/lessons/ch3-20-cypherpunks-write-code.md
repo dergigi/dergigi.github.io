@@ -4,6 +4,7 @@ title: Lesson 20
 subtitle: Cypherpunks write code
 quote: "I see you're trying to invent something."
 categories: [bitcoin, lesson]
+audio: /assets/audio/21lessons/3-20.m4a 
 ---
 
 Like many great ideas, Bitcoin didn't come out of nowhere. It was made

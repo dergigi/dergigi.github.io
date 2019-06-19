@@ -4,6 +4,7 @@ title: Chapter II
 subtitle: Economics
 quote: "A large rose tree stood near the entrance of the garden: the roses on it were white, but there were three gardeners at it, busily painting them red. This Alice thought a very curious thing..."
 categories: [bitcoin, lesson]
+audio: /assets/audio/21lessons/2-00.m4a 
 ---
 
 Money doesn’t grow on trees. To believe that it does is foolish, and our

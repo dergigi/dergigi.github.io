@@ -4,6 +4,7 @@ title: Lesson 11
 subtitle: Money
 quote: "\"In my youth,\" said the sage, as he shook his gray locks,</br> \"I kept all my limbs very supple,</br> By the use of this ointment, five shillings the box—</br> Allow me to sell you a couple.\"</br>"
 categories: [bitcoin, lesson]
+audio: /assets/audio/21lessons/2-11.m4a 
 ---
 
 What is money? We use it every day, yet this question is surprisingly

@@ -6,14 +6,19 @@ subtitle_link: http://21lessons.com
 category: bitcoin
 description: An exploration of questions and lessons learned from falling down the Bitcoin rabbit hole.
 quote: "\"Oh, you foolish Alice!\" she said again, \"how can you learn lessons in here? Why, there's hardly room for you, and no room at all for any lesson-books!\""
-image: /assets/images/21-lessons-twitter-cover.jpg
+image: /assets/images/21-lessons-twitter-cover-audio.jpg
+audio: /assets/audio/21lessons/21-lessons.m4a
+---
+
+{% include player.html file=page.audio %}
+
 ---
 
 > The White Rabbit put on his spectacles. 'Where shall I begin, please your
 > Majesty?' he asked. '[Begin at the beginning][preface],' the King said
 > gravely, 'and go on till you come to the end: then stop.'
 
-[![21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole](/assets/images/21-lessons-cover-rabbit.jpg)][preface]
+[![21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole](/assets/images/21-lessons-cover-rabbit-headphones.jpg)][preface]
 
 ---
 

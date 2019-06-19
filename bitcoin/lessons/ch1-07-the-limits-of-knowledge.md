@@ -4,6 +4,7 @@ title: Lesson 7
 subtitle: The limits of knowledge
 quote: "Down, down, down. Would the fall never come to an end?"
 categories: [bitcoin, lesson]
+audio: /assets/audio/21lessons/1-07.m4a 
 ---
 
 Getting into Bitcoin is a humbling experience. I thought that I knew

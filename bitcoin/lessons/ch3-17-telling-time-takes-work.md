@@ -4,6 +4,7 @@ title: Lesson 17
 subtitle: Telling time takes work
 quote: "\"Dear, dear! I shall be too late!\""
 categories: [bitcoin, lesson]
+audio: /assets/audio/21lessons/3-17.m4a 
 ---
 
 It is often said that bitcoins are mined because thousands of computers

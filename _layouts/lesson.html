@@ -2,6 +2,10 @@
 layout: page
 ---
 <div class="lesson">
+{% if page.audio %}
+  {% include player.html file=page.audio %}
+  <hr/>
+{% endif %}
   {% include lesson-navigation.html style="compact"%}
   {{ content }}
   <hr/>

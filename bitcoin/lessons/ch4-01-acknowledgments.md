@@ -36,6 +36,8 @@ are too many to list them all, but I'll do my best to name a few.
 <!-- Part III -->
 -   Thanks to [Dhruv Bansal] and [Matt Odell] for taking the time to
     discuss some of these ideas with me.
+-   Thanks to [Guy Swann] for producing an audio version
+    of 21lessons.com.
 -   Last but not least, thanks to all the bitcoin maximalists, shitcoin
     minimalists, shills, bots, and shitposters which reside in the
     beautiful garden that is Bitcoin twitter. And finally, thank *you* for
@@ -43,6 +45,7 @@ are too many to list them all, but I'll do my best to name a few.
     Feel free to [reach out to me] on twitter. My DMs are open.
 
 <!-- Twitter -->
+[Guy Swann]: https://twitter.com/TheCryptoconomy
 [Arjun Balaji]: https://twitter.com/arjunblj
 [Saifedean Ammous]: https://twitter.com/saifedean
 [Dhruv Bansal]: https://twitter.com/dhruvbansal
