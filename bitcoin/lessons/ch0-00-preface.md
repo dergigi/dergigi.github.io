@@ -3,6 +3,7 @@ layout: lesson
 title: Preface
 quote: "Little Alice fell <br/> d <br/> o <br/> w <br/> n <br/> the hOle, <br/> bumped her head <br/> and bruised her soul."
 categories: [bitcoin, lesson]
+audio: /assets/audio/21lessons/0-00.m4a 
 ---
 
 Falling down the Bitcoin rabbit hole is a strange experience. Like many others,
