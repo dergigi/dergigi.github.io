@@ -2,6 +2,7 @@
 layout: resources
 title: Bitcoin Resources
 image: /assets/images/bitcoin-resources-twitter-cover.jpg
+description: Books, articles, podcasts, and other curated Bitcoin resources.
 ---
 
 **TL;DR:** Read [The Bitcoin Standard][bitcoin-standard] and [The Bullish
