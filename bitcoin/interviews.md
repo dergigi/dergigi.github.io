@@ -1,12 +1,15 @@
 ---
 layout: page
 title: Interviews
+description: Interviews with Gigi and various podcast appearances
 ---
 
 Finding the time to read long articles and books can be challenging, which is
 why I love podcasts and recorded conversations of all kinds. If you do too,
 here are some conversations where I share my thoughts about [Bitcoin][bitcoin].
 
+  - **2019-06-23** - [Discussion on privacy][keyvan-privacy] with Matt Odell and Aleksandar Svetski, hosted by Keyvan Davani ([podcast][keyvan-privacy], [youtube][keyvan-privacy-yt])
+  - **2019-06-21** - [Bitcoin im Turm #8][turm8] on 21lessons.com ([podcast][turm8])
   - **2019-06-06** - [POV Crypto #56][pov56] on Bitcoin's Gravity, Monetary Maximalism, Proof-of-Stake and Proof-of-Work with Christian and David ([podcast][pov56])
   - **2019-05-23** - [Citizen Bitcoin #38][cb38] on 21lessons.com with Brady ([podcast][cb38])
   - **2019-05-08** - [Contrarian Island #7][ci7] on Bitcoin's Gravity ([podcast][ci7])
@@ -22,5 +25,8 @@ Want to talk? Feel free to [reach out to me][contact].
 [ci7]: http://contrarianisland.buzzsprout.com/265373/1106735-contrarian-island-7-gigi-bitcoin-s-gravity
 [cb38]: https://citizenbitcoin.world/episodes/gigi-21-lessons-from-down-the-bitcoin
 [pov56]: https://medium.com/@TrustlessState/the-gravity-of-monetary-maximalism-cf968dd23268
+[turm8]: https://media.zencast.fm/bitcoin-im-turm/episodes/8
+[keyvan-privacy]: https://anchor.fm/keyvandavani/episodes/TheTotalConnector11-Interview-with-Aleks-Svetski--Gigi--and-Matt-Odell-on-Bitcoin-e4dq7a
+[keyvan-privacy-yt]: https://www.youtube.com/watch?v=M58cq0bRwng
 [contact]: {{ '/contact' | absolute_url }}
 [bitcoin]: {{ '/bitcoin' | absolute_url }}
