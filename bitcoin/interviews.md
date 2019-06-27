@@ -8,7 +8,7 @@ Finding the time to read long articles and books can be challenging, which is
 why I love podcasts and recorded conversations of all kinds. If you do too,
 here are some conversations where I share my thoughts about [Bitcoin][bitcoin].
 
-  - **2019-06-24** - [Bitcoin Echo Chamber #22][bec22] on the paradigm shift enabled through Bitcoin
+  - **2019-06-24** - [Bitcoin Echo Chamber #22][bec22] on the BTC paradigm shift
   - **2019-06-23** - [Discussion on privacy][keyvan-privacy] with Matt Odell and Aleksandar Svetski, hosted by Keyvan Davani (also on [youtube][keyvan-privacy-yt])
   - **2019-06-21** - [Bitcoin im Turm #10][turm10] on Technology, Chapter 3
   - **2019-06-21** - [Bitcoin im Turm #9][turm9] on Economics, Chapter 2
