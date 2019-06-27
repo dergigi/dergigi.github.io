@@ -25,9 +25,6 @@ social:
   - name: bitcoin
     url: bitcoin:33q1dJyoVkyYYYzxpVJA7cdZV8Kok4CDmq?amount=0.001?label=dergigi?message=You%27re%20awesome!
 
-# Contact settings
-formcarry: https://formcarry.com/s/HkIo0nMb7
-
 # Collections
 collections_dir: collections
 collections:
