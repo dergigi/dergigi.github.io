@@ -9,7 +9,9 @@ why I love podcasts and recorded conversations of all kinds. If you do too,
 here are some conversations where I share my thoughts about [Bitcoin][bitcoin].
 
   - **2019-06-23** - [Discussion on privacy][keyvan-privacy] with Matt Odell and Aleksandar Svetski, hosted by Keyvan Davani ([podcast][keyvan-privacy], [youtube][keyvan-privacy-yt])
-  - **2019-06-21** - Bitcoin im Turm [#8][turm8], [#9][turm9], [#10][turm10] on 21lessons.com ([podcast][turm8])
+  - **2019-06-21** - [Bitcoin im Turm #10][turm10] on Technology, Chapter 3 ([podcast][turm10])
+  - **2019-06-21** - [Bitcoin im Turm #9][turm9] on Economics, Chapter 2 ([podcast][turm9])
+  - **2019-06-21** - [Bitcoin im Turm #8][turm8] on Philosophy, Chapter 1 ([podcast][turm8])
   - **2019-06-06** - [POV Crypto #56][pov56] on Bitcoin's Gravity, Monetary Maximalism, Proof-of-Stake and Proof-of-Work with Christian and David ([podcast][pov56])
   - **2019-05-23** - [Citizen Bitcoin #38][cb38] on 21lessons.com with Brady ([podcast][cb38])
   - **2019-05-08** - [Contrarian Island #7][ci7] on Bitcoin's Gravity ([podcast][ci7])
