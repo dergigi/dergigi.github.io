@@ -106,8 +106,9 @@
 [guy-books]: https://cryptoconomy.life/bitcoin-survivors-book-list/
 [guy-episodes]: https://anchor.fm/thecryptoconomy
 [sni]: https://nakamotoinstitute.org/literature/
-[awib]: https://github.com/CypherPoet/awesome-what-is-bitcoin
 [blml]: https://t.co/ByspfeZ8R8
+[awib]: https://github.com/CypherPoet/awesome-what-is-bitcoin
+[ab]: https://github.com/igorbarinov/awesome-bitcoin
 [mises]: https://mises.org/library
 [unenumerated]: https://unenumerated.blogspot.com/
 
