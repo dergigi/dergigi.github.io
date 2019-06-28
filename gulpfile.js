@@ -30,7 +30,6 @@ gulp.task('stylelint', () => {
 gulp.task('sass', () => {
   return gulp.src('./_assets/scss/app.scss')
   .pipe(sass().on('error', sass.logError))
-  .pipe(autoprefixer({browsers: ['last 2 versions'], cascade: false}))
   .pipe(cleanCSS())
   .pipe(rename({suffix: '.min'}))
   .pipe(gulp.dest('./assets/css'));
