@@ -430,6 +430,7 @@ you are looking for longer, more varied lists, the following got you covered:
 - [Bitcoin Archive][bitcoin-archive] by Max Hillebrand
 - [Bitcoin Rabbit Hole][brh] by Adam Taché
 - [Awesome What is Bitcoin][awib] list by CypherPoet
+- [Bitcoin Learning Master List][blml] by Nick Ward
 - [Mises Library][mises] by The Mises Institute
 - [Unenumerated][unenumerated] by Nick Szabo
 
