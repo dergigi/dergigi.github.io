@@ -28,19 +28,9 @@ const miscZoom = () => {
 };
 
 // ----------------------------------------------
-// Social Share
-// ----------------------------------------------
-const miscSocialShare = () => {
-  $('.post__social a').on('click', e => {
-    window.open($(e.currentTarget).attr('href'), '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=550,width=550');
-  });
-};
-
-// ----------------------------------------------
 // Exports
 // ----------------------------------------------
 module.exports = {
   miscFlexVid,
-  miscZoom,
-  miscSocialShare
+  miscZoom
 };
