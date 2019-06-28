@@ -1,7 +1,7 @@
 # Site/SEO settings
 email: dergigi@pm.me
 baseurl: ""
-paginate: 12
+paginate: 99 # TODO: Fix endless scroll / pagination
 paginate_path: "/page/:num"
 permalink: /:year/:month/:day/:title/
 google_analytics:
@@ -24,9 +24,6 @@ social:
     url: https://medium.com/@dergigi
   - name: bitcoin
     url: bitcoin:33q1dJyoVkyYYYzxpVJA7cdZV8Kok4CDmq?amount=0.001?label=dergigi?message=You%27re%20awesome!
-
-# Contact settings
-formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Collections
 collections_dir: collections

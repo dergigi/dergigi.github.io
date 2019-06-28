@@ -30,7 +30,6 @@ gulp.task('stylelint', () => {
 gulp.task('sass', () => {
   return gulp.src('./_assets/scss/app.scss')
   .pipe(sass().on('error', sass.logError))
-  .pipe(autoprefixer({browsers: ['last 2 versions'], cascade: false}))
   .pipe(cleanCSS())
   .pipe(rename({suffix: '.min'}))
   .pipe(gulp.dest('./assets/css'));
@@ -52,7 +51,7 @@ gulp.task('lint', () => {
 
 gulp.task('browserify', () => {
   return browserify('./_assets/js/app.js')
-  .transform('babelify', {presets: ['env']})
+  .transform('babelify', {presets: ['@babel/preset-env']})
   .bundle()
   .pipe(source('app.js'))
   .pipe(buffer())
@@ -72,11 +71,11 @@ gulp.task('zip', () => {
   .pipe(gulp.dest('../'))
 });
 
-gulp.task('build', ['sass', 'browserify']);
+gulp.task('build', gulp.series('sass', 'browserify'));
 
 gulp.task('watch', () => {
-  gulp.watch('./_assets/scss/**/*.scss', ['sass']);
-  gulp.watch('./_assets/js/**/*.js', ['browserify']);
+  gulp.watch('./_assets/scss/**/*.scss', gulp.series('sass'));
+  gulp.watch('./_assets/js/**/*.js', gulp.series('browserify'));
 });
 
-gulp.task('default', ['build', 'watch']);
+gulp.task('default', gulp.series('build', 'watch'));
