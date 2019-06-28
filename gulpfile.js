@@ -37,8 +37,6 @@ gulp.task('sass', () => {
 
 gulp.task('lint', () => {
   return gulp.src([
-    './_assets/js/components/_formspree.js',
-    './_assets/js/components/_infiniteScroll.js',
     './_assets/js/components/_miscellaneous.js',
     './_assets/js/components/_pageTransition.js',
     './_assets/js/components/_popup.js',
