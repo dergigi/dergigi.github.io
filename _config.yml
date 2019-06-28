@@ -1,7 +1,7 @@
 # Site/SEO settings
 email: dergigi@pm.me
 baseurl: ""
-paginate: 12
+paginate: 99 # TODO: Fix endless scroll / pagination
 paginate_path: "/page/:num"
 permalink: /:year/:month/:day/:title/
 google_analytics:
