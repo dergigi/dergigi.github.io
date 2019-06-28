@@ -4,17 +4,6 @@
 import $ from 'jquery';
 
 // ----------------------------------------------
-// Flex Vid
-// ----------------------------------------------
-const miscFlexVid = () => {
-  const iframeArr = $('.post__content iframe');
-
-  iframeArr.each((idx, iframe) => {
-    $(iframe).wrap('<div class="flex-vid"></div>');
-  });
-};
-
-// ----------------------------------------------
 // Zoom
 // ----------------------------------------------
 const miscZoom = () => {
@@ -31,6 +20,5 @@ const miscZoom = () => {
 // Exports
 // ----------------------------------------------
 module.exports = {
-  miscFlexVid,
   miscZoom
 };
