@@ -49,7 +49,7 @@ gulp.task('lint', () => {
 
 gulp.task('browserify', () => {
   return browserify('./_assets/js/app.js')
-  .transform('babelify', {presets: ['env']})
+  .transform('babelify', {presets: ['@babel/preset-env']})
   .bundle()
   .pipe(source('app.js'))
   .pipe(buffer())
