@@ -427,6 +427,7 @@ you are looking for longer, more varied lists, the following got you covered:
 - [Bitcoin Information & Resources][lopp] by Jameson Lopp
 - [Curated Bitcoin Articles][guy] by Guy Swann
 - [Bitcoin Survivor's Book List][guy-books] by Guy Swann
+- [Featured Episodes of the Cryptoconomy Podcast][guy-episodes-curated] curated by Infominer
 - [Bitcoin Archive][bitcoin-archive] by Max Hillebrand
 - [Bitcoin Rabbit Hole][brh] by Adam Taché
 - [Bitcoin Learning Master List][blml] by Nick Ward
