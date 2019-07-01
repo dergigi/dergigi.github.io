@@ -19,6 +19,7 @@
 
 [rr]: https://www.buzzsprout.com/263522
 [ltb]: https://letstalkbitcoin.com/blog/category/episodes
+[unhashed]: https://www.unhashedpodcast.com/
 [fwc]: https://funwithcrypto.libsyn.com/
 [pov]: https://medium.com/pov-crypto
 [bsb]: https://bottomshelfbitcoin.com/

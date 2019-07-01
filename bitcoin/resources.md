@@ -380,6 +380,7 @@ very long list might not be as useful as separate lists, however arbitrary the
 distinction. I enjoy or have enjoyed these podcasts as well:
 
 - [Let's Talk Bitcoin][ltb] with Adam B. Levine, Andreas Antonopoulos, Stephanie Murphy, and Jonathan Mohan
+- [Unhashed Podcast][unhashed] with Ruben Somsen, Mario Gibney, Bryan Aulds, and Colin Aulds
 - [Reckless Review][rr] by Udi Wertheimer and Lawrence Nahum
 - [Bitcoin and...][ba] by David Bennet
 - [Fun With Crypto][fwc] by Coinicarus
