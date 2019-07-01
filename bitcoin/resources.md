@@ -380,6 +380,7 @@ very long list might not be as useful as separate lists, however arbitrary the
 distinction. I enjoy or have enjoyed these podcasts as well:
 
 - [Let's Talk Bitcoin][ltb] with Adam B. Levine, Andreas Antonopoulos, Stephanie Murphy, and Jonathan Mohan
+- [Unhashed Podcast][unhashed] with Ruben Somsen, Mario Gibney, Bryan Aulds, and Colin Aulds
 - [Reckless Review][rr] by Udi Wertheimer and Lawrence Nahum
 - [Bitcoin and...][ba] by David Bennet
 - [Fun With Crypto][fwc] by Coinicarus
@@ -427,6 +428,7 @@ you are looking for longer, more varied lists, the following got you covered:
 - [Bitcoin Information & Resources][lopp] by Jameson Lopp
 - [Curated Bitcoin Articles][guy] by Guy Swann
 - [Bitcoin Survivor's Book List][guy-books] by Guy Swann
+- [Featured Episodes of the Cryptoconomy Podcast][guy-episodes-curated] curated by Infominer
 - [Bitcoin Archive][bitcoin-archive] by Max Hillebrand
 - [Bitcoin Rabbit Hole][brh] by Adam Taché
 - [Bitcoin Learning Master List][blml] by Nick Ward

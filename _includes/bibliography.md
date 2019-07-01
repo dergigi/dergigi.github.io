@@ -19,6 +19,7 @@
 
 [rr]: https://www.buzzsprout.com/263522
 [ltb]: https://letstalkbitcoin.com/blog/category/episodes
+[unhashed]: https://www.unhashedpodcast.com/
 [fwc]: https://funwithcrypto.libsyn.com/
 [pov]: https://medium.com/pov-crypto
 [bsb]: https://bottomshelfbitcoin.com/
@@ -105,6 +106,7 @@
 [guy]: https://cryptoconomy.life/
 [guy-books]: https://cryptoconomy.life/bitcoin-survivors-book-list/
 [guy-episodes]: https://anchor.fm/thecryptoconomy
+[guy-episodes-curated]: https://sourcecrypto.pub/blog/thecryptoconomy-podcast-deep-dive/
 [sni]: https://nakamotoinstitute.org/literature/
 [blml]: https://t.co/ByspfeZ8R8
 [awib]: https://github.com/CypherPoet/awesome-what-is-bitcoin

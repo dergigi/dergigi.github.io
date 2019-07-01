@@ -5,6 +5,10 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2019-07-01
+- Add Unhashed podcast with Ruben Somsen, Mario Gibney, Bryan Aulds, and Colin Aulds
+- Add featured episodes of the Cryptoconomy podcast curated by Infominer
+
 #### 2019-06-22
 - Add OTC 126 with Misir Mahmudov
 
