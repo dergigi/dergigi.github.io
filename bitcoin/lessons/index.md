@@ -8,6 +8,7 @@ description: An exploration of questions and lessons learned from falling down t
 quote: "\"Oh, you foolish Alice!\" she said again, \"how can you learn lessons in here? Why, there's hardly room for you, and no room at all for any lesson-books!\""
 image: /assets/images/21-lessons-twitter-cover-audio.jpg
 audio: /assets/audio/21lessons/21-lessons.m4a
+redirect_from: /bitcoin/lessons/21-lessons/
 ---
 
 {% include player.html file=page.audio %}
