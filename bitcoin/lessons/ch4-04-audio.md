@@ -9,12 +9,13 @@ categories: [bitcoin, lesson]
 ### Audio version
 
 - 🎧 [Chapter I][ch1-audio], [Chapter II][ch2-audio], and [Chapter
-  III][ch3-audio] are available as an audio version thanks to [Guy Swann] from [The
-  Cryptoconomy][cryptoconomy] podcast.
+  III][ch3-audio] are available as an audio version thanks to [Guy Swann] from
+  [The Cryptoconomy][cryptoconomy] podcast.
 
 ### Author commentary
 
-Some folks were kind enough to [interview me][interviews], leading to the following recordings of thoughts, discussions, and commentary on 21 Lessons:
+Below are recordings of thoughts, discussions, and commentary on 21 Lessons,
+thanks to the fine folks who were kind enough to [interview me][interviews]:
 
   - **2019-06-21** - [21 Lessons, Chapter 3 (German)][turm10] on Bitcoin im Turm
   - **2019-06-21** - [21 Lessons, Chapter 2 (German)][turm9] on Bitcoin im Turm
