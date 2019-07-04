@@ -23,7 +23,7 @@ redirect_from: /bitcoin/lessons/21-lessons/
 
 Thanks to the awesome members of the Bitcoin community, 21 Lessons is available
 in [several languages][translations] and as an [audio version][audio]. There are
-also some [audio recordings][audio] of thoughts and discussions related to these
+also [audio recordings][audio] of thoughts and discussions related to these
 lessons available.
 
 [![21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole](/assets/images/21-lessons-cover-rabbit-headphones.jpg)][preface]
