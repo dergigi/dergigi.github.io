@@ -6,22 +6,28 @@ quote: "She waited for some time without hearing anything more: at last came a r
 categories: [bitcoin, lesson]
 ---
 
-### Audio version
+### Reading
 
 - 🎧 [Chapter I][ch1-audio], [Chapter II][ch2-audio], and [Chapter
   III][ch3-audio] are available as an audio version thanks to [Guy Swann] from
   [The Cryptoconomy][cryptoconomy] podcast.
 
-### Author commentary
+---
+
+### Commentary
 
 Below are recordings of thoughts, discussions, and commentary on 21 Lessons,
 thanks to the fine folks who were kind enough to [interview me][interviews]:
 
-  - **2019-06-21** - [21 Lessons, Chapter 3 (German)][turm10] on Bitcoin im Turm
-  - **2019-06-21** - [21 Lessons, Chapter 2 (German)][turm9] on Bitcoin im Turm
-  - **2019-06-21** - [21 Lessons, Chapter 1 (German)][turm8] on Bitcoin im Turm
-  - **2019-05-23** - [21 Lessons][cb38] on Citizen Bitcoin
+**English**
 
+- [21 Lessons][cb38] on Citizen Bitcoin
+
+**German**
+
+- [21 Lessons, Chapter 1][turm8] on Bitcoin im Turm
+- [21 Lessons, Chapter 2][turm9] on Bitcoin im Turm
+- [21 Lessons, Chapter 3][turm10] on Bitcoin im Turm
 
 {% include bibliography.md %}
 
