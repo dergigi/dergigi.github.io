@@ -19,6 +19,13 @@ redirect_from: /bitcoin/lessons/21-lessons/
 > Majesty?' he asked. '[Begin at the beginning][preface],' the King said
 > gravely, 'and go on till you come to the end: then stop.'
 
+---
+
+Thanks to the awesome members of the Bitcoin community, 21 Lessons is available
+in [several languages][translations] and as an [audio version][audio]. There are
+also some [audio recordings][audio] of thoughts and discussions related to these
+lessons available.
+
 [![21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole](/assets/images/21-lessons-cover-rabbit-headphones.jpg)][preface]
 
 ---
@@ -36,7 +43,5 @@ redirect_from: /bitcoin/lessons/21-lessons/
 
 <!-- Internal  -->
 [preface]: {{ 'bitcoin/lessons/ch0-00-preface' | absolute_url }}
-
-<!-- Wikipedia -->
-[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
-[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll
+[translations]: {{ 'bitcoin/lessons/ch4-03-translations' | absolute_url }}
+[audio]: {{ 'bitcoin/lessons/ch4-04-audio' | absolute_url }}
