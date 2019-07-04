@@ -9,6 +9,7 @@ why I love podcasts and recorded conversations of all kinds. If you do too,
 here are some conversations where I share my thoughts about [Bitcoin][bitcoin].
 
   - **2019-07-01** - [Fun with Crypto #30][fwc30] on Bitcoin as an exponential technology
+  - **2019-06-28** - [This Week in Bitcoin][twib] with BTC Sessions and Steve Barbour, hosted by Adam Meister (also on [youtube][twib-youtube])
   - **2019-06-24** - [Bitcoin Echo Chamber #22][bec22] on the BTC paradigm shift
   - **2019-06-23** - [Discussion on privacy][keyvan-privacy] with Matt Odell and Aleksandar Svetski, hosted by Keyvan Davani (also on [youtube][keyvan-privacy-yt])
   - **2019-06-21** - [Bitcoin im Turm #10][turm10] on Technology, Chapter 3
@@ -35,6 +36,8 @@ Want to talk? Feel free to [reach out to me][contact].
 [keyvan-privacy]: https://anchor.fm/keyvandavani/episodes/TheTotalConnector11-Interview-with-Aleks-Svetski--Gigi--and-Matt-Odell-on-Bitcoin-e4dq7a
 [keyvan-privacy-yt]: https://www.youtube.com/watch?v=M58cq0bRwng
 [bec22]: https://bitcoinechochamber.com/2019/06/24/paradigm-shift-with-gigi-bec022/
+[twib]: https://anchor.fm/bitcoinmeister/episodes/This-week-in-Bitcoin--6-28-2019--Future-of-Altcoins--Gold--BTC-mining--21-Lessons--Coinbase-outage-e4fpnd
+[twib-youtube]: https://youtu.be/VxG57es11kM
 [fwc30]: http://funwithcrypto.libsyn.com/interviewdiscussion-with-dergigi
 [contact]: {{ '/contact' | absolute_url }}
 [bitcoin]: {{ '/bitcoin' | absolute_url }}
