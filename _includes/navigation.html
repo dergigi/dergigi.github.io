@@ -1,7 +1,10 @@
 <nav>
   <ul class="header__list">
-    <li><a href="{{ '/' | absolute_url }}">Photography</a></li>
-    <li><a href="{{ '/bitcoin' | prepend: site.baseurl }}" {% if page.path contains 'bitcoin' %}class="orange"{% endif %}>Bitcoin</a></li>
+    <li><a href="{{ '/bitcoin/lessons' | prepend: site.baseurl }}" title="21lessons.com">21 Lessons</a></li>
+    <li><a href="{{ '/bitcoin/resources' | prepend: site.baseurl }}" title="bitcoin-resources.com">Bitcoin Resources</a></li>
+    <li><a href="{{ '/' | prepend: site.baseurl }}">Articles</a></li>
+    <li><a href="{{ '/bitcoin/interviews' | prepend: site.baseurl }}">Interviews</a></li>
+    <li><a href="{{ '/photography' | absolute_url }}">Blog</a></li>
     <li><a href="{{ '/contact' | absolute_url }}">Contact</a></li>
   </ul>
 </nav>

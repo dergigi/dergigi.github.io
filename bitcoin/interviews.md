@@ -2,6 +2,7 @@
 layout: page
 title: Interviews
 description: Interviews with Gigi and various podcast appearances
+redirect_from: interviews
 ---
 
 Finding the time to read long articles and books can be challenging, which is
