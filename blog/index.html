@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<!-- The main content area -->
+<div class="posts">
+  <div class="grid-xlarge">
+    <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
+
+      {% for post in site.categories.photography %}
+        {% include post-card.html %}
+      {% endfor %}
+    </div>
+  </div>
+  <!-- TODO: Fix pagination -->
+  <!-- {% include pagination.html %} -->
+</div>
