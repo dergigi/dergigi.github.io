@@ -147,7 +147,7 @@
     font-family: $font-post;
   }
 
-  & > * {
+  & > *:not(#tippin-button) {
     min-width: 100%;
 
     &:first-child {
