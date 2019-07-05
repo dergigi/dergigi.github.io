@@ -3,7 +3,7 @@ layout: page
 title: Support
 ---
 
-## PayNym
+
 
 ![](/assets/images/bitcoin/paynym.png)
 
