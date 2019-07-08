@@ -1,6 +1,6 @@
 //----------------------------------------------
 // Form
-//---------------------------------------------- 
+//----------------------------------------------
 .form {
   width: 100%;
   display: flex;
@@ -69,5 +69,15 @@
     background: $color-lightgrey;
     border-left: 2px solid $color-white;
     opacity: 0;
+  }
+}
+
+#tippin-button {
+  background-color: $color-darkestgrey;
+  border: 1px solid $color-tippin;
+  margin-bottom: 1em;
+
+  &:hover {
+    background-color: $color-tippin;
   }
 }
