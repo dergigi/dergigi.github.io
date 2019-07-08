@@ -25,7 +25,8 @@ for bits and bytes.
 There is Patreon, of course, which is a great start. However, it suffers from
 the same problem that all centralized platforms will inevitably suffer from:
 power and control, which has the habit of resulting in interference and
-censorship. I'm not a fan of interference. And I despise
+censorship. I'm not a fan of interference. And I despise censorship.
+
 Luckily, we now live in a world where Bitcoin exists. We can give directly, just
 like in the olden days, where buskers performed for everyone, and a handful of
 people were kind enough to pay a handful of coins to the artist, directly. I
@@ -43,4 +44,31 @@ having private thoughts and private conversations.
 
 {% include image.html path="/assets/images/bitcoin/paynym.png" %}
 
-    gentlepond791: PM8TJNSKRf9cuoUD4s89taBDZAzQxx1d9Cwxghizmd68y3SzpsL5FnpAHxX7hbFr9a2ZhQiGRkhULHBETtVa74cWoF8CojHb5WWEnftsanQc8UUB7cbn
+My [paynym.is/+gentlepond791](https://paynym.is/+gentlepond791):
+
+    PM8TJNSKRf9cuoUD4s89taBDZAzQxx1d9Cwxghizmd68y3SzpsL5FnpAHxX7hbFr9a2ZhQiGRkhULHBETtVa74cWoF8CojHb5WWEnftsanQc8UUB7cbn
+
+If you don't have the means to give directly, or don't want to, no worries. I
+understand that very well. I'm quite selective with my support too! However,
+if you have a couple of satoshis to spare, you will make my day, week, or even
+month. To everyone who decided to throw me some sats, thank you. You have no
+idea how much it means to me, and how motivating it is.
+
+I finally found something that I *love* doing. My plan is to dedicate as much
+time as I can to contribute to the Bitcoin ecosystem. How the business models
+of the future will look like is anyone's guess. Maybe we will see a
+renaissance of the old and proven methods developed in meatspace. Maybe we
+will see entirely new paradigms, things that are only possible in the strange
+world of cyberspace. Maybe we'll see a little bit of both.
+
+In any case, for the first time in my life, I'm both excited and optimistic
+about the future. I hope you are as well.
+
+Sincerely, \\
+Gigi
+
+
+{% include image.html path="/assets/images/bitcoin/btc.png" %}
+
+    P2SH: 3DZMDzWaG6M3LPwjeU9S8P4KrzzZYZqDX1
+    bech32: bc1qlc3zqftr2jsxv78lwg6wmugnkrld5sycspj8ys
