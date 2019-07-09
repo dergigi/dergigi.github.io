@@ -85,6 +85,17 @@
 [crypto-anarchist-manifesto]: http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html
 [cyphernomicon]: https://ia600208.us.archive.org/10/items/cyphernomicon/cyphernomicon.txt
 
+<!-- Privacy -->
+[snowden-privacy]: https://www.youtube.com/watch?v=UDydB3z-6Y0
+[bitcoin-privacy]: https://bitcoin.org/en/protect-your-privacy
+[coincenter-privacy-pdf]: https://coincenter.org/files/2019-02/the-case-for-electronic-cash-coin-center.pdf
+[coincenter-privacy]: https://coincenter.org/entry/we-must-protect-our-ability-to-transact-privately-online
+[how-private-is-btc]: https://medium.com/human-rights-foundation-hrf/privacy-and-cryptocurrency-part-i-how-private-is-bitcoin-e3a4071f8fff
+[wiki-privacy]: https://en.bitcoin.it/wiki/Privacy
+[faq-hodl-privacy]: https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md
+[faq-wasabi]: https://github.com/6102bitcoin/FAQ/blob/master/wasabi.md
+[faq-whirlpool]: https://github.com/6102bitcoin/FAQ/blob/master/whirlpool.md
+
 <!-- Misc -->
 [bitcoin-halving]: https://thesaifhouse.wordpress.com/2016/07/09/the-bitcoin-halving-and-monetary-competition/
 [open-letter]: https://hackernoon.com/an-open-letter-to-banks-about-bitcoin-and-cryptocurrencies-b0c7ef9b7c62

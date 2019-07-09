@@ -334,6 +334,23 @@ essential.
 - [The Crypto Anarchist Manifesto][crypto-anarchist-manifesto] by Timothy C. May
 - [The Cyphernomicon][cyphernomicon] by Timothy C. May
 
+#### Privacy
+
+Without digital cash, a cashless society is a surveillance society. While
+privacy in Bitcoin is not a given, there are various ways to transact privately.
+The following resources discuss these possibilities, why the right to transact
+privately is essential, and why it has to be protected.
+
+- [Bitcoin and Privacy][snowden-privacy] by Edward Snowden
+- [Protect Your Privacy][bitcoin-privacy] by Bitcoin.org
+- [The Case for Electronic Cash][coincenter-privacy-pdf] by Jerry Brito
+- [We Must Protect our Ability to Transact Privately Online][coincenter-privacy] by Jerry Brito
+- [How Private is Bitcoin?][how-private-is-btc] by Eric Wall
+- [Bitcoin Wiki's Privacy Aritcle][wiki-privacy] written in large parts by Chris Belcher
+- [FAQ for Hodl Privacy][faq-hodl-privacy] by 6102bitcoin
+- [FAQ for Wasabi Wallet][faq-wasabi] by 6102bitcoin
+- [FAQ for Samourai Wallet's Whirlpool][faq-whirlpool] by 6102bitcoin
+
 #### Misc
 
 The following are what I consider excellent articles that didn't fit into one
