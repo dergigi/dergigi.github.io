@@ -90,6 +90,7 @@
 [coincenter-privacy-pdf]: https://coincenter.org/files/2019-02/the-case-for-electronic-cash-coin-center.pdf
 [coincenter-privacy]: https://coincenter.org/entry/we-must-protect-our-ability-to-transact-privately-online
 [wiki-privacy]: https://en.bitcoin.it/wiki/Privacy
+[faq-hodl-privacy]: https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md
 
 <!-- Misc -->
 [bitcoin-halving]: https://thesaifhouse.wordpress.com/2016/07/09/the-bitcoin-halving-and-monetary-competition/
