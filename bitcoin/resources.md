@@ -344,6 +344,7 @@ privately is essential, and why it has to be protected.
 - [Bitcoin and Privacy][snowden-privacy] by Edward Snowden
 - [The Case for Electronic Cash][coincenter-privacy-pdf] by Jerry Brito
 - [We Must Protect our Ability to Transact Privately Online][coincenter-privacy] by Jerry Brito
+- [How Private is Bitcoin?][how-private-is-btc] by Eric Wall
 - [Bitcoin Wiki's Privacy Aritcle][wiki-privacy] written in large parts by Chris Belcher
 - [FAQ for Hodl Privacy][faq-hodl-privacy] by 6102bitcoin
 - [FAQ for Wasabi Wallet][faq-wasabi] by 6102bitcoin
