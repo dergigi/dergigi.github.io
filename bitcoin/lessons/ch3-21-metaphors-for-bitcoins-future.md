@@ -4,7 +4,7 @@ title: Lesson 21
 subtitle: Metaphors for Bitcoin's future
 quote: "I know something interesting is sure to happen..."
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/3-21.m4a 
+audio: /assets/audio/21lessons/3-21.m4a
 ---
 
 In the last couple of decades, it became apparent that technological
@@ -82,7 +82,9 @@ Bitcoin's first node went online in 2009 after Satoshi mined the
 [genesis block] and released the software into the wild. His node wasn't
 alone for long. Hal Finney was one of the first people to pick up on the
 idea and join the network. Ten years later, as of this writing, more
-than 10.000 nodes are [running bitcoin].
+than
+[75.000](https://luke.dashjr.org/programs/bitcoin/files/charts/software.html)
+nodes are [running bitcoin].
 
 The protocol's base layer isn't the only thing growing exponentially.
 The lightning network, a second layer technology, is growing at an even
