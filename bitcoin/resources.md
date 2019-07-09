@@ -342,6 +342,7 @@ The following resources discuss these possibilities, why the right to transact
 privately is essential, and why it has to be protected.
 
 - [We must protect our ability to transact privately online][coincenter-privacy] by Jerry Brito
+- [The Case for Electronic Cash][coincenter-privacy-pdf] by Jerry Brito
 - [Bitcoin and Privacy][snowden-privacy] by Edward Snowden
 
 #### Misc
