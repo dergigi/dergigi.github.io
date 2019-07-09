@@ -345,6 +345,9 @@ privately is essential, and why it has to be protected.
 - [The Case for Electronic Cash][coincenter-privacy-pdf] by Jerry Brito
 - [We must protect our ability to transact privately online][coincenter-privacy] by Jerry Brito
 - [Privacy - Bitcoin Wiki][wiki-privacy] - entry written in large parts by Chris Belcher
+- [FAQ for Hodl Privacy][faq-hodl-privacy] by 6102bitcoin
+- [FAQ for Wasabi Wallet][faq-wasabi] by 6102bitcoin
+- [FAQ for Samourai Wallet's Whirlpool][faq-wasabi] by 6102bitcoin
 
 #### Misc
 
