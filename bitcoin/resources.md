@@ -347,7 +347,7 @@ privately is essential, and why it has to be protected.
 - [Bitcoin Wiki's Privacy Aritcle][wiki-privacy] written in large parts by Chris Belcher
 - [FAQ for Hodl Privacy][faq-hodl-privacy] by 6102bitcoin
 - [FAQ for Wasabi Wallet][faq-wasabi] by 6102bitcoin
-- [FAQ for Samourai Wallet's Whirlpool][faq-wasabi] by 6102bitcoin
+- [FAQ for Samourai Wallet's Whirlpool][faq-whirlpool] by 6102bitcoin
 
 #### Misc
 
