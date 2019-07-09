@@ -334,6 +334,15 @@ essential.
 - [The Crypto Anarchist Manifesto][crypto-anarchist-manifesto] by Timothy C. May
 - [The Cyphernomicon][cyphernomicon] by Timothy C. May
 
+#### Privacy
+
+Without digital cash, a cashless society is a surveillance society. While
+privacy in Bitcoin is not a given, there are various ways to transact privately.
+The following resources discuss these possibilities, why the right to transact
+privately is essential, and why it has to be protected.
+
+- [We must protect our ability to transact privately online][coincenter-privacy] by Jerry Brito
+
 #### Misc
 
 The following are what I consider excellent articles that didn't fit into one

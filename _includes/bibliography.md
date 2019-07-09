@@ -85,6 +85,10 @@
 [crypto-anarchist-manifesto]: http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html
 [cyphernomicon]: https://ia600208.us.archive.org/10/items/cyphernomicon/cyphernomicon.txt
 
+<!-- Privacy -->
+[coincenter-privacy]: https://coincenter.org/entry/we-must-protect-our-ability-to-transact-privately-online
+
+
 <!-- Misc -->
 [bitcoin-halving]: https://thesaifhouse.wordpress.com/2016/07/09/the-bitcoin-halving-and-monetary-competition/
 [open-letter]: https://hackernoon.com/an-open-letter-to-banks-about-bitcoin-and-cryptocurrencies-b0c7ef9b7c62
