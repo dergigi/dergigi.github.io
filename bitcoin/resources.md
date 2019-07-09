@@ -342,6 +342,7 @@ The following resources discuss these possibilities, why the right to transact
 privately is essential, and why it has to be protected.
 
 - [Bitcoin and Privacy][snowden-privacy] by Edward Snowden
+- [Protect Your Privacy][bitcoin-privacy] by Bitcoin.org
 - [The Case for Electronic Cash][coincenter-privacy-pdf] by Jerry Brito
 - [We Must Protect our Ability to Transact Privately Online][coincenter-privacy] by Jerry Brito
 - [How Private is Bitcoin?][how-private-is-btc] by Eric Wall

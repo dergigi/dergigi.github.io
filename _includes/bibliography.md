@@ -87,6 +87,7 @@
 
 <!-- Privacy -->
 [snowden-privacy]: https://www.youtube.com/watch?v=UDydB3z-6Y0
+[bitcoin-privacy]: https://bitcoin.org/en/protect-your-privacy
 [coincenter-privacy-pdf]: https://coincenter.org/files/2019-02/the-case-for-electronic-cash-coin-center.pdf
 [coincenter-privacy]: https://coincenter.org/entry/we-must-protect-our-ability-to-transact-privately-online
 [how-private-is-btc]: https://medium.com/human-rights-foundation-hrf/privacy-and-cryptocurrency-part-i-how-private-is-bitcoin-e3a4071f8fff
