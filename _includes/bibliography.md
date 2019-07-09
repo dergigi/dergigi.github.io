@@ -86,9 +86,9 @@
 [cyphernomicon]: https://ia600208.us.archive.org/10/items/cyphernomicon/cyphernomicon.txt
 
 <!-- Privacy -->
-[coincenter-privacy]: https://coincenter.org/entry/we-must-protect-our-ability-to-transact-privately-online
-[coincenter-privacy-pdf]: https://coincenter.org/files/2019-02/the-case-for-electronic-cash-coin-center.pdf
 [snowden-privacy]: https://www.youtube.com/watch?v=UDydB3z-6Y0
+[coincenter-privacy-pdf]: https://coincenter.org/files/2019-02/the-case-for-electronic-cash-coin-center.pdf
+[coincenter-privacy]: https://coincenter.org/entry/we-must-protect-our-ability-to-transact-privately-online
 
 <!-- Misc -->
 [bitcoin-halving]: https://thesaifhouse.wordpress.com/2016/07/09/the-bitcoin-halving-and-monetary-competition/
