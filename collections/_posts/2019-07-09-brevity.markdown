@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Brevity"
+date: 2019-07-09
+description:
+image: /assets/images/brevity.jpg
+author: Gigi
+category: photography
+tags:
+  - Photography
+  - Travel
+---
+
+> "It is with words as with sunbeams. The more they are condensed, the deeper
+> they burn."
+> <cite>Robert Southey</cite>
