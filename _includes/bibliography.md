@@ -87,6 +87,8 @@
 
 <!-- Privacy -->
 [coincenter-privacy]: https://coincenter.org/entry/we-must-protect-our-ability-to-transact-privately-online
+[snowden-privacy]: https://www.youtube.com/watch?v=UDydB3z-6Y0
+
 
 
 <!-- Misc -->
