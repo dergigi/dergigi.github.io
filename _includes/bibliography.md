@@ -91,6 +91,7 @@
 [coincenter-privacy]: https://coincenter.org/entry/we-must-protect-our-ability-to-transact-privately-online
 [wiki-privacy]: https://en.bitcoin.it/wiki/Privacy
 [faq-hodl-privacy]: https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md
+[faq-wasabi]: https://github.com/6102bitcoin/FAQ/blob/master/wasabi.md
 
 <!-- Misc -->
 [bitcoin-halving]: https://thesaifhouse.wordpress.com/2016/07/09/the-bitcoin-halving-and-monetary-competition/
