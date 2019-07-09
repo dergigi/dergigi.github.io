@@ -89,6 +89,7 @@
 [snowden-privacy]: https://www.youtube.com/watch?v=UDydB3z-6Y0
 [coincenter-privacy-pdf]: https://coincenter.org/files/2019-02/the-case-for-electronic-cash-coin-center.pdf
 [coincenter-privacy]: https://coincenter.org/entry/we-must-protect-our-ability-to-transact-privately-online
+[wiki-privacy]: https://en.bitcoin.it/wiki/Privacy
 
 <!-- Misc -->
 [bitcoin-halving]: https://thesaifhouse.wordpress.com/2016/07/09/the-bitcoin-halving-and-monetary-competition/
