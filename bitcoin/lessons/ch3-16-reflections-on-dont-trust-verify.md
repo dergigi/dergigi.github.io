@@ -4,7 +4,7 @@ title: Lesson 16
 subtitle: Reflections on "Don't Trust, Verify"
 quote: "\"Now for the evidence,\" said the King, \"and then the sentence.\""
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/3-16.m4a 
+audio: /assets/audio/21lessons/3-16.m4a
 ---
 
 Bitcoin aims to replace, or at least provide an alternative to,
@@ -116,8 +116,8 @@ functionally declared package management leading to bit-for-bit
 reproducible builds by design. The result is that you don't have to
 trust any software-providing servers anymore since you can verify that
 the served binary was not tampered with by rebuilding it from scratch.
-As of this writing, a [pull-request] is in progress to integrate Guix
-into the Bitcoin build process.
+Recently, a [pull-request] was merged to integrate Guix into the Bitcoin build
+process.
 
 {% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="guix-bootstrap-dependencies.png" caption="Which came first, the chicken or the egg?" %}
 
