@@ -126,6 +126,8 @@ and ultimately, correct.
 Bitcoin is a living organism, and we should try to understand it as such
 if we want to live in harmony with it.
 
+### The Bitcoin Organism
+
 As mentioned above, Ralph Merkle was the first to point out that Bitcoin
 can be seen as a living entity. He remarked that Bitcoin has spawned an
 incredible amount of excitement in the technical community, and tried to
@@ -158,6 +160,8 @@ bound to die.
 Bitcoin, however, is a strange beast. It lives across domains, with one
 foot in the purely informational realm (ideas and code) and one foot in
 the physical realm (people and nodes).
+
+{% include image.html name="cyberspace-meatspace.png" %}
 
 The Bitcoin organism manifests itself through the interplay of ideas,
 code, people, and nodes. All four of these conceptual pieces react to
@@ -200,6 +204,8 @@ should be.
 With a basic idea of the constituents and the extent of the Bitcoin
 organism in mind, let's return to the descriptive definition of life
 above and see how Bitcoin maps onto each trait.
+
+{% include image.html name="alive-bitcoin.png" %}
 
 -   **Growth:** Bitcoin grows in multiple ways. The network grows, the
     value of each bitcoin grows, the market grows, its user base grows,
@@ -253,6 +259,7 @@ as a whole.
 > "Life is like fire, not water; it is a process, not a pure substance.
 > \[...\] The simplest, but not the only, proof of life is to find
 > something that is alive."
+> <cite>[Christopher McKay][mckay]</cite>
 
 In the words of astrobiologist Chris McKay, the simplest proof of life
 is to find something that is alive. I have found Bitcoin, and as far as
@@ -301,17 +308,19 @@ encouragement, and thank you for reading.
 
 <!-- External  -->
 [medium]: {{ page.source }}
+[randall]: https://www.youtube.com/watch?v=4r7wHMg5Yjg
 
 <!-- Further Reading -->
 [energy]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
 [gravity]: {% post_url /bitcoin/2019-05-01-bitcoins-gravity %}
 [merkle]: https://alcor.org/cryonics/Cryonics2016-4.pdf#page=28
-[mycelium]: http://medium.com/@BrandonQuittem/bitcoin-is-a-decentralized-organism-mycelium-part-1-3-6ec58cdcfaa6
-[planting-bitcoin]: http://medium.com/@danhedl/planting-bitcoin-56bd1459cb23
+[mckay]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC516796/
+[mycelium]: https://medium.com/@BrandonQuittem/bitcoin-is-a-decentralized-organism-mycelium-part-1-3-6ec58cdcfaa6
+[planting-bitcoin]: https://medium.com/@danhedl/planting-bitcoin-56bd1459cb23
 
 <!-- People -->
 [Raph]: https://twitter.com/maraphBTC
 [Jimmy Song]: https://twitter.com/jimmysong
 [Dan Held]: https://twitter.com/danheld
 [Brandon Quittem]: https://twitter.com/bquittem
-[Andreas M. Antonopoulos]: hhttps://twitter.com/aantonop
+[Andreas M. Antonopoulos]: https://twitter.com/aantonop
