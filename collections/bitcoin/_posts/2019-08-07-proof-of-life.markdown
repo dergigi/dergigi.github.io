@@ -5,7 +5,7 @@ subtitle: "Why Bitcoin is a Living Organism"
 date: 2019-08-07
 description: "Life is like fire, not water; it is a process, not a pure substance. The simplest, but not the only, proof of life is to find something that is alive."
 image: /assets/images/btc07-bitcoin-mitosis.jpg
-source: TODO
+source: https://medium.com/@dergigi/fa28fdc002fe
 author: Gigi
 category: bitcoin
 tags:
@@ -305,6 +305,7 @@ encouragement, and thank you for reading.
 [drop me a line]: {{ '/contact' | absolute_url }}
 [some sats]: {{ '/support' | absolute_url }}
 [absolute scarcity]: https://dergigi.com/bitcoin/lessons/ch1-02-the-scarcity-of-scarcity/
+<!-- TODO: Replace above link with 21lessons.com/2 as soon as it's ready -->
 
 <!-- External  -->
 [medium]: {{ page.source }}
