@@ -196,8 +196,8 @@ rejected --- just like biological organisms reject foreign objects
 inside their bodies.
 
 Part of this essence is made explicit by Bitcoin's consensus rules,
-other parts are repeated as mantras: "*not your keys, not your bitcoin*"
-and "*run your own node*" are gentle reminders of lessons learned, as
+other parts are repeated as mantras: *"not your keys, not your bitcoin"*
+and *"run your own node"* are gentle reminders of lessons learned, as
 well as shortcuts to a deeper understanding of what Bitcoin is and
 should be.
 
