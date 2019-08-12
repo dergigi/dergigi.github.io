@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Bibliography
 quote: "When I used to read fairy-tales, I fancied that sort of thing never happened, and now here I am in the middle of one!"
 categories: [bitcoin, todo]
