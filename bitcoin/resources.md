@@ -276,7 +276,7 @@ I wrote about how I changed my view on proof of work in [Bitcoin's Energy
 Consumption: A shift in perspective][energy-consumption] and in [Lesson 17][lesson-17].
 
 [energy-consumption]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
-[lesson-17]: {{ '/bitcoin/lessons/ch3-17-telling-time-takes-work' | absolute_url }}
+[lesson-17]: https://21lessons.com/17
 
 #### Bitcoin's Identity
 
@@ -294,7 +294,7 @@ network (Bitcoin), money (bitcoin), software (various implementations), an idea
 
 I explored Bitcoin's identity in [Lesson 4][lesson-4].
 
-[lesson-4]: {{ '/bitcoin/lessons/ch1-04-the-problem-of-identity' | absolute_url }}
+[lesson-4]: https://21lessons.com/4
 
 #### Who Controls Bitcoin?
 
@@ -312,7 +312,7 @@ I explore the question of control (and censorability) in [Lesson 6][lesson-6]
 and in [The Magic Dust of Cryptography][magic-dust].
 
 [magic-dust]: {% post_url /bitcoin/2018-08-17-the-magic-dust-of-cryptography %}  
-[lesson-6]: {{ '/bitcoin/lessons/ch1-06-the-power-of-free-speech' | absolute_url }}
+[lesson-6]: https://21lessons.com/6
 
 #### Bitcoin as a Living Organism
 

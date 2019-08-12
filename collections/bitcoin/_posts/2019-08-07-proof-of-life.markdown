@@ -304,7 +304,7 @@ encouragement, and thank you for reading.
 <!-- Internal -->
 [drop me a line]: {{ '/contact' | absolute_url }}
 [some sats]: {{ '/support' | absolute_url }}
-[absolute scarcity]: https://dergigi.com/bitcoin/lessons/ch1-02-the-scarcity-of-scarcity/
+[absolute scarcity]: https://21lessons.com/2
 <!-- TODO: Replace above link with 21lessons.com/2 as soon as it's ready -->
 
 <!-- External  -->
