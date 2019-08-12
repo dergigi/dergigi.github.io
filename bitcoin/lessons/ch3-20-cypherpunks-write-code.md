@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Lesson 20
 subtitle: Cypherpunks write code
 quote: "I see you're trying to invent something."

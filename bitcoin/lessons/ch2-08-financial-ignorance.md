@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Lesson 8
 subtitle: Financial ignorance
 quote: "And what an ignorant little girl she'll think me for asking! No, it'll never do to ask: perhaps I shall see it written up somewhere."

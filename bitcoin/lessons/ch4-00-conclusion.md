@@ -1,10 +1,10 @@
 ---
-layout: lesson
+layout: redirected
 title: Conclusion
 subtitle: Lessons Learned
 quote: "\"Begin at the beginning,\" the King said, very gravely, \"and go on till you come to the end: then stop.\""
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/4-00.m4a 
+audio: /assets/audio/21lessons/4-00.m4a
 ---
 
 As mentioned in the beginning, I think that any answer to the question *“What

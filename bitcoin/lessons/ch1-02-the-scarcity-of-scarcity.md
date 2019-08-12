@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Lesson 2
 subtitle: The scarcity of scarcity
 quote: "That's quite enough — I hope I sha'n't grow any more..."

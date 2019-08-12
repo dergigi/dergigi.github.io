@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Lesson 10
 subtitle: Value
 quote: "It was the white rabbit, trotting slowly back again, and looking anxiously about it as it went, as if it had lost something..."

@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Acknowledgments
 quote: "\"Thank you,\" said Alice"
 categories: [bitcoin, lesson]

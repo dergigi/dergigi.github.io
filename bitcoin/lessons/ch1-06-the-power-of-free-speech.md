@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Lesson 6
 subtitle: The power of free speech
 quote: "\"I beg your pardon?\" said the mouse, frowning, but very politely, \"did you speak?\""

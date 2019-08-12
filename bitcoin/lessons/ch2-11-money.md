@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Lesson 11
 subtitle: Money
 quote: "\"In my youth,\" said the sage, as he shook his gray locks,</br> \"I kept all my limbs very supple,</br> By the use of this ointment, five shillings the box—</br> Allow me to sell you a couple.\"</br>"

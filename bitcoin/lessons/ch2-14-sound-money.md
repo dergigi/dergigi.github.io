@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Lesson 14
 subtitle: Sound money
 quote: "\"The first thing I've got to do,\" said Alice to herself, as she wandered about in the wood, \"is to grow to my right size, and the second thing is to find my way into that lovely garden. I think that will be the best plan.\""

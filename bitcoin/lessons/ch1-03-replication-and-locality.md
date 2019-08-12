@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Lesson 3
 subtitle: Replication and locality
 quote: "Next came an angry voice—the rabbit's—\"Pat, Pat! where are you?\""

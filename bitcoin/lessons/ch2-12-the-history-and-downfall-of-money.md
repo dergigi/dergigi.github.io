@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Lesson 12
 subtitle: The history and downfall of money
 quote: "They would not remember the simple rules their friends had given them, such as, that, if you get into the fire, it will burn you, and that, if you cut your finger very deeply with a knife, it generally bleeds, and she had never forgotten that, if you drink a bottle marked \"poison,\" it is almost certain to disagree with you, sooner or later."

@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Lesson 21
 subtitle: Metaphors for Bitcoin's future
 quote: "I know something interesting is sure to happen..."

@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Lesson 4
 subtitle: The problem of identity
 quote: "\"Who are you?\" said the caterpillar."

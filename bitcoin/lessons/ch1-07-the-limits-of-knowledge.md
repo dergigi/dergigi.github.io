@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Lesson 7
 subtitle: The limits of knowledge
 quote: "Down, down, down. Would the fall never come to an end?"

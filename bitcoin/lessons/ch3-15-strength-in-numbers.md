@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Lesson 15
 subtitle: Strength in numbers
 quote: "Let me see: four times five is twelve, and four times six is thirteen, and four times seven is fourteen—oh dear! I shall never get to twenty at this rate!"

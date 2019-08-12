@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Readings and Commentary
 quote: "She waited for some time without hearing anything more: at last came a rumbling of little cart-wheels, and the sound of a good many voices all talking together"
 categories: [bitcoin, lesson]

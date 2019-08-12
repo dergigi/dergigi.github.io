@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Translations
 subtitle: بيتكوين
 quote: "These words were followed by a very long silence, broken only by an occasional exclamation of \"hjckrrh!\""

@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Chapter I
 subtitle: Philosophy
 quote: "The mouse looked at her rather inquisitively, and seemed to her to wink with one of its little eyes, but it said nothing."

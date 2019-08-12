@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Lesson 16
 subtitle: Reflections on "Don't Trust, Verify"
 quote: "\"Now for the evidence,\" said the King, \"and then the sentence.\""

@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: redirected
 title: Lesson 17
 subtitle: Telling time takes work
 quote: "\"Dear, dear! I shall be too late!\""
