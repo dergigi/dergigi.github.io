@@ -20,7 +20,7 @@
 //----------------------------------------------
 .post {
   ol,
-  ul:not(.post__social):not(.lesson__navigation) {
+  ul:not(.post__social) {
     margin: {
       bottom: 1.5rem;
       left: 1em;
@@ -73,41 +73,5 @@
     justify-content: space-between;
     display: flex;
     vertical-align: bottom;
-  }
-}
-
-//----------------------------------------------
-//  Lesson Navigation
-//----------------------------------------------
-.lesson {
-  &__navigation {
-    @extend %no-list-style;
-    @extend %no-margin-or-padding;
-    justify-content: space-between;
-    display: flex;
-    vertical-align: bottom;
-
-    margin: 3em 0;
-
-    img { // white rabbit
-      height: 1em;
-      margin-right: -1em;
-    }
-
-    li {
-      @extend %no-margin-or-padding;
-
-      &:first-child {
-        & a:before {
-          content: "← "
-        }
-      }
-      &:last-child {
-        align: right;
-        & a:after {
-          content: " →"
-        }
-      }
-    }
   }
 }
