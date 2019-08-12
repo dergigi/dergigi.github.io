@@ -4,7 +4,8 @@ title: Lesson 10
 subtitle: Value
 quote: "It was the white rabbit, trotting slowly back again, and looking anxiously about it as it went, as if it had lost something..."
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/2-10.m4a 
+audio: /assets/audio/21lessons/2-10.m4a
+redirect_to: https://21lessons.com/10
 ---
 
 Value is somewhat paradoxical, and there are [multiple theories] which

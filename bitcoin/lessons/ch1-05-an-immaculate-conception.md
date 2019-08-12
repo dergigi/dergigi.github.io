@@ -4,7 +4,8 @@ title: Lesson 5
 subtitle: An immaculate conception
 quote: "\"Their heads are gone,\" the soldiers shouted in reply..."
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/1-05.m4a 
+audio: /assets/audio/21lessons/1-05.m4a
+redirect_to: https://21lessons.com/5
 ---
 
 Everyone loves a good origin story. The origin story of Bitcoin is a

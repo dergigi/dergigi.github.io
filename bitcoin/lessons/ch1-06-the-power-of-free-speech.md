@@ -4,7 +4,8 @@ title: Lesson 6
 subtitle: The power of free speech
 quote: "\"I beg your pardon?\" said the mouse, frowning, but very politely, \"did you speak?\""
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/1-06.m4a 
+audio: /assets/audio/21lessons/1-06.m4a
+redirect_to: https://21lessons.com/6
 ---
 
 Bitcoin is an idea. An idea which, in its current form, is the

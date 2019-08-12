@@ -4,7 +4,8 @@ title: Lesson 1
 subtitle: Immutability and change
 quote: "I wonder if I've been changed in the night. Let me think. Was I the same when I got up this morning? I almost think I can remember feeling a little different. But if I'm not the same, the next question is 'Who in the world am I?' Ah, that's the great puzzle!"
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/1-01.m4a 
+audio: /assets/audio/21lessons/1-01.m4a
+redirect_to: https://21lessons.com/1
 ---
 
 Bitcoin is inherently hard to describe. It is a *new thing*, and any

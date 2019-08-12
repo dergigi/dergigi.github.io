@@ -3,6 +3,7 @@ layout: redirected
 title: Acknowledgments
 quote: "\"Thank you,\" said Alice"
 categories: [bitcoin, lesson]
+redirect_to: https://21lessons.com/acknowledgments
 ---
 
 Thanks to the countless authors and content producers who

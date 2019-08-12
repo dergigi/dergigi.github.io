@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: redirected
 title: 21 Lessons
 subtitle: What I've Learned from Falling Down the Bitcoin Rabbit Hole
 subtitle_link: http://21lessons.com
@@ -11,6 +11,7 @@ audio: /assets/audio/21lessons/21-lessons.m4a
 redirect_from:
   - /bitcoin/lessons/21-lessons/
   - lessons
+redirect_to: https://21lessons.com/
 ---
 
 {% include player.html file=page.audio %}

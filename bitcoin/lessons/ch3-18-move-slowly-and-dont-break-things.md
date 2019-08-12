@@ -4,7 +4,8 @@ title: Lesson 18
 subtitle: Move slowly and don't break things
 quote: "So the boat wound slowly along, beneath the bright summer-day, with its merry crew and its music of voices and laughter..."
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/3-18.m4a 
+audio: /assets/audio/21lessons/3-18.m4a
+redirect_to: https://21lessons.com/18
 ---
 
 It might be a dead mantra, but "move fast and break things" is still how

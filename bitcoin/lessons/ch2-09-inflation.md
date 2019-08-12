@@ -4,7 +4,8 @@ title: Lesson 9
 subtitle: Inflation
 quote: "My dear, here we must run as fast as we can, just to stay in place. And if you wish to go anywhere you must run twice as fast as that."
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/2-09.m4a 
+audio: /assets/audio/21lessons/2-09.m4a
+redirect_to: https://21lessons.com/9
 ---
 
 Trying to understand monetary inflation, and how a non-inflationary

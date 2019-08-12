@@ -4,7 +4,8 @@ title: Lesson 8
 subtitle: Financial ignorance
 quote: "And what an ignorant little girl she'll think me for asking! No, it'll never do to ask: perhaps I shall see it written up somewhere."
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/2-08.m4a 
+audio: /assets/audio/21lessons/2-08.m4a
+redirect_to: https://21lessons.com/8
 ---
 
 One of the most surprising things, to me, was the amount of finance,

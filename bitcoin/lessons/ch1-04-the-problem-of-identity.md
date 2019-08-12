@@ -4,7 +4,8 @@ title: Lesson 4
 subtitle: The problem of identity
 quote: "\"Who are you?\" said the caterpillar."
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/1-04.m4a 
+audio: /assets/audio/21lessons/1-04.m4a
+redirect_to: https://21lessons.com/4
 ---
 
 Nic Carter, in an homage to Thomas Nagel's treatment of the same

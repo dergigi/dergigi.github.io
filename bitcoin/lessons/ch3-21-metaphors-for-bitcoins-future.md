@@ -5,6 +5,7 @@ subtitle: Metaphors for Bitcoin's future
 quote: "I know something interesting is sure to happen..."
 categories: [bitcoin, lesson]
 audio: /assets/audio/21lessons/3-21.m4a
+redirect_to: https://21lessons.com/21
 ---
 
 In the last couple of decades, it became apparent that technological
