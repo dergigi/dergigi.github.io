@@ -9,6 +9,7 @@ Finding the time to read long articles and books can be challenging, which is
 why I love podcasts and recorded conversations of all kinds. If you do too,
 here are some conversations where I share my thoughts about [Bitcoin][bitcoin].
 
+  - **2019-08-11** - [DYKC #47][dykc47] on Bitcoin as a living organism, the political nature of an apolitical protocol, and more; hosted by Dustin
   - **2019-07-30** - [The Bitcoin Takeover S3E6][takeover] on viewing Bitcoin as a living organism, politics, Bitcoin as pure information, and many other topics, hosted by Vlad Costea (also on [youtube][takeover-youtube])
   - **2019-07-01** - [Fun with Crypto #30][fwc30] on Bitcoin as an exponential technology
   - **2019-06-28** - [This Week in Bitcoin][twib] with BTC Sessions and Steve Barbour, hosted by Adam Meister (also on [youtube][twib-youtube])
@@ -43,6 +44,7 @@ Want to talk? Feel free to [reach out to me][contact].
 [fwc30]: http://funwithcrypto.libsyn.com/interviewdiscussion-with-dergigi
 [takeover]: https://bitcoin-takeover.com/s3-e6-gigi-on-bitcoin-as-a-living-organism/
 [takeover-youtube]: https://www.youtube.com/watch?v=rtmW4oIFs-w
+[dykc47]: http://didyouknowcrypto.com/ep47/
 
 [contact]: {{ '/contact' | absolute_url }}
 [bitcoin]: {{ '/bitcoin' | absolute_url }}
