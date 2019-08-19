@@ -404,6 +404,7 @@ distinction. I enjoy or have enjoyed these podcasts as well:
 - [Fun With Crypto][fwc] by Coinicarus
 - [POV Crypto][pov] by David Hoffman and Christian Keroles
 - [Hidden Forces][hf] by Demetri Kofinas
+- [Did You Know Crypto][dykc] by Dustin D.
 - [Bottomshelf Bitcoin][bsb] by Josh Humphrey
 
 #### Selected Podcast Episodes
