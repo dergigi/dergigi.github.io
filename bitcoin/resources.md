@@ -248,6 +248,7 @@ Bitcoin is fair, and Bitcoin is way better than you think.
 - [Why Bitcoin is Different][why-different] by Jimmy Song
 - [Why Bitcoin Matters][why-matters] by Aleksandar Svetski
 - [Bitcoin is Worse is Better][worse-better] by Gwern
+- [Bitcoin Has No Intrinsic Value — and That’s Great][intrinsic-value] by Conner Brown
 - [Bitcoin’s distribution was fair][distribution-fair] by Dan Held
 - [There is no Bitcoin 2.0][no-bitcoin-2.0] by Pete Dushenski
 
