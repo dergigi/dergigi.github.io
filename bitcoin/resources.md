@@ -248,6 +248,7 @@ Bitcoin is fair, and Bitcoin is way better than you think.
 - [Why Bitcoin is Different][why-different] by Jimmy Song
 - [Why Bitcoin Matters][why-matters] by Aleksandar Svetski
 - [Bitcoin is Worse is Better][worse-better] by Gwern
+- [Bitcoin Has No Intrinsic Value — and That’s Great][intrinsic-value] by Conner Brown
 - [Bitcoin’s distribution was fair][distribution-fair] by Dan Held
 - [There is no Bitcoin 2.0][no-bitcoin-2.0] by Pete Dushenski
 
@@ -388,10 +389,10 @@ are excellent as well:
 - [The Cryptoconomy][cryptoconomy] by Guy Swann
 - [Bitcoin Echo Chamber][bec] by Heavily Armed Clown
 - [Citizen Bitcoin][cb] by Brady
+- [Bitcoin and...][ba] by David Bennet
 - [Crypto Voices][cv] by Matthew Mežinskis and Fernando Ulrich
 - [The Bitcoin Knowledge Podcast][bkp] by Trace Mayer
 - [Contrarian Island][ci] by MD
-- [Crypto & Grill][cag] by CryptoDantes and StigofthePump
 
 The line between the best and the rest is quite arbitrary, but I felt like one
 very long list might not be as useful as separate lists, however arbitrary the
@@ -399,10 +400,12 @@ distinction. I enjoy or have enjoyed these podcasts as well:
 
 - [Let's Talk Bitcoin][ltb] with Adam B. Levine, Andreas Antonopoulos, Stephanie Murphy, and Jonathan Mohan
 - [Unhashed Podcast][unhashed] with Ruben Somsen, Mario Gibney, Bryan Aulds, and Colin Aulds
+- [Crypto & Grill][cag] by CryptoDantes and StigofthePump
 - [Reckless Review][rr] by Udi Wertheimer and Lawrence Nahum
-- [Bitcoin and...][ba] by David Bennet
 - [Fun With Crypto][fwc] by Coinicarus
 - [POV Crypto][pov] by David Hoffman and Christian Keroles
+- [Hidden Forces][hf] by Demetri Kofinas
+- [Did You Know Crypto][dykc] by Dustin D.
 - [Bottomshelf Bitcoin][bsb] by Josh Humphrey
 
 #### Selected Podcast Episodes

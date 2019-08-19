@@ -23,6 +23,8 @@
 [fwc]: https://funwithcrypto.libsyn.com/
 [pov]: https://medium.com/pov-crypto
 [bsb]: https://bottomshelfbitcoin.com/
+[hf]: https://www.hiddenforces.io/podcasts
+[dykc]: https://didyouknowcrypto.com
 [ba]: https://twitter.com/bennd77
 
 <!-- Podcast Episodes -->
@@ -49,6 +51,7 @@
 [why-different]: https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947
 [why-matters]: https://hackernoon.com/why-bitcoin-matters-c8bf733b9fad
 [worse-better]: https://www.gwern.net/Bitcoin-is-Worse-is-Better
+[intrinsic-value]: https://medium.com/coinmonks/bitcoin-has-no-intrinsic-value-and-thats-great-e6994adbfe0f
 [distribution-fair]: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892
 [blockchain-spectrum]: https://blog.unchained-capital.com/blockchain-spectrum-806847e1c575
 [blockchain-is-hard]: https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c
