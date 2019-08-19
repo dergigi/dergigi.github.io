@@ -403,6 +403,7 @@ distinction. I enjoy or have enjoyed these podcasts as well:
 - [Reckless Review][rr] by Udi Wertheimer and Lawrence Nahum
 - [Fun With Crypto][fwc] by Coinicarus
 - [POV Crypto][pov] by David Hoffman and Christian Keroles
+- [Hidden Forces][hf] by Demetri Kofinas
 - [Bottomshelf Bitcoin][bsb] by Josh Humphrey
 
 #### Selected Podcast Episodes
