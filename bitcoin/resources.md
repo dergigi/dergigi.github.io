@@ -388,10 +388,10 @@ are excellent as well:
 - [The Cryptoconomy][cryptoconomy] by Guy Swann
 - [Bitcoin Echo Chamber][bec] by Heavily Armed Clown
 - [Citizen Bitcoin][cb] by Brady
+- [Bitcoin and...][ba] by David Bennet
 - [Crypto Voices][cv] by Matthew Mežinskis and Fernando Ulrich
 - [The Bitcoin Knowledge Podcast][bkp] by Trace Mayer
 - [Contrarian Island][ci] by MD
-- [Crypto & Grill][cag] by CryptoDantes and StigofthePump
 
 The line between the best and the rest is quite arbitrary, but I felt like one
 very long list might not be as useful as separate lists, however arbitrary the
@@ -399,8 +399,8 @@ distinction. I enjoy or have enjoyed these podcasts as well:
 
 - [Let's Talk Bitcoin][ltb] with Adam B. Levine, Andreas Antonopoulos, Stephanie Murphy, and Jonathan Mohan
 - [Unhashed Podcast][unhashed] with Ruben Somsen, Mario Gibney, Bryan Aulds, and Colin Aulds
+- [Crypto & Grill][cag] by CryptoDantes and StigofthePump
 - [Reckless Review][rr] by Udi Wertheimer and Lawrence Nahum
-- [Bitcoin and...][ba] by David Bennet
 - [Fun With Crypto][fwc] by Coinicarus
 - [POV Crypto][pov] by David Hoffman and Christian Keroles
 - [Bottomshelf Bitcoin][bsb] by Josh Humphrey
