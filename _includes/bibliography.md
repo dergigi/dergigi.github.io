@@ -23,7 +23,6 @@
 [fwc]: https://funwithcrypto.libsyn.com/
 [pov]: https://medium.com/pov-crypto
 [bsb]: https://bottomshelfbitcoin.com/
-[hf]: https://www.hiddenforces.io/podcasts
 [dykc]: https://didyouknowcrypto.com
 [ba]: https://twitter.com/bennd77
 
