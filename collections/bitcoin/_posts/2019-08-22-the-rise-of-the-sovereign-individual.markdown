@@ -182,7 +182,7 @@ It is our collective responsibility to build a better future. A future
 where the freedom to transact, the freedom to remain private, and the
 freedom to save your wealth over time are guaranteed. In the words of
 the United Nations: [the same rights and freedoms people have offline
-must also be protected online].
+must also be protected online][article19].
 
 We want to help build a world which enables sovereign individuals to
 strive. A world where every individual --- and every company, for that
@@ -220,6 +220,8 @@ We encourage you to not give in to tyranny. We, and many people like us,
 will do our best to build towards a better future. Stay safe out there,
 and don't forget to buy bitcoin.
 
+{% include image.html name="yellow-vests-buy-bitcoin.jpg" %}
+
 ---
 
 This article first appeared on [Bull Bitcoin]'s [Medium publication].
@@ -231,23 +233,23 @@ This article first appeared on [Bull Bitcoin]'s [Medium publication].
 - [Crypto Quik Read 292][cqr292] by Guy Swann
 - [The FOMO Show, Episode 52][fomo52] - starting at 44:12
 
+<!-- Audio -->
 [cqr292]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_292---Rise-of-the-Sovereign-Individual-e58uoj
 [fomo52]: https://fomo.show/podcast/episode-52/
 
+<!-- Bull Bitcoin Links -->
 [Bull Bitcoin]: https://bullbitcoin.com/
 [Medium publication]: https://medium.com/bull-bitcoin
 
+<!-- Links -->
 [math-problem]: https://www.today.com/news/cypherpunks-julian-assange-future-internet-wbna49543113
-[Bull Bitcoin uses Wasabi's CoinJoin by default]: http://fakehost/bull-bitcoin/bull-bitcoin-protecting-against-financial-censorship-and-reclaiming-customers-privacy-one-5630e1f47922
+[Bull Bitcoin uses Wasabi's CoinJoin by default]: https://medium.com/bull-bitcoin/bull-bitcoin-protecting-against-financial-censorship-and-reclaiming-customers-privacy-one-5630e1f47922
 [maryhui]: https://twitter.com/maryhui/status/1138675837165641733
 [going digitally dark]: https://www.rappler.com/world/regions/asia-pacific/233012-surveillance-savvy-hong-kong-protesters-go-digitally-dark
 [Rachel Cheung]: https://twitter.com/rachel_cheung1/status/1161921311171440640
-
 [article19]: https://www.article19.org/resources/article-19-at-the-unhrc-the-same-rights-that-people-have-offline-must-also-be-protected-online/
 [cyphernode]: https://github.com/SatoshiPortal/cyphernode
-
 [literally solve every problem of the world]: https://twitter.com/pierre_rochard/status/1154737205547610113
-[1]: https://miro.medium.com/max/60/1*RfvYKUPMu6oJBgICu72a8Q.jpeg?q=20
 
 [Matt Odell]: https://twitter.com/matt_odell/status/1158435530360721409
 [Alex Gladstein]: https://bitcoinmagazine.com/articles/op-ed-as-cash-fades-will-bitcoin-keep-protest-alive-in-the-surveillance-age
