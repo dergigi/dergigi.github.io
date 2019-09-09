@@ -79,7 +79,7 @@ power corrupts absolutely, as the saying goes.
 > "Decentralized and private payments are a necessary innovation for a
 > digital future where we retain our civil liberties and personal
 > freedoms."
-> <cite>Alex Gladstein</cite>
+> <cite>[Alex Gladstein]</cite>
 
 Strong cryptography allows us to reclaim our right to private
 conversations in the digital age, thanks to end-to-end encryption. The
@@ -155,7 +155,7 @@ trillion is the new normal. The broken financial system, with its
 negative interest rates and "modern" monetary policies, are, in part,
 responsible for the rise of sovereign individuals all over the world.
 
-![Source: [Rachel Cheung]]
+{% include image.html name="cash-withdrawals-atm.jpg" caption="Source: Rachel Cheung" %}
 
 People begin to realize the stupidity of this game. Putting pressure on
 this broken system by making a run on banks is one form of peaceful
@@ -164,7 +164,7 @@ not be confiscated, and can not be subject to the whim of politicians
 and bankers is another one.
 
 > "Sats are my safe haven."
-> <cite>Matt Odell</cite>
+> <cite>[Matt Odell]</cite>
 
 Bitcoin is quickly becoming a safe haven asset, especially for people
 who don't have easy access to more "stable" currencies than their own.
@@ -191,7 +191,7 @@ without asking anyone for permission. This is one of the reasons why we
 have released [cyphernode], a suite of software and utilities to operate
 enterprise-grade Bitcoin services, as free software.
 
-![[Cyphernode] --- free as in freedom.]
+{% include image.html name="cyphernode-bull-bitcoin.png" caption="Cyphernode - free as in freedom." %}
 
 While it is debatable whether Bitcoin can [literally solve every problem
 of the world], it is undoubtedly a big piece of the puzzle. Technologies
@@ -220,18 +220,34 @@ We encourage you to not give in to tyranny. We, and many people like us,
 will do our best to build towards a better future. Stay safe out there,
 and don't forget to buy bitcoin.
 
+---
+
+This article first appeared on [Bull Bitcoin]'s [Medium publication].
+
+---
+
+### Audio Versions
+
+- [Crypto Quik Read 292][cqr292] by Guy Swann
+- [The FOMO Show, Episode 52][fomo52] - starting at 44:12
+
+[cqr292]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_292---Rise-of-the-Sovereign-Individual-e58uoj
+[fomo52]: https://fomo.show/podcast/episode-52/
+
+[Bull Bitcoin]: https://bullbitcoin.com/
+[Medium publication]: https://medium.com/bull-bitcoin
+
 [math-problem]: https://www.today.com/news/cypherpunks-julian-assange-future-internet-wbna49543113
 [Bull Bitcoin uses Wasabi's CoinJoin by default]: http://fakehost/bull-bitcoin/bull-bitcoin-protecting-against-financial-censorship-and-reclaiming-customers-privacy-one-5630e1f47922
 [maryhui]: https://twitter.com/maryhui/status/1138675837165641733
-[Source: [Mary Hui]]: https://miro.medium.com/max/60/1*oZQqJiP_8Ty5X9wwvuOBkg.png?q=20
-
 [going digitally dark]: https://www.rappler.com/world/regions/asia-pacific/233012-surveillance-savvy-hong-kong-protesters-go-digitally-dark
 [Rachel Cheung]: https://twitter.com/rachel_cheung1/status/1161921311171440640
-[Source: [Rachel Cheung]]: https://miro.medium.com/max/60/1*3nlu_Qxy2wYbj6yA8cHPiA.jpeg?q=20
 
 [article19]: https://www.article19.org/resources/article-19-at-the-unhrc-the-same-rights-that-people-have-offline-must-also-be-protected-online/
 [cyphernode]: https://github.com/SatoshiPortal/cyphernode
-[[Cyphernode] --- free as in freedom.]: https://miro.medium.com/max/60/1*z-J7Q79JZaL-Wkn-UJ1etg.png?q=20
 
 [literally solve every problem of the world]: https://twitter.com/pierre_rochard/status/1154737205547610113
 [1]: https://miro.medium.com/max/60/1*RfvYKUPMu6oJBgICu72a8Q.jpeg?q=20
+
+[Matt Odell]: https://twitter.com/matt_odell/status/1158435530360721409
+[Alex Gladstein]: https://bitcoinmagazine.com/articles/op-ed-as-cash-fades-will-bitcoin-keep-protest-alive-in-the-surveillance-age
