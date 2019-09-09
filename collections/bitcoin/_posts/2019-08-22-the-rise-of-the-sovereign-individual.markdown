@@ -1,21 +1,17 @@
-
-
-
-
-
-
-How power is re-aligning itself in an internet-native world
------------------------------------------------------------
-
-
-
-
-
-[![Gigi]]
-
-
-
-
+---
+layout: post
+title: "The Rise of the Sovereign Individual"
+subtitle: "How power is re-aligning itself in an internet-native world"
+date: 2019-08-22
+description: "Decentralized and private payments are a necessary innovation for a digital future where we retain our civil liberties and personal freedoms."
+image: /assets/images/btc08-rise.jpg
+source: https://medium.com/bull-bitcoin/the-rise-of-the-sovereign-individual-2201eee82f00
+author: Gigi
+category: bitcoin
+tags:
+ - Bitcoin
+ - Writing
+---
 
 Not too long ago, the internet was a fringe phenomenon. Very few people
 saw the benefits of a global communications network. Even fewer people
@@ -41,9 +37,9 @@ What the cypherpunks understood 30 years ago is starting to play out
 right before our eyes: the tools of our information age have the
 potential to empower individuals like never before.
 
+TODO: insert video
 
-
-
+### The Freedom to Transact
 
 As I am writing these lines, hundreds of thousands of people are
 marching in the streets of Hong Kong, protesting against an extradition
@@ -58,12 +54,12 @@ government doesn't like your opinion or the fact that you were part of a
 (peaceful) protest, a simple truth becomes apparent: your freedom of
 assembly was an illusion, as was your freedom to transact freely.
 
-In a free society, these freedoms should be guaranteed. How? Well, as we
-have seen in the past, information technology and strong cryptography
---- if used carefully --- *guarantee* the right to speak freely. After
-all, [no amount of violence will ever solve a math problem]. In the same
-vein, an information technology exists today which *guarantees* the
-right to transact freely: Bitcoin.
+In a free society, these freedoms should be guaranteed. How? Well, as we have
+seen in the past, information technology and strong cryptography --- if used
+carefully --- *guarantee* the right to speak freely. After all, [no amount of
+violence will ever solve a math problem][math-problem]. In the same vein, an
+information technology exists today which *guarantees* the right to transact
+freely: Bitcoin.
 
 It is easy to forget that "permissionless" and "censorship-resistant"
 are more than mere buzzwords. Under difficult circumstances, these words
@@ -83,12 +79,15 @@ power corrupts absolutely, as the saying goes.
 > "Decentralized and private payments are a necessary innovation for a
 > digital future where we retain our civil liberties and personal
 > freedoms."
+> <cite>Alex Gladstein</cite>
 
 Strong cryptography allows us to reclaim our right to private
 conversations in the digital age, thanks to end-to-end encryption. The
 same cryptography allows us to reclaim our right to transact freely in a
 digital world, thanks to digital signatures, cryptographic hashes, and
 the global machine of truth and freedom which is Bitcoin.
+
+### The Freedom to Remain Private
 
 In today's digital world --- as Hong Kong protesters know --- finding
 out who went to which protest is as easy as retrieving data from a
@@ -107,10 +106,10 @@ continued efforts being made to make every bitcoin transaction even more
 private than they are now (which is one of the reasons why [Bull Bitcoin
 uses Wasabi's CoinJoin by default]).
 
-As is evidenced by the long lines at Hong Kong's train ticketing
+As is [evidenced][maryhui] by the long lines at Hong Kong's train ticketing
 machines, surveillance renders all other freedoms useless.
 
-![Source: [Mary Hui]]
+{% include image.html name="cash-payments-bus-train.jpg" caption="Source: Mary Hui" %}
 
 The current situation in Hong Kong paints a vivid picture of the
 disastrous side-effects of a cashless society. Without a way to transact
@@ -123,6 +122,8 @@ which controls the most important good of our society --- money itself
 --- is playing god with our shared macroeconomic reality. In the last
 couple of decades, a concerted effort was made to attack another
 financial freedom: the freedom to save.
+
+### The Freedom to Save
 
 Even without people marching in the streets, it is apparent to most that
 these are chaotic times. Currencies are not holding their value. A
@@ -163,12 +164,15 @@ not be confiscated, and can not be subject to the whim of politicians
 and bankers is another one.
 
 > "Sats are my safe haven."
+> <cite>Matt Odell</cite>
 
 Bitcoin is quickly becoming a safe haven asset, especially for people
 who don't have easy access to more "stable" currencies than their own.
 On a long enough time scale, bitcoin offers stability in a world of
 global instability. It *guarantees* the right to save: nobody will be
 able to take away your sats --- you must give them away willingly.
+
+### Building towards a Sovereign Future
 
 People are fed up with the tyranny of the banks, the tyranny of the
 state, the tyranny of Facebook, WeChat, Sina Weibo, and everything else
@@ -216,30 +220,18 @@ We encourage you to not give in to tyranny. We, and many people like us,
 will do our best to build towards a better future. Stay safe out there,
 and don't forget to buy bitcoin.
 
-![][1]
+[math-problem]: https://www.today.com/news/cypherpunks-julian-assange-future-internet-wbna49543113
+[Bull Bitcoin uses Wasabi's CoinJoin by default]: http://fakehost/bull-bitcoin/bull-bitcoin-protecting-against-financial-censorship-and-reclaiming-customers-privacy-one-5630e1f47922
+[maryhui]: https://twitter.com/maryhui/status/1138675837165641733
+[Source: [Mary Hui]]: https://miro.medium.com/max/60/1*oZQqJiP_8Ty5X9wwvuOBkg.png?q=20
 
+[going digitally dark]: https://www.rappler.com/world/regions/asia-pacific/233012-surveillance-savvy-hong-kong-protesters-go-digitally-dark
+[Rachel Cheung]: https://twitter.com/rachel_cheung1/status/1161921311171440640
+[Source: [Rachel Cheung]]: https://miro.medium.com/max/60/1*3nlu_Qxy2wYbj6yA8cHPiA.jpeg?q=20
 
+[article19]: https://www.article19.org/resources/article-19-at-the-unhrc-the-same-rights-that-people-have-offline-must-also-be-protected-online/
+[cyphernode]: https://github.com/SatoshiPortal/cyphernode
+[[Cyphernode] --- free as in freedom.]: https://miro.medium.com/max/60/1*z-J7Q79JZaL-Wkn-UJ1etg.png?q=20
 
-
-
-
-
-  [Gigi]: https://miro.medium.com/fit/c/96/96/1*yerG1L9BlJqTdPaLt4FlIQ.jpeg
-
-  [![Gigi]]: http://fakehost/@dergigi?source=post_page-----2201eee82f00----------------------
-  [no amount of violence will ever solve a math problem]: https://www.today.com/news/cypherpunks-julian-assange-future-internet-wbna49543113
-  [Bull Bitcoin uses Wasabi's CoinJoin by default]: http://fakehost/bull-bitcoin/bull-bitcoin-protecting-against-financial-censorship-and-reclaiming-customers-privacy-one-5630e1f47922
-  [Mary Hui]: https://twitter.com/maryhui/status/1138675837165641733
-  [Source: [Mary Hui]]: https://miro.medium.com/max/60/1*oZQqJiP_8Ty5X9wwvuOBkg.png?q=20
-
-  [going digitally dark]: https://www.rappler.com/world/regions/asia-pacific/233012-surveillance-savvy-hong-kong-protesters-go-digitally-dark
-  [Rachel Cheung]: https://twitter.com/rachel_cheung1/status/1161921311171440640
-  [Source: [Rachel Cheung]]: https://miro.medium.com/max/60/1*3nlu_Qxy2wYbj6yA8cHPiA.jpeg?q=20
-
-  [the same rights and freedoms people have offline must also be
-  protected online]: https://www.article19.org/resources/article-19-at-the-unhrc-the-same-rights-that-people-have-offline-must-also-be-protected-online/
-  [cyphernode]: https://github.com/SatoshiPortal/cyphernode
-  [[Cyphernode] --- free as in freedom.]: https://miro.medium.com/max/60/1*z-J7Q79JZaL-Wkn-UJ1etg.png?q=20
-
-  [literally solve every problem of the world]: https://twitter.com/pierre_rochard/status/1154737205547610113
-  [1]: https://miro.medium.com/max/60/1*RfvYKUPMu6oJBgICu72a8Q.jpeg?q=20
+[literally solve every problem of the world]: https://twitter.com/pierre_rochard/status/1154737205547610113
+[1]: https://miro.medium.com/max/60/1*RfvYKUPMu6oJBgICu72a8Q.jpeg?q=20
