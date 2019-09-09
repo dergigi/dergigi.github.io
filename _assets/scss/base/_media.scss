@@ -20,6 +20,10 @@ audio {
   height: auto;
 }
 
+iframe, video {
+  min-height: 480px;
+}
+
 figure {
   margin: 0;
 }
