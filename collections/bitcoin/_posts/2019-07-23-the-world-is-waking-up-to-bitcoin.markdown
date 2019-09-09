@@ -110,7 +110,7 @@ Just in case you missed the important bit:
 > traditional sense?" "Things like that are possible. But we really haven't seen
 > them. We haven't seen widespread adoption. I mean, Bitcoin is a good example.
 > Really almost no one uses Bitcoin for payments. They use it more as an
-> alternative to gold, really. **It's a store of value.** It's a speculative
+> alternative to gold, really. It's a store of value. It's a speculative
 > store of value, like gold."
 > <cite>[Jerome H. Powell][Powell]</cite>
 
@@ -157,8 +157,6 @@ If you would've told me 6 months ago that a Bitcoin-woke news anchor
 would interview a Bitcoin-woke politician on CNBC, I would have laughed
 you out of the room. Yet, here we are, live on TV, with blue shirts and
 colorful ties and all.
-
----
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xolYGw2wU6Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -222,6 +220,14 @@ The world is waking up to Bitcoin, and I'm more bullish than I've ever
 been.
 
 {% include image.html name="bsg.jpg" %}
+
+---
+
+This article first appeared on [Bull Bitcoin]'s [Medium publication].
+
+
+[Bull Bitcoin]: https://bullbitcoin.com/
+[Medium publication]: https://medium.com/bull-bitcoin
 
 [Powell]: https://www.youtube.com/watch?v=iSRfoBp_Fq0
 [Shillman]: https://www.youtube.com/watch?v=Cnz2oo8MRas
