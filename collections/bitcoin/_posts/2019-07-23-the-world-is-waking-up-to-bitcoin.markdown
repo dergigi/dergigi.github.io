@@ -94,7 +94,7 @@ One person which seems to have caught a mild case of the orange fever is
 Joe Squawk, which brought us this insanely bullish segment as a reaction
 to the Trump tweet.
 
-{% include image.html name="twitter-squawk.png" link="https://twitter.com/SquawkCNBC/status/1149629984157261825" caption='"If you gave me 10-15 minutes with Trump I think I could make the case." "You could sway him on cryptocurrencies?" "On Bitcoin."' %}
+{% include image.html name="twitter-squawk.png" link="https://twitter.com/SquawkCNBC/status/1149629984157261825" caption='"You could sway him on cryptocurrencies?" "On Bitcoin."' %}
 
 As mentioned above, the U.S. president wasn't the only one commenting on
 Bitcoin recently. The Chair of the Federal Reserve tried his best to
