@@ -12,7 +12,15 @@
           {% if post.subtitle %}
             - {{ post.subtitle }}
           {% endif %}
-        </strong> — <span itemprop="description">{{ post.content | strip_html | truncatewords: 35, "" }}</span></h2>
+          </strong>
+          —
+          <span itemprop="description">
+          {% if post.title == "How to Kill Bitcoin" %}
+            {{ post.description | truncatewords: 35, "" }}
+          {% else %}
+            {{ post.content | strip_html | truncatewords: 35, "" }}
+          {% endif %}
+          </span></h2>
     </div>
   </a>
 </article>
