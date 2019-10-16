@@ -9,6 +9,7 @@ Finding the time to read long articles and books can be challenging, which is
 why I love podcasts and recorded conversations of all kinds. If you do too,
 here are some conversations where I share my thoughts about [Bitcoin][bitcoin].
 
+  - **2019-10-13** - [Bitcoin Echo Chamber #31][bec31] on Bitcoin as a Religion and other cosmic thoughts, hosted by Collin
   - **2019-10-11** - [Citizen Bitcoin #54][cb54] on the Circularity of the Bitcoin Rabbit Hole, hosted by Brady  
   - **2019-09-04** - [Rapid Fire #6][rf6-discussion] on Narratives, Bitcoin Monks, Bitcoin Zen, and much more, hosted by John Vallis ([discussion][rf6-discussion], [rapid fire][rf6-fire])
   - **2019-08-22** - [CryptoChat #20][cryptochat20] on the Bitcoin Organism with Brandon Quittem, hosted by Guy Swann
@@ -16,7 +17,7 @@ here are some conversations where I share my thoughts about [Bitcoin][bitcoin].
   - **2019-07-30** - [The Bitcoin Takeover S3E6][takeover] on viewing Bitcoin as a living organism, politics, Bitcoin as pure information, and many other topics, hosted by Vlad Costea (also on [youtube][takeover-youtube])
   - **2019-07-01** - [Fun with Crypto #30][fwc30] on Bitcoin as an exponential technology
   - **2019-06-28** - [This Week in Bitcoin][twib] with BTC Sessions and Steve Barbour, hosted by Adam Meister (also on [youtube][twib-youtube])
-  - **2019-06-24** - [Bitcoin Echo Chamber #22][bec22] on the BTC paradigm shift
+  - **2019-06-24** - [Bitcoin Echo Chamber #22][bec22] on the BTC paradigm shift, hosted by Collin
   - **2019-06-23** - [Discussion on privacy][keyvan-privacy] with Matt Odell and Aleksandar Svetski, hosted by Keyvan Davani (also on [youtube][keyvan-privacy-yt])
   - **2019-06-21** - [Bitcoin im Turm #10][turm10] on Technology, Chapter 3
   - **2019-06-21** - [Bitcoin im Turm #9][turm9] on Economics, Chapter 2
@@ -52,6 +53,7 @@ Want to talk? Feel free to [reach out to me][contact].
 [rf6-discussion]: https://anchor.fm/john-vallis/episodes/Further-Discussion-Gigi-e57fdh
 [rf6-fire]: https://anchor.fm/john-vallis/episodes/Gigi-Down-the-Bitcoin-Rabbit-Hole-e57f8j
 [cb54]: https://citizenbitcoin.world/episodes/gigi-rabbit-hole-revelations
+[bec31]: https://bitcoinechochamber.com/2019/10/13/bitcoin-lives-with-gigi-bec031/
 
 [contact]: {{ '/contact' | absolute_url }}
 [bitcoin]: {{ '/bitcoin' | absolute_url }}
