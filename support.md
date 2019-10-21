@@ -66,9 +66,3 @@ about the future. I hope you are as well.
 
 Sincerely, \\
 Gigi
-
-
-{% include image.html path="/assets/images/bitcoin/btc.png" %}
-
-    P2SH: 3DZMDzWaG6M3LPwjeU9S8P4KrzzZYZqDX1
-    bech32: bc1qlc3zqftr2jsxv78lwg6wmugnkrld5sycspj8ys
