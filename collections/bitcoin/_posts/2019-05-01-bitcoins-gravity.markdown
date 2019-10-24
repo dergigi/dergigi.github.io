@@ -9,6 +9,7 @@ source: https://medium.com/@dergigi/bitcoins-gravity-e1674ad9f8e4
 redirect_from: /bitcoin/2019-05-01-bitcoins-gravity
 author: Gigi
 category: bitcoin
+audio: /assets/audio/gravity.mp3
 tags:
  - Bitcoin
  - Writing

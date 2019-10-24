@@ -9,6 +9,7 @@ source: https://medium.com/@dergigi/the-magic-dust-of-cryptography-c8ecd79ae13a
 redirect_from: /bitcoin/2018-08-17-the-magic-dust-of-cryptography
 author: Gigi
 category: bitcoin
+audio: /assets/audio/magic-dust.mp3
 tags:
  - Bitcoin
  - Writing
