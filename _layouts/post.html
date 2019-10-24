@@ -30,6 +30,11 @@ layout: default
       <div class="grid">
         <div id="markdown" itemprop="articleBody" class="{{ page.numbering_style }}">
           <img src="{{ page.image }}" style="display: none" itemprop="image"/>
+          {% if page.audio %}
+            {% capture absoluteURL %}{{ page.audio | absolute_url }}{% endcapture %}
+            {% include player.html file=absoluteURL %}
+            <hr/>
+          {% endif %}
           {{content}}
         </div>
       </div>
