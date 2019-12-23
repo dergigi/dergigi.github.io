@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "How Bitcoin Thrives on the Edge between Order and Chaos"
+title: "Bitcoin's Eternal Struggle"
+subtitle: "How Bitcoin Thrives on the Edge between Order and Chaos"
 date: 2019-12-22
 image: /assets/images/btc11-eternal-struggle.jpg
 source: https://medium.com/the-bitcoin-times/bitcoins-eternal-struggle-2c197f1bafd8
@@ -13,7 +14,7 @@ tags:
 
 Bitcoin works. No matter what other opinions you hold about this strange
 phenomenon, it undoubtedly works, marches on, or, as I (and others) have
-[previously argued](proof-of-life), is alive. Even if most of the world would
+[previously argued][proof-of-life], is alive. Even if most of the world would
 grind to a halt, the Bitcoin network would continue to produce valid blocks
 every 10 minutes or so.
 
@@ -41,18 +42,17 @@ struggle for survival.
 
 Let's dive in.
 
-------------------------------------------------------------------------
+---
 
-In computing, entropy can be used to measure the randomness of a data
-source. In cryptography in general, and in Bitcoin in particular, a good
-source of entropy is essential to keep you secure. Mess up the entropy
-of your private key (aka your seed phrase) and *your* bitcoins will be
-*my* bitcoins soon.
+In computing, entropy can be used to measure the randomness of a data source. In
+cryptography in general, and in Bitcoin in particular, a good source of entropy
+is essential to keep you secure. Mess up the entropy of your private key (aka
+your seed phrase) and *your* bitcoins will be *my* bitcoins soon.
 
-> Note: the technical term for this unwanted transfer of coins is rekt.
-> You don't need to know what "getting rekt" means in detail, or the
-> many ways in which you can get rekt; it is enough to know that you
-> should avoid such a situation at all costs.
+*Note: the technical term for this unwanted transfer of coins is rekt. You
+don't need to know what "getting rekt" means in detail, or the many ways in
+which you can get rekt; it is enough to know that you should avoid such a
+situation at all costs.*
 
 Entropy is quite a complicated concept, but in general terms, it
 describes how *random* or how *compressible* something is.
@@ -60,25 +60,22 @@ describes how *random* or how *compressible* something is.
 -   **High entropy:** randomness.
 -   **Low entropy:** orderliness.
 
-Or, in other words, with a nod to [Tsachy
-Weissman](https://en.wikipedia.org/wiki/Tsachy_Weissman):
+Or, in other words, with a nod to [Tsachy Weissman][tsachy-weissman]:
 
 -   **High entropy:** not very compressible.
 -   **Low entropy:** very compressible.
 
-There are complicated formulas and quite a few disambiguous definitions
-of entropy. The concept finds applications in classical thermodynamics,
-statistical thermodynamics, quantum statistical physics, order and
-disorder, life, astrophysics, and more. It is also a measure of
-irreversibility.
+There are complicated formulas and quite a few disambiguous definitions of
+entropy. The concept finds applications in classical thermodynamics, statistical
+thermodynamics, quantum statistical physics, order and disorder, life,
+astrophysics, and more. It is also a measure of irreversibility.
 
-In Bitcoin, reversibility and irreversibility are probabilistic. If
-enough people with enough hash power collude transactions could be
-reversed. Absolute irreversibility does not exist in Bitcoin. Final
-settlement is never final, but always probabilistic. Yes, the chances of
-reversal might be beyond astronomical, but nevertheless, final
-settlement does not and should not exist in Bitcoin. Nakamoto consensus
-forbids it.
+In Bitcoin, reversibility and irreversibility are probabilistic. If enough
+people with enough hash power collude transactions could be reversed. Absolute
+irreversibility does not exist in Bitcoin. Final settlement is never final, but
+always probabilistic. Yes, the chances of reversal might be beyond astronomical,
+but nevertheless, final settlement does not and should not exist in Bitcoin.
+Nakamoto consensus forbids it.
 
 > "The first law of thermodynamics, also known as the law of
 > Conservation of Energy, states that energy cannot be created or
@@ -107,9 +104,7 @@ Details aside, we will try to keep it simple here. In general, if you
 have two coins, the entropy of this system is **two**. As in: you can
 describe the whole system with two bits: 00, 01, 10, 11.
 
-![2 bits of
-entropy](https://miro.medium.com/max/60/1*UsJzPK-jMf27_l0U6CK1Pg.jpeg?q=20){width="1420"
-height="837"}
+{% include image.html name="entropy-flip-2-coins.jpg" caption="2 bits of entropy" %}
 
 Flip both coins at the same time, and you will end up with either
 tail-tail, tail-heads, heads-tail, or tail-tail. If you are a fair coin
@@ -126,9 +121,7 @@ a potential eavesdropper does not.
 A good secret is like a good password: randomly generated, i.e. coming
 from a data source that has a high degree of entropy.
 
-![Random noise. How much information is contained in this
-image?](https://miro.medium.com/max/60/1*vDmoc-eV9Uvbo7udpvYd6w.jpeg?q=20){width="400"
-height="50"}
+{% include image.html name="random-noise.jpg" caption="Random noise. How much information is contained in this image?" %}
 
 If something is "perfectly" encrypted, an eavesdropper can not
 distinguish what was said from random data. This is the purpose of
@@ -202,9 +195,7 @@ computational problems* is big. Mind-bogglingly big.
 
 Alright. Back to our original question: *What is information*, anyway?
 
-![Sorted colors. How much information is contained in this
-image?](https://miro.medium.com/max/60/1*FAcol7xbIziimi2yLdBjTQ.jpeg?q=20){width="400"
-height="50"}
+{% include image.html name="sorted-colors.jpg" caption="Sorted colors. How much information is contained in this image?" %}
 
 Information relates to both *knowledge* and *meaning*. It is the
 opposite of not knowing, and the opposite of information in data is
@@ -255,9 +246,7 @@ you already did when mining a new block, is usually kept private as
 well. You don't want your competitors to know which numbers produce
 invalid blocks and can be skipped.
 
-![Chaos on the left, Order on the
-right.](https://miro.medium.com/max/60/1*Wksgm_9aeocYQvQwv8SQ4g.png?q=20){width="612"
-height="50"}
+{% include image.html name="chaos-order-bar.png" caption="Chaos on the left, Order on the right." %}
 
 Bitcoin utilizes both *order* and *chaos* to create a system that grows
 --- and even thrives --- between these extremes. It utilizes information
@@ -268,17 +257,7 @@ Which processes are orderly, which are chaotic, and how Bitcoin is able
 to grow on the edge between order and chaos will be explored in the next
 section.
 
-</div>
-
-</div>
-:::
-
-------------------------------------------------------------------------
-
-::: {.section}
-<div>
-
-<div>
+---
 
 What makes the Bitcoin network tick? Again, there might be many answers
 to this question, but the only thing that is *truly* ticking in the
@@ -305,29 +284,7 @@ blocks are associated with a reward is only one phase of the Bitcoin
 game. Note that this phase is 6930000 blocks long. With an average block
 time of \~10 minutes, the reward era turns out to be 131 years long.
 
-</div>
-
-</div>
-
-<div>
-
-<div>
-
-<div>
-
-![2019: Early days of the Bitcoin Reward
-Era](https://miro.medium.com/max/60/1*w3MXagpaGkBJwFbOCdiSWg.png?q=20){width="1623"
-height="886"}
-
-</div>
-
-</div>
-
-</div>
-
-<div>
-
-<div>
+{% include image.html name="reward-era-timeline.png" caption="2019: Early days of the Bitcoin Reward Era" %}
 
 There will be a time where those who are tasked with finding new blocks
 are rewarded mostly via the networks' fee market, as Dan Held
@@ -368,9 +325,7 @@ With the stage set, and concepts like order, information, randomness,
 and entropy in mind, let's take a look at some bitcoin concepts. We will
 distinguish them visually: from chaotic (left) to orderly (right).
 
-![Bitcoin grows between order and
-chaos.](https://miro.medium.com/max/60/1*mQ75Q5yUw3dtTox1PPIRcA.png?q=20){width="865"
-height="320"}
+{% include image.html name="chaos-order-chaintip.png" caption="Bitcoin grows between order and chaos." %}
 
 While the framing of order and chaos is useful, it is neither precise
 nor universally applicable. However, I believe that thinking about the
@@ -378,8 +333,7 @@ parts which make Bitcoin tick in this way is a helpful exercise, and I
 believe that the core point --- that bitcoin lives, grows, and thrives
 on the edge between order and chaos --- is profoundly true.
 
-![](https://miro.medium.com/max/60/1*AeZHcfLGTJA3pqzoxbAu_A.png?q=20){width="848"
-height="487"}
+{% include image.html name="chaos-order-concepts.png" %}
 
 Let's ponder on these concepts for a bit.
 
@@ -475,3 +429,4 @@ adjectives.
 
 
 [proof-of-life]: {% post_url /bitcoin/2019-08-07-proof-of-life %}
+[tsachy-weissman]: https://en.wikipedia.org/wiki/Tsachy_Weissman
