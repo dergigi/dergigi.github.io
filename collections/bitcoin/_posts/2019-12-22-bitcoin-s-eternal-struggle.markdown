@@ -432,9 +432,16 @@ You might call it open, permissionless, borderless, neutral,
 censorship-resistant, public, sound, antifragile, and a couple of other
 adjectives.
 
-***I call it Life. And we all call it Bitcoin.***
+**I call it Life. And we all call it Bitcoin.**
 
+---
 
+This article first appeared in [The Bitcoin Times], [Edition 2].
+
+---
 
 [proof-of-life]: {% post_url /bitcoin/2019-08-07-proof-of-life %}
 [tsachy-weissman]: https://en.wikipedia.org/wiki/Tsachy_Weissman
+
+[The Bitcoin Times]: https://medium.com/the-bitcoin-times
+[Edition 2]: https://sites.google.com/getamber.io/thebitcointimes/
