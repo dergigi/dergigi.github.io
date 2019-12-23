@@ -44,6 +44,8 @@ Let's dive in.
 
 ---
 
+### Entropy
+
 In computing, entropy can be used to measure the randomness of a data source. In
 cryptography in general, and in Bitcoin in particular, a good source of entropy
 is essential to keep you secure. Mess up the entropy of your private key (aka
@@ -84,7 +86,7 @@ Nakamoto consensus forbids it.
 > states that the entropy of a system approaches a constant value as the
 > temperature approaches absolute zero."
 >
-> --- Knut Svanholm
+> <cite>[Knut Svanholm](https://twitter.com/knutsvanholm/)</cite>
 
 In Bitcoin, entropy is important for multiple reasons:
 
@@ -104,7 +106,7 @@ Details aside, we will try to keep it simple here. In general, if you
 have two coins, the entropy of this system is **two**. As in: you can
 describe the whole system with two bits: 00, 01, 10, 11.
 
-{% include image.html name="entropy-flip-2-coins.jpg" caption="2 bits of entropy" %}
+{% include image.html name="entropy-flip-2-coins.png" caption="2 bits of entropy" %}
 
 Flip both coins at the same time, and you will end up with either
 tail-tail, tail-heads, heads-tail, or tail-tail. If you are a fair coin
@@ -113,6 +115,8 @@ that flips hundreds of coins at once, and you have something which could
 be used to generate a private key.
 
 ---
+
+### Randomness
 
 Randomness is essential to cryptography. At the root of all secret
 communication is some form of information asymmetry: you know something
@@ -153,6 +157,8 @@ encrypted message, which in turn would mean that the encryption used
 isn't very good.
 
 ---
+
+### Information
 
 What is information, anyway?
 
@@ -258,6 +264,8 @@ to grow on the edge between order and chaos will be explored in the next
 section.
 
 ---
+
+### Growth between Order and Chaos
 
 What makes the Bitcoin network tick? Again, there might be many answers
 to this question, but the only thing that is *truly* ticking in the
