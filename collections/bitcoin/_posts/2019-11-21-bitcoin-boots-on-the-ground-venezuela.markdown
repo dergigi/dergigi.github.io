@@ -130,3 +130,13 @@ circumstances as nightfall approaches. Let’s just hope that it will be a
 short night and that enough people realize that bushels of grass can
 build a shelter. Or, in José’s words: “Buy cheap satoshis while you
 still can. And hodl on!”
+
+---
+
+This article first appeared on [Bull Bitcoin]'s [Medium publication].
+
+---
+
+<!-- Bull Bitcoin Links -->
+[Bull Bitcoin]: https://bullbitcoin.com/
+[Medium publication]: https://medium.com/bull-bitcoin
