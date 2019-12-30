@@ -109,7 +109,7 @@ describe the whole system with two bits: 00, 01, 10, 11.
 {% include image.html name="entropy-flip-2-coins.png" caption="2 bits of entropy" %}
 
 Flip both coins at the same time, and you will end up with either
-tail-tail, tail-heads, heads-tail, or tail-tail. If you are a fair coin
+tail-tail, tail-heads, heads-tail, or heads-heads. If you are a fair coin
 flipper, the chance of each combination will be 25%. Imagine a system
 that flips hundreds of coins at once, and you have something which could
 be used to generate a private key.
