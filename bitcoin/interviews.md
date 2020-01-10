@@ -9,6 +9,7 @@ Finding the time to read long articles and books can be challenging, which is
 why I love podcasts and recorded conversations of all kinds. If you do too,
 here are some conversations where I share my thoughts about [Bitcoin][bitcoin].
 
+  - **2020-01-10** - [Stephan Livera Podcast #140][slp140] on 21 Lessons and Bitcoin's Gravity, hosted by Stephan Livera
   - **2019-10-13** - [Bitcoin Echo Chamber #31][bec31] on Bitcoin as a Religion and other cosmic thoughts, hosted by Collin
   - **2019-10-11** - [Citizen Bitcoin #54][cb54] on the Circularity of the Bitcoin Rabbit Hole, hosted by Brady  
   - **2019-09-04** - [Rapid Fire #6][rf6-discussion] on Narratives, Bitcoin Monks, Bitcoin Zen, and much more, hosted by John Vallis ([discussion][rf6-discussion], [rapid fire][rf6-fire])
@@ -54,6 +55,7 @@ Want to talk? Feel free to [reach out to me][contact].
 [rf6-fire]: https://anchor.fm/john-vallis/episodes/Gigi-Down-the-Bitcoin-Rabbit-Hole-e57f8j
 [cb54]: https://citizenbitcoin.world/episodes/gigi-rabbit-hole-revelations
 [bec31]: https://bitcoinechochamber.com/2019/10/13/bitcoin-lives-with-gigi-bec031/
+[slp140]: https://stephanlivera.com/episode/140/
 
 [contact]: {{ '/contact' | absolute_url }}
 [bitcoin]: {{ '/bitcoin' | absolute_url }}
