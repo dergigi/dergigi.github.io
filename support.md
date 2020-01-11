@@ -33,6 +33,8 @@ people were kind enough to pay a handful of coins to the artist, directly. I
 hope that our society will return to this way of giving, at least in some
 corners of the internet some of the time.
 
+{% include btcpay-donate.html %}
+
 I don't track views on this site, or clicks, or anything else. I don't know how
 many people will read this, and I don't want to know.  Knowledge is power - and
 I have no interest in having this kind of power.
