@@ -1,0 +1,91 @@
+<style type="text/css">
+  .btcpay-form {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .btcpay-form--inline {
+    flex-direction: row;
+  }
+
+  .btcpay-form--block {
+    flex-direction: column;
+  }
+
+  .btcpay-form--inline .submit {
+    margin-left: 15px;
+  }
+
+  .btcpay-form--block select {
+    margin-bottom: 10px;
+  }
+
+  .btcpay-form .btcpay-custom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .btcpay-form .plus-minus {
+    cursor: pointer;
+    font-size: 25px;
+    line-height: 25px;
+    background: #DFE0E1;
+    height: 30px;
+    width: 45px;
+    border: none;
+    border-radius: 60px;
+    margin: auto 5px;
+    display: inline-flex;
+    justify-content: center;
+  }
+
+  .btcpay-form select {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    color: currentColor;
+    background: transparent;
+    border: 1px solid transparent;
+    display: block;
+    padding: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 11px;
+    cursor: pointer;
+  }
+
+  .btcpay-form select:hover {
+    border-color: #ccc;
+  }
+
+  #btcpay-input-price {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    border: none;
+    box-shadow: none;
+    text-align: center;
+    font-size: 25px;
+    margin: auto;
+    border-radius: 5px;
+    line-height: 35px;
+    background: #fff;
+  }
+</style>
+<form method="POST" action="https://shop.dergigi.com/api/v1/invoices" class="btcpay-form btcpay-form--inline">
+  <input type="hidden" name="storeId" value="3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn" />
+  <div>
+    <div class="btcpay-custom">
+      <input id="btcpay-input-price" name="price" type="number" min="1" max="137" step="1" value="9" style="width: 3em;"
+        oninput="event.preventDefault();isNaN(event.target.value) || event.target.value <= 0 ? document.querySelector('#btcpay-input-price').value = 9 : event.target.value" />
+    </div>
+    <select name="currency">
+      <option value="USD" selected>USD</option>
+      <option value="GBP">GBP</option>
+      <option value="EUR">EUR</option>
+      <option value="BTC">BTC</option>
+    </select>
+  </div>
+  <input type="image" class="submit" name="submit" src="https://shop.dergigi.com/img/paybutton/pay.svg" style="width:209px" alt="Pay with BtcPay, Self-Hosted Bitcoin Payment Processor">
+</form>
