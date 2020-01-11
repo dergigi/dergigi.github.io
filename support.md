@@ -10,8 +10,6 @@ Everyone got used to the fact that everything is available for free, all the
 time. I got used to that too, and I tend to close paywalls as fast and as
 subconsciously as I pull my hand away from a hot stove.
 
-{% include btcpay-donate.html %}
-
 I believe, however, that there is something which could work for everyone
 involved. Something which has been working for hundreds, even thousands of
 years: supporting what you like, just because. Call it tipping, call it
@@ -34,6 +32,8 @@ like in the olden days, where buskers performed for everyone, and a handful of
 people were kind enough to pay a handful of coins to the artist, directly. I
 hope that our society will return to this way of giving, at least in some
 corners of the internet some of the time.
+
+{% include btcpay-donate.html %}
 
 I don't track views on this site, or clicks, or anything else. I don't know how
 many people will read this, and I don't want to know.  Knowledge is power - and
