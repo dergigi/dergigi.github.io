@@ -9,6 +9,7 @@ Finding the time to read long articles and books can be challenging, which is
 why I love podcasts and recorded conversations of all kinds. If you do too,
 here are some conversations where I share my thoughts about [Bitcoin][bitcoin].
 
+  - **2020-01-20** - [This Week in Bitcoin][twib2] with Mauricio Di Bartolomeo and David Bennett, hosted by Adam Meister (also on [youtube][twib2-youtube])
   - **2020-01-20** - [Total Bitcoin #63][keyvan63] on Bitcoin's Adoption Cycles, hosted by Keyvan Davani
   - **2020-01-10** - [Stephan Livera Podcast #140][slp140] on 21 Lessons and Bitcoin's Gravity, hosted by Stephan Livera
   - **2019-10-13** - [Bitcoin Echo Chamber #31][bec31] on Bitcoin as a Religion and other cosmic thoughts, hosted by Collin
@@ -58,6 +59,8 @@ Want to talk? Feel free to [reach out to me][contact].
 [bec31]: https://bitcoinechochamber.com/2019/10/13/bitcoin-lives-with-gigi-bec031/
 [slp140]: https://stephanlivera.com/episode/140/
 [keyvan63]: https://anchor.fm/keyvandavani/episodes/TotalBitcoin-63-Gigi---Bitcoin-is-a-Marathon-eaa3ka
+[twib2]: https://anchor.fm/bitcoinmeister/episodes/This-week-in-Bitcoin--1-24-2020--Centralized-time--Coinbase--Bcash--Fed-Coins--Venezuela--Insurance-eadkqf
+[twib2-youtube]: https://youtu.be/vZcf5eRz-Gs
 
 [contact]: {{ '/contact' | absolute_url }}
 [bitcoin]: {{ '/bitcoin' | absolute_url }}
