@@ -310,7 +310,7 @@ survive any coming storm, however perfect it may be.
 ### Further Reading
 
 - [Proof of Life][proof-of-life] by Gigi
-- [The Sovereign Individual][sovereign-individual] by by James Dale Davidson and William Rees-Mogg
+- [The Sovereign Individual][sovereign-individual] by James Dale Davidson and William Rees-Mogg
 
 ### Acknowledgments
 
