@@ -225,7 +225,7 @@ reality.
 > with. It can't be corrupted. It can't be stopped. It can't even be
 > interrupted."
 >
-> <cite>Ralph Merkle</cite>
+> <cite>[Ralph Merkle][merkle]</cite>
 
 In addition to the above, it seems to have many indirect effects. It
 lowers the time preference of those who use it. It incentives users to
@@ -236,9 +236,11 @@ of chip manufacturing and encryption technology.
 While Bitcoin definitely influences its environments and vice-versa, how
 Bitcoin reacts to drastic changes is yet to be seen.
 
+### Migration
+
 Bitcoin lives on the internet, as Ralph Merkle points out. The internet,
 however, is not a necessary requirement for Bitcoin to work. [Bitcoin is
-text](https://dergigi.com/bitcoin/lessons/ch1-06-the-power-of-free-speech/)
+text](https://21lessons.com/6)
 --- pure information --- and every system capable of transmitting (and
 storing) information is a potential habitat for the Bitcoin organism.
 The internet just happens to be the most suitable habitat which
@@ -287,6 +289,8 @@ of value to better stores of value. Bitcoin, being the ultimate asset in terms
 of portability, verifiability, divisibility, scarcity, and unseizability, [will
 continue to suck up value][gravity] and grow in the process.
 
+### Conclusion
+
 Bitcoin lives at the intersection of three spaces: *meatspace*, *cyberspace*,
 and *finspace*. These spaces have different laws, different rules, and different
 climates. To fully understand any organism, we must not only look at the
@@ -300,6 +304,8 @@ feed on the instability of other asset classes in finspace.
 Whatever the future may bring, Bitcoin is equipped to survive and thrive in the
 various environments it lives in. It is remarkably resilient --- well adapted to
 survive any coming storm, however perfect it may be.
+
+---
 
 ### Further Reading
 
