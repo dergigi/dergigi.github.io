@@ -268,6 +268,8 @@ I can tell, it is alive --- for all the reasons outlined above.
 
 ----
 
+### Conclusion
+
 Bitcoin checks all the boxes when it comes to the characteristics of
 living things: it grows, reproduces, inherits and passes on traits, uses
 energy to maintain a stable inner structure, is cellular in nature, and
@@ -280,6 +282,8 @@ arguably, the internet isn't the only environment it is living in.
 
 For now, I hope to have convinced you that Bitcoin can be seen as a
 living organism --- alien as it may be.
+
+### Further Reading
 
 -   [Bitcoin is a Decentralized Organism][mycelium] by [Brandon Quittem]
 -   [Planting Bitcoin][planting-bitcoin] by [Dan Held]
@@ -320,7 +324,7 @@ encouragement, and thank you for reading.
 [planting-bitcoin]: https://medium.com/@danhedl/planting-bitcoin-56bd1459cb23
 
 <!-- People -->
-[Raph]: https://twitter.com/maraphBTC
+[Raph]: https://twitter.com/raph_BTC
 [Jimmy Song]: https://twitter.com/jimmysong
 [Dan Held]: https://twitter.com/danheld
 [Brandon Quittem]: https://twitter.com/bquittem
