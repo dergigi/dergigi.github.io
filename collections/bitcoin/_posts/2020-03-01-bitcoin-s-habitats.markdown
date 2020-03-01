@@ -13,41 +13,37 @@ tags:
 ---
 
 
-As I have [argued previously][proof-of-life],
-Bitcoin is a living organism. But where does this organism live,
-exactly? As with many questions in the world of Bitcoin, exact answers
-are hard to come by. Living things have fuzzy edges: beginnings and
-endings are hard to pin-point, differentiation is more-or-less
-arbitrary, and what was classified as a wolf today might evolve to be a
-dog tomorrow.
+As I have [argued previously][proof-of-life], Bitcoin is a living organism. But
+where does this organism live, exactly? As with many questions in the world of
+Bitcoin, exact answers are hard to come by. Living things have fuzzy edges:
+beginnings and endings are hard to pin-point, differentiation is more-or-less
+arbitrary, and what was classified as a wolf today might evolve to be a dog
+tomorrow.
 
-Bitcoin has no rigid specification, no absolute finality, no fixed
-development team, no final security guarantees, no scheduled updates, no
-central brain, no central vision, no kings, and no rulers. It is a
-*decentralized* organism, organically evolving without central planners.
-The lack of any centralization is the source of Bitcoin's beauty, it's
-organic behavior, and it's resilience.
+Bitcoin has no rigid specification, no absolute finality, no fixed development
+team, no final security guarantees, no scheduled updates, no central brain, no
+central vision, no kings, and no rulers. It is a *decentralized* organism,
+organically evolving without central planners. The lack of any centralization is
+the source of Bitcoin's beauty, it's organic behavior, and it's resilience.
 
-Bitcoin is [everywhere and nowhere](https://21lessons.com/3/), which
-makes figuring out where this thing lives a daunting task. However, it
-turns out that there is a space it lives in. Multiple spaces, as we
-shall see.
+Bitcoin is [everywhere and nowhere](https://21lessons.com/3/), which makes
+figuring out where this thing lives a daunting task. However, it turns out that
+there is a space it lives in. Multiple spaces, as we shall see.
 
-While classifying the habitat of a decentralized organism isn't trivial,
-we can look at the constituents of Bitcoin to make the task a bit
-easier. As outlined in the [last article of this
-series](http://fakehost/@dergigi/proof-of-life-fa28fdc002fe), Bitcoin
-lives across domains, with one foot in the purely informational realm
-(ideas and code) and one foot in the physical realm (people and nodes).
+### The Habitats of Bitcoin
 
-![](https://miro.medium.com/max/60/1*q_6umkiJ0fAPequsOzbyjA.png?q=20){width="794"
-height="305"}
+While classifying the habitat of a decentralized organism isn't trivial, we can
+look at the constituents of Bitcoin to make the task a bit easier. As outlined
+in the [last article of this series][proof-of-life], Bitcoin lives across
+domains, with one foot in the purely informational realm (ideas and code) and
+one foot in the physical realm (people and nodes).
 
-An awareness of Bitcoin's environment(s) might help to better understand
-this new form of life. No organism can be meaningfully studied in
-isolation, and Bitcoin is no exception. As Alan Watts pointed out, one
-has to be aware of the basic unity every organism forms with its
-environment.
+{% include image.html name="cyberspace-meatspace.png" %}
+
+An awareness of Bitcoin's environment(s) might help to better understand this
+new form of life. No organism can be meaningfully studied in isolation, and
+Bitcoin is no exception. As Alan Watts pointed out, one has to be aware of the
+basic unity every organism forms with its environment.
 
 > "For the ecologist, the biologist, and the physicist know (but seldom
 > feel) that every organism constitutes a single field of behavior, or
@@ -56,75 +52,69 @@ environment.
 > reason ecologists speak not of organisms in environments but of
 > organism-environments."
 >
-> --- Alan Watts
+> <cite>Alan Watts</cite>
 
-With that in mind, let's take a closer look at the
-organism-environment(s) we are dealing with. As outlined above,
-Bitcoin's ideas and code inhabit one realm, and Bitcoin's people and
-nodes inhabit another. To stick with tradition, let's call the physical
-realm "**meatspace**" and the purely informational realm
-"**cyberspace**" --- even if, as always, the lines might be fuzzy around
-the edges.
+With that in mind, let's take a closer look at the organism-environment(s) we
+are dealing with. As outlined above, Bitcoin's ideas and code inhabit one realm,
+and Bitcoin's people and nodes inhabit another. To stick with tradition, let's
+call the physical realm "**meatspace**" and the purely informational realm
+"**cyberspace**" --- even if, as always, the lines might be fuzzy around the
+edges.
 
-The "soul" of Bitcoin, so to speak, lives in **cyberspace**. There,
-Bitcoin absorbs useful ideas and incorporates them into its code. As
-with all living things, something is *useful* if it helps an organism to
-survive. While Bitcoin has various self-regulatory mechanisms to react
-to the environment, new ideas may be necessary for survival if changes
-are drastic enough.
+The "soul" of Bitcoin, so to speak, lives in **cyberspace**. There, Bitcoin
+absorbs useful ideas and incorporates them into its code. As with all living
+things, something is *useful* if it helps an organism to survive. While Bitcoin
+has various self-regulatory mechanisms to react to the environment, new ideas
+may be necessary for survival if changes are drastic enough.
 
-The "body" of Bitcoin, like all bodies, is living in **meatspace**.
-Nodes, hard drives, cables, and other things come together in an
-intricate dance, pushing around electrons, changing zeros to ones and
-vice-versa, making sure that Bitcoin's heart beats about a thousand
-times a week.
+The "body" of Bitcoin, like all bodies, is living in **meatspace**. Nodes, hard
+drives, cables, and other things come together in an intricate dance, pushing
+around electrons, changing zeros to ones and vice-versa, making sure that
+Bitcoin's heart beats about a thousand times a week.
 
-Living things have an interest in staying alive, and the Bitcoin
-organism is no exception. Bitcoin found an ingenious way to ensure that
-it stays alive: it pays people, as Ralph Merkle pointed out. People ---
-and increasingly, organizations --- are incentivized to keep it alive.
-They shape the physical world to Bitcoin's liking, feed it energy, renew
-its hardware, and update its software to keep it alive.
+Living things have an interest in staying alive, and the Bitcoin organism is no
+exception. Bitcoin found an ingenious way to ensure that it stays alive: it pays
+people, as Ralph Merkle pointed out. People --- and increasingly, organizations
+--- are incentivized to keep it alive. They shape the physical world to
+Bitcoin's liking, feed it energy, renew its hardware, and update its software to
+keep it alive.
 
-The fact that Bitcoin pays us to keep it alive opens up a third space: a
-space of financial transactions, value, and mutual beneficial exchange.
-Let's call this space "**finspace.**"
+The fact that Bitcoin pays us to keep it alive opens up a third space: a space
+of financial transactions, value, and mutual beneficial exchange. Let's call
+this space "**finspace.**"
 
-To understand finspace, we will have to examine the other side of this
-coin. So far, we only examined the side with an uppercase B: the Bitcoin
-network. But there is also bitcoin --- with a lowercase b --- which is
-the unit of value itself, brought into existence by every copy of the
-ledger.
+To understand finspace, we will have to examine the other side of this coin. So
+far, we only examined the side with an uppercase B: the Bitcoin network. But
+there is also bitcoin --- with a lowercase b --- which is the unit of value
+itself, brought into existence by every copy of the ledger.
 
-These bitcoins, while deeply embedded in the amber of the ledger, are
-traded worldwide on various markets and marketplaces. And since these
-bitcoins --- and their value --- are critical for Bitcoin's survival, we
-will have to recognize finspace as the third space this strange beast
-lives in. Note that finspace, strangely enough, is solely inhabited by
-bitcoin with a lowercase b.
+These bitcoins, while deeply embedded in the amber of the ledger, are traded
+worldwide on various markets and marketplaces. And since these bitcoins --- and
+their value --- are critical for Bitcoin's survival, we will have to recognize
+finspace as the third space this strange beast lives in. Note that finspace,
+strangely enough, is solely inhabited by bitcoin with a lowercase b.
 
-In total, we can identify three distinct environments which the Bitcoin
-organism inhabits:
+In total, we can identify three distinct environments which the Bitcoin organism
+inhabits:
 
--   [**Cyberspace**: the world of ideas and code.]{#a5f8}
--   [**Meatspace**: the world of people and nodes.]{#db71}
--   [**Finspace**: the world of value and markets; the world of dollars
-    and sats.]{#0bd6}
+- **Cyberspace**: the world of ideas and code.
+- **Meatspace**: the world of people and nodes.
+- **Finspace**: the world of value and markets; the world of dollars and sats.
 
-![](https://miro.medium.com/max/60/1*VrcErd_RRTqJxb1zwo3aMw.png?q=20){width="796"
-height="762"}
+{% include image.html name="venn-diagram-cyber-meat-fin.png" %}
 
-Understanding these habitats becomes increasingly important, especially
-as the climate in one --- or more --- heats up.
+Understanding these habitats becomes increasingly important, especially as the
+climate in one --- or more --- heats up.
 
-The three spaces outlined above --- cyberspace, meatspace, and finspace
---- have different restrictions; different climates, so to speak. In
-short: they operate under different rules. Once these rules change
-drastically enough, people will say that "the political climate is
-heating up" and reports on "the coming financial climate" will be
-written. Citizens will be unable to speak and act freely. If things
-change drastically enough, people will rise up in protest, or, if all
-else fails, flee.
+### The Climates They Are A-Changin’
+
+The three spaces outlined above --- cyberspace, meatspace, and finspace --- have
+different restrictions; different climates, so to speak. In short: they operate
+under different rules. Once these rules change drastically enough, people will
+say that "the political climate is heating up" and reports on "the coming
+financial climate" will be written. Citizens will be unable to speak and act
+freely. If things change drastically enough, people will rise up in protest, or,
+if all else fails, flee.
 
 **Cyberspace:** While we don't have precise words for it, it is obvious
 that the climate in cyberspace has changed quite drastically in the last
@@ -133,42 +123,36 @@ foundation of most of the internet were perverted by the
 advertisement-driven surveillance companies which are the giants of
 today.
 
-People and politicians are slowly waking up to the strange reality we
-are living in: the fact that Facebook can [manipulate
-moods](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/)
-and sway elections is as disturbing as the fact that Google knows you
-better than you know yourself. Edward Snowden showed that the most
-paranoid netizens were right all along: everyone in cyberspace is under
-constant surveillance, without suspicion, by default.
+People and politicians are slowly waking up to the strange reality we are living
+in: the fact that Facebook can [manipulate moods] and sway elections is as
+disturbing as the fact that Google knows you better than you know yourself.
+Edward Snowden showed that the most paranoid netizens were right all along:
+everyone in cyberspace is under constant surveillance, without suspicion, by
+default.
 
 While the western world does not immediately *feel* the repercussions
 that come with living in a constant state of surveillance, Chinese
 citizens are gathering first-hand experience with each passing day.
 
-In the western world, the consequences are advertisements which range
-from annoying to spooky. In China, the consequences are frozen bank
-accounts, an inability to buy train or plane tickets, elimination of
-creditworthiness, automated fines for trivial offenses, and more.
-Voicing the "wrong" opinion --- online or not --- can lead to restricted
-access to schools, hotels, and jobs. And after ruining your life with
-the flip of a bit you will be publicly named as a bad citizen and the
-government will [take away your
-dog](https://www.businessinsider.nl/china-social-credit-system-punishments-and-rewards-explained-2018-4/).
-If that doesn't sound dystopian enough for your taste I bet that it will
-be in a couple of years. Remind yourself that this is only the
-beginning.
+In the western world, the consequences are advertisements which range from
+annoying to spooky. In China, the consequences are frozen bank accounts, an
+inability to buy train or plane tickets, elimination of creditworthiness,
+automated fines for trivial offenses, and more. Voicing the "wrong" opinion ---
+online or not --- can lead to restricted access to schools, hotels, and jobs.
+And after ruining your life with the flip of a bit you will be publicly named as
+a bad citizen and the government will [take away your dog]. If that doesn't
+sound dystopian enough for your taste I bet that it will be in a couple of
+years. Remind yourself that this is only the beginning.
 
-In the "free" world, things are more subtle. Multiple efforts are
-underway to curb net neutrality, the very cornerstone of the internet.
-Legislation is being passed which is inherently incompatible with the
-laws of cyberspace. It seems like the last battle of the [Crypto
+In the "free" world, things are more subtle. Multiple efforts are underway to
+curb net neutrality, the very cornerstone of the internet. Legislation is being
+passed which is inherently incompatible with the laws of cyberspace. It seems
+like the last battle of the [Crypto
 Wars](https://en.wikipedia.org/wiki/Crypto_Wars) is yet to be fought as
-politicians are calling for "responsible encryption" and the [ban of
-certain CAD
+politicians are calling for "responsible encryption" and the [ban of certain CAD
 files](https://en.wikipedia.org/wiki/Defense_Distributed#Legal_challenges).
-Companies are in charge of the speaker's corners of cyberspace and are
-making arbitrary decisions on what can be uttered by whom and what is
-off-limits.
+Companies are in charge of the speaker's corners of cyberspace and are making
+arbitrary decisions on what can be uttered by whom and what is off-limits.
 
 Bitcoin knows no borders, no jurisdictions. However, it has to conform
 to the laws of cyberspace --- and if these laws change, e.g. if large
@@ -185,14 +169,12 @@ Protests across the globe indicate that the powerless are fed up with
 the powerful, who do everything they can to stay in control and solidify
 their positions of influence.
 
-History shows that governments do not shy away from using their power.
-In 1933, [Executive Order
-6102](https://en.wikipedia.org/wiki/Executive_Order_6102) was signed,
-effectively forcing the whole population of the United States to hand
+History shows that governments do not shy away from using their power. In 1933,
+[Executive Order 6102](https://en.wikipedia.org/wiki/Executive_Order_6102) was
+signed, effectively forcing the whole population of the United States to hand
 over their gold and gold certificates to the government.
 
-![](https://miro.medium.com/max/60/1*YrJ0dOhD7HLiL-NZKAzkaw.jpeg?q=20){width="632"
-height="376"}
+{% include image.html name="executive-order-6102.jpg" %}
 
 Yes, seizing bitcoin is way harder than seizing gold --- in some cases
 even impossible. But it would surprise me if those who currently control
@@ -243,7 +225,7 @@ reality.
 > with. It can't be corrupted. It can't be stopped. It can't even be
 > interrupted."
 >
-> --- Ralph Merkle
+> <cite>Ralph Merkle</cite>
 
 In addition to the above, it seems to have many indirect effects. It
 lowers the time preference of those who use it. It incentives users to
@@ -286,13 +268,7 @@ friendlier places over time. Unprofitable mining facilities will shut
 down, profitable mining facilities will go online. The same, again, is
 true for nodes.
 
-
-
-
-
-
-
-
+{% include image.html name="nodes-worldmap-2018.jpg" caption="Public bitcoin nodes. Source: /u/SondreB" %}
 
 Increasingly, people will migrate to jurisdictions which are more
 favorable to their bitcoin holdings. And if you want to start a Bitcoin
@@ -305,28 +281,54 @@ capital allocation will continue as more people understand the nature of
 this beast, and the ultimate goal of Bitcoin: the separation of money
 and state.
 
-What investors describe as portfolio balancing and allocation of capital
-can be seen as a migration of value from worse assets to better assets;
-from bad stores of value to better stores of value. Bitcoin, being the
-ultimate asset in terms of portability, verifiability, divisibility,
-scarcity, and unseizability, [will continue to suck up
-value](http://fakehost/@dergigi/bitcoins-gravity-e1674ad9f8e4) and grow
-in the process.
+What investors describe as portfolio balancing and allocation of capital can be
+seen as a migration of value from worse assets to better assets; from bad stores
+of value to better stores of value. Bitcoin, being the ultimate asset in terms
+of portability, verifiability, divisibility, scarcity, and unseizability, [will
+continue to suck up value][gravity] and grow in the process.
 
-Bitcoin lives at the intersection of three spaces: *meatspace*,
-*cyberspace*, and *finspace*. These spaces have different laws,
-different rules, and different climates. To fully understand any
-organism, we must not only look at the organism itself, but examine the
-organism-environment holistically.
+Bitcoin lives at the intersection of three spaces: *meatspace*, *cyberspace*,
+and *finspace*. These spaces have different laws, different rules, and different
+climates. To fully understand any organism, we must not only look at the
+organism itself, but examine the organism-environment holistically.
 
-Because of its decentralized nature, Bitcoin is able to overcome many,
-if not all obstacles in its environments. It can migrate to favorable
-jurisdictions in meatspace, use different transportation and storage
-media in cyberspace, and feed on the instability of other asset classes
-in finspace.
+Because of its decentralized nature, Bitcoin is able to overcome many, if not
+all obstacles in its environments. It can migrate to favorable jurisdictions in
+meatspace, use different transportation and storage media in cyberspace, and
+feed on the instability of other asset classes in finspace.
 
-Whatever the future may bring, Bitcoin is equipped to survive and thrive
-in the various environments it lives in. It is remarkably resilient ---
-well adapted to survive any coming storm, however perfect it may be.
+Whatever the future may bring, Bitcoin is equipped to survive and thrive in the
+various environments it lives in. It is remarkably resilient --- well adapted to
+survive any coming storm, however perfect it may be.
 
+### Further Reading
+
+- [Proof of Life][proof-of-life] by Gigi
+- [The Sovereign Individual][sovereign-individual] by by James Dale Davidson and William Rees-Mogg
+
+### Acknowledgments
+
+- Thanks to [Jannik](https://twitter.com/jnnksbrt) and [Raph](https://twitter.com/raph_BTC) for their feedback on earlier drafts of this article.
+
+----
+
+I hope you have enjoyed this excursion into the world of the Bitcoin
+organism. If you like to accelerate the growth of both Bitcoin and this
+article series feel free to [drop me a line], some applause on [medium],
+or even [some sats] via the beast which is Bitcoin. Thanks for all the
+encouragement, and thank you for reading.
+
+
+<!-- Internal -->
+[drop me a line]: {{ '/contact' | absolute_url }}
+[some sats]: {{ '/support' | absolute_url }}
 [proof-of-life]: {% post_url /bitcoin/2019-08-07-proof-of-life %}
+[gravity]: {% post_url /bitcoin/2019-05-01-bitcoins-gravity %}
+
+<!-- External -->
+[manipulate moods]: https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/
+[take away your dog]: https://www.businessinsider.nl/china-social-credit-system-punishments-and-rewards-explained-2018-4/
+[merkle]: https://alcor.org/cryonics/Cryonics2016-4.pdf#page=28
+[sovereign-individual]: https://www.simonandschuster.com/books/The-Sovereign-Individual/James-Dale-Davidson/9780684832722
+
+[medium]: {{ page.source }}
