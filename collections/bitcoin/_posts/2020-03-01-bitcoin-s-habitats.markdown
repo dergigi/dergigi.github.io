@@ -248,11 +248,11 @@ currently exists, since it is the most efficient system to transmit
 information we have to date.
 
 **Cyberspace:** The Bitcoin organism *could* migrate to other
-environments, and multiple efforts are underway which enable Bitcoin to
-spread to places where access to Internet infrastructure is limited or
-non-existent. As of this writing, Bitcoin transactions have been sent
-via radio waves, mesh, and satellite networks --- just to name a few.
-All of these can be seen as Bitcoin conservation efforts, so to speak.
+environments, and multiple efforts are underway which enable Bitcoin to spread
+to places where access to Internet infrastructure is limited or non-existent. As
+of this writing, Bitcoin transactions (and [LN invoices][ln]) have been sent via
+[radio waves][btc], [mesh], and [satellite networks] --- just to name a few. All
+of these can be seen as Bitcoin conservation efforts, so to speak.
 
 Whether we will see the migration of Bitcoin to another system in the
 decades and centuries to come depends, in essence, on whether the
@@ -336,5 +336,9 @@ encouragement, and thank you for reading.
 [take away your dog]: https://www.businessinsider.nl/china-social-credit-system-punishments-and-rewards-explained-2018-4/
 [merkle]: https://alcor.org/cryonics/Cryonics2016-4.pdf#page=28
 [sovereign-individual]: https://www.simonandschuster.com/books/The-Sovereign-Individual/James-Dale-Davidson/9780684832722
+[btc]: https://twitter.com/nvk/status/1095354354289135617?s=20
+[ln]: https://twitter.com/nvk/status/1101548727460741120?s=20
+[mesh]: https://txtenna.com/
+[satellite networks]: https://blockstream.com/satellite/
 
 [medium]: {{ page.source }}
