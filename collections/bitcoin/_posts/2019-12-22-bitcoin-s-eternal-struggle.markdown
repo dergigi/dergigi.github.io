@@ -7,6 +7,7 @@ image: /assets/images/btc11-eternal-struggle.jpg
 source: https://medium.com/the-bitcoin-times/bitcoins-eternal-struggle-2c197f1bafd8
 author: Gigi
 category: bitcoin
+audio: /assets/audio/eternal-struggle.mp3
 tags:
  - Bitcoin
  - Writing
