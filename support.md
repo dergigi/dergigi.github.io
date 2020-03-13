@@ -5,6 +5,9 @@ title: Support
 
 
 Dear Netizen, \\
+the easiest way to support me is to [buy my book](https://amzn.to/2VXmQgp) -
+although you could also read it for free on the web.
+
 Paying for immaterial stuff on the internet is a weird thing.
 Everyone got used to the fact that everything is available for free, all the
 time. I got used to that too, and I tend to close paywalls as fast and as
@@ -32,8 +35,6 @@ like in the olden days, where buskers performed for everyone, and a handful of
 people were kind enough to pay a handful of coins to the artist, directly. I
 hope that our society will return to this way of giving, at least in some
 corners of the internet some of the time.
-
-{% include btcpay-donate.html %}
 
 I don't track views on this site, or clicks, or anything else. I don't know how
 many people will read this, and I don't want to know.  Knowledge is power - and
