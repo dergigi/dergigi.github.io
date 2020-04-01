@@ -1,6 +1,6 @@
 undefined
 
-::: {#readability-page-1 .page}
+
 
 
 
@@ -116,4 +116,4 @@ dark and bumpy, especially if the legacy world is all you know.
 
 
 
-:::
+
