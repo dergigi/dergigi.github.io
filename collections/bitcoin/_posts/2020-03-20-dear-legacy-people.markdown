@@ -20,7 +20,7 @@ we are past the inflection point.
 > "There are decades when nothing happens, and there are weeks when
 > decades happen."
 >
-> <cite>Vladimir Lenin</cite>
+> <cite>[Vladimir Lenin]\*</cite>
 
 As the events around the COVID-19 pandemic unfold, the fragility of our
 global systems becomes painfully obvious. This health crisis is
@@ -37,7 +37,7 @@ in-between).
 > "A new type of thinking is essential if mankind is to survive and move
 > to higher levels."
 >
-> <cite>Albert Einstein</cite>
+> <cite>[Albert Einstein]</cite>
 
 Centralization is efficient until it isn't. I'm afraid that most of us
 are going to learn this lesson the hard way: one by one, central points
@@ -61,7 +61,7 @@ I can't tell you what kind of tools will emerge. Instead, let me list
 some things that are both of the utmost importance and difficult to
 understand/accept if you come from the legacy world:
 
--   bitcoin
+-   [bitcoin]
 -   the internet
 -   social media
 -   citizen journalism
@@ -86,7 +86,7 @@ consequences, as the current pandemic shows so clearly.
 > "Someone ate a bat in China and now you don't get to retire. Funny how
  the world works."
 >
-> <cite>[Jeremy Ross](https://twitter.com/jebus911/status/1237092755622502406?s=20)</cite>
+> <cite>[Jeremy Ross]</cite>
 
 Many systems got centralized over time, moving from robustness to
 fragility: the global financial system, various supply chains, large
@@ -104,3 +104,9 @@ that we don't need any more of those.
 
 I would love to end on an optimistic note, but the future ahead will be
 dark and bumpy, especially if the legacy world is all you know.
+
+[bitcoin]: https://bitcoin-resources.com
+
+[Vladimir Lenin]: https://en.wikiquote.org/wiki/Vladimir_Lenin#Misattributed
+[Albert Einstein]: https://web.archive.org/web/20140622171150/http://www.turnthetide.info/id54.htm
+[Jeremy Ross]: https://twitter.com/jebus911/status/1237092755622502406?s=20
