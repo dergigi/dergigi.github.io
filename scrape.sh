@@ -15,3 +15,5 @@ sed -i -E -- 's/^>(.+) --- (.+)$/\1\n>\n> <cite>\2<\/cite>/g' markdown.md
 cat -s markdown.md > markdown-clean.md
 rm -v scraped.html
 rm -v markdown.md
+
+echo "Remember to double-check! HEADLINES MIGHT BE MISSING!"
