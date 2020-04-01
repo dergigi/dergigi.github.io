@@ -27,6 +27,8 @@ global systems becomes painfully obvious. This health crisis is
 triggering a financial one, and if we don't get our act together, things
 will go from bad to worse.
 
+### The Legacy System is Crumbling
+
 Both our money and our financial system has fundamental issues. Ruled
 from the top down by unelected decision-makers, these structures are not
 equipped to handle complex problems. Even worse, trying to fix a complex
@@ -50,6 +52,8 @@ I'm suggesting that we are transitioning to a post-virus world, and it
 will be impossible to understand what is going on --- and how problems
 might be solved --- if you aren't equipped to understand and use the
 tools of this new era.
+
+### A New Type of Thinking
 
 The tools of the post-virus world need to be transparent, open, and
 freedom-enabling. Gatekeepers, censors, and arbitrary restrictions won't
@@ -79,6 +83,8 @@ okay. The important part is that we move away from fragile systems and
 central points of failure, building robust, and even anti-fragile
 systems for generations to come.
 
+### Fragile, Robust, and Anti-Fragile Systems
+
 The world is a scary, complicated, and chaotic place. Our
 interconnectedness and interdependence have drastic and unforeseen
 consequences, as the current pandemic shows so clearly.
@@ -92,7 +98,7 @@ Many systems got centralized over time, moving from robustness to
 fragility: the global financial system, various supply chains, large
 parts of our media apparatus, and even the money we use daily.
 
-Complex, large-scale problems require organic, bottom-up, emergent
+Complex, large-scale problems require [organic], bottom-up, emergent
 solutions. We, as a society, need to make sure that robust solutions can
 emerge, which implies that we need to protect personal liberties and
 encourage personal responsibility more than ever.
@@ -110,3 +116,5 @@ dark and bumpy, especially if the legacy world is all you know.
 [Vladimir Lenin]: https://en.wikiquote.org/wiki/Vladimir_Lenin#Misattributed
 [Albert Einstein]: https://web.archive.org/web/20140622171150/http://www.turnthetide.info/id54.htm
 [Jeremy Ross]: https://twitter.com/jebus911/status/1237092755622502406?s=20
+
+[organic]: {% post_url /bitcoin/2019-08-07-proof-of-life %}
