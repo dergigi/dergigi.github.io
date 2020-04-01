@@ -70,12 +70,12 @@ I can't tell you what kind of tools will emerge. Instead, let me list
 some things that are both of the utmost importance and difficult to
 understand/accept if you come from the legacy world:
 
--   [bitcoin]{#6bce}
--   [the internet]{#a3ae}
--   [social media]{#ec0f}
--   [citizen journalism]{#5b01}
--   [memes and misinformation]{#a0cc}
--   [open-source and free (libre) software]{#c5da}
+-   bitcoin
+-   the internet
+-   social media
+-   citizen journalism
+-   memes and misinformation
+-   open-source and free (libre) software
 
 Others aren't as hard to understand, but equally important: encryption,
 open hardware, biohacking, DIY biology, 3d printing, and other forms of
