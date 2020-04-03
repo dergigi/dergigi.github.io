@@ -30,6 +30,8 @@ the same problem that all centralized platforms will inevitably suffer from:
 power and control, which has the habit of resulting in interference and
 censorship. I'm not a fan of interference. And I despise censorship.
 
+{% include btcpay-donate.html %}
+
 Luckily, we now live in a world where Bitcoin exists. We can give directly, just
 like in the olden days, where buskers performed for everyone, and a handful of
 people were kind enough to pay a handful of coins to the artist, directly. I
