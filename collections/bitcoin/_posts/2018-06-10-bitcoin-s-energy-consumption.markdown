@@ -224,7 +224,7 @@ of bitcoin to our physical world:
 
 > "By attaching energy to a block, we give it "form", allowing it to
 > have real weight & consequences in the physical world."
-> <cite>Hugo Nguyen</cite>
+> <cite>[Hugo Nguyen]</cite>
 
 Proof-of-work is essentially a mechanism to easily check the
 truthfulness of the statement "I worked really hard to create this
