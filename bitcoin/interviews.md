@@ -9,6 +9,7 @@ Finding the time to read long articles and books can be challenging, which is
 why I love podcasts and recorded conversations of all kinds. If you do too,
 here are some conversations where I share my thoughts about [Bitcoin][bitcoin].
 
+  - **2020-04-09** - [Once Bitten #26][once-bitten26] on privacy and the difference between the legacy and the Bitcoin world, hosted by Daniel Prince
   - **2020-03-14** - [Swan Signal][ss2] with Guy, Yan, Hass, John, and Cory on the current state of the world and Bitcoin, hosted by Brady
   - **2020-03-04** - [Fun With Bitcoin #70][fwb70] on the Shitcoin Trap and why Bitcoin is superior, hosted by Coinicarus
   - **2020-02-12** - [Once Bitten #6][once-bitten6] on 21 Lessons and Bitcoin's Gravity hosted by Daniel Prince
@@ -68,6 +69,7 @@ Want to talk? Feel free to [reach out to me][contact].
 [once-bitten6]: https://anchor.fm/daniel-prince6/episodes/Bitcoin-Is-A-Harsh-Mistress-eapg7e
 [fwb70]: https://anchor.fm/funwithbitcoin/episodes/Interviewdiscussion-with-DerGigi--definitive-shitcoin-dump-episode-eb8c6j
 [ss2]: https://anchor.fm/thecryptoconomy/episodes/CryptoChat_032---State-of-Bitcoin-Address-with-Swan-Signal-ebgptm
+[once-bitten26]: https://anchor.fm/daniel-prince6/episodes/Dergigi-Just-Three-More-Halvings-ecinjv
 
 [contact]: {{ '/contact' | absolute_url }}
 [bitcoin]: {{ '/bitcoin' | absolute_url }}
