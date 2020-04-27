@@ -173,6 +173,10 @@ honored to walk it to the end, with you on my side. We got this.
 
 ---
 
+### Translations
+
+- [German translation] by [Fab The Fox]
+
 ### Acknowledgments
 
 - Thanks to [Hass], [John], and [Dennis] for their valuable feedback.
@@ -183,8 +187,10 @@ honored to walk it to the end, with you on my side. We got this.
 [Stanley Knowles]: https://en.wikiquote.org/wiki/Stanley_Knowles
 [Joseph Michael Straczynski]: https://en.wikiquote.org/wiki/J._Michael_Straczynski
 [Ray Dalio]: https://youtu.be/J2Qrm9UB7qY?t=154
+[German translation]: https://medium.com/aprycotmedia/liebe-bitcoiner-aa4be515c028
 
 [Hass]: https://twitter.com/FriarHass
 [John]: https://twitter.com/johnkvallis
 [Dennis]: https://twitter.com/dennisreimann
 [Sam Keiser]: https://samkeiser.artstation.com/projects/a3ALX
+[Fab The Fox]: https://twitter.com/fabthefoxx
