@@ -311,19 +311,19 @@ Some things to remember:
 
 -   [Don't trade](https://youtu.be/KV5QlSgq7lg)
 -   [[Get off
-    zero](https://twitter.com/search?q=bitcoin%20get%20off%20zero)]{#6252}
+    zero](https://twitter.com/search?q=bitcoin%20get%20off%20zero)]
 -   [[Automate with
-    Auto-DCA](https://twitter.com/FriarHass/status/1254050840182009856?s=20)]{#d03c}
+    Auto-DCA](https://twitter.com/FriarHass/status/1254050840182009856?s=20)]
 -   [[Everyone thinks they are
-    late](https://twitter.com/TonyF87/status/80373832854151168?s=20)]{#9715}
+    late](https://twitter.com/TonyF87/status/80373832854151168?s=20)]
 -   [[You can buy a fraction of a
-    bitcoin](http://stackingsats.com/)]{#643b}
+    bitcoin](http://stackingsats.com/)]
 -   [[Trusted third parties are security
-    holes](https://nakamotoinstitute.org/trusted-third-parties/)]{#71d7}
+    holes](https://nakamotoinstitute.org/trusted-third-parties/)]
 -   [[Time in the market beats timing the
-    market](http://jrxy.zjsu.edu.cn/jrxy/jssc/791.pdf)]{#2db2}
+    market](http://jrxy.zjsu.edu.cn/jrxy/jssc/791.pdf)]
 -   [[There is gold and there is fool's gold --- stay away from
-    shitcoins](https://coinmarketcrap.co/)]{#e664}
+    shitcoins](https://coinmarketcrap.co/)]
 
 You might think that you don't have enough money to start stacking sats.
 I doubt it. If you are reading this, you are probably on [level
@@ -355,18 +355,18 @@ process, the better.
 All that being said, a word of caution:
 
 -   [**Start small.** Don't put in more money than you are willing to
-    lose.]{#71a7}
+    lose.]
 -   [**Stay humble.** Don't get greedy. Don't over-extend
-    yourself.]{#4a31}
+    yourself.]
 -   [**Not your keys, not your bitcoin.** Do not trust custodians.
     Always remember that [trusted third parties are security
-    holes.](https://nakamotoinstitute.org/trusted-third-parties/)]{#8db5}
+    holes.](https://nakamotoinstitute.org/trusted-third-parties/)]
 -   [**Don't trust, verify.** Assume that [everyone is a
-    scammer](https://nakamotoinstitute.org/mempool/everyones-a-scammer/).]{#8b67}
+    scammer](https://nakamotoinstitute.org/mempool/everyones-a-scammer/).]
 -   [**Do your own research.** Bitcoin is open by nature, so you are
     free to study what it is and how it works. I curate a [comprehensive
     list of resources](https://bitcoin-resources.com/) if you need a
-    starting point.]{#e2b6}
+    starting point.]
 
 There was never a better time to start saving in bitcoin. Many services
 exist which let you automatically convert a certain amount of your local
