@@ -397,6 +397,12 @@ you will be equipped for the future. And I believe that the best way to befriend
 it is to start stacking sats. As a [wise old man] once said: "Just buy bitcoin,
 it's not that difficult."
 
+---
+
+*Disclaimer: This should go without saying, but I’m afraid I’ll have to make it explicit: This is not financial advice. This is not investment advice. I wrote this letter to have something at hand whenever friends or family reach out to me in all matters bitcoin. I published it because I thought others might find it useful as well. If you don’t know me in real life I’m just a random guy from the internet. I might as well be a [dog]. Act accordingly.*
+
+---
+
 [Bitcoin Tina]: https://pca.st/episode/4df25905-156b-4f9c-9c1e-b92d26a52c77?t=2125
 [Satoshi Nakamoto]: https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/
 [Ray Dalio]: https://www.linkedin.com/pulse/world-has-gone-mad-system-broken-ray-dalio/
@@ -445,3 +451,4 @@ it's not that difficult."
 [comprehensive list of resources]: https://bitcoin-resources.com/
 [your local friar]: https://twitter.com/FriarHass
 [wise old man]: https://twitter.com/BitcoinOldGuy
+[dog]: https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog
