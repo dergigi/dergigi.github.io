@@ -36,6 +36,8 @@ part, I am writing to you because I'm worried about what is yet to come.
 And yet I am hopeful, because this time, we have a way out --- we have a
 Plan B.
 
+### Plan B
+
 By now, you have probably heard about Bitcoin. It is a household name,
 frequently featured in major news outlets, on TV (I'm looking at you, CNBC), and
 referenced in pop-culture ([The Simpsons], [Mr. Robot], [Silicon Valley], [The
@@ -72,6 +74,8 @@ book.
 However, since I care about you, I will tell you one thing, over and
 over again: start stacking sats, as soon as you can.
 
+### Start Stacking Sats, Today
+
 You might think that you're late to the party, that the ship has sailed. Wrong.
 You're still early. Bitcoin will [continue to march on], growing in size and
 value, eating up the government-controlled fiat currencies that rule the world
@@ -106,6 +110,8 @@ regularly."
 So I would like to be this Bitcoin Guy now, for you. Here is what I
 would say to you, as a friend: "start stacking sats, today." If you
 already do, good. If you don't, start stacking. It's not that difficult!
+
+### Why Bitcoin is Necessary
 
 We, as a society, need Bitcoin more than it needs us. Money is an
 essential tool for any large-scale cooperation. It is a measuring
@@ -155,6 +161,8 @@ central powers that might corrupt it.
 
 Bitcoin is the antidote to modern monetary theory. It is necessary to
 straighten out the crooked world of fiat money.
+
+### The Best Money We Ever Had
 
 Bitcoin's [monetary properties][bullish-case] are designed from the ground up to
 be superior to all other forms of money. It is extremely portable, perfectly
@@ -234,6 +242,8 @@ called shitcoins] for a reason. Bitcoin [can't be copied]. It is a
 
 Shitcoins are a dead end. Don't go down this path. Nothing but pain and
 sorrow will await you there.
+
+### Why Stacking Sats Is Superior
 
 As of this writing, \$1 will buy you 14,488 sats. Spend \$70, and you
 are a satoshi millionaire. Bitcoin is expensive. Sats are cheap.
@@ -355,6 +365,8 @@ is to be sold again for dollars, euro, or yen. As the meme goes: When
 you're ready, you won't have to sell your bitcoin.
 
 {% include image.html name="morpheus.jpg" caption="Neo has taken the orange pill and is tumbling down the rabbit hole." %}
+
+### Ready When You Are
 
 Exchanging your fiat money for bitcoin is a move from an inherently
 unstable system to an anti-fragile one. It is wealth insurance and a
