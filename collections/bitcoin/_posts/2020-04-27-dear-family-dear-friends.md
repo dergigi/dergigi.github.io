@@ -403,6 +403,43 @@ it's not that difficult."
 
 ---
 
+### Get started
+
+- [Setting Up Your First Bitcoin Mobile Wallet][first-wallet]
+- [12-Step Intro to Start Using Bitcoin][12-steps]
+- [Getting started with Bitcoin][getting-started]
+
+[first-wallet]: https://www.citadel21.com/not-your-keys-not-your-bitcoin
+[12-steps]: https://bitcoin-intro.com/
+[getting-started]: https://bitcoin.org/en/getting-started
+
+### Further Reading
+
+- [The Bullish Case For Bitcoin][bullish-case] by Vijay Boyapati
+- [Gradually, Then Suddenly][gradually-suddenly] series by Parker Lewis
+
+[gradually-suddenly]: https://nakamotoinstitute.org/mempool/series/gradually-then-suddenly/
+
+### Further Listening
+
+- [Explaining Bitcoin to Traditional Investors][traditional-investors] by John Vallis
+- [The Beginner’s Guide to Bitcoin][beginners-guide] by Peter McCormack
+
+[traditional-investors]: https://anchor.fm/john-vallis/episodes/Explaining-Bitcoin-to-Traditional-Investors-ed65pe
+[beginners-guide]: https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-1-andreas-m-antonopoulos-on-why-we-need-bitcoin
+
+### Further Resources
+
+- [bitcoin.page](https://bitcoin.page)
+- [bitcoin-only.com](https://bitcoin-only.com/)
+- [bitcoin-resources.com](https://bitcoin-resources.com/)
+- [21lessons.com/rabbithole](https://21lessons.com/rabbithole)
+
+### Acknowledgments
+
+- Thanks to [Brekkie] and [Fab] for their valuable feedback on earlier drafts of this letter.
+- Thanks to [Hass] for proofreading and his willingness to die on the AutoDCA hill.
+
 [Bitcoin Tina]: https://pca.st/episode/4df25905-156b-4f9c-9c1e-b92d26a52c77?t=2125
 [Satoshi Nakamoto]: https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/
 [Ray Dalio]: https://www.linkedin.com/pulse/world-has-gone-mad-system-broken-ray-dalio/
@@ -452,3 +489,7 @@ it's not that difficult."
 [your local friar]: https://twitter.com/FriarHass
 [wise old man]: https://twitter.com/BitcoinOldGuy
 [dog]: https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog
+
+[Brekkie]: https://twitter.com/BVBTC
+[Fab]: https://twitter.com/fabthefoxx
+[Hass]: https://twitter.com/FriarHass
