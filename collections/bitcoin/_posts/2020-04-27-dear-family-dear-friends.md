@@ -444,10 +444,13 @@ it's not that difficult."
 ### Translations
 
 - [German translation][de] by [ge3onim0] and [fabthefoxx]
+- [Portuguese translation][pt] by [pensaduras]
 
 [de]: https://medium.com/aprycotmedia/liebe-familie-liebe-freunde-5fb2c4a242dd
+[pt]: https://medium.com/@mileschet/querida-familia-caros-amigos-a31b1cc5a9fa
 [ge3onim0]: https://twitter.com/ge3onim0
 [fabthefoxx]: https://twitter.com/fabthefoxx
+[pensaduras]: https://twitter.com/pensaduras
 
 
 [Bitcoin Tina]: https://pca.st/episode/4df25905-156b-4f9c-9c1e-b92d26a52c77?t=2125
