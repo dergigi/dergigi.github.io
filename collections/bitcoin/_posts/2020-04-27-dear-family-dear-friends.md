@@ -37,17 +37,11 @@ And yet I am hopeful, because this time, we have a way out --- we have a
 Plan B.
 
 By now, you have probably heard about Bitcoin. It is a household name,
-frequently featured in major news outlets, on TV (I'm looking at you,
-CNBC), and referenced in pop-culture ([The
-Simpsons](https://www.ccn.com/bitcoin-finally-mentioned-foxs-simpsons/),
-[Mr. Robot](https://youtu.be/gHOAKWzDH-Q), [Silicon
-Valley](https://www.youtube.com/watch?v=28IpiLraUoc), [The Big Bang
-Theory](https://www.youtube.com/watch?v=Cc-Hbklizzk), [Grey's
-Anatomy](https://www.cyberscoop.com/greys-anatomy-attempts-bring-ransomware-attacks-public-audience/),
-[Family Guy](https://www.youtube.com/watch?v=6HFtk29k7-Y), and [The
-Simpsons](https://youtu.be/ovyMzT8rS8w) again). Whatever you might know
-or think you know about Bitcoin --- there is more to it than meets the
-eye.
+frequently featured in major news outlets, on TV (I'm looking at you, CNBC), and
+referenced in pop-culture ([The Simpsons], [Mr. Robot], [Silicon Valley], [The
+Big Bang Theory], [Grey's Anatomy], [Family Guy], and [The Simpsons][simpsons2]
+again). Whatever you might know or think you know about Bitcoin --- there is
+more to it than meets the eye.
 
 {% include image.html name="cnn.jpg" caption="Bitcoin: it is the future of money." %}
 
@@ -432,3 +426,11 @@ bitcoin, it's not that difficult."
 [Warren Davidson]: https://twitter.com/bitstein/status/1151586640307064833?s=20
 [Matt Odell]: https://twitter.com/matt_odell/status/1131559561872252928?s=20
 [Vijay Boyapati]: https://twitter.com/real_vijay/status/969591986662424576
+
+[The Simpsons]: https://www.ccn.com/bitcoin-finally-mentioned-foxs-simpsons/
+[Mr. Robot]: https://youtu.be/gHOAKWzDH-Q
+[Silicon Valley]: https://www.youtube.com/watch?v=28IpiLraUoc
+[The Big Bang Theory]: https://www.youtube.com/watch?v=Cc-Hbklizzk
+[Grey's Anatomy]: https://www.cyberscoop.com/greys-anatomy-attempts-bring-ransomware-attacks-public-audience/
+[Family Guy]: https://www.youtube.com/watch?v=6HFtk29k7-Y
+[simpsons2]: https://youtu.be/ovyMzT8rS8w
