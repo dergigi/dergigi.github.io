@@ -234,7 +234,7 @@ of magnitude. Nothing else comes close, and I don't want to waste any digital
 ink naming any other coin. All I will say about Bitcoin's copy-cats is this: do
 not touch them. While the Siren's song of shitcoins is hard to resist, [they are
 called shitcoins] for a reason. Bitcoin [can't be copied]. It is a
-[path-dependent invention]in a winner-takes-all environment.
+[path-dependent-invention] in a winner-takes-all environment.
 
 > "There is bitcoin, and then there is shitcoin."
 >
@@ -279,9 +279,10 @@ bitcoin.
 Bitcoin is a game of accumulation. Once you realize that, stacking sats becomes
 the obvious strategy. Inelastic supply and the relatively small market
 capitalization make bitcoin more volatile than other assets. (Although, compared
-to [recent] [movements] [in the] [traditional markets], bitcoin is relatively
-stable.) Stacking sats enables you to ignore the volatility of the market. The
-focus is on passive accumulation, not trading.
+to [recent][stocks1] [movements][stocks2] [in the][tesla] [traditional
+markets][oil], bitcoin is relatively stable.) Stacking sats enables you to
+ignore the volatility of the market. The focus is on passive accumulation, not
+trading.
 
 
 > "Bitcoin is a new type of money that is digital and independent of
@@ -469,10 +470,10 @@ it's not that difficult."
 [they are called shitcoins]: https://twitter.com/bitstein/status/1151586640307064833?s=20
 [can't be copied]: https://www.unchained-capital.com/blog/bitcoin-cant-be-copied/
 [path-dependent-invention]: https://medium.com/@breedlove22/the-number-zero-and-bitcoin-4c193336db5b
-[recent]: https://www.forbes.com/sites/investor/2020/04/17/stock-market-crash-party-like-its-1929/
-[movements]: https://investorplace.com/2020/03/investors-need-to-view-ba-stocks-biggest-crash-ever-as-a-gift/
-[in the]: https://www.bloomberg.com/news/articles/2020-04-13/tesla-caps-43-rally-in-longest-advance-since-early-february
-[traditional markets]: https://finance.yahoo.com/news/oil-crashes-lowest-level-since-113552445.html
+[stocks1]: https://www.forbes.com/sites/investor/2020/04/17/stock-market-crash-party-like-its-1929/
+[stocks2]: https://investorplace.com/2020/03/investors-need-to-view-ba-stocks-biggest-crash-ever-as-a-gift/
+[tesla]: https://www.bloomberg.com/news/articles/2020-04-13/tesla-caps-43-rally-in-longest-advance-since-early-february
+[oil]: https://finance.yahoo.com/news/oil-crashes-lowest-level-since-113552445.html
 [reasons to believe]: https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25
 [Don't trade]: https://youtu.be/KV5QlSgq7lg
 [Get off zero]: https://twitter.com/search?q=bitcoin%20get%20off%20zero
