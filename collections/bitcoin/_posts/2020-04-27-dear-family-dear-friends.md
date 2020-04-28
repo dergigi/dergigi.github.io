@@ -51,8 +51,9 @@ misunderstood. However, in part thanks to more and more reckless
 monetary interventions by the Fed and similar institutions, even the
 mainstream narrative is beginning to shift. Bitcoin is not a synonym for
 criminality and darknet money anymore. Today, it is more and more
-becoming a synonym for [sound money](https://21lessons.com/14/), a hedge
+becoming a synonym for [sound money], a hedge
 against the current system, a vote for freedom, a different paradigm.
+
 
 If you are reading this and still have no bitcoin you might want to
 think about starting to get some. It was never as easy as it is today to
@@ -63,30 +64,30 @@ Be warned: I will not tell you how Bitcoin works. I will not tell you
 about its captivating history, or its mysterious inventor, or about the
 marvelous design, cryptography, and game theory behind it. I will not
 talk about economic theories, or monetary properties, or the history of
-money. There are plenty of [resources](https://bitcoin-resources.com/)
+money. There are plenty of [resources]
 that go into that. After all, this is supposed to be a letter, not a
 book.
+
 
 However, since I care about you, I will tell you one thing, over and
 over again: start stacking sats, as soon as you can.
 
-You might think that you're late to the party, that the ship has sailed.
-Wrong. You're still early. Bitcoin will [continue to march
-on](https://dergigi.com/2019/10/03/how-to-kill-bitcoin/), growing in
-size and value, eating up the government-controlled fiat currencies that
-rule the world today. How do I know that these are still early days?
-Well, while most people have heard about Bitcoin by now, very few people
-own or use it. Further, if we compare the market capitalization of
-Bitcoin to other assets and/or monies, Bitcoin still has tremendous room
-for growth.
+You might think that you're late to the party, that the ship has sailed. Wrong.
+You're still early. Bitcoin will [continue to march on], growing in size and
+value, eating up the government-controlled fiat currencies that rule the world
+today. How do I know that these are still early days? Well, while most people
+have heard about Bitcoin by now, very few people own or use it. Further, if we
+compare the market capitalization of Bitcoin to other assets and/or monies,
+Bitcoin still has tremendous room for growth.
 
-As of this writing, Bitcoin's market cap is around \$137 billion. The
-total market cap of gold is around \$9 trillion (\~65 times larger than
-Bitcoin). That of real estate, globally, is [\$228
-trillion](https://internationalservices.hsbc.com/content/dam/hsbcis/pdf/HSBC_Global_Real_Estate_Report_July2017.pdf)
-(\~1664 times larger). Bitcoin may capture some (in the case of real
-estate) or all (in the case of gold) of this value, demonetizing these
-and other assets in the process. Again: these are still early days.
+
+As of this writing, Bitcoin's market cap is around \$137 billion. The total
+market cap of gold is around \$9 trillion (\~65 times larger than Bitcoin). That
+of real estate, globally, is [\$228 trillion][228-trillion] (\~1664 times
+larger). Bitcoin may capture some (in the case of real estate) or all (in the
+case of gold) of this value, demonetizing these and other assets in the process.
+Again: these are still early days.
+
 
 > "We are in the process of repricing the world in sats."
 >
@@ -121,28 +122,26 @@ clearly shown that our money is fundamentally broken.
 >
 > <cite>[Satoshi Nakamoto]</cite>
 
-The virus not only reminded us of the fragility of human life, but it
-also revealed the fragility of our supply chains and other global
-systems. In particular, it highlighted the ridiculousness of our
-financial and monetary system. In a matter of days, we went from
-printing billions to trillions, to proposals of minting
-trillion-dollar-denominated platinum coins, to [unlimited
-QE](https://www.marketwatch.com/story/fed-announces-unlimited-qe-and-sets-up-several-new-lending-programs-2020-03-23)and
-[infinite
-cash](https://www.bloomberg.com/opinion/articles/2020-03-23/coronavirus-fed-s-infinite-cash-tested-in-world-of-leverage).
-Economists and politicians speak of saving the economy, of injecting
-liquidity, of quantitative easing, of reverse repurchase agreements, of
-bailing out those who are too big to fail (again) --- of doing
-everything in their power to prolong the inevitable collapse, to kick
-the proverbial can even further down the road.
+The virus not only reminded us of the fragility of human life, but it also
+revealed the fragility of our supply chains and other global systems. In
+particular, it highlighted the ridiculousness of our financial and monetary
+system. In a matter of days, we went from printing billions to trillions, to
+proposals of minting trillion-dollar-denominated platinum coins, to [unlimited
+QE] and [infinite cash]. Economists and politicians speak of saving the economy,
+of injecting liquidity, of quantitative easing, of reverse repurchase
+agreements, of bailing out those who are too big to fail (again) --- of doing
+everything in their power to prolong the inevitable collapse, to kick the
+proverbial can even further down the road.
+
 
 While the lingo is fancy, the repercussions are simple: an essential
 tool of our civilization is bent and distorted. Hyperinflation is what
 happens when this tool finally breaks under constant pressure.
-[Hyperinflation](https://21lessons.com/9/) or not, the repercussions for
+[Hyperinflation] or not, the repercussions for
 the individual are always the same: the money you save gets devalued,
 its purchasing power diminished. Whether your money is sitting under
 your mattress or in your bank account doesn't even matter.
+
 
 > "The world has gone mad and the system is broken."
 >
@@ -157,22 +156,18 @@ central powers that might corrupt it.
 Bitcoin is the antidote to modern monetary theory. It is necessary to
 straighten out the crooked world of fiat money.
 
-Bitcoin's [monetary
-properties](http://fakehost/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1)
-are designed from the ground up to be superior to all other forms of
-money. It is extremely portable, perfectly scarce, highly divisible,
-easily verifiable, durable, fungible, and extraordinarily resistant to
-censorship. As [a friend of
-mine](https://twitter.com/MustStopMurad/status/1088514383171411968?s=20)
-likes to say: Bitcoin is pieces of super-gold flying inside an
-unstoppable PayPal. It is the best money we ever had.
+Bitcoin's [monetary properties][bullish-case] are designed from the ground up to
+be superior to all other forms of money. It is extremely portable, perfectly
+scarce, highly divisible, easily verifiable, durable, fungible, and
+extraordinarily resistant to censorship. As [a friend of mine] likes to say:
+Bitcoin is pieces of super-gold flying inside an unstoppable PayPal. It is the
+best money we ever had.
 
 No central authority bestows these properties upon bitcoin. They emerge
 naturally from within the system, a fact that is as beautiful as it is
-important. Thus, Bitcoin is the [people's
-money](https://twitter.com/theRealKiyosaki/status/1245205778849394688?s=20):
-for the people, by the people. Not controlled by anyone; auditable and
-useable by everyone.
+important. Thus, Bitcoin is the [people's money]: for the people, by the people.
+Not controlled by anyone; auditable and useable by everyone.
+
 
 > "Buy land. They ain't making any more of the stuff."
 >
@@ -220,25 +215,18 @@ decades ago wasn't exactly easy, using Bitcoin today can be challenging
 at times.
 
 **Bitcoin is risky and speculative:** Don't speculate. Stay humble and
-start stacking sats. If that's not good enough for you, how about the
-fact that a portfolio of 5% bitcoin and 95% cash outperformed stocks on
-risk and returns every year [for the past 6
-years](https://twitter.com/100trillionUSD/status/1136969637588021250?s=20)?
-Still too risky?
+start stacking sats. If that's not good enough for you, how about the fact that
+a portfolio of 5% bitcoin and 95% cash outperformed stocks on risk and returns
+every year [for the past 6 years]? Still too risky?
 
 **Bitcoin will be replaced by another coin:** Bitcoin is the undisputed
-king and the only serious contender for digital scarcity. It has the
-best network effects, the highest liquidity, and the highest security by
-many orders of magnitude. Nothing else comes close, and I don't want to
-waste any digital ink naming any other coin. All I will say about
-Bitcoin's copy-cats is this: do not touch them. While the Siren's song
-of shitcoins is hard to resist, [they are called
-shitcoins](https://twitter.com/bitstein/status/1151586640307064833?s=20)
-for a reason. Bitcoin [can't be
-copied](https://www.unchained-capital.com/blog/bitcoin-cant-be-copied/).
-It is a [path-dependent
-invention](http://fakehost/@breedlove22/the-number-zero-and-bitcoin-4c193336db5b)in
-a winner-takes-all environment.
+king and the only serious contender for digital scarcity. It has the best
+network effects, the highest liquidity, and the highest security by many orders
+of magnitude. Nothing else comes close, and I don't want to waste any digital
+ink naming any other coin. All I will say about Bitcoin's copy-cats is this: do
+not touch them. While the Siren's song of shitcoins is hard to resist, [they are
+called shitcoins] for a reason. Bitcoin [can't be copied]. It is a
+[path-dependent invention]in a winner-takes-all environment.
 
 > "There is bitcoin, and then there is shitcoin."
 >
@@ -278,19 +266,13 @@ Think of it this way: if the trajectory that Bitcoin is on continues,
 there will never be a bad time to exchange your fiat currency for
 bitcoin.
 
-Bitcoin is a game of accumulation. Once you realize that, stacking sats
-becomes the obvious strategy. Inelastic supply and the relatively small
-market capitalization make bitcoin more volatile than other assets.
-(Although, compared to
-[recent](https://www.forbes.com/sites/investor/2020/04/17/stock-market-crash-party-like-its-1929/)
-[movements](https://investorplace.com/2020/03/investors-need-to-view-ba-stocks-biggest-crash-ever-as-a-gift/)
-[in
-the](https://www.bloomberg.com/news/articles/2020-04-13/tesla-caps-43-rally-in-longest-advance-since-early-february)
-[traditional
-markets](https://finance.yahoo.com/news/oil-crashes-lowest-level-since-113552445.html),
-bitcoin is relatively stable.) Stacking sats enables you to ignore the
-volatility of the market. The focus is on passive accumulation, not
-trading.
+Bitcoin is a game of accumulation. Once you realize that, stacking sats becomes
+the obvious strategy. Inelastic supply and the relatively small market
+capitalization make bitcoin more volatile than other assets. (Although, compared
+to [recent] [movements] [in the] [traditional markets], bitcoin is relatively
+stable.) Stacking sats enables you to ignore the volatility of the market. The
+focus is on passive accumulation, not trading.
+
 
 > "Bitcoin is a new type of money that is digital and independent of
 > world governments or corporations. It is hard to seize, block, or
@@ -299,40 +281,31 @@ trading.
 >
 > <cite>[Matt Odell]</cite>
 
-Zoom out far enough and it becomes obvious that the price movement of
-Bitcoin is up and to the right. There are [reasons to
-believe](http://fakehost/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25)
-that this trend will continue. Even with this upward trend intact, the
-price of bitcoin will probably remain volatile for quite a while. My
-advice: ignore the price. Get off zero. Do you still have zero sats to
-your name? Stop slacking --- start stacking!
+Zoom out far enough and it becomes obvious that the price movement of Bitcoin is
+up and to the right. There are [reasons to believe] that this trend will
+continue. Even with this upward trend intact, the price of bitcoin will probably
+remain volatile for quite a while. My advice: ignore the price. Get off zero. Do
+you still have zero sats to your name? Stop slacking --- start stacking!
 
 Some things to remember:
 
--   [Don't trade](https://youtu.be/KV5QlSgq7lg)
--   [[Get off
-    zero](https://twitter.com/search?q=bitcoin%20get%20off%20zero)]
--   [[Automate with
-    Auto-DCA](https://twitter.com/FriarHass/status/1254050840182009856?s=20)]
--   [[Everyone thinks they are
-    late](https://twitter.com/TonyF87/status/80373832854151168?s=20)]
--   [[You can buy a fraction of a
-    bitcoin](http://stackingsats.com/)]
--   [[Trusted third parties are security
-    holes](https://nakamotoinstitute.org/trusted-third-parties/)]
--   [[Time in the market beats timing the
-    market](http://jrxy.zjsu.edu.cn/jrxy/jssc/791.pdf)]
--   [[There is gold and there is fool's gold --- stay away from
-    shitcoins](https://coinmarketcrap.co/)]
+-   [Don't trade]
+-   [Get off zero]
+-   [Automate with Auto-DCA]
+-   [Everyone thinks they are late]
+-   [You can buy a fraction of a bitcoin]
+-   [Trusted third parties are security holes]
+-   [Time in the market beats timing the market]
+-   [There is gold and there is fool's gold --- stay away from shitcoins]
 
-You might think that you don't have enough money to start stacking sats.
-I doubt it. If you are reading this, you are probably on [level
-4](https://www.gapminder.org/topics/four-income-levels/) and able to
-spare a dollar or two per day. Remember: a couple of dollars will buy
-you tens of thousands of sats. There are also indirect ways to stack
-sats, such as cashback services that pay you back in sats. You can also
-kick a bad habit and start stacking sats with the money you save. Two
-birds with one stone, and all that.
+
+
+You might think that you don't have enough money to start stacking sats. I doubt
+it. If you are reading this, you are probably on [level 4] and able to spare a
+dollar or two per day. Remember: a couple of dollars will buy you tens of
+thousands of sats. There are also indirect ways to stack sats, such as cashback
+services that pay you back in sats. You can also kick a bad habit and start
+stacking sats with the money you save. Two birds with one stone, and all that.
 
 Sats are still stupidly cheap. I'd bet that there will soon come a time
 where it won't be possible to acquire tens of thousands of sats for \$1.
@@ -354,28 +327,22 @@ process, the better.
 
 All that being said, a word of caution:
 
--   [**Start small.** Don't put in more money than you are willing to
-    lose.]
--   [**Stay humble.** Don't get greedy. Don't over-extend
-    yourself.]
--   [**Not your keys, not your bitcoin.** Do not trust custodians.
-    Always remember that [trusted third parties are security
-    holes.](https://nakamotoinstitute.org/trusted-third-parties/)]
--   [**Don't trust, verify.** Assume that [everyone is a
-    scammer](https://nakamotoinstitute.org/mempool/everyones-a-scammer/).]
--   [**Do your own research.** Bitcoin is open by nature, so you are
-    free to study what it is and how it works. I curate a [comprehensive
-    list of resources](https://bitcoin-resources.com/) if you need a
-    starting point.]
+-   **Start small.** Don't put in more money than you are willing to lose.
+-   **Stay humble.** Don't get greedy. Don't over-extend yourself.
+-   **Not your keys, not your bitcoin.** Do not trust custodians.
+    Always remember that [trusted third parties are security holes.]
+-   **Don't trust, verify.** Assume that [everyone is a scammer].
+-   **Do your own research.** Bitcoin is open by nature, so you are free to
+    study what it is and how it works. I curate a
+    [comprehensive list of resources] if you need a starting point.
 
-There was never a better time to start saving in bitcoin. Many services
-exist which let you automatically convert a certain amount of your local
-currency into bitcoin every week, month, or day. I will refrain from any
-recommendations here since they might be outdated soon. What the best
-service is for you is yours to find out. Contact [your local
-friar](https://twitter.com/FriarHass) or the bitcoin guy closest to you.
-If he doesn't know what stacking sats means, find a better bitcoin guy.
-(And if I happen to be that guy, please reach out to me.)
+There was never a better time to start saving in bitcoin. Many services exist
+which let you automatically convert a certain amount of your local currency into
+bitcoin every week, month, or day. I will refrain from any recommendations here
+since they might be outdated soon. What the best service is for you is yours to
+find out. Contact [your local friar] or the bitcoin guy closest to you. If he
+doesn't know what stacking sats means, find a better bitcoin guy. (And if I
+happen to be that guy, please reach out to me.)
 
 > "Owning bitcoins is one of the few asymmetric bets that people across
 > the entire world can participate in."
@@ -412,12 +379,11 @@ will be able to stop you from acquiring some if you are ready to do so.
 That's the beauty of Bitcoin: it will always be there for you, whether
 you make use of it or not.
 
-Granted, Bitcoin is a strange beast. It is complicated, overwhelming,
-maybe even a bit scary. However, the sooner you befriend this strange
-creature, the better you will be equipped for the future. And I believe
-that the best way to befriend it is to start stacking sats. As a [wise
-old man](https://twitter.com/BitcoinOldGuy) once said: "Just buy
-bitcoin, it's not that difficult."
+Granted, Bitcoin is a strange beast. It is complicated, overwhelming, maybe even
+a bit scary. However, the sooner you befriend this strange creature, the better
+you will be equipped for the future. And I believe that the best way to befriend
+it is to start stacking sats. As a [wise old man] once said: "Just buy bitcoin,
+it's not that difficult."
 
 [Bitcoin Tina]: https://pca.st/episode/4df25905-156b-4f9c-9c1e-b92d26a52c77?t=2125
 [Satoshi Nakamoto]: https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/
@@ -434,3 +400,36 @@ bitcoin, it's not that difficult."
 [Grey's Anatomy]: https://www.cyberscoop.com/greys-anatomy-attempts-bring-ransomware-attacks-public-audience/
 [Family Guy]: https://www.youtube.com/watch?v=6HFtk29k7-Y
 [simpsons2]: https://youtu.be/ovyMzT8rS8w
+[sound money]: https://21lessons.com/14/
+[resources]: https://bitcoin-resources.com/
+[continue to march on]: https://dergigi.com/2019/10/03/how-to-kill-bitcoin/
+[228-trillion]: https://internationalservices.hsbc.com/content/dam/hsbcis/pdf/HSBC_Global_Real_Estate_Report_July2017.pdf
+[unlimited QE]: https://www.marketwatch.com/story/fed-announces-unlimited-qe-and-sets-up-several-new-lending-programs-2020-03-23
+[infinite cash]: https://www.bloomberg.com/opinion/articles/2020-03-23/coronavirus-fed-s-infinite-cash-tested-in-world-of-leverage
+[Hyperinflation]: https://21lessons.com/9/
+[bullish-case]: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
+[a friend of mine]: https://twitter.com/MustStopMurad/status/1088514383171411968?s=20
+[people's money]: https://twitter.com/theRealKiyosaki/status/1245205778849394688?s=20
+[for the past 6 years]: https://twitter.com/100trillionUSD/status/1136969637588021250?s=20
+[they are called shitcoins]: https://twitter.com/bitstein/status/1151586640307064833?s=20
+[can't be copied]: https://www.unchained-capital.com/blog/bitcoin-cant-be-copied/
+[path-dependent-invention]: https://medium.com/@breedlove22/the-number-zero-and-bitcoin-4c193336db5b
+[recent]: https://www.forbes.com/sites/investor/2020/04/17/stock-market-crash-party-like-its-1929/
+[movements]: https://investorplace.com/2020/03/investors-need-to-view-ba-stocks-biggest-crash-ever-as-a-gift/
+[in the]: https://www.bloomberg.com/news/articles/2020-04-13/tesla-caps-43-rally-in-longest-advance-since-early-february
+[traditional markets]: https://finance.yahoo.com/news/oil-crashes-lowest-level-since-113552445.html
+[reasons to believe]: https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25
+[Don't trade]: https://youtu.be/KV5QlSgq7lg
+[Get off zero]: https://twitter.com/search?q=bitcoin%20get%20off%20zero
+[Automate with Auto-DCA]: https://twitter.com/FriarHass/status/1254050840182009856?s=20
+[Everyone thinks they are late]: https://twitter.com/TonyF87/status/80373832854151168?s=20
+[You can buy a fraction of a bitcoin]: http://stackingsats.com/
+[Trusted third parties are security holes]: https://nakamotoinstitute.org/trusted-third-parties/
+[Time in the market beats timing the market]: http://jrxy.zjsu.edu.cn/jrxy/jssc/791.pdf
+[There is gold and there is fool's gold --- stay away from shitcoins]: https://coinmarketcrap.co/
+[level 4]: https://www.gapminder.org/topics/four-income-levels/
+[trusted third parties are security holes.]: https://nakamotoinstitute.org/trusted-third-parties/
+[everyone is a scammer]: https://nakamotoinstitute.org/mempool/everyones-a-scammer/
+[comprehensive list of resources]: https://bitcoin-resources.com/
+[your local friar]: https://twitter.com/FriarHass
+[wise old man]: https://twitter.com/BitcoinOldGuy
