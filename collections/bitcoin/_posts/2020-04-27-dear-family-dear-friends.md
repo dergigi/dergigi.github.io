@@ -2,7 +2,7 @@
 layout: post
 title: "Dear Family, Dear Friends,"
 subtitle: A letter to all of you who still have no bitcoin.
-date: 2020-04-28
+date: 2020-04-27
 image: /assets/images/btc15-dear-family.jpg
 source: https://medium.com/@dergigi/dear-family-dear-friends-6ef7ee7a1a2b
 author: Gigi
@@ -49,8 +49,7 @@ Simpsons](https://youtu.be/ovyMzT8rS8w) again). Whatever you might know
 or think you know about Bitcoin --- there is more to it than meets the
 eye.
 
-![](https://miro.medium.com/max/60/1*z_xNzaz0aXTRPcTbHxwsIw.jpeg?q=20){width="980"
-height="552"}
+{% include image.html name="cnn.jpg" caption="Bitcoin: it is the future of money." %}
 
 While Bitcoin has been covered in the mainstream media quite a bit, what
 Bitcoin is and what its role in the world will be is still widely
@@ -263,8 +262,7 @@ sorrow will await you there.
 As of this writing, \$1 will buy you 14,488 sats. Spend \$70, and you
 are a satoshi millionaire. Bitcoin is expensive. Sats are cheap.
 
-![](https://miro.medium.com/max/60/1*nKqtokzs4i_ohNWD3RdBGg.png?q=20){width="666"
-height="353"}
+{% include image.html name="sat.png" %}
 
 As mentioned above, bitcoin is highly divisible. Again, don't let any
 unit bias fool you: there is enough bitcoin to go around for everyone.
@@ -357,8 +355,7 @@ even if the price of bitcoin keeps rising drastically, you will probably
 still be able to get your hands on a couple of sats for \$1 or less for
 the foreseeable future.
 
-![](https://miro.medium.com/max/60/1*DSweSlb5OO56GE7X_UD2tA.jpeg?q=20){width="1601"
-height="866"}
+{% include image.html name="rise-and-fall-usd.jpg" caption="Believe it or not, it can go lower still." %}
 
 You're skeptical, I get it. I was skeptical too. It took me a very long
 time to understand what Bitcoin is about. It took me even longer to
@@ -404,10 +401,7 @@ it as a speculative investment. I also do not view it as an asset that
 is to be sold again for dollars, euro, or yen. As the meme goes: When
 you're ready, you won't have to sell your bitcoin.
 
-![Neo has taken the [orange pill](https://21lessons.com/intro) and is
-tumbling down the [rabbit
-hole](https://21lessons.com/rabbithole).](https://miro.medium.com/max/60/1*4i8BP5dYGqwwC7kLEQoI7Q.jpeg?q=20){width="600"
-height="503"}
+{% include image.html name="morpheus.jpg" caption="Neo has taken the orange pill and is tumbling down the rabbit hole." %}
 
 Exchanging your fiat money for bitcoin is a move from an inherently
 unstable system to an anti-fragile one. It is wealth insurance and a
