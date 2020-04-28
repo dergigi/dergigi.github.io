@@ -96,8 +96,7 @@ and other assets in the process. Again: these are still early days.
 
 > "We are in the process of repricing the world in sats."
 >
-> --- [Bitcoin
-> Tina](https://pca.st/episode/4df25905-156b-4f9c-9c1e-b92d26a52c77?t=2125)
+> <cite>[Bitcoin Tina]</cite>
 
 Granted, buying and holding bitcoin is nuanced. It is easy to shoot
 yourself in the foot. It is easy to get scammed. It is possible to lose
@@ -126,8 +125,7 @@ clearly shown that our money is fundamentally broken.
 > debase the currency, but the history of fiat currencies is full of
 > breaches of that trust."
 >
-> --- [Satoshi
-> Nakamoto](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)
+> <cite>[Satoshi Nakamoto]</cite>
 
 The virus not only reminded us of the fragility of human life, but it
 also revealed the fragility of our supply chains and other global
@@ -154,16 +152,13 @@ your mattress or in your bank account doesn't even matter.
 
 > "The world has gone mad and the system is broken."
 >
-> --- [Ray
-> Dalio](https://www.linkedin.com/pulse/world-has-gone-mad-system-broken-ray-dalio/)
+> <cite>[Ray Dalio]</cite>
 
-As Ray Dalio
-[explains](https://www.linkedin.com/pulse/world-has-gone-mad-system-broken-ray-dalio/)
-so eloquently: our debt-based system of money is inherently broken.
-Bitcoin fixes this. It fixes this because it is not based on debt. It
-fixes this because it has a strictly limited supply. It fixes this
-because it can't be created arbitrarily; because there are no
-gatekeepers, no central powers that might corrupt it.
+As Ray Dalio [explains][Ray Dalio] so eloquently: our debt-based system of money
+is inherently broken. Bitcoin fixes this. It fixes this because it is not based
+on debt. It fixes this because it has a strictly limited supply. It fixes this
+because it can't be created arbitrarily; because there are no gatekeepers, no
+central powers that might corrupt it.
 
 Bitcoin is the antidote to modern monetary theory. It is necessary to
 straighten out the crooked world of fiat money.
@@ -187,7 +182,7 @@ useable by everyone.
 
 > "Buy land. They ain't making any more of the stuff."
 >
-> --- [Will Rogers](https://en.wikiquote.org/wiki/Will_Rogers)
+> <cite>[Will Rogers]</cite>
 
 Will Rogers had the right idea: scarcity has value. However, as a store
 of value, Bitcoin is superior to land (and gold, for that matter) in
@@ -253,8 +248,7 @@ a winner-takes-all environment.
 
 > "There is bitcoin, and then there is shitcoin."
 >
-> --- [Warren
-> Davidson](https://twitter.com/bitstein/status/1151586640307064833?s=20)
+> <cite>[Warren Davidson]</cite>
 
 Shitcoins are a dead end. Don't go down this path. Nothing but pain and
 sorrow will await you there.
@@ -309,8 +303,7 @@ trading.
 > inflate and easy to send around the world. It is the best money we
 > have ever had. As more people realize this, the price should rise."
 >
-> --- [Matt
-> Odell](https://twitter.com/matt_odell/status/1131559561872252928?s=20)
+> <cite>[Matt Odell]</cite>
 
 Zoom out far enough and it becomes obvious that the price movement of
 Bitcoin is up and to the right. There are [reasons to
@@ -393,8 +386,7 @@ If he doesn't know what stacking sats means, find a better bitcoin guy.
 > "Owning bitcoins is one of the few asymmetric bets that people across
 > the entire world can participate in."
 >
-> --- [Vijay
-> Boyapati](https://twitter.com/real_vijay/status/969591986662424576)
+> <cite>[Vijay Boyapati]</cite>
 
 While Bitcoin is an investment in the future, I don't necessarily view
 it as a speculative investment. I also do not view it as an asset that
@@ -432,3 +424,11 @@ creature, the better you will be equipped for the future. And I believe
 that the best way to befriend it is to start stacking sats. As a [wise
 old man](https://twitter.com/BitcoinOldGuy) once said: "Just buy
 bitcoin, it's not that difficult."
+
+[Bitcoin Tina]: https://pca.st/episode/4df25905-156b-4f9c-9c1e-b92d26a52c77?t=2125
+[Satoshi Nakamoto]: https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/
+[Ray Dalio]: https://www.linkedin.com/pulse/world-has-gone-mad-system-broken-ray-dalio/
+[Will Rogers]: https://en.wikiquote.org/wiki/Will_Rogers
+[Warren Davidson]: https://twitter.com/bitstein/status/1151586640307064833?s=20
+[Matt Odell]: https://twitter.com/matt_odell/status/1131559561872252928?s=20
+[Vijay Boyapati]: https://twitter.com/real_vijay/status/969591986662424576
