@@ -248,7 +248,7 @@ sorrow will await you there.
 As of this writing, \$1 will buy you 14,488 sats. Spend \$70, and you
 are a satoshi millionaire. Bitcoin is expensive. Sats are cheap.
 
-{% include image.html name="sat.png" %}
+{% include image.html name="sat.png" caption="\"I'm stacking sats every day thanks to auto-DCA\"" %}
 
 As mentioned above, bitcoin is highly divisible. Again, don't let any
 unit bias fool you: there is enough bitcoin to go around for everyone.
