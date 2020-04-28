@@ -441,6 +441,15 @@ it's not that difficult."
 - Thanks to [Brekkie] and [Fab] for their valuable feedback on earlier drafts of this letter.
 - Thanks to [Hass] for proofreading and his willingness to die on the AutoDCA hill.
 
+### Translations
+
+- [German translation][de] by [ge3onim0] and [fabthefoxx]
+
+[de]: https://medium.com/aprycotmedia/liebe-familie-liebe-freunde-5fb2c4a242dd
+[ge3onim0]: https://twitter.com/ge3onim0
+[fabthefoxx]: https://twitter.com/fabthefoxx
+
+
 [Bitcoin Tina]: https://pca.st/episode/4df25905-156b-4f9c-9c1e-b92d26a52c77?t=2125
 [Satoshi Nakamoto]: https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/
 [Ray Dalio]: https://www.linkedin.com/pulse/world-has-gone-mad-system-broken-ray-dalio/
