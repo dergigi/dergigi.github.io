@@ -335,6 +335,20 @@ this new game. And we will have to come to terms with the fact that a
 finite resource has to be used to secure this new, decentralized
 economy. In the case of Bitcoin, this resource is energy.
 
+---
+
+### Translations
+
+- [Spanish translation][es] by FiFi Global
+- [Finnish translation][fi] by [Thomas Brand]
+- [German translation][de] by [Initiative Neues Solides Geld]
+
+[es]: https://fififinance.com/es/consumo-de-energia-bitcoin
+[fi]: https://medium.com/brandin-kirjasto/bitcoinin-energiankulutus-e6dfdc4ae97e
+[de]: https://medium.com/@INSG2020/energieverbrauch-von-bitcoin-779ab7c41cd8
+[Thomas Brand]: https://twitter.com/thlbr
+[Initiative Neues Solides Geld]: https://twitter.com/INSG2020
+
 [dispute the numbers]: https://medium.com/cs-research/re-cost-of-mining-misconceptions-e3fcff1ce726
 [compare Bitcoin's energy usage]: https://drive.google.com/file/d/1TIma781rLFjr-dqeJmL2KN06OpoRkSsj/view
 [in the first place]: https://en.bitcoin.it/wiki/Genesis_block
