@@ -436,6 +436,8 @@ it's not that difficult."
 - [bitcoin-resources.com](https://bitcoin-resources.com/)
 - [21lessons.com/rabbithole](https://21lessons.com/rabbithole)
 
+---
+
 ### Acknowledgments
 
 - Thanks to [Brekkie] and [Fab] for their valuable feedback on earlier drafts of this letter.
@@ -445,6 +447,20 @@ it's not that difficult."
 
 - [German translation][de] by [ge3onim0] and [fabthefoxx]
 - [Portuguese translation][pt] by [pensaduras]
+
+---
+
+### Dear World
+
+Open letters in anticipation of the [next era][era]:
+
+- [Dear Legacy People][legacy]
+- [Dear Bitcoiners][bitcoiners]
+- Dear Family, Dear Friends
+
+[legacy]: {% post_url /bitcoin/2020-03-20-dear-legacy-people %}
+[bitcoiners]: {% post_url /bitcoin/2020-03-31-dear-bitcoiners %}
+[era]: https://en.bitcoin.it/wiki/Controlled_supply
 
 [de]: https://medium.com/aprycotmedia/liebe-familie-liebe-freunde-5fb2c4a242dd
 [pt]: https://medium.com/@mileschet/querida-familia-caros-amigos-a31b1cc5a9fa
