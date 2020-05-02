@@ -446,7 +446,8 @@ it's not that difficult."
 ### Translations
 
 - [German translation][de] by [ge3onim0] and [fabthefoxx]
-- [Portuguese translation][pt] by [pensaduras]
+- [Brazilian Portuguese translation][pt-br] by [pensaduras]
+- [Portuguese translation][pt] by Sparkpay
 
 ---
 
@@ -463,7 +464,8 @@ Open letters in anticipation of the [next era][era]:
 [era]: https://en.bitcoin.it/wiki/Controlled_supply
 
 [de]: https://medium.com/aprycotmedia/liebe-familie-liebe-freunde-5fb2c4a242dd
-[pt]: https://medium.com/@mileschet/querida-familia-caros-amigos-a31b1cc5a9fa
+[pt-br]: https://medium.com/@mileschet/querida-familia-caros-amigos-a31b1cc5a9fa
+[pt]: https://blog.sparkpay.pt/cara-familia-caros-amigos/
 [ge3onim0]: https://twitter.com/ge3onim0
 [fabthefoxx]: https://twitter.com/fabthefoxx
 [pensaduras]: https://twitter.com/pensaduras
