@@ -7,6 +7,7 @@ image: /assets/images/btc15-dear-family.jpg
 source: https://medium.com/@dergigi/dear-family-dear-friends-6ef7ee7a1a2b
 author: Gigi
 category: bitcoin
+audio: /assets/audio/family.m4a
 tags:
  - Bitcoin
  - Writing
