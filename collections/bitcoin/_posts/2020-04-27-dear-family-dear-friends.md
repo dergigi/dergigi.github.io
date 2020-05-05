@@ -7,13 +7,10 @@ image: /assets/images/btc15-dear-family.jpg
 source: https://medium.com/@dergigi/dear-family-dear-friends-6ef7ee7a1a2b
 author: Gigi
 category: bitcoin
+audio: /assets/audio/family.m4a
 tags:
  - Bitcoin
  - Writing
----
-
-An [audio version](https://anchor.fm/thecryptoconomy/episodes/Read_389---Dear-Family--Dear-Friends-DerGigi-edghuq) of this letter is read by Guy Swann.
-
 ---
 
 I am writing this letter because I am convinced of two things: (1) our
