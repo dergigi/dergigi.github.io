@@ -13,10 +13,6 @@ tags:
  - Writing
 ---
 
-An [audio version](https://anchor.fm/thecryptoconomy/episodes/Read_389---Dear-Family--Dear-Friends-DerGigi-edghuq) of this letter is read by Guy Swann.
-
----
-
 I am writing this letter because I am convinced of two things: (1) our
 current money is fundamentally broken (2) using superior money will
 benefit you in particular --- and society in general --- in the long
