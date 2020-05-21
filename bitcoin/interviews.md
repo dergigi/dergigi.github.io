@@ -9,9 +9,10 @@ Finding the time to read long articles and books can be challenging, which is
 why I love podcasts and recorded conversations of all kinds. If you do too,
 here are some conversations where I share my thoughts about [Bitcoin][bitcoin].
 
+  - **2020-05-20** - [Swan Signal #11][ss11] with Knut, Brekkie, and Cory, hosted by Brady (also on [youtube][ss11-yt])
   - **2020-05-11** - [Celebrating the Third Bitcoin Halving][define-your-moon]: Define your Moon with BitcoinTina and David Bailey hosted by Bitcoin Magazine
   - **2020-04-09** - [Once Bitten #26][once-bitten26] on privacy and the difference between the legacy and the Bitcoin world, hosted by Daniel Prince
-  - **2020-03-14** - [Swan Signal][ss2] with Guy, Yan, Hass, John, and Cory on the current state of the world and Bitcoin, hosted by Brady
+  - **2020-03-14** - [Swan Signal #1][ss1] with Guy, Yan, Hass, John, and Cory on the current state of the world and Bitcoin, hosted by Brady
   - **2020-03-04** - [Fun With Bitcoin #70][fwb70] on the Shitcoin Trap and why Bitcoin is superior, hosted by Coinicarus
   - **2020-02-12** - [Once Bitten #6][once-bitten6] on 21 Lessons and Bitcoin's Gravity hosted by Daniel Prince
   - **2020-01-24** - [This Week in Bitcoin][twib2] with Mauricio Di Bartolomeo and David Bennett, hosted by Adam Meister (also on [youtube][twib2-youtube])
@@ -69,9 +70,11 @@ Want to talk? Feel free to [reach out to me][contact].
 [twib2-youtube]: https://youtu.be/vZcf5eRz-Gs
 [once-bitten6]: https://anchor.fm/daniel-prince6/episodes/Bitcoin-Is-A-Harsh-Mistress-eapg7e
 [fwb70]: https://anchor.fm/funwithbitcoin/episodes/Interviewdiscussion-with-DerGigi--definitive-shitcoin-dump-episode-eb8c6j
-[ss2]: https://anchor.fm/thecryptoconomy/episodes/CryptoChat_032---State-of-Bitcoin-Address-with-Swan-Signal-ebgptm
+[ss1]: https://swansignal.simplecast.com/episodes/regrouping-after-a-bitcoin-price-crash-episode-1
 [once-bitten26]: https://anchor.fm/daniel-prince6/episodes/Dergigi-Just-Three-More-Halvings-ecinjv
 [define-your-moon]: https://youtu.be/lx4Jlq1iIy4
+[ss11]: https://swansignal.simplecast.com/episodes/knut-svanholm-and-gigi-e11
+[ss11-yt]: https://youtu.be/ExzzQzh7BLU
 
 [contact]: {{ '/contact' | absolute_url }}
 [bitcoin]: {{ '/bitcoin' | absolute_url }}
