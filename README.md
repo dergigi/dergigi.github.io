@@ -1,10 +1,12 @@
 # Hello World! 👋 
 
-This repository is a collection of thoughts and essays on Bitcoin, life, and a little bit of photography.
+This repository is a collection of thoughts and essays on [Bitcoin](https://dergigi.com/bitcoin/), life, and a little bit of [photography](https://dergigi.com/blog/).
 
-[derGigi.com](https://dergigi.com) uses [jekyll](https://jekyllrb.com/) under the hood and is currently hosted on GitHub.
+[dergigi.com](https://dergigi.com) uses [jekyll](https://jekyllrb.com/) under the hood and is currently hosted on GitHub.
 
-If you find any typos, grammatical errors, broken links, or any other mistakes or issues, please point them out to me on [twitter](https://twitter.com/dergigi). Or create a pull request to correct them.
+If you find any typos, grammatical errors, broken links, or any other mistakes or issues, please [contact me](https://dergigi.com/contact/) or point them out to me on [twitter](https://twitter.com/dergigi). Or create a pull request to correct them.
+
+You can [support me](https://dergigi.com/support/) by purchasing a copy of [21 Lessons](https://21lessons.com/) (or by sending me sats directly).
 
 ---
 
