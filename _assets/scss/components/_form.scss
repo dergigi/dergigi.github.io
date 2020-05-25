@@ -81,3 +81,13 @@
     background-color: $color-tippin;
   }
 }
+
+.btcpay-flex-container {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+
+  & > div {
+    margin: 10px 5px 20px 5px;
+  }
+}

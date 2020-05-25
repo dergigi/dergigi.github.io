@@ -8,6 +8,8 @@ Dear Netizen, \\
 the easiest way to support me is to [buy my book](https://amzn.to/2VXmQgp) -
 although you could also read it for free on the web.
 
+{% include btcpay-usd-exp.html %}
+
 Paying for immaterial stuff on the internet is a weird thing.
 Everyone got used to the fact that everything is available for free, all the
 time. I got used to that too, and I tend to close paywalls as fast and as
@@ -30,7 +32,6 @@ the same problem that all centralized platforms will inevitably suffer from:
 power and control, which has the habit of resulting in interference and
 censorship. I'm not a fan of interference. And I despise censorship.
 
-{% include btcpay-donate.html %}
 
 Luckily, we now live in a world where Bitcoin exists. We can give directly, just
 like in the olden days, where buskers performed for everyone, and a handful of

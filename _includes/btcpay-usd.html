@@ -1,0 +1,10 @@
+<div>
+  <form method="POST" action="https://shop.dergigi.com/api/v1/invoices" target="_blank" class="btcpay-form btcpay-form--block">
+    <input type="hidden" name="storeId" value="3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn" />
+    <input type="hidden" name="price" value="{{ include.amount }}" />
+    <input type="hidden" name="currency" value="USD" />
+    <button type="submit" class="submit" name="submit" style="min-height:44px; border-radius: 4px;border-style: none;background-color: #111;">
+      <span style="color:#1da1f2">{{ include.text }}${{ include.amount }}</span>
+    </button>
+  </form>
+</div>
