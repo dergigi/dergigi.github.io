@@ -11,6 +11,9 @@ here are some conversations where I share my thoughts about [Bitcoin][bitcoin].
 
   - **2020-05-22** - [This Week in Bitcoin][twib3] with Juan and Guy, hosted by Adam Meister (also on [youtube][twib3-yt])
   - **2020-05-20** - [Swan Signal #11][ss11] with Knut, Brekkie, and Cory, hosted by Brady (also on [youtube][ss11-yt])
+  
+  ---
+  
   - **2020-05-11** - [Celebrating the Third Bitcoin Halving][define-your-moon]: Define your Moon with BitcoinTina and David Bailey hosted by Bitcoin Magazine
   - **2020-04-09** - [Once Bitten #26][once-bitten26] on privacy and the difference between the legacy and the Bitcoin world, hosted by Daniel Prince
   - **2020-03-14** - [Swan Signal #1][ss1] with Guy, Yan, Hass, John, and Cory on the current state of the world and Bitcoin, hosted by Brady
