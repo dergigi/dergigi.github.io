@@ -6,7 +6,10 @@ title: Support
 
 Dear Netizen, \\
 the easiest way to support me is to [buy my book](https://amzn.to/2VXmQgp) -
-although you could also read it for free on the web.
+although you could also read it for free on the web. The second easiest way is
+to give directly.
+
+{% include btcpay-usd-exp.html %}
 
 Paying for immaterial stuff on the internet is a weird thing.
 Everyone got used to the fact that everything is available for free, all the
@@ -30,13 +33,14 @@ the same problem that all centralized platforms will inevitably suffer from:
 power and control, which has the habit of resulting in interference and
 censorship. I'm not a fan of interference. And I despise censorship.
 
-{% include btcpay-donate.html %}
 
 Luckily, we now live in a world where Bitcoin exists. We can give directly, just
 like in the olden days, where buskers performed for everyone, and a handful of
 people were kind enough to pay a handful of coins to the artist, directly. I
 hope that our society will return to this way of giving, at least in some
 corners of the internet some of the time.
+
+{% include btcpay-sats-fun.html %}
 
 I don't track views on this site, or clicks, or anything else. I don't know how
 many people will read this, and I don't want to know.  Knowledge is power - and
@@ -46,8 +50,6 @@ I believe that people should have the right to remain private. To speak
 privately, read privately, watch privately, transact privately. To privately
 consume and create any kind of information. After all, progress depends on
 having private thoughts and private conversations.
-
-{% include image.html path="/assets/images/bitcoin/paynym.png" %}
 
 [my.paynym.is/+gentlepond791](https://my.paynym.is/+gentlepond791):
 
@@ -71,3 +73,5 @@ about the future. I hope you are as well.
 
 Sincerely, \\
 Gigi
+
+{% include image.html path="/assets/images/bitcoin/paynym.png" %}
