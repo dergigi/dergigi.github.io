@@ -72,22 +72,42 @@
   }
 }
 
+//----------------------------------------------
+// Tippin.me
+//----------------------------------------------
+
 #tippin-button {
-  background-color: $color-darkestgrey;
-  border: 1px solid $color-tippin;
+  background-color: $color-darkergrey;
+  border: 1px solid $color-blue;
   margin-bottom: 1em;
 
   &:hover {
-    background-color: $color-tippin;
+    color: $color-blue;
   }
 }
 
-.btcpay-flex-container {
+//----------------------------------------------
+// BTC Pay
+//----------------------------------------------
+
+div .btcpay-flex-container {
   text-align: center;
   display: flex;
   flex-wrap: wrap;
 
   & > div {
     margin: 10px 5px 20px 5px;
+  }
+}
+
+.btcpay-submit {
+  min-height: 44px;
+  border-radius: 4px;
+  border-style: none;
+  border-color: $color-blue;
+  background-color: $color-darkergrey;
+
+  & > span {
+    color: $color-blue;
   }
 }
