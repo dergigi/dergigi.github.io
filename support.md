@@ -5,11 +5,17 @@ title: Support
 
 
 Dear Netizen, \\
-the easiest way to support me is to [buy my book](https://amzn.to/2VXmQgp) -
-although you could also read it for free on the web. The second easiest way is
-to give directly.
+there are many ways to support me: you can [buy my book](https://amzn.to/2VXmQgp), 
+follow me on [Twitter](https://twitter.com/dergigi), 
+subscribe to my [German podcast](https://anchor.fm/einundzwanzig), 
+spread the word by sharing one of my [articles](https://dergigi.com/bitcoin/), 
+or simply give directly.
 
 {% include btcpay-usd-exp.html %}
+
+You can also create translations of my book and articles, which is another great way of spreading the word. I have put all my heart and soul into creating [open-source](https://github.com/dergigi/) content for the Bitcoin ecosystem, and I plan to continue to do so in the foreseeable future. While I don't expect anything in return, receiving a couple of sats every now and then is a motivational boost like no other.
+
+{% include btcpay-sats-fun.html %}
 
 Paying for immaterial stuff on the internet is a weird thing.
 Everyone got used to the fact that everything is available for free, all the
@@ -21,8 +27,6 @@ involved. Something which has been working for hundreds, even thousands of
 years: supporting what you like, just because. Call it tipping, call it
 gratuity, call it busking.
 
-{% include tippin-me-button.html %}
-
 Monetizing information is a hard problem. Information wants to be free, and I
 think we should not build cages - no matter how pretty - for the sake of
 imprisoning information. This is one of the reasons why I don't intend to charge
@@ -33,14 +37,13 @@ the same problem that all centralized platforms will inevitably suffer from:
 power and control, which has the habit of resulting in interference and
 censorship. I'm not a fan of interference. And I despise censorship.
 
-
 Luckily, we now live in a world where Bitcoin exists. We can give directly, just
 like in the olden days, where buskers performed for everyone, and a handful of
 people were kind enough to pay a handful of coins to the artist, directly. I
 hope that our society will return to this way of giving, at least in some
 corners of the internet some of the time.
 
-{% include btcpay-sats-fun.html %}
+{% include tippin-me-button.html %}
 
 I don't track views on this site, or clicks, or anything else. I don't know how
 many people will read this, and I don't want to know.  Knowledge is power - and
