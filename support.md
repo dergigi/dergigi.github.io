@@ -6,7 +6,8 @@ title: Support
 
 Dear Netizen, \\
 the easiest way to support me is to [buy my book](https://amzn.to/2VXmQgp) -
-although you could also read it for free on the web.
+although you could also read it for free on the web. The second easiest way is
+to give directly.
 
 {% include btcpay-usd-exp.html %}
 
