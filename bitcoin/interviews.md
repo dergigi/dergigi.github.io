@@ -9,6 +9,7 @@ Finding the time to read long articles and books can be challenging, which is
 why I love podcasts and recorded conversations of all kinds. If you do too,
 here are some conversations where I share my thoughts about [Bitcoin][bitcoin].
 
+  - **2020-05-22** - [This Week in Bitcoin][twib3] with Juan and Guy, hosted by Adam Meister (also on [youtube][twib3-yt])
   - **2020-05-20** - [Swan Signal #11][ss11] with Knut, Brekkie, and Cory, hosted by Brady (also on [youtube][ss11-yt])
   - **2020-05-11** - [Celebrating the Third Bitcoin Halving][define-your-moon]: Define your Moon with BitcoinTina and David Bailey hosted by Bitcoin Magazine
   - **2020-04-09** - [Once Bitten #26][once-bitten26] on privacy and the difference between the legacy and the Bitcoin world, hosted by Daniel Prince
@@ -75,6 +76,8 @@ Want to talk? Feel free to [reach out to me][contact].
 [define-your-moon]: https://youtu.be/lx4Jlq1iIy4
 [ss11]: https://swansignal.simplecast.com/episodes/knut-svanholm-and-gigi-e11
 [ss11-yt]: https://youtu.be/ExzzQzh7BLU
+[twib3]: https://anchor.fm/bitcoinmeister/episodes/This-week-in-Bitcoin--5-22-2020--Fake-Satoshi-coins--Pizza-day--Mempool--Lightning-Network--BTC-365-day-moving-average-eeeskd
+[twib3-yt]: https://youtu.be/HtkJ_KRsY4M
 
 [contact]: {{ '/contact' | absolute_url }}
 [bitcoin]: {{ '/bitcoin' | absolute_url }}
