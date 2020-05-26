@@ -13,6 +13,11 @@ category: bitcoin
 tags:
  - Bitcoin
  - Writing
+translations:
+ - language: Various
+   url: https://21lessons.com/translations
+   author: various authors
+   author_url: https://21lessons.com/translations
 ---
 
 What is Bitcoin? The many answers to this question are as interesting as
@@ -825,8 +830,7 @@ I've learned from Bitcoin.
 
 #### Translations
 
-  - [Turkish translation] by [@deniz_zgur][deniz]
-  - [Chinese translation] by [@andywan][andywan]
+This article is part of [21 Lessons](https://21lessons.com). You can find translations of it at [21lessons.com/translations](https://21lessons.com/translations).
 
 [*Bitcoin: A Peer-to-Peer Electronic Cash System*]: https://bitcoin.org/bitcoin.pdf
 [*Mastering Bitcoin*]: https://bitcoinbook.info/
@@ -868,7 +872,6 @@ I've learned from Bitcoin.
 [Francis Pouliot]: https://twitter.com/francispouliot_
 [Aleksandar Svetski]:https://twitter.com/AleksSvetski
 [Michael Kerbleski]: https://twitter.com/kerbleski
-[deniz]: https://twitter.com/deniz_zgur
 
 [Nakamoto Institute]: http://nakamotoinstitute.org
 [the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
@@ -952,6 +955,3 @@ I've learned from Bitcoin.
 [educational material]: https://antonopoulos.com/
 [timechain]: https://twitter.com/francispouliot_/status/1106028072799744002
 [reach out to me]: https://twitter.com/dergigi
-[Turkish translation]: https://medium.com/@denizozzgur/blockchainin-teknolojik-%C3%B6%C4%9Fretileri-34ae5a6949a7
-[Chinese translation]: https://www.weibo.com/ttarticle/p/show?id=2309404363977307068572
-[andywan]: https://twitter.com/andywan

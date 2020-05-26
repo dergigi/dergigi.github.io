@@ -10,6 +10,11 @@ category: bitcoin
 tags:
  - Bitcoin
  - Writing
+translations:
+ - language: German
+   url: https://medium.com/aprycotmedia/liebe-bitcoiner-aa4be515c028
+   author: Fab The Fox
+   author_url: https://twitter.com/fabthefoxx
 ---
 
 The madness of this world became obvious in an instant. Everything is
@@ -173,9 +178,8 @@ honored to walk it to the end, with you on my side. We got this.
 
 ---
 
-### Translations
+{% include translations.html translations=page.translations %}
 
-- [German translation] by [Fab The Fox]
 
 ### Acknowledgments
 
@@ -201,10 +205,8 @@ Open letters in anticipation of the [next era][era]:
 [Stanley Knowles]: https://en.wikiquote.org/wiki/Stanley_Knowles
 [Joseph Michael Straczynski]: https://en.wikiquote.org/wiki/J._Michael_Straczynski
 [Ray Dalio]: https://youtu.be/J2Qrm9UB7qY?t=154
-[German translation]: https://medium.com/aprycotmedia/liebe-bitcoiner-aa4be515c028
 
 [Hass]: https://twitter.com/FriarHass
 [John]: https://twitter.com/johnkvallis
 [Dennis]: https://twitter.com/dennisreimann
 [Sam Keiser]: https://samkeiser.artstation.com/projects/a3ALX
-[Fab The Fox]: https://twitter.com/fabthefoxx
