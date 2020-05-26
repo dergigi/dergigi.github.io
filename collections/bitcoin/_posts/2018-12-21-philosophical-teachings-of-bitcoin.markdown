@@ -13,6 +13,11 @@ category: bitcoin
 tags:
  - Bitcoin
  - Writing
+translations:
+ - language: Various
+   url: https://21lessons.com/translations
+   author: various authors
+   author_url: https://21lessons.com/translations
 ---
 
 Some questions have easy answers. "What have you learned from Bitcoin?"

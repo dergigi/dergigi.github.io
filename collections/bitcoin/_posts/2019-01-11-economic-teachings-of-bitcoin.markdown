@@ -13,6 +13,11 @@ category: bitcoin
 tags:
  - Bitcoin
  - Writing
+translations:
+ - language: Various
+   url: https://21lessons.com/translations
+   author: various authors
+   author_url: https://21lessons.com/translations
 ---
 
 Money doesn’t grow on trees. To believe that it does is foolish, and our
