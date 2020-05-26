@@ -3,6 +3,8 @@ layout: page
 title: Translations
 ---
 
+{% include image.html path="/assets/images/cc-by-sa-400.svg.png" %}
+
 All my writing is published under the [Creative Commons Attribution-ShareAlike
 4.0 International (CC BY-SA 4.0) license][cc-by-sa] which means that you are
 free to share and adapt the material as you see fit. The only requirement is
