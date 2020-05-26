@@ -5,15 +5,19 @@ title: Support
 
 
 Dear Netizen, \\
-there are many ways to support me: you can [buy my book](https://amzn.to/2VXmQgp), 
-follow me on [Twitter](https://twitter.com/dergigi), 
-subscribe to my [German podcast](https://anchor.fm/einundzwanzig), 
-spread the word by sharing one of my [articles](https://dergigi.com/bitcoin/), 
-or simply give directly.
+there are many ways to support me: you can [buy my book](https://amzn.to/2VXmQgp),
+follow me on [Twitter](https://twitter.com/dergigi),
+subscribe to my German [podcast](https://anchor.fm/einundzwanzig),
+spread the word by sharing one of my articles or simply give directly.
 
 {% include btcpay-usd-exp.html %}
 
-You can also create translations of my book and articles, which is another great way of spreading the word. I have put all my heart and soul into creating [open-source](https://github.com/dergigi/) content for the Bitcoin ecosystem, and I plan to continue to do so in the foreseeable future. While I don't expect anything in return, receiving a couple of sats every now and then is a motivational boost like no other.
+You can also create [translations][translations] of my book and articles, which
+is another great way of spreading the word. I have put all my heart and soul
+into creating [open-source](https://github.com/dergigi/) content for the Bitcoin
+ecosystem, and I plan to continue to do so in the foreseeable future. While I
+don't expect anything in return, receiving a couple of sats every now and then
+is a motivational boost like no other.
 
 {% include btcpay-sats-fun.html %}
 
@@ -78,3 +82,6 @@ Sincerely, \\
 Gigi
 
 {% include image.html path="/assets/images/bitcoin/paynym.png" %}
+
+
+[translations]: {{ '/translations' | absolute_url }}
