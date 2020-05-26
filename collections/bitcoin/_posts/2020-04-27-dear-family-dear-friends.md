@@ -461,9 +461,8 @@ it's not that difficult."
 - Thanks to [Brekkie] and [Fab] for their valuable feedback on earlier drafts of this letter.
 - Thanks to [Hass] for proofreading and his willingness to die on the AutoDCA hill.
 
-{% include translations.md %}
 
-
+{% include translations.html %}
 
 ---
 

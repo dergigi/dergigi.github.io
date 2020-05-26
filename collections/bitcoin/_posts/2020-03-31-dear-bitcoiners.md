@@ -178,7 +178,7 @@ honored to walk it to the end, with you on my side. We got this.
 
 ---
 
-{% include translations.md %}
+{% include translations.html %}
 
 
 ### Acknowledgments

@@ -350,7 +350,7 @@ economy. In the case of Bitcoin, this resource is energy.
 
 ---
 
-{% include translations.md %}
+{% include translations.html %}
 
 [dispute the numbers]: https://medium.com/cs-research/re-cost-of-mining-misconceptions-e3fcff1ce726
 [compare Bitcoin's energy usage]: https://drive.google.com/file/d/1TIma781rLFjr-dqeJmL2KN06OpoRkSsj/view
