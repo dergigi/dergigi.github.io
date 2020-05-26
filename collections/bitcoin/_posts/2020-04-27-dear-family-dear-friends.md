@@ -462,7 +462,7 @@ it's not that difficult."
 - Thanks to [Hass] for proofreading and his willingness to die on the AutoDCA hill.
 
 
-{% include translations.html %}
+{% include translations.html translations=page.translations %}
 
 ---
 
