@@ -13,6 +13,15 @@ audio: /assets/audio/gravity.mp3
 tags:
  - Bitcoin
  - Writing
+translations:
+ - language: Turkish
+   url: https://medium.com/@denizozzgur/bitcoinin-%C3%A7ekim-yasas%C4%B1-1dbe3e8698af
+   author: Deniz Özgür
+   author_url: https://twitter.com/deniz_zgur
+ - language: Spanish
+   url: https://medium.com/@dergigi/la-gravedad-de-bitcoin-33d351b213ce
+   author: Camilo JdL
+   author_url: https://twitter.com/CamiloJdL
 ---
 
 Bitcoin is different things to different people. Whatever it might be to
@@ -516,18 +525,13 @@ planted a seed of conviction in you as well.
 - Graphics based on the [fxemoji] set cc-by [Sabrina Smelko]
 - Dedicated to the [bravest space cat][hodlonaut] of them all (* April 2017, † April 2019).
 
-### Translations
-
-- [Turkish translation] by [@deniz_zgur][deniz]
-- [Spanish translation] by [@CamiloJdL][camilo]
-
 ### Audio Version
 
 - [Bitcoin's Gravity][audio-version] read by [Guy] from [cryptoconomy.life]
 
+{% include translations.md %}
+
 <!-- Translations and Audio version -->
-[Turkish translation]: https://medium.com/@denizozzgur/bitcoinin-%C3%A7ekim-yasas%C4%B1-1dbe3e8698af
-[Spanish translation]: https://medium.com/@dergigi/la-gravedad-de-bitcoin-33d351b213ce
 [audio-version]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_245---Bitcoins-Gravity-e3urjl
 [cryptoconomy.life]: https://cryptoconomy.life/
 
@@ -548,8 +552,6 @@ planted a seed of conviction in you as well.
 [Nathaniel Whittemore]: https://twitter.com/nlw
 [Dan Held]: https://twitter.com/danheld
 [Ben Prentice]: https://twitter.com/mrcoolbp
-[deniz]: https://twitter.com/deniz_zgur
-[camilo]: https://twitter.com/CamiloJdL
 [Guy]: https://twitter.com/TheCryptoconomy
 
 <!-- References -->
