@@ -391,9 +391,7 @@ What have you learned from Bitcoin?
 
 #### Translations
 
--   [Spanish translation] by [@CamiloJdL][camilo]
--   [Turkish translation] by [@deniz_zgur][deniz]
--   [Chinese translation] by [@andywan][andywan]
+This article is part of [21 Lessons](https://21lessons.com). You can find translations of it at [21lessons.com/translations](https://21lessons.com/translations).
 
 [I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
 [II]: {% post_url /bitcoin/2019-01-11-economic-teachings-of-bitcoin %}
@@ -443,9 +441,3 @@ What have you learned from Bitcoin?
 [article4]: https://hackernoon.com/why-america-cant-regulate-bitcoin-8c77cee8d794
 [article5]: https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947
 [podcast1]: https://www.whatbitcoindid.com/podcast/coin-centers-peter-van-valkenburg-on-preserving-the-freedom-to-innovate-with-public-blockchains
-[Spanish translation]: https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9
-[camilo]: https://twitter.com/CamiloJdL
-[Turkish translation]: https://medium.com/@denizozzgur/bitcoinin-felsefi-%C3%B6%C4%9Fretileri-e7df2338a2fc
-[deniz]: https://twitter.com/deniz_zgur
-[Chinese translation]: https://www.weibo.com/ttarticle/p/show?id=2309404363977307068572
-[andywan]: https://twitter.com/andywan
