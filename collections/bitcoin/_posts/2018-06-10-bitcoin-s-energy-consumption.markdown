@@ -12,6 +12,19 @@ category: bitcoin
 tags:
  - Bitcoin
  - Writing
+translations:
+ - language: German
+   url: https://medium.com/@INSG2020/energieverbrauch-von-bitcoin-779ab7c41cd8
+   author: Initiative Neues Solides Geld
+   author_url: https://twitter.com/INSG2020
+ - language: Spanish
+   url: https://fififinance.com/es/consumo-de-energia-bitcoin  
+   author: FiFi Global
+   author_url: https://fififinance.com/es/author/jorge10
+ - language: Finnish
+   url: https://medium.com/brandin-kirjasto/bitcoinin-energiankulutus-e6dfdc4ae97e
+   author: Thomas Brand
+   author_url: https://twitter.com/thlbr
 ---
 
 You might have heard that Bitcoin wastes a tremendous amount of energy. You
@@ -337,17 +350,7 @@ economy. In the case of Bitcoin, this resource is energy.
 
 ---
 
-### Translations
-
-- [Spanish translation][es] by FiFi Global
-- [Finnish translation][fi] by [Thomas Brand]
-- [German translation][de] by [Initiative Neues Solides Geld]
-
-[es]: https://fififinance.com/es/consumo-de-energia-bitcoin
-[fi]: https://medium.com/brandin-kirjasto/bitcoinin-energiankulutus-e6dfdc4ae97e
-[de]: https://medium.com/@INSG2020/energieverbrauch-von-bitcoin-779ab7c41cd8
-[Thomas Brand]: https://twitter.com/thlbr
-[Initiative Neues Solides Geld]: https://twitter.com/INSG2020
+{% include translations.md %}
 
 [dispute the numbers]: https://medium.com/cs-research/re-cost-of-mining-misconceptions-e3fcff1ce726
 [compare Bitcoin's energy usage]: https://drive.google.com/file/d/1TIma781rLFjr-dqeJmL2KN06OpoRkSsj/view
