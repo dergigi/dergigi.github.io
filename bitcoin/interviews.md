@@ -15,6 +15,7 @@ here are some conversations where I share my thoughts about [Bitcoin][bitcoin].
   ---
   
   - **2020-05-11** - [Celebrating the Third Bitcoin Halving][define-your-moon]: Define your Moon with BitcoinTina and David Bailey hosted by Bitcoin Magazine
+  - **2020-05-11** - [Panel Discussion][vob-panel] at the Value of Bitcoin Conference with Knut, Nik, Conner, Katie, and Max, hosted by John Vallis
   - **2020-04-09** - [Once Bitten #26][once-bitten26] on privacy and the difference between the legacy and the Bitcoin world, hosted by Daniel Prince
   - **2020-03-14** - [Swan Signal #1][ss1] with Guy, Yan, Hass, John, and Cory on the current state of the world and Bitcoin, hosted by Brady
   - **2020-03-04** - [Fun With Bitcoin #70][fwb70] on the Shitcoin Trap and why Bitcoin is superior, hosted by Coinicarus
@@ -76,6 +77,7 @@ Want to talk? Feel free to [reach out to me][contact].
 [fwb70]: https://anchor.fm/funwithbitcoin/episodes/Interviewdiscussion-with-DerGigi--definitive-shitcoin-dump-episode-eb8c6j
 [ss1]: https://swansignal.simplecast.com/episodes/regrouping-after-a-bitcoin-price-crash-episode-1
 [once-bitten26]: https://anchor.fm/daniel-prince6/episodes/Dergigi-Just-Three-More-Halvings-ecinjv
+[vob-panel]: https://youtu.be/D11bW2YlNJ8
 [define-your-moon]: https://youtu.be/lx4Jlq1iIy4
 [ss11]: https://swansignal.simplecast.com/episodes/knut-svanholm-and-gigi-e11
 [ss11-yt]: https://youtu.be/ExzzQzh7BLU
