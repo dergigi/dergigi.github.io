@@ -7,7 +7,7 @@ image: /assets/images/btc12-habitats.jpg
 source: https://medium.com/@dergigi/bitcoins-habitats-9ce3064bd3a7
 author: Gigi
 category: bitcoin
-audio: /assets/audio/habitats.mp3
+audio: /assets/audio/habitats.ogg
 tags:
  - Bitcoin
  - Writing

@@ -8,7 +8,7 @@ image: /assets/images/btc08-rise.jpg
 source: https://medium.com/bull-bitcoin/the-rise-of-the-sovereign-individual-2201eee82f00
 author: Gigi
 category: bitcoin
-audio: /assets/audio/rise-of-the-sovereign-individual.mp3
+audio: /assets/audio/rise-of-the-sovereign-individual.ogg
 tags:
  - Bitcoin
  - Writing

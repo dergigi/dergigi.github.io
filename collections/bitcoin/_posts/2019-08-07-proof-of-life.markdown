@@ -8,7 +8,7 @@ image: /assets/images/btc07-bitcoin-mitosis.jpg
 source: https://medium.com/@dergigi/fa28fdc002fe
 author: Gigi
 category: bitcoin
-audio: /assets/audio/proof-of-life.mp3
+audio: /assets/audio/proof-of-life.ogg
 tags:
  - Bitcoin
  - Writing
