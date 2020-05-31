@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Habits"
+date: 2020-05-31
+description:
+image: /assets/images/habits.jpg
+author: Gigi
+category: photography
+tags:
+  - Photography
+---
+
+We are creatures of habit. Our bodies are shaped by what we do routinely, over
+and over again. Many of the things we do daily are in the realm of the
+unconscious: we don't think about them, we just do them. Getting up in the
+morning, brushing our teeth, taking a shower, the way we prepare our breakfast,
+tie our shoes, and a million other things.
+
+While the world is changing constantly, change today is happening faster than
+ever. We seem to be at an inflection point. History is unfolding in front of our
+eyes: a global pandemic, a near-global economic shutdown, global protests,
+endless money printing by central banks, censorship by central platforms - the
+list goes on.
+
+We will have to let go of old habits, of old patterns, of old ways of doing
+things. Both individually, and as a society as a whole. Transformation is always
+painful, especially if parts of you that aren't working correctly anymore have
+to die off.
+
+> "To uproot an old habit is sometimes a more painful thing, and vastly more
+> difficult, than to wrench out a tooth."
+> <cite>[Samuel Smiles]</cite>
+
+While changing habits is indeed difficult, remind yourself that it is possible.
+In the words of Benjamin Franklin: "Each year one vicious habit rooted out, In
+time might make the worst Man good throughout."
+
+We can do better. We have to do better. I will do my best to do my part. That's
+all that anyone of us can do, really. The question is: will it be enough?
+
+
+[Samuel Smiles]: https://en.wikiquote.org/wiki/Samuel_Smiles
