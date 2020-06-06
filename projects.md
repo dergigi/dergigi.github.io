@@ -16,6 +16,15 @@ article. The article turned into three articles. Three articles turned into 21 L
 * Purchase: [Paperback](https://amzn.to/2Wa4qJo), [Kindle](https://amzn.to/3bvM49P), [Audiobook](https://amzn.to/2ZeUsYX)
 * Source: [GitHub](https://github.com/21-lessons/21lessons-book)
 
+### 21 Lektionen
+
+Since 21 Lessons is released under a permissive creative commons license, it has been
+translated into multiple languages. 21 Lektionen - Meine Reise in den Bitcoin Kaninchenbau -
+is based on the German translations of Rene and CryptoMulde, revised and adapted by myself.
+
+* Purchase: [Paperback](https://amzn.to/2AtlfWZ), [Kindle](https://amzn.to/2Z2zts3)
+* Source: [GitHub](https://github.com/21-lessons/21-lessons-book-de)
+
 ### Bitcoin Resources
 
 While falling down the Bitcoin rabbit hole I tried to absorb as much content in the form of
@@ -43,7 +52,27 @@ these random quotes into a project of yours.
 
 ### Einundzwanzig
 
-### 21 Lektionen
+Einundzwanzig - the German word for 21 - is a collaboration of multiple German-speaking
+bitcoiners, started by Markus and myself. Started as a simple weekly podcast focused on news
+in the Bitcoin space, the project continues to morph, evolve, and expand. In addition to the
+weekly news show, Einundzwanzig now also dives deeper into some topics by interviewing
+various experts in the German-speaking Bitcoin world. We also started to release readings of
+the best Bitcoin content, thanks to the growing availability and quality of German
+translations.
+
+* Hosts: [Daniel], [Dennis], [Fab], [Gigi], [Markus]
+* Website: [einundzwanzig-podcast.github.io](https://einundzwanzig-podcast.github.io/)
+* Podcast: [anchor.fm/einundzwanzig](https://anchor.fm/einundzwanzig)
+* Twitter: [@\_einundzwanzig\_](https://twitter.com/_einundzwanzig_)
+* Community: [t.me/einundzwanzigpodcast](https://t.me/einundzwanzigpodcast)
+
+[Daniel]: https://twitter.com/danielwingen
+[Dennis]: https://twitter.com/dennisreimann
+[Fab]: https://twitter.com/fabthefoxx
+[Gigi]: https://twitter.com/dergigi
+[Markus]: https://twitter.com/MarkusTurm
+
+
 
 
 [API]: https://www.bitcoin-quotes.com/quotes/random.json
