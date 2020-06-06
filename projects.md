@@ -100,3 +100,18 @@ of German translations.
 [Gigi]: https://twitter.com/dergigi
 [Markus]: https://twitter.com/MarkusTurm
 [einundzwanzig]: https://anchor.fm/einundzwanzig
+
+
+### Quotable Satoshi Twitter Bot
+
+Building upon the great work of the Satoshi Nakamoto Institute, I wrote a twitter bot to
+disseminate the most insightful and interesting quotes of Satoshi Nakamoto. Simply follow
+[@QuotableSatoshi][quotablesatoshi] on twitter to get historical quotes from the inventor of
+Bitcoin in your timeline.
+
+{% include image.html path="/assets/images/bitcoin/projects/quotablesatoshi.png" link="https://twitter.com/QuotableSatoshi" %}
+
+* Twitter: [@QuotableSatoshi][quotablesatoshi]
+* Source: [GitHub](https://twitter.com/quotablesatoshi)
+
+[quotablesatoshi]: https://twitter.com/quotablesatoshi
