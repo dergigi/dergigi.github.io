@@ -61,7 +61,8 @@ collection of Bitcoin-related quotes. As of this writing, 300+ quotes have been 
 indexed, in both audio and written form. The source of each quote will be revealed upon
 paying ~2¢ in sats. I hope that these quotes will inform, inspire, and delight those who
 stumble upon them. There is also a rudimentary [API][API] if you want to integrate these
-random quotes into a project of yours.
+random quotes into a project of yours. Follow the [twitter bot][btc_quotes] of this project
+to get random quotes in your timeline.
 
 {% capture time_seed %}{{ 'now' | date: "%s" }}{% endcapture %}
 {% assign random = time_seed | times: 1103515245 | plus: 12345 | divided_by: 65536 | modulo: 32768 | modulo: 11 %}
@@ -70,10 +71,11 @@ random quotes into a project of yours.
 {% include image.html path=randompath link="https://bitcoin-quotes.com" %}
 
 * Website: [bitcoin-quotes.com][bitcoin-quotes]
-* Twitter: [@btc_quotes](https://twitter.com/btc_quotes)
+* Twitter: [@btc_quotes][btc_quotes]
 * Source: [GitHub](https://github.com/dergigi/btc-quotes)
 
 [bitcoin-quotes]: https://www.bitcoin-quotes.com/
+[btc_quotes]: https://twitter.com/btc_quotes
 [API]: https://www.bitcoin-quotes.com/quotes/random.json
 
 ### Einundzwanzig
