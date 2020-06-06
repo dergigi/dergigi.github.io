@@ -5,20 +5,21 @@ title: Projects
 
 ### 21 Lessons
 
-[21 Lessons][paperback] is a bit of an unusual book. But hey, Bitcoin is a bit of an unusual
+[21 Lessons][21lessons] is a bit of an unusual book. But hey, Bitcoin is a bit of an unusual
 technology, so an unusual book about Bitcoin might be fitting. This book came to be because
 of one simple question: *What have you learned from Bitcoin?* I tried to answer this
 question in a single tweet. Then the tweet turned into a tweetstorm. The tweetstorm turned
 into an article. The article turned into three articles. Three articles turned into 21
 Lessons. And 21 Lessons turned a book.
 
-{% include image.html path="/assets/images/bitcoin/projects/21lessons.png" %}
+{% include image.html path="/assets/images/bitcoin/projects/21lessons.png" link="https://21lessons.com" %}
 
-* Website: [21lessons.com](https://21lessons.com/)
+* Website: [21lessons.com][21lessons]
 * Purchase: [Paperback][paperback], [Kindle](https://amzn.to/3bvM49P), [Audiobook](https://amzn.to/2ZeUsYX)
 * Source: [GitHub](https://github.com/21-lessons/21lessons-book)
 
 [paperback]: https://amzn.to/2Wa4qJo
+[21lessons]: https://21lessons.com/
 
 ---
 
@@ -29,7 +30,7 @@ translated into multiple languages. *[21 Lektionen: Meine Reise in den Bitcoin
 Kaninchenbau][paperback-de]* is based on the German translations of Rene and CryptoMulde,
 revised and adapted by myself.
 
-{% include image.html path="/assets/images/bitcoin/projects/21lektionen.png" %}
+{% include image.html path="/assets/images/bitcoin/projects/21lektionen.png" link="https://amzn.to/2Z2zts3" %}
 
 * Purchase: [Paperback][paperback-de], [Kindle](https://amzn.to/2Z2zts3)
 * Source: [GitHub](https://github.com/21-lessons/21-lessons-book-de)
@@ -44,7 +45,7 @@ my attempt to catalog and signal-boost the best and most insightful content in t
 space. Since its inception, a growing number of people have started to contribute by
 selecting and curating content.
 
-{% include image.html path="/assets/images/bitcoin/projects/bitcoin-resources.png" %}
+{% include image.html path="/assets/images/bitcoin/projects/bitcoin-resources.png" link="https://bitcoin-resources.com" %}
 
 * Website: [bitcoin-resources.com][bitcoin-resources]
 * Twitter: [@BtcResources](https://twitter.com/BtcResources)
@@ -66,7 +67,7 @@ random quotes into a project of yours.
 {% assign random = time_seed | times: 1103515245 | plus: 12345 | divided_by: 65536 | modulo: 32768 | modulo: 11 %}
 {% capture n %}{% if random < 10 %}{{ '0' | append: random }}{% else %}{{ random }}{% endif %}{% endcapture %}
 {% assign randompath = "/assets/images/bitcoin/projects/bitcoin-quotes" | append: n | append: ".png" %}
-{% include image.html path=randompath %}
+{% include image.html path=randompath link="https://bitcoin-quotes.com" %}
 
 * Website: [bitcoin-quotes.com][bitcoin-quotes]
 * Twitter: [@btc_quotes](https://twitter.com/btc_quotes)
@@ -85,7 +86,7 @@ interviewing various experts in the German-speaking Bitcoin world. We also start
 release readings of the best Bitcoin content, thanks to the growing availability and quality
 of German translations.
 
-{% include image.html path="/assets/images/bitcoin/projects/einundzwanzig.png" %}
+{% include image.html path="/assets/images/bitcoin/projects/einundzwanzig.png" link="https://anchor.fm/einundzwanzig" %}
 
 * Hosts: [Daniel], [Dennis], [Fab], [Gigi], [Markus]
 * Website: [einundzwanzig-podcast.github.io](https://einundzwanzig-podcast.github.io/)
