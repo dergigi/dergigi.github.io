@@ -5,10 +5,11 @@ title: Support
 
 
 Dear Netizen, \\
-there are many ways to support me: you can [buy my book](https://amzn.to/2VXmQgp),
-follow me on [Twitter](https://twitter.com/dergigi),
-subscribe to my German [podcast](https://anchor.fm/einundzwanzig),
-spread the word by sharing one of my articles or simply give directly.
+there are many ways to support me: you can [buy my book](https://amzn.to/2VXmQgp), write a
+[review](https://21lessons.com/reviews), follow me on
+[Twitter](https://twitter.com/dergigi), subscribe to my German
+[podcast](https://anchor.fm/einundzwanzig), spread the word by sharing one of my articles or
+simply give directly.
 
 {% include btcpay-usd-exp.html %}
 
