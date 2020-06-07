@@ -72,6 +72,7 @@ to get random quotes in your timeline.
 
 * Website: [bitcoin-quotes.com][bitcoin-quotes]
 * Twitter: [@btc_quotes][btc_quotes]
+* Source: [GitHub](https://github.com/dergigi/btc-quotes)
 
 [bitcoin-quotes]: https://www.bitcoin-quotes.com/
 [btc_quotes]: https://twitter.com/btc_quotes
