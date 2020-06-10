@@ -5,15 +5,15 @@ description: Interviews with Gigi and various podcast appearances
 redirect_from: interviews
 ---
 
-Finding the time to read long articles and books can be challenging, which is
-why I love podcasts and recorded conversations of all kinds. If you do too,
-here are some conversations where I share my thoughts about [Bitcoin][bitcoin].
+Finding the time to read long articles and books can be challenging, which is why I love
+podcasts and recorded conversations of all kinds. If you do too, here are some conversations
+and [talks](#talks) where I share my thoughts about [Bitcoin][bitcoin].
 
   - **2020-05-22** - [This Week in Bitcoin][twib3] with Juan and Guy, hosted by Adam Meister (also on [youtube][twib3-yt])
   - **2020-05-20** - [Swan Signal #11][ss11] with Knut, Brekkie, and Cory, hosted by Brady (also on [youtube][ss11-yt])
-  
+
   ---
-  
+
   - **2020-05-11** - [Celebrating the Third Bitcoin Halving][define-your-moon]: Define your Moon with BitcoinTina and David Bailey hosted by Bitcoin Magazine
   - **2020-05-11** - [Panel Discussion][vob-panel] at the Value of Bitcoin Conference with Knut, Nik, Conner, Katie, and Max, hosted by John Vallis
   - **2020-04-09** - [Once Bitten #26][once-bitten26] on privacy and the difference between the legacy and the Bitcoin world, hosted by Daniel Prince
@@ -43,6 +43,14 @@ here are some conversations where I share my thoughts about [Bitcoin][bitcoin].
   - **2019-04-19** - [English interview][keyvan-english] with Keyvan Davani (also on [youtube][keyvan-english])
 
 Want to talk? Feel free to [reach out to me][contact].
+
+---
+
+# Talks
+
+  - **2020-06-02** - [Keynote: The Bitcoin Journey][vob-bitcoin-journey] at the Value of Bitcoin Conference
+
+[vob-bitcoin-journey]: https://youtu.be/qVuFX0LkNDQ
 
 [keyvan-german]: https://youtu.be/ShbOXJ0Qj2c
 [keyvan-english]: https://youtu.be/RrW2yhEY39Y
