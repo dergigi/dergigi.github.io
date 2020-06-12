@@ -118,7 +118,7 @@ Bitcoin in your timeline.
 
 [quotablesatoshi]: https://twitter.com/quotablesatoshi
 
-### Collaboration: The Bitcoin Times
+### Contribution: The Bitcoin Times
 
 Launched by Alex Svetski in 2019, The Bitcoin Times is a publication that distills complex
 topics in the world of Bitcoin into digestible pieces. As of this writing, two editions have
@@ -132,3 +132,15 @@ Nic Carter, Aleks Svetski, Robert Breedlove, Dan Held, Connor Brown, and Hass Mc
 
 [bitcoin-times]: http://bitcointimes.news
 [timeless-bitcoin]: https://twitter.com/TimelessBitcoin
+
+### Contribution: Citadel 21
+
+Citadel21 is a Bitcoin cultural zine launched by Hodlonaut and Katoshi in May 2020. Its mission is to pull nuggets of high signal content out of the noisy chaos. I wrote an optimistic letter to bitcoiners around the globe, which was published in the first volume.
+
+{% include image.html path="/assets/images/bitcoin/projects/citadel-21.png" link="https://citadel21.com" %}
+
+* Website: [citadel21.com][citadel21]
+* Twitter: [@ctdl21][ctdl21]
+
+[citadel21]: https://www.citadel21.com
+[ctdl21]: https://twitter.com/ctdl21
