@@ -144,3 +144,19 @@ Citadel21 is a Bitcoin cultural zine launched by Hodlonaut and Katoshi in May 20
 
 [citadel21]: https://www.citadel21.com
 [ctdl21]: https://twitter.com/ctdl21
+
+### Code Contribution
+
+When I'm not writing I try to contribute to open source projects where I can. Apart from
+trivial fixes and contributions in various projects, I've worked on adding [Tor] and [Dojo]
+support to Samourai Wallet's Sentinel app for iOS (see [video]). I also made some corrections to [BIP 2],
+[BIP 16], and [BIP 69]. Follow me on GitHub to see what I'm up to.
+
+* GitHub: [github.com/dergigi](https://github.com/dergigi)
+
+[Tor]: https://github.com/Samourai-Wallet/Sentinel-iOS/pull/11
+[Dojo]: https://github.com/Samourai-Wallet/Sentinel-iOS/pull/14
+[video]: https://twitter.com/dergigi/status/1259397717144547328?s=20
+[BIP 2]: https://github.com/bitcoin/bips/blob/master/bip-0002.mediawiki
+[BIP 16]: https://github.com/bitcoin/bips/blob/master/bip-0016.mediawiki
+[BIP 69]: https://github.com/bitcoin/bips/blob/master/bip-0069.mediawiki
