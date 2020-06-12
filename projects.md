@@ -145,7 +145,7 @@ Citadel21 is a Bitcoin cultural zine launched by Hodlonaut and Katoshi in May 20
 [citadel21]: https://www.citadel21.com
 [ctdl21]: https://twitter.com/ctdl21
 
-### Code Contribution
+### Code Contributions
 
 When I'm not writing I try to contribute to open source projects where I can. Apart from
 trivial fixes and contributions in various projects, I've worked on adding [Tor] and [Dojo]
