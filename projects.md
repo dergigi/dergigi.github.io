@@ -117,3 +117,18 @@ Bitcoin in your timeline.
 * Source: [GitHub](https://twitter.com/quotablesatoshi)
 
 [quotablesatoshi]: https://twitter.com/quotablesatoshi
+
+### Collaboration: The Bitcoin Times
+
+Launched by Alex Svetski in 2019, The Bitcoin Times is a publication that distills complex
+topics in the world of Bitcoin into digestible pieces. As of this writing, two editions have
+been published. I was one of the co-authors of the second edition, along with Rory Highside,
+Nic Carter, Aleks Svetski, Robert Breedlove, Dan Held, Connor Brown, and Hass McCook.
+
+{% include image.html path="/assets/images/bitcoin/projects/bitcoin-times.png" link="https://bitcointimes.news" %}
+
+* Website: [bitcointimes.news][bitcoin-times]
+* Twitter: [@TimelessBitcoin][timeless-bitcoin]
+
+[bitcoin-times]: http://bitcointimes.news
+[timeless-bitcoin]: https://twitter.com/TimelessBitcoin
