@@ -9,7 +9,7 @@ Finding the time to read long articles and books can be challenging, which is wh
 podcasts and recorded conversations of all kinds. If you do too, here are some conversations
 and [talks](#talks) where I share my thoughts about [Bitcoin][bitcoin].
 
-  - **2020-06-15** - [ABNP #143][mrpseu] on time, the oracle problem, OpSec, and self-sovereignty, hosted by Mr. Pseu
+  - **2020-06-15** - [ABNP #143][mrpseu] on time, the oracle problem, OpSec, identity, and self-sovereignty, hosted by Mr. Pseu
   - **2020-05-22** - [This Week in Bitcoin][twib3] with Juan and Guy, hosted by Adam Meister (also on [youtube][twib3-yt])
   - **2020-05-20** - [Swan Signal #11][ss11] with Knut, Brekkie, and Cory, hosted by Brady (also on [youtube][ss11-yt])
 
