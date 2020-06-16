@@ -9,6 +9,11 @@ category: bitcoin
 tags:
  - Bitcoin
  - Writing
+translations:
+ - language: German
+   url: https://medium.com/aprycotmedia/die-bitcoin-reise-dab572e5ff72
+   author: Ge3onim0 & Fab
+   author_url: https://twitter.com/ge3onim0
 ---
 
 A couple of weeks ago I had the immense pleasure of giving the opening
@@ -180,6 +185,8 @@ development, mining, difficulty adjustments, reward eras --- all of them
 are cyclical. Granted, the halvings will stop in about 120 years, but
 the other cycles will most likely continue.
 
+### Part 3: Coming Full Circle
+
 The essence of Bitcoin, the one thing that is truly unchanging, is the
 output of the system: the UTXO set. Nodes work together to constantly
 append it, verifying blocks and transactions, adding what is valid and
@@ -228,6 +235,8 @@ entered the final stage.
 Stage O: Bitcoin is Omnipresent.
 
 ---
+
+{% include translations.html translations=page.translations %}
 
 ### Further Resources
 
