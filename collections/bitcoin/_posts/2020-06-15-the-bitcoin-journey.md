@@ -242,3 +242,4 @@ Stage O: Bitcoin is Omnipresent.
 
 - [Recording of the talk](https://youtu.be/qVuFX0LkNDQ) on YouTube
 - [Slides](https://speakerdeck.com/dergigi/the-bitcoin-journey) on SpeakerDeck
+- [21 Lessons](https://21lessons.com) aka my journey down the rabbit hole
