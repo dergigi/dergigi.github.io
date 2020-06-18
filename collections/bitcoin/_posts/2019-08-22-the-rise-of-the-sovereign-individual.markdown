@@ -98,7 +98,7 @@ leads to a system of total surveillance, and thus total control.
 
 The solution to this conundrum is enabling privacy by default, which has
 been the default setting for thousands of years. Neither the internet
-nor Bitcoin is perfect in this regards, which is why constant vigilance
+nor Bitcoin is perfect in these regards, which is why constant vigilance
 and the development of privacy-enhancing technology are a necessity.
 
 In the last couple of years, efforts to encrypt all internet traffic by
