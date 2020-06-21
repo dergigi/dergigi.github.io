@@ -1,8 +1,6 @@
-# Hello World! 👋 
+# dergigi.com
 
 This repository is a collection of thoughts and essays on [Bitcoin](https://dergigi.com/bitcoin/), life, and a little bit of [photography](https://dergigi.com/blog/).
-
-[dergigi.com](https://dergigi.com) uses [jekyll](https://jekyllrb.com/) under the hood and is currently hosted on GitHub.
 
 If you find any typos, grammatical errors, broken links, or any other mistakes or issues, please [contact me](https://dergigi.com/contact/) or point them out to me on [twitter](https://twitter.com/dergigi). Or create a pull request to correct them.
 
