@@ -28,6 +28,10 @@ translations:
    url: https://www.buda.com/blog/posts/carta-abierta-a-todos-los-bitcoiners-del-mundo/
    author: Buda
    author_url: https://www.buda.com/blog/
+ - language: Italian
+   url: https://www.linkedin.com/pulse/cari-famigliari-amici-luca-sonzogni
+   author: Luca Sonzogni
+   author_url: https://twitter.com/LucaSonzo90
 ---
 
 I am writing this letter because I am convinced of two things: (1) our
