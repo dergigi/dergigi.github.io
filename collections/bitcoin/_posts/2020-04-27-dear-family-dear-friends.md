@@ -32,7 +32,7 @@ translations:
    url: https://www.linkedin.com/pulse/cari-famigliari-amici-luca-sonzogni
    author: Luca Sonzogni
    author_url: https://twitter.com/LucaSonzo90
-series: letters
+series: Open Letters
 ---
 
 I am writing this letter because I am convinced of two things: (1) our
