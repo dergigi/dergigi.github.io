@@ -1,3 +1,4 @@
+{% if page.series %}
 {% assign pages_sorted = site.categories.bitcoin | where: "series", page.series | sort: "date" %}
 {% assign articles_count = pages_sorted | size %}
 
@@ -23,3 +24,4 @@
   <li><a href="{{ nextArticle.url }}" title="Next">{{ nextArticle.title }}</a></li>
   {% endif %}
 </ul>
+{% endif %}

@@ -36,9 +36,8 @@ layout: default
             <hr/>
           {% endif %}
           {{content}}
-          {% if page.series %}
+          {% include translations.html %}
           {% include article-navigation.html %}
-          {% endif %}
         </div>
       </div>
     </div>
