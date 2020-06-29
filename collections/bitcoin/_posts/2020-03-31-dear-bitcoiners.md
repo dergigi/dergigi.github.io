@@ -15,9 +15,7 @@ translations:
    url: https://medium.com/aprycotmedia/liebe-bitcoiner-aa4be515c028
    author: Fab The Fox
    author_url: https://twitter.com/fabthefoxx
-series:
- - name: letters
-   number: 2
+series: letters
 ---
 
 The madness of this world became obvious in an instant. Everything is

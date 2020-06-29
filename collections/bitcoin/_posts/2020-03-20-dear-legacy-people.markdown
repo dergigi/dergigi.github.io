@@ -9,9 +9,7 @@ category: bitcoin
 tags:
  - Bitcoin
  - Writing
-series:
- - name: letters
-   number: 1
+series: letters
 ---
 
 The world you know and love is no more, even if it isn't obvious to
