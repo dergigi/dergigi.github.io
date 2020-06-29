@@ -466,22 +466,7 @@ it's not that difficult."
 - Thanks to [Brekkie] and [Fab] for their valuable feedback on earlier drafts of this letter.
 - Thanks to [Hass] for proofreading and his willingness to die on the AutoDCA hill.
 
-
 {% include translations.html translations=page.translations %}
-
----
-
-### Dear World
-
-Open letters in anticipation of the [next era][era]:
-
-- [Dear Legacy People][legacy]
-- [Dear Bitcoiners][bitcoiners]
-- Dear Family, Dear Friends
-
-[legacy]: {% post_url /bitcoin/2020-03-20-dear-legacy-people %}
-[bitcoiners]: {% post_url /bitcoin/2020-03-31-dear-bitcoiners %}
-[era]: https://en.bitcoin.it/wiki/Controlled_supply
 
 [Bitcoin Tina]: https://pca.st/episode/4df25905-156b-4f9c-9c1e-b92d26a52c77?t=2125
 [Satoshi Nakamoto]: https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/

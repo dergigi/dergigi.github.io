@@ -187,19 +187,6 @@ honored to walk it to the end, with you on my side. We got this.
 - Thanks to [Hass], [John], and [Dennis] for their valuable feedback.
 - Original artwork "Citadel of Exile" by [Sam Keiser]
 
----
-
-### Dear World
-
-Open letters in anticipation of the [next era][era]:
-
-- [Dear Legacy People][legacy]
-- Dear Bitcoiners
-- [Dear Family, Dear Friends][family]
-
-[legacy]: {% post_url /bitcoin/2020-03-20-dear-legacy-people %}
-[family]: {% post_url /bitcoin/2020-04-27-dear-family-dear-friends %}
-[era]: https://en.bitcoin.it/wiki/Controlled_supply
 
 [Matt Odell]: https://twitter.com/matt_odell/status/1202843544093954048?s=20
 [Adam Back]: https://twitter.com/adam3us/status/944543821307707392?s=20
