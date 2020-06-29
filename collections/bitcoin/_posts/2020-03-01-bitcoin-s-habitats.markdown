@@ -11,6 +11,7 @@ audio: /assets/audio/habitats.ogg
 tags:
  - Bitcoin
  - Writing
+series: Proof of Life
 ---
 
 

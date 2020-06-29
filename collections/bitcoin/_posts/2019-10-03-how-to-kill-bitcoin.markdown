@@ -10,6 +10,7 @@ category: bitcoin
 tags:
  - Bitcoin
  - Writing
+series: Proof of Life
 ---
 
 You don't.

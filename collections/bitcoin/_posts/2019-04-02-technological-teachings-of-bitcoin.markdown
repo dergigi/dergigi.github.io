@@ -18,6 +18,7 @@ translations:
    url: https://21lessons.com/translations
    author: various authors
    author_url: https://21lessons.com/translations
+series: 21 Lessons
 ---
 
 What is Bitcoin? The many answers to this question are as interesting as

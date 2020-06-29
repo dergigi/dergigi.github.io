@@ -529,8 +529,6 @@ planted a seed of conviction in you as well.
 
 - [Bitcoin's Gravity][audio-version] read by [Guy] from [cryptoconomy.life]
 
-{% include translations.html translations=page.translations %}
-
 <!-- Translations and Audio version -->
 [audio-version]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_245---Bitcoins-Gravity-e3urjl
 [cryptoconomy.life]: https://cryptoconomy.life/

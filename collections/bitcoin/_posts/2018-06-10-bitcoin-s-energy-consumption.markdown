@@ -348,10 +348,6 @@ this new game. And we will have to come to terms with the fact that a
 finite resource has to be used to secure this new, decentralized
 economy. In the case of Bitcoin, this resource is energy.
 
----
-
-{% include translations.html translations=page.translations %}
-
 [dispute the numbers]: https://medium.com/cs-research/re-cost-of-mining-misconceptions-e3fcff1ce726
 [compare Bitcoin's energy usage]: https://drive.google.com/file/d/1TIma781rLFjr-dqeJmL2KN06OpoRkSsj/view
 [in the first place]: https://en.bitcoin.it/wiki/Genesis_block

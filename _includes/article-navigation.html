@@ -1,0 +1,27 @@
+{% if page.series %}
+{% assign pages_sorted = site.categories.bitcoin | where: "series", page.series | sort: "date" %}
+{% assign articles_count = pages_sorted | size %}
+
+{% for article in pages_sorted %}
+  {% if article.path == page.path %}
+    {% assign idxp = forloop.index | minus: 1 | minus: 1 %}
+    {% assign idxn = forloop.index | plus: 1 | minus: 1 %}
+  {% endif %}
+{% endfor %}
+
+{% assign previousArticle = pages_sorted[idxp] %}
+{% assign nextArticle = pages_sorted[idxn] %}
+
+<ul class="article__navigation">
+  {% if idxp < 0 %}
+  <li></li>
+  {% else %}
+  <li><a href="{{ previousArticle.url }}" title="Previous">{{ previousArticle.title }}</a></li>
+  {% endif %}
+  {% if idxn >= articles_count %}
+  <li></li>
+  {% else %}
+  <li><a href="{{ nextArticle.url }}" title="Next">{{ nextArticle.title }}</a></li>
+  {% endif %}
+</ul>
+{% endif %}

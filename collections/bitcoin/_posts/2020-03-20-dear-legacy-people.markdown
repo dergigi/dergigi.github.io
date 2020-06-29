@@ -9,6 +9,7 @@ category: bitcoin
 tags:
  - Bitcoin
  - Writing
+series: Open Letters
 ---
 
 The world you know and love is no more, even if it isn't obvious to
@@ -110,20 +111,6 @@ that we don't need any more of those.
 
 I would love to end on an optimistic note, but the future ahead will be
 dark and bumpy, especially if the legacy world is all you know.
-
----
-
-### Dear World
-
-Open letters in anticipation of the [next era][era]:
-
-- Dear Legacy People
-- [Dear Bitcoiners][bitcoiners]
-- [Dear Family, Dear Friends][family]
-
-[bitcoiners]: {% post_url /bitcoin/2020-03-31-dear-bitcoiners %}
-[family]: {% post_url /bitcoin/2020-04-27-dear-family-dear-friends %}
-[era]: https://en.bitcoin.it/wiki/Controlled_supply
 
 [bitcoin]: https://bitcoin-resources.com
 
