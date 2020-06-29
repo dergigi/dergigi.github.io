@@ -177,11 +177,6 @@ The stage is set, the drama is unfolding, and as the crescendo comes we
 must not give in to tyranny. The path will be twisted and bumpy, and I'm
 honored to walk it to the end, with you on my side. We got this.
 
----
-
-{% include translations.html translations=page.translations %}
-
-
 ### Acknowledgments
 
 - Thanks to [Hass], [John], and [Dennis] for their valuable feedback.

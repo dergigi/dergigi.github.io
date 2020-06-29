@@ -236,8 +236,6 @@ Stage O: Bitcoin is Omnipresent.
 
 ---
 
-{% include translations.html translations=page.translations %}
-
 ### Further Resources
 
 - [Recording of the talk](https://youtu.be/qVuFX0LkNDQ) on YouTube
