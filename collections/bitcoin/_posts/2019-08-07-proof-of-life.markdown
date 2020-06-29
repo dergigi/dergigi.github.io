@@ -12,7 +12,7 @@ audio: /assets/audio/proof-of-life.ogg
 tags:
  - Bitcoin
  - Writing
- series: Proof of Life
+series: Proof of Life
 ---
 
 The definition of life has been a challenge for scientists and
