@@ -25,6 +25,7 @@ translations:
    url: https://medium.com/brandin-kirjasto/bitcoinin-energiankulutus-e6dfdc4ae97e
    author: Thomas Brand
    author_url: https://twitter.com/thlbr
+series: 21 Lessons
 ---
 
 You might have heard that Bitcoin wastes a tremendous amount of energy. You

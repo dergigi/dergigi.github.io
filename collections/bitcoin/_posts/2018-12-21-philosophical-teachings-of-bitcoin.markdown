@@ -18,6 +18,7 @@ translations:
    url: https://21lessons.com/translations
    author: various authors
    author_url: https://21lessons.com/translations
+series: 21 Lessons
 ---
 
 Some questions have easy answers. "What have you learned from Bitcoin?"

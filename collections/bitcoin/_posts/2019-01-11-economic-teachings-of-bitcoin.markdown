@@ -18,6 +18,7 @@ translations:
    url: https://21lessons.com/translations
    author: various authors
    author_url: https://21lessons.com/translations
+series: 21 Lessons
 ---
 
 Money doesn’t grow on trees. To believe that it does is foolish, and our
