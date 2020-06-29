@@ -75,3 +75,35 @@
     vertical-align: bottom;
   }
 }
+
+
+//----------------------------------------------
+//  Article Navigation
+//----------------------------------------------
+.article {
+  &__navigation {
+    @extend %no-list-style;
+    @extend %no-margin-or-padding;
+    justify-content: space-between;
+    display: flex;
+    vertical-align: bottom;
+
+    margin: 3em 0;
+
+    li {
+      @extend %no-margin-or-padding;
+
+      &:first-child {
+        & a:before {
+          content: "← "
+        }
+      }
+      &:last-child {
+        align: right;
+        & a:after {
+          content: " →"
+        }
+      }
+    }
+  }
+}
