@@ -1,9 +1,15 @@
-{% if page.translations %}
+{% if include.translations %}
+{% assign translations = include.translations %}
+{% else %}
+{% assign translations = page.translations %}
+{% endif %}
+
+{% if translations %}
 {% if include.hide_heading != true %}
 <h3 id="translations">Translations</h3>
 {% endif %}
 <ul class="translations">
-{% for translation in page.translations %}
+{% for translation in translations %}
 <li class="{{ translation.language }}">
 <a href="{{ translation.url }}" target="_blank">{{ translation.language }} translation</a>
 by
