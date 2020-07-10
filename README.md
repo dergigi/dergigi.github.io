@@ -1,6 +1,6 @@
 # dergigi.com
 
-This repository is a collection of thoughts and essays on [Bitcoin](https://dergigi.com/bitcoin/), life, and a little bit of [photography](https://dergigi.com/blog/).
+This repository is a collection of thoughts and essays on [Bitcoin](https://dergigi.com/bitcoin/), [life](https://dergigi.com/blog/), and a little bit of [photography](https://dergigi.com/blog/).
 
 If you find any typos, grammatical errors, broken links, or any other mistakes or issues, please [contact me](https://dergigi.com/contact/) or point them out to me on [twitter](https://twitter.com/dergigi). Or create a PR to correct them.
 
