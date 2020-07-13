@@ -8,11 +8,13 @@ Dear Netizen, \\
 there are many ways to support me: you can [buy my book](https://amzn.to/2VXmQgp), write a
 [review](https://21lessons.com/reviews), follow me on
 [Twitter](https://twitter.com/dergigi), subscribe to my German
-[podcast](https://anchor.fm/einundzwanzig), spread the word by sharing one of my articles or
+[podcast](https://anchor.fm/einundzwanzig), spread the word by sharing one of my articles, or
 simply give directly.
 
 {% include btcpay-usd-exp.html %}
 
+If you are from the US, you can use my reflink to [sign up for Swan](https://www.swanbitcoin.com/gigi), 
+a great auto-DCA service to stack sats.
 You can also create [translations][translations] of my book and articles, which
 is another great way of spreading the word. I have put all my heart and soul
 into creating [open-source](https://github.com/dergigi/) content for the Bitcoin
