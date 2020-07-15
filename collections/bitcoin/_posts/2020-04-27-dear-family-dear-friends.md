@@ -32,6 +32,10 @@ translations:
    url: https://www.linkedin.com/pulse/cari-famigliari-amici-luca-sonzogni
    author: Luca Sonzogni
    author_url: https://twitter.com/LucaSonzo90
+ - language: Persian
+   url: https://arzdigital.com/a-letter-to-all-of-you-who-still-have-no-bitcoin/
+   author: Ali Arianfar
+   author_url: https://arzdigital.com/author/a-arianfar/
 series: Open Letters
 ---
 
