@@ -9,6 +9,7 @@ Finding the time to read long articles and books can be challenging, which is wh
 podcasts and recorded conversations of all kinds. If you do too, here are some conversations
 and [talks](#talks) where I share my thoughts about [Bitcoin][bitcoin].
 
+  - **2020-06-25** - [Bitcoin & Co #67][anita67] on the ongoing process of Bitcoinization, hosted by Anita Bosch
   - **2020-06-25** - [Swan Signal #16][ss16] with Udi Wertheimer, hosted by Brady (also on [youtube][ss16-yt])
   - **2020-06-22** - [Vivek #12][vivek] on Bitcoin in 1000 years from now, hosted by Vivek (also on [Spotify][vivek-spotify])
   - **2020-06-15** - [ABNP #143][mrpseu] on time, the oracle problem, OpSec, identity, and self-sovereignty, hosted by Mr. Pseu
@@ -101,6 +102,8 @@ Want to talk? Feel free to [reach out to me][contact].
 [vivek-spotify]: https://open.spotify.com/episode/0rKlBKcG7N2KpRkWdoPcuT?si=yK_7acdqQVakAm3Om8VbmA
 [ss16]: https://swansignal.simplecast.com/episodes/gigi-and-udi-wertheimer-e16
 [ss16-yt]: https://youtu.be/K3l6-voNzSY
+[anita67]: https://bitcoinundco.com/en/gigi/
+
 
 [contact]: {{ '/contact' | absolute_url }}
 [bitcoin]: {{ '/bitcoin' | absolute_url }}
