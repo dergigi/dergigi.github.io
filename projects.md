@@ -3,6 +3,20 @@ layout: page
 title: Projects
 ---
 
+### 21 Ways
+
+Bitcoin is different things to different people. [21 Ways](https://patreon.com/dergigi) is my attempt
+to embrace this prismatic nature of Bitcoin, exploring 21 different ways to look at Bitcoin.
+It is an ambitious project, trying to dive deep into Bitcoin's different facets, including
+its roots, pre-history, history, civil war, technologies built on top of Bitcoin,
+surrounding economic thought, and much more. You can
+[support me on Patreon](https://patreon.com/dergigi) if you want to have a look behind the
+scenes and get a glimpse of this work in progress.
+
+{% include image.html path="/assets/images/bitcoin/projects/21ways.png" link="https://patreon.com/dergigi" %}
+
+* Patreon: [21 Ways](https://patreon.com/dergigi)
+
 ### 21 Lessons
 
 [21 Lessons][21lessons] is a bit of an unusual book. But hey, Bitcoin is a bit of an unusual
@@ -22,20 +36,6 @@ Lessons. And 21 Lessons turned a book.
 [21lessons]: https://21lessons.com/
 
 ---
-
-### 21 Lektionen
-
-Since 21 Lessons is released under a permissive creative commons license, it has been
-translated into multiple languages. *[21 Lektionen: Meine Reise in den Bitcoin
-Kaninchenbau][paperback-de]* is based on the German translations of Rene and CryptoMulde,
-revised and adapted by myself.
-
-{% include image.html path="/assets/images/bitcoin/projects/21lektionen.png" link="https://amzn.to/2Z2zts3" %}
-
-* Purchase: [Paperback][paperback-de], [Kindle](https://amzn.to/2Z2zts3)
-* Source: [GitHub](https://github.com/21-lessons/21-lessons-book-de)
-
-[paperback-de]: https://amzn.to/2AtlfWZ
 
 ### Bitcoin Resources
 
@@ -103,6 +103,19 @@ of German translations.
 [Markus]: https://twitter.com/MarkusTurm
 [einundzwanzig]: https://anchor.fm/einundzwanzig
 
+### 21 Lektionen
+
+Since 21 Lessons is released under a permissive creative commons license, it has been
+translated into multiple languages. *[21 Lektionen: Meine Reise in den Bitcoin
+Kaninchenbau][paperback-de]* is based on the German translations of Rene and CryptoMulde,
+revised and adapted by myself.
+
+{% include image.html path="/assets/images/bitcoin/projects/21lektionen.png" link="https://amzn.to/2Z2zts3" %}
+
+* Purchase: [Paperback][paperback-de], [Kindle](https://amzn.to/2Z2zts3)
+* Source: [GitHub](https://github.com/21-lessons/21-lessons-book-de)
+
+[paperback-de]: https://amzn.to/2AtlfWZ
 
 ### Quotable Satoshi Twitter Bot
 
@@ -135,7 +148,10 @@ Nic Carter, Aleks Svetski, Robert Breedlove, Dan Held, Connor Brown, and Hass Mc
 
 ### Contribution: Citadel 21
 
-Citadel21 is a Bitcoin cultural zine launched by Hodlonaut and Katoshi in May 2020. Its mission is to pull nuggets of high signal content out of the noisy chaos. I wrote an optimistic letter to bitcoiners around the globe, which was published in the first volume.
+Citadel21 is a Bitcoin cultural zine launched by Hodlonaut and Katoshi in May 2020. Its
+mission is to pull nuggets of high signal content out of the noisy chaos. I wrote an
+[optimistic letter to bitcoiners][vol1] around the globe, published in the first volume, and
+a piece on [identity and pseudonymity][vol4], published in the fourth volume.
 
 {% include image.html path="/assets/images/bitcoin/projects/citadel-21.png" link="https://citadel21.com" %}
 
@@ -144,6 +160,8 @@ Citadel21 is a Bitcoin cultural zine launched by Hodlonaut and Katoshi in May 20
 
 [citadel21]: https://www.citadel21.com
 [ctdl21]: https://twitter.com/ctdl21
+[vol1]: https://www.citadel21.com/dear-bitcoiners-an-optimistic-letter
+[vol4]: https://www.citadel21.com/true-names-not-required
 
 ### Code Contributions
 
