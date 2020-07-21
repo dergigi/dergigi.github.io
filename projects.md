@@ -3,6 +3,20 @@ layout: page
 title: Projects
 ---
 
+### 21 Ways
+
+Bitcoin is different things to different people. [21 Ways](https://patreon.com/dergigi) is my attempt
+to embrace this prismatic nature of Bitcoin, exploring 21 different ways to look at Bitcoin.
+It is an ambitious project, trying to dive deep into Bitcoin's different facets, including
+its roots, pre-history, history, civil war, technologies built on top of Bitcoin,
+surrounding economic thought, and much more. You can
+[support me on Patreon](https://patreon.com/dergigi) if you want to have a look behind the
+scenes and get a glimpse of this work in progress.
+
+{% include image.html path="/assets/images/bitcoin/projects/21ways.png" link="https://patreon.com/dergigi" %}
+
+* Patreon: [21 Ways](https://patreon.com/dergigi)
+
 ### 21 Lessons
 
 [21 Lessons][21lessons] is a bit of an unusual book. But hey, Bitcoin is a bit of an unusual
