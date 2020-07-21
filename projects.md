@@ -37,20 +37,6 @@ Lessons. And 21 Lessons turned a book.
 
 ---
 
-### 21 Lektionen
-
-Since 21 Lessons is released under a permissive creative commons license, it has been
-translated into multiple languages. *[21 Lektionen: Meine Reise in den Bitcoin
-Kaninchenbau][paperback-de]* is based on the German translations of Rene and CryptoMulde,
-revised and adapted by myself.
-
-{% include image.html path="/assets/images/bitcoin/projects/21lektionen.png" link="https://amzn.to/2Z2zts3" %}
-
-* Purchase: [Paperback][paperback-de], [Kindle](https://amzn.to/2Z2zts3)
-* Source: [GitHub](https://github.com/21-lessons/21-lessons-book-de)
-
-[paperback-de]: https://amzn.to/2AtlfWZ
-
 ### Bitcoin Resources
 
 While falling down the Bitcoin rabbit hole I tried to absorb as much content in the form of
@@ -117,6 +103,19 @@ of German translations.
 [Markus]: https://twitter.com/MarkusTurm
 [einundzwanzig]: https://anchor.fm/einundzwanzig
 
+### 21 Lektionen
+
+Since 21 Lessons is released under a permissive creative commons license, it has been
+translated into multiple languages. *[21 Lektionen: Meine Reise in den Bitcoin
+Kaninchenbau][paperback-de]* is based on the German translations of Rene and CryptoMulde,
+revised and adapted by myself.
+
+{% include image.html path="/assets/images/bitcoin/projects/21lektionen.png" link="https://amzn.to/2Z2zts3" %}
+
+* Purchase: [Paperback][paperback-de], [Kindle](https://amzn.to/2Z2zts3)
+* Source: [GitHub](https://github.com/21-lessons/21-lessons-book-de)
+
+[paperback-de]: https://amzn.to/2AtlfWZ
 
 ### Quotable Satoshi Twitter Bot
 
