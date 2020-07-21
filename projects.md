@@ -148,7 +148,10 @@ Nic Carter, Aleks Svetski, Robert Breedlove, Dan Held, Connor Brown, and Hass Mc
 
 ### Contribution: Citadel 21
 
-Citadel21 is a Bitcoin cultural zine launched by Hodlonaut and Katoshi in May 2020. Its mission is to pull nuggets of high signal content out of the noisy chaos. I wrote an optimistic letter to bitcoiners around the globe, which was published in the first volume.
+Citadel21 is a Bitcoin cultural zine launched by Hodlonaut and Katoshi in May 2020. Its
+mission is to pull nuggets of high signal content out of the noisy chaos. I wrote an
+[optimistic letter to bitcoiners][vol1] around the globe, published in the first volume, and
+a piece on [identity and pseudonymity][vol4], published in the fourth volume.
 
 {% include image.html path="/assets/images/bitcoin/projects/citadel-21.png" link="https://citadel21.com" %}
 
@@ -157,6 +160,8 @@ Citadel21 is a Bitcoin cultural zine launched by Hodlonaut and Katoshi in May 20
 
 [citadel21]: https://www.citadel21.com
 [ctdl21]: https://twitter.com/ctdl21
+[vol1]: https://www.citadel21.com/dear-bitcoiners-an-optimistic-letter
+[vol4]: https://www.citadel21.com/true-names-not-required
 
 ### Code Contributions
 
