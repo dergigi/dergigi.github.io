@@ -26,6 +26,8 @@ social:
     url: https://medium.com/@dergigi
   - name: bitcoin
     url: https://dergigi.com/support
+  - name: patreon
+    url: https://www.patreon.com/dergigi
 
 # Collections
 collections_dir: collections
