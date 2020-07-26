@@ -16,9 +16,17 @@ title: Contact
 
 ---
 
+If you want to reach me, twitter, telegram, or the mail above is probably your best bet. I
+will do my best to reply in 48h or less. If I don't please ping me again. Note that I will
+probably not respond if I can't make out what you're up to. A simple "hi" or "hey" without
+any context will be ignored. Also, I'm not interested in trading or shitcoinery, so anything
+along these lines will be deleted without an answer.
+
+---
+
 ## About me
 
-Hi! Nice to meet you. I'm [Gigi][twitter].
+I’m [Gigi][true-names]. Nice to meet you.
 
 I don't know how you ended up here. Maybe you have read some of the [things
 I wrote][medium]. Maybe you have seen some of my [photography] and googled the
@@ -36,9 +44,8 @@ results in a better future. I believe that [freedom][gnu] and a move
 away from centralized control are paramount for empowering individuals
 and building a future worth having.
 
-Sounds exciting? If you want to reach out, [twitter][twitter] or the
-mail above is probably the best place. Or just follow along for the ride.
-That's perfectly fine too.
+If you want to talk about these things, feel free to reach out to me. Or just [follow
+along][twitter] for the ride. That's perfectly fine too.
 
 Hope to see you around, \\
 Gigi
@@ -48,3 +55,4 @@ Gigi
 [photography]: {{ 'blog' | absolute_url }}
 [medium]: https://medium.com/@dergigi
 [gnu]: https://www.gnu.org/philosophy/free-sw.html
+[true-names]: https://www.citadel21.com/true-names-not-required
