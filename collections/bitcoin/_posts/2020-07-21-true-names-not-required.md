@@ -166,6 +166,8 @@ you kill the person currently known as the Buddha. The pseudonym
 transcends the individual. We are all Buddha, at least potentially, at
 least in part.
 
+{% include image.html name="liberate-your-money.webp" caption="Original artwork by Lucho Poletti" %}
+
 Similarly, we are all Satoshi. Every single one of us who cares about
 Bitcoin, driving it forward, educating others, starting and running
 companies, pushing adoption, writing code, documentation, books, and
