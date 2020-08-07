@@ -2,13 +2,17 @@
 layout: post
 title: "True Names Not Required"
 date: 2020-07-21
-image: /assets/images/btc17-true-names.png
+image: /assets/images/btc17-true-names.webp
 source: https://www.citadel21.com/true-names-not-required
 author: Gigi
 category: bitcoin
 tags:
  - Bitcoin
  - Writing
+---
+
+First published in [Citadel 21, Volume 4](https://www.citadel21.com/true-names-not-required).
+
 ---
 
 In 1981, at a time where the internet was in its infancy (and I was just
@@ -31,12 +35,7 @@ which in turn means that the concepts explored in *True Names* ---
 identity, privacy, anonymity, pseudonymity --- will be part of it as
 well.
 
-![Discovering Bitcoin and plugging yourself into
-[\#BitcoinTwitter](https://twitter.com/hashtag/BitcoinTwitter) (original
-illustrations by Bob
-Walters)](https://miro.medium.com/max/3984/1*mfEEvNtUAf14vBZdEHoIDA.png){width="1992"
-height="1667" sizes="700px"
-srcset="https://miro.medium.com/max/552/1*mfEEvNtUAf14vBZdEHoIDA.png 276w, https://miro.medium.com/max/1104/1*mfEEvNtUAf14vBZdEHoIDA.png 552w, https://miro.medium.com/max/1280/1*mfEEvNtUAf14vBZdEHoIDA.png 640w, https://miro.medium.com/max/1400/1*mfEEvNtUAf14vBZdEHoIDA.png 700w"}
+{% include image.html name="bitcoin-twitter.webp" caption="Discovering Bitcoin and plugging yourself into #BitcoinTwitter (original illustrations by Bob Walters)" %}
 
 I was born in a small town in Austria, a town that shall remain nameless
 for the time being. We were living in a quiet and family-friendly
@@ -54,10 +53,7 @@ when I did, I repeatedly said one syllable, over and over again: *dʒɪ*.
 My sister, both jokingly and lovingly, repeated that all the time and so
 it came to be that she gave me a nickname that stuck ever since: *Gigi*.
 
-![Turning away from a sea of
-shitcoins.](https://miro.medium.com/max/5956/1*8eIm9mAYKvuZtvlG5-A0sQ.jpeg){width="2978"
-height="2245" sizes="700px"
-srcset="https://miro.medium.com/max/552/1*8eIm9mAYKvuZtvlG5-A0sQ.jpeg 276w, https://miro.medium.com/max/1104/1*8eIm9mAYKvuZtvlG5-A0sQ.jpeg 552w, https://miro.medium.com/max/1280/1*8eIm9mAYKvuZtvlG5-A0sQ.jpeg 640w, https://miro.medium.com/max/1400/1*8eIm9mAYKvuZtvlG5-A0sQ.jpeg 700w"}
+{% include image.html name="shitcoin-sea.webp" caption="Turning away from a sea of shitcoins." %}
 
 It's funny how some things turn out. I'm pretty sure she didn't think
 much of it at the time. After all, she was only five years older than
@@ -90,10 +86,7 @@ internet, and it's one of the reasons why I love Bitcoin: you don't need
 a fixed identity to use it. That's the beauty of it: True Names not
 required.
 
-![Early training for the great meme wars of the
-future.](https://miro.medium.com/max/2728/1*Gd3UbjKwXgg-LUyBmrC2lA.jpeg){width="1364"
-height="960" sizes="700px"
-srcset="https://miro.medium.com/max/552/1*Gd3UbjKwXgg-LUyBmrC2lA.jpeg 276w, https://miro.medium.com/max/1104/1*Gd3UbjKwXgg-LUyBmrC2lA.jpeg 552w, https://miro.medium.com/max/1280/1*Gd3UbjKwXgg-LUyBmrC2lA.jpeg 640w, https://miro.medium.com/max/1400/1*Gd3UbjKwXgg-LUyBmrC2lA.jpeg 700w"}
+{% include image.html name="meme-wars.webp" caption="Early training for the great meme wars of the future." %}
 
 Unsurprisingly, the whole idea of anonymity and pseudonymity is under
 attack. People conspire in digital witch hunts to find out the True
@@ -122,9 +115,7 @@ interests and political views have probably changed, as has the way you
 see the world and yourself. Thus, your identity is both fluid and
 prismatic. In the words of Walt Whitman: you contain multitudes.
 
-![](https://miro.medium.com/max/5000/1*ZmBq3-F44ma4VjaRPTm4lA.jpeg){width="2500"
-height="1250" sizes="100vw"
-srcset="https://miro.medium.com/max/552/1*ZmBq3-F44ma4VjaRPTm4lA.jpeg 276w, https://miro.medium.com/max/1104/1*ZmBq3-F44ma4VjaRPTm4lA.jpeg 552w, https://miro.medium.com/max/1280/1*ZmBq3-F44ma4VjaRPTm4lA.jpeg 640w, https://miro.medium.com/max/1456/1*ZmBq3-F44ma4VjaRPTm4lA.jpeg 728w, https://miro.medium.com/max/1632/1*ZmBq3-F44ma4VjaRPTm4lA.jpeg 816w, https://miro.medium.com/max/1808/1*ZmBq3-F44ma4VjaRPTm4lA.jpeg 904w, https://miro.medium.com/max/1984/1*ZmBq3-F44ma4VjaRPTm4lA.jpeg 992w, https://miro.medium.com/max/2160/1*ZmBq3-F44ma4VjaRPTm4lA.jpeg 1080w, https://miro.medium.com/max/2700/1*ZmBq3-F44ma4VjaRPTm4lA.jpeg 1350w, https://miro.medium.com/max/3240/1*ZmBq3-F44ma4VjaRPTm4lA.jpeg 1620w, https://miro.medium.com/max/3780/1*ZmBq3-F44ma4VjaRPTm4lA.jpeg 1890w, https://miro.medium.com/max/4320/1*ZmBq3-F44ma4VjaRPTm4lA.jpeg 2160w, https://miro.medium.com/max/4800/1*ZmBq3-F44ma4VjaRPTm4lA.jpeg 2400w"}
+{% include image.html name="dergigi.webp" %}
 
 The cypherpunks recognized that a free society can not function if
 identity is rigid and known to all. A free society requires the option
@@ -189,9 +180,7 @@ his gift to us is all that matters. Bitcoin was given to us, and now it
 simply is. It doesn't require an identifiable creator because True Names
 are not required.
 
-![](https://miro.medium.com/max/2894/1*rqC2un_qIUgL458m5VqF0A.jpeg){width="1447"
-height="724" sizes="700px"
-srcset="https://miro.medium.com/max/552/1*rqC2un_qIUgL458m5VqF0A.jpeg 276w, https://miro.medium.com/max/1104/1*rqC2un_qIUgL458m5VqF0A.jpeg 552w, https://miro.medium.com/max/1280/1*rqC2un_qIUgL458m5VqF0A.jpeg 640w, https://miro.medium.com/max/1400/1*rqC2un_qIUgL458m5VqF0A.jpeg 700w"}
+{% include image.html name="masks.webp" %}
 
 Just like names can transcend the individual and become something more
 powerful, a mask can become a symbol in itself. In such cases the
@@ -203,9 +192,7 @@ march of the masks in which thousands of citizens march toward the
 Houses of Parliament, hiding their faces behind *Guy Fawkes* masks to
 support the idea put forward by the masked protagonist.
 
-![[\#WeAreAllHodlonaut](https://twitter.com/hashtag/weareallhodlonaut)](https://miro.medium.com/max/3598/1*8MBHOdVRXAFrEc1sWZ6pfA.jpeg){width="1799"
-height="2398" sizes="500px"
-srcset="https://miro.medium.com/max/552/1*8MBHOdVRXAFrEc1sWZ6pfA.jpeg 276w, https://miro.medium.com/max/1000/1*8MBHOdVRXAFrEc1sWZ6pfA.jpeg 500w"}
+{% include image.html name="hodlonaut.webp" caption="#WeAreAllHodlonaut" %}
 
 Not too long ago, analogous to the scene depicted in the movie, an army
 of bitcoiners decided to (temporarily) change their online identities in
@@ -232,7 +219,7 @@ of them. Yes, the technology that powers facial recognition, fingerprint
 scanners, and pattern matching is fascinating. Yes, the fact that you
 can extract information from passports by simply tapping your phone on
 them is cool technology (the little chip symbol on your passport means
-that it has an [NFC chip](https://youtu.be/8W_jyqaeXQ0)in it). But is it
+that it has an [NFC chip](https://youtu.be/8W_jyqaeXQ0) in it). But is it
 *necessary*? Is it even a good idea?
 
 As you can probably guess, I don't believe it is. Normalizing the idea
