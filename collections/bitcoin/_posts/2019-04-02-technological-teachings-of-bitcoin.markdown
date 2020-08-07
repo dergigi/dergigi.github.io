@@ -829,10 +829,6 @@ I've learned from Bitcoin.
 -   [*Why Bitcoin Matters*] by [Aleksandar Svetski]
 -   [*Guess My Bitcoin Private Key*] by [Michael Kerbleski]
 
-#### Translations
-
-This article is part of [21 Lessons](https://21lessons.com). You can find translations of it at [21lessons.com/translations](https://21lessons.com/translations).
-
 [*Bitcoin: A Peer-to-Peer Electronic Cash System*]: https://bitcoin.org/bitcoin.pdf
 [*Mastering Bitcoin*]: https://bitcoinbook.info/
 [*The Internet of Money*]: https://theinternetofmoney.info/

@@ -395,10 +395,6 @@ What have you learned from Bitcoin?
     minimalists, shills, bots, and shitposters which reside in the
     beautiful garden that is crypto twitter.
 
-#### Translations
-
-This article is part of [21 Lessons](https://21lessons.com). You can find translations of it at [21lessons.com/translations](https://21lessons.com/translations).
-
 [I]: {% post_url /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin %}
 [II]: {% post_url /bitcoin/2019-01-11-economic-teachings-of-bitcoin %}
 [III]: {% post_url /bitcoin/2019-04-02-technological-teachings-of-bitcoin %}
