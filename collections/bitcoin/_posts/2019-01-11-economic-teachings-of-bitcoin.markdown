@@ -878,10 +878,6 @@ There exists an almost endless list of books and essays on the topics discussed 
   - [The Bullish Case For Bitcoin] by [Vijay Boyapati]
   - [Bitcoin’s distribution was fair] by [Dan Held]
 
-#### Translations
-
-This article is part of [21 Lessons](https://21lessons.com). You can find translations of it at [21lessons.com/translations](https://21lessons.com/translations).
-
 [Arjun Balaji]: https://twitter.com/arjunblj
 [the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
 [Saifedean Ammous]: https://twitter.com/saifedean

@@ -318,14 +318,6 @@ survive any coming storm, however perfect it may be.
 
 - Thanks to [Jannik](https://twitter.com/jnnksbrt) and [Raph](https://twitter.com/raph_BTC) for their feedback on earlier drafts of this article.
 
-----
-
-I hope you have enjoyed this excursion into the world of the Bitcoin
-organism. If you like to accelerate the growth of both Bitcoin and this
-article series feel free to [drop me a line], some applause on [medium],
-or even [some sats] via the beast which is Bitcoin. Thanks for all the
-encouragement, and thank you for reading.
-
 
 <!-- Internal -->
 [drop me a line]: {{ '/contact' | absolute_url }}
