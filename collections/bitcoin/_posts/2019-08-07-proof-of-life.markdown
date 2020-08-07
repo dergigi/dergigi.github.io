@@ -296,14 +296,6 @@ living organism --- alien as it may be.
 -   Thanks to [Dan Held], [Brandon Quittem], and [Raph] for their
     feedback on earlier drafts of this article.
 
-----
-
-I hope you have enjoyed this excursion into the world of the Bitcoin
-organism. If you like to accelerate the growth of both Bitcoin and this
-article series feel free to [drop me a line], some applause on [medium],
-or even [some sats] via the beast which is Bitcoin. Thanks for all the
-encouragement, and thank you for reading.
-
 <!-- Unused -->
 [Characteristics of Life]: https://en.wikipedia.org/wiki/File:Characteristics_of_life.svg
 

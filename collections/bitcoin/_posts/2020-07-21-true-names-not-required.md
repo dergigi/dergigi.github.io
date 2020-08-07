@@ -11,10 +11,6 @@ tags:
  - Writing
 ---
 
-First published in [Citadel 21, Volume 4](https://www.citadel21.com/true-names-not-required).
-
----
-
 In 1981, at a time where the internet was in its infancy (and I was just
 a gleam in my father's eye), the legendary mathematician, computer
 scientist, and science-fiction author Vernor Vinge published his
@@ -298,6 +294,10 @@ This is Bitcoin. You can stay anonymous. You can be pseudonymous. That
 is the beauty of it. True Names not required.
 
 Gigi
+
+---
+
+This article first appeared in [Citadel 21, Volume 4](https://www.citadel21.com/true-names-not-required).
 
 ---
 
