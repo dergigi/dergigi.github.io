@@ -6,6 +6,7 @@ image: /assets/images/btc17-true-names.webp
 source: https://www.citadel21.com/true-names-not-required
 author: Gigi
 category: bitcoin
+audio: /assets/audio/true-names.ogg
 tags:
  - Bitcoin
  - Writing
