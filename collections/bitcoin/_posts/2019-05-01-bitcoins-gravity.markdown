@@ -22,6 +22,10 @@ translations:
    url: https://medium.com/@dergigi/la-gravedad-de-bitcoin-33d351b213ce
    author: Camilo JdL
    author_url: https://twitter.com/CamiloJdL
+ - language: Italian
+   url: https://bitcoin-translate.it/blog/20200824.php
+   author: Italian Satoshi
+   author_url: https://twitter.com/italiansatoshi
 ---
 
 Bitcoin is different things to different people. Whatever it might be to
