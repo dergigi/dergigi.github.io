@@ -10,6 +10,11 @@ audio: /assets/audio/true-names.ogg
 tags:
  - Bitcoin
  - Writing
+translations:
+ - language: Italian
+   url: https://bitcoin-translate.it/blog/20200730.php
+   author: Italian Satoshi
+   author_url: https://twitter.com/italiansatoshi
 ---
 
 In 1981, at a time where the internet was in its infancy (and I was just
