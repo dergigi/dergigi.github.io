@@ -11,7 +11,7 @@ free to share and adapt the material as you see fit. The only requirement is
 that you must distribute your contributions under the same license.
 
 Thanks to this license - and many awesome individual bitcoiners - many of my
-writings, including my book [21 Lessons](https://21lessons.com), have been
+writings, including my book [21 Lessons](https://21lessons.com/translations), have been
 translated to other languages.
 
 
