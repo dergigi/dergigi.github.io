@@ -1,8 +1,11 @@
+{% assign webp = post.image | replace: '.jpg', '.webp' | replace: '.png', '.webp' %}
 <article class="posts__post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
   <a class="posts__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
     {% if post.image %}
       <figure class="posts__img">
-        <img src="{{ post.image | replace: '.jpg', '.webp' | replace: '.png', '.webp' }}" alt="{{ post.title }}" data-aos="fade-in" itemprop="image"/>
+        <source srcset="{{ webp }}" type="image/webm">
+        <source srcset="{{ post.image }}" type="image/jpeg"
+        <img src="{{ post.image }}" alt="{{ post.title }}" data-aos="fade-in" itemprop="image">
       </figure>
     {% endif %}
     <div>
