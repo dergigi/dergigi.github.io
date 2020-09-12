@@ -2,7 +2,7 @@
 layout: post
 title: "True Names Not Required"
 date: 2020-07-21
-image: /assets/images/btc17-true-names.webp
+image: /assets/images/btc17-true-names.jpg
 source: https://www.citadel21.com/true-names-not-required
 author: Gigi
 category: bitcoin
@@ -37,7 +37,7 @@ which in turn means that the concepts explored in *True Names* ---
 identity, privacy, anonymity, pseudonymity --- will be part of it as
 well.
 
-{% include image.html name="bitcoin-twitter.webp" caption="Discovering Bitcoin and plugging yourself into #BitcoinTwitter (original illustrations by Bob Walters)" %}
+{% include image.html name="bitcoin-twitter.png" caption="Discovering Bitcoin and plugging yourself into #BitcoinTwitter (original illustrations by Bob Walters)" %}
 
 I was born in a small town in Austria, a town that shall remain nameless
 for the time being. We were living in a quiet and family-friendly
@@ -55,7 +55,7 @@ when I did, I repeatedly said one syllable, over and over again: *dʒɪ*.
 My sister, both jokingly and lovingly, repeated that all the time and so
 it came to be that she gave me a nickname that stuck ever since: *Gigi*.
 
-{% include image.html name="shitcoin-sea.webp" caption="Turning away from a sea of shitcoins." %}
+{% include image.html name="shitcoin-sea.jpg" caption="Turning away from a sea of shitcoins." %}
 
 It's funny how some things turn out. I'm pretty sure she didn't think
 much of it at the time. After all, she was only five years older than
@@ -88,7 +88,7 @@ internet, and it's one of the reasons why I love Bitcoin: you don't need
 a fixed identity to use it. That's the beauty of it: True Names not
 required.
 
-{% include image.html name="meme-wars.webp" caption="Early training for the great meme wars of the future." %}
+{% include image.html name="meme-wars.jpg" caption="Early training for the great meme wars of the future." %}
 
 Unsurprisingly, the whole idea of anonymity and pseudonymity is under
 attack. People conspire in digital witch hunts to find out the True
@@ -117,7 +117,7 @@ interests and political views have probably changed, as has the way you
 see the world and yourself. Thus, your identity is both fluid and
 prismatic. In the words of Walt Whitman: you contain multitudes.
 
-{% include image.html name="dergigi.webp" %}
+{% include image.html name="dergigi.jpg" %}
 
 The cypherpunks recognized that a free society can not function if
 identity is rigid and known to all. A free society requires the option
@@ -168,7 +168,7 @@ you kill the person currently known as the Buddha. The pseudonym
 transcends the individual. We are all Buddha, at least potentially, at
 least in part.
 
-{% include image.html name="liberate-your-money.webp" caption="Original artwork by Lucho Poletti" %}
+{% include image.html name="liberate-your-money.jpg" caption="Original artwork by Lucho Poletti" %}
 
 Similarly, we are all Satoshi. Every single one of us who cares about
 Bitcoin, driving it forward, educating others, starting and running
@@ -184,7 +184,7 @@ his gift to us is all that matters. Bitcoin was given to us, and now it
 simply is. It doesn't require an identifiable creator because True Names
 are not required.
 
-{% include image.html name="masks.webp" %}
+{% include image.html name="masks.jpeg" %}
 
 Just like names can transcend the individual and become something more
 powerful, a mask can become a symbol in itself. In such cases the
@@ -196,7 +196,7 @@ march of the masks in which thousands of citizens march toward the
 Houses of Parliament, hiding their faces behind *Guy Fawkes* masks to
 support the idea put forward by the masked protagonist.
 
-{% include image.html name="hodlonaut.webp" caption="#WeAreAllHodlonaut" %}
+{% include image.html name="hodlonaut.jpg" caption="#WeAreAllHodlonaut" %}
 
 Not too long ago, analogous to the scene depicted in the movie, an army
 of bitcoiners decided to (temporarily) change their online identities in
