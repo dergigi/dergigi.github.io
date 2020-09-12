@@ -9,6 +9,7 @@ Finding the time to read long articles and books can be challenging, which is wh
 podcasts and recorded conversations of all kinds. If you do too, here are some conversations
 and [talks](#talks) where I share my thoughts about [Bitcoin][bitcoin].
 
+  - **2020-09-12** - [This Week in Bitcoin][twib4] with Anders and Kenn, hosted by Adam Meister (also on [youtube][twib4-yt])
   - **2020-09-02** - [POV Crypto #160][pov160] on the circular nature and religious aspects of the Bitcoin organism, hosted by Christian and David
   - **2020-06-25** - [Bitcoin & Co #67][anita67] on the ongoing process of Bitcoinization, hosted by Anita Bosch
   - **2020-06-25** - [Swan Signal #16][ss16] with Udi Wertheimer, hosted by Brady (also on [youtube][ss16-yt])
@@ -105,6 +106,8 @@ Want to talk? Feel free to [reach out to me][contact].
 [ss16-yt]: https://youtu.be/K3l6-voNzSY
 [anita67]: https://bitcoinundco.com/en/gigi/
 [pov160]: http://povcryptopod.libsyn.com/160-bitcoin-and-ethereum-is-a-religion-organism-and-state
+[twib4]: https://anchor.fm/bitcoinmeister/episodes/This-week-in-Bitcoin--9-11-2020--Blacklist--SushiSwap--Belarus--UBI--Yearn-finance--inflation--hyperbitcoinization-ejg3mj
+[twib4-yt]: https://youtu.be/c2ESlD0FjSc
 
 
 [contact]: {{ '/contact' | absolute_url }}
