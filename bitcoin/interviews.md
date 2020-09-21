@@ -9,6 +9,7 @@ Finding the time to read long articles and books can be challenging, which is wh
 podcasts and recorded conversations of all kinds. If you do too, here are some conversations
 and [talks](#talks) where I share my thoughts about [Bitcoin][bitcoin].
 
+  - **2020-09-20** - [Down The Rabbit Hole][dtrh5] on Bitcoin's Biology and many other topics, hosted by Kaz Bycko
   - **2020-09-12** - [This Week in Bitcoin][twib4] with Anders and Kenn, hosted by Adam Meister (also on [youtube][twib4-yt])
   - **2020-09-02** - [POV Crypto #160][pov160] on the circular nature and religious aspects of the Bitcoin organism, hosted by Christian and David
   - **2020-06-25** - [Bitcoin & Co #67][anita67] on the ongoing process of Bitcoinization, hosted by Anita Bosch
@@ -17,6 +18,8 @@ and [talks](#talks) where I share my thoughts about [Bitcoin][bitcoin].
   - **2020-06-15** - [ABNP #143][mrpseu] on time, the oracle problem, OpSec, identity, and self-sovereignty, hosted by Mr. Pseu
   - **2020-05-22** - [This Week in Bitcoin][twib3] with Juan and Guy, hosted by Adam Meister (also on [youtube][twib3-yt])
   - **2020-05-20** - [Swan Signal #11][ss11] with Knut, Brekkie, and Cory, hosted by Brady (also on [youtube][ss11-yt])
+
+[dtrh5]: https://anchor.fm/dtrhole/episodes/DTRH5---The-Biology-of-Bitcoin-with-Gigi-ejtue4
 
   ---
 
