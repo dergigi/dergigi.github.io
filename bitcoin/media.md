@@ -7,9 +7,14 @@ redirect_from:
   - /bitcoin/interviews
 ---
 
-Finding the time to read long articles and books can be challenging, which is why I love
-podcasts and recorded conversations of all kinds. If you do too, here are some conversations
-and [talks](#talks) where I share my thoughts about [Bitcoin][bitcoin].
+Finding the time to read long articles and books can be challenging, which is
+why I love podcasts and recorded conversations of all kinds. If you do too, here
+are some [conversations](#interviews-and-conversations) and [talks](#talks)
+where I share my thoughts about [Bitcoin][bitcoin]. There are also some [guest
+posts](#guest-posts) and popular [twitter threads](#twitter-threads) linked at
+the bottom of this page.
+
+### Interviews and Conversations
 
   - **2020-09-20** - [Down The Rabbit Hole][dtrh5] on Bitcoin's Biology and many other topics, hosted by Kaz Bycko
   - **2020-09-12** - [This Week in Bitcoin][twib4] with Anders and Kenn, hosted by Adam Meister (also on [youtube][twib4-yt])
@@ -58,7 +63,8 @@ Want to talk? Feel free to [reach out to me][contact].
 
 ### Talks
 
-- **2020-06-02** - [Keynote: The Bitcoin Journey][vob-bitcoin-journey] at the Value of Bitcoin Conference
+- **2020-06-02** - [Keynote: The Bitcoin Journey][vob-bitcoin-journey] at the Value of Bitcoin Conference Digital Europe
+- **2020-05-11** - _Keynote: Competing With Free_ at the Value of Bitcoin Conference Digital America (available soon)
 
 [vob-bitcoin-journey]: https://youtu.be/qVuFX0LkNDQ
 
@@ -68,13 +74,13 @@ I have written various articles for the [Swan Bitcoin Blog][swan-blog] and
 the [Bull Bitcoin][bull-bitcoin] publication. I have also contributed to
 [Citadel 21][ctdl21] and the [21ism Art Collective][21ism].
 
-- **2020-09-20** - [On Bitcoin's UX][swan-ux]
-- **2020-08-18** - [Why I Joined Swan Bitcoin][swan-joined]
-- **2020-07-21** - [True Names Not Required][ctdl21-true-names]
-- **2020-04-21** - [Dear Bitcoiners][ctdl21-dear-bitcoiners]
-- **2019-11-21** - [Bitcoin Boots on the Ground: Venezuela][bull-venezuela]
-- **2019-08-22** - [The Rise of the Sovereign Individual][bull-rise]
-- **2019-07-23** - [The World is Waking up to Bitcoin][bull-waking-up]
+- **2020-09-20** - [On Bitcoin's UX][swan-ux] on the Swan Signal blog
+- **2020-08-18** - [Why I Joined Swan Bitcoin][swan-joined] on the Swan Signal blog
+- **2020-07-21** - [True Names Not Required][ctdl21-true-names] for Citadel 21
+- **2020-04-21** - [Dear Bitcoiners][ctdl21-dear-bitcoiners] for Citadel 21
+- **2019-11-21** - [Bitcoin Boots on the Ground: Venezuela][bull-venezuela] on the Bull Bitcoin blog
+- **2019-08-22** - [The Rise of the Sovereign Individual][bull-rise] on the Bull Bitcoin blog
+- **2019-07-23** - [The World is Waking up to Bitcoin][bull-waking-up] on the Bull Bitcoin blog
 
 <!-- 21ism -->
 [21ism]: https://21ism.com/
@@ -97,6 +103,37 @@ the [Bull Bitcoin][bull-bitcoin] publication. I have also contributed to
 
 ---
 
+### Twitter Threads
+
+I use twitter to share and distill my thoughts, which sometimes leads to
+long-form twitter threads in which I try to flesh out certain ideas in a more
+public format. Here are some threads that resonated most:
+
+- **2020-11-21** - ["Bitcoin's UX"][tw-ux] - A thread on Bitcoin's UX and how it compares to the UX of the early internet.
+- **2020-11-19** - ["Inflow/Balance/Outflow"][tw-balance] - A thread on inflows, outflows, balance sheets, and how a circular Bitcoin economy might resolve some points of contention around SoV and MoE.
+- **2020-07-09** - ["Passports and Biometrics"][tw-passports] - A thread on digital passports, facial recognition, biometrics, and other shenanigans.
+- **2020-07-02** - ["The Price of Tomorrow"][tw-price-tomorrow] - A quick thread on The Price of Tomorrow, a book by Jeff Booth.
+- **2019-10-30** - ["Circularity"][tw-circularity] - A thread about Bitcoin, religion, mirrors, my rabbit hole journey, and where Bitcoin (and bitcoiners) might go in the next couple of years.
+- **2019-10-21** - ["Bitcoin is a religion"][tw-religion] - A meta-thread about Bitcoin as a base axiom for one's world view.
+- **2019-08-07** - ["Proof of Life"][tw-life] - A thread on viewing Bitcoin as a living organism.
+- **2019-05-23** - ["Digital Hygiene"][tw-hygiene] - A thread on digital hygiene, freedom of speech, identity, privacy, and net neutrality.
+- **2019-04-02** - ["Technological Teachings of Bitcoin"][tw-technology] - A thread on what I've learned about technology thanks to studying Bitcoin.
+- **2019-01-12** - ["Economic Teachings of Bitcoin"][tw-economics] - A thread on what I've learned about economics thanks to studying Bitcoin.
+- **2018-12-21** - ["Philosophical Teachings of Bitcoin"][tw-philosophy] - A thread on what I've learned about philosophy thanks to studying Bitcoin.
+
+[tw-ux]: https://twitter.com/dergigi/status/1308098052817903616
+[tw-balance]: https://twitter.com/dergigi/status/1307397137572007939
+[tw-passports]: https://twitter.com/dergigi/status/1148572041416708097
+[tw-price-tomorrow]: https://twitter.com/dergigi/status/1278627021082558465
+[tw-circularity]: https://twitter.com/dergigi/status/1189608467029516289
+[tw-religion]: https://twitter.com/dergigi/status/1186350297645498368
+[tw-life]: https://twitter.com/dergigi/status/1159152860258623495
+[tw-hygiene]: https://twitter.com/dergigi/status/1142741744024469504
+[tw-technology]: https://twitter.com/dergigi/status/1112960763361222656
+[tw-economics]: https://twitter.com/dergigi/status/1083884324871643137
+[tw-philosophy]: https://twitter.com/dergigi/status/1076241029576179712
+
+---
 
 [keyvan-german]: https://youtu.be/ShbOXJ0Qj2c
 [keyvan-english]: https://youtu.be/RrW2yhEY39Y
