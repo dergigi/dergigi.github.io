@@ -8,11 +8,17 @@ redirect_from:
   - /bitcoin/interviews
 ---
 
-Finding the time to read long articles and books can be challenging, which is
-why I love podcasts and recorded conversations of all kinds. If you do too, here
-are some [conversations](#interviews-and-conversations) and [talks](#talks)
-where I share my thoughts about [Bitcoin][bitcoin]. There are also some [guest
-posts](#guest-posts) and popular [twitter threads](#twitter-threads) linked at
+Over the last couple of years, I had the pleasure of speaking on various
+podcasts, conferences, and live shows to talk about Bitcoin and its
+implications. While the conversations mostly revolve around Bitcoin, they
+sometimes stray into other, related topics.
+
+In the hectic world of today, it is often challenging to find the time to read
+long articles and books, which is why I love podcasts and recorded conversations
+of all kinds. If you do too, here are some
+[conversations](#interviews-and-conversations) and [talks](#talks) where I share
+my thoughts about [Bitcoin][bitcoin]. There are also some [guest posts](#guest-posts)
+and popular [twitter threads](#twitter-threads) linked at
 the bottom of this page.
 
 ### Interviews and Conversations
@@ -143,6 +149,8 @@ public format. Here are some threads that resonated most:
 [tw-philosophy]: https://twitter.com/dergigi/status/1076241029576179712
 
 ---
+
+Want to collaborate? Don't hesitate to [reach out][contact]!
 
 [keyvan-german]: https://youtu.be/ShbOXJ0Qj2c
 [keyvan-english]: https://youtu.be/RrW2yhEY39Y
