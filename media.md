@@ -4,6 +4,7 @@ title: Media Appearances
 description: Podcasts, Presentations, Twitter Threads
 redirect_from:
   - /interviews
+  - /bitcoin/media
   - /bitcoin/interviews
 ---
 
