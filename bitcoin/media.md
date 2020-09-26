@@ -113,10 +113,14 @@ public format. Here are some threads that resonated most:
 - **2020-11-19** - ["Inflow/Balance/Outflow"][tw-balance] - A thread on inflows, outflows, balance sheets, and how a circular Bitcoin economy might resolve some points of contention around SoV and MoE.
 - **2020-07-09** - ["Passports and Biometrics"][tw-passports] - A thread on digital passports, facial recognition, biometrics, and other shenanigans.
 - **2020-07-02** - ["The Price of Tomorrow"][tw-price-tomorrow] - A quick thread on The Price of Tomorrow, a book by Jeff Booth.
+- **2020-05-11** - ["Halving Memes 2020"][tw-halving2020] - A long thread of memes to celebrate the 3rd Bitcoin Halving.
+- **2019-12-23** - ["Bitcoin's Eternal Struggle"][tw-struggle] - A thread on Bitcoin's struggle between order and chaos.
 - **2019-10-30** - ["Circularity"][tw-circularity] - A thread about Bitcoin, religion, mirrors, my rabbit hole journey, and where Bitcoin (and bitcoiners) might go in the next couple of years.
 - **2019-10-21** - ["Bitcoin is a religion"][tw-religion] - A meta-thread about Bitcoin as a base axiom for one's world view.
+- **2019-10-12** - ["Conviction. Meaning. Truth."][tw-conviction] - A thread on the level of conviction Bitcoin instills in some bitcoiners.
 - **2019-08-07** - ["Proof of Life"][tw-life] - A thread on viewing Bitcoin as a living organism.
 - **2019-05-23** - ["Digital Hygiene"][tw-hygiene] - A thread on digital hygiene, freedom of speech, identity, privacy, and net neutrality.
+- **2019-05-01** - ["Bitcoin's Gravity"][tw-gravity] - A thread on how idea-value-feedback loops are pulling people into Bitcoin.
 - **2019-04-02** - ["Technological Teachings of Bitcoin"][tw-technology] - A thread on what I've learned about technology thanks to studying Bitcoin.
 - **2019-01-12** - ["Economic Teachings of Bitcoin"][tw-economics] - A thread on what I've learned about economics thanks to studying Bitcoin.
 - **2018-12-21** - ["Philosophical Teachings of Bitcoin"][tw-philosophy] - A thread on what I've learned about philosophy thanks to studying Bitcoin.
@@ -125,10 +129,14 @@ public format. Here are some threads that resonated most:
 [tw-balance]: https://twitter.com/dergigi/status/1307397137572007939
 [tw-passports]: https://twitter.com/dergigi/status/1148572041416708097
 [tw-price-tomorrow]: https://twitter.com/dergigi/status/1278627021082558465
+[tw-halving2020]: https://twitter.com/dergigi/status/1259834736165388290
+[tw-struggle]: https://twitter.com/dergigi/status/1209206478931927046
 [tw-circularity]: https://twitter.com/dergigi/status/1189608467029516289
 [tw-religion]: https://twitter.com/dergigi/status/1186350297645498368
+[tw-conviction]: https://twitter.com/dergigi/status/1182871327931359233
 [tw-life]: https://twitter.com/dergigi/status/1159152860258623495
 [tw-hygiene]: https://twitter.com/dergigi/status/1142741744024469504
+[tw-gravity]: https://twitter.com/dergigi/status/1123544885821366272
 [tw-technology]: https://twitter.com/dergigi/status/1112960763361222656
 [tw-economics]: https://twitter.com/dergigi/status/1083884324871643137
 [tw-philosophy]: https://twitter.com/dergigi/status/1076241029576179712
