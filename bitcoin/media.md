@@ -62,6 +62,39 @@ Want to talk? Feel free to [reach out to me][contact].
 
 [vob-bitcoin-journey]: https://youtu.be/qVuFX0LkNDQ
 
+### Guest Posts
+
+I have written various articles for the [Swan Bitcoin Blog][swan-blog] and
+the [Bull Bitcoin][bull-bitcoin] publication. I have also contributed to
+[Citadel 21][ctdl21] and the [21ism Art Collective][21ism].
+
+- **2020-09-20** - [On Bitcoin's UX][swan-ux]
+- **2020-08-18** - [Why I Joined Swan Bitcoin][swan-joined]
+- **2020-07-21** - [True Names Not Required][ctdl21-true-names]
+- **2020-04-21** - [Dear Bitcoiners][ctdl21-dear-bitcoiners]
+- **2019-11-21** - [Bitcoin Boots on the Ground: Venezuela][bull-venezuela]
+- **2019-08-22** - [The Rise of the Sovereign Individual][bull-rise]
+- **2019-07-23** - [The World is Waking up to Bitcoin][bull-waking-up]
+
+<!-- 21ism -->
+[21ism]: https://21ism.com/
+
+<!-- Citadel 21 -->
+[ctdl21-true-names]: https://www.citadel21.com/true-names-not-required
+[ctdl21-dear-bitcoiners]: https://www.citadel21.com/dear-bitcoiners-an-optimistic-letter
+[ctdl21]: https://www.citadel21.com/
+
+<!-- Swan -->
+[swan-ux]: https://www.swanbitcoin.com/on-bitcoins-ux
+[swan-joined]: https://www.swanbitcoin.com/why-i-joined-swan-bitcoin
+[swan-blog]: https://www.swanbitcoin.com/signal
+
+<!-- Bull Bitcoin -->
+[bull-venezuela]: https://medium.com/bull-bitcoin/bitcoin-boots-on-the-ground-venezuela-7ee01f966eff
+[bull-rise]: https://medium.com/bull-bitcoin/the-rise-of-the-sovereign-individual-2201eee82f00
+[bull-waking-up]: https://medium.com/bull-bitcoin/the-world-is-waking-up-to-bitcoin-5d532a1188ce
+[bull-bitcoin]: https://bullbitcoin.com/
+
 ---
 
 
