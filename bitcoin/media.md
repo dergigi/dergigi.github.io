@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Interviews
-description: Interviews with Gigi and various podcast appearances
-redirect_from: interviews
+title: Media Appearances
+description: Podcasts, Presentations, Twitter Threads
+redirect_from:
+  - /interviews
+  - /bitcoin/interviews
 ---
 
 Finding the time to read long articles and books can be challenging, which is why I love
