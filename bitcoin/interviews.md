@@ -56,11 +56,6 @@ Want to talk? Feel free to [reach out to me][contact].
 
 ---
 
-# Talks
-
-  - **2020-06-02** - [Keynote: The Bitcoin Journey][vob-bitcoin-journey] at the Value of Bitcoin Conference
-
-[vob-bitcoin-journey]: https://youtu.be/qVuFX0LkNDQ
 
 [keyvan-german]: https://youtu.be/ShbOXJ0Qj2c
 [keyvan-english]: https://youtu.be/RrW2yhEY39Y
