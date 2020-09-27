@@ -55,4 +55,4 @@ Gigi
 [photography]: {{ 'blog' | absolute_url }}
 [medium]: https://medium.com/@dergigi
 [gnu]: https://www.gnu.org/philosophy/free-sw.html
-[true-names]: https://www.citadel21.com/true-names-not-required
+[true-names]: {% post_url /collections/bitcoin/2020-07-21-true-names-not-required %}
