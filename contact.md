@@ -20,7 +20,7 @@ If you want to reach me, twitter, telegram, or the mail above is probably your b
 will do my best to reply in 48h or less. If I don't please ping me again. Note that I will
 probably not respond if I can't make out what you're up to. A simple "hi" or "hey" without
 any context will be ignored. Also, I'm not interested in trading or shitcoinery, so anything
-along these lines will be deleted without an answer.
+along these lines will be deleted without an answer. [My PGP key][pgp].
 
 ---
 
@@ -56,3 +56,4 @@ Gigi
 [medium]: https://medium.com/@dergigi
 [gnu]: https://www.gnu.org/philosophy/free-sw.html
 [true-names]: {% post_url /collections/bitcoin/2020-07-21-true-names-not-required %}
+[pgp]: {{ 'pgp' | absolute_url }}
