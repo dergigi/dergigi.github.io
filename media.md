@@ -71,9 +71,10 @@ Want to talk? Feel free to [reach out to me][contact].
 ### Talks
 
 - **2020-06-02** - [Keynote: The Bitcoin Journey][vob-bitcoin-journey] at the Value of Bitcoin Conference Digital Europe
-- **2020-05-11** - _Keynote: Competing With Free_ at the Value of Bitcoin Conference Digital America (available soon)
+- **2020-05-11** - [Keynote: Competing With Free][vob-competing-with-free] at the Value of Bitcoin Conference Digital America
 
 [vob-bitcoin-journey]: https://youtu.be/qVuFX0LkNDQ
+[vob-competing-with-free]: https://youtu.be/JtzwTd9Ur5c
 
 ### Guest Posts
 
