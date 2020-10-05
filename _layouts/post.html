@@ -36,9 +36,11 @@ layout: default
             <hr/>
           {% endif %}
           {{content}}
+          {% if page.category == 'bitcoin' %}
           {% include translations.html %}
           <hr/>
           {% include enjoyed.html %}
+          {% endif %}
           {% include article-navigation.html %}
         </div>
       </div>
