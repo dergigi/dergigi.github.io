@@ -117,8 +117,9 @@ I use twitter to share and distill my thoughts, which sometimes leads to
 long-form twitter threads in which I try to flesh out certain ideas in a more
 public format. Here are some threads that resonated most:
 
-- **2020-11-21** - ["Bitcoin's UX"][tw-ux] - A thread on Bitcoin's UX and how it compares to the UX of the early internet.
-- **2020-11-19** - ["Inflow/Balance/Outflow"][tw-balance] - A thread on inflows, outflows, balance sheets, and how a circular Bitcoin economy might resolve some points of contention around SoV and MoE.
+- **2020-10-08** - ["GigaChad Thread"][tw-gigachad] - A thread on MicroStrategy's move to a Corporate Bitcoin Standard.
+- **2020-09-21** - ["Bitcoin's UX"][tw-ux] - A thread on Bitcoin's UX and how it compares to the UX of the early internet.
+- **2020-09-19** - ["Inflow/Balance/Outflow"][tw-balance] - A thread on inflows, outflows, balance sheets, and how a circular Bitcoin economy might resolve some points of contention around SoV and MoE.
 - **2020-07-09** - ["Passports and Biometrics"][tw-passports] - A thread on digital passports, facial recognition, biometrics, and other shenanigans.
 - **2020-07-02** - ["The Price of Tomorrow"][tw-price-tomorrow] - A quick thread on The Price of Tomorrow, a book by Jeff Booth.
 - **2020-05-11** - ["Halving Memes 2020"][tw-halving2020] - A long thread of memes to celebrate the 3rd Bitcoin Halving.
@@ -133,6 +134,7 @@ public format. Here are some threads that resonated most:
 - **2019-01-12** - ["Economic Teachings of Bitcoin"][tw-economics] - A thread on what I've learned about economics thanks to studying Bitcoin.
 - **2018-12-21** - ["Philosophical Teachings of Bitcoin"][tw-philosophy] - A thread on what I've learned about philosophy thanks to studying Bitcoin.
 
+[tw-gigachad]: https://twitter.com/dergigi/status/1314292693179289602
 [tw-ux]: https://twitter.com/dergigi/status/1308098052817903616
 [tw-balance]: https://twitter.com/dergigi/status/1307397137572007939
 [tw-passports]: https://twitter.com/dergigi/status/1148572041416708097
