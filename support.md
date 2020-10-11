@@ -5,8 +5,9 @@ title: Support
 
 
 Dear Netizen, \\
-there are many ways to support me: you can [support me on Patreon](https://www.patreon.com/dergigi), [buy my book](https://amzn.to/2VXmQgp), write a
-[review](https://21lessons.com/reviews), follow me on
+there are many ways to support me: you can support me on [Patreon](https://www.patreon.com/dergigi) 
+and [GitHub](https://github.com/sponsors/dergigi/), [buy my book](https://amzn.to/2VXmQgp), 
+write a [review](https://21lessons.com/reviews), follow me on
 [Twitter](https://twitter.com/dergigi), subscribe to my German
 [podcast](https://anchor.fm/einundzwanzig), spread the word by sharing one of my articles, or
 simply give directly.
