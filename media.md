@@ -23,6 +23,7 @@ the bottom of this page.
 
 ### Interviews and Conversations
 
+  - **2020-10-13** - [Bit-buy-bit #48][bbb48] on the Corporate Bitcoin Standard, Conviction, Soul in the Game, Privacy vs NgU, and fighting the FED and the Surveillance State, hosted by Max
   - **2020-09-20** - [Down The Rabbit Hole][dtrh5] on Bitcoin's Biology and many other topics, hosted by Kaz Bycko
   - **2020-09-12** - [This Week in Bitcoin][twib4] with Anders and Kenn, hosted by Adam Meister (also on [youtube][twib4-yt])
   - **2020-09-02** - [POV Crypto #160][pov160] on the circular nature and religious aspects of the Bitcoin organism, hosted by Christian and David
@@ -33,6 +34,7 @@ the bottom of this page.
   - **2020-05-22** - [This Week in Bitcoin][twib3] with Juan and Guy, hosted by Adam Meister (also on [youtube][twib3-yt])
   - **2020-05-20** - [Swan Signal #11][ss11] with Knut, Brekkie, and Cory, hosted by Brady (also on [youtube][ss11-yt])
 
+[bbb48]: https://www.bit-buy-bit.com/podcast-1/episode/3f29621c/ep48-bitcoin-podcast-with-gigi-the-author-of-21lessons
 [dtrh5]: https://anchor.fm/dtrhole/episodes/DTRH5---The-Biology-of-Bitcoin-with-Gigi-ejtue4
 
   ---
