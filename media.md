@@ -123,6 +123,7 @@ public format. Here are some threads that resonated most:
 - **2020-09-21** - ["Bitcoin's UX"][tw-ux] - A thread on Bitcoin's UX and how it compares to the UX of the early internet.
 - **2020-09-19** - ["Inflow/Balance/Outflow"][tw-balance] - A thread on inflows, outflows, balance sheets, and how a circular Bitcoin economy might resolve some points of contention around SoV and MoE.
 - **2020-07-09** - ["Passports and Biometrics"][tw-passports] - A thread on digital passports, facial recognition, biometrics, and other shenanigans.
+- **2020-07-03** - ["Sats are my numeraire"][tw-sats] - A thread on #satsthestandard and the sat symbol.
 - **2020-07-02** - ["The Price of Tomorrow"][tw-price-tomorrow] - A quick thread on The Price of Tomorrow, a book by Jeff Booth.
 - **2020-05-11** - ["Halving Memes 2020"][tw-halving2020] - A long thread of memes to celebrate the 3rd Bitcoin Halving.
 - **2019-12-23** - ["Bitcoin's Eternal Struggle"][tw-struggle] - A thread on Bitcoin's struggle between order and chaos.
@@ -140,6 +141,7 @@ public format. Here are some threads that resonated most:
 [tw-ux]: https://twitter.com/dergigi/status/1308098052817903616
 [tw-balance]: https://twitter.com/dergigi/status/1307397137572007939
 [tw-passports]: https://twitter.com/dergigi/status/1148572041416708097
+[tw-sats]: https://twitter.com/dergigi/status/1279015069280542721
 [tw-price-tomorrow]: https://twitter.com/dergigi/status/1278627021082558465
 [tw-halving2020]: https://twitter.com/dergigi/status/1259834736165388290
 [tw-struggle]: https://twitter.com/dergigi/status/1209206478931927046
