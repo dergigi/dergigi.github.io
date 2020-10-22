@@ -36,6 +36,10 @@ translations:
    url: https://arzdigital.com/a-letter-to-all-of-you-who-still-have-no-bitcoin/
    author: Ali Arianfar
    author_url: https://arzdigital.com/author/a-arianfar/
+ - language: Danish
+   url: http://altombitcoin.dk/kaere-familie-kaere-venner/
+   author: BitcoinInfo DK
+   author_url: https://twitter.com/BitcoininfoD
 series: Open Letters
 ---
 
