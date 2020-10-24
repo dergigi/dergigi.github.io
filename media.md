@@ -78,6 +78,12 @@ Want to talk? Feel free to [reach out to me][contact].
 [vob-bitcoin-journey]: https://youtu.be/qVuFX0LkNDQ
 [vob-competing-with-free]: https://youtu.be/JtzwTd9Ur5c
 
+### Other
+
+- **2020-10-24** - German interview: [Gigi im Interview][de-beincrypto]
+
+[de-beincrypto]: https://de.beincrypto.com/gigi-im-interview-es-gibt-noch-viel-mehr-lektionen-zu-lernen/
+
 ### Guest Posts
 
 I have written various articles for the [Swan Bitcoin Blog][swan-blog] and
