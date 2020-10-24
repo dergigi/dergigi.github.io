@@ -18,7 +18,7 @@ translated to other languages.
 {% for post in site.categories.bitcoin %}
 {% if post.translations %}
 ### {{ post.title }} [[en]({{ post.url }})]
-{% include translations.html translations=post.translations hide_heading=true %}
+{% include translations.html translations=post.translations hide_heading=true hide_link=true %}
 {% endif %}
 {% endfor %}
 

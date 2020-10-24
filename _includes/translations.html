@@ -17,4 +17,7 @@ by
 </li>
 {% endfor %}
 </ul>
+{% if include.hide_link != true %}
+<p>Want to help? <a href="{{ '/translations' | absolute_url }}">Add a translation</a>!</p>
+{% endif %}
 {% endif %}
