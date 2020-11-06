@@ -24,10 +24,14 @@ translations:
    url: https://blog.sparkpay.pt/cara-familia-caros-amigos/
    author: Sparkpay
    author_url: https://blog.sparkpay.pt
- - language: Spanish
+ - language: Spanish (1)
    url: https://www.buda.com/blog/posts/carta-abierta-a-todos-los-bitcoiners-del-mundo/
    author: Buda
    author_url: https://www.buda.com/blog/
+ - language: Spanish (2)
+   url: https://nicohughes.medium.com/querida-familia-queridos-amigos-365b4073a444
+   author: Nicolás
+   author_url: https://twitter.com/nicohughes
  - language: Italian
    url: https://www.linkedin.com/pulse/cari-famigliari-amici-luca-sonzogni
    author: Luca Sonzogni
