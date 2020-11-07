@@ -163,6 +163,24 @@ a piece on [identity and pseudonymity][vol4], published in the fourth volume.
 [vol1]: https://www.citadel21.com/dear-bitcoiners-an-optimistic-letter
 [vol4]: https://www.citadel21.com/true-names-not-required
 
+### Contribution: 21ism Bitcoin Art Collective
+
+[21ism][21ism] aims to celebrate artists across mediums, inspired to create by
+the ultimate expression of freedom – Bitcoin. Art is one of the languages it
+speaks & every month, 21ism takes a spin on the “Creative Carousel” to feature
+new Artists. I had the pleasure and the honor to be the first featured writer.
+My article [“What is 21ism?”][21ism-gigi] is accompanied by a multitude of
+visual and multimedia art that make the words shine in more ways than one.
+
+{% include image.html path="/assets/images/bitcoin/projects/21ism.png" link="https://21ism.com" %}
+
+* Website: [21ism.com][21ism]
+* Twitter: [@twentyoneism][twentyoneism]
+
+[21ism]: https://21ism.com/
+[21ism-gigi]: https://21ism.com/portfolio-item/gigi/
+[twentyoneism]: https://twitter.com/twentyoneism
+
 ### Code Contributions
 
 When I'm not writing I try to contribute to open source projects where I can. Apart from
