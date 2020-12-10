@@ -23,6 +23,7 @@ the bottom of this page.
 
 ### Interviews and Conversations
 
+  - **2020-12-08** - [Cosmic Deep Dive][cdd1] with Max Hillebrand, hosted by Jon Chenot
   - **2020-12-01** - [Swan Signal Live #41][ssl41] on Bitcoin Zen with Hass, hosted by Brady
   - **2020-11-27** - [Why Are We Bullish][btcsessions1] with Max & Stacy & American HODL, hosted by BTC Sessions
   - **2020-11-27** - [Bitcoin Magazine Interview][btcmag1] on Bitcoin's Nature, hosted by CK
@@ -38,6 +39,7 @@ the bottom of this page.
   - **2020-05-22** - [This Week in Bitcoin][twib3] with Juan and Guy, hosted by Adam Meister (also on [youtube][twib3-yt])
   - **2020-05-20** - [Swan Signal #11][ss11] with Knut, Brekkie, and Cory, hosted by Brady (also on [youtube][ss11-yt])
 
+[cdd1]: https://youtu.be/-l86N576SPM
 [ssl41]: https://youtu.be/j1sFO9HjKn0
 [btcsessions1]: https://youtu.be/75y6laYABsk
 [btcmag1]: https://youtu.be/5bNfTYDGwCA
