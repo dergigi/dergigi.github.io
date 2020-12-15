@@ -23,11 +23,13 @@ the bottom of this page.
 
 ### Interviews and Conversations
 
+  - **2020-12-13** - [Wake Up #20][wakeup20] on Bitcoin biology with Brandon Quittem, hosted by Aleks Svetski
   - **2020-12-08** - [Cosmic Deep Dive][cdd1] with Max Hillebrand, hosted by Jon Chenot
   - **2020-12-01** - [Swan Signal Live #41][ssl41] on Bitcoin Zen with Hass, hosted by Brady
   - **2020-11-27** - [Why Are We Bullish][btcsessions1] with Max & Stacy & American HODL, hosted by BTC Sessions
   - **2020-11-27** - [Bitcoin Magazine Interview][btcmag1] on Bitcoin's Nature, hosted by CK
   - **2020-11-20** - [Swan Lounge][swanlounge1] with Matt & Tony & Cory, hosted by Brekkie
+  - **2020-11-20** - [Wake Up #16][wakeup16] on entropy and time with Robert Breedlove, hosted by Aleks Svetski
   - **2020-10-13** - [Bit-buy-bit #48][bbb48] on the Corporate Bitcoin Standard, Conviction, Soul in the Game, Privacy vs NgU, and fighting the FED and the Surveillance State, hosted by Max
   - **2020-09-20** - [Down The Rabbit Hole][dtrh5] on Bitcoin's Biology and many other topics, hosted by Kaz Bycko
   - **2020-09-12** - [This Week in Bitcoin][twib4] with Anders and Kenn, hosted by Adam Meister (also on [youtube][twib4-yt])
@@ -46,6 +48,8 @@ the bottom of this page.
 [swanlounge1]: https://youtu.be/pKohcxPMSUs
 [bbb48]: https://www.bit-buy-bit.com/podcast-1/episode/3f29621c/ep48-bitcoin-podcast-with-gigi-the-author-of-21lessons
 [dtrh5]: https://anchor.fm/dtrhole/episodes/DTRH5---The-Biology-of-Bitcoin-with-Gigi-ejtue4
+[wakeup16]: https://anchor.fm/wakeuppod/episodes/Ep-16-COSMIC-CALL-Pt-1--Breedlove--Gigi--Svetski--Wake-Up-Podacst-emovts
+[wakeup20]: https://anchor.fm/wakeuppod/episodes/Ep-20-Bitcoin--Biology--Brandon-Quittem--Gigi--Svetski--Wake-Up-Podcast-enok3b
 
   ---
 
