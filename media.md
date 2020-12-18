@@ -23,6 +23,7 @@ the bottom of this page.
 
 ### Interviews and Conversations
 
+  - **2020-12-16** - [Swan Lounge][swanlounge2] ATH party with Brekki, Max, Brandon, American Hodl, Katie, TINA, and more! Hosted by Brady
   - **2020-12-13** - [Wake Up #20][wakeup20] on Bitcoin biology with Brandon Quittem, hosted by Aleks Svetski
   - **2020-12-08** - [Cosmic Deep Dive][cdd1] with Max Hillebrand, hosted by Jon Chenot
   - **2020-12-01** - [Swan Signal Live #41][ssl41] on Bitcoin Zen with Hass, hosted by Brady
@@ -50,6 +51,7 @@ the bottom of this page.
 [dtrh5]: https://anchor.fm/dtrhole/episodes/DTRH5---The-Biology-of-Bitcoin-with-Gigi-ejtue4
 [wakeup16]: https://anchor.fm/wakeuppod/episodes/Ep-16-COSMIC-CALL-Pt-1--Breedlove--Gigi--Svetski--Wake-Up-Podacst-emovts
 [wakeup20]: https://anchor.fm/wakeuppod/episodes/Ep-20-Bitcoin--Biology--Brandon-Quittem--Gigi--Svetski--Wake-Up-Podcast-enok3b
+[swanlounge2]: https://youtu.be/bFYFAikE_iU
 
   ---
 
