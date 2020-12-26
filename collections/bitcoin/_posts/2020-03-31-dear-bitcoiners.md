@@ -3,6 +3,7 @@ layout: post
 title: "Dear Bitcoiners"
 subtitle: An optimistic letter to friends and foes around the globe.
 date: 2020-03-31
+blocktime: 623774
 image: /assets/images/btc14-dear-bitcoiners.jpg
 source: https://medium.com/@dergigi/dear-bitcoiners-73f87e2380f2
 author: Gigi
