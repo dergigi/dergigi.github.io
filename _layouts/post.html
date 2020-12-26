@@ -9,7 +9,13 @@ layout: default
         {% if page.subtitle %}
           <h3 itemprop="name alternativeHeadline">{{ page.subtitle }}</h3>
         {% endif %}
-        <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b %Y" }}</time>
+        <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% if page.blocktime %}
+          <a title="{{ page.date | date: '%-d %b %Y' }}" href="https://www.blockstream.info/block-height/{{ page.blocktime }}">{{ page.blocktime }}</a>
+        {% else %}
+          {{ page.date | date: '%-d %b %Y' }}
+        {% endif %}
+        </time>
         {% if page.source %}
           {% capture sourceHost %}{{ page.source | remove_first: "https://" | split: "/" | first }}{% endcapture %}
           <a href="{{ page.source }}" title="Also published on {{ sourceHost }}" target="_blank" class="post__source" itemprop="isBasedOn">{{ sourceHost }}</a>
