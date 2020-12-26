@@ -3,6 +3,7 @@ layout: post
 title: "The Rise of the Sovereign Individual"
 subtitle: "How power is re-aligning itself in an internet-native world"
 date: 2019-08-22
+blocktime: 591280
 description: "Decentralized and private payments are a necessary innovation for a digital future where we retain our civil liberties and personal freedoms."
 image: /assets/images/btc08-rise.jpg
 source: https://medium.com/bull-bitcoin/the-rise-of-the-sovereign-individual-2201eee82f00
