@@ -2,6 +2,7 @@
 layout: post
 title: "On Bitcoin's UX"
 date: 2020-09-20
+blocktime: 649239
 image: /assets/images/btc19-ux.jpg
 source: https://www.swanbitcoin.com/on-bitcoins-ux/
 author: Gigi
