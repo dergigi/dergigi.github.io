@@ -2,6 +2,7 @@
 layout: post
 title: "The World is Waking Up to Bitcoin"
 date: 2019-07-23
+blocktime: 586682
 description: "The world that Satoshi Nakamoto — author of the Bitcoin whitepaper — envisioned, and others are building, is an unstoppable force. We should not attempt to deter this innovation. And governments can not stop this innovation. And those that have tried, have already failed."
 image: /assets/images/btc-waking-up.jpg
 source: https://medium.com/bull-bitcoin/the-world-is-waking-up-to-bitcoin-5d532a1188ce

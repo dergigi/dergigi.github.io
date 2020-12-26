@@ -2,6 +2,7 @@
 layout: post
 title: "True Names Not Required"
 date: 2020-07-21
+blocktime: 640147
 image: /assets/images/btc17-true-names.jpg
 source: https://www.citadel21.com/true-names-not-required
 author: Gigi

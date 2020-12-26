@@ -2,6 +2,7 @@
 layout: post
 title: "How to Kill Bitcoin"
 date: 2019-10-03
+blocktime: 597715
 description: "What follows is an elaborate, in-depth, and practical step-by-step guide on how to kill the beast which is Bitcoin. Bitcoin is remarkably resilient. As Rep. Patrick McHenry famously said: governments can not stop this innovation. And those that have tried, have already failed."
 image: /assets/images/btc09-kill.jpg
 source: https://medium.com/@dergigi/how-to-kill-bitcoin-25ad1eb4727d

@@ -3,6 +3,7 @@ layout: post
 title: "Bitcoin's Eternal Struggle"
 subtitle: "How Bitcoin Thrives on the Edge between Order and Chaos"
 date: 2019-12-22
+blocktime: 608839
 image: /assets/images/btc11-eternal-struggle.jpg
 source: https://medium.com/the-bitcoin-times/bitcoins-eternal-struggle-2c197f1bafd8
 author: Gigi

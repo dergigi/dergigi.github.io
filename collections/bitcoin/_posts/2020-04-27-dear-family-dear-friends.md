@@ -3,6 +3,7 @@ layout: post
 title: "Dear Family, Dear Friends,"
 subtitle: A letter to all of you who still have no bitcoin.
 date: 2020-04-27
+blocktime: 627883
 image: /assets/images/btc15-dear-family.jpg
 source: https://medium.com/@dergigi/dear-family-dear-friends-6ef7ee7a1a2b
 author: Gigi

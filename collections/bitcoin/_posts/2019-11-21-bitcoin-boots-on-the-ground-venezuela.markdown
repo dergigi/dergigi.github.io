@@ -2,6 +2,7 @@
 layout: post
 title: "Bitcoin Boots on the Ground: Venezuela"
 date: 2019-11-21
+blocktime: 604834
 image: /assets/images/btc10-venezuela.jpg
 source: https://medium.com/bull-bitcoin/bitcoin-boots-on-the-ground-venezuela-7ee01f966eff
 author: Gigi
