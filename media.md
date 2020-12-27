@@ -23,6 +23,7 @@ the bottom of this page.
 
 ### Interviews and Conversations
 
+  - **2020-12-25** - [This Week in Bitcoin][twib5] with Brekkie and the Rabbi, hosted by Adam Meister (also on [youtube][twib5-yt])
   - **2020-12-16** - [Swan Lounge][swanlounge2] ATH party with Brekki, Max, Brandon, American Hodl, Katie, TINA, and more! Hosted by Brady
   - **2020-12-13** - [Wake Up #20][wakeup20] on Bitcoin biology with Brandon Quittem, hosted by Aleks Svetski
   - **2020-12-08** - [Cosmic Deep Dive][cdd1] with Max Hillebrand, hosted by Jon Chenot
@@ -52,6 +53,8 @@ the bottom of this page.
 [wakeup16]: https://anchor.fm/wakeuppod/episodes/Ep-16-COSMIC-CALL-Pt-1--Breedlove--Gigi--Svetski--Wake-Up-Podacst-emovts
 [wakeup20]: https://anchor.fm/wakeuppod/episodes/Ep-20-Bitcoin--Biology--Brandon-Quittem--Gigi--Svetski--Wake-Up-Podcast-enok3b
 [swanlounge2]: https://youtu.be/bFYFAikE_iU
+[twib5]: https://anchor.fm/bitcoinmeister/episodes/This-week-in-Bitcoin--12-25-2020--Biggest-stories-of-2020--Ripple--New-ATH--Ledger--Stimulus--2021-eo7pt6
+[twib5-yt]: https://youtu.be/52vbXGsiPV4
 
   ---
 
