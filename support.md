@@ -5,8 +5,8 @@ title: Support
 
 
 Dear Netizen, \\
-there are many ways to support me: you can support me on [Patreon](https://www.patreon.com/dergigi) 
-and [GitHub](https://github.com/sponsors/dergigi/), [buy my book](https://amzn.to/2VXmQgp), 
+there are many ways to support me: you can support me on [Patreon](https://www.patreon.com/dergigi)
+and [GitHub](https://github.com/sponsors/dergigi/), [buy my book](https://amzn.to/2VXmQgp),
 write a [review](https://21lessons.com/reviews), follow me on
 [Twitter](https://twitter.com/dergigi), subscribe to my German
 [podcast](https://anchor.fm/einundzwanzig), spread the word by sharing one of my articles, or
@@ -14,10 +14,10 @@ simply give directly.
 
 {% include btcpay-usd-exp.html %}
 
-If you are from the US, you can use my reflink to [sign up for Swan](https://www.swanbitcoin.com/gigi), 
+If you are from the US, you can use my reflink to [sign up for Swan](https://www.swanbitcoin.com/gigi),
 a great auto-DCA service to stack sats.
-You can also create [translations][translations] of my book and articles, which
-is another great way of spreading the word. I have put all my heart and soul
+You can also help to [translate][translations] some of my work, which is a great
+way to give back to Bitcoin's international peers. I have put all my heart and soul
 into creating [open-source](https://github.com/dergigi/) content for the Bitcoin
 ecosystem, and I plan to continue to do so in the foreseeable future. While I
 don't expect anything in return, receiving a couple of sats every now and then
