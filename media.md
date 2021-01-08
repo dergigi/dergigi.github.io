@@ -23,6 +23,7 @@ the bottom of this page.
 
 ### Interviews and Conversations
 
+  - **2021-01-05** - [TFTC: Citadel Dispatch e0.0.3][tftc-cd3] with Croesus, hosted by Matt odell (also on [youtube][tftc-cd3-yt])
   - **2020-12-25** - [This Week in Bitcoin][twib5] with Brekkie and the Rabbi, hosted by Adam Meister (also on [youtube][twib5-yt])
   - **2020-12-16** - [Swan Lounge][swanlounge2] ATH party with Brekki, Max, Brandon, American Hodl, Katie, TINA, and more! Hosted by Brady
   - **2020-12-13** - [Wake Up #20][wakeup20] on Bitcoin biology with Brandon Quittem, hosted by Aleks Svetski
@@ -58,6 +59,8 @@ the bottom of this page.
 [twib5-yt]: https://youtu.be/52vbXGsiPV4
 [path]: https://www.thebitcoinpath.com/podcast/11-gigi-bitcoin-is-a-completely-new-thing/
 [path-yt]: https://youtu.be/giOUrO5FolA
+[tftc-cd3]: https://anchor.fm/tales-from-the-crypt/episodes/Citadel-Dispatch-e0-0-3---Shitcoin-Regrets-and-Pricing-the-World-in-sats-with-dergigi--croesus_btc-eokcsl
+[tftc-cd3-yt]: https://youtu.be/Q7nHeO3VVS0
 
   ---
 
