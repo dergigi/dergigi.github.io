@@ -3,15 +3,6 @@ layout: page
 title: Support
 ---
 
-<div class="action-buttons">
-  <div class="button button-red button-large">
-    <a href="https://patreon.com/dergigi"><i class="fab fa-patreon"></i> &nbsp; Become a Patron</a>
-  </div>
-  <div class="button button-black button-medium">
-    <a href="https://github.com/sponsors/dergigi/"><i class="fab fa-github"></i> &nbsp; Sponsor me on GitHub</a>
-  </div>
-</div>
-
 Dear Netizen, \\
 there are many ways to support me: you can support me on [Patreon](https://www.patreon.com/dergigi)
 and [GitHub](https://github.com/sponsors/dergigi/), [buy my book](https://amzn.to/2VXmQgp),
@@ -20,7 +11,11 @@ write a [review](https://21lessons.com/reviews), follow me on
 [podcast](https://anchor.fm/einundzwanzig), spread the word by sharing one of my articles, or
 simply give directly.
 
-{% include btcpay-usd-exp.html %}
+<div class="action-buttons">
+  <div class="button button-red button-large">
+    <a href="https://patreon.com/dergigi"><i class="fab fa-patreon"></i> &nbsp; Become a Patron</a>
+  </div>
+</div>
 
 If you are from the US, you can use my reflink to [sign up for Swan](https://www.swanbitcoin.com/gigi),
 a great auto-DCA service to stack sats.
@@ -31,7 +26,11 @@ ecosystem, and I plan to continue to do so in the foreseeable future. While I
 don't expect anything in return, receiving a couple of sats every now and then
 is a motivational boost like no other.
 
-{% include btcpay-sats-fun.html %}
+<div class="action-buttons">
+  <div class="button button-black button-medium">
+    <a href="https://github.com/sponsors/dergigi/"><i class="fab fa-github"></i> &nbsp; Sponsor me on GitHub</a>
+  </div>
+</div>
 
 Paying for immaterial stuff on the internet is a weird thing.
 Everyone got used to the fact that everything is available for free, all the
@@ -42,6 +41,8 @@ I believe, however, that there is something which could work for everyone
 involved. Something which has been working for hundreds, even thousands of
 years: supporting what you like, just because. Call it tipping, call it
 gratuity, call it busking.
+
+{% include btcpay-usd-exp.html %}
 
 Monetizing information is a hard problem. Information wants to be free, and I
 think we should not build cages - no matter how pretty - for the sake of
@@ -59,7 +60,7 @@ people were kind enough to pay a handful of coins to the artist, directly. I
 hope that our society will return to this way of giving, at least in some
 corners of the internet some of the time.
 
-{% include tippin-me-button.html %}
+{% include btcpay-sats-fun.html %}
 
 I don't track views on this site, or clicks, or anything else. I don't know how
 many people will read this, and I don't want to know.  Knowledge is power - and
