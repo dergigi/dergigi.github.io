@@ -3,6 +3,14 @@ layout: page
 title: Support
 ---
 
+<div class="action-buttons">
+  <div class="button button-red button-large">
+    <a href="https://patreon.com/dergigi"><i class="fab fa-patreon"></i> &nbsp; Become a Patron</a>
+  </div>
+  <div class="button button-black button-medium">
+    <a href="https://github.com/sponsors/dergigi/"><i class="fab fa-github"></i> &nbsp; Sponsor me on GitHub</a>
+  </div>
+</div>
 
 Dear Netizen, \\
 there are many ways to support me: you can support me on [Patreon](https://www.patreon.com/dergigi)
