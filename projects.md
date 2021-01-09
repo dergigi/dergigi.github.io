@@ -183,10 +183,13 @@ visual and multimedia art that make the words shine in more ways than one.
 
 ### Code Contributions
 
-When I'm not writing I try to contribute to open source projects where I can. Apart from
-trivial fixes and contributions in various projects, I've worked on adding [Tor] and [Dojo]
-support to Samourai Wallet's Sentinel app for iOS (see [video]). I also made some corrections to [BIP 2],
-[BIP 16], and [BIP 69]. Follow me on GitHub to see what I'm up to.
+When I'm not writing I try to contribute to open source projects where I can.
+Apart from trivial fixes and contributions in various projects, I've worked on
+adding [Tor] and [Dojo] support to Samourai Wallet's Sentinel app for iOS (see
+[video]). I also made some corrections to [BIP 2], [BIP 16], and [BIP 69]. I
+recently joined the [Swan][joined-swan] engineering team and published a set of
+[extended public key tools][xpub-tools] as open source software. Follow me on
+GitHub to see what I'm up to.
 
 * GitHub: [github.com/dergigi](https://github.com/dergigi)
 
@@ -196,3 +199,5 @@ support to Samourai Wallet's Sentinel app for iOS (see [video]). I also made som
 [BIP 2]: https://github.com/bitcoin/bips/blob/master/bip-0002.mediawiki
 [BIP 16]: https://github.com/bitcoin/bips/blob/master/bip-0016.mediawiki
 [BIP 69]: https://github.com/bitcoin/bips/blob/master/bip-0069.mediawiki
+[joined-swan]: {% post_url /collections/bitcoin/2020-08-18-why-i-joined-swan-bitcoin %}
+[xpub-tools]: https://github.com/swan-bitcoin/xpub-tool
