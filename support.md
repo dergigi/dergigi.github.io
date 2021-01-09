@@ -15,6 +15,12 @@ simply give directly.
   <div class="button button-red button-large">
     <a href="https://patreon.com/dergigi"><i class="fab fa-patreon"></i> &nbsp; Become a Patron</a>
   </div>
+  <small>
+    (or
+    <a href="https://amzn.to/2Wa4qJo">buy my book</a>, or
+    <a href="https://github.com/sponsors/dergigi/">sponsor me on GitHub</a>
+    )
+  </small>
 </div>
 
 If you are from the US, you can use my reflink to [sign up for Swan](https://www.swanbitcoin.com/gigi),
@@ -26,16 +32,16 @@ ecosystem, and I plan to continue to do so in the foreseeable future. While I
 don't expect anything in return, receiving a couple of sats every now and then
 is a motivational boost like no other.
 
-<div class="action-buttons">
-  <div class="button button-black button-medium">
-    <a href="https://github.com/sponsors/dergigi/"><i class="fab fa-github"></i> &nbsp; Sponsor me on GitHub</a>
-  </div>
-</div>
-
 Paying for immaterial stuff on the internet is a weird thing.
 Everyone got used to the fact that everything is available for free, all the
 time. I got used to that too, and I tend to close paywalls as fast and as
 subconsciously as I pull my hand away from a hot stove.
+
+<div class="action-buttons">
+  <div class="button button-black button-medium">
+    <a href="https://github.com/sponsors/dergigi"><i class="fab fa-github"></i> &nbsp; Sponsor me on GitHub</a>
+  </div>
+</div>
 
 I believe, however, that there is something which could work for everyone
 involved. Something which has been working for hundreds, even thousands of
