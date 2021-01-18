@@ -53,6 +53,10 @@ translations:
    url: https://bit.ly/3gifbRV
    author: Ahmad Hamdan
    author_url: https://twitter.com/AhmadHamdan309
+ - language: Chinese
+   url: https://drive.google.com/file/d/1x6hkCulGC_WWsnX5_vjVwJP3FXnIuTyG/view?usp=sharing
+   author: 比特幣中文選讀
+   author_url: https://twitter.com/dudezoo
 series: Open Letters
 ---
 
