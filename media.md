@@ -28,6 +28,7 @@ the bottom of this page.
   - **2020-12-16** - [Swan Lounge][swanlounge2] ATH party with Brekki, Max, Brandon, American Hodl, Katie, TINA, and more! Hosted by Brady
   - **2020-12-13** - [Wake Up #20][wakeup20] on Bitcoin biology with Brandon Quittem, hosted by Aleks Svetski
   - **2020-12-12** - [The Bitcoin Path][path] hosted by Jon Chenot (also on [youtube][path-yt])
+  - **2020-12-11** - [Bitcoin or Bust][path-interview] hosted by Jon Chenot (also on [youtube][path-interview-yt])
   - **2020-12-08** - [Cosmic Deep Dive][cdd1] with Max Hillebrand, hosted by Jon Chenot
   - **2020-12-01** - [Swan Signal Live #41][ssl41] on Bitcoin Zen with Hass, hosted by Brady
   - **2020-11-27** - [Why Are We Bullish][btcsessions1] with Max & Stacy & American HODL, hosted by BTC Sessions
@@ -59,6 +60,8 @@ the bottom of this page.
 [twib5-yt]: https://youtu.be/52vbXGsiPV4
 [path]: https://www.thebitcoinpath.com/podcast/11-gigi-bitcoin-is-a-completely-new-thing/
 [path-yt]: https://youtu.be/giOUrO5FolA
+[path-interview]: https://www.thebitcoinpath.com/podcast/6-gigi-its-bitcoin-or-bust-baby/
+[path-interview-yt]: https://youtu.be/H1lqcL1_30o
 [tftc-cd3]: https://anchor.fm/tales-from-the-crypt/episodes/Citadel-Dispatch-e0-0-3---Shitcoin-Regrets-and-Pricing-the-World-in-sats-with-dergigi--croesus_btc-eokcsl
 [tftc-cd3-yt]: https://youtu.be/Q7nHeO3VVS0
 
