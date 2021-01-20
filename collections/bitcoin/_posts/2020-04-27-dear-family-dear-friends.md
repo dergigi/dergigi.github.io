@@ -54,7 +54,7 @@ translations:
    author: Ahmad Hamdan
    author_url: https://twitter.com/AhmadHamdan309
  - language: Chinese
-   url: https://drive.google.com/file/d/1x6hkCulGC_WWsnX5_vjVwJP3FXnIuTyG/view?usp=sharing
+   url: https://dudezoo.medium.com/%E8%A6%AA%E6%84%9B%E7%9A%84%E5%AE%B6%E4%BA%BA%E5%80%91-%E8%A6%AA%E6%84%9B%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%80%91-e50a710b8768
    author: 比特幣中文選讀
    author_url: https://twitter.com/dudezoo
 series: Open Letters
