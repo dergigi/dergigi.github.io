@@ -33,6 +33,10 @@ translations:
    url: https://nicohughes.medium.com/querida-familia-queridos-amigos-365b4073a444
    author: Nicolás
    author_url: https://twitter.com/nicohughes
+ - language: (Audio) Spanish
+   url: https://youtu.be/akSsXOds4ow
+   author: Bitcoin Brasil
+   author_url: https://twitter.com/_Bitcoin_Brasil
  - language: Italian
    url: https://www.linkedin.com/pulse/cari-famigliari-amici-luca-sonzogni
    author: Luca Sonzogni
