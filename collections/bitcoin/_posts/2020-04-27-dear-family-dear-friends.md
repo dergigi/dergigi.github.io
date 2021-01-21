@@ -26,10 +26,6 @@ translations:
    author: Sparkpay
    author_url: https://blog.sparkpay.pt
  - language: Spanish
-   url: https://www.buda.com/blog/posts/carta-abierta-a-todos-los-bitcoiners-del-mundo/
-   author: Buda
-   author_url: https://www.buda.com/blog/
- - language: Spanish
    url: https://nicohughes.medium.com/querida-familia-queridos-amigos-365b4073a444
    author: Nicolás
    author_url: https://twitter.com/nicohughes

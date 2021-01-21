@@ -16,6 +16,10 @@ translations:
    url: https://medium.com/aprycotmedia/liebe-bitcoiner-aa4be515c028
    author: Fab The Fox
    author_url: https://twitter.com/fabthefoxx
+ - language: Spanish
+   url: https://www.buda.com/blog/posts/carta-abierta-a-todos-los-bitcoiners-del-mundo/
+   author: Buda
+   author_url: https://www.buda.com/blog/
 series: Open Letters
 ---
 
