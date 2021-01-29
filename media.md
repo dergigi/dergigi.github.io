@@ -23,6 +23,7 @@ the bottom of this page.
 
 ### Interviews and Conversations
 
+  - **2021-01-28** - [Bitcoin Fixes Double Standards Like /r/WallStreetBets][btcsessions-wsb-yt], hosted by BTC Sessions
   - **2021-01-05** - [TFTC: Citadel Dispatch e0.0.3][tftc-cd3] with Croesus, hosted by Matt odell (also on [youtube][tftc-cd3-yt])
   - **2020-12-25** - [This Week in Bitcoin][twib5] with Brekkie and the Rabbi, hosted by Adam Meister (also on [youtube][twib5-yt])
   - **2020-12-16** - [Swan Lounge][swanlounge2] ATH party with Brekki, Max, Brandon, American Hodl, Katie, TINA, and more! Hosted by Brady
@@ -64,6 +65,7 @@ the bottom of this page.
 [path-interview-yt]: https://youtu.be/H1lqcL1_30o
 [tftc-cd3]: https://anchor.fm/tales-from-the-crypt/episodes/Citadel-Dispatch-e0-0-3---Shitcoin-Regrets-and-Pricing-the-World-in-sats-with-dergigi--croesus_btc-eokcsl
 [tftc-cd3-yt]: https://youtu.be/Q7nHeO3VVS0
+[btcsessions-wsb-yt]: https://youtu.be/kL0Yc8ngzS0
 
   ---
 
