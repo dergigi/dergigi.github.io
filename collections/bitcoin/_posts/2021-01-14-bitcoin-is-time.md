@@ -2,9 +2,9 @@
 layout: post
 title: "Bitcoin Is Time"
 date: 2021-01-14
-blocktime: 649239
-image: /assets/images/btc19-ux.jpg
-source: https://www.swanbitcoin.com/on-bitcoins-ux/
+blocktime: 666053
+image: /assets/images/bitcoin-is-time.jpg
+source: https://www.swanbitcoin.com/bitcoin-is-time/
 author: Gigi
 category: bitcoin
 tags:
