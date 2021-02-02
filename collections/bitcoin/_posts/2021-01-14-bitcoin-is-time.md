@@ -13,15 +13,15 @@ tags:
 ---
 
 
-> One luminary clock against the sky\
+> One luminary clock against the sky \\
 > Proclaimed the time was neither wrong nor right.
 >
-> Robert Frost, *Acquainted with the Night* (1928)
+> <cite>Robert Frost, *Acquainted with the Night* (1928)</cite>
 
 > Time is still the great mystery to us. It is no more than a concept;
 > we don't know if it even exists...
 >
-> Clifford D. Simak, *Shake­speare's Planet* (1976)
+> <cite>Clifford D. Simak, *Shake­speare's Planet* (1976)</cite>
 
 Time is money, or so the saying goes. It follows that money is also
 time: a repre­sen­ta­tion of the collec­tive economic energy stored by
