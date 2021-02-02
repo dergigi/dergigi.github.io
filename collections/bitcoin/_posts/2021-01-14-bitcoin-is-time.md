@@ -61,7 +61,7 @@ age. And this clock is Bitcoin.
 > number. These things are, for the purpose of counting, consid­ered
 > alike, and they may be single objects or groups.
 >
-> David Eugene Smith, *The Teaching of Elemen­tary Mathe­matics* (1900)
+> <cite>David Eugene Smith, *The Teaching of Elemen­tary Mathe­matics* (1900)</cite>
 
 Very broadly speaking, there are two ways to keep track of things:
 physical tokens and ledgers. You can either use real-world artifacts
@@ -79,11 +79,12 @@ to make sure to create a new list every time you start counting, and you
 will also have to make sure not to count a single sheep twice (or not at
 all).
 
-\
 Money is essen­tially a tool to keep track of who owes what to whom.
 Broadly speaking, every­thing we have used as money up to now falls into
 two categories: *physical* artifacts and *infor­ma­tional* lists. Or, to
 use more common parlance: tokens and ledgers.
+
+{% include image.html name="ledger-token.jpg" %}
 
 It is impor­tant to realize the inherent differ­ence of these
 categories, so let me point it out explic­itly: The first
@@ -130,7 +131,7 @@ like all infor­ma­tion, can only be spread, like an idea.
 > apples --- we each end up with only one apple. But if you and I have
 > an idea and we swap ideas --- we each end up with two ideas.
 >
-> Charles F. Brannan (1949)
+> <cite>Charles F. Brannan (1949)</cite>
 
 Physical tokens --- what we call physical bearer assets, or
 "cash" --- are free from this dilemma. In the real world, if you hand me
@@ -178,7 +179,7 @@ a token but a ledger --- which brings us to the problem of time.
 > For the things seen are tempo­rary, but the things unseen are
 > everlasting.
 >
-> Paul of Tarsus, *Corinthians* 4:18b
+> <cite>Paul of Tarsus, *Corinthians* 4:18b</cite>
 
 When it comes to physical tokens, the time of a trans­ac­tion does not
 matter. You either have the coins in your pocket, or you don't; you can
@@ -228,7 +229,7 @@ coinstamping requires timestamping.
 
 > Time: a great engraver, or eraser.
 >
-> Yahia Lababidi (b. 1973)
+> <cite>Yahia Lababidi (b. 1973)</cite>
 
 The common way to solve the double-spending problem --- the problem of
 making sure that a digital transfer only happens once --- is to have
@@ -248,7 +249,7 @@ via central authority.
 > mint, with every trans­ac­tion having to go through them, just like
 > a bank.
 >
-> Satoshi Nakamoto (2009)
+> <cite>Satoshi Nakamoto (2009)</cite>
 
 It is worth pointing out that Satoshi didn't manage to make
 infor­ma­tion non-copyable. Every part of bitcoin --- its source code,
@@ -260,7 +261,6 @@ are useful and which aren't, and it is this dance that brings scarcity
 into the digital realm. And like with every dance, a temporal measuring
 stick is required to dictate the rhythm.
 
-\
 Even a central­ized ledger can only solve the double-spending problem if
 it has a consis­tent way to keep track of time. You always need to know
 who gave how much to whom and, most impor­tantly: *when*. In the realm
@@ -271,13 +271,13 @@ of infor­ma­tion, there is no coin-stamping without time-stamping.
 > that precluded a decen­tral­ized ledger from ever being possible until
 > Satoshi Nakamoto invented a solution.
 >
-> Gregory Trubet­skoy (2018)
+> <cite>Gregory Trubet­skoy (2018)</cite>
 
 ## Decentralized Time
 
 > Time brings all things to pass.
 >
-> Aeschylus (525 BC -- 456 BC)
+> <cite>Aeschylus (525 BC -- 456 BC)</cite>
 
 Time and order have a very intimate relation­ship. As Leslie Lamport
 pointed out in his 1978 paper *Time, Clocks, and the Ordering of Events
@@ -313,7 +313,7 @@ a central authority or observer.
 
 > Who's there? Knock knock.
 >
-> An Asynchro­nous Joke
+> <cite>An Asynchro­nous Joke</cite>
 
 To better illus­trate the impos­si­bility of the problem, let's look at
 a concrete example. Imagine that you and your business partner both have
@@ -328,6 +328,8 @@ of your shared bank account. The cost is \$27. The avail­able balance is
 At the same time, you are about to pay for your stay with another debit
 card linked to the same bank account. The cost is \$599. The avail­able
 balance is \$615. The local time is 5:21 pm.
+
+{% include image.html name="alice-bob-bank.jpg" %}
 
 So it comes to be that --- at exactly the same moment --- you both swipe
 the card. What happens? (Dear physi­cists, please excuse my use of "the
@@ -353,9 +355,9 @@ a couple of minutes earlier?
 > and to enforce a unique history in the absence of any central
 > coordi­nator.
 >
-> Giacomo Zucco, [*Discov­ering
+> <cite>Giacomo Zucco, [*Discov­ering
 > Bitcoin*](https://bitcoinmagazine.com/articles/discovering-bitcoin-a-brief-overview-from-cavemen-to-the-lightning-network)
-> (2019)
+> (2019)</cite>
 
 This problem is *precisely* why all previous attempts of digital cash
 required a central­ized registry. You always had to trust someone to
@@ -367,13 +369,13 @@ seconds and yes to blocks.
 
 ## Keeping the Time, One Block at a Time
 
-> Time's glory is to calm contending kings,\
-> To unmask false­hood and bring truth to light,\
-> To stamp the seal of time in aged things,\
-> To wake the morn and sentinel the night,\
+> Time's glory is to calm contending kings,\\
+> To unmask false­hood and bring truth to light,\\
+> To stamp the seal of time in aged things,\\
+> To wake the morn and sentinel the night,\\
 > To wrong the wronger till he render right;
 >
-> William Shake­speare, *The Rape of Lucrece* (1709)
+> <cite>William Shake­speare, *The Rape of Lucrece* (1709)</cite>
 
 All clocks rely on periodic processes, something that we might call a
 "tick." The familiar *tick-tock* of a grand­fa­ther's clock is, in
@@ -386,7 +388,6 @@ smaller and more special­ized clocks, special equip­ment is required.
 The frequency of a clock --- how often it ticks --- depends on its
 use-case.
 
-\
 Most clocks have a fixed frequency. After all, we want to know the time
 *precisely*. There are, however, clocks that have a variable frequency.
 A metronome, for example, has a variable frequency that you can set
