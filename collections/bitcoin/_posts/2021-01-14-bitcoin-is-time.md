@@ -415,7 +415,7 @@ or, in his words: a distrib­uted timestamp server.
 > using a peer-to-peer distrib­uted timestamp server to generate
 > compu­ta­tional proof of the chrono­log­ical order of trans­ac­tions.
 >
-> Satoshi Nakamoto (2009)
+> <cite>Satoshi Nakamoto (2009)</cite>
 
 That timestamping was the root problem to be solved is also apparent by
 examining the refer­ence at the end of the Bitcoin whitepaper. Out of
@@ -449,7 +449,7 @@ make up any date in the first place.
 > In an extreme view, the world can be seen as only connec­tions,
 > nothing else.
 >
-> Tim Berners-Lee, *Weaving the Web* (1999)
+> <cite>Tim Berners-Lee, *Weaving the Web* (1999)</cite>
 
 Making up dates is a general problem, even in the non-digital realm.
 What is known in the kidnap­ping world as "Authen­ti­ca­tion by
@@ -474,6 +474,8 @@ the data in question existed first, the hash was gener­ated later. In
 other words: without the compu­ta­tional irreversibility of one-way
 functions, there would be no causality in cyber­space.
 
+{% include image.html name="sha256.jpg" %}
+
 With this causal building block in place, one can come up with schemes
 that create a chain of events, causally linking A to B to C and so on.
 In that sense, secure digital timestamping moves us from a timeless
@@ -483,7 +485,7 @@ place in the ether into the realm of digital history.
 > earlier events, and deter­mines certain subse­quent events, then the
 > event is sandwiched securely into its place in history.
 >
-> Bayer, Haber, Stornetta (1992)
+> <cite>Bayer, Haber, Stornetta (1992)</cite>
 
 It goes without saying that causality is of the utmost impor­tance when
 it comes to economic calcu­la­tions. And since a ledger is nothing but
@@ -493,7 +495,7 @@ partic­i­pants, causality is essen­tial for every ledger.
 > We need a system for partic­i­pants to agree on a single history
 > \[...\]. The solution we propose begins with a timestamp server.
 >
-> Satoshi Nakamoto (2009)
+> <cite>Satoshi Nakamoto (2009)</cite>
 
 It is fasci­nating that all of the puzzle pieces that make Bitcoin work
 did already exist. As early as 1991, Haber and Stornetta intro­duced two
@@ -526,7 +528,7 @@ way to think about the second ingre­dient of time: unpre­dictability.
 > Time is not a reality \[*hupostasis*\], but a concept \[*noêma*\] or
 > a measure \[*metron*\]...
 >
-> Antiphon the Sophist, *On Truth* (3^rd^ century AD)
+> <cite>Antiphon the Sophist, *On Truth* (3rd century AD)</cite>
 
 While causality is essen­tial, it is not suffi­cient. We also need
 *unpre­dictability* for time to flow. In the physical realm, we observe
@@ -580,6 +582,8 @@ pointed out by Bayer, Haber, and Stornetta in 1992: "To estab­lish that
 a document was created after a given moment in time, it is neces­sary to
 report events that could not have been predicted before they happened."
 
+{% include image.html name="proof-of-publication.jpg" caption="Proof of Publication" %}
+
 It is the combi­na­tion of causality and unpre­dictability that allows
 the creation of an artifi­cial "now" in the other­wise timeless digital
 realm. As Bayer, Haber, and Stornetta point out in their 1991 paper:
@@ -598,10 +602,10 @@ the equation.
 
 ## Proof of Time
 
-> *Causa latet: vis est notis­sima.*\
+> *Causa latet: vis est notis­sima.* \\
 > The cause is hidden, but the result is known.
 >
-> Ovid, *Metamor­phoses*, IV. 287 (8 AD)
+> <cite>Ovid, *Metamor­phoses*, IV. 287 (8 AD)</cite>
 
 Let us recapit­u­late: to use money in the digital realm, we have to
 rely on ledgers. To make ledgers reliable, unambiguous order is
@@ -629,13 +633,13 @@ requires work, and in our universe, work requires energy and time.
 
 ## Bridging Times
 
-> I know it works for me. \
-> As we cross the bridge --- the burning bridge --- \
-> With flames behind us, \
-> We front the line. \
+> I know it works for me. \\
+> As we cross the bridge --- the burning bridge --- \\
+> With flames behind us, \\
+> We front the line. \\
 > It's you and me, baby, against the world.
 >
-> Kate Bush, *Burning Bridge* (1985)
+> <cite>Kate Bush, *Burning Bridge* (1985)</cite>
 
 Without proof-of-work, one would always run into the Oracle problem
 because the physical realm and the infor­ma­tional realm are eternally
@@ -732,7 +736,7 @@ Trans­ac­tions in the mempool are timeless from the point-of-view of the
 Bitcoin network. Only when a trans­ac­tion is included in a valid block
 does it get assigned a time: the number of the block it is included in.
 
-BitCoin v0.01 ALPHA (2009)
+{% include image.html name="timechain.png" caption="BitCoin v0.01 ALPHA (2009)" %}
 
 It is hard to overstate how elegant a solution this is. Once you are
 able to create your own defin­i­tion of time, deciphering what came
@@ -753,7 +757,7 @@ numbers --- can not be done efficiently.
 
 > Time forks perpet­u­ally toward innumer­able futures.
 >
-> Jorge Luis Borges, *The Garden of Forking Paths* (1958)
+> <cite>Jorge Luis Borges, *The Garden of Forking Paths* (1958)</cite>
 
 Finding a valid nonce for a Bitcoin block is a guessing game. It is very
 much like rolling a die, or flipping a coin, or spinning a roulette
@@ -776,10 +780,10 @@ the same clock for everyone and that the state of the chain can be tied
 unambigu­ously to the ticks of this clock." Bitcoin's clock might be
 proba­bilistic, but it isn't illusory.
 
-> Time is an illusion,\
+> Time is an illusion,\\
 > lunchtime doubly so.
 >
-> Douglas Adams (1979)
+> <cite>Douglas Adams (1979)</cite>
 
 The present moment, however, can absolutely be an illusion in Bitcoin.
 Since there is no central authority in the network, strange situa­tions
@@ -812,7 +816,7 @@ is truly written by the victors.
 > hour or so before believing that it's valid. The network will resolve
 > any possible double-spend races by then.
 >
-> Satoshi Nakamoto (2009)
+> <cite>Satoshi Nakamoto (2009)</cite>
 
 In this simple state­ment lies the secret of the distrib­uted
 coordi­na­tion problem. This is how Satoshi solved the problem of the
@@ -827,7 +831,7 @@ past --- blocks buried below the chain tip --- is ever more certain. 
 > The more thorough the under­standing needed, the further back in time
 > one must go.
 >
-> Gordon Clark, *A Chris­tian View of Men and Things*, p. 58. (1951)
+> <cite>Gordon Clark, *A Chris­tian View of Men and Things*, p. 58. (1951)</cite>
 
 Conse­quently, the Bitcoin clock might rewind from time to time, for
 some peers, for a tick or two. If your chain tip --- the present
@@ -836,26 +840,26 @@ first rewind and then jump forward, overriding the last few ticks that
 you thought were history already. If your clock is proba­bilistic, your
 under­standing of the past has to be too.
 
-> Tick tock tick tock tick --- what is the time?\
+> Tick tock tick tock tick --- what is the time?\\
 > Tick tock tick tock... it ends in
-> [c619](https://www.blockstream.info/block/000000000000000000095eaf76a73a7986ea2e6a3b0d190fb10ab986b683c619).\
-> Are you sure this is fine? Are we probably late?\
+> [c619](https://www.blockstream.info/block/000000000000000000095eaf76a73a7986ea2e6a3b0d190fb10ab986b683c619).\\
+> Are you sure this is fine? Are we probably late?\\
 > Absolutes do not matter: before nine there comes
-> [eight](https://www.blockstream.info/block/0000000000000000000318291249db2c9b658d087e4f06bcd2ed24481e81533c).\
-> The clock isn't exact; it sometimes goes in reverse.\
-> Exact time implies center; that's the root of this curse!\
-> Yet this clock keeps on ticking, tock-tick and tick-tock,\
+> [eight](https://www.blockstream.info/block/0000000000000000000318291249db2c9b658d087e4f06bcd2ed24481e81533c).\\
+> The clock isn't exact; it sometimes goes in reverse.\\
+> Exact time implies center; that's the root of this curse!\\
+> Yet this clock keeps on ticking, tock-tick and tick-tock,\\
 > there's no profit in tricking; just tick-tock and next block.
 >
-> A Funny Little Rhyme on Bitcoin and Time (2020)
+> <cite>A Funny Little Rhyme on Bitcoin and Time (2020)</cite>
 
 ## Conclusion
 
 > Time is still one of the great mysteries in physics, one that calls
 > into question the very defin­i­tion of what physics is.
 >
-> Jorge Cham and Daniel Whiteson: *We Have No Idea: A Guide to the
-> Unknown Universe*, pp. 117 -- 118 (2017)
+> <cite>Jorge Cham and Daniel Whiteson: *We Have No Idea: A Guide to the
+> Unknown Universe*, pp. 117 -- 118 (2017)</cite>
 
 Keeping track of things in the infor­ma­tional realm implies keeping
 track of a sequence of events, which in turn requires keeping track of
@@ -879,7 +883,7 @@ idea, as is evident by studying the timestamp liter­a­ture of the past.
 
 > A blockchain is a chain of blocks.
 >
-> Peter Todd
+> <cite>Peter Todd</cite>
 
 What is a new idea --- what Satoshi figured out --- is how to
 indepen­dently agree upon a history of events without central
@@ -901,7 +905,6 @@ magic sauce that links Bitcoin's time to ours. Without this bridge
 between the physical and the infor­ma­tional realm, it would be
 impos­sible to agree on a time by relying on nothing but data.
 
-\
 **Bitcoin is time** in more ways than one. Its units are stored time
 because they are money, and its network is time because it is
 a decen­tral­ized clock. The relent­less beating of this clock is what
@@ -911,5 +914,5 @@ earth has access to something truly marvelous: Magic Internet Money.
 
 ------------------------------------------------------------------------
 
-"*Bitcoin Is Time*" is one of twenty-one chapters of
-[Gigi](https://twitter.com/dergigi)'s upcoming book *21 Ways*.
+*Bitcoin Is Time* is a chapter of
+my upcoming book [*21 Ways*](https://patreon.com/dergigi).
