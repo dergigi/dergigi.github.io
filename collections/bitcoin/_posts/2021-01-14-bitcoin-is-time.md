@@ -457,6 +457,8 @@ Making up dates is a general problem, even in the non-digital realm.
 What is known in the kidnap­ping world as "Authen­ti­ca­tion by
 Newspaper" is a general solution to the problem of arbitrary timestamps.
 
+{% include image.html name="proof-of-time.jpg" caption="Proof of Time" %}
+
 This works because a newspaper is hard to fake and easy to verify. It is
 hard to fake because today's front page refers to yester­day's events,
 events that could not have been predicted by the kidnapper if the
@@ -476,7 +478,7 @@ the data in question existed first, the hash was gener­ated later. In
 other words: without the compu­ta­tional irreversibility of one-way
 functions, there would be no causality in cyber­space.
 
-{% include image.html name="sha256.jpg" %}
+{% include image.html name="sha256.jpg" caption="A before B" %}
 
 With this causal building block in place, one can come up with schemes
 that create a chain of events, causally linking A to B to C and so on.
