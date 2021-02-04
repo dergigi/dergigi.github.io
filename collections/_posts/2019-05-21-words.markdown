@@ -22,7 +22,7 @@ undoubtedly was.
 > and silently inside your head, directly to you. Writing is perhaps the
 > greatest of human inventions, binding together people who never knew each
 > other, citizens of distant epochs. Books break the shackles of time. A book is
-> proof that humans are capable of working magic."
+> proof that humans are capable of working magic.
 >
 > <cite>Carl Sagan, Cosmos</cite>
 
@@ -37,7 +37,7 @@ your thoughts - and by extension, yourself - can be a painful process.
 > Words do not express thoughts very well. They always become a little
 > different immediately after they are expressed, a little distorted, a little
 > foolish. And yet it also pleases me and seems right that what is of value and
-> wisdom to one man seems nonsense to another."
+> wisdom to one man seems nonsense to another.
 >
 > <cite>Hermann Hesse, Siddhartha</cite>
 
@@ -58,7 +58,7 @@ wrong, I have strong convictions as well, but I'm more than willing to entertain
 the question: "What if I'm wrong?"
 
 > The fundamental cause of the trouble is that in the modern world the stupid
-> are cocksure while the intelligent are full of doubt."
+> are cocksure while the intelligent are full of doubt.
 >
 > <cite>Bertrand Russell, The Triumph of Stupidity</cite>
 

@@ -25,7 +25,7 @@ Waves are powerful beyond comprehension. They bring down bridges and skyscrapers
 
 ![Brown waves](/assets/images/waves-brown.jpg#full)
 
-> The study of waves is important to virtually every branch of science and engineering. Indeed, waves are also important to everyday life. Sound waves allow us to hear, and electromagnetic waves allow us to see."
+> The study of waves is important to virtually every branch of science and engineering. Indeed, waves are also important to everyday life. Sound waves allow us to hear, and electromagnetic waves allow us to see.
 >
 > <cite>D. S. Drumheller</cite>
 
@@ -46,6 +46,6 @@ What to do after all this paddling? They say that there is calm before the storm
 ![Ocean waves](/assets/images/waves-ocean.jpg#full)
 
 > Sleepe after toyle, port after stormie seas,<br/>
-> Ease after warre, death after life, does greatly please."
+> Ease after warre, death after life, does greatly please.
 >
 > <cite>Edmund Spenser, The Faerie Queene</cite>
