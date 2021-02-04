@@ -130,6 +130,7 @@ all.
 > the whole world to know, but a secret matter is something one doesn't
 > want anybody to know. Privacy is the power to selectively reveal
 > oneself to the world.
+>
 > <cite>[Eric Hughes]</cite>
 
 [Eric Hughes]: https://www.activism.net/cypherpunk/manifesto.html
@@ -146,6 +147,7 @@ constructed or not.
 
 > Man is least himself when he talks in his own person. Give him a
 > mask, and he will tell you the truth.
+>
 > <cite>[Oscar Wilde]</cite>
 
 [Oscar Wilde]: https://en.wikipedia.org/wiki/Oscar_Wilde

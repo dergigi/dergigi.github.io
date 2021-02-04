@@ -113,6 +113,7 @@ Just in case you missed the important bit:
 > Really almost no one uses Bitcoin for payments. They use it more as an
 > alternative to gold, really. It's a store of value. It's a speculative
 > store of value, like gold."
+>
 > <cite>[Jerome H. Powell][Powell]</cite>
 
 Let me rephrase the above, to get to the essence of what was said.
@@ -166,6 +167,7 @@ The point made by Rep. Patrick McHenry is worth reiterating:
 > "There is no capacity to kill Bitcoin. Even the Chinese with their
 > firewall and their extreme intervention in their society could not
 > kill Bitcoin. \[...\] My point here is: You can't kill Bitcoin."
+>
 > <cite>[Rep. Patrick McHenry][McHenry1]</cite>
 
 As if this wasn't bullish enough, the same politician goes on to
@@ -184,6 +186,7 @@ reiterating:
 > building, is an unstoppable force. We should not attempt to deter this
 > innovation. And governments can not stop this innovation. And those that have
 > tried, have already failed."
+>
 > <cite>[Rep. Patrick McHenry][McHenry2]</cite>
 
 Take a moment to let that sink in.

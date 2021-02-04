@@ -111,6 +111,7 @@ ants doesn't care if half of the workers are washed away by a flood, the
 Bitcoin network doesn't care if half of the nodes are offline tomorrow.
 
 > "Honey badger don't care, honey badger don't give a fuck."
+>
 > <cite>[Randall][randall]</cite>
 
 Memes like these, especially if they survive and continue to be popular
@@ -146,6 +147,7 @@ everybody: a new form of life.
 > if any one copy is corrupted it is discarded, quickly and without any
 > fuss or muss. It lives because it is radically transparent: anyone can
 > see its code and see exactly what it does."
+>
 > <cite>[Ralph Merkle][merkle]</cite>
 
 While Bitcoin is indeed radically transparent, it is not perfectly
@@ -262,6 +264,7 @@ as a whole.
 > "Life is like fire, not water; it is a process, not a pure substance.
 > \[...\] The simplest, but not the only, proof of life is to find
 > something that is alive."
+>
 > <cite>[Christopher McKay][mckay]</cite>
 
 In the words of astrobiologist Chris McKay, the simplest proof of life

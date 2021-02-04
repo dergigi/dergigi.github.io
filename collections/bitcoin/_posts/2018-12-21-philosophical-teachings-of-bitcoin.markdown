@@ -56,6 +56,7 @@ enough, and Bitcoin will completely change your worldview.
 > story ends, you wake up in your bed and believe whatever you want to
 > believe. You take the red pill --- you stay in Wonderland, and I show
 > you how deep the rabbit hole goes."
+>
 > <cite>[Morpheus][Morpheus]</cite>
 
 {% include image.html name="bitcoin-orange-pill.jpg" %}
@@ -81,6 +82,7 @@ this space, but I believe that it is profoundly true nonetheless: You
 won't change Bitcoin, but Bitcoin will change you.
 
 > "Bitcoin will change us more than we will change it."
+>
 > <cite>[Marty Bent]</cite>
 
 It took me a long time to realize the profundity of this. Since Bitcoin
@@ -90,6 +92,7 @@ creator knew this all too well.
 
 > The nature of Bitcoin is such that once version 0.1 was released, the
 > core design was set in stone for the rest of its lifetime.
+>
 > <cite>[Satoshi Nakamoto]</cite>
 
 Many people have attempted to change Bitcoin's nature. So far all of
@@ -106,6 +109,7 @@ the Bitcoin honeybadger will continue to not care.
 > can't be tampered with. It can't be corrupted. It can't be stopped.
 > [...] If nuclear war destroyed half of our planet, it would continue
 > to live, uncorrupted. "
+>
 > <cite>[Ralph Merkle]</cite>
 
 The heartbeat of the Bitcoin network will outlast all of ours.
@@ -134,6 +138,7 @@ the scarcest things in the universe. The supply can't be inflated, no
 matter how much effort one chooses to expend towards creating more.
 
 > "Only two things are genuinely scarce: time and bitcoin."
+>
 > <cite>[Saifedean Ammous]</cite>
 
 Paradoxically, it does so by a mechanism of copying. Transactions are
@@ -166,6 +171,7 @@ authority. No inventor. No-one to prosecute, torture, blackmail, or
 extort. An immaculate conception of technology.
 
 > "One of the greatest things that Satoshi did was disappear."
+>
 > <cite>[Jimmy Song]</cite>
 
 Since the birth of Bitcoin, thousands of other cryptocurrencies were
@@ -176,6 +182,7 @@ of ideas, narratives dictate survival.
 > "Gold was first fashioned into jewelry and used for barter over 7,000
 > years ago. Gold's captivating gleam led to it being considered a gift
 > from the gods."
+>
 > <cite>[Gold: The Extraordinary Metal]</cite>
 
 Like gold in ancient times, Bitcoin might be considered a gift from the
@@ -203,6 +210,7 @@ Theseus][]: which Bitcoin is the real Bitcoin?
 > To be considered truly leaderless, you must surrender the easy
 > solution of having an entity that can designate one chain as the
 > legitimate one."
+>
 > <cite>[Nic Carter][What is it like to be a bitcoin?]</cite>
 
 It seems like the advancement of technology keeps forcing us to take
@@ -242,6 +250,7 @@ exactly, are your bitcoins?
 > "I opened my eyes, looked around, and asked the inevitable, the
 > traditional, the lamentably hackneyed postoperative question: 'Where
 > am l?'"
+>
 > <cite>[Daniel Dennett]</cite>
 
 The problem is twofold: First, the distributed ledger is distributed by
@@ -260,6 +269,7 @@ units a bitcoin.
 > physical location. The ledger exists in every physical location,
 > essentially. Geography doesn't make sense here --- it is not going to
 > help you figuring out your policy here."
+>
 > <cite>[Peter Van Valkenburgh]</cite>
 
 So, what do you actually own when you say *"I have a bitcoin"* if there
@@ -286,6 +296,7 @@ equivalent to speech.
 > or prohibiting the free exercise thereof; or abridging the freedom of
 > speech, or of the press; or the right of the people peaceably to
 > assemble, and to petition the Government for a redress of grievances."
+>
 > <cite>[First Amendment to the United States Constitution][1st Amendment]</cite>
 
 Although the final battle of the [Crypto Wars] has not been fought yet,
@@ -305,6 +316,7 @@ As long as there is a part of the world where speech is free as in
 > a free country like the USA with guaranteed inalienable rights and a
 > First Amendment that explicitly excludes the act of publishing from
 > government oversight."
+>
 > <cite>[Beautyon]</cite>
 
 Bitcoin taught me that in a free society, free speech and free software
@@ -324,6 +336,7 @@ Learning all the fundamentals which make Bitcoin work is hard.
 Understanding all of them deeply is borderline impossible.
 
 > "No one has found the bottom of the Bitcoin rabbit hole."
+>
 > <cite>[Jameson Lopp]</cite>
 
 My list of books to read keeps expanding way quicker than I could

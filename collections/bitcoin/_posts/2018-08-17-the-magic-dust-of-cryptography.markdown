@@ -129,6 +129,7 @@ Antonopoulos] in [Mastering Bitcoin]:
 > keys randomly using just a coin, pencil, and paper: toss a coin 256
 > times and you have the binary digits of a random private key you can
 > use in a bitcoin wallet."
+>
 > <cite>[Andreas M. Antonopoulos][Mastering Bitcoin]</cite>
 
 The same information can be represented as a regular number:
@@ -179,6 +180,7 @@ zeros and ones.
 > laws as they have always done. They are now up against a digital
 > competitor that most likely cannot be brought under the physical
 > world's laws."
+>
 > <cite>[Saifedean Ammous], [The Bitcoin Standard]</cite>
 
 Governments and corporations will continually try to outlaw certain
@@ -204,6 +206,7 @@ numbers] and other absurdities.
 > "Any piece of digital information is representable as a number;
 > consequently, if communicating a specific set of information is
 > illegal in some way, then the number may be illegal as well."
+>
 > <cite>Wikipedia contributors, [Illegal number][illegal numbers]
 > ([this version])</cite>
 

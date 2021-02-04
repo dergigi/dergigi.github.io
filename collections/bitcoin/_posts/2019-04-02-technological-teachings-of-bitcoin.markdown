@@ -111,6 +111,7 @@ So, how strong is SHA-256, exactly?
 > "SHA-256 is very strong. It's not like the incremental step from MD5
 > to SHA1. It can last several decades unless there's some massive
 > breakthrough attack."
+>
 > <cite>[Satoshi Nakamoto]</cite>
 
 Let's spell things out. 2²⁵⁶ equals the following number:
@@ -144,6 +145,7 @@ years, we would still only have a 25% chance to find a needle in a
 > strongly imply that brute-force attacks against 256-bit keys will be
 > infeasible until computers are built from something other than matter
 > and occupy something other than space."
+>
 > <cite>[Bruce Schneier][2]</cite>
 
 It is hard to overstate the profoundness of this. Strong cryptography
@@ -165,6 +167,7 @@ a math problem."*
 
 > "It isn't obvious that the world had to work this way. But somehow the
 > universe smiles on encryption."
+>
 > <cite>[Julian Assange][call to cryptographic arms]</cite>
 
 Nobody yet knows for sure if the universe's smile is genuine or not. It
@@ -176,6 +179,7 @@ exist, and the implications would most likely change the world beyond
 recognition.
 
 > "Vires in Numeris" = "Strength in Numbers"
+>
 > <cite>[epii]</cite>
 
 *Vires in numeris* is not only a catchy motto used by bitcoiners. The
@@ -222,6 +226,7 @@ Bitcoin solves is the issue of *trust*.
 > "The root problem with conventional currency is all the trust that's
 > required to make it work. [...] What is needed is an electronic
 > payment system based on cryptographic proof instead of trust"
+>
 > <cite>[Satoshi] [Nakamoto]</cite>
 
 Bitcoin solves the problem of trust by being completely decentralized,
@@ -243,6 +248,7 @@ whitepaper][Nakamoto].
 
 > "Conclusion: We have proposed a system for electronic transactions
 > without relying on trust."
+>
 > <cite>[Satoshi Nakamoto][Nakamoto]</cite>
 
 Note that "without relying on trust" is used in a very specific context
@@ -270,6 +276,7 @@ the aid of any external software or software-aided machinery.
 
 > "If you wish to make an apple pie from scratch, you must first invent
 > the universe."
+>
 > <cite>[Carl Sagan]</cite>
 
 The Ken Thompson Hack is a particularly ingenious and hard-to-detect
@@ -393,6 +400,7 @@ what is now known as Nakamoto consensus.
 
 > "The network timestamps transactions by hashing them into an ongoing
 > chain which serves as proof of the sequence of events witnessed"
+>
 > <cite>[Satoshi Nakamoto][Nakamoto]</cite>
 
 Without a consistent way to tell the time, there is no consistent way to
@@ -438,6 +446,7 @@ a beast without heads.
 > because of all the companies that failed since the 1990's. I hope it's
 > obvious it was only the centrally controlled nature of those systems
 > that doomed them."
+>
 > <cite>[Satoshi Nakamoto][pointed out]</cite>
 
 One consequence of this radical decentralization is an inherent
@@ -448,6 +457,7 @@ That's distributed consensus. That's the nature of Bitcoin.
 
 > "The nature of Bitcoin is such that once version 0.1 was released, the
 > core design was set in stone for the rest of its lifetime."
+>
 > <cite>[Satoshi Nakamoto][4]</cite>
 
 This is one of the many paradoxical properties of Bitcoin. We all came
@@ -468,6 +478,7 @@ environment.
 
 > "The rain came down, the floods came, and the winds blew, and beat on
 > that house; and it didn't fall, for it was founded on the rock."
+>
 > <cite>[Matthew 7:24--27]</cite>
 
 Arguably, in this parable of the wise and the foolish builders Bitcoin
@@ -494,6 +505,7 @@ that it would be necessary to make wise decisions ideologically.
 > "Being open source means anyone can independently review the code. If
 > it was closed source, nobody could verify the security. I think it's
 > essential for a program of this nature to be open source."
+>
 > <cite>[Satoshi Nakamoto][5]</cite>
 
 Openness is paramount to security and inherent in open source and the
@@ -539,6 +551,7 @@ anonymous: it is possible to have privacy online.
 
 > "Encryption works. Properly implemented strong crypto systems are one
 > of the few things that you can rely on."
+>
 > <cite>[Edward Snowden]</cite>
 
 Satoshi wasn't the first pseudonymous or anonymous inventor, and he
@@ -567,6 +580,7 @@ without the giants on whose shoulders he was standing on.
 
 > "He who only wishes and hopes does not interfere actively with the
 > course of events and with the shaping of his own destiny."
+>
 > <cite>[Ludwig Von Mises]</cite>
 
 One of these giants is Eric Hughes, one of the founders of the
@@ -592,6 +606,7 @@ defending privacy with cryptography and digital signatures.
 > money.
 >
 > Cypherpunks write code."
+>
 > <cite>[Eric Hughes][cypherpunk manifesto]</cite>
 
 Cypherpunks do not find comfort in hopes and wishes. They actively
@@ -614,6 +629,7 @@ He also made sure [not to delay] any release forever. After all,
 
 > "I had to write all the code before I could convince myself that I
 > could solve every problem, then I wrote the paper."
+>
 > <cite>[Satoshi Nakamoto][6]</cite>
 
 In today's world of endless promises and doubtful execution, an exercise
@@ -677,6 +693,7 @@ to the bitcoin natives of the future.
 
 > "The future is already here --- it's just not very evenly
 > distributed."
+>
 > <cite>[William Gibson]</cite>
 
 In 1995, about 15% of American adults used the internet. Historical
@@ -772,6 +789,7 @@ beautifully. The longer Bitcoin continues to work, the more people will
 opt-in to use it.
 
 > "It's true that things are beautiful when they work. Art is function."
+>
 > <cite>[Giannina Braschi]</cite>
 
 Bitcoin is growing exponentially, blurring the line between disciplines.

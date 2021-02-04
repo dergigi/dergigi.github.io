@@ -81,6 +81,7 @@ power corrupts absolutely, as the saying goes.
 > "Decentralized and private payments are a necessary innovation for a
 > digital future where we retain our civil liberties and personal
 > freedoms."
+>
 > <cite>[Alex Gladstein]</cite>
 
 Strong cryptography allows us to reclaim our right to private
@@ -166,6 +167,7 @@ not be confiscated, and can not be subject to the whim of politicians
 and bankers is another one.
 
 > "Sats are my safe haven."
+>
 > <cite>[Matt Odell]</cite>
 
 Bitcoin is quickly becoming a safe haven asset, especially for people

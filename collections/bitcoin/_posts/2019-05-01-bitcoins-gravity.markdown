@@ -53,6 +53,7 @@ towards Bitcoin.
 > indication of how skewed our perspective tends to be, but we have done
 > various things over intellectual history to slowly correct some of our
 > misapprehensions." 
+>
 > <cite>[Douglas Adams]</cite>
 
 ### Agreeing on a Set of Ideas
@@ -74,6 +75,7 @@ chaos.
 > peace, stability, and potential prosperity --- a good game. The good,
 > however, is the enemy of the better; a more compelling game might
 > always exist." 
+>
 > <cite>[Maps of Meaning]</cite>
 
 Bitcoin's consensus rules are just that: a set of ideas, codified into
@@ -113,6 +115,7 @@ months later, on 3 January 2009, the genesis block was mined. 
 
 > "The Times 03/Jan/2009 Chancellor on brink of second bailout
 > for banks." 
+>
 > <cite>[Bitcoin's Genesis Block][genesis block]</cite>
 
 It took only two days until a second person was intrigued enough to join
@@ -150,6 +153,7 @@ this, consensus emerges.
 
 > "Freedom brings men rudely and directly face to face with their own
 > personal responsibility for their own free actions." 
+>
 > <cite>Frank Meyer, [In Defense of Freedom]</cite>
 
 As soon as consensus is reached on the network, *value* comes into play.
@@ -209,6 +213,7 @@ cryptography mailing list.
 
 > "It's very attractive to the libertarian viewpoint if we can explain
 > it properly. I'm better with code than with words though." 
+>
 > <cite>[Satoshi Nakamoto]</cite>
 
 One way to illustrate this is by visualizing a landscape of ideas. Since
@@ -237,6 +242,7 @@ constructs, focusing on automation of contracts and similar ideas.
 > We cling to mental models that satisfy our thirst for understanding a
 > given phenomenon, and stick to groups who identify with similar
 > narratives."
+>
 > <cite> [Dan Held]</cite>
 
 These narratives, these sets of ideas, describe both what Bitcoin
@@ -285,6 +291,7 @@ ideas?
 > was actually known since the time of Einstein's general relativity;
 > that gravity is not always attractive. Gravity can act
 > repulsively."
+>
 > <cite>[Alan Guth]</cite>
 
 If you are truly repulsed by Bitcoin's ideas, you might end up drifting
@@ -315,6 +322,7 @@ overlaps; sometimes almost exactly.
 > there are, in fact, a menu of beliefs competing for their affiliation;
 > [...] Trying to identify where one narrative ends and another begins
 > is a challenging task, as ideas tend to have permeable borders."
+>
 > <cite>[Nathaniel Whittemore][crypto-narrative-index]</cite>
 
 Since creating new gravity wells is (a) possible and (b) relatively easy
@@ -335,6 +343,7 @@ result in ever deeper entrenchment. 
 > "Everyone knows nowadays that people "have complexes." What is not so
 > well known, though far more important theoretically, is that complexes
 > can have us." 
+>
 > <cite>[Carl Jung]</cite>
 
 One could argue, as Carl Jung did in relationship to complexes, that
@@ -423,6 +432,7 @@ well.
 > goods. They, and all that appertained to them, went down alive into
 > the pit, and the earth closed upon them: and they perished from among
 > the congregation." 
+>
 > <cite>[Book of Numbers]</cite>
 
 I'm not saying that *all* other projects will perish, necessarily. But
@@ -488,6 +498,7 @@ will taint the world view of anyone captured by it.
 > betimes why one is possessed. One should ask oneself for once: Why has
 > this idea taken possession of me? What does that mean in regard
 > to myself?" 
+>
 > <cite>[Carl Jung][Spirit in Man]</cite>
 
 Both the world and Bitcoin are dynamic things, making any set of ideas
