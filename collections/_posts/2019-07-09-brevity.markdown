@@ -11,6 +11,7 @@ tags:
   - Travel
 ---
 
-> "It is with words as with sunbeams. The more they are condensed, the deeper
-> they burn."
+> It is with words as with sunbeams. The more they are condensed, the deeper
+> they burn.
+>
 > <cite>Robert Southey</cite>

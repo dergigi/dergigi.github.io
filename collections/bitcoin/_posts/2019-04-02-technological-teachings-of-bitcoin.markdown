@@ -108,9 +108,10 @@ billions (10⁹) above, the number in SHA-256 is about orders of magnitude
 
 So, how strong is SHA-256, exactly?
 
-> "SHA-256 is very strong. It's not like the incremental step from MD5
+> SHA-256 is very strong. It's not like the incremental step from MD5
 > to SHA1. It can last several decades unless there's some massive
 > breakthrough attack."
+>
 > <cite>[Satoshi Nakamoto]</cite>
 
 Let's spell things out. 2²⁵⁶ equals the following number:
@@ -139,11 +140,12 @@ which would use any provided energy to [flip bits perfectly], build a
 years, we would still only have a 25% chance to find a needle in a
 256-bit haystack.
 
-> "These numbers have nothing to do with the technology of the devices;
+> These numbers have nothing to do with the technology of the devices;
 > they are the maximums that thermodynamics will allow. And they
 > strongly imply that brute-force attacks against 256-bit keys will be
 > infeasible until computers are built from something other than matter
 > and occupy something other than space."
+>
 > <cite>[Bruce Schneier][2]</cite>
 
 It is hard to overstate the profoundness of this. Strong cryptography
@@ -163,8 +165,9 @@ This fact and its implications were poignantly summarized in the [call
 to cryptographic arms][]: "*No amount of coercive force will ever solve
 a math problem."*
 
-> "It isn't obvious that the world had to work this way. But somehow the
+> It isn't obvious that the world had to work this way. But somehow the
 > universe smiles on encryption."
+>
 > <cite>[Julian Assange][call to cryptographic arms]</cite>
 
 Nobody yet knows for sure if the universe's smile is genuine or not. It
@@ -175,7 +178,8 @@ If that should be the case, cryptography as we know it will cease to
 exist, and the implications would most likely change the world beyond
 recognition.
 
-> "Vires in Numeris" = "Strength in Numbers"
+> Vires in Numeris" = "Strength in Numbers"
+>
 > <cite>[epii]</cite>
 
 *Vires in numeris* is not only a catchy motto used by bitcoiners. The
@@ -219,9 +223,10 @@ examples, you are bound to trust the central authority to issue, manage
 and circulate your money. Bitcoin unties this bound, and the main issue
 Bitcoin solves is the issue of *trust*.
 
-> "The root problem with conventional currency is all the trust that's
+> The root problem with conventional currency is all the trust that's
 > required to make it work. [...] What is needed is an electronic
 > payment system based on cryptographic proof instead of trust"
+>
 > <cite>[Satoshi] [Nakamoto]</cite>
 
 Bitcoin solves the problem of trust by being completely decentralized,
@@ -241,8 +246,9 @@ verify."* Satoshi made the importance of removing trust very clear in
 both the introduction as well as the conclusion of the [Bitcoin
 whitepaper][Nakamoto].
 
-> "Conclusion: We have proposed a system for electronic transactions
+> Conclusion: We have proposed a system for electronic transactions
 > without relying on trust."
+>
 > <cite>[Satoshi Nakamoto][Nakamoto]</cite>
 
 Note that "without relying on trust" is used in a very specific context
@@ -268,8 +274,9 @@ exist. You would have to create all your software *and* all your
 hardware (assemblers, compilers, linkers, etc.) from scratch, without
 the aid of any external software or software-aided machinery.
 
-> "If you wish to make an apple pie from scratch, you must first invent
+> If you wish to make an apple pie from scratch, you must first invent
 > the universe."
+>
 > <cite>[Carl Sagan]</cite>
 
 The Ken Thompson Hack is a particularly ingenious and hard-to-detect
@@ -294,7 +301,7 @@ happened] at least once. There are good reasons to be paranoid, and the
 fact that everything from your hardware, to your software, to the
 elliptic curves used can have [backdoors] are some of them.
 
-> "Don't trust. Verify."
+> Don't trust. Verify."
 
 The above examples should illustrate that *trustless* computing is
 utopic. Bitcoin is probably the one system which comes closest to this
@@ -391,8 +398,9 @@ beforehand that the chain with the most cumulative work is the source of
 truth. It is per definition what actually happened. This agreement is
 what is now known as Nakamoto consensus.
 
-> "The network timestamps transactions by hashing them into an ongoing
+> The network timestamps transactions by hashing them into an ongoing
 > chain which serves as proof of the sequence of events witnessed"
+>
 > <cite>[Satoshi Nakamoto][Nakamoto]</cite>
 
 Without a consistent way to tell the time, there is no consistent way to
@@ -434,10 +442,11 @@ many times before, and all previous attempts have failed because there
 was a head which could be cut off. The novelty of Bitcoin is that it is
 a beast without heads.
 
-> "A lot of people automatically dismiss e-currency as a lost cause
+> A lot of people automatically dismiss e-currency as a lost cause
 > because of all the companies that failed since the 1990's. I hope it's
 > obvious it was only the centrally controlled nature of those systems
 > that doomed them."
+>
 > <cite>[Satoshi Nakamoto][pointed out]</cite>
 
 One consequence of this radical decentralization is an inherent
@@ -446,8 +455,9 @@ never work on the Bitcoin base layer. Even if it would be desirable, it
 wouldn't be possible without convincing *everyone* to change their ways.
 That's distributed consensus. That's the nature of Bitcoin.
 
-> "The nature of Bitcoin is such that once version 0.1 was released, the
+> The nature of Bitcoin is such that once version 0.1 was released, the
 > core design was set in stone for the rest of its lifetime."
+>
 > <cite>[Satoshi Nakamoto][4]</cite>
 
 This is one of the many paradoxical properties of Bitcoin. We all came
@@ -466,8 +476,9 @@ Monetary systems are adversarial by nature, and as we have known for
 thousands of years solid foundations are essential in an adversarial
 environment.
 
-> "The rain came down, the floods came, and the winds blew, and beat on
+> The rain came down, the floods came, and the winds blew, and beat on
 > that house; and it didn't fall, for it was founded on the rock."
+>
 > <cite>[Matthew 7:24--27]</cite>
 
 Arguably, in this parable of the wise and the foolish builders Bitcoin
@@ -491,9 +502,10 @@ on solid foundations.
 Satoshi wasn't only a wise builder technologically. He also understood
 that it would be necessary to make wise decisions ideologically.
 
-> "Being open source means anyone can independently review the code. If
+> Being open source means anyone can independently review the code. If
 > it was closed source, nobody could verify the security. I think it's
 > essential for a program of this nature to be open source."
+>
 > <cite>[Satoshi Nakamoto][5]</cite>
 
 Openness is paramount to security and inherent in open source and the
@@ -537,8 +549,9 @@ Whatever his real identity might be, Satoshi was successful in hiding
 it. He set an encouraging example for everyone who wishes to remain
 anonymous: it is possible to have privacy online.
 
-> "Encryption works. Properly implemented strong crypto systems are one
+> Encryption works. Properly implemented strong crypto systems are one
 > of the few things that you can rely on."
+>
 > <cite>[Edward Snowden]</cite>
 
 Satoshi wasn't the first pseudonymous or anonymous inventor, and he
@@ -565,8 +578,9 @@ mathematics, physics, computer science, and other fields. While
 undoubtedly a genius, Satoshi wouldn't have been able to invent Bitcoin
 without the giants on whose shoulders he was standing on.
 
-> "He who only wishes and hopes does not interfere actively with the
+> He who only wishes and hopes does not interfere actively with the
 > course of events and with the shaping of his own destiny."
+>
 > <cite>[Ludwig Von Mises]</cite>
 
 One of these giants is Eric Hughes, one of the founders of the
@@ -576,7 +590,7 @@ of many things which Bitcoin enables and utilizes, such as direct and
 private transactions, electronic money and cash, anonymous systems, and
 defending privacy with cryptography and digital signatures.
 
-> "Privacy is necessary for an open society in the electronic age.
+> Privacy is necessary for an open society in the electronic age.
 > [...] Since we desire privacy, we must ensure that each party to a
 > transaction have knowledge only of that which is directly necessary
 > for that transaction. [...]
@@ -592,6 +606,7 @@ defending privacy with cryptography and digital signatures.
 > money.
 >
 > Cypherpunks write code."
+>
 > <cite>[Eric Hughes][cypherpunk manifesto]</cite>
 
 Cypherpunks do not find comfort in hopes and wishes. They actively
@@ -612,8 +627,9 @@ Satoshi wrote code to implement his idea before he wrote the whitepaper.
 He also made sure [not to delay] any release forever. After all,
 "there's always going to be one more thing to do."
 
-> "I had to write all the code before I could convince myself that I
+> I had to write all the code before I could convince myself that I
 > could solve every problem, then I wrote the paper."
+>
 > <cite>[Satoshi Nakamoto][6]</cite>
 
 In today's world of endless promises and doubtful execution, an exercise
@@ -675,8 +691,9 @@ confusing and alien to most, but just like the internet is second nature
 for digital natives, spending and [stacking] sats will be second nature
 to the bitcoin natives of the future.
 
-> "The future is already here --- it's just not very evenly
+> The future is already here --- it's just not very evenly
 > distributed."
+>
 > <cite>[William Gibson]</cite>
 
 In 1995, about 15% of American adults used the internet. Historical
@@ -771,7 +788,8 @@ works. It keeps producing blocks roughly every ten minutes and does so
 beautifully. The longer Bitcoin continues to work, the more people will
 opt-in to use it.
 
-> "It's true that things are beautiful when they work. Art is function."
+> It's true that things are beautiful when they work. Art is function."
+>
 > <cite>[Giannina Braschi]</cite>
 
 Bitcoin is growing exponentially, blurring the line between disciplines.

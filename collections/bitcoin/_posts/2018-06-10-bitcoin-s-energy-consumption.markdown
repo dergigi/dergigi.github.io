@@ -50,8 +50,9 @@ In addition to being seemingly inefficient and slow, it is eating up
 computational resources at a mad pace and consumes as much energy as a
 small country.
 
-> "In comparison to modern distributed databases, blockchains are slow,
+> In comparison to modern distributed databases, blockchains are slow,
 > ponderous, unnecessarily redundant and overly paranoid."
+>
 > <cite>[Dhruv Bansal]</cite>
 
 As [Nick Szabo] so succinctly put it: "Bitcoin offends the sensibilities
@@ -80,9 +81,10 @@ The name "mining" stems from the proposition that bitcoin has more in
 common with gold and other precious metals than paper money. Satoshi
 made this clear in [one of his posts].
 
-> "In this sense, it's more typical of a precious metal. Instead of the
+> In this sense, it's more typical of a precious metal. Instead of the
 > supply changing to keep the value the same, the supply is
 > predetermined and the value changes."
+>
 > <cite>[Satoshi Nakamoto][one of his posts]</cite>
 
 Hence bitcoins are not printed, they are mined. Even though we talk
@@ -236,8 +238,9 @@ concise, easy, elegant explanations and metaphors. [Hugo Nguyen] did a
 great job explaining how proof-of-work links the abstract, digital world
 of bitcoin to our physical world:
 
-> "By attaching energy to a block, we give it "form", allowing it to
+> By attaching energy to a block, we give it "form", allowing it to
 > have real weight & consequences in the physical world."
+>
 > <cite>[Hugo Nguyen]</cite>
 
 Proof-of-work is essentially a mechanism to easily check the
@@ -289,6 +292,7 @@ a good idea, it actually [introduces a security risk].
 > The problem with doing something else --- something that other people
 > might consider useful --- is that that splits the reward. It means
 > that miners have two reasons for which they are mining.
+>
 > <cite>[Andreas M. Antonopoulos]</cite>
 
 Splitting the reward can lead to a situation where "it's more worthwhile

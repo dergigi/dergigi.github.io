@@ -95,16 +95,18 @@ money is actually printed, and who decides that?
 After a mild panic about the sheer scope of my ignorance, I found
 reassurance in realizing that I was in good company.
 
-> "Isn't it ironic that Bitcoin has taught me more about money than all
+> Isn't it ironic that Bitcoin has taught me more about money than all
 > these years I've spent working for financial
 > institutions? ...including starting my career at a central
 > bank"
+>
 > <cite>[aarontaycc]</cite>
 
-> "I've learned more about finance, economics, technology, cryptography,
+> I've learned more about finance, economics, technology, cryptography,
 > human psychology, politics, game theory, legislation, and myself in
 > the last three months of crypto than the last three and a half years
 > of college" 
+>
 > <cite>[bitcoindunny]</cite>
 
 These are just two of the [many confessions] all over twitter. Bitcoin,
@@ -112,12 +114,13 @@ as was explored in [part one][I], is a living thing. Mises argued that
 economics also is a living thing. And as we all know from personal
 experience, living things are inherently difficult to understand.
 
-> "A scientific system is but one station in an endlessly progressing
+> A scientific system is but one station in an endlessly progressing
 > search for knowledge. It is necessarily affected by the insufficiency
 > inherent in every human effort. But to acknowledge these facts does
 > not mean that present-day economics is backward. It merely means that
 > economics is a living thing --- and to live implies both imperfection
 > and change."
+>
 > <cite>[Ludwig von Mises]</cite>
 
 We all read about various financial crises in the news, wonder about how
@@ -135,10 +138,11 @@ they currently do if everyone would be educated in personal finance and
 the workings of money and debt. Then I wonder how many layers of
 aluminum make an effective tinfoil hat. Probably three.
 
-> "Those crashes, these bailouts, are not accidents. And neither is it
+> Those crashes, these bailouts, are not accidents. And neither is it
 > an accident that there is no financial education in school. [...]
 > It's premeditated. Just as prior to the Civil War it was illegal to
 > educate a slave, we are not allowed to learn about money in school."
+>
 > <cite>[Robert Kiyosaki]</cite>
 
 Like in The Wizard of Oz, we are told to pay no attention to the man
@@ -179,10 +183,11 @@ goods and real services produce real value for real people, printing
 money effectively does the opposite: it takes away value from everyone
 who holds the currency which is being inflated.
 
-> "Mere inflation --- that is, the mere issuance of more money, with the
+> Mere inflation --- that is, the mere issuance of more money, with the
 > consequence of higher wages and prices --- may look like the creation
 > of more demand. But in terms of the actual production and exchange of
 > real things it is not."
+>
 > <cite>[Henry Hazlitt]</cite>
 
 The destructive force of inflation becomes obvious as soon as a little
@@ -207,8 +212,9 @@ might turn into a strong cup of inflation by the push of a button. As
 Friedrich Hayek pointed out in one of his essays, mild inflation usually
 leads to outright inflation.
 
-> ""Mild" steady inflation cannot help --- it can lead only to outright
+> "Mild" steady inflation cannot help --- it can lead only to outright
 > inflation."
+>
 > <cite>[Friedrich Hayek]</cite>
 
 Inflation is particularly devious since it favors those who are closer
@@ -219,9 +225,10 @@ inflationary curve. This is also why inflation can be seen as a hidden
 tax because in the end governments profit from it while everyone else
 ends up paying the price.
 
-> "I do not think it is an exaggeration to say history is largely a
+> I do not think it is an exaggeration to say history is largely a
 > history of inflation, and usually of inflations engineered by
 > governments for the gain of governments."
+>
 > <cite>[Friedrich Hayek][1]</cite>
 
 So far, all government-controlled currencies have eventually been
@@ -246,8 +253,9 @@ use] will slowly but surely move to their respective graveyards. They
 will hyperinflate or be replaced. They will soon be historical
 currencies. We will make them obsolete.
 
-> "History has shown that governments will inevitably succumb to the
+> History has shown that governments will inevitably succumb to the
 > temptation of inflating the money supply."
+>
 > <cite>[Saifedean Ammous]</cite>
 
 Why is Bitcoin different? In contrast to currencies mandated by the
@@ -284,10 +292,11 @@ have been aware of this paradox for thousands of years. As Plato wrote
 in his dialogue with Euthydemus, we value some things because they are
 rare, and not merely based on their necessity for our survival.
 
-> "And if you are prudent you will give this same counsel to your pupils
+> And if you are prudent you will give this same counsel to your pupils
 > also --- that they are never to converse with anybody except you and
 > each other. For it is the rare, Euthydemus, that is precious, while
 > water is cheapest, though best, as Pindar said."
+>
 > <cite>[Plato]</cite>
 
 This [paradox of value] shows something interesting about us humans: we
@@ -332,9 +341,10 @@ use. To understand this, we will have to take a closer look at what
 money is, how it came to be, and why gold and silver was used for most
 of commercial history.
 
-> "In this sense, it's more typical of a precious metal. Instead of the
+> In this sense, it's more typical of a precious metal. Instead of the
 > supply changing to keep the value the same, the supply is
 > predetermined and the value changes."
+>
 > <cite>[Satoshi Nakamoto]</cite>
 
 Seashells, gold, silver, paper, bitcoin. In the end, **money is whatever
@@ -366,12 +376,13 @@ The thing about money is that it is all-encompassing. Money is half of
 every transaction, which imbues the ones who are in charge with creating
 money with enormous power.
 
-> "Given that money is one half of every commercial transaction and that
+> Given that money is one half of every commercial transaction and that
 > whole civilizations literally rise and fall based on the quality of
 > their money, we are talking about an awesome power, one that flies
 > under the cover of night. It is the power to weave illusions that
 > appear real as long as they last. That is the very core of the
 > Fed's power."
+>
 > <cite>[Ron Paul]</cite>
 
 Bitcoin peacefully removes this power, since it does away with money
@@ -506,7 +517,7 @@ representative for actual gold and silver, they were colored accordingly
 and stated this clearly on the certificate itself. You can fluently read
 the writing from top to bottom:
 
-> "This certifies that there have been deposited in the treasury of the
+> This certifies that there have been deposited in the treasury of the
 > United States of America one hundred dollars in gold coin payable to
 > the bearer on demand."
 
@@ -569,7 +580,7 @@ five-year-old, the insanity of both will become apparent quickly.
 Godfrey Bloom, addressing the European Parliament during a [joint
 debate], said it way better than I ever could:
 
-> "[...] you do not really understand the concept of banking. All the
+> [...] you do not really understand the concept of banking. All the
 > banks are broke. Bank Santander, Deutsche Bank, Royal Bank of
 > Scotland --- they're all broke! And why are they broke? It isn't an
 > act of God. It isn't some sort of tsunami. They're broke because we
@@ -583,6 +594,7 @@ debate], said it way better than I ever could:
 > prison for a very long time [...] and until we start sending
 > bankers --- and I include central bankers and politicians --- to
 > prison for this outrage it will continue."
+>
 > <cite>[Godfrey Bloom][joint debate]</cite>
 
 Let me repeat the most important part: banks can lend money that they
@@ -658,9 +670,10 @@ pointed out, it is grounded in an error of measurement. If you think in
 dollars you will fail to see that one bitcoin will always be worth one
 bitcoin.
 
-> "A fixed money supply, or a supply altered only in accord with
+> A fixed money supply, or a supply altered only in accord with
 > objective and calculable criteria, is a necessary condition to a
 > meaningful just price of money."
+>
 > <cite>[Fr. Bernard W. Dempsey, S.J.]</cite>
 
 As a quick stroll through the graveyard of forgotten currencies has
@@ -710,9 +723,10 @@ new money requires just a drop of ink. In our modern world adding a
 couple of zeros to the balance of a bank account requires even less
 effort: flipping a few bits in a bank computer is enough.
 
-> "One important aspect of this new reality is that institutions like
+> One important aspect of this new reality is that institutions like
 > the Fed cannot go bankrupt. They can print any amount of money that
 > they might need for themselves at virtually zero cost."
+>
 > <cite>[Jörg Guido Hülsmann]</cite>
 
 The principle outlined above can be expressed more generally as the
@@ -842,6 +856,7 @@ and evolving too fast to ever be fully understood by a single person.
 the thing out of the hands of government, that is, we can’t take it violently
 out of the hands of government, all we can do is by some sly roundabout way
 introduce something that they can’t stop.”
+>
 > <cite>[Friedrich Hayek][Sly roundabout way]</cite>
 
 Learning these lessons enabled me to finally understand what Hayek meant by

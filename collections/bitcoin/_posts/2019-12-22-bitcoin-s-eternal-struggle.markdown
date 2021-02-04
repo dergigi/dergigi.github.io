@@ -81,7 +81,7 @@ always probabilistic. Yes, the chances of reversal might be beyond astronomical,
 but nevertheless, final settlement does not and should not exist in Bitcoin.
 Nakamoto consensus forbids it.
 
-> "The first law of thermodynamics, also known as the law of
+> The first law of thermodynamics, also known as the law of
 > Conservation of Energy, states that energy cannot be created or
 > destroyed in an isolated system. The second law states that the
 > entropy of any isolated system always increases, and the third law

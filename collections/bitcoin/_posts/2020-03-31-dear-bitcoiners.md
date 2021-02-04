@@ -42,7 +42,7 @@ might be used to put you in a box. The fact that you are here, reading
 this, thinking about Bitcoin, *caring* about Bitcoin, is enough for me.
 That's why I'm bullish. Bullish on Bitcoin, and bullish on bitcoiners.
 
-> "Bullish on bitcoiners."
+> Bullish on bitcoiners."
 >
 > <cite>[Matt Odell]</cite>
 
@@ -71,7 +71,7 @@ educate, continue to proselytize, continue to argue, continue to debate.
 We find ourselves at the forefront of a battle of ideas, and in this
 battle, complacency kills.
 
-> "Ask not what bitcoin can do for you, but what you can do for
+> Ask not what bitcoin can do for you, but what you can do for
  bitcoin."
 >
 > <cite>[Adam Back]</cite>
@@ -100,7 +100,7 @@ everyone as soon as they are ready --- be it out of necessity or out of
 curiosity. Yes, the timeline just got accelerated. But this is still a
 marathon, not a sprint. And it might be one of many marathons.
 
-> "One of the facts of history is that battles do not stay won. Those
+> One of the facts of history is that battles do not stay won. Those
  that matter have to be waged again and again."
 >
 > <cite>[Stanley Knowles]</cite>
@@ -125,7 +125,7 @@ believe that Bitcoin's time has come, and in hindsight, it will be
 obvious to everyone. Before it becomes obvious, however, swathes of
 people will try to distort what Bitcoin is and the ideas it represents.
 
-> "Ideas change the world, but they do it by assuming shape, they do it
+> Ideas change the world, but they do it by assuming shape, they do it
  by taking concrete form."
 >
 > <cite>[Stanley Knowles]</cite>
@@ -147,7 +147,7 @@ inherent imbalance. Some are close to the monetary spigot, or willfully
 ignorant, or enemies of freedom in general. Others are outright evil,
 aiming to become the foot that stomps on your face, forever.
 
-> "They told us not to wish in the first place, not to aspire, not to
+> They told us not to wish in the first place, not to aspire, not to
 > try; to be quiet, to play nice, to shoot low and aspire not at all.
 > They are always wrong. Follow your dreams. Make your wishes. Create
  the future. And above all, believe in yourself."
@@ -167,7 +167,7 @@ settle for the status quo --- we can do better. Bitcoin is what we make
 of it, and I can't imagine a better set of people to realize the full
 potential of this grand idea.
 
-> "There is nothing better to be on a shared mission with extraordinary
+> There is nothing better to be on a shared mission with extraordinary
 > people who can be radically truthful, and radically transparent with
  each other."
 >

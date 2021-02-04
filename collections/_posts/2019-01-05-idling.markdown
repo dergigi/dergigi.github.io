@@ -12,7 +12,7 @@ tags:
   - Poem
 ---
 
-> “So much to do,\\
+> So much to do,\\
 > yet so little time.\\
 > What am I gonna do,\\
 > with the time that is mine.
@@ -20,4 +20,4 @@ tags:
 > So much to say,\\
 > both silent and loud.\\
 > Everyone wants to idle.\\
-> But no idling allowed.”
+> But no idling allowed.

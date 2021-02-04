@@ -48,7 +48,7 @@ new form of life. No organism can be meaningfully studied in isolation, and
 Bitcoin is no exception. As Alan Watts pointed out, one has to be aware of the
 basic unity every organism forms with its environment.
 
-> "For the ecologist, the biologist, and the physicist know (but seldom
+> For the ecologist, the biologist, and the physicist know (but seldom
 > feel) that every organism constitutes a single field of behavior, or
 > process, with its environment. There is no way of separating what any
 > given organism is doing from what its environment is doing, for which
@@ -224,7 +224,7 @@ system's ills. It is hard money which doesn't devalue over time. It is
 an incorruptible system which forms the basis of a new financial
 reality.
 
-> "It can't be changed. It can't be argued with. It can't be tampered
+> It can't be changed. It can't be argued with. It can't be tampered
 > with. It can't be corrupted. It can't be stopped. It can't even be
 > interrupted."
 >

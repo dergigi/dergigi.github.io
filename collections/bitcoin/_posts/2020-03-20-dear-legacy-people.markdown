@@ -19,7 +19,7 @@ months we are currently living through, the weeks that will mark the
 line between the pre-virus and the post-virus world. One thing is clear:
 we are past the inflection point.
 
-> "There are decades when nothing happens, and there are weeks when
+> There are decades when nothing happens, and there are weeks when
 > decades happen."
 >
 > <cite>[Vladimir Lenin]\*</cite>
@@ -38,7 +38,7 @@ system by heavily interfering with natural processes will turn an
 annoying mosquito problem into a deadly snake problem (with some frogs
 in-between).
 
-> "A new type of thinking is essential if mankind is to survive and move
+> A new type of thinking is essential if mankind is to survive and move
 > to higher levels."
 >
 > <cite>[Albert Einstein]</cite>
@@ -91,7 +91,7 @@ The world is a scary, complicated, and chaotic place. Our
 interconnectedness and interdependence have drastic and unforeseen
 consequences, as the current pandemic shows so clearly.
 
-> "Someone ate a bat in China and now you don't get to retire. Funny how
+> Someone ate a bat in China and now you don't get to retire. Funny how
  the world works."
 >
 > <cite>[Jeremy Ross]</cite>

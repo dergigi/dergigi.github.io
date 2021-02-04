@@ -125,10 +125,11 @@ bunch of zeros and ones:
 It could also be heads and tails, as pointed out by [Andreas M.
 Antonopoulos] in [Mastering Bitcoin]:
 
-> "The bitcoin private key is just a number. You can pick your private
+> The bitcoin private key is just a number. You can pick your private
 > keys randomly using just a coin, pencil, and paper: toss a coin 256
 > times and you have the binary digits of a random private key you can
 > use in a bitcoin wallet."
+>
 > <cite>[Andreas M. Antonopoulos][Mastering Bitcoin]</cite>
 
 The same information can be represented as a regular number:
@@ -175,10 +176,11 @@ the physical, not the digital world. Some laws and regulations which
 made sense previously might not be very useful in the abstract space of
 zeros and ones.
 
-> "Central banks now have no way of stopping competition by just passing
+> Central banks now have no way of stopping competition by just passing
 > laws as they have always done. They are now up against a digital
 > competitor that most likely cannot be brought under the physical
 > world's laws."
+>
 > <cite>[Saifedean Ammous], [The Bitcoin Standard]</cite>
 
 Governments and corporations will continually try to outlaw certain
@@ -201,9 +203,10 @@ information leads to absurd consequences. Since information can be
 encoded in a myriad of ways, banning information leads to [illegal
 numbers] and other absurdities.
 
-> "Any piece of digital information is representable as a number;
+> Any piece of digital information is representable as a number;
 > consequently, if communicating a specific set of information is
 > illegal in some way, then the number may be illegal as well."
+>
 > <cite>Wikipedia contributors, [Illegal number][illegal numbers]
 > ([this version])</cite>
 

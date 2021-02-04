@@ -132,6 +132,25 @@
   &__comments {
     border-top: $border;
   }
+
+  table {
+    border: 2px solid $color-darkergrey;
+
+    thead {
+      background-color: $color-darkergrey;
+    }
+
+    td {
+      padding: 0.2em 1em;
+    }
+  }
+
+  table + p > small {
+    font-size: 0.6em;
+    line-height: 1em !important;
+    text-align: right;
+    color: $color-darkgrey;
+  }
 }
 
 //----------------------------------------------
@@ -220,7 +239,13 @@
     }
   }
 
-  blockquote {
+  h2 + blockquote {
+    padding: 0 2em;
+    font-size: 0.8em;
+    text-align: left;
+  }
+
+  p + blockquote {
     border-top: 2px solid $color-darkergrey;
     border-bottom: 2px solid $color-darkergrey;
   }

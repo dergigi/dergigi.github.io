@@ -106,13 +106,14 @@ people use it as a store of value, like gold.
 
 Just in case you missed the important bit:
 
-> "If a cryptocurrency system were to become prevalent throughout the globe,
+> If a cryptocurrency system were to become prevalent throughout the globe,
 > would that diminish or remove the need for a reserve currency in the
 > traditional sense?" "Things like that are possible. But we really haven't seen
 > them. We haven't seen widespread adoption. I mean, Bitcoin is a good example.
 > Really almost no one uses Bitcoin for payments. They use it more as an
 > alternative to gold, really. It's a store of value. It's a speculative
 > store of value, like gold."
+>
 > <cite>[Jerome H. Powell][Powell]</cite>
 
 Let me rephrase the above, to get to the essence of what was said.
@@ -163,9 +164,10 @@ colorful ties and all.
 
 The point made by Rep. Patrick McHenry is worth reiterating:
 
-> "There is no capacity to kill Bitcoin. Even the Chinese with their
+> There is no capacity to kill Bitcoin. Even the Chinese with their
 > firewall and their extreme intervention in their society could not
 > kill Bitcoin. \[...\] My point here is: You can't kill Bitcoin."
+>
 > <cite>[Rep. Patrick McHenry][McHenry1]</cite>
 
 As if this wasn't bullish enough, the same politician goes on to
@@ -177,13 +179,14 @@ the U.S. House Committee on Financial Services.
 Again, the opening statement made by Rep. Patrick McHenry is worth
 reiterating:
 
-> "The reality is, whether Facebook is involved or not, change is here. Digital
+> The reality is, whether Facebook is involved or not, change is here. Digital
 > currencies exist. Blockchain technology is real. And Facebook's entry in this
 > new world is just confirmation, albeit at scale. The world that Satoshi
 > Nakamoto --- author of the Bitcoin whitepaper --- envisioned, and others are
 > building, is an unstoppable force. We should not attempt to deter this
 > innovation. And governments can not stop this innovation. And those that have
 > tried, have already failed."
+>
 > <cite>[Rep. Patrick McHenry][McHenry2]</cite>
 
 Take a moment to let that sink in.

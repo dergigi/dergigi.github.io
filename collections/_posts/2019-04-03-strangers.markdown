@@ -23,25 +23,29 @@ We have met many people in the last few months. Some remained strangers, some be
 > Is a useful and convenient social convention<br/>
 > Which must sometimes be broken. We must also remember<br/>
 > That at every meeting we are meeting a stranger.
+>
 > <cite>T. S. Eliot</cite>
 
 We are living in strange times. Not too long ago, our parents warned us to never get into a stranger's car. Now we summon strangers and their cars with the push of a button. We have a million ways to connect with strangers and friends, yet many friends become estranged, and many strangers never become friends.
 
 ![Stranger in the streets](/assets/images/stranger-in-the-streets.jpg#full)
 
-> "The stranger is simply a friend I haven't met yet."
+> The stranger is simply a friend I haven't met yet.
+>
 > <cite>Catherine Doherty</cite>
 
 We are often strangers to ourselves, not knowing what to do, not understanding our actions, wants or needs. This is as obvious as it is interesting, and for reasons which I can't articulate very well yet, I am quite convinced that it has to be this way. I might entertain this thought another time. For now, I will have to entertain four strangers.
 
-> "Be not forgetful to entertain strangers, for thereby some have entertained angels unawares."
+> Be not forgetful to entertain strangers, for thereby some have entertained angels unawares.
+>
 > <cite>Paul of Tarsus, Hebrews 13:2</cite>
 
 How well can we ever get to know a stranger? How well can we get to know ourselves? Is this even desirable, or should we just be comfortable with the stranger in each and every one of us?
 
 I try to be comfortable, and I think I am getting better at it. For example, I do not consider myself to be particularly religious. Yet it is the bible which I have quoted three times while writing this. Strange, isn't it.
 
-> "I have been a stranger in a strange land."
+> I have been a stranger in a strange land.
+>
 > <cite>Moses, Exodus 2:22</cite>
 
 ![Strangers sunbathing](/assets/images/strangers-sunbathing.jpg#full)
