@@ -110,7 +110,7 @@ eating it alive? *Honey badger don't care!* And just like an army of
 ants doesn't care if half of the workers are washed away by a flood, the
 Bitcoin network doesn't care if half of the nodes are offline tomorrow.
 
-> "Honey badger don't care, honey badger don't give a fuck."
+> Honey badger don't care, honey badger don't give a fuck."
 >
 > <cite>[Randall][randall]</cite>
 
@@ -138,7 +138,7 @@ incredible amount of excitement in the technical community, and tried to
 translate this excitement into something which can be understood by
 everybody: a new form of life.
 
-> "Briefly, and non-technically, Bitcoin is the first example of a new
+> Briefly, and non-technically, Bitcoin is the first example of a new
 > form of life. It lives and breathes on the internet. It lives because
 > it can pay people to keep it alive. It lives because it performs a
 > useful service that people will pay it to perform. It lives because
@@ -261,7 +261,7 @@ of innumerable parts, all signaling and communicating in an intricate
 way to self-sustain each organism, and the phenomenon which we call life
 as a whole.
 
-> "Life is like fire, not water; it is a process, not a pure substance.
+> Life is like fire, not water; it is a process, not a pure substance.
 > \[...\] The simplest, but not the only, proof of life is to find
 > something that is alive."
 >

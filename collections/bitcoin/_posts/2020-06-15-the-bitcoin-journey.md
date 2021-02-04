@@ -127,7 +127,7 @@ value --- Bitcoin's eternal feedback loop kicks in.
 
 Satoshi alluded to this feedback loop in his writings.
 
-> "It might make sense just to get some in case it catches on. If enough
+> It might make sense just to get some in case it catches on. If enough
 > people think the same way, that becomes a self fulfilling prophecy."
 > --- [Satoshi
 > Nakamoto](https://satoshi.nakamotoinstitute.org/emails/cryptography/17/)

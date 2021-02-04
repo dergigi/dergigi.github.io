@@ -47,7 +47,7 @@ Every moment is precious. If that is so, we should cherish every moment. But, if
 
 The above, of course, is an error in reasoning. Since this is not a political argument and I don't want to push you down a nihilistic hole, let me point out this faulty reasoning. Moments do not gain preciousness because of our cherishing. They simply are.
 
-> "Of several colors, all equally white, that will look whitest which is against the darkest background. And black will look intensest against the whitest background. And red will look most vivid against the yellowest background; and the same is the case with all colours when surrounded by their strongest contrasts."
+> Of several colors, all equally white, that will look whitest which is against the darkest background. And black will look intensest against the whitest background. And red will look most vivid against the yellowest background; and the same is the case with all colours when surrounded by their strongest contrasts."
 >
 > <cite>Leonardo da Vinci</cite>
 
@@ -57,7 +57,7 @@ Time moves on, and so do we. We leave behind the solitude, diving directly into 
 
 ![A single silhouette in front of a red sundown](/assets/images/silhouette-sundown.jpg)
 
-> "Time is the substance from which I am made. Time is a river which carries me along, but I am the river; it is a tiger that devours me, but I am the tiger; it is a fire that consumes me, but I am the fire."
+> Time is the substance from which I am made. Time is a river which carries me along, but I am the river; it is a tiger that devours me, but I am the tiger; it is a fire that consumes me, but I am the fire."
 >
 > <cite>Jorge Luis Borges</cite>
 

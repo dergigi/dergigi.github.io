@@ -50,7 +50,7 @@ In addition to being seemingly inefficient and slow, it is eating up
 computational resources at a mad pace and consumes as much energy as a
 small country.
 
-> "In comparison to modern distributed databases, blockchains are slow,
+> In comparison to modern distributed databases, blockchains are slow,
 > ponderous, unnecessarily redundant and overly paranoid."
 >
 > <cite>[Dhruv Bansal]</cite>
@@ -81,7 +81,7 @@ The name "mining" stems from the proposition that bitcoin has more in
 common with gold and other precious metals than paper money. Satoshi
 made this clear in [one of his posts].
 
-> "In this sense, it's more typical of a precious metal. Instead of the
+> In this sense, it's more typical of a precious metal. Instead of the
 > supply changing to keep the value the same, the supply is
 > predetermined and the value changes."
 >
@@ -238,7 +238,7 @@ concise, easy, elegant explanations and metaphors. [Hugo Nguyen] did a
 great job explaining how proof-of-work links the abstract, digital world
 of bitcoin to our physical world:
 
-> "By attaching energy to a block, we give it "form", allowing it to
+> By attaching energy to a block, we give it "form", allowing it to
 > have real weight & consequences in the physical world."
 >
 > <cite>[Hugo Nguyen]</cite>

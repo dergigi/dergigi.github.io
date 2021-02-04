@@ -46,7 +46,7 @@ polarization, explore the underlying dynamics in more detail, and
 illustrate why an increasing number of people seem to be gravitating
 towards Bitcoin.
 
-> "There are some oddities in the perspective with which we see the
+> There are some oddities in the perspective with which we see the
 > world. The fact that we live at the bottom of a deep gravity well, on
 > the surface of a gas covered planet going around a nuclear fireball 90
 > million miles away and think this to be normal is obviously some
@@ -68,7 +68,7 @@ games, it can only be played if it has rules, certain ideas which are
 internally consistent. Otherwise, it wouldn't be a game; it would be
 chaos.
 
-> "Before any game can be played, the rules have to be established;
+> Before any game can be played, the rules have to be established;
 > before the game can be altered, the rules have to be made manifest.
 > [...] All those who know the rules, and accept them, can play the
 > game --- without fighting over the rules of the game. This makes for
@@ -113,7 +113,7 @@ beginning, it was one node, one piece of software, one person, one set
 of ideas. On 31 October 2008, the Bitcoin whitepaper was published. Two
 months later, on 3 January 2009, the genesis block was mined. 
 
-> "The Times 03/Jan/2009 Chancellor on brink of second bailout
+> The Times 03/Jan/2009 Chancellor on brink of second bailout
 > for banks." 
 >
 > <cite>[Bitcoin's Genesis Block][genesis block]</cite>
@@ -151,7 +151,7 @@ quote the whitepaper. The implication is that *you* are the authority
 and *you* have to verify everything for yourself from scratch. Out of
 this, consensus emerges.
 
-> "Freedom brings men rudely and directly face to face with their own
+> Freedom brings men rudely and directly face to face with their own
 > personal responsibility for their own free actions." 
 >
 > <cite>Frank Meyer, [In Defense of Freedom]</cite>
@@ -211,7 +211,7 @@ certain probability that you are pulled in. Satoshi alluded to this
 multi-dimensional attractiveness in one of his emails to the
 cryptography mailing list.
 
-> "It's very attractive to the libertarian viewpoint if we can explain
+> It's very attractive to the libertarian viewpoint if we can explain
 > it properly. I'm better with code than with words though." 
 >
 > <cite>[Satoshi Nakamoto]</cite>
@@ -238,7 +238,7 @@ focusing on the medium of exchange aspect of Bitcoin. Yet another person
 might think of Bitcoin as a way to automate more complex social
 constructs, focusing on automation of contracts and similar ideas.
 
-> "Nobody can know everything. The complexity of society is irreducible.
+> Nobody can know everything. The complexity of society is irreducible.
 > We cling to mental models that satisfy our thirst for understanding a
 > given phenomenon, and stick to groups who identify with similar
 > narratives."
@@ -272,7 +272,7 @@ align --- not vice-versa. The last ten years have shown that Bitcoin is
 very effective in changing minds. So far, no single mind was
 particularly effective in changing it.
 
-> "So the universe is not quite as you thought it was. You'd better
+> So the universe is not quite as you thought it was. You'd better
 > rearrange your beliefs, then. Because you certainly can't rearrange
 > the universe."
 >  --- [Isaac Asimov]
@@ -287,7 +287,7 @@ you wish to change Bitcoin's set of ideas, not convinced of the futility
 of this endeavor? What if you are downright repulsed by some of its
 ideas?
 
-> "The miracle of physics that I'm talking about here is something that
+> The miracle of physics that I'm talking about here is something that
 > was actually known since the time of Einstein's general relativity;
 > that gravity is not always attractive. Gravity can act
 > repulsively."
@@ -318,7 +318,7 @@ new network or by splitting off from the existing Bitcoin network. Since
 all new projects are inspired by Bitcoin, the set of ideas necessarily
 overlaps; sometimes almost exactly.
 
-> "Tracking narratives is a good way to help people understand that
+> Tracking narratives is a good way to help people understand that
 > there are, in fact, a menu of beliefs competing for their affiliation;
 > [...] Trying to identify where one narrative ends and another begins
 > is a challenging task, as ideas tend to have permeable borders."
@@ -340,7 +340,7 @@ see in Bitcoin and elsewhere. The direct link between holding beliefs
 (ideas) and holding assets (value) is a multiplying factor which can
 result in ever deeper entrenchment. 
 
-> "Everyone knows nowadays that people "have complexes." What is not so
+> Everyone knows nowadays that people "have complexes." What is not so
 > well known, though far more important theoretically, is that complexes
 > can have us." 
 >
@@ -427,7 +427,7 @@ successful ([Schnorr signatures], lightning, [whirlpool], wallets
 supporting [CoinJoins]), these projects might be swallowed by Bitcoin as
 well.
 
-> "And the earth opened her mouth, and swallowed them up, and their
+> And the earth opened her mouth, and swallowed them up, and their
 > houses, and all the men that appertained unto Korah, and all their
 > goods. They, and all that appertained to them, went down alive into
 > the pit, and the earth closed upon them: and they perished from among
@@ -494,7 +494,7 @@ Tribalism and loss-aversion help to explain some of the toxicity between
 competing projects and communities, since falling into any feedback loop
 will taint the world view of anyone captured by it.
 
-> "For one can fall victim to possession if one does not understand
+> For one can fall victim to possession if one does not understand
 > betimes why one is possessed. One should ask oneself for once: Why has
 > this idea taken possession of me? What does that mean in regard
 > to myself?" 

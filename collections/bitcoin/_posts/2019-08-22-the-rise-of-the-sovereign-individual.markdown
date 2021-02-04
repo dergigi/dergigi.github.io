@@ -78,7 +78,7 @@ matter how noble the motivation of building central controls into
 communication or financial systems --- power corrupts, and absolute
 power corrupts absolutely, as the saying goes.
 
-> "Decentralized and private payments are a necessary innovation for a
+> Decentralized and private payments are a necessary innovation for a
 > digital future where we retain our civil liberties and personal
 > freedoms."
 >
@@ -166,7 +166,7 @@ protest. Storing your value in an asset which can not be inflated, can
 not be confiscated, and can not be subject to the whim of politicians
 and bankers is another one.
 
-> "Sats are my safe haven."
+> Sats are my safe haven."
 >
 > <cite>[Matt Odell]</cite>
 

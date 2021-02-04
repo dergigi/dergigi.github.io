@@ -11,7 +11,7 @@ tags:
   - Travel
 ---
 
-> "There are apartments in the soul which have a glorious outlook; from whose windows you can see across the river of death, and into the shining city beyond; but how often are these neglected for the lower ones, which have earthward-looking windows!"
+> There are apartments in the soul which have a glorious outlook; from whose windows you can see across the river of death, and into the shining city beyond; but how often are these neglected for the lower ones, which have earthward-looking windows!"
 >
 > <cite>Henry Ward Beecher</cite>
 
@@ -21,7 +21,7 @@ My view of the world keeps changing as I grow older. It changed more in the last
 
 ![Grand outlook](/assets/images/grand-canyon.jpg#full)
 
-> "If we are to change our world view, images have to change. The artist now has a very important job to do."
+> If we are to change our world view, images have to change. The artist now has a very important job to do."
 >
 > <cite>David Hockney</cite>
 

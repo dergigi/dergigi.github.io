@@ -15,7 +15,7 @@ Words have to be one of the greatest inventions of mankind. Granted, it's a
 stretch to say that the spoken word was invented. The written word, however,
 undoubtedly was.
 
-> "What an astonishing thing a book is. It's a flat object made from a tree with
+> What an astonishing thing a book is. It's a flat object made from a tree with
 > flexible parts on which are imprinted lots of funny dark squiggles. But one
 > glance at it and you're inside the mind of another person, maybe somebody dead
 > for thousands of years. Across the millennia, an author is speaking clearly
@@ -34,7 +34,7 @@ Performing magic, or in this case, properly expressing one's thoughts in
 writing, is *hard*. Writing forces you to structure your thoughts. Structuring
 your thoughts - and by extension, yourself - can be a painful process.
 
-> "Words do not express thoughts very well. They always become a little
+> Words do not express thoughts very well. They always become a little
 > different immediately after they are expressed, a little distorted, a little
 > foolish. And yet it also pleases me and seems right that what is of value and
 > wisdom to one man seems nonsense to another."
@@ -57,7 +57,7 @@ convinced of something. No matter what it is, I'm always intrigued. Don't get me
 wrong, I have strong convictions as well, but I'm more than willing to entertain
 the question: "What if I'm wrong?"
 
-> "The fundamental cause of the trouble is that in the modern world the stupid
+> The fundamental cause of the trouble is that in the modern world the stupid
 > are cocksure while the intelligent are full of doubt."
 >
 > <cite>Bertrand Russell, The Triumph of Stupidity</cite>

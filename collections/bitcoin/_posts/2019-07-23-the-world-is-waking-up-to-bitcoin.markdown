@@ -106,7 +106,7 @@ people use it as a store of value, like gold.
 
 Just in case you missed the important bit:
 
-> "If a cryptocurrency system were to become prevalent throughout the globe,
+> If a cryptocurrency system were to become prevalent throughout the globe,
 > would that diminish or remove the need for a reserve currency in the
 > traditional sense?" "Things like that are possible. But we really haven't seen
 > them. We haven't seen widespread adoption. I mean, Bitcoin is a good example.
@@ -164,7 +164,7 @@ colorful ties and all.
 
 The point made by Rep. Patrick McHenry is worth reiterating:
 
-> "There is no capacity to kill Bitcoin. Even the Chinese with their
+> There is no capacity to kill Bitcoin. Even the Chinese with their
 > firewall and their extreme intervention in their society could not
 > kill Bitcoin. \[...\] My point here is: You can't kill Bitcoin."
 >
@@ -179,7 +179,7 @@ the U.S. House Committee on Financial Services.
 Again, the opening statement made by Rep. Patrick McHenry is worth
 reiterating:
 
-> "The reality is, whether Facebook is involved or not, change is here. Digital
+> The reality is, whether Facebook is involved or not, change is here. Digital
 > currencies exist. Blockchain technology is real. And Facebook's entry in this
 > new world is just confirmation, albeit at scale. The world that Satoshi
 > Nakamoto --- author of the Bitcoin whitepaper --- envisioned, and others are
