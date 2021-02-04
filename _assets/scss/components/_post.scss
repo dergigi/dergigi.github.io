@@ -144,6 +144,13 @@
       padding: 0.2em 1em;
     }
   }
+
+  table + p > small {
+    font-size: 0.6em;
+    line-height: 1em !important;
+    text-align: right;
+    color: $color-darkgrey;
+  }
 }
 
 //----------------------------------------------
