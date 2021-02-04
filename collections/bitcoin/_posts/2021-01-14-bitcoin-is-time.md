@@ -396,16 +396,18 @@ it is set, Bitcoin's time varies for each tick because its internal
 mecha­nism is proba­bilistic. The purpose, however, is all the same:
 keep the music alive, so the dance can continue.
 
-  -------------------------- ------------------------------------------
-  Grand­fa­ther's clock      \~0.5 Hz
-  Metronome                  \~0.67 Hz to \~4.67 Hz
-  Quartz watch               32768 Hz
-  Caesium-133 atomic clock   9,192,631,770 Hz
-  Bitcoin                    1 block (0.00000192901 Hz\* to ∞ Hz\*\*)
-  -------------------------- ------------------------------------------
+| Clock                     | Tick Frequency                          |
+| --------------------------|-----------------------------------------|
+| Grandfather's clock       | \~0.5 Hz                                |
+| Metronome                 | \~0.67 Hz to \~4.67 Hz                  |
+| Quartz watch              | 32768 Hz                                |
+| Caesium-133 atomic clock  | 9,192,631,770 Hz                        |
+| Bitcoin                   | 1 block (0.00000192901 Hz\* to ∞ Hz\*\*)|
 
-\* first block (6 days)\
+<small>
+\* first block (6 days) \\
 \*\* timestamps between blocks can show a negative delta
+</small>
 
 The fact that Bitcoin is a clock is hiding in plain sight. Indeed,
 Satoshi points out that the Bitcoin network as a whole acts as a clock,
