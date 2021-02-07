@@ -23,10 +23,11 @@ the bottom of this page.
 
 ### Interviews and Conversations
 
+  - **2021-01-29** - [Swan Lounge][swanlounge3] on HODL activism and /r/WallStreetBets, hosted by Brekkie
   - **2021-01-28** - [Bitcoin Fixes Double Standards Like /r/WallStreetBets][btcsessions-wsb-yt], hosted by BTC Sessions
   - **2021-01-05** - [TFTC: Citadel Dispatch e0.0.3][tftc-cd3] with Croesus, hosted by Matt odell (also on [youtube][tftc-cd3-yt])
   - **2020-12-25** - [This Week in Bitcoin][twib5] with Brekkie and the Rabbi, hosted by Adam Meister (also on [youtube][twib5-yt])
-  - **2020-12-16** - [Swan Lounge][swanlounge2] ATH party with Brekki, Max, Brandon, American Hodl, Katie, TINA, and more! Hosted by Brady
+  - **2020-12-16** - [Swan Lounge][swanlounge2] ATH party with Max, Brandon, American Hodl, Katie, TINA, and more! Hosted by Brekkie
   - **2020-12-13** - [Wake Up #20][wakeup20] on Bitcoin biology with Brandon Quittem, hosted by Aleks Svetski
   - **2020-12-12** - [The Bitcoin Path][path] hosted by Jon Chenot (also on [youtube][path-yt])
   - **2020-12-11** - [Bitcoin or Bust][path-interview] hosted by Jon Chenot (also on [youtube][path-interview-yt])
@@ -66,6 +67,8 @@ the bottom of this page.
 [tftc-cd3]: https://anchor.fm/tales-from-the-crypt/episodes/Citadel-Dispatch-e0-0-3---Shitcoin-Regrets-and-Pricing-the-World-in-sats-with-dergigi--croesus_btc-eokcsl
 [tftc-cd3-yt]: https://youtu.be/Q7nHeO3VVS0
 [btcsessions-wsb-yt]: https://youtu.be/kL0Yc8ngzS0
+[swanlounge3]: https://youtu.be/da4qiUL-gco
+
 
   ---
 
