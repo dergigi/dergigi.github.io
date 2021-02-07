@@ -23,6 +23,7 @@ the bottom of this page.
 
 ### Interviews and Conversations
 
+  - **2021-02-04** - [Bitcoin Psychology][fwb-psychology] with Coinicarus
   - **2021-01-29** - [Swan Lounge][swanlounge3] on HODL activism and /r/WallStreetBets, hosted by Brekkie
   - **2021-01-28** - [Bitcoin Fixes Double Standards Like /r/WallStreetBets][btcsessions-wsb-yt], hosted by BTC Sessions
   - **2021-01-05** - [TFTC: Citadel Dispatch e0.0.3][tftc-cd3] with Croesus, hosted by Matt odell (also on [youtube][tftc-cd3-yt])
@@ -68,7 +69,7 @@ the bottom of this page.
 [tftc-cd3-yt]: https://youtu.be/Q7nHeO3VVS0
 [btcsessions-wsb-yt]: https://youtu.be/kL0Yc8ngzS0
 [swanlounge3]: https://youtu.be/da4qiUL-gco
-
+[fwb-psychology]: https://anchor.fm/funwithbitcoin/episodes/Interview-with-DerGigi-Bitcoin-Mental-Fuckery-Episode-epu6bq
 
   ---
 
