@@ -23,6 +23,7 @@ the bottom of this page.
 
 ### Interviews and Conversations
 
+  - **2021-02-12** - [My Bitcoin Story][mbs03] on living with a pseudonym, hosted by Dea Rezkitha (also on [youtube][mbs03-yt])
   - **2021-02-04** - [Fun With Bitcoin: Bitcoin and Mental Health][fwb-psychology] with Coinicarus
   - **2021-01-29** - [Swan Lounge][swanlounge3] on HODL activism and /r/WallStreetBets, hosted by Brekkie
   - **2021-01-28** - [Bitcoin Fixes Double Standards Like /r/WallStreetBets][btcsessions-wsb-yt], hosted by BTC Sessions
@@ -70,6 +71,8 @@ the bottom of this page.
 [btcsessions-wsb-yt]: https://youtu.be/kL0Yc8ngzS0
 [swanlounge3]: https://youtu.be/da4qiUL-gco
 [fwb-psychology]: https://anchor.fm/funwithbitcoin/episodes/Interview-with-DerGigi-Bitcoin-Mental-Fuckery-Episode-epu6bq
+[mbs03]: https://anchor.fm/mybitcoinstory/episodes/03-Dergigi-on-living-with-a-pseudonym-eqafua
+[mbs03-yt]: https://youtu.be/ijY42BKc9fw
 
   ---
 
