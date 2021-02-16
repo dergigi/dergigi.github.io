@@ -22,8 +22,8 @@ and popular [twitter threads](#twitter-threads) linked at
 the bottom of this page.
 
 ### Interviews and Conversations
-
   - **2021-02-12** - [My Bitcoin Story][mbs03] on living with a pseudonym, hosted by Dea Rezkitha (also on [youtube][mbs03-yt])
+  - **2021-02-06** - [🇩🇪 German interview][einundzwanzig] on energy consumption and institutional adoption, hosted by Dennis
   - **2021-02-04** - [Fun With Bitcoin: Bitcoin and Mental Health][fwb-psychology] with Coinicarus
   - **2021-01-29** - [Swan Lounge][swanlounge3] on HODL activism and /r/WallStreetBets, hosted by Brekkie
   - **2021-01-28** - [Bitcoin Fixes Double Standards Like /r/WallStreetBets][btcsessions-wsb-yt], hosted by BTC Sessions
@@ -73,6 +73,7 @@ the bottom of this page.
 [fwb-psychology]: https://anchor.fm/funwithbitcoin/episodes/Interview-with-DerGigi-Bitcoin-Mental-Fuckery-Episode-epu6bq
 [mbs03]: https://anchor.fm/mybitcoinstory/episodes/03-Dergigi-on-living-with-a-pseudonym-eqafua
 [mbs03-yt]: https://youtu.be/ijY42BKc9fw
+[einundzwanzig]: https://einundzwanzig.space/podcast/interview-28-bitcoin-und-die-welt-mit-gigi/
 
   ---
 
@@ -96,13 +97,13 @@ the bottom of this page.
   - **2019-06-28** - [This Week in Bitcoin][twib] with BTC Sessions and Steve Barbour, hosted by Adam Meister (also on [youtube][twib-youtube])
   - **2019-06-24** - [Bitcoin Echo Chamber #22][bec22] on the BTC paradigm shift, hosted by Collin
   - **2019-06-23** - [Discussion on privacy][keyvan-privacy] with Matt Odell and Aleksandar Svetski, hosted by Keyvan Davani (also on [youtube][keyvan-privacy-yt])
-  - **2019-06-21** - [Bitcoin im Turm #10][turm10] on Technology, Chapter 3
-  - **2019-06-21** - [Bitcoin im Turm #9][turm9] on Economics, Chapter 2
-  - **2019-06-21** - [Bitcoin im Turm #8][turm8] on Philosophy, Chapter 1
+  - **2019-06-21** - [🇩🇪 Bitcoin im Turm #10][turm10] on Technology, Chapter 3
+  - **2019-06-21** - [🇩🇪 Bitcoin im Turm #9][turm9] on Economics, Chapter 2
+  - **2019-06-21** - [🇩🇪 Bitcoin im Turm #8][turm8] on Philosophy, Chapter 1
   - **2019-06-06** - [POV Crypto #56][pov56] on Bitcoin's Gravity, Monetary Maximalism, Proof-of-Stake and Proof-of-Work with Christian and David
   - **2019-05-23** - [Citizen Bitcoin #38][cb38] on 21lessons.com with Brady
   - **2019-05-08** - [Contrarian Island #7][ci7] on Bitcoin's Gravity
-  - **2019-04-21** - [German interview][keyvan-german] with Keyvan (also on [youtube][keyvan-german])
+  - **2019-04-21** - [🇩🇪 German interview][keyvan-german] with Keyvan (also on [youtube][keyvan-german])
   - **2019-04-19** - [English interview][keyvan-english] with Keyvan Davani (also on [youtube][keyvan-english])
 
 Want to talk? Feel free to [reach out to me][contact].
