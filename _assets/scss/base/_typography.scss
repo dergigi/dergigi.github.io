@@ -13,6 +13,7 @@ body {
 //----------------------------------------------
 body {
   font-size: 100%;
+  text-transform: uppercase;
 
   @media (min-width: $mq-small) {
     font-size: 102.5%;
