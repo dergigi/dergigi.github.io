@@ -42,7 +42,7 @@ deleted without an answer.
 I’m [Gigi][true-names]. Nice to meet you.
 
 I don't know how you ended up here. Maybe you have read some of the [things
-I wrote][medium]. Maybe you have seen some of my [photography] and googled the
+I wrote][bitcoin]. Maybe you have seen some of my [photography] and googled the
 watermark. Maybe we know each other from meatspace and you decided to check up on
 me in cyberspace. It's hard to tell, really.
 
