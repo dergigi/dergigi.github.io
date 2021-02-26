@@ -10,6 +10,7 @@ source: https://medium.com/@dergigi/bitcoins-gravity-e1674ad9f8e4
 redirect_from: /bitcoin/2019-05-01-bitcoins-gravity
 author: Gigi
 category: bitcoin
+favorite: true
 audio: /assets/audio/gravity.ogg
 tags:
  - Bitcoin
