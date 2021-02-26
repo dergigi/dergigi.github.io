@@ -13,5 +13,15 @@ layout: default
     <small>
       * Except for <a href="https://craigwrightisafraud.com/" target="_blank">Craig Wright</a>.
     </small>
+    <hr/>
+  </div>
+  <div class="posts">
+    <div class="grid-xlarge">
+      <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
+        {% for post in site.categories.bitcoin %}
+          {% include post-card.html %}
+        {% endfor %}
+      </div>
+    </div>
   </div>
 </div>
