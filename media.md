@@ -34,6 +34,7 @@ a German-speaking bitcoin podcast that I am still co-hosting from time to time.
   - **2019-04-21** - [🇦🇹 Interview][keyvan-german] with Keyvan (also on [youtube][keyvan-german])
 
 ### English Interviews and Conversations
+  - **2021-02-25** - [Bitcoiner Book Club][bbc-jbp] on Jordan Peterson's Maps of Meaning, with Robert Breedlove, Richard James, and John Vallis
   - **2021-02-12** - [My Bitcoin Story][mbs03] on living with a pseudonym, hosted by Dea Rezkitha (also on [youtube][mbs03-yt])
   - **2021-02-04** - [Fun With Bitcoin: Bitcoin and Mental Health][fwb-psychology] with Coinicarus
   - **2021-01-29** - [Swan Lounge][swanlounge3] on HODL activism and /r/WallStreetBets, hosted by Brekkie
@@ -85,6 +86,8 @@ a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 [mbs03]: https://anchor.fm/mybitcoinstory/episodes/03-Dergigi-on-living-with-a-pseudonym-eqafua
 [mbs03-yt]: https://youtu.be/ijY42BKc9fw
 [einundzwanzig]: https://einundzwanzig.space/podcast/interview-28-bitcoin-und-die-welt-mit-gigi/
+[bbc-jbp]: https://anchor.fm/john-vallis/episodes/Bitcoiner-Book-Club-Explores-Jordan-Petersons-Maps-of-Meaning-er4ggi
+[bbc-jbp-yt]: https://youtu.be/LuZBeXQmewg
 
   ---
 
