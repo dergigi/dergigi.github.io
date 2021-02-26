@@ -27,11 +27,11 @@ In [2019](https://www.blockstream.info/block-height/591121) a couple of
 bitcoiners and I launched [🇩🇪 EINUNDZWANZIG](https://einundzwanzig.space/),
 a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 
-  - **2021-02-06** - [🇩🇪 German interview][einundzwanzig] on energy consumption and institutional adoption, hosted by Dennis
+  - **2021-02-06** - [🇩🇪 Interview][einundzwanzig] on energy consumption and institutional adoption, hosted by Dennis
   - **2019-06-21** - [🇩🇪 Bitcoin im Turm #10][turm10] on Technology, Chapter 3
   - **2019-06-21** - [🇩🇪 Bitcoin im Turm #9][turm9] on Economics, Chapter 2
   - **2019-06-21** - [🇩🇪 Bitcoin im Turm #8][turm8] on Philosophy, Chapter 1
-  - **2019-04-21** - [🇦🇹 German interview][keyvan-german] with Keyvan (also on [youtube][keyvan-german])
+  - **2019-04-21** - [🇦🇹 Interview][keyvan-german] with Keyvan (also on [youtube][keyvan-german])
 
 ### English Interviews and Conversations
   - **2021-02-12** - [My Bitcoin Story][mbs03] on living with a pseudonym, hosted by Dea Rezkitha (also on [youtube][mbs03-yt])
