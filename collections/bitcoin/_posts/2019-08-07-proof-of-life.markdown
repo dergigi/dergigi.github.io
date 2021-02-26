@@ -9,6 +9,7 @@ image: /assets/images/btc07-bitcoin-mitosis.jpg
 source: https://medium.com/@dergigi/fa28fdc002fe
 author: Gigi
 category: bitcoin
+favorite: true
 audio: /assets/audio/proof-of-life.ogg
 tags:
  - Bitcoin

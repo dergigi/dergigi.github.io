@@ -3,15 +3,26 @@ layout: default
 ---
 
 <div class="post__content section-padding">
+  <div class="posts">
+    <div class="grid-xlarge">
+      <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
+        {% for post in site.categories.bitcoin %}
+          {% include post-card.html %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
   <div id="markdown" class="grid">
+    <hr/>
+    <p>
+      Proud host of the <a href="../bitcoin.pdf">Bitcoin Whitepaper</a>.
+    </p>
     <p>
       We are all Satoshi.<sup>*</sup>
+      <br/>
+      <small>
+        * Except for <a href="https://craigwrightisafraud.com/" target="_blank">Craig Wright</a>.
+      </small>
     </p>
-    <p>
-      <a href="../bitcoin.pdf">Bitcoin Whitepaper</a>
-    </p>
-    <small>
-      * Except for <a href="https://craigwrightisafraud.com/" target="_blank">Craig Wright</a>.
-    </small>
   </div>
 </div>

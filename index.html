@@ -9,29 +9,37 @@ layout: default
       Hi, I'm Gigi.
     </p>
     <p>
-      I'm a bitcoiner and Austrian, writing words and
+      I'm a bitcoiner and software engineer, writing
+      <a href="{{ '/bitcoin' | absolute_url }}">words</a> and
       <a href="https://github.com/dergigi">code</a> for Bitcoin. My first
       book, <a href="https://21lessons.com">21 Lessons</a>, is one of the most
-      recommended books among bitcoiners. I launched
-      <a href="{{ '/projects' | absolute_url }}">various projects</a> in the
-      bitcoin space and am currently working on my
-      <a href="https://patreon.com/dergigi">second book</a>.
-      My main focus is on privacy, security, free software, open-source
-      education, and of course: bitcoin.
+      recommended books among bitcoiners. I launched various
+      <a href="{{ '/projects' | absolute_url }}">projects</a> in the
+      bitcoin space and am currently working on my second book,
+      <a href="https://patreon.com/dergigi">21 Ways</a>.
+      My main focus is on privacy, security, free software, and education.
     </p>
     <p>
-      My work is published under a
+      Unless otherwise noted, all my writing is published under a
       <a href="{{ '/translations' | absolute_url }}">cc by-sa</a> license.
+      Remixes and translations are appreciated.
+    <p>
       <br/>
-      Support me:
-      <a href="https://amzn.to/2Wa4qJo">book</a> /
+      You can support me via
+      <a href="https://amzn.to/2Wa4qJo">my book</a> /
       <a href="https://www.patreon.com/dergigi">patreon</a> /
       <a href="https://github.com/sponsors/dergigi">GitHub</a> /
       <a href="{{ '/support' | absolute_url }}">directly</a>.
       <br/>
+      Thank you.
+      <br/>
       🙏🧡
     </p>
     <hr/>
+    <p>
+      Here are some of my selected
+      <a href="{{ '/bitcoin' | absolute_url }}">essays</a>:
+    </p>
   </div>
 </div>
 
@@ -39,7 +47,9 @@ layout: default
   <div class="grid-xlarge">
     <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
       {% for post in site.categories.bitcoin %}
-        {% include post-card.html %}
+        {% if post.favorite == true %}
+          {% include post-card.html %}
+        {% endif %}
       {% endfor %}
     </div>
   </div>

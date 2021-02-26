@@ -1,6 +1,23 @@
 ---
 layout: page
-title: Contact
+title: DerWho?
+---
+
+I am currently working on [my new book][patreon], so I might be harder to reach
+than usual. There is also the fact that my inboxes are overflowing ever since
+the bull began his run.[*][golden-bull]
+
+If you want to reach me, [telegram], twitter, or the mail below is probably your
+best bet. I will do my best to reply in 3-5 days. If I don't please ping me
+again. Note that I will probably not respond if I can't make out what you're up
+to. A simple "hi" or "hey" without any context will be ignored. Also, I'm not
+interested in trading or shitcoinery, so anything along these lines will be
+deleted without an answer.
+
+[telegram]: https://t.me/dergigi
+[patreon]: https://www.patreon.com/dergigi
+[golden-bull]: https://youtu.be/nJeddv1QbeQ
+
 ---
 
 <div style="position: relative;">
@@ -20,29 +37,12 @@ title: Contact
 
 ---
 
-I am currently working on [my new book][patreon], so I might be harder to reach
-than usual. There is also the fact that my inboxes are overflowing ever since
-the bull began his run.[*][golden-bull]
-
-If you want to reach me, [telegram], twitter, or the mail above is probably your
-best bet. I will do my best to reply in 3-5 days. If I don't please ping me
-again. Note that I will probably not respond if I can't make out what you're up
-to. A simple "hi" or "hey" without any context will be ignored. Also, I'm not
-interested in trading or shitcoinery, so anything along these lines will be
-deleted without an answer.
-
-[telegram]: https://t.me/dergigi
-[patreon]: https://www.patreon.com/dergigi
-[golden-bull]: https://youtu.be/nJeddv1QbeQ
-
----
-
-## About me
+## About Me
 
 I’m [Gigi][true-names]. Nice to meet you.
 
 I don't know how you ended up here. Maybe you have read some of the [things
-I wrote][medium]. Maybe you have seen some of my [photography] and googled the
+I wrote][bitcoin]. Maybe you have seen some of my [photography] and googled the
 watermark. Maybe we know each other from meatspace and you decided to check up on
 me in cyberspace. It's hard to tell, really.
 
