@@ -447,7 +447,7 @@ exception. Whether it is politics, sports, iPhone vs Android, or
 pineapple on pizza, people identify with the camp that is closest to
 their ideas and ideals.
 
-While the validity of ideas are sometimes hard to measure, either
+While the validity of ideas is sometimes hard to measure, either
 because their consequences are very indirect (politics) or subjective
 and not truly consequential in the grand scheme of things (pineapple on
 pizza), networks like Bitcoin come with a direct measurement: value.
