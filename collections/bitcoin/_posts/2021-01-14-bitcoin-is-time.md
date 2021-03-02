@@ -895,7 +895,7 @@ indepen­dently agree upon a history of events without central
 coordi­na­tion. He found a way to imple­ment a decen­tralised
 timestamping scheme that (a) doesn't require a time-stamping company or
 server, (b) doesn't require a newspaper or any other physical medium as
-proof, and © can keep the *ticks* more-or-less constant, even when
+proof, and (c) can keep the *ticks* more-or-less constant, even when
 operating in an environ­ment of ever-faster CPU clock times.
 
 Timekeeping requires *causality*, *unpre­dictability*, and
