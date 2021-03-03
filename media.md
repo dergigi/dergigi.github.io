@@ -128,8 +128,10 @@ Want to talk? Feel free to [reach out to me][contact].
 
 ### Other
 
+- **2020-12-23** - Cited in [Forbes][forbes]: The 'Beginning of the End' of Shitcoins
 - **2020-10-24** - German interview: [Gigi im Interview][de-beincrypto]
 
+[forbes]: https://www.forbes.com/sites/billybambrough/2020/12/23/the-beginning-of-the-end-for-ripple-and-xrp-as-coinbase-considers-its-options/
 [de-beincrypto]: https://de.beincrypto.com/gigi-im-interview-es-gibt-noch-viel-mehr-lektionen-zu-lernen/
 
 ### Guest Posts
