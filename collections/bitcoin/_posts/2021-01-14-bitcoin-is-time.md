@@ -376,7 +376,7 @@ seconds and yes to blocks.
 > To wake the morn and sentinel the night,\\
 > To wrong the wronger till he render right;
 >
-> <cite>William Shake­speare, *The Rape of Lucrece* (1709)</cite>
+> <cite>William Shake­speare, *The Rape of Lucrece* (1594)</cite>
 
 All clocks rely on periodic processes, something that we might call a
 "tick." The familiar *tick-tock* of a grand­fa­ther's clock is, in
