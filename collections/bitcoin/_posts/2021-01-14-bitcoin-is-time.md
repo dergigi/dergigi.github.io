@@ -381,7 +381,7 @@ seconds and yes to blocks.
 All clocks rely on periodic processes, something that we might call a
 "tick." The familiar *tick-tock* of a grand­fa­ther's clock is, in
 essence, the same as the molec­ular-atomic buzzing of our modern Quartz
-and Cesium clocks. Something swings --- or oscil­lates --- and we simply
+and Caesium clocks. Something swings --- or oscil­lates --- and we simply
 count these swings until it adds up to a minute or a second.
 
 For large pendulum clocks, these swings are long and easy to see. For
