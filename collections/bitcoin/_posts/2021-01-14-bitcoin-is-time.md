@@ -7,6 +7,7 @@ image: /assets/images/bitcoin-is-time.jpg
 source: https://www.swanbitcoin.com/bitcoin-is-time/
 author: Gigi
 category: bitcoin
+audio: /assets/audio/bitcoin-is-time.ogg
 favorite: true
 tags:
  - Bitcoin
