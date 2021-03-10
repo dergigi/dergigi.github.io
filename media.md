@@ -34,6 +34,7 @@ a German-speaking bitcoin podcast that I am still co-hosting from time to time.
   - **2019-04-21** - [🇦🇹 Interview][keyvan-german] with Keyvan (also on [youtube][keyvan-german])
 
 ### English Interviews and Conversations
+  - **2021-03-09** - [Swan Signal Live #53][ssl53-yt] with John Vallis, hosted by Brady
   - **2021-02-25** - [Bitcoiner Book Club][bbc-jbp] on Jordan Peterson's Maps of Meaning, with Robert Breedlove, Richard James, and John Vallis (also on [youtube][bbc-jbp-yt])
   - **2021-02-12** - [My Bitcoin Story][mbs03] on living with a pseudonym, hosted by Dea Rezkitha (also on [youtube][mbs03-yt])
   - **2021-02-04** - [Fun With Bitcoin: Bitcoin and Mental Health][fwb-psychology] with Coinicarus
@@ -62,6 +63,7 @@ a German-speaking bitcoin podcast that I am still co-hosting from time to time.
   - **2020-05-22** - [This Week in Bitcoin][twib3] with Juan and Guy, hosted by Adam Meister (also on [youtube][twib3-yt])
   - **2020-05-20** - [Swan Signal #11][ss11] with Knut, Brekkie, and Cory, hosted by Brady (also on [youtube][ss11-yt])
 
+[ssl53-yt]: https://youtu.be/c-jaIlpw5Ks
 [cdd1]: https://youtu.be/-l86N576SPM
 [ssl41]: https://youtu.be/j1sFO9HjKn0
 [btcsessions1]: https://youtu.be/75y6laYABsk
