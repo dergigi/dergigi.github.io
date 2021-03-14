@@ -146,7 +146,7 @@ case of gold) of this value, demonetizing these and other assets in the process.
 Again: these are still early days.
 
 
-> We are in the process of repricing the world in sats."
+> We are in the process of repricing the world in sats.
 >
 > <cite>[Bitcoin Tina]</cite>
 
@@ -177,7 +177,7 @@ clearly shown that our money is fundamentally broken.
 > The root problem with conventional currency is all the trust that's
 > required to make it work. The central bank must be trusted not to
 > debase the currency, but the history of fiat currencies is full of
-> breaches of that trust."
+> breaches of that trust.
 >
 > <cite>[Satoshi Nakamoto]</cite>
 
@@ -202,7 +202,7 @@ its purchasing power diminished. Whether your money is sitting under
 your mattress or in your bank account doesn't even matter.
 
 
-> The world has gone mad and the system is broken."
+> The world has gone mad and the system is broken.
 >
 > <cite>[Ray Dalio]</cite>
 
@@ -230,7 +230,7 @@ important. Thus, Bitcoin is the [people's money]: for the people, by the people.
 Not controlled by anyone; auditable and useable by everyone.
 
 
-> Buy land. They ain't making any more of the stuff."
+> Buy land. They ain't making any more of the stuff.
 >
 > <cite>[Will Rogers]</cite>
 
@@ -289,7 +289,7 @@ not touch them. While the Siren's song of shitcoins is hard to resist, [they are
 called shitcoins] for a reason. Bitcoin [can't be copied]. It is a
 [path-dependent-invention] in a winner-takes-all environment.
 
-> There is bitcoin, and then there is shitcoin."
+> There is bitcoin, and then there is shitcoin.
 >
 > <cite>[Warren Davidson]</cite>
 
@@ -319,7 +319,7 @@ years old, bursting into global consciousness just a couple of years
 ago.
 
 > The best time to buy bitcoin was 10 years ago. The second best time
-> is now."
+> is now.
 
 The point is this: don't beat yourself up having a 0% allocation to
 bitcoin. It's not too late to get off zero. Again: it's not too late.
@@ -341,7 +341,7 @@ trading.
 > Bitcoin is a new type of money that is digital and independent of
 > world governments or corporations. It is hard to seize, block, or
 > inflate and easy to send around the world. It is the best money we
-> have ever had. As more people realize this, the price should rise."
+> have ever had. As more people realize this, the price should rise.
 >
 > <cite>[Matt Odell]</cite>
 
@@ -409,7 +409,7 @@ doesn't know what stacking sats means, find a better bitcoin guy. (And if I
 happen to be that guy, please reach out to me.)
 
 > Owning bitcoins is one of the few asymmetric bets that people across
-> the entire world can participate in."
+> the entire world can participate in.
 >
 > <cite>[Vijay Boyapati]</cite>
 
