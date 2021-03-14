@@ -66,7 +66,7 @@ the problem of trusted third parties is resolved by focusing on
 individual nodes. Remove social and political identities, and the
 individual remains. Remove trusted third parties and external sources of
 truth, and the self-sovereign node remains. And just like human dignity
-is involable, the self-validating truth that your Bitcoin node
+is inviolable, the self-validating truth that your Bitcoin node
 represents is inviolable. If an external authority could interfere with
 your node's truth, the whole point of Bitcoin would be moot.
 
