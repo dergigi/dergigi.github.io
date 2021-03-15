@@ -14,6 +14,10 @@ translations:
    url: https://www.blocktrainer.de/uebersetzungen/bitcoin-ist-zeit/
    author: Rene
    author_url: https://twitter.com/da_renn4
+ - language: English (video version)
+   url: https://youtu.be/uX06_g2c9DA
+   author:  Till Musshoff
+   author_url: https://twitter.com/bPGTill
 tags:
  - Bitcoin
  - Writing
