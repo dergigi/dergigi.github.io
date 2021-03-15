@@ -9,6 +9,11 @@ author: Gigi
 category: bitcoin
 audio: /assets/audio/bitcoin-is-time.ogg
 favorite: true
+translations:
+ - language: German
+   url: https://www.blocktrainer.de/uebersetzungen/bitcoin-ist-zeit/
+   author: Rene
+   author_url: https://twitter.com/da_renn4
 tags:
  - Bitcoin
  - Writing
