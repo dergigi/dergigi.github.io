@@ -772,7 +772,7 @@ numbers --- can not be done efficiently.
 
 > Time forks perpet­u­ally toward innumer­able futures.
 >
-> <cite>Jorge Luis Borges, *The Garden of Forking Paths* (1958)</cite>
+> <cite>Jorge Luis Borges, *The Garden of Forking Paths* (1941)</cite>
 
 Finding a valid nonce for a Bitcoin block is a guessing game. It is very
 much like rolling a die, or flipping a coin, or spinning a roulette
