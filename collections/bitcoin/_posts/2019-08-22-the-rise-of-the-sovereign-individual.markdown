@@ -14,6 +14,11 @@ audio: /assets/audio/rise-of-the-sovereign-individual.ogg
 tags:
  - Bitcoin
  - Writing
+translations:
+ - language: Spanish
+   url: https://latambitcoin.medium.com/el-ascenso-del-individuo-soberano-c648499a73e5
+   author: Bitcoin en Español
+   author_url: https://latambitcoin.medium.com/
 ---
 
 Not too long ago, the internet was a fringe phenomenon. Very few people
