@@ -244,7 +244,7 @@ constructs, focusing on automation of contracts and similar ideas.
 > given phenomenon, and stick to groups who identify with similar
 > narratives."
 >
-> <cite> [Dan Held]</cite>
+> <cite>[Dan Held]</cite>
 
 These narratives, these sets of ideas, describe both what Bitcoin
 *actually* is --- at least in part --- and what people *think* it is.
@@ -275,8 +275,8 @@ particularly effective in changing it.
 
 > So the universe is not quite as you thought it was. You'd better
 > rearrange your beliefs, then. Because you certainly can't rearrange
-> the universe."
->  --- [Isaac Asimov]
+> the universe.
+> <cite>[Isaac Asimov]</cite>
 
 To repeat an old TFTC trope: Bitcoin will change us more than we will
 change it, as I have [learned myself].
@@ -291,7 +291,7 @@ ideas?
 > The miracle of physics that I'm talking about here is something that
 > was actually known since the time of Einstein's general relativity;
 > that gravity is not always attractive. Gravity can act
-> repulsively."
+> repulsively.
 >
 > <cite>[Alan Guth]</cite>
 
@@ -322,7 +322,7 @@ overlaps; sometimes almost exactly.
 > Tracking narratives is a good way to help people understand that
 > there are, in fact, a menu of beliefs competing for their affiliation;
 > [...] Trying to identify where one narrative ends and another begins
-> is a challenging task, as ideas tend to have permeable borders."
+> is a challenging task, as ideas tend to have permeable borders.
 >
 > <cite>[Nathaniel Whittemore][crypto-narrative-index]</cite>
 
@@ -343,7 +343,7 @@ result in ever deeper entrenchment. 
 
 > Everyone knows nowadays that people "have complexes." What is not so
 > well known, though far more important theoretically, is that complexes
-> can have us." 
+> can have us.
 >
 > <cite>[Carl Jung]</cite>
 
@@ -432,7 +432,7 @@ well.
 > houses, and all the men that appertained unto Korah, and all their
 > goods. They, and all that appertained to them, went down alive into
 > the pit, and the earth closed upon them: and they perished from among
-> the congregation." 
+> the congregation.
 >
 > <cite>[Book of Numbers]</cite>
 
