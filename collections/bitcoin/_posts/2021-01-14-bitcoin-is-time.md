@@ -12,7 +12,7 @@ favorite: true
 translations:
  - language: Spanish
    url: https://demartino.ar/bitcoin-es-tiempo/
-   author: Leonardo Demartino
+   author: Natalí Attiná & Leonardo Demartino
    author_url: https://twitter.com/_Delek
  - language: German
    url: https://www.blocktrainer.de/uebersetzungen/bitcoin-ist-zeit/
