@@ -35,6 +35,7 @@ a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 
 ### English Interviews and Conversations
   - **2021-03-28** - [Sunday Coding With Uncle Rockstar][scwor] on Memes, Coding, Installing, and Shitcoiners
+  - **2021-03-27** - [Orange Pill #34][op-34-yt] on 'Bitcoin Is Time', hosted by Max and Stacy
   - **2021-03-22** - [What Bitcoin Did #324][wbd324] on Philosophy and Toxicity, hosted by Peter McCormack (also on [youtube][wbd324-yt])
   - **2021-03-09** - [Swan Signal Live #53][ssl53-yt] with John Vallis, hosted by Brady
   - **2021-02-25** - [Bitcoiner Book Club][bbc-jbp] on Jordan Peterson's Maps of Meaning, with Robert Breedlove, Richard James, and John Vallis (also on [youtube][bbc-jbp-yt])
@@ -65,6 +66,7 @@ a German-speaking bitcoin podcast that I am still co-hosting from time to time.
   - **2020-05-22** - [This Week in Bitcoin][twib3] with Juan and Guy, hosted by Adam Meister (also on [youtube][twib3-yt])
   - **2020-05-20** - [Swan Signal #11][ss11] with Knut, Brekkie, and Cory, hosted by Brady (also on [youtube][ss11-yt])
 
+[op-34-yt]: https://youtu.be/3aXNtiSmB3M?t=844
 [scwor-yt]: https://youtu.be/VCyfm4v7_AI
 [wbd324-yt]: https://youtu.be/nomLa6moyUs
 [wbd324]: https://www.whatbitcoindid.com/podcast/bitcoin-philosophy-with-gigi
