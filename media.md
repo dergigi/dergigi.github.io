@@ -21,18 +21,6 @@ my thoughts about Bitcoin. There are also some [guest posts](#guest-posts)
 and popular [twitter threads](#twitter-threads) linked at
 the bottom of this page.
 
-### German Interviews
-
-In [2019](https://www.blockstream.info/block-height/591121) a couple of
-bitcoiners and I launched [🇩🇪 EINUNDZWANZIG](https://einundzwanzig.space/),
-a German-speaking bitcoin podcast that I am still co-hosting from time to time.
-
-  - **2021-02-06** - [🇩🇪 Interview][einundzwanzig] on energy consumption and institutional adoption, hosted by Dennis
-  - **2019-06-21** - [🇩🇪 Bitcoin im Turm #10][turm10] on Technology, Chapter 3
-  - **2019-06-21** - [🇩🇪 Bitcoin im Turm #9][turm9] on Economics, Chapter 2
-  - **2019-06-21** - [🇩🇪 Bitcoin im Turm #8][turm8] on Philosophy, Chapter 1
-  - **2019-04-21** - [🇦🇹 Interview][keyvan-german] with Keyvan (also on [youtube][keyvan-german])
-
 ### English Interviews and Conversations
   - **2021-03-28** - [Sunday Coding With Uncle Rockstar][scwor-yt] on Memes, Coding, Installing, and Shitcoiners
   - **2021-03-27** - [Orange Pill #34][op-34-yt] on 'Bitcoin Is Time', hosted by Max and Stacy
@@ -126,6 +114,19 @@ a German-speaking bitcoin podcast that I am still co-hosting from time to time.
   - **2019-04-19** - [English interview][keyvan-english] with Keyvan Davani (also on [youtube][keyvan-english])
 
 Want to talk? Feel free to [reach out to me][contact].
+
+
+### German Interviews
+
+In [2019](https://www.blockstream.info/block-height/591121) a couple of
+bitcoiners and I launched [🇩🇪 EINUNDZWANZIG](https://einundzwanzig.space/),
+a German-speaking bitcoin podcast that I am still co-hosting from time to time.
+
+  - **2021-02-06** - [🇩🇪 Interview][einundzwanzig] on energy consumption and institutional adoption, hosted by Dennis
+  - **2019-06-21** - [🇩🇪 Bitcoin im Turm #10][turm10] on Technology, Chapter 3
+  - **2019-06-21** - [🇩🇪 Bitcoin im Turm #9][turm9] on Economics, Chapter 2
+  - **2019-06-21** - [🇩🇪 Bitcoin im Turm #8][turm8] on Philosophy, Chapter 1
+  - **2019-04-21** - [🇦🇹 Interview][keyvan-german] with Keyvan (also on [youtube][keyvan-german])
 
 ### Talks
 
