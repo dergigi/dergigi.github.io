@@ -34,7 +34,7 @@ a German-speaking bitcoin podcast that I am still co-hosting from time to time.
   - **2019-04-21** - [🇦🇹 Interview][keyvan-german] with Keyvan (also on [youtube][keyvan-german])
 
 ### English Interviews and Conversations
-  - **2021-03-28** - [Sunday Coding With Uncle Rockstar][scwor] on Memes, Coding, Installing, and Shitcoiners
+  - **2021-03-28** - [Sunday Coding With Uncle Rockstar][scwor-yt] on Memes, Coding, Installing, and Shitcoiners
   - **2021-03-27** - [Orange Pill #34][op-34-yt] on 'Bitcoin Is Time', hosted by Max and Stacy
   - **2021-03-22** - [What Bitcoin Did #324][wbd324] on Philosophy and Toxicity, hosted by Peter McCormack (also on [youtube][wbd324-yt])
   - **2021-03-09** - [Swan Signal Live #53][ssl53-yt] with John Vallis, hosted by Brady
