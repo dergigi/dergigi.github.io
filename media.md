@@ -16,7 +16,7 @@ sometimes stray into other, related topics.
 In the hectic world of today, it is often challenging to find the time to read
 long articles and books, which is why I love podcasts and recorded conversations
 of all kinds. If you do too, here are some
-[conversations](#interviews-and-conversations) and [talks](#talks) where I share
+[conversations](#english-interviews-and-conversations) and [talks](#talks) where I share
 my thoughts about Bitcoin. There are also some [guest posts](#guest-posts)
 and popular [twitter threads](#twitter-threads) linked at
 the bottom of this page.
