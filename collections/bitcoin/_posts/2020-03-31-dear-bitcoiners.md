@@ -43,7 +43,7 @@ might be used to put you in a box. The fact that you are here, reading
 this, thinking about Bitcoin, *caring* about Bitcoin, is enough for me.
 That's why I'm bullish. Bullish on Bitcoin, and bullish on bitcoiners.
 
-> Bullish on bitcoiners."
+> Bullish on bitcoiners.
 >
 > <cite>[Matt Odell]</cite>
 
@@ -73,7 +73,7 @@ We find ourselves at the forefront of a battle of ideas, and in this
 battle, complacency kills.
 
 > Ask not what bitcoin can do for you, but what you can do for
- bitcoin."
+ bitcoin.
 >
 > <cite>[Adam Back]</cite>
 
@@ -102,7 +102,7 @@ curiosity. Yes, the timeline just got accelerated. But this is still a
 marathon, not a sprint. And it might be one of many marathons.
 
 > One of the facts of history is that battles do not stay won. Those
- that matter have to be waged again and again."
+ that matter have to be waged again and again.
 >
 > <cite>[Stanley Knowles]</cite>
 
@@ -127,7 +127,7 @@ obvious to everyone. Before it becomes obvious, however, swathes of
 people will try to distort what Bitcoin is and the ideas it represents.
 
 > Ideas change the world, but they do it by assuming shape, they do it
- by taking concrete form."
+ by taking concrete form.
 >
 > <cite>[Stanley Knowles]</cite>
 
@@ -151,7 +151,7 @@ aiming to become the foot that stomps on your face, forever.
 > They told us not to wish in the first place, not to aspire, not to
 > try; to be quiet, to play nice, to shoot low and aspire not at all.
 > They are always wrong. Follow your dreams. Make your wishes. Create
- the future. And above all, believe in yourself."
+ the future. And above all, believe in yourself.
 >
 > <cite>[Joseph Michael Straczynski]</cite>
 
@@ -170,7 +170,7 @@ potential of this grand idea.
 
 > There is nothing better to be on a shared mission with extraordinary
 > people who can be radically truthful, and radically transparent with
- each other."
+ each other.
 >
 > <cite>[Ray Dalio]</cite>
 
