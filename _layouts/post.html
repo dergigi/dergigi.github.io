@@ -41,6 +41,11 @@ layout: default
             {% include player.html file=absoluteURL %}
             <hr/>
           {% endif %}
+          {% if page.video %}
+            {% capture absoluteVideoURL %}{{ page.video | absolute_url }}{% endcapture %}
+            {% include video.html file=absoluteVideoURL %}
+            <hr/>
+          {% endif %}
           {{content}}
           {% if page.category == 'bitcoin' %}
           {% include translations.html %}
