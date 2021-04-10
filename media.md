@@ -22,7 +22,7 @@ and popular [twitter threads](#twitter-threads) linked at
 the bottom of this page.
 
 ### English Interviews and Conversations
-  - **2021-03-28** - [Swan Lounge: Farewell Gigi 🧡][swan-lounge-farewell] on my departure from Swan, hosted by Brekkie
+  - **2021-04-09** - [Swan Lounge: Farewell Gigi 🧡][swan-lounge-farewell] on my departure from Swan, hosted by Brekkie
   - **2021-03-28** - [Sunday Coding With Uncle Rockstar][scwor-yt] on Memes, Coding, Installing, and Shitcoiners
   - **2021-03-27** - [Orange Pill #34][op-34-yt] on 'Bitcoin Is Time', hosted by Max and Stacy
   - **2021-03-22** - [What Bitcoin Did #324][wbd324] on Philosophy and Toxicity, hosted by Peter McCormack (also on [youtube][wbd324-yt])
