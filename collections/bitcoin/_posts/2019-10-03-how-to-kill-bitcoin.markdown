@@ -8,6 +8,11 @@ image: /assets/images/btc09-kill.jpg
 source: https://medium.com/@dergigi/how-to-kill-bitcoin-25ad1eb4727d
 author: Gigi
 category: bitcoin
+translations:
+ - language: Spanish
+   url: https://koty21.medium.com/c%C3%B3mo-matar-a-bitcoin-d5fb74c263b4
+   author: Koty
+   author_url: https://twitter.com/Koty_Auditore
 tags:
  - Bitcoin
  - Writing
