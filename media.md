@@ -82,7 +82,6 @@ the bottom of this page.
 [fwb-psychology]: https://anchor.fm/funwithbitcoin/episodes/Interview-with-DerGigi-Bitcoin-Mental-Fuckery-Episode-epu6bq
 [mbs03]: https://anchor.fm/mybitcoinstory/episodes/03-Dergigi-on-living-with-a-pseudonym-eqafua
 [mbs03-yt]: https://youtu.be/ijY42BKc9fw
-[einundzwanzig]: https://einundzwanzig.space/podcast/interview-28-bitcoin-und-die-welt-mit-gigi/
 [bbc-jbp]: https://anchor.fm/john-vallis/episodes/Bitcoiner-Book-Club-Explores-Jordan-Petersons-Maps-of-Meaning-er4ggi
 [bbc-jbp-yt]: https://youtu.be/LuZBeXQmewg
 
@@ -122,11 +121,22 @@ In [2019](https://www.blockstream.info/block-height/591121) a couple of
 bitcoiners and I launched [🇩🇪 EINUNDZWANZIG](https://einundzwanzig.space/),
 a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 
+  - **2021-04-10** - [🇩🇪 Dialog with Julian][dialog-ist-tot] on Toxic Maximalism and the Ethics of the Bitcoin Standard (also on [youtube][dialog-yt])
   - **2021-02-06** - [🇩🇪 Interview][einundzwanzig] on energy consumption and institutional adoption, hosted by Dennis
   - **2019-06-21** - [🇩🇪 Bitcoin im Turm #10][turm10] on Technology, Chapter 3
   - **2019-06-21** - [🇩🇪 Bitcoin im Turm #9][turm9] on Economics, Chapter 2
   - **2019-06-21** - [🇩🇪 Bitcoin im Turm #8][turm8] on Philosophy, Chapter 1
   - **2019-04-21** - [🇦🇹 Interview][keyvan-german] with Keyvan (also on [youtube][keyvan-german])
+
+[keyvan-german]: https://youtu.be/ShbOXJ0Qj2c
+[keyvan-pod-de]: https://anchor.fm/keyvandavani/episodes/For-German-speaking-Listeners-Deutsch-sprachiges-Interview-mit-dem-Bitcoiner-Gigi-aufgenommen-am-21--April--2019-e3ss2f
+[turm8]: https://media.zencast.fm/bitcoin-im-turm/episodes/8
+[turm9]: https://media.zencast.fm/bitcoin-im-turm/episodes/9
+[turm10]: https://media.zencast.fm/bitcoin-im-turm/episodes/10
+[einundzwanzig]: https://einundzwanzig.space/podcast/interview-28-bitcoin-und-die-welt-mit-gigi/
+[dialog-ist-tot]: https://julianmerrill.libsyn.com/21-gigi-die-ethik-des-bitcoins
+[dialog-yt]: https://youtu.be/uXgH4RqiC_U
+
 
 ### Talks
 
@@ -225,16 +235,11 @@ public format. Here are some threads that resonated most:
 
 Want to collaborate? Don't hesitate to [reach out][contact]!
 
-[keyvan-german]: https://youtu.be/ShbOXJ0Qj2c
 [keyvan-english]: https://youtu.be/RrW2yhEY39Y
-[keyvan-pod-de]: https://anchor.fm/keyvandavani/episodes/For-German-speaking-Listeners-Deutsch-sprachiges-Interview-mit-dem-Bitcoiner-Gigi-aufgenommen-am-21--April--2019-e3ss2f
 [keyvan-pod-en]: https://anchor.fm/keyvandavani/episodes/Interview-with-Gigi--Bitcoiner--Bitcoin-e3r65v
 [ci7]: http://contrarianisland.buzzsprout.com/265373/1106735-contrarian-island-7-gigi-bitcoin-s-gravity
 [cb38]: https://citizenbitcoin.world/episodes/gigi-21-lessons-from-down-the-bitcoin
 [pov56]: https://medium.com/@TrustlessState/the-gravity-of-monetary-maximalism-cf968dd23268
-[turm8]: https://media.zencast.fm/bitcoin-im-turm/episodes/8
-[turm9]: https://media.zencast.fm/bitcoin-im-turm/episodes/9
-[turm10]: https://media.zencast.fm/bitcoin-im-turm/episodes/10
 [keyvan-privacy]: https://anchor.fm/keyvandavani/episodes/TheTotalConnector11-Interview-with-Aleks-Svetski--Gigi--and-Matt-Odell-on-Bitcoin-e4dq7a
 [keyvan-privacy-yt]: https://www.youtube.com/watch?v=M58cq0bRwng
 [bec22]: https://bitcoinechochamber.com/2019/06/24/paradigm-shift-with-gigi-bec022/
