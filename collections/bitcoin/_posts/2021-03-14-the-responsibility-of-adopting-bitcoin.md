@@ -7,6 +7,7 @@ image: /assets/images/btc21-kings.jpg
 source: https://dergigi.medium.com/the-responsibility-of-adopting-bitcoin-87ff96c6e8ef
 author: Gigi
 category: bitcoin
+audio: /assets/audio/responsibility.ogg
 tags:
  - Bitcoin
  - Writing
