@@ -123,6 +123,7 @@ In [2019](https://www.blockstream.info/block-height/591121) a couple of
 bitcoiners and I launched [🇩🇪 EINUNDZWANZIG](https://einundzwanzig.space/),
 a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 
+  - **2021-04-15** - [🇦🇹 Interview][trending-topics] by Jakob Steinschaden
   - **2021-04-10** - [🇩🇪 Dialog with Julian][dialog-ist-tot] on Toxic Maximalism and the Ethics of the Bitcoin Standard (also on [youtube][dialog-yt])
   - **2021-02-06** - [🇩🇪 Interview][einundzwanzig] on energy consumption and institutional adoption, hosted by Dennis
   - **2019-06-21** - [🇩🇪 Bitcoin im Turm #10][turm10] on Technology, Chapter 3
@@ -138,6 +139,7 @@ a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 [einundzwanzig]: https://einundzwanzig.space/podcast/interview-28-bitcoin-und-die-welt-mit-gigi/
 [dialog-ist-tot]: https://julianmerrill.libsyn.com/21-gigi-die-ethik-des-bitcoins
 [dialog-yt]: https://youtu.be/uXgH4RqiC_U
+[trending-topics]: https://www.trendingtopics.at/bitcoin-maximalist-interview-gigi/
 
 
 ### Talks
