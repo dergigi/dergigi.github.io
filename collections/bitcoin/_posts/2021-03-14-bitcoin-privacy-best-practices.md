@@ -10,6 +10,11 @@ category: bitcoin
 tags:
  - Bitcoin
  - Writing
+translations:
+ - language: Arabic
+   url: https://bitcoinarabic.org/bitcoin-privacy-gigi-odell/
+   author: Arabic Hodl
+   author_url: https://twitter.com/Arabic_hodl
 ---
 
 > There is a sacred realm of privacy for every man and woman where he
