@@ -49,5 +49,5 @@ You don't.
 [DAOs, Democracy and Governance]: https://alcor.org/cryonics/Cryonics2016-4.pdf#page=28
 [How to Really Kill Bitcoin: a talk]: https://www.youtube.com/watch?v=ns_I2LpeAbQ&feature=youtu.be&t=20668
 [Bitcoin is a Decentralized Organism]: https://medium.com/@BrandonQuittem/bitcoin-is-a-decentralized-organism-mycelium-part-1-3-6ec58cdcfaa6
-[TBSRB5: How to Really Kill Bitcoin]: https://saifedean.com/product/5-how-to-really-kill-bitcoin/
+[TBSRB5: How to Really Kill Bitcoin]: {{ site.url }}/assets/files/TBSRB5.pdf
 [Stephan Livera Podcast episode SLP69]: https://stephanlivera.com/episode/69/
