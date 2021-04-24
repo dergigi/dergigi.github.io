@@ -22,6 +22,7 @@ and popular [twitter threads](#twitter-threads) linked at
 the bottom of this page.
 
 ### English Interviews and Conversations
+  - **2021-04-24** - [Bitcoin Matrix #47][matrix47] on 21 Lessons and Bitcoin is Time, hosted by Cedric
   - **2021-04-09** - [Swan Lounge: Farewell Gigi 🧡][swan-lounge-farewell] on my departure from Swan, hosted by Brekkie
   - **2021-03-28** - [Sunday Coding With Uncle Rockstar][scwor-yt] on Memes, Coding, Installing, and Shitcoiners
   - **2021-03-27** - [Orange Pill #34][op-34-yt] on 'Bitcoin Is Time', hosted by Max and Stacy
@@ -55,6 +56,7 @@ the bottom of this page.
   - **2020-05-22** - [This Week in Bitcoin][twib3] with Juan and Guy, hosted by Adam Meister (also on [youtube][twib3-yt])
   - **2020-05-20** - [Swan Signal #11][ss11] with Knut, Brekkie, and Cory, hosted by Brady (also on [youtube][ss11-yt])
 
+[matrix47]: https://bitcoinmatrix.libsyn.com/gigi-bitcoin-is-the-language-of-time-money
 [op-34-yt]: https://youtu.be/3aXNtiSmB3M?t=844
 [scwor-yt]: https://youtu.be/VCyfm4v7_AI
 [wbd324-yt]: https://youtu.be/nomLa6moyUs
