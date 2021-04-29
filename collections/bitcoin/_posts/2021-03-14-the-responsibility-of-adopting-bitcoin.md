@@ -16,6 +16,10 @@ translations:
    url: https://koty21.medium.com/la-responsabilidad-de-adoptar-bitcoin-6841e5c2e010
    author: Koty
    author_url: https://twitter.com/Koty_Auditore
+ - language: French
+   url: https://blog.stackinsat.com/la-responsabilite-de-ladoption-de-bitcoin/
+   author: Sophie Portulan
+   author_url: https://www.linkedin.com/in/sophieportulan/
 ---
 
 
