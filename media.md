@@ -22,7 +22,7 @@ and popular [twitter threads](#twitter-threads) linked at
 the bottom of this page.
 
 ### English Interviews and Conversations
-  - **2021-04-30** - [Swan Lounge][mikhaila] with Mikhaila Peterson and the crew, hosted by Brekkie
+  - **2021-04-30** - [Swan Lounge with Mikhaila Peterson][mikhaila] and the crew, hosted by Brekkie
   - **2021-04-24** - [Bitcoin Matrix #47][matrix47] on 21 Lessons and Bitcoin is Time, hosted by Cedric
   - **2021-04-22** - [Teen Bitcoin #07][teen07] on Anons, Ideas and Time, hosted by Astrid
   - **2021-04-09** - [Swan Lounge: Farewell Gigi 🧡][swan-lounge-farewell] on my departure from Swan, hosted by Brekkie
