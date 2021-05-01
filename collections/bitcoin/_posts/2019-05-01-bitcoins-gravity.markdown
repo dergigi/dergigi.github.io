@@ -276,6 +276,7 @@ particularly effective in changing it.
 > So the universe is not quite as you thought it was. You'd better
 > rearrange your beliefs, then. Because you certainly can't rearrange
 > the universe.
+>
 > <cite>[Isaac Asimov]</cite>
 
 To repeat an old TFTC trope: Bitcoin will change us more than we will
