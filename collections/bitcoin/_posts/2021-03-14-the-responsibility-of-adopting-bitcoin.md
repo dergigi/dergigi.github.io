@@ -66,9 +66,9 @@ signature. Group identity, gender, skin color, age, political or
 religious affiliation --- all are irrelevant in the protocol's eyes. If
 your transaction has a valid signature, Bitcoin will take you seriously.
 No matter if you are a person, a
-[dog](https://twitter.com/labrahodl6/status/1356967447132266498?s=20),
+[dog](https://twitter.com/LABRAHODL9),
 or an [attack
-helicopter](https://twitter.com/PrestonPysh/status/1367263567729352708?s=20).
+helicopter](https://twitter.com/PrestonPysh).
 
 Just like intersectionality is resolved by focusing on the individual,
 the problem of trusted third parties is resolved by focusing on
