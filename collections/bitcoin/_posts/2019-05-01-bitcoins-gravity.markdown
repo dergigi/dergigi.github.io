@@ -28,6 +28,10 @@ translations:
    url: https://bitcoin-translate.it/blog/20200824.php
    author: Italian Satoshi
    author_url: https://twitter.com/italiansatoshi
+ - language: Finnish
+   url: https://medium.com/brandin-kirjasto/bitcoinin-painovoima-e70419cedb77
+   author: Thomas Brand
+   author_url: https://twitter.com/thlbr
 ---
 
 Bitcoin is different things to different people. Whatever it might be to
