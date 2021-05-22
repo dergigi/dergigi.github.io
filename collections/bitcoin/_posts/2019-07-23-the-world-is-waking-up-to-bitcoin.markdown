@@ -8,6 +8,11 @@ image: /assets/images/btc-waking-up.jpg
 source: https://medium.com/bull-bitcoin/the-world-is-waking-up-to-bitcoin-5d532a1188ce
 author: Gigi
 category: bitcoin
+translations:
+ - language: Finnish
+   url: https://medium.com/brandin-kirjasto/maailma-her%C3%A4%C3%A4-bitcoiniin-b9d81df5dc3e
+   author: Thomas Brand
+   author_url: https://twitter.com/thlbr
 tags:
  - Bitcoin
  - Writing
