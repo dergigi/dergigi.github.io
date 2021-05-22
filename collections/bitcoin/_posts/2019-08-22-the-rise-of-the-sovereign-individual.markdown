@@ -19,6 +19,10 @@ translations:
    url: https://latambitcoin.medium.com/el-ascenso-del-individuo-soberano-c648499a73e5
    author: Bitcoin en Español
    author_url: https://latambitcoin.medium.com/
+ - language: Finnish
+   url: https://medium.com/brandin-kirjasto/suvereenin-yksil%C3%B6n-nousu-3f0cca824d59
+   author: Thomas Brand
+   author_url: https://twitter.com/thlbr
 ---
 
 Not too long ago, the internet was a fringe phenomenon. Very few people
