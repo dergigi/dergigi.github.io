@@ -57,7 +57,7 @@ towards Bitcoin.
 > million miles away and think this to be normal is obviously some
 > indication of how skewed our perspective tends to be, but we have done
 > various things over intellectual history to slowly correct some of our
-> misapprehensions." 
+> misapprehensions.
 >
 > <cite>[Douglas Adams]</cite>
 
@@ -79,7 +79,7 @@ chaos.
 > game --- without fighting over the rules of the game. This makes for
 > peace, stability, and potential prosperity --- a good game. The good,
 > however, is the enemy of the better; a more compelling game might
-> always exist." 
+> always exist.
 >
 > <cite>[Maps of Meaning]</cite>
 
@@ -119,7 +119,7 @@ of ideas. On 31 October 2008, the Bitcoin whitepaper was published. Two
 months later, on 3 January 2009, the genesis block was mined. 
 
 > The Times 03/Jan/2009 Chancellor on brink of second bailout
-> for banks." 
+> for banks.
 >
 > <cite>[Bitcoin's Genesis Block][genesis block]</cite>
 
@@ -157,7 +157,7 @@ and *you* have to verify everything for yourself from scratch. Out of
 this, consensus emerges.
 
 > Freedom brings men rudely and directly face to face with their own
-> personal responsibility for their own free actions." 
+> personal responsibility for their own free actions. 
 >
 > <cite>Frank Meyer, [In Defense of Freedom]</cite>
 
@@ -217,7 +217,7 @@ multi-dimensional attractiveness in one of his emails to the
 cryptography mailing list.
 
 > It's very attractive to the libertarian viewpoint if we can explain
-> it properly. I'm better with code than with words though." 
+> it properly. I'm better with code than with words though. 
 >
 > <cite>[Satoshi Nakamoto]</cite>
 
@@ -246,7 +246,7 @@ constructs, focusing on automation of contracts and similar ideas.
 > Nobody can know everything. The complexity of society is irreducible.
 > We cling to mental models that satisfy our thirst for understanding a
 > given phenomenon, and stick to groups who identify with similar
-> narratives."
+> narratives.
 >
 > <cite>[Dan Held]</cite>
 
