@@ -22,6 +22,7 @@ and popular [twitter threads](#twitter-threads) linked at
 the bottom of this page.
 
 ### English Interviews and Conversations
+  - **2021-05-25** - [TFTC: Citadel Dispatch e0.2.3][tftc-cd23] with Gladstein and Croesus, hosted by Matt Odell (also on [youtube][tftc-cd23-yt])
   - **2021-05-05** - [Talking in Bits #18][tib18] on Lightning, Security, and more, hosted by Jose Burgos
   - **2021-04-30** - [Swan Lounge with Mikhaila Peterson][mikhaila] and the crew, hosted by Brekkie
   - **2021-04-24** - [Bitcoin Matrix #47][matrix47] on 21 Lessons and Bitcoin is Time, hosted by Cedric
@@ -36,7 +37,7 @@ the bottom of this page.
   - **2021-02-04** - [Fun With Bitcoin: Bitcoin and Mental Health][fwb-psychology] with Coinicarus
   - **2021-01-29** - [Swan Lounge][swanlounge3] on HODL activism and /r/WallStreetBets, hosted by Brekkie
   - **2021-01-28** - [Bitcoin Fixes Double Standards Like /r/WallStreetBets][btcsessions-wsb-yt], hosted by BTC Sessions
-  - **2021-01-05** - [TFTC: Citadel Dispatch e0.0.3][tftc-cd3] with Croesus, hosted by Matt odell (also on [youtube][tftc-cd3-yt])
+  - **2021-01-05** - [TFTC: Citadel Dispatch e0.0.3][tftc-cd3] with Croesus, hosted by Matt Odell (also on [youtube][tftc-cd3-yt])
   - **2020-12-25** - [This Week in Bitcoin][twib5] with Brekkie and the Rabbi, hosted by Adam Meister (also on [youtube][twib5-yt])
   - **2020-12-16** - [Swan Lounge][swanlounge2] ATH party with Max, Brandon, American Hodl, Katie, TINA, and more! Hosted by Brekkie
   - **2020-12-13** - [Wake Up #20][wakeup20] on Bitcoin biology with Brandon Quittem, hosted by Aleks Svetski
@@ -59,6 +60,8 @@ the bottom of this page.
   - **2020-05-22** - [This Week in Bitcoin][twib3] with Juan and Guy, hosted by Adam Meister (also on [youtube][twib3-yt])
   - **2020-05-20** - [Swan Signal #11][ss11] with Knut, Brekkie, and Cory, hosted by Brady (also on [youtube][ss11-yt])
 
+[tftc-cd23]: https://anchor.fm/tales-from-the-crypt/episodes/Citadel-Dispatch-e0-2-3---the-state-of-bitcoin-with-gladstein--dergigi--and-croesus_btc-e11jm4n
+[tftc-cd23-yt]: https://youtu.be/_kwxQL2ozIQ
 [tib18]: https://anchor.fm/talkinginbits/episodes/Talking-In-Bits--018---Philosophy--Bitcoin-with-Gigi-e108ico
 [mikhaila]: https://youtu.be/pGXbzleZku0
 [matrix47]: https://bitcoinmatrix.libsyn.com/gigi-bitcoin-is-the-language-of-time-money
