@@ -302,15 +302,12 @@ monetary good independent from any central authority, which in turn can
 be used as a store of value - just like gold in the physical world.
 Szabo writes: "The objective, which I argued for vigorously, was to
 create a long term store of value independent of any central authority,
-yet far more secure than traditional gold." \[Footnote: From the bit
-gold  [early incomplete
-whitepaper](https://web.archive.org/web/20140406003811/http://szabo.best.vwh.net/bitgold.html) \[cite\]\]
-Szabo introduces the concept of **unforgeable costly
-\[glossary\]** assets, linking the scarcity of certain goods to the
-costliness of their creation. 
+yet far more secure than traditional gold." [^szabo-whitepaper]
+
+[^szabo-whitepaper]: From the bit gold [early incomplete whitepaper](https://web.archive.org/web/20140406003811/http://szabo.best.vwh.net/bitgold.html) in which Szabo introduces the concept of **unforgeable costly** assets, linking the scarcity of certain goods to the costliness of their creation.
 
 > Precious metals and
-> collectibles[^szabometals] have an
+> collectibles[^szabo-metals] have an
 > unforgeable scarcity due to the costliness of their creation. \[\...\]
 > Thus, it would be very nice if there were a protocol whereby
 > unforgeably costly bits could be created online with minimal
@@ -319,7 +316,7 @@ costliness of their creation. 
 >
 > <cite>[Nick Szabo](https://nakamotoinstitute.org/bit-gold/)</cite>
 
-[^szabometals]: [https://nakamotoinstitute.org/shelling-out/](https://nakamotoinstitute.org/shelling-out/)
+[^szabo-metals]: [https://nakamotoinstitute.org/shelling-out/](https://nakamotoinstitute.org/shelling-out/)
 
 One point that Szabo makes repeatedly is that physical gold has various
 problems and is quite insecure when compared to solutions rooted in
@@ -332,11 +329,11 @@ always intercept it. Even validation is problematic, as an abundance of
 these insufficiencies of gold inevitably lead to centralization in
 vaults and banks, which comes with its own set of problems.
 
-> "Bit gold achieves all the essential properties of gold, while
+> Bit gold achieves all the essential properties of gold, while
 > avoiding the insecurity of gold which has plagued civilization for
-> millenia."\
-> \-- [Nick
-> Szabo](https://web.archive.org/web/20140406003811/http://szabo.best.vwh.net/bitgold.html)
+> millenia.
+>
+> <cite>[Nick Szabo](https://web.archive.org/web/20140406003811/http://szabo.best.vwh.net/bitgold.html)</cite>
 
 The intended purpose of bit gold isn\'t the only thing that will be
 familiar to bitcoiners today. The way the system was supposed to work
