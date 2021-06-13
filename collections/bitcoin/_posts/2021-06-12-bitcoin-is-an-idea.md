@@ -848,7 +848,7 @@ reality is rooted in computation itself.
 > ignoring them. By refusing to think, refusing to change. And that's
 > precisely what our society is doing!
 >
-> Ursula K. Le Guin
+> <cite>Ursula K. Le Guin</cite>
 
 As we can see by examining Bitcoin's pre-history, double-spending and
 digital scarcity aren't easy problems to solve. Satoshi's breakthrough
