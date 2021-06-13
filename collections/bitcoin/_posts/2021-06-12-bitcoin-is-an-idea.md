@@ -92,7 +92,7 @@ which behaves as cash does in the real world. No identity or sign-up
 required, directly exchangeable for goods and services, and virtually
 untraceable. 
 
-Even the IANA \[Footnote: Internet Assigned Number Agency\], a standards
+Even the IANA[^IANA], a standards
 organization responsible for defining HTTP status codes (among other
 things), recognizes the idea of digital cash. We all know the infamous
 404 error code, indicating that a resource can't be found. Few people
@@ -100,6 +100,8 @@ know that there is also a 402 error code, indicating that the resource
 can't be accessed because it requires payment. However, since digital
 cash did not exist at the time, the status code was "reserved for
 future use" and isn't widely used as of today.
+
+[^IANA]: Internet Assigned Number Agency
 
 The cypherpunks focused mainly on the privacy aspect of digital cash.
 Monetary and economic aspects were secondary. They realized that privacy
