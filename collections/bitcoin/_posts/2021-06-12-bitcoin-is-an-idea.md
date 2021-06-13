@@ -238,37 +238,45 @@ was operated by a company that could be shut down.
 
 Originally proposed in 1997, and more formally published as [*Hashcash -
 A Denial of Service
-Counter-Measure*](http://www.hashcash.org/papers/hashcash.pdf) in 2002
-\[[cite](http://www.hashcash.org/papers/hashcash.pdf)\], Hashcash is one
+Counter-Measure*](http://www.hashcash.org/papers/hashcash.pdf) in 2002, Hashcash is one
 of the essential ideas that made Bitcoin possible. While other
-researchers had the idea of *Pricing via Processing* before Adam Back
-([Dwork and Naor,
-1992](https://web.cs.dal.ca/~abrodsky/7301/readings/DwNa93.pdf) \[[cite](https://web.cs.dal.ca/~abrodsky/7301/readings/DwNa93.pdf)\]),
-his paper was referenced by Satoshi in the Bitcoin whitepaper and led to
-what is known as Bitcoin's proof-of-work today. As far as I can tell,
-the term proof-of-work was first introduced in the Hashcash paper.
-\[Footnote: "The hashcash CPU cost-function computes a token which can
-be used as a proof-of-work."\] 
+researchers had the idea of *Pricing via Processing*[^DwNa93] before Adam Back
+(Dwork and Naor, 1992), his paper was referenced by Satoshi in the Bitcoin
+whitepaper and led to what is known as Bitcoin's proof-of-work today. As far as
+I can tell, the term proof-of-work was first introduced in the Hashcash
+paper.[^hashcash-quote]
 
-Hal Finney, one of the legends of the early Bitcoin days, beautifully
-and succinctly [described
-hashcash](https://nakamotoinstitute.org/finney/rpow/theory.html) as
-follows: "Hashcash is a textual string in a particular format which has
-a special property: when run through the SHA-1 hash algorithm the result
-has the first N of its initial bits equal to zero, where N is typically
-around 20-30. The terminology used for hashcash describes the number of
-leading zero bits as the size of its "collision". Because of SHA-1's
-properties, the only way to find a string with a large collision size is
-by exhaustive search: trying one variation after another, until you get
-lucky." \[cite: https://nakamotoinstitute.org/finney/rpow/theory.html\]
+[^hashcash-quote]: "The hashcash CPU cost-function computes a token which can be used as a proof-of-work." [http://www.hashcash.org/papers/hashcash.pdf](http://www.hashcash.org/papers/hashcash.pdf)
 
-For example, the SHA1 hash of the hashcash
-string **1:20:040806:foo::65f460d0726f420d:13a6b8** produces a string
-with five leading zeros: 00000f91d51a9c213f9b7420c35c62b5e818c23e
-\[Footnote: You can try this yourself using various online tools (e.g. 
-[DuckDuckGo](https://duckduckgo.com/?q=sha1+hash+1%3A20%3A040806%3Afoo%3A%3A65f460d0726f420d%3A13a6b8) \[LINK\])
-or by typing the following into a command line: \`echo -n
-1:20:040806:foo::65f460d0726f420d:13a6b8 \| sha1sum\`\]
+[^DwNa93]: Dwork and Naor, 1992, *Pricing via Processing* ([PDF][DwNa93-pdf])
+[DwNa93-pdf]: https://web.cs.dal.ca/~abrodsky/7301/readings/DwNa93.pdf
+
+Hal Finney, one of the legends of the early Bitcoin days, beautifully and
+succinctly described hashcash as follows: "Hashcash is a textual string in a
+particular format which has a special property: when run through the SHA-1 hash
+algorithm the result has the first N of its initial bits equal to zero, where N
+is typically around 20-30. The terminology used for hashcash describes the
+number of leading zero bits as the size of its 'collision'. Because of SHA-1's
+properties, the only way to find a string with a large collision size is by
+exhaustive search: trying one variation after another, until you get
+lucky."[^rpow-theory]
+
+[^rpow-theory]: Hal Finney, [RPOW Theory][rpow-theory]
+[rpow-theory]: https://nakamotoinstitute.org/finney/rpow/theory.html
+
+For example, the SHA1 hash of the hashcash string 
+
+```
+1:20:040806:foo::65f460d0726f420d:13a6b8
+```
+
+produces a string with five leading zeros: [^hashcash-tools]
+
+```
+00000f91d51a9c213f9b7420c35c62b5e818c23e
+```
+
+[^hashcash-tools]: You can try this yourself using various online tools (e.g. [DuckDuckGo](https://duckduckgo.com/?q=sha1+hash+1%3A20%3A040806%3Afoo%3A%3A65f460d0726f420d%3A13a6b8)) or by typing the following into a command line: `echo -n 1:20:040806:foo::65f460d0726f420d:13a6b8 | sha1sum`
 
 The leading number of zeros in a hashed hashcash string indicates how
 valuable the hashcash string is. Because there is no other way than
