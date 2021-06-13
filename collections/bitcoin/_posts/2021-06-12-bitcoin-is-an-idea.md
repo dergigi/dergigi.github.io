@@ -188,7 +188,7 @@ Adleman, 1978). Without these ideas, Bitcoin couldn't exist.
 [rsa1978-acm]: https://dl.acm.org/doi/abs/10.1145/359340.359342
 [rsa1978-pdf]: https://apps.dtic.mil/sti/pdfs/ADA606588.pdf
 
-{% include image.html name="prehistory.png" %}
+{% include image.html name="prehistory.png" caption="Satoshi's value-add was in the aggregation, distillation, and combination of technologies." %}
 
 Various digital cash systems have been developed before Bitcoin. All of
 them failed eventually, and all for similar reasons. The following are
