@@ -290,8 +290,7 @@ postage stamp via hashcash could be its main use case. While fighting
 e-mail spam seemed to be on the top of his mind, he also proposed that
 it could be used as digital cash, going as far as sketching out
 a [migration path](http://www.cypherspace.org/hashcash/) that could lead
-to its integration in Chaum's ecash
-\[[cite](http://www.cypherspace.org/hashcash/)\]. While Bitcoin's
+to its integration in Chaum's ecash. While Bitcoin's
 proof-of-work algorithm differs slightly from Hashcash's (using
 double-SHA256 instead of SHA1, for example) - the idea remains the same:
 computing a hash can't be done without flipping bits, which in turn
@@ -310,13 +309,11 @@ applied to currencies before Satoshi used it in Bitcoin.
 ### Bit gold (Nick Szabo, 1998)
 
 Building upon the work of Adam Back and Hal Finney, "bit gold" can be
-described as a direct predecessor to "bit coin" \[Footnote: In some of
-his very early writings, e.g.
-this [README](https://github.com/kyuupichan/bitcoin-0.01) file, Satoshi
-wrote Bitcoin as "BitCoin", indicating that it was meant to be
-understood as two separate words.\]. While the system was never
+described as a direct predecessor to "bit coin."[^bit-coin] While the system was never
 implemented, the way Szabo envisioned it to work in theory is remarkably
 close to the way Bitcoin works in actuality.
+
+[^bit-coin]: In some of his very early writings, e.g. this [README](https://github.com/kyuupichan/bitcoin-0.01) file, Satoshi wrote Bitcoin as "BitCoin", indicating that it was meant to be understood as two separate words.
 
 The purpose of bit gold, as the name implies, was to create a digital
 monetary good independent from any central authority, which in turn can
