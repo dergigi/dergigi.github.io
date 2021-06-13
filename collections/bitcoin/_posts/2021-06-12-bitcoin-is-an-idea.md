@@ -156,7 +156,7 @@ process. The idea, however, wasn't conceived at Bitcoin's birth: it
 was conceived by thinkers and tinkerers of the electronic age, multiple
 decades before Satoshi Nakamoto entered the scene.
 
-## History of Digital Cash {#History-of-Digital-Cash}
+## History of Digital Cash
 
 > A lot of people automatically dismiss e-currency as a lost cause
 > because of all the companies that failed since the 1990's.
@@ -198,7 +198,7 @@ particularly interesting in the context of Bitcoin:
 Let's take a closer look at these systems, see what they brought to the
 table, and explore why they failed.
 
-### Ecash (David Chaum, 1982) {#Ecash-(David-Chaum,-1982)}
+### Ecash (David Chaum, 1982)
 
 Ecash utilized digital signatures to prove ownership, an idea that is
 still used in Bitcoin today. Proposed by David Chaum in 1982, it was
@@ -212,7 +212,7 @@ technologically interesting, it wasn't a monetary innovation and
 ultimately failed because it was operated by a centralized
 entity: *DigiCash Inc.*, the company founded by Chaum.
 
-### E-gold (Douglas Jackson and Barry Downey, 1996) {#E-gold-(Douglas-Jackson-and-Barry-Downey,-1996)}
+### E-gold (Douglas Jackson and Barry Downey, 1996)
 
 E-gold wasn't particularly ground-breaking cryptographically, but it
 was one of the first digital currencies that gained traction. Although
@@ -228,7 +228,7 @@ lawsuit claiming that the company was running an unlicensed money
 transmitting business. In the end, the e-cash project failed because it
 was operated by a company that could be shut down.
 
-### Hashcash (Adam Back, 1997) {#Hashcash-(Adam-Back,-1997)}
+### Hashcash (Adam Back, 1997)
 
 Originally proposed in 1997, and more formally published as [*Hashcash -
 A Denial of Service
@@ -293,7 +293,7 @@ Rubik's Cubes: hard to solve, easy to check. While various Hashcash
 implementations were used to prevent spam, the concept wasn't widely
 applied to currencies before Satoshi used it in Bitcoin.
 
-### Bit gold (Nick Szabo, 1998) {#Bit-gold-(Nick-Szabo,-1998)}
+### Bit gold (Nick Szabo, 1998)
 
 Building upon the work of Adam Back and Hal Finney, "bit gold" can be
 described as a direct predecessor to "bit coin" \[Footnote: In some of
