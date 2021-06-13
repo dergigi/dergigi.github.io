@@ -102,6 +102,7 @@ the bottom of this page.
 
   - **2020-05-11** - [Celebrating the Third Bitcoin Halving][define-your-moon]: Define your Moon with BitcoinTina and David Bailey hosted by Bitcoin Magazine
   - **2020-05-11** - [Panel Discussion][vob-panel] at the Value of Bitcoin Conference with Knut, Nik, Conner, Katie, and Max, hosted by John Vallis
+  - **2020-04-16** - [What is Real #2][wir2] on the Nature of Reality, hosted by Chaz (also on [youtube][wir2-yt])
   - **2020-04-15** - [Al's Lacrosse][als] on 21 Lessons, biology, complexity theatre, and PoW, hosted by Dirtbag Al
   - **2020-04-09** - [Once Bitten #26][once-bitten26] on privacy and the difference between the legacy and the Bitcoin world, hosted by Daniel Prince
   - **2020-03-14** - [Swan Signal #1][ss1] with Guy, Yan, Hass, John, and Cory on the current state of the world and Bitcoin, hosted by Brady ([transcript][ss1-txt])
@@ -124,6 +125,9 @@ the bottom of this page.
   - **2019-05-23** - [Citizen Bitcoin #38][cb38] on 21lessons.com with Brady
   - **2019-05-08** - [Contrarian Island #7][ci7] on Bitcoin's Gravity
   - **2019-04-19** - [English interview][keyvan-english] with Keyvan Davani (also on [youtube][keyvan-english])
+
+[wir2]: https://anchor.fm/whatisreal/episodes/Gigi-Questions-Reality---WiR002-e120v63
+[wir2-yt]: https://youtu.be/8ytMsyRAk5s
 
 Want to talk? Feel free to [reach out to me][contact].
 
