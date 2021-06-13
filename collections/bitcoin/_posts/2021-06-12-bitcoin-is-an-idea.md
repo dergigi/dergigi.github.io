@@ -36,8 +36,8 @@ scheme --- completely missing the profound change it will continue to
 have on society --- it becomes more obvious every day that it won\'t go
 away.
 
-"Ideas, unlike solid structures, do not perish,\" Alan Moore reminds us.
-\"They remain immortal, immaterial and everywhere, like all Divine
+"Ideas, unlike solid structures, do not perish," Alan Moore reminds us.
+"They remain immortal, immaterial and everywhere, like all Divine
 things." 
 
 On this fateful night in 2008, Satoshi let the genie out of the bottle.
@@ -78,13 +78,13 @@ list.
 As is apparent by studying their writings, the cypherpunks cared a great
 deal about the idea of digital cash. In 1993, Eric Hughes discussed the
 idea of digital cash, its relation to privacy, and its importance for a
-free society in *A Cypherpunk\'s Manifesto*: \"Since we desire privacy,
+free society in *A Cypherpunk\'s Manifesto*: "Since we desire privacy,
 we must ensure that each party to a transaction have knowledge only of
 that which is directly necessary for that transaction. Since any
 information can be spoken of, we must ensure that we reveal as little as
 possible. In most cases personal identity is not salient. When I
 purchase a magazine at a store and hand cash to the clerk, there is no
-need to know who I am.\"
+need to know who I am."
 
 The idea of digital cash (or electronic cash, as Satoshi chose to call
 it in the Bitcoin whitepaper) is to have something in the digital realm
@@ -98,8 +98,8 @@ things), recognizes the idea of digital cash. We all know the infamous
 404 error code, indicating that a resource can\'t be found. Few people
 know that there is also a 402 error code, indicating that the resource
 can\'t be accessed because it requires payment. However, since digital
-cash did not exist at the time, the status code was \"reserved for
-future use\" and isn\'t widely used as of today.
+cash did not exist at the time, the status code was "reserved for
+future use" and isn\'t widely used as of today.
 
 The cypherpunks focused mainly on the privacy aspect of digital cash.
 Monetary and economic aspects were secondary. They realized that privacy
@@ -109,11 +109,11 @@ stagnation, since new and controversial ideas won\'t be allowed to
 flourish. No matter what freedoms you think you have, in the end,
 surveillance renders all other freedoms useless.
 
-> \"Therefore, privacy in an open society requires anonymous transaction
+> "Therefore, privacy in an open society requires anonymous transaction
 > systems. Until now, cash has been the primary such system. An
 > anonymous transaction system is not a secret transaction system. An
 > anonymous system empowers individuals to reveal their identity when
-> desired and only when desired; this is the essence of privacy.\"\
+> desired and only when desired; this is the essence of privacy."\
 > \-- Eric Hughes, A Cypherpunk\'s Manifesto
 
 While Bitcoin is a breakthrough in many ways, all the *technical* parts
@@ -137,12 +137,12 @@ and secure the system.
 
 The cypherpunks were well aware that even if the base technology exists
 in theory, some things simply need time to develop. In 1992, Timothy May
-wrote in *The Crypto Anarchist Manifesto*: \"The technology for this
+wrote in *The Crypto Anarchist Manifesto*: "The technology for this
 \[\...\] has existed in theory for the past decade. \[\...\] But only
 recently have computer networks and personal computers attained
 sufficient speed to make the ideas practically realizable. And the next
 ten years will bring enough additional speed to make the ideas
-economically feasible and essentially unstoppable.\"
+economically feasible and essentially unstoppable."
 
 While I do believe that Bitcoin (the network) is essentially unstoppable
 already, Bitcoin the *idea* is truly unstoppable. After all, as Alan
@@ -156,11 +156,12 @@ process. The idea, however, wasn\'t conceived at Bitcoin\'s birth: it
 was conceived by thinkers and tinkerers of the electronic age, multiple
 decades before Satoshi Nakamoto entered the scene.
 
-### History of Digital Cash {#History-of-Digital-Cash}
+## History of Digital Cash {#History-of-Digital-Cash}
 
-> \"A lot of people automatically dismiss e-currency as a lost cause
-> because of all the companies that failed since the 1990\'s.\"\
-> \-- Satoshi Nakamoto
+> A lot of people automatically dismiss e-currency as a lost cause
+> because of all the companies that failed since the 1990\'s.
+>
+> <cite>Satoshi Nakamoto</cite>
 
 Bitcoin\'s pre-history is as long as it is fascinating. Satoshi was able
 to build upon various technologies and protocols, some of which go back
@@ -190,7 +191,7 @@ particularly interesting in the context of Bitcoin:
 Let\'s take a closer look at these systems, see what they brought to the
 table, and explore why they failed.
 
-#### Ecash (David Chaum, 1982) {#Ecash-(David-Chaum,-1982)}
+### Ecash (David Chaum, 1982) {#Ecash-(David-Chaum,-1982)}
 
 Ecash utilized digital signatures to prove ownership, an idea that is
 still used in Bitcoin today. Proposed by David Chaum in 1982, it was
@@ -204,7 +205,7 @@ technologically interesting, it wasn\'t a monetary innovation and
 ultimately failed because it was operated by a centralized
 entity: *DigiCash Inc.*, the company founded by Chaum.
 
-#### E-gold (Douglas Jackson and Barry Downey, 1996) {#E-gold-(Douglas-Jackson-and-Barry-Downey,-1996)}
+### E-gold (Douglas Jackson and Barry Downey, 1996) {#E-gold-(Douglas-Jackson-and-Barry-Downey,-1996)}
 
 E-gold wasn\'t particularly ground-breaking cryptographically, but it
 was one of the first digital currencies that gained traction. Although
@@ -220,7 +221,7 @@ lawsuit claiming that the company was running an unlicensed money
 transmitting business. In the end, the e-cash project failed because it
 was operated by a company that could be shut down.
 
-#### Hashcash (Adam Back, 1997) {#Hashcash-(Adam-Back,-1997)}
+### Hashcash (Adam Back, 1997) {#Hashcash-(Adam-Back,-1997)}
 
 Originally proposed in 1997, and more formally published as [*Hashcash -
 A Denial of Service
@@ -233,20 +234,20 @@ researchers had the idea of *Pricing via Processing* before Adam Back
 his paper was referenced by Satoshi in the Bitcoin whitepaper and led to
 what is known as Bitcoin\'s proof-of-work today. As far as I can tell,
 the term proof-of-work was first introduced in the Hashcash paper.
-\[Footnote: \"The hashcash CPU cost-function computes a token which can
-be used as a proof-of-work.\"\] 
+\[Footnote: "The hashcash CPU cost-function computes a token which can
+be used as a proof-of-work."\] 
 
 Hal Finney, one of the legends of the early Bitcoin days, beautifully
 and succinctly [described
 hashcash](https://nakamotoinstitute.org/finney/rpow/theory.html) as
-follows: \"Hashcash is a textual string in a particular format which has
+follows: "Hashcash is a textual string in a particular format which has
 a special property: when run through the SHA-1 hash algorithm the result
 has the first N of its initial bits equal to zero, where N is typically
 around 20-30. The terminology used for hashcash describes the number of
-leading zero bits as the size of its \"collision\". Because of SHA-1\'s
+leading zero bits as the size of its "collision". Because of SHA-1\'s
 properties, the only way to find a string with a large collision size is
 by exhaustive search: trying one variation after another, until you get
-lucky.\" \[cite: https://nakamotoinstitute.org/finney/rpow/theory.html\]
+lucky." \[cite: https://nakamotoinstitute.org/finney/rpow/theory.html\]
 
 For example, the SHA1 hash of the hashcash
 string **1:20:040806:foo::65f460d0726f420d:13a6b8** produces a string
@@ -285,13 +286,13 @@ Rubik\'s Cubes: hard to solve, easy to check. While various Hashcash
 implementations were used to prevent spam, the concept wasn\'t widely
 applied to currencies before Satoshi used it in Bitcoin.
 
-#### Bit gold (Nick Szabo, 1998) {#Bit-gold-(Nick-Szabo,-1998)}
+### Bit gold (Nick Szabo, 1998) {#Bit-gold-(Nick-Szabo,-1998)}
 
-Building upon the work of Adam Back and Hal Finney, \"bit gold\" can be
-described as a direct predecessor to \"bit coin\" \[Footnote: In some of
+Building upon the work of Adam Back and Hal Finney, "bit gold" can be
+described as a direct predecessor to "bit coin" \[Footnote: In some of
 his very early writings, e.g.
 this [README](https://github.com/kyuupichan/bitcoin-0.01) file, Satoshi
-wrote Bitcoin as \"BitCoin\", indicating that it was meant to be
+wrote Bitcoin as "BitCoin", indicating that it was meant to be
 understood as two separate words.\]. While the system was never
 implemented, the way Szabo envisioned it to work in theory is remarkably
 close to the way Bitcoin works in actuality.
@@ -299,23 +300,26 @@ close to the way Bitcoin works in actuality.
 The purpose of bit gold, as the name implies, was to create a digital
 monetary good independent from any central authority, which in turn can
 be used as a store of value - just like gold in the physical world.
-Szabo writes: \"The objective, which I argued for vigorously, was to
+Szabo writes: "The objective, which I argued for vigorously, was to
 create a long term store of value independent of any central authority,
-yet far more secure than traditional gold.\" \[Footnote: From the bit
+yet far more secure than traditional gold." \[Footnote: From the bit
 gold  [early incomplete
 whitepaper](https://web.archive.org/web/20140406003811/http://szabo.best.vwh.net/bitgold.html) \[cite\]\]
 Szabo introduces the concept of **unforgeable costly
 \[glossary\]** assets, linking the scarcity of certain goods to the
 costliness of their creation. 
 
-> \"[Precious metals and
-> collectibles](https://nakamotoinstitute.org/shelling-out/) have an
+> Precious metals and
+> collectibles[^szabometals] have an
 > unforgeable scarcity due to the costliness of their creation. \[\...\]
 > Thus, it would be very nice if there were a protocol whereby
 > unforgeably costly bits could be created online with minimal
 > dependence on trusted third parties, and then securely stored,
-> transferred, and assayed with similar minimal trust.\"\
-> \-- [Nick Szabo](https://nakamotoinstitute.org/bit-gold/)
+> transferred, and assayed with similar minimal trust.
+>
+> <cite>[Nick Szabo](https://nakamotoinstitute.org/bit-gold/)</cite>
+
+[^szabometals]: [https://nakamotoinstitute.org/shelling-out/](https://nakamotoinstitute.org/shelling-out/)
 
 One point that Szabo makes repeatedly is that physical gold has various
 problems and is quite insecure when compared to solutions rooted in
@@ -324,13 +328,13 @@ walls that protect it. And in the end, someone can always break in and
 take it. The same goes for transportation. You can\'t send it securely
 without extraordinary effort - and no matter your effort, someone could
 always intercept it. Even validation is problematic, as an abundance of
-\"gold\" bars made predominantly of lead or tungsten attest. Over time,
+"gold" bars made predominantly of lead or tungsten attest. Over time,
 these insufficiencies of gold inevitably lead to centralization in
 vaults and banks, which comes with its own set of problems.
 
-> \"Bit gold achieves all the essential properties of gold, while
+> "Bit gold achieves all the essential properties of gold, while
 > avoiding the insecurity of gold which has plagued civilization for
-> millenia.\"\
+> millenia."\
 > \-- [Nick
 > Szabo](https://web.archive.org/web/20140406003811/http://szabo.best.vwh.net/bitgold.html)
 
@@ -342,7 +346,7 @@ but the basic idea is eerily similar.
 The following seven steps are taken directly from the bit gold paper and
 outline how the system would operate:
 
-1.  A public string of bits, the \"challenge string,\" is created (see
+1.  A public string of bits, the "challenge string," is created (see
     step 5).
 2.  Alice on her computer generates the proof of work string from the
     challenge bits using a benchmark function.
@@ -377,11 +381,11 @@ and exploring these functions, trying to formulate mathematical proofs
 that every computation will take at least a certain amount of time no
 matter what computer architecture is used. However, since computers get
 faster all the time, he remarked that finding such a function will be
-difficult: \"A potential big problem remains: \[\...\] The world lacks a
-cryptanalytically stable problem.\"
+difficult: "A potential big problem remains: \[\...\] The world lacks a
+cryptanalytically stable problem."
 
 The lack of a stable benchmark function leads to a multitude of
-problems: older \"coins\" created by users would have a different
+problems: older "coins" created by users would have a different
 costliness than newer ones since computers get faster as technology
 progresses. Thus, two different coins - or strings of bit gold, as Szabo
 called them - would not have the same value. If Moore\'s Law is any
@@ -406,11 +410,11 @@ was one of two micropayment schemes proposed by Ronald L. Rivest and Adi
 Shamir (the R and S in RSA). The second scheme was called PayWord
 \[[cite](https://people.csail.mit.edu/rivest/RivestShamir-mpay.pdf)\].
 Both focused on efficient payments of very small amounts, extending
-previous works such as \"Millicent\" by Glassman et al.
+previous works such as "Millicent" by Glassman et al.
 \[[cite](http://www.cdk5.net/security/Ed3/Millicent.pdf)\] Again the
 idea is to use public-key cryptography and hashes in a clever way to
-produce coins: \"A coin is a bit-string whose validity can be easily
-checked by anyone, but which is hard to produce.\"\]
+produce coins: "A coin is a bit-string whose validity can be easily
+checked by anyone, but which is hard to produce."\]
 
 ### b-money (Wei Dai, 1998) {#b-money-(Wei-Dai,-1998)}
 
@@ -420,10 +424,10 @@ While Bitcoin is a working implementation of the vision that b-money
 outlines, it seems that Satoshi was unaware of b-money while coming up
 with the core design of Bitcoin. As Wei Dai wrote [in a
 response](https://www.lesswrong.com/posts/ijr8rsyvJci2edxot/making-money-with-bitcoin#hbEu9ue9eymNzaF2J) to
-a LessWrong article: \"my understanding is that the creator of Bitcoin
+a LessWrong article: "my understanding is that the creator of Bitcoin
 \[\...\] didn\'t even read my article before reinventing the idea
 himself. He learned about it afterward and credited me in his paper. So
-my connection with the project is quite limited.\" In 2013, Adam
+my connection with the project is quite limited." In 2013, Adam
 Back [commented on
 this](https://www.gwern.net/docs/www/bitcointalk.org/04fae2d16e18c40dafc07e98795313c10e6865ae.html#msg1873483),
 mentioning that he introduced Satoshi to Wei Dai\'s b-money after
@@ -431,11 +435,11 @@ Satoshi reached out to him.
 
 In his proposal, Dai is very outspoken regarding the motivation of his
 system. Citing Tim May\'s ideas around crypto-anarchy, he writes that
-\"in a crypto-anarchy the government is not temporarily destroyed but
+"in a crypto-anarchy the government is not temporarily destroyed but
 permanently forbidden and permanently unnecessary. It\'s a community
 where the threat of violence is impotent because violence is impossible,
 and violence is impossible because its participants cannot be linked to
-their true names or physical locations.\"
+their true names or physical locations."
 
 Dai goes on to describe a system where every participant maintains a
 separate database of how much money belongs to each user. Users are
@@ -455,13 +459,13 @@ function:
 
 While b-money solves many of the problems that are inherent to
 electronic money, the problem described by Szabo in bit gold remains.
-Dai mentions this in his proposal as follows: \"One of the more
+Dai mentions this in his proposal as follows: "One of the more
 problematic parts in the b-money protocol is money creation. This part
 of the protocol requires that all of the account keepers decide and
 agree on the cost of particular computations. Unfortunately because
 computing technology tends to advance rapidly and not always publicly,
 this information may be unavailable, inaccurate, or outdated, all of
-which would cause serious problems for the protocol.\"
+which would cause serious problems for the protocol."
 
 Dai proposes a solution to this problem by describing a sub-protocol
 that is solely responsible for money creation. Participants would
@@ -492,22 +496,22 @@ which takes a proof-of-work string as generated by the Hashcash software
 invented by Adam Back. This string is signed by the user\'s private key
 and subsequently registered by an RPOW server, recording that this token
 is belonging to the user\'s public key. The user can then pass that
-token on to someone else by signing a \"transfer order\" to another
+token on to someone else by signing a "transfer order" to another
 user\'s public key. The server then duly registers the token as
 belonging to the corresponding private key.
 
 As is apparent by studying his writings, Hal Finney was inspired and
-building upon work by Nick Szabo, most notably his ideas around \"bit
-gold\" and digital collectibles. Discussing possible applications of
+building upon work by Nick Szabo, most notably his ideas around "bit
+gold" and digital collectibles. Discussing possible applications of
 RPOW, [Hal
 writes](https://nakamotoinstitute.org/finney/rpow/index.html):
-\"Security researcher Nick Szabo has coined the term bit gold for
+"Security researcher Nick Szabo has coined the term bit gold for
 information objects which are provably costly to create. He suggests
 that these could even serve as the foundation for a sort of payment
 system, playing the role in the informational world of gold in the
 physical world. RPOW would facilitate the use of POW tokens as a form of
 bit gold by allowing the tokens to be passed and exchanged from person
-to person.\" \[Cite:
+to person." \[Cite:
 https://nakamotoinstitute.org/finney/rpow/index.html\]
 
 \[Footnote: See [Shelling Out: The Origins of
@@ -533,7 +537,7 @@ is a *transparent server*, which makes the RPOW system as a whole
 trust-minimized. Everyone knows the code that makes the system work, as
 well as the rules that are in place. 
 
-> \"We know the source code. We know the rules.\"\
+> "We know the source code. We know the rules."\
 > \-- [Hal
 > Finney](https://nakamotoinstitute.org/finney/rpow/slides/slide009.html)
 
@@ -546,14 +550,14 @@ https://nakamotoinstitute.org/finney/rpow/slides/slide010.html\]
 -   No back doors
 -   Privacy protection
 
-The \"no inflation\" rule has to be understood in terms of the
+The "no inflation" rule has to be understood in terms of the
 constraints set up by the system itself, i.e. that any RPOW server will
 only create RPOW tokens equal in value to incoming POW and RPOW tokens.
 Since users can create new proof-of-work tokens via Adam Back\'s
 hashcash, inflation in terms of new supply coming into the system can
 and will always happen.
 
-\"To enforce the no-inflation rule, the RPOW server must make sure that
+"To enforce the no-inflation rule, the RPOW server must make sure that
 no POW or RPOW can be used more than once as part of an exchange. Each
 one is created, and then exchanged at the server for a new RPOW, and
 after that, the old one can never be used again. The RPOW server
@@ -564,19 +568,19 @@ RPOWs. If it is on the list, this is an attempt to reuse the POW or
 RPOW, and the exchange request is rejected. If the POW or RPOW is not on
 the list, it is added to the list, and then the RPOW server will sign
 the bignum value supplied as part of the exchange, creating a new
-RPOW.\"
+RPOW."
 
-The \"no back doors\" rule refers to the transparency of the system.
+The "no back doors" rule refers to the transparency of the system.
 Everyone can inspect how it works at all times, there are no hidden
 parts.
 
-The \"privacy protection\" rule is an interesting one. Hal wrote at
+The "privacy protection" rule is an interesting one. Hal wrote at
 length about how privacy is an inherently desirable feature, advocating
 the use of Tor \[glossary\] to connect to the RPOW servers and
 discussing both attack vectors (linkage attacks) and improvements such
 as the use of blind signatures. In his writings, he goes on to point out
-two additional things: (1) the \"owner is the enemy\", and (2) the
-\"programmer is the enemy\", reminding us that any system that
+two additional things: (1) the "owner is the enemy", and (2) the
+"programmer is the enemy", reminding us that any system that
 facilitates the trust-minimized exchange of money needs to be set up and
 operate under an adversarial mindset.
 
@@ -588,20 +592,20 @@ eventually discontinued.
 
 #### Satoshi\'s Breakthrough {#Satoshi's-Breakthrough}
 
-> \"I hope it\'s obvious it was only the centrally controlled nature of
+> "I hope it\'s obvious it was only the centrally controlled nature of
 > those systems that doomed them."\
 > \-- Satoshi Nakamoto
 
 On February 11, 2009, Satoshi posted an announcement to the *P2P
 Foundation* forums. The P2P Foundation studies the impact of
 peer-to-peer technology and thought on society, describing itself as
-\"The Foundation for Peer to Peer Alternatives.\" Thus, it was a very
+"The Foundation for Peer to Peer Alternatives." Thus, it was a very
 fitting place to announce the invention of a peer-to-peer money like
 Bitcoin.
 
-In his announcement, Satoshi describes Bitcoin as a \"P2P e-cash
-system\" that has \"no central server or trusted parties\" because
-\"everything is based on crypto proof instead of trust.\"
+In his announcement, Satoshi describes Bitcoin as a "P2P e-cash
+system" that has "no central server or trusted parties" because
+"everything is based on crypto proof instead of trust."
 
 \[TODO: Insert image of the announcement.\] 
 
@@ -633,7 +637,7 @@ setting, because thanks to strong cryptography, you can exchange
 confidential data with others - including your future self - without
 having to rely on any middlemen.
 
-> \"It\'s time we had the same thing for money.\"\
+> "It\'s time we had the same thing for money."\
 > \-- [Satoshi
 > Nakamoto](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)
 
@@ -705,13 +709,13 @@ possible.
 Further, he combined the process of issuance, transfer, and
 verification, removing the need for any trusted third party. The genius
 of Bitcoin is that every node can verify everything for itself at all
-times. To paraphrase Hal Finney: \"You know the source code. You know
-the rules.\"
+times. To paraphrase Hal Finney: "You know the source code. You know
+the rules."
 
 Satoshi was able to decentralize all the functions of Wei
 Dai\'s *b-money* (creation and transfer of money; effecting, conclusion,
 and enforcement of contracts) while also solving the problems of
-Szabo\'s \"*bit gold*\" (coin value dependent on a central authority;
+Szabo\'s "*bit gold*" (coin value dependent on a central authority;
 hash functions lack cryptanalytical stability). He did it by taking Hal
 Finney\'s idea of reusable proof-of-work tokens to the next level,
 creating a digital asset that is both fungible and has a high
@@ -817,10 +821,10 @@ essential functions of the system and the laws of thermodynamics allow
 for strong security guarantees. Further, economic incentives and game
 theory are the glue that keeps everything together.
 
-> \"The result is a distributed system with no single point of failure.
+> "The result is a distributed system with no single point of failure.
 > Users hold the crypto keys to their own money and transact directly
 > with each other, with the help of the P2P network to check for
-> double-spending.\"\
+> double-spending."\
 > \-- [Satoshi
 > Nakamoto](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)
 
