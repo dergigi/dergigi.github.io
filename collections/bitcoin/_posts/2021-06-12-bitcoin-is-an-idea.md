@@ -167,13 +167,20 @@ Bitcoin's pre-history is as long as it is fascinating. Satoshi was able
 to build upon various technologies and protocols, some of which go back
 50 years and more. While 50 years might be a long time in technology,
 the art of cryptography is way more ancient than that, dating back as
-far as [ 1900 BC](https://access.redhat.com/blogs/766093/posts/1976023).
-\[cite: https://access.redhat.com/blogs/766093/posts/1976023\] 
+far as [1900 BC](https://access.redhat.com/blogs/766093/posts/1976023).
 
 It's hard to say what the most important building blocks were, but the
-most fundamental ones are probably digital signatures (Diffie and
-Hellman, 1976 \[cite\]) and public-key cryptography (Rivest, Shamir,
-Adleman, 1978 \[cite\]). Without these ideas, Bitcoin couldn't exist.
+most fundamental ones are probably digital signatures[^dh1976] (Diffie and
+Hellman, 1976) and public-key cryptography[^rsa1978] (Rivest, Shamir,
+Adleman, 1978). Without these ideas, Bitcoin couldn't exist.
+
+[^dh1976]: Diffie and Hellman, 1976, *New directions in cryptography* ([IEEE][dh1976-ieee], [PDF][dh1976-pdf])
+[dh1976-ieee]: https://ieeexplore.ieee.org/abstract/document/1055638
+[dh1976-pdf]: https://caislab.kaist.ac.kr/lecture/2010/spring/cs548/basic/B08.pdf
+
+[^rsa1978]: Rivest, Shamir, Adleman, 1978, *A method for obtaining digital signatures and public-key cryptosystems* ([ACM][rsa1978-acm], [PDF][rsa1978-pdf])
+[rsa1978-acm]: https://dl.acm.org/doi/abs/10.1145/359340.359342
+[rsa1978-pdf]: https://apps.dtic.mil/sti/pdfs/ADA606588.pdf
 
 {% include image.html name="prehistory.png" %}
 
@@ -625,9 +632,9 @@ setting, because thanks to strong cryptography, you can exchange
 confidential data with others - including your future self - without
 having to rely on any middlemen.
 
-> "It's time we had the same thing for money."\
-> \-- [Satoshi
-> Nakamoto](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)
+> It's time we had the same thing for money.
+>
+> [Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)
 
 To better understand Satoshi's breakthrough, let's recap what was
 possible before and where other systems fell short. The following is
@@ -647,11 +654,11 @@ To Satoshi, it was obvious that any centrally controlled system will get
 shut down by governments. Thus, the system he wanted to build had one
 goal above all others: decentralization.
 
-> "Governments are good at cutting off the heads of centrally controlled
+> Governments are good at cutting off the heads of centrally controlled
 > networks like Napster, but pure P2P networks like Gnutella and Tor
-> seem to be holding their own."\
-> \-- [Satoshi
-> Nakamoto](https://satoshi.nakamotoinstitute.org/emails/cryptography/4/)
+> seem to be holding their own.
+>
+> [Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/emails/cryptography/4/)
 
 The above quote beautifully encapsulates why decentralization is so
 important: there are no heads to cut off, no CEOs to arrest, no leaders
@@ -755,7 +762,7 @@ Bitcoin manages to implement them in a decentralized way:
     generating a large random number. You can even flip a coin a couple
     of times, or roll a pair of dice, as long as you know what you're
     doing (and your dice and coin flips are fair).
--   **Record Ownership:** In Bitcoin, every full node \[glossary\] has a
+-   **Record Ownership:** In Bitcoin, every full node has a
     copy of the ownership records. This radical approach is a simple way
     to eliminate a centralized registry and optimize for survival: You
     can't shut down the registry if everyone is the registry.
@@ -786,10 +793,9 @@ Bitcoin manages to implement them in a decentralized way:
     inflation rate, but he chose a terminal inflation rate
     of [zero](https://breedlove22.medium.com/the-number-zero-and-bitcoin-4c193336db5b).
     The result: 21 million bitcoin, nothing more. What this means for
-    Bitcoin and the world at large will be explored in Chapter 7
-    \<\<Absolute Scarcity>\>.
+    Bitcoin and the world at large will be explored in Chapter 7.
 -   **Controlled Issuance:** Because of Bitcoin's **difficulty
-    adjustment \[glossary\]**, controlled issuance is possible in a
+    adjustment**, controlled issuance is possible in a
     decentralized fashion. The difficulty adjustment is what solves the
     problem of cryptanalytic instability, as Satoshi points out in the
     whitepaper: "To compensate for increasing hardware speed and varying
@@ -809,12 +815,12 @@ essential functions of the system and the laws of thermodynamics allow
 for strong security guarantees. Further, economic incentives and game
 theory are the glue that keeps everything together.
 
-> "The result is a distributed system with no single point of failure.
+> The result is a distributed system with no single point of failure.
 > Users hold the crypto keys to their own money and transact directly
 > with each other, with the help of the P2P network to check for
-> double-spending."\
-> \-- [Satoshi
-> Nakamoto](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)
+> double-spending.
+>
+> [Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)
 
 Satoshi also realized that the only real-world asset that can be linked
 to a computer system in a trustless manner is energy, nothing else.
@@ -824,7 +830,7 @@ the inherent disconnect between the digital and the physical world.
 Someone has to make sure that the real-world assets and the digital
 representation of these assets - in essence, a list of things - remains
 up-to-date and in sync. This is what is known as the **oracle
-problem** \[glossary\], and proof-of-work solves it in an ingenious,
+problem**, and proof-of-work solves it in an ingenious,
 roundabout way: by using energy, and thus physics, as the base truth.
 One can also think of the oracle problem as a variant of the GIGO
 principle: Garbage In, Garbage Out. You have to trust whoever is keeping
@@ -832,12 +838,13 @@ the records that the records are correct. Phrased differently: you can
 never be sure that the data at hand represents reality, except if the
 reality is rooted in computation itself.
 
-### A Most Timely Idea {#A-Most-Timely-Idea}
+### A Most Timely Idea
 
-> "You can't crush ideas by suppressing them. You can only crush them by
+> You can't crush ideas by suppressing them. You can only crush them by
 > ignoring them. By refusing to think, refusing to change. And that's
-> precisely what our society is doing!"\
-> \-- Ursula K. Le Guin
+> precisely what our society is doing!
+>
+> Ursula K. Le Guin
 
 As we can see by examining Bitcoin's pre-history, double-spending and
 digital scarcity aren't easy problems to solve. Satoshi's breakthrough
