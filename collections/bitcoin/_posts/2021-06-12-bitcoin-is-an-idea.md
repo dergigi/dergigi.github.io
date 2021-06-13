@@ -386,18 +386,19 @@ The first is that bit gold requires two separate registries: one for
 recording timestamps (to note when the bit gold was created), and one
 for recording property titles (to see who is owning the bit gold). The
 second is that bit gold is supposed to rely on benchmark functions (as
-opposed to one-way functions \[glossary\]) to generate a proof of work.
+opposed to **one-way functions**) to generate a proof of work.
 Benchmark functions are functions proposed by Szabo that are
 computationally stable, i.e. a set of functions that maintain a similar
 degree of difficulty among all miners. He put considerable effort into
-defining \[Footnote: See his writings on [Intrapolynomial
-Cryptography](https://web.archive.org/web/20160717145748/http://szabo.best.vwh.net/intrapoly.html)\]
+defining
 and exploring these functions, trying to formulate mathematical proofs
 that every computation will take at least a certain amount of time no
-matter what computer architecture is used. However, since computers get
+matter what computer architecture is used.[^intrapoly] However, since computers get
 faster all the time, he remarked that finding such a function will be
 difficult: "A potential big problem remains: \[\...\] The world lacks a
 cryptanalytically stable problem."
+
+[^intrapoly]: See his writings on [Intrapolynomial Cryptography](https://web.archive.org/web/20160717145748/http://szabo.best.vwh.net/intrapoly.html)
 
 The lack of a stable benchmark function leads to a multitude of
 problems: older "coins" created by users would have a different
@@ -707,7 +708,7 @@ related - you can't have digital scarcity without solving the problem
 of double-spending - they aren't exactly the same thing. Satoshi solved
 both of these problems at once, by using a peer-to-peer network as a
 non-central ledger, using a
-global [timechain](https://dergigi.com/2021/01/14/bitcoin-is-time/) \[glossary\]
+global [timechain](https://dergigi.com/2021/01/14/bitcoin-is-time/) 
 to synchronize state, and dynamically adjusting the puzzle difficulty to
 achieve cryptanalytical stability - making a predictable issuance
 possible.
