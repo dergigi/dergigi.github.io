@@ -396,24 +396,14 @@ inflation problem, which is another problem that Szabo identified but
 didn't solve.
 
 In addition, Szabo correctly identified the issues of previous
-approaches such as Hashcash and MicroMint: (1) their value was dependent
+approaches such as Hashcash and MicroMint[^micromint]: (1) their value was dependent
 on a central authority, (2) the hash functions they use are
 cryptographically vulnerable, i.e. they lack cryptanalytical stability.
 As described above, the later problem is still present in bit gold.
 
-\[Footnote: MicroMint
-\[[cite](https://people.csail.mit.edu/rivest/RivestShamir-mpay.pdf)\]
-was one of two micropayment schemes proposed by Ronald L. Rivest and Adi
-Shamir (the R and S in RSA). The second scheme was called PayWord
-\[[cite](https://people.csail.mit.edu/rivest/RivestShamir-mpay.pdf)\].
-Both focused on efficient payments of very small amounts, extending
-previous works such as "Millicent" by Glassman et al.
-\[[cite](http://www.cdk5.net/security/Ed3/Millicent.pdf)\] Again the
-idea is to use public-key cryptography and hashes in a clever way to
-produce coins: "A coin is a bit-string whose validity can be easily
-checked by anyone, but which is hard to produce."\]
+[^micromint]: [MicroMint](https://people.csail.mit.edu/rivest/RivestShamir-mpay.pdf) was one of two micropayment schemes proposed by Ronald L. Rivest and Adi Shamir (the R and S in RSA). The second scheme was called [PayWord](https://people.csail.mit.edu/rivest/RivestShamir-mpay.pdf). Both focused on efficient payments of very small amounts, extending previous works such as [Millicent](http://www.cdk5.net/security/Ed3/Millicent.pdf) by Glassman et al. Again the idea is to use public-key cryptography and hashes in a clever way to produce coins: "A coin is a bit-string whose validity can be easily checked by anyone, but which is hard to produce.
 
-### b-money (Wei Dai, 1998) {#b-money-(Wei-Dai,-1998)}
+### b-money (Wei Dai, 1998)
 
 Like Szabo's bit gold, Wei Dai's b-money was never implemented. It
 remained a theoretical proposal of how a monetary protocol could work.
