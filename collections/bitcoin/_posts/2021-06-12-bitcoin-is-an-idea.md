@@ -146,7 +146,9 @@ wrote in *The Crypto Anarchist Manifesto*: "The technology for this
 recently have computer networks and personal computers attained
 sufficient speed to make the ideas practically realizable. And the next
 ten years will bring enough additional speed to make the ideas
-economically feasible and essentially unstoppable."
+economically feasible and essentially unstoppable."[^ca-manifesto]
+
+[^ca-manifesto]: Timothy C. May, [The Crypto Anarchist Manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
 
 While I do believe that Bitcoin (the network) is essentially unstoppable
 already, Bitcoin the *idea* is truly unstoppable. After all, as Alan
