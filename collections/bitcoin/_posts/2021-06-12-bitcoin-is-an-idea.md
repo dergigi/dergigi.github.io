@@ -109,12 +109,13 @@ stagnation, since new and controversial ideas won't be allowed to
 flourish. No matter what freedoms you think you have, in the end,
 surveillance renders all other freedoms useless.
 
-> "Therefore, privacy in an open society requires anonymous transaction
+> Therefore, privacy in an open society requires anonymous transaction
 > systems. Until now, cash has been the primary such system. An
 > anonymous transaction system is not a secret transaction system. An
 > anonymous system empowers individuals to reveal their identity when
-> desired and only when desired; this is the essence of privacy."\
-> \-- Eric Hughes, A Cypherpunk's Manifesto
+> desired and only when desired; this is the essence of privacy.
+>
+> <cite>Eric Hughes, [A Cypherpunk's Manifesto](https://nakamotoinstitute.org/static/docs/cypherpunk-manifesto.txt)</cite>
 
 While Bitcoin is a breakthrough in many ways, all the *technical* parts
 that make it work did exist already: 
