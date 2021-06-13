@@ -462,7 +462,7 @@ planning, bidding, computation, and creation. Since b-money was never
 implemented in the form proposed by Dai, it is unclear whether this
 elaborate money-creation scheme would have worked as intended.
 
-### RPOW - Reusable Proofs of Work (Hal Finney, 2004) {#RPOW---Reusable-Proofs-of-Work-(Hal-Finney,-2004)}
+### RPOW - Reusable Proofs of Work (Hal Finney, 2004)
 
 As the name suggests, Hal Finney found a way to make the proof-of-work
 tokens from Adam Back's hashcash *reusable*. 
@@ -490,19 +490,17 @@ belonging to the corresponding private key.
 As is apparent by studying his writings, Hal Finney was inspired and
 building upon work by Nick Szabo, most notably his ideas around "bit
 gold" and digital collectibles. Discussing possible applications of
-RPOW, [Hal
-writes](https://nakamotoinstitute.org/finney/rpow/index.html):
+RPOW, Hal
+writes:
 "Security researcher Nick Szabo has coined the term bit gold for
 information objects which are provably costly to create. He suggests
 that these could even serve as the foundation for a sort of payment
 system, playing the role in the informational world of gold in the
 physical world. RPOW would facilitate the use of POW tokens as a form of
 bit gold by allowing the tokens to be passed and exchanged from person
-to person." \[Cite:
-https://nakamotoinstitute.org/finney/rpow/index.html\]
+to person."[^rpow]
 
-\[Footnote: See [Shelling Out: The Origins of
-Money](https://nakamotoinstitute.org/shelling-out/) \]
+[^rpow]: [https://nakamotoinstitute.org/finney/rpow/index.html](https://nakamotoinstitute.org/finney/rpow/index.html) - See also [Shelling Out: The Origins of Money](https://nakamotoinstitute.org/shelling-out/)
 
 Hal's implementation was a practical solution to a problem inherent in
 proof-of-work tokens, namely that the POW tokens themselves don't make
@@ -524,14 +522,14 @@ is a *transparent server*, which makes the RPOW system as a whole
 trust-minimized. Everyone knows the code that makes the system work, as
 well as the rules that are in place. 
 
-> "We know the source code. We know the rules."\
-> \-- [Hal
-> Finney](https://nakamotoinstitute.org/finney/rpow/slides/slide009.html)
+> We know the source code. We know the rules.
+>
+> <cite>[Hal Finney](https://nakamotoinstitute.org/finney/rpow/slides/slide009.html)</cite>
 
-So, what exactly are the rules of the RPOW system? [According to its
-inventor](https://nakamotoinstitute.org/finney/rpow/slides/slide010.html),
-they are as follows: \[cite:
-https://nakamotoinstitute.org/finney/rpow/slides/slide010.html\]
+So, what exactly are the rules of the RPOW system? According to its inventor,
+they are as follows:[^rpow-slides]
+
+[^rpow-slides]: [https://nakamotoinstitute.org/finney/rpow/slides/slide010.html](https://nakamotoinstitute.org/finney/rpow/slides/slide010.html)
 
 -   No inflation
 -   No back doors
@@ -563,7 +561,7 @@ parts.
 
 The "privacy protection" rule is an interesting one. Hal wrote at
 length about how privacy is an inherently desirable feature, advocating
-the use of Tor \[glossary\] to connect to the RPOW servers and
+the use of Tor[^tor] to connect to the RPOW servers and
 discussing both attack vectors (linkage attacks) and improvements such
 as the use of blind signatures. In his writings, he goes on to point out
 two additional things: (1) the "owner is the enemy", and (2) the
@@ -571,17 +569,20 @@ two additional things: (1) the "owner is the enemy", and (2) the
 facilitates the trust-minimized exchange of money needs to be set up and
 operate under an adversarial mindset.
 
+[^tor]: The Onion Router, [torproject.org](https://torproject.org)
+
 Next to hashcash, RPOW was one of the systems that was actually
 implemented. However, probably because of the effort required to run
 RPOW servers, as well as a lack of incentives to do so, Finney's
 reusable proof-of-work tokens never gained traction and the project was
 eventually discontinued.
 
-#### Satoshi's Breakthrough {#Satoshi's-Breakthrough}
+#### Satoshi's Breakthrough
 
-> "I hope it's obvious it was only the centrally controlled nature of
-> those systems that doomed them."\
-> \-- Satoshi Nakamoto
+> I hope it's obvious it was only the centrally controlled nature of
+> those systems that doomed them.
+>
+> <cite>[Satoshi Nakamoto](http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A9493)</cite>
 
 On February 11, 2009, Satoshi posted an announcement to the *P2P
 Foundation* forums. The P2P Foundation studies the impact of
@@ -594,7 +595,7 @@ In his announcement, Satoshi describes Bitcoin as a "P2P e-cash
 system" that has "no central server or trusted parties" because
 "everything is based on crypto proof instead of trust."
 
-\[TODO: Insert image of the announcement.\] 
+{% include image.html name="announcement.png" caption="Satoshi's original announcement of Bitcoin" %}
 
 He identifies multiple problems with our current monetary system and the
 conventional currencies that are native to it:
