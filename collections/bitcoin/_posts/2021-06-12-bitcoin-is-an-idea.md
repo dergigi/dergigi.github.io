@@ -11,6 +11,7 @@ favorite: true
 tags:
  - Bitcoin
  - Writing
+series: 21 Ways
 ---
 
 > Don't worry about people stealing an idea. If it's original, you
@@ -880,25 +881,6 @@ decades: double-spending and a lack of non-arbitrary scarcity. And it
 all works because Satoshi figured out how to keep the time in a
 decentralized system.
 
-
-
----
-
-Some text[^1].
-
-Some other text[^2].
-
-The identifier in the square brackets does not have to be numeric[^my_footnote].
-
-[^1]: Some footnote.
-
-Text in-between footnotes.
-
-[^2]: Other footnote.
-
-[^my_footnote]: This also works fine. Footnote inside a footnote?[^inception].
-
-[^inception]: Inception!
 
 ------------------------------------------------------------------------
 

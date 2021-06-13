@@ -30,6 +30,7 @@ translations:
 tags:
  - Bitcoin
  - Writing
+series: 21 Ways
 ---
 
 
