@@ -32,8 +32,8 @@ dismissed by most: *Bitcoin: A Peer-to-Peer Electronic Cash System*.
 The whitepaper released by Satoshi Nakamoto on this Halloween night
 describes an idea that will inevitably take the world by storm. While
 most people still think of Bitcoin as nothing more than a get-rich-quick
-scheme \-- completely missing the profound change it will continue to
-have on society \-- it becomes more obvious every day that it won\'t go
+scheme --- completely missing the profound change it will continue to
+have on society --- it becomes more obvious every day that it won\'t go
 away.
 
 "Ideas, unlike solid structures, do not perish,\" Alan Moore reminds us.
@@ -51,27 +51,26 @@ it can\'t be stopped. As Victor Hugo reminds us: nothing is as powerful
 as an idea whose time has come. Bitcoin is here to stay; and Bitcoin\'s
 time is now.
 
-### An Idea Whose Time Has Come {#An-Idea-Whose-Time-Has-Come}
+## An Idea Whose Time Has Come
 
-> \"One withstands the invasion of armies; one does not withstand the
-> invasion of ideas.\"\
-> \-- Victor Hugo
+> One withstands the invasion of armies; one does not withstand the
+> invasion of ideas.
+>
+> <cite>Victor Hugo</cite>
 
 Contrary to popular belief, Bitcoin did not come out of nowhere. The
 idea of digital cash has a long and rich history. Most notably, a loose
 collective known as the *cypherpunks* wrote at length about digital
 anonymous cash, how such systems might be realized, and the societal
 implications of strong cryptography in general. Hence the
-name: *cypher*punks. \[Footnote: The name cypherpunk is a playful
-combination of the words *cipher* (an algorithm that encrypts and/or
-decrypts a message) and *cyberpunk* (a science fiction subgenre spawned
-by the works of authors like Philip K. Dick, William Gibson, Ridley
-Scott, and many others).\] 
+name: *cypher*punks. [^cypherpunks]
+
+[^cypherpunks]: The name cypherpunk is a playful combination of the words *cipher* (an algorithm that encrypts and/or decrypts a message) and *cyberpunk* (a science fiction subgenre spawned by the works of authors like Philip K. Dick, William Gibson, Ridley Scott, and many others).
 
 After forming the group in 1992, Eric Hughes, Timothy C. May, and John
 Gilmore created the cypherpunk mailing list to discuss and share their
 ideas around cryptography, remailers, anonymity, digital cash, and
-\"other interesting things\" with a wider group of people. Many years
+"other interesting things" with a wider group of people. Many years
 later, a cypherpunk by the name of Satoshi Nakamoto chose to publish the
 Bitcoin whitepaper on a similar mailing list: the cryptography mailing
 list.
@@ -175,7 +174,7 @@ most fundamental ones are probably digital signatures (Diffie and
 Hellman, 1976 \[cite\]) and public-key cryptography (Rivest, Shamir,
 Adleman, 1978 \[cite\]). Without these ideas, Bitcoin couldn\'t exist.
 
-![](http://fakehost/file/5fe4c0fd3a1cae3ef1d9c.png)
+{% include image.html name="prehistory.png" %}
 
 Various digital cash systems have been developed before Bitcoin. All of
 them failed eventually, and all for similar reasons. The following are
