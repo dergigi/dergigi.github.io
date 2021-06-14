@@ -283,10 +283,9 @@ valuable the hashcash string is. Because there is no other way than
 brute force, the number of zeros is directly correlated with the cost of
 production, which, in the digital realm, is the cost of computation.
 
-In essence, hashcash utilizes the fact that computation cycles cost
-[time] and real-world
-resources. Back proposed that introducing the electronic equivalent of a
-postage stamp via hashcash could be its main use case. While fighting
+In essence, hashcash utilizes the fact that computation cycles cost time and
+real-world resources. Back proposed that introducing the electronic equivalent
+of a postage stamp via hashcash could be its main use case. While fighting
 e-mail spam seemed to be on the top of his mind, he also proposed that
 it could be used as digital cash, going as far as sketching out
 a [migration path](http://www.cypherspace.org/hashcash/) that could lead
