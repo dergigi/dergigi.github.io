@@ -883,17 +883,20 @@ a world in which Bitcoin exists.
 
 **Bitcoin is an idea** whose time has come.
 As more and more people, companies, and even nation-states move towards a
-Bitcoin Standard, the unstoppable [gravity]
-of Satoshi's idea becomes ever more
-apparent. By implementing his idea, he proved that a practical solution to the
-problems that plagued digital money - double-spending and digital scarcity - is
-possible. By releasing his software to the world he set in motion a powerful
-incentive structure embedded in a decentralized computer network. It is this
-incentive structure that is the underlying machinery of a virtually unstoppable
-process: the separation of money and state. It will take some time for the world
-to come to grips with this idea. Amusingly, time is also the reason why Bitcoin
-works in the first place. After all, the main insight Satoshi had is how to keep
-the [time] in a decentralized system.
+Bitcoin Standard, the unstoppable [gravity] of Satoshi's idea becomes ever more
+apparent.
+By implementing his idea, he proved that a practical solution to the problems
+that plagued digital money for decades --- *double-spending* and *digital
+scarcity* --- is possible. Releasing his software into the wild set in motion a
+multi-decade process that is driven by an extremely powerful incentive
+structure. An unstoppable idea, embodied in code. It is this incentive structure
+that drives Bitcoin's survival. And with every passing day that Bitcoin refuses
+to die, humanity is one step closer to freeing money from the capture of the
+state. It will take some time for the world to come to grips with this most
+powerful idea. Amusingly, time is also the reason why Bitcoin works in the first
+place since the main insight Satoshi had is how to keep the [time] in a
+decentralized system. Many people thought that this problem was insoluble. Turns
+out that all that was missing was the right idea.
 
 [gravity]: {% post_url /bitcoin/2019-05-01-bitcoins-gravity %}
 [life]: {% post_url /bitcoin/2019-08-07-proof-of-life %}
