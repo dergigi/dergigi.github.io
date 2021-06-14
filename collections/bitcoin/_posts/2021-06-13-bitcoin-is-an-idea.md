@@ -675,7 +675,7 @@ The above quote beautifully encapsulates why decentralization is so
 important: there are no heads to cut off, no CEOs to arrest, no leaders
 to blackmail or pressure, no single group of people to subpoena, no
 servers to shut down. In other words: decentralization
-maximizes [survival](https://dergigi.com/2019/08/07/proof-of-life/).
+maximizes [survival][life].
 
 A central point in any system makes it vulnerable and thus prone to
 attack. A sufficiently motivated attacker will find and exploit these
@@ -707,7 +707,7 @@ related - you can't have digital scarcity without solving the problem
 of double-spending - they aren't exactly the same thing. Satoshi solved
 both of these problems at once, by using a peer-to-peer network as a
 non-central ledger, using a
-global [timechain](https://dergigi.com/2021/01/14/bitcoin-is-time/)
+global [timechain][time]
 to synchronize state, and dynamically adjusting the puzzle difficulty to
 achieve cryptanalytical stability - making a predictable issuance
 possible.
@@ -870,7 +870,7 @@ decentralized system without a single point of failure.
 
 No single part of Bitcoin can be removed without destroying the whole.
 Without
-the [timechain](https://dergigi.com/2021/01/14/bitcoin-is-time/), there
+the [timechain][time], there
 wouldn't be a decentralized way to check for double-spending. Without
 the block reward halving, the bitcoin supply would expand indefinitely.
 Without the difficulty adjustment, the mining algorithm wouldn't have
@@ -896,6 +896,7 @@ works in the first place. After all, the main insight Satoshi had is how to keep
 the [time] in a decentralized system.
 
 [gravity]: {% post_url /bitcoin/2019-05-01-bitcoins-gravity %}
+[life]: {% post_url /bitcoin/2019-08-07-proof-of-life %}
 [time]: {% post_url /bitcoin/2021-01-14-bitcoin-is-time %}
 
 ------------------------------------------------------------------------
