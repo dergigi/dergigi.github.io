@@ -283,7 +283,7 @@ valuable the hashcash string is. Because there is no other way than
 brute force, the number of zeros is directly correlated with the cost of
 production, which, in the digital realm, is the cost of computation.
 
-In essence, hashcash utilizes the fact that computation cycles cost 
+In essence, hashcash utilizes the fact that computation cycles cost
 [time](https://dergigi.com/2021/01/14/bitcoin-is-time/) and real-world
 resources. Back proposed that introducing the electronic equivalent of a
 postage stamp via hashcash could be its main use case. While fighting
@@ -595,7 +595,7 @@ RPOW servers, as well as a lack of incentives to do so, Finney's
 reusable proof-of-work tokens never gained traction and the project was
 eventually discontinued.
 
-#### Satoshi's Breakthrough
+## Satoshi's Breakthrough
 
 > I hope it's obvious it was only the centrally controlled nature of
 > those systems that doomed them.
@@ -645,7 +645,7 @@ having to rely on any middlemen.
 
 > It's time we had the same thing for money.
 >
-> [Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)
+> <cite>[Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)</cite>
 
 To better understand Satoshi's breakthrough, let's recap what was
 possible before and where other systems fell short. The following is
@@ -707,7 +707,7 @@ related - you can't have digital scarcity without solving the problem
 of double-spending - they aren't exactly the same thing. Satoshi solved
 both of these problems at once, by using a peer-to-peer network as a
 non-central ledger, using a
-global [timechain](https://dergigi.com/2021/01/14/bitcoin-is-time/) 
+global [timechain](https://dergigi.com/2021/01/14/bitcoin-is-time/)
 to synchronize state, and dynamically adjusting the puzzle difficulty to
 achieve cryptanalytical stability - making a predictable issuance
 possible.
@@ -831,7 +831,7 @@ theory are the glue that keeps everything together.
 > with each other, with the help of the P2P network to check for
 > double-spending.
 >
-> [Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)
+> <cite>[Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)</cite>
 
 Satoshi also realized that the only real-world asset that can be linked
 to a computer system in a trustless manner is energy, nothing else.
@@ -849,7 +849,7 @@ the records that the records are correct. Phrased differently: you can
 never be sure that the data at hand represents reality, except if the
 reality is rooted in computation itself.
 
-### A Most Timely Idea
+## A Most Timely Idea
 
 > You can't crush ideas by suppressing them. You can only crush them by
 > ignoring them. By refusing to think, refusing to change. And that's
