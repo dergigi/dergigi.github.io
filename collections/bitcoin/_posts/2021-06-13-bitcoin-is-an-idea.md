@@ -284,7 +284,7 @@ brute force, the number of zeros is directly correlated with the cost of
 production, which, in the digital realm, is the cost of computation.
 
 In essence, hashcash utilizes the fact that computation cycles cost
-[time](https://dergigi.com/2021/01/14/bitcoin-is-time/) and real-world
+[time] and real-world
 resources. Back proposed that introducing the electronic equivalent of a
 postage stamp via hashcash could be its main use case. While fighting
 e-mail spam seemed to be on the top of his mind, he also proposed that
@@ -881,13 +881,22 @@ that is virtually unstoppable. No matter what happens in the coming
 decades, the cat is out of the bag, and everyone will have to adjust to
 a world in which Bitcoin exists.
 
-**Bitcoin is an idea** whose time has come. Even if Bitcoin would fail
-for some reason (and I don't have a reason to believe that it will), we
-now know how to solve the problems that plagued digital money for
-decades: double-spending and a lack of non-arbitrary scarcity. And it
-all works because Satoshi figured out how to keep the time in a
-decentralized system.
+**Bitcoin is an idea** whose time has come.
+As more and more people, companies, and even nation-states move towards a
+Bitcoin Standard, the unstoppable [gravity]
+of Satoshi's idea becomes ever more
+apparent. By implementing his idea, he proved that a practical solution to the
+problems that plagued digital money - double-spending and digital scarcity - is
+possible. By releasing his software to the world he set in motion a powerful
+incentive structure embedded in a decentralized computer network. It is this
+incentive structure that is the underlying machinery of a virtually unstoppable
+process: the separation of money and state. It will take some time for the world
+to come to grips with this idea. Amusingly, time is also the reason why Bitcoin
+works in the first place. After all, the main insight Satoshi had is how to keep
+the [time] in a decentralized system.
 
+[gravity]: {% post_url /bitcoin/2019-05-01-bitcoins-gravity %}
+[time]: {% post_url /bitcoin/2021-01-14-bitcoin-is-time %}
 
 ------------------------------------------------------------------------
 
