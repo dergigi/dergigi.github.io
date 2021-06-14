@@ -701,16 +701,13 @@ require a centralized body, exposing a head that could be cut off by
 governments. Satoshi's genius was the removal of all heads, including
 his own.
 
-Again, the essential problem for money in the digital realm boils down
-to two things: **scarcity**, and **double-spending**. While obviously
-related - you can't have digital scarcity without solving the problem
-of double-spending - they aren't exactly the same thing. Satoshi solved
-both of these problems at once, by using a peer-to-peer network as a
-non-central ledger, using a
-global [timechain][time]
-to synchronize state, and dynamically adjusting the puzzle difficulty to
-achieve cryptanalytical stability - making a predictable issuance
-possible.
+Again, the essential problem for money in the digital realm boils down to two
+things: **scarcity**, and **double-spending**. While obviously related - you
+can't have digital scarcity without solving the problem of double-spending -
+they aren't exactly the same thing. Satoshi solved both of these problems at
+once, by using a peer-to-peer network as a non-central ledger, using a global
+timechain to synchronize state, and dynamically adjusting the puzzle difficulty
+to achieve cryptanalytical stability - making a predictable issuance possible.
 
 Further, he combined the process of issuance, transfer, and
 verification, removing the need for any trusted third party. The genius
