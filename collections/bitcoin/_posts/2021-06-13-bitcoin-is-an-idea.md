@@ -283,10 +283,9 @@ valuable the hashcash string is. Because there is no other way than
 brute force, the number of zeros is directly correlated with the cost of
 production, which, in the digital realm, is the cost of computation.
 
-In essence, hashcash utilizes the fact that computation cycles cost
-[time](https://dergigi.com/2021/01/14/bitcoin-is-time/) and real-world
-resources. Back proposed that introducing the electronic equivalent of a
-postage stamp via hashcash could be its main use case. While fighting
+In essence, hashcash utilizes the fact that computation cycles cost time and
+real-world resources. Back proposed that introducing the electronic equivalent
+of a postage stamp via hashcash could be its main use case. While fighting
 e-mail spam seemed to be on the top of his mind, he also proposed that
 it could be used as digital cash, going as far as sketching out
 a [migration path](http://www.cypherspace.org/hashcash/) that could lead
@@ -675,7 +674,7 @@ The above quote beautifully encapsulates why decentralization is so
 important: there are no heads to cut off, no CEOs to arrest, no leaders
 to blackmail or pressure, no single group of people to subpoena, no
 servers to shut down. In other words: decentralization
-maximizes [survival](https://dergigi.com/2019/08/07/proof-of-life/).
+maximizes [survival][life].
 
 A central point in any system makes it vulnerable and thus prone to
 attack. A sufficiently motivated attacker will find and exploit these
@@ -701,16 +700,13 @@ require a centralized body, exposing a head that could be cut off by
 governments. Satoshi's genius was the removal of all heads, including
 his own.
 
-Again, the essential problem for money in the digital realm boils down
-to two things: **scarcity**, and **double-spending**. While obviously
-related - you can't have digital scarcity without solving the problem
-of double-spending - they aren't exactly the same thing. Satoshi solved
-both of these problems at once, by using a peer-to-peer network as a
-non-central ledger, using a
-global [timechain](https://dergigi.com/2021/01/14/bitcoin-is-time/)
-to synchronize state, and dynamically adjusting the puzzle difficulty to
-achieve cryptanalytical stability - making a predictable issuance
-possible.
+Again, the essential problem for money in the digital realm boils down to two
+things: **scarcity**, and **double-spending**. While obviously related - you
+can't have digital scarcity without solving the problem of double-spending -
+they aren't exactly the same thing. Satoshi solved both of these problems at
+once, by using a peer-to-peer network as a non-central ledger, using a global
+timechain to synchronize state, and dynamically adjusting the puzzle difficulty
+to achieve cryptanalytical stability - making a predictable issuance possible.
 
 Further, he combined the process of issuance, transfer, and
 verification, removing the need for any trusted third party. The genius
@@ -868,26 +864,37 @@ reward halving**. Bitcoin uses the best ideas of its predecessors
 combines them in an ingenious way to create something completely new: a
 decentralized system without a single point of failure.
 
-No single part of Bitcoin can be removed without destroying the whole.
-Without
-the [timechain](https://dergigi.com/2021/01/14/bitcoin-is-time/), there
-wouldn't be a decentralized way to check for double-spending. Without
-the block reward halving, the bitcoin supply would expand indefinitely.
-Without the difficulty adjustment, the mining algorithm wouldn't have
-cryptanalytic stability, making it trivial for miners to produce bitcoin
-more quickly. Many cypherpunks dreamed of digital cash. Satoshi took
-this idea further than anyone else before him, implementing a system
-that is virtually unstoppable. No matter what happens in the coming
-decades, the cat is out of the bag, and everyone will have to adjust to
-a world in which Bitcoin exists.
+No single part of Bitcoin can be removed without destroying the whole. Without
+the timechain, there wouldn't be a decentralized way to check for
+double-spending. Without the block reward halving, the bitcoin supply would
+expand indefinitely. Without the difficulty adjustment, the mining algorithm
+wouldn't have cryptanalytic stability, making it trivial for miners to produce
+bitcoin more quickly. Many cypherpunks dreamed of digital cash. Satoshi took
+this idea further than anyone else before him, implementing a system that is
+virtually unstoppable. No matter what happens in the coming decades, the cat is
+out of the bag, and everyone will have to adjust to a world in which Bitcoin
+exists.
 
-**Bitcoin is an idea** whose time has come. Even if Bitcoin would fail
-for some reason (and I don't have a reason to believe that it will), we
-now know how to solve the problems that plagued digital money for
-decades: double-spending and a lack of non-arbitrary scarcity. And it
-all works because Satoshi figured out how to keep the time in a
-decentralized system.
+**Bitcoin is an idea** whose time has come.
+As more and more people, companies, and even nation-states move towards a
+Bitcoin Standard, the unstoppable [gravity] of Satoshi's idea becomes ever more
+apparent.
+By implementing his idea, he proved that a practical solution to the problems
+that plagued digital money for decades --- *double-spending* and *digital
+scarcity* --- is possible. Releasing his software into the wild set in motion a
+multi-decade process that is driven by an extremely powerful incentive
+structure. An unstoppable idea, embodied in code. It is this incentive structure
+that drives Bitcoin's survival. And with every passing day that Bitcoin refuses
+to die, humanity is one step closer to freeing money from the capture of the
+state. It will take some time for the world to come to grips with this most
+powerful idea. Amusingly, time is also the reason why Bitcoin works in the first
+place since the main insight Satoshi had is how to keep the [time] in a
+decentralized system. Many people thought that this problem was insoluble. Turns
+out that all that was missing was the right idea.
 
+[gravity]: {% post_url /bitcoin/2019-05-01-bitcoins-gravity %}
+[life]: {% post_url /bitcoin/2019-08-07-proof-of-life %}
+[time]: {% post_url /bitcoin/2021-01-14-bitcoin-is-time %}
 
 ------------------------------------------------------------------------
 
