@@ -868,18 +868,16 @@ reward halving**. Bitcoin uses the best ideas of its predecessors
 combines them in an ingenious way to create something completely new: a
 decentralized system without a single point of failure.
 
-No single part of Bitcoin can be removed without destroying the whole.
-Without
-the [timechain][time], there
-wouldn't be a decentralized way to check for double-spending. Without
-the block reward halving, the bitcoin supply would expand indefinitely.
-Without the difficulty adjustment, the mining algorithm wouldn't have
-cryptanalytic stability, making it trivial for miners to produce bitcoin
-more quickly. Many cypherpunks dreamed of digital cash. Satoshi took
-this idea further than anyone else before him, implementing a system
-that is virtually unstoppable. No matter what happens in the coming
-decades, the cat is out of the bag, and everyone will have to adjust to
-a world in which Bitcoin exists.
+No single part of Bitcoin can be removed without destroying the whole. Without
+the timechain, there wouldn't be a decentralized way to check for
+double-spending. Without the block reward halving, the bitcoin supply would
+expand indefinitely. Without the difficulty adjustment, the mining algorithm
+wouldn't have cryptanalytic stability, making it trivial for miners to produce
+bitcoin more quickly. Many cypherpunks dreamed of digital cash. Satoshi took
+this idea further than anyone else before him, implementing a system that is
+virtually unstoppable. No matter what happens in the coming decades, the cat is
+out of the bag, and everyone will have to adjust to a world in which Bitcoin
+exists.
 
 **Bitcoin is an idea** whose time has come.
 As more and more people, companies, and even nation-states move towards a
