@@ -669,7 +669,7 @@ goal above all others: decentralization.
 > networks like Napster, but pure P2P networks like Gnutella and Tor
 > seem to be holding their own.
 >
-> [Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/emails/cryptography/4/)
+> <cite>[Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/emails/cryptography/4/)</cite>
 
 The above quote beautifully encapsulates why decentralization is so
 important: there are no heads to cut off, no CEOs to arrest, no leaders
