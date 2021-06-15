@@ -107,7 +107,7 @@ can't be accessed because it requires payment. However, since digital
 cash did not exist at the time, the status code was "reserved for
 future use" and isn't widely used as of today.
 
-[^IANA]: Internet Assigned Number Agency
+[^IANA]: Internet Assigned Numbers Authority
 
 The cypherpunks focused mainly on the privacy aspect of digital cash.
 Monetary and economic aspects were secondary. They realized that privacy
