@@ -14,8 +14,8 @@ tags:
 translations:
  - language: German
    url: https://www.blocktrainer.de/bitcoin-ist-eine-idee/
-   author: Rene
-   author_url: https://twitter.com/da_renn4
+   author: Blocktrainer (Rene)
+   author_url: https://twitter.com/blocktrainer/
 series: 21 Ways
 ---
 
