@@ -11,6 +11,11 @@ favorite: true
 tags:
  - Bitcoin
  - Writing
+translations:
+ - language: German
+   url: https://www.blocktrainer.de/bitcoin-ist-eine-idee/
+   author: Rene
+   author_url: https://twitter.com/da_renn4
 series: 21 Ways
 ---
 
