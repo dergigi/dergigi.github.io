@@ -22,7 +22,7 @@ and popular [twitter threads](#twitter-threads) linked at
 the bottom of this page.
 
 ### English Interviews and Conversations
-  - **2021-06-15** - [Toxic Happy Hour][thh-miami] with Pubby and Anders
+  - **2021-06-15** - [Toxic Happy Hour][thh-miami] Miami Recap with Pubby and Anders
   - **2021-05-25** - [TFTC: Citadel Dispatch e0.2.3][tftc-cd23] with Gladstein and Croesus, hosted by Matt Odell (also on [youtube][tftc-cd23-yt])
   - **2021-05-05** - [Talking in Bits #18][tib18] on Lightning, Security, and more, hosted by Jose Burgos
   - **2021-04-30** - [Swan Lounge with Mikhaila Peterson][mikhaila] and the crew, hosted by Brekkie
@@ -44,6 +44,7 @@ the bottom of this page.
   - **2020-12-13** - [Wake Up #20][wakeup20] on Bitcoin biology with Brandon Quittem, hosted by Aleks Svetski
   - **2020-12-12** - [The Bitcoin Path][path] hosted by Jon Chenot (also on [youtube][path-yt])
   - **2020-12-11** - [Bitcoin or Bust][path-interview] hosted by Jon Chenot (also on [youtube][path-interview-yt])
+  - **2020-12-10** - [Toxic Happy Hour][thh1] with Pubby and Anders
   - **2020-12-08** - [Cosmic Deep Dive][cdd1] with Max Hillebrand, hosted by Jon Chenot
   - **2020-12-01** - [Swan Signal Live #41][ssl41] on Bitcoin Zen with Hass, hosted by Brady
   - **2020-11-27** - [Why Are We Bullish][btcsessions1] with Max & Stacy & American HODL, hosted by BTC Sessions
@@ -62,6 +63,7 @@ the bottom of this page.
   - **2020-05-20** - [Swan Signal #11][ss11] with Knut, Brekkie, and Cory, hosted by Brady (also on [youtube][ss11-yt])
 
 [thh-miami]: https://youtu.be/PFY1p6vj3Ns
+[thh1]: https://youtu.be/cclayIP9zIc
 [tftc-cd23]: https://anchor.fm/tales-from-the-crypt/episodes/Citadel-Dispatch-e0-2-3---the-state-of-bitcoin-with-gladstein--dergigi--and-croesus_btc-e11jm4n
 [tftc-cd23-yt]: https://youtu.be/_kwxQL2ozIQ
 [tib18]: https://anchor.fm/talkinginbits/episodes/Talking-In-Bits--018---Philosophy--Bitcoin-with-Gigi-e108ico
