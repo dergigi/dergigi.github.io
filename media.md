@@ -22,6 +22,7 @@ and popular [twitter threads](#twitter-threads) linked at
 the bottom of this page.
 
 ### English Interviews and Conversations
+  - **2021-06-15** - [Toxic Happy Hour][thh-miami] with Pubby and Anders
   - **2021-05-25** - [TFTC: Citadel Dispatch e0.2.3][tftc-cd23] with Gladstein and Croesus, hosted by Matt Odell (also on [youtube][tftc-cd23-yt])
   - **2021-05-05** - [Talking in Bits #18][tib18] on Lightning, Security, and more, hosted by Jose Burgos
   - **2021-04-30** - [Swan Lounge with Mikhaila Peterson][mikhaila] and the crew, hosted by Brekkie
@@ -60,6 +61,7 @@ the bottom of this page.
   - **2020-05-22** - [This Week in Bitcoin][twib3] with Juan and Guy, hosted by Adam Meister (also on [youtube][twib3-yt])
   - **2020-05-20** - [Swan Signal #11][ss11] with Knut, Brekkie, and Cory, hosted by Brady (also on [youtube][ss11-yt])
 
+[thh-miami]: https://youtu.be/PFY1p6vj3Ns
 [tftc-cd23]: https://anchor.fm/tales-from-the-crypt/episodes/Citadel-Dispatch-e0-2-3---the-state-of-bitcoin-with-gladstein--dergigi--and-croesus_btc-e11jm4n
 [tftc-cd23-yt]: https://youtu.be/_kwxQL2ozIQ
 [tib18]: https://anchor.fm/talkinginbits/episodes/Talking-In-Bits--018---Philosophy--Bitcoin-with-Gigi-e108ico
