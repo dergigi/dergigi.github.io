@@ -22,6 +22,7 @@ and popular [twitter threads](#twitter-threads) linked at
 the bottom of this page.
 
 ### English Interviews and Conversations
+  - **2021-06-21** - [Bitcoin Made Simple 22][bms22] on Toxicity and Breedlove22 Coin, hosted by Cory (also on [youtube][bms22-yt])
   - **2021-06-15** - [Toxic Happy Hour][thh-miami] Miami Recap with Pubby and Anders
   - **2021-05-25** - [TFTC: Citadel Dispatch e0.2.3][tftc-cd23] with Gladstein and Croesus, hosted by Matt Odell (also on [youtube][tftc-cd23-yt])
   - **2021-05-05** - [Talking in Bits #18][tib18] on Lightning, Security, and more, hosted by Jose Burgos
@@ -62,6 +63,8 @@ the bottom of this page.
   - **2020-05-22** - [This Week in Bitcoin][twib3] with Juan and Guy, hosted by Adam Meister (also on [youtube][twib3-yt])
   - **2020-05-20** - [Swan Signal #11][ss11] with Knut, Brekkie, and Cory, hosted by Brady (also on [youtube][ss11-yt])
 
+[bms22]: https://anchor.fm/bitcoinmadesimple/episodes/BMS-022-with-Gigi-e138fv1
+[bms22-yt]: https://youtu.be/LCSkpHdB7OI
 [thh-miami]: https://youtu.be/PFY1p6vj3Ns
 [thh1]: https://youtu.be/cclayIP9zIc
 [tftc-cd23]: https://anchor.fm/tales-from-the-crypt/episodes/Citadel-Dispatch-e0-2-3---the-state-of-bitcoin-with-gladstein--dergigi--and-croesus_btc-e11jm4n
