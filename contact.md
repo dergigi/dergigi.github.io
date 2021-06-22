@@ -63,8 +63,13 @@ along][twitter] for the ride. That's perfectly fine too.
 Hope to see you around, \\
 Gigi
 
+---
+
+[Canary ️ 🐦 🔫][canary]
+
 [twitter]: https://twitter.com/dergigi
 [bitcoin]: {{ 'bitcoin' | absolute_url }}
+[canary]: {{ 'canary' | absolute_url }}
 [photography]: {{ 'blog' | absolute_url }}
 [medium]: https://medium.com/@dergigi
 [gnu]: https://www.gnu.org/philosophy/free-sw.html
