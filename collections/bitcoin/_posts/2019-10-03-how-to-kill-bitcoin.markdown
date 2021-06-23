@@ -45,7 +45,7 @@ You don't.
 [Bitcoin Threat Model]: https://github.com/JWWeatherman/bitcoin_security_threat_model
 [Let's Destroy Bitcoin]: https://www.technologyreview.com/s/610809/lets-destroy-bitcoin/
 [How Governments could Kill Bitcoin]: https://www.forbes.com/sites/ktorpey/2019/04/30/economist-shares-a-unique-take-on-how-governments-could-kill-bitcoin/
-[How to Destroy Bitcoin with 51%]: https://medium.com/fairlayer/how-to-destroy-bitcoin-with-51-pocked-guide-for-governments-83d9bdf2ef6b
+[How to Destroy Bitcoin with 51%]: https://web.archive.org/web/20191121193117/https://medium.com/fairlayer/how-to-destroy-bitcoin-with-51-pocked-guide-for-governments-83d9bdf2ef6b
 [DAOs, Democracy and Governance]: https://alcor.org/cryonics/Cryonics2016-4.pdf#page=28
 [How to Really Kill Bitcoin: a talk]: https://www.youtube.com/watch?v=ns_I2LpeAbQ&feature=youtu.be&t=20668
 [Bitcoin is a Decentralized Organism]: https://medium.com/@BrandonQuittem/bitcoin-is-a-decentralized-organism-mycelium-part-1-3-6ec58cdcfaa6
