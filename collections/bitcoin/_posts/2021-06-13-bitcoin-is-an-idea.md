@@ -7,6 +7,7 @@ description: "Nothing is as powerful as an idea whose time has come. Bitcoin is 
 image: /assets/images/bitcoin-is-an-idea.jpg
 author: Gigi
 category: bitcoin
+audio: /assets/audio/bitcoin-is-an-idea.ogg
 favorite: true
 tags:
  - Bitcoin
