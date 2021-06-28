@@ -21,6 +21,10 @@ translations:
    url: https://www.buda.com/blog/posts/carta-abierta-a-todos-los-bitcoiners-del-mundo/
    author: Buda
    author_url: https://www.buda.com/blog/
+ - language: Traditional Chinese
+   url: https://bitcoinbadger.blogspot.com/2021/06/blog-post.html
+   author: Di Wu
+   author_url: https://twitter.com/BitcoinAnother
 series: Open Letters
 ---
 
