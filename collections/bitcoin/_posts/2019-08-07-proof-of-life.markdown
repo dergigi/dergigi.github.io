@@ -273,7 +273,7 @@ as a whole.
 
 > Life is like fire, not water; it is a process, not a pure substance.
 > \[...\] The simplest, but not the only, proof of life is to find
-> something that is alive."
+> something that is alive.
 >
 > <cite>[Christopher McKay][mckay]</cite>
 
