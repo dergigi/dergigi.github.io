@@ -62,6 +62,10 @@ translations:
    url: https://www.rahatonnainen.com/bitcoin-suomi-kirje-gigi/
    author: Rahaton Nainen
    author_url: https://twitter.com/RNainen
+ - language: Finnish (audio)
+   url: https://anchor.fm/oispa-pitkoo/episodes/8-Lukemisia---Kirje-kaikille--joilla-ei-vielkn-ole-bitconia-e147qlp
+   author: Oispa Pitkoo
+   author_url: https://twitter.com/OispaPitkoo
 series: Open Letters
 ---
 
