@@ -41,6 +41,12 @@ subconsciously as I pull my hand away from a hot stove.
   <div class="button button-black button-medium">
     <a href="https://github.com/sponsors/dergigi"><i class="fab fa-github"></i> &nbsp; Sponsor me on GitHub</a>
   </div>
+  <small>
+    (or
+    tip me via
+    <a href="https://next-pay-beta.vercel.app/">LNURL</a>
+    )
+  </small>
 </div>
 
 I believe, however, that there is something which could work for everyone
