@@ -23,6 +23,7 @@ the bottom of this page.
 
 ### English Interviews and Conversations
   - **2021-07-09** - [Swan Lounge with Tomer Strolight][sl-tomer] and the crew, hosted by Brekkie
+  - **2021-07-08** - [Why Bitcoin 24][why24] on CoinJoin and other topics, hosted by Jeff and Doug
   - **2021-07-05** - [Closing the Loop #1][ctl1], hosted by John
   - **2021-06-29** - [Dumbest Guy in the Room][dgitr10] on Bitcoin as Truth and Time, hosted by Eric
   - **2021-06-21** - [Bitcoin Made Simple 22][bms22] on Toxicity and Breedlove22 Coin, hosted by Cory (also on [youtube][bms22-yt])
@@ -67,6 +68,7 @@ the bottom of this page.
   - **2020-05-20** - [Swan Signal #11][ss11] with Knut, Brekkie, and Cory, hosted by Brady (also on [youtube][ss11-yt])
 
 [sl-tomer]: https://youtu.be/6B-S5KXz5qA
+[why24]: https://anchor.fm/why-bitcoin/episodes/Episode-24-The-Gigi-Episode-e145sc1
 [ctl1]: https://anchor.fm/closingtheloop/episodes/01---Gigi-Introduction-to-Closing-the-Loop-e13sdmm
 [dgitr10]: https://anchor.fm/e3btc/episodes/010--Gigi---Bitcoin-Stands-for-Truth-e13kf63
 [bms22]: https://anchor.fm/bitcoinmadesimple/episodes/BMS-022-with-Gigi-e138fv1
