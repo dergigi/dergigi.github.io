@@ -32,6 +32,8 @@ ecosystem, and I plan to continue to do so in the foreseeable future. While I
 don't expect anything in return, receiving a couple of sats every now and then
 is a motivational boost like no other.
 
+{% include image.html path="/assets/images/bitcoin/lnurl-pay.png" caption="Requires an LNURL-compatible ⚡ wallet." %}
+
 Paying for immaterial stuff on the internet is a weird thing.
 Everyone got used to the fact that everything is available for free, all the
 time. I got used to that too, and I tend to close paywalls as fast and as
