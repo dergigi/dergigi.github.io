@@ -66,6 +66,10 @@ translations:
    url: https://anchor.fm/oispa-pitkoo/episodes/8-Lukemisia---Kirje-kaikille--joilla-ei-vielkn-ole-bitconia-e147qlp
    author: Oispa Pitkoo
    author_url: https://twitter.com/OispaPitkoo
+ - language: Greek
+   url: https://telegra.ph/%CE%91%CE%B3%CE%B1%CF%80%CE%B7%CE%BC%CE%AD%CE%BD%CE%B7-%CE%9F%CE%B9%CE%BA%CE%BF%CE%B3%CE%AD%CE%BD%CE%B5%CE%B9%CE%B1-%CE%91%CE%B3%CE%B1%CF%80%CE%B7%CE%BC%CE%AD%CE%BD%CE%BF%CE%B9-%CE%A6%CE%AF%CE%BB%CE%BF%CE%B9-07-20
+   author: Nina
+   author_url: https://twitter.com/MiaThalassa
 series: Open Letters
 ---
 
