@@ -32,6 +32,10 @@ translations:
    url: https://medium.com/brandin-kirjasto/bitcoinin-painovoima-e70419cedb77
    author: Thomas Brand
    author_url: https://twitter.com/thlbr
+ - language: Portuguese
+   url: https://explicabitcoin.medium.com/a-gravidade-do-bitcoin-a50685170793
+   author: Explica Bitcoin
+   author_url: https://twitter.com/BitcoinExplica
 ---
 
 Bitcoin is different things to different people. Whatever it might be to
