@@ -128,7 +128,7 @@ Antonopoulos] in [Mastering Bitcoin]:
 > The bitcoin private key is just a number. You can pick your private
 > keys randomly using just a coin, pencil, and paper: toss a coin 256
 > times and you have the binary digits of a random private key you can
-> use in a bitcoin wallet."
+> use in a bitcoin wallet.
 >
 > <cite>[Andreas M. Antonopoulos][Mastering Bitcoin]</cite>
 
@@ -179,7 +179,7 @@ zeros and ones.
 > Central banks now have no way of stopping competition by just passing
 > laws as they have always done. They are now up against a digital
 > competitor that most likely cannot be brought under the physical
-> world's laws."
+> world's laws.
 >
 > <cite>[Saifedean Ammous], [The Bitcoin Standard]</cite>
 
