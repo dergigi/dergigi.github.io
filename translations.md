@@ -14,6 +14,9 @@ Thanks to this license - and many awesome individual bitcoiners - many of my
 writings, including my book [21 Lessons](https://21lessons.com/translations), have been
 translated to other languages.
 
+---
+
+Find a list of translations below. If a translation is missing please [let me know][contact].
 
 {% for post in site.categories.bitcoin %}
 {% if post.translations %}
