@@ -39,7 +39,7 @@ deleted without an answer.
 
 ## Questions
 
-I do Q&A sessions from time to time. Please send any questions to the email above, 
+I do [Q&A sessions][patreon] from time to time. Please send any questions to the email above, 
 replacing the "hi" part of the address with "question" (this is my way of making 
 sure that you are not a robot).
 
