@@ -27,6 +27,10 @@ translations:
    url: https://youtu.be/uX06_g2c9DA
    author:  Till Musshoff
    author_url: https://twitter.com/bPGTill
+ - language: Greek
+   url: https://medium.com/@northberlin_64196/%CF%84%CE%BF-bitcoin-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%87%CF%81%CF%8C%CE%BD%CE%BF%CF%82-74b8648a6114
+   author: Nina
+   author_url: https://twitter.com/MiaThalassa
 tags:
  - Bitcoin
  - Writing
