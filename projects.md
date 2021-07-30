@@ -88,7 +88,7 @@ interviewing various experts in the German-speaking Bitcoin world. We also start
 release readings of the best Bitcoin content, thanks to the growing availability and quality
 of German translations.
 
-{% include image.html path="/assets/images/bitcoin/projects/einundzwanzig.png" link="https://anchor.fm/einundzwanzig" %}
+{% include image.html path="/assets/images/bitcoin/projects/einundzwanzig.png" link="https://einundzwanzig.space/podcast/" %}
 
 * Hosts: [Daniel], [Dennis], [Fab], [Gigi], [Markus]
 * Website: [einundzwanzig.space](https://einundzwanzig.space/)
