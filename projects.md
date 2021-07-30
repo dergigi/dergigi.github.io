@@ -91,8 +91,8 @@ of German translations.
 {% include image.html path="/assets/images/bitcoin/projects/einundzwanzig.png" link="https://anchor.fm/einundzwanzig" %}
 
 * Hosts: [Daniel], [Dennis], [Fab], [Gigi], [Markus]
-* Website: [einundzwanzig-podcast.github.io](https://einundzwanzig-podcast.github.io/)
-* Podcast: [anchor.fm/einundzwanzig][einundzwanzig]
+* Website: [einundzwanzig.space](https://einundzwanzig.space/)
+* Podcast: [einundzwanzig.space/podcast][einundzwanzig]
 * Twitter: [@\_einundzwanzig\_](https://twitter.com/_einundzwanzig_)
 * Community: [t.me/einundzwanzigpodcast](https://t.me/einundzwanzigpodcast)
 
@@ -101,7 +101,7 @@ of German translations.
 [Fab]: https://twitter.com/fabthefoxx
 [Gigi]: https://twitter.com/dergigi
 [Markus]: https://twitter.com/MarkusTurm
-[einundzwanzig]: https://anchor.fm/einundzwanzig
+[einundzwanzig]: https://einundzwanzig.space/podcast/
 
 ### 21 Lektionen
 
