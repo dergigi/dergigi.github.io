@@ -185,6 +185,19 @@ a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 [vob-competing-with-free]: https://youtu.be/JtzwTd9Ur5c
 [frankfurt-school]: https://youtu.be/fx7qftuxyn8
 
+### Videos and other Remixes
+
+Some of my writing was remixed as videos and VR worlds.
+
+
+- **2021-03-15** - [Bitcoin is Time][till-time] by Till Musshoff
+- **2021-04-06** - [21 Lessons in VR][21lessons-vr] by BITPAINT
+- **2021-07-31** - [Proof of Work][pow-video] by yungfi
+
+[pow-video]: https://youtu.be/VfEnzaHAT-g
+[21lessons-vr]: https://21lessons.com/vr/
+[till-time]: https://youtu.be/uX06_g2c9DA
+
 ### Other
 
 - **2020-12-23** - Cited in [Forbes][forbes]: The 'Beginning of the End' of Shitcoins
