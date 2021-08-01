@@ -39,8 +39,8 @@ deleted without an answer.
 
 ## Questions
 
-I do [Q&A sessions][patreon] from time to time. Please send any questions to the email above, 
-replacing the "hi" part of the address with "question" (this is my way of making 
+I do [Q&A sessions][patreon] from time to time. Please send any questions to the email above,
+replacing the "hi" part of the address with "question" (this is my way of making
 sure that you are not a robot).
 
 ## About Me
@@ -68,6 +68,14 @@ along][twitter] for the ride. That's perfectly fine too.
 
 Hope to see you around, \\
 Gigi
+
+---
+
+## Links
+
+* [/blog][photography]: random thoughts and photographs
+* [/twitter][twitter]: mostly shitposts
+* [/patreon][patreon]: close and personal chats, early drafts of my work
 
 ---
 
