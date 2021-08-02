@@ -54,7 +54,7 @@ educate others. We must not forget what politicians are implying when
 they are musing about "banning wallets" and making up nonsensical and
 disingenuous adjectives such as "self-hosted" and "non-custodial."
 
-A wallet is nothing special; it can be just some words in your head. You
+A wallet is nothing special; it can be just some words in your head.[^7] You
 don't need specialized equipment to generate a secure wallet. A coin or
 some dice is all you need.
 
@@ -102,11 +102,10 @@ or atmospherical turbulences, and so on.
 Further, since these zeros and ones are just information, you can
 represent them in countless different ways. The information does not
 change; just the *representation* of the information changes. The
-hexadecimal representation of
-`12e188aeb7c9aeb0eef7fac7c89e3b9b535a30b2ce8d6b74b706fa6f86b061e4`
-represents the same private key as the zeros and ones above. As does the
-following mnemonic code, which can be learned by heart with some
-practice: 
+hexadecimal version
+12e188aeb7c9aeb0eef7fac7c89e3b9b535a30b2ce8d6b74b706fa6f86b061e4 represents the
+same private key as the zeros and ones above. As does the following mnemonic
+code, which can be learned by heart with some practice: 
 
 `concert, frozen, pull, battle, spend, fancy, orient, inside, quiz,
 submit, scare, mechanic, awake, mercy, lock, inside, language, tag,
@@ -142,7 +141,7 @@ a bitcoin address, will look something like this: 
 Share your address with someone else, and you are ready to receive your
 first sats. Keep in mind that you don't have to share the address in
 this exact format. You can encode it as a QR code, as a number, as
-emojis, as an audio file, or as braille.[^4] You can put it in your invoice,
+emojis,[^4] as an audio file, or as braille. You can put it in your invoice,
 display it on your homepage, in your profile, send it via a messaging
 application, or tattoo it on your body. It is just information. It can
 be represented in countless ways.
@@ -159,7 +158,7 @@ that will transfer the sats to your name - if you excuse my imprecise
 language. It's not your name, of course, since Bitcoin doesn't know
 any names. But that would be one way to think about it.
 
-Someone just sent a transaction that includes your address as an output,
+Someone just broadcast a transaction that includes your address as an output,
 which means that you will receive your first sats soon. Now what? Time
 to create a transaction and pass them on.
 
@@ -171,6 +170,8 @@ guessed it: math!
 
 In its simplest form, a bitcoin transaction is a message that says
 something like the following:
+
+> I, Alice, hereby transfer 21 sats to Bob. Signed, Alice.
 
 Real transactions might have multiple senders and multiple recipients as
 well as various other tweaks and efficiencies, but the essence remains
@@ -229,7 +230,7 @@ the peculiar nature of information. If you outlaw certain kinds of information,
 you implicitly outlaw **all** representations of this information: text, speech,
 images, emojis, QR codes, sign language, interpretive dance, and so on. And
 since all information can be represented as a number - including [math] and
-[computer code] itself it boils down to making numbers illegal.
+[computer code] *itself*, it boils down to making numbers illegal.
 
 [math]: https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714/
 [computer code]: https://primes.utm.edu/glossary/page.php?sort=Illegal
@@ -238,12 +239,11 @@ Although banning numbers is as ridiculous as it sounds, it has happened
 in the past. [Illegal
 numbers](https://en.wikipedia.org/wiki/Illegal_number) and [illegal
 primes](https://en.wikipedia.org/wiki/Illegal_prime) are a thing
-precisely because some people tried to outlaw certain kinds of
+*precisely* because some people tried to outlaw certain kinds of
 information.
 
-We will have to grapple with the fact that Bitcoin wallets and
-transactions are just that: information. As is everything else in
-Bitcoin.
+Society and law makers will have to grapple with the fact that Bitcoin wallets
+and transactions are just information, as is everything else in Bitcoin.
 
 ### Spending Sats Is Sending a Message
 
@@ -396,9 +396,9 @@ is not feasible. You would have to outlaw the generation of entropy, the
 act of coming up with random numbers. You would have to surveil everyone
 at all times, kicking in their door and arresting them once they sit
 down and start flipping a coin or rolling some dice. You would have to
-pass legislation that criminalizes thought itself since creating an
-"anonymous bitcoin wallet" is nothing more than thinking of 12 random
-words.[^7]
+pass **legislation that criminalizes thought itself** since creating an
+"anonymous bitcoin wallet" is nothing more than coming up with 12 random
+words.
 
 Dear legislators, I ask you earnestly: do you genuinely believe that
 outlawing speech is a good idea? Do you want to make math illegal? Are
@@ -439,4 +439,4 @@ my upcoming book [*21 Ways*](https://patreon.com/dergigi).
 
 [^6]: There are many tools to decode transactions. Here is one example: [https://live.blockcypher.com/btc/decodetx/](https://live.blockcypher.com/btc/decodetx/%5D)
 
-[^7]: Again: Don't do this. I repeat: DON'T DO THIS. The human brain is terrible at coming up with random numbers.
+[^7]: Warning: Do not use brain wallets unless absolutely necessary. Forgetfulness and loss of brain function will lead to lost funds. Do not create private keys in your head. The human brain is terrible at coming up with random numbers. 
