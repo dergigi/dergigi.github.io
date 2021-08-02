@@ -185,11 +185,11 @@ Bitcoin network, a special, more precise format has to be used. Don't
 get confused by the format of the message or how the message is encoded.
 It doesn't matter if the language is English or something that is
 easier to understand for computers. The meaning of the message remains
-the same. I could write the above as "[A]\--21\--\>[B]" and sign
+the same. I could write the above as `[A]--21-->[B]` and sign
 it with the private key that corresponds to A, and it would essentially
 be the same thing.
 
-![](http://fakehost/file/aa53f610bd97c4a518efc.png)
+{% include image.html name="alice-bob-21.png" caption="TODO" %}
 
 This brings us to the important part: the signature. Hand-written
 signatures are not very useful in a digital world, which is why
@@ -216,8 +216,7 @@ You can use various tools [^6] to decode and inspect it. These tools
 help us humans to make sense of it all, but the underlying reality
 remains: it's numbers all the way down.
 
-![Byte-map of a Bitcoin
-transaction.](http://fakehost/file/40470e03720ed1c982329.png)
+{% include image.html name="byte-map.png" caption="Byte-map of a Bitcoin transaction." %}
 
 To reiterate, the following is all you have to do to interact with the
 Bitcoin network:
@@ -267,8 +266,7 @@ it out of
 [fun](https://twitter.com/nvk/status/1095781212633784320/photo/1) or
 necessity.
 
-![Bitcoin over ham radio. Source:
-NVK](http://fakehost/file/ebde82717731e4f97b1d0.jpg)
+{% include image.html name="ham-radio.png" caption="Bitcoin over ham radio. Source: NVK" %}
 
 The fact that spending sats is sending a message doesn't change on
 higher layers. Nodes on the Lightning Network are doing the same thing:
@@ -308,8 +306,7 @@ Not too long ago, when you said "computer," you were referring to a
 person. It was a job description, not a thing. The most efficient way to
 run the numbers was to pay a person to sit down and do the math. 
 
-![Most early computers were
-female.](http://fakehost/file/4cd304f996585a26c61c8.jpg)
+{% include image.html name="computers.png" caption="Most early computers were female." %}
 
 Over time, we've built ever more efficient contraptions to do the math
 for us. Today, when we say "computer," we mean something that uses
