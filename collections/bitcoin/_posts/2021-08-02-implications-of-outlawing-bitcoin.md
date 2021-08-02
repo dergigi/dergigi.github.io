@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Implications of Outlawing Bitcoin"
-date: 2021-08-01
+date: 2021-08-02
 blocktime: 687477
 description: "TODO"
 image: /assets/images/bitcoin-is-an-idea.jpg
