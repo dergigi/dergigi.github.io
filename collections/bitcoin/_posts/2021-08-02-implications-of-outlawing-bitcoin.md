@@ -189,7 +189,7 @@ the same. I could write the above as `[A]--21-->[B]` and sign
 it with the private key that corresponds to A, and it would essentially
 be the same thing.
 
-{% include image.html name="alice-bob-21.png" caption="TODO" %}
+{% include image.html name="alice-bob-21.png" caption="A bitcoin transaction (artist's rendition)." %}
 
 This brings us to the important part: the signature. Hand-written
 signatures are not very useful in a digital world, which is why
