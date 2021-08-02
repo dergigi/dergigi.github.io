@@ -414,12 +414,14 @@ realize that Bitcoin is just that: thought and speech.
 
 * [Bitcoin mining the hard way][hard-way] by Ken Shirriff
 * [Using the raw Bitcoin protocol][hard-raw] by Ken Shirriff
+* [Create a Bitcoin transaction by hand][tx-hand] by Ádám Ficsór
 * [Remembering the Case that Established Code as Speech][code-is-speech] by EFF
 * [Why America Can't Regulate Bitcoin][why-beautyon] by Beautyon
 * Lesson 6: [The power of free speech][lesson6]
 
 [hard-way]: https://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html
 [hard-raw]: https://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html
+[tx-hand]: https://www.codeproject.com/Articles/1151054/Create-a-Bitcoin-transaction-by-hand
 [code-is-speech]: https://www.eff.org/deeplinks/2015/04/remembering-case-established-code-speech
 [why-beautyon]: https://archive.is/yAOwZ
 [lesson6]: https://21lessons.com/6/
