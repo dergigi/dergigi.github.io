@@ -61,14 +61,14 @@ some dice is all you need.
 ### Creating a Wallet Is Flipping a Coin
 
 To interact with the Bitcoin network, you need a wallet, which is to say
-you need a private key. [^0] While conventional concepts do not apply
+you need a private key.[^0] While conventional concepts do not apply
 well to Bitcoin, one could argue that creating a public-private key pair
 is akin to creating an account. And since public keys are derived from
 private keys, we only have to answer one question: what are private
 keys, and how are they created?
 
 A [private key](https://en.bitcoin.it/wiki/Private_key) is a 256-bit
-number. That's it. End of story. [^1]
+number. That's it. End of story.[^1]
 
 So, what exactly is a 256-bit number? Well, as the name suggests, a
 256-bit number is a number that, when represented using zeros and ones,
@@ -130,7 +130,7 @@ private key. Grab a pen and paper, go to your standing desk, and
 calculate your public key according
 to [BIP32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki).
 If you are short on time or bad with math, don't despair. There are
-online tools [^3] that will do the math for you. But remember that
+online tools[^3] that will do the math for you. But remember that
 these software tools do nothing weird or magical. It's just math, and
 you can do it yourself using nothing but a pen and paper.
 
@@ -207,11 +207,11 @@ is that you can verify that the sender is in control of a secret number
 without revealing the secret number. This is what cryptographic
 signatures do.
 
-Let's look at an example. The following is a valid transaction: [^5]
+Let's look at an example. The following is a valid transaction:[^5]
 
 `01000000017967a5185e907a25225574544c31f7b059c1a191d65b53dcc1554d339c4f9efc010000006a47304402206a2eb16b7b92051d0fa38c133e67684ed064effada1d7f925c842da401d4f22702201f196b10e6e4b4a9fff948e5c5d71ec5da53e90529c8dbd122bff2b1d21dc8a90121039b7bcd0824b9a9164f7ba098408e63e5b7e3cf90835cceb19868f54f8961a825ffffffff014baf2100000000001976a914db4d1141d0048b1ed15839d0b7a4c488cd368b0e88ac00000000`
 
-You can use various tools [^6] to decode and inspect it. These tools
+You can use various tools[^6] to decode and inspect it. These tools
 help us humans to make sense of it all, but the underlying reality
 remains: it's numbers all the way down.
 
@@ -220,21 +220,19 @@ remains: it's numbers all the way down.
 To reiterate, the following is all you have to do to interact with the
 Bitcoin network:
 
-Step 1: Flip a coin a couple of times.
+* Step 1: Flip a coin a couple of times.
+* Step 2: Do some math.
+* Step 3: Send and receive messages.
 
-Step 2: Do some math.
+Outlawing any of these three steps is ridiculous. It is ridiculous because of
+the peculiar nature of information. If you outlaw certain kinds of information,
+you implicitly outlaw **all** representations of this information: text, speech,
+images, emojis, QR codes, sign language, interpretive dance, and so on. And
+since all information can be represented as a number - including [math] and
+[computer code] itself it boils down to making numbers illegal.
 
-Step 3: Send and receive messages.
-
-Outlawing any of these three steps is ridiculous. It is ridiculous
-because of the peculiar nature of information. If you outlaw certain
-kinds of information, you implicitly outlaw **all** representations of
-this information: text, speech, images, emojis, QR codes, sign language,
-interpretive dance, and so on. And since all information can be
-represented as a number -
-including [math](https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714/) and [computer
-code](https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714/) itself
-- it boils down to making numbers illegal.
+[math]: https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714/
+[computer code]: https://primes.utm.edu/glossary/page.php?sort=Illegal
 
 Although banning numbers is as ridiculous as it sounds, it has happened
 in the past. [Illegal
@@ -400,7 +398,7 @@ at all times, kicking in their door and arresting them once they sit
 down and start flipping a coin or rolling some dice. You would have to
 pass legislation that criminalizes thought itself since creating an
 "anonymous bitcoin wallet" is nothing more than thinking of 12 random
-words. [^7]
+words.[^7]
 
 Dear legislators, I ask you earnestly: do you genuinely believe that
 outlawing speech is a good idea? Do you want to make math illegal? Are
