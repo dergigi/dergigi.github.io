@@ -3,7 +3,7 @@ layout: post
 title: "Implications of Outlawing Bitcoin"
 date: 2021-08-02
 blocktime: 687477
-description: "TODO"
+description: "Bitcoin is numbers. Bitcoin is math. Bitcoin is thought. Bitcoin is speech."
 image: /assets/images/btc-law.jpg
 author: Gigi
 category: bitcoin
