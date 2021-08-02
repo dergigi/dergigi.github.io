@@ -355,9 +355,11 @@ equations to your peers. That's it.
 > someone chose to write a novel entirely in computer object code by
 > using strings of 1's and 0's for each letter of each word, the
 > resulting work would be no different for constitutional purposes than
-> if it had been written in English.\
-> ― [*Junger v. Daley*, 209 F.3d 481,
-> 484](http://digital-law-online.info/lpdi1.0/quotes/fn3-192.htm#q)
+> if it had been written in English.
+>
+> <cite>[Junger v. Daley*, 209 F.3d 481, 484][junger]</cite>
+
+[junger]: http://digital-law-online.info/lpdi1.0/quotes/fn3-192.htm#q
 
 Once you understand that Bitcoin is information - and that computers and
 the internet are just the best substrates to transform and transmit this
