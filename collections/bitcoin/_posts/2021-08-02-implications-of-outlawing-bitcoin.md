@@ -400,9 +400,10 @@ pass **legislation that criminalizes thought itself** since creating an
 "anonymous bitcoin wallet" is nothing more than coming up with 12 random
 words.
 
-Dear legislators, I ask you earnestly: do you genuinely believe that
-outlawing speech is a good idea? Do you want to make math illegal? Are
-you prepared to outlaw thought itself?
+Dear legislators, I ask you earnestly:
+Are you prepared to outlaw thought itself?
+Should math be illegal?
+Do you genuinely believe that outlawing speech is a good idea?
 
 I hope that we can all agree that thought and speech are paramount to a
 free and prosperous society. And I hope that, as more and more people
