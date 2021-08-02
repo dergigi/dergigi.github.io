@@ -139,18 +139,16 @@ a bitcoin address, will look something like this: 
 Share your address with someone else, and you are ready to receive your
 first sats. Keep in mind that you don't have to share the address in
 this exact format. You can encode it as a QR code, as a number, as
-emojis, as an audio file, or as braille. You can put it in your invoice,
+emojis, as an audio file, or as braille.[^4] You can put it in your invoice,
 display it on your homepage, in your profile, send it via a messaging
 application, or tattoo it on your body. It is just information. It can
 be represented in countless ways.
 
-🕊 🤙 ⛸ 🏂 🌾 🍊 📠 🙍‍♂️ ⛸ 🌄 🔩 🏋 😮 🤦‍♀️ 🚵 🎾
-
-[^4]
-
-{% include image.html name="qr.png" caption="Easier to read for computers." %}
+{% include image.html name="qr.png" caption="Easier to read for computers." alt="Use Lightning." %}
 
 {% include image.html name="braille.png" caption="Easier to read for blind people." %}
+
+{% include image.html name="emojis.png" caption="Easier to read for millenials." alt="🕊 🤙 ⛸ 🏂 🌾 🍊 📠 🙍‍♂️ ⛸ 🌄 🔩 🏋 😮 🤦‍♀️ 🚵 🎾" %}
 
 Also, keep in mind that you do not have to be online to receive sats.
 The sats won't be sent to you directly. Someone will sign a message
