@@ -290,11 +290,11 @@ This brings us to the last piece of the Bitcoin protocol puzzle: mining.
 
 ### Mining Bitcoin Is Guessing a Number 
 
-Most people do not understand what Bitcoin mining is and how it works.
-They do not speak the language of Bitcoin, failing to understand both 
-[*what*](https://en.bitcoin.it/wiki/Block)  is spoken
-and [*why*](https://dergigi.com/2021/01/14/bitcoin-is-time/) it is
-spoken in the first place.
+Most people do not understand what Bitcoin mining is and how it works. They do
+not speak the language of Bitcoin, failing to understand both
+[what](https://en.bitcoin.it/wiki/Block) is spoken and
+[why](https://dergigi.com/2021/01/14/bitcoin-is-time/) it is spoken in the first
+place.
 
 Bitcoin miners aren't doing anything special, just like computers
 aren't doing anything special. They are crunching numbers.
@@ -411,9 +411,17 @@ realize that Bitcoin is just that: thought and speech.
 
 ### Further Reading
 
--   <http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html>
--   <http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html>
--   <https://www.eff.org/deeplinks/2015/04/remembering-case-established-code-speech>
+* [Bitcoin mining the hard way][hard-way] by Ken Shirriff
+* [Using the raw Bitcoin protocol][hard-raw] by Ken Shirriff
+* [Remembering the Case that Established Code as Speech][code-is-speech] by EFF
+* [Why America Can't Regulate Bitcoin][why-beautyon] by Beautyon
+* Lesson 6: [The power of free speech][lesson6]
+
+[hard-way]: https://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html
+[hard-raw]: https://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html
+[code-is-speech]: https://www.eff.org/deeplinks/2015/04/remembering-case-established-code-speech
+[why-beautyon]: https://archive.is/yAOwZ
+[lesson6]: https://21lessons.com/6/
 
 
 ------------------------------------------------------------------------
@@ -439,4 +447,4 @@ my upcoming book [*21 Ways*](https://patreon.com/dergigi).
 
 [^6]: There are many tools to decode transactions. Here is one example: [https://live.blockcypher.com/btc/decodetx/](https://live.blockcypher.com/btc/decodetx/%5D)
 
-[^7]: Warning: Do not use brain wallets unless absolutely necessary. Forgetfulness and loss of brain function will lead to lost funds. Do not create private keys in your head. The human brain is terrible at coming up with random numbers. 
+[^7]: Warning: Do not use [brain wallets](https://en.bitcoin.it/wiki/Brainwallet) unless absolutely necessary. Forgetfulness and loss of brain function will lead to lost funds. Do not create private keys in your head. The human brain is terrible at coming up with random numbers.
