@@ -148,11 +148,9 @@ be represented in countless ways.
 
 [^4]
 
-![Easier to read for
-computers.](http://fakehost/file/3fe5628cdf5dcf9ce5a6a.png)
+{% include image.html name="qr.png" caption="Easier to read for computers." %}
 
-![Easier to read for blind
-people.](http://fakehost/file/58935401d2833ab706886.png)
+{% include image.html name="braille.png" caption="Easier to read for blind people." %}
 
 Also, keep in mind that you do not have to be online to receive sats.
 The sats won't be sent to you directly. Someone will sign a message
