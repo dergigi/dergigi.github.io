@@ -4,6 +4,7 @@
 body {
   font-family: $font;
   line-height: $base-lineheight;
+  word-wrap: anywhere;
   color: $color-lightgrey;
   background-color: $color-twitter-black;
 }
