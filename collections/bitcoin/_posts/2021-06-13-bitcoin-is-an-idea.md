@@ -912,5 +912,3 @@ out that all that was missing was the right idea.
 my upcoming book [*21 Ways*](https://patreon.com/dergigi).
 
 ------------------------------------------------------------------------
-
-#### Footnotes
