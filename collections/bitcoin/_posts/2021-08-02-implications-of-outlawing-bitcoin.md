@@ -434,8 +434,6 @@ my upcoming book [*21 Ways*](https://patreon.com/dergigi).
 
 ------------------------------------------------------------------------
 
-#### Footnotes
-
 [^0]: A Bitcoin wallet is usually a piece of software or hardware that holds your private keys and signs transactions. Calling these things "wallets" wasn't the best idea, but we are stuck with it. It would be better to talk about (sets of) private keys and signers. Private keys can be cold (never touching the internet) or hot. Signers can be implemented as software or hardware.
 
 [^1]: Bitcoin Wiki, Private Key: [https://en.bitcoin.it/wiki/Private_key](https://en.bitcoin.it/wiki/Private_key)
