@@ -74,6 +74,10 @@ translations:
    url: https://medium.com/@PjerdBrt/sorodniki-prijatelji-in-vsi-ostali-b1586567189d
    author: Peter Golob
    author_url: https://twitter.com/GolobPeter
+ - language: French
+   url: https://medium.com/@bitcoinfrenched/ch%C3%A8re-famille-chers-amis-d30548df1f5a
+   author: Yasser
+   author_url: https://twitter.com/Yas_ser_1
 series: Open Letters
 ---
 
