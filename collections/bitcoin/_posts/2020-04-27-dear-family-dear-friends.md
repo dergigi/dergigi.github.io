@@ -76,8 +76,8 @@ translations:
    author_url: https://twitter.com/GolobPeter
  - language: French
    url: https://medium.com/@bitcoinfrenched/ch%C3%A8re-famille-chers-amis-d30548df1f5a
-   author: Yasser
-   author_url: https://twitter.com/Yas_ser_1
+   author: Bitcoin Frenched
+   author_url: https://twitter.com/bitcoinfrenched
 series: Open Letters
 ---
 
