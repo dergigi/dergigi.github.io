@@ -16,6 +16,10 @@ translations:
    url: https://bitcoin-translate.it/blog/20200730.php
    author: Italian Satoshi
    author_url: https://twitter.com/italiansatoshi
+ - language: Finnish (audio)
+   url: https://anchor.fm/oispa-pitkoo/episodes/10-Lukemisia---Oikeita-nimi-ei-vaadita-e15tmeb
+   author: Oispa Pitkoo
+   author_url: https://twitter.com/OispaPitkoo
 ---
 
 In 1981, at a time where the internet was in its infancy (and I was just
