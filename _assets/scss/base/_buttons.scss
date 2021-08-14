@@ -1,7 +1,51 @@
 //----------------------------------------------
 // Buttons
 //----------------------------------------------
-button {
+
+.value4value {
+  margin: 2em 0 4em;
+  text-align: center;
+
+  .input-wrapper {
+    input, select {
+      max-width: 4em;
+      background-color: $color-twitter-black;
+      border: 0;
+      color: $color-darkgrey;
+      background: none;
+    }
+
+    input[type=number]::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+    }
+    input[type=number] {
+      -moz-appearance: textfield;
+      appearance: textfield;
+      margin: 0;
+    }
+  }
+
+  button {
+    border: 1px solid $color-blue;
+    display: inline-block;
+    padding: 0.5em 2em;
+    margin: 0.21em;
+    background-color: $color-blue-darker;
+    color: $color-white !important;
+    border-radius: 8px;
+    text-decoration: none !important;
+    cursor: pointer;
+
+    font-weight: bolder;
+    font-size: $font-large;
+
+    img {
+      max-height: 21px;
+    }
+  }
+}
+
+.btcpay-flex-container button {
   @include btn-split($color-white, $color-white, 2px, 0.75em 1em);
 
   margin: 0;
