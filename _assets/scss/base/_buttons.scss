@@ -2,6 +2,7 @@
 // Buttons
 //----------------------------------------------
 .value4value {
+  margin: 2em 0 4em;
   text-align: center;
 
   .input-wrapper {
@@ -24,12 +25,12 @@
   }
 
   button {
-    border: 0;
+    border: 1px solid $color-blue;
     display: inline-block;
     padding: 0.5em 2em;
     margin: 0.21em;
-    background-color: $color-white;
-    color: $color-black !important;
+    background-color: $color-blue-darker;
+    color: $color-white !important;
     border-radius: 8px;
     text-decoration: none !important;
     cursor: pointer;

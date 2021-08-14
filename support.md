@@ -3,8 +3,8 @@ layout: page
 title: Support
 ---
 
-If you find my work valuable, consider giving value back. All my work is
-released under a [cc-by-sa][translations] license and provided on a
+If you find my work valuable, consider giving value back as you see fit. All my
+work is released under a [cc-by-sa][translations] license and provided on a
 [value for value] basis.
 
 [value for value]: https://levisan.me/blog/value-for-value
@@ -25,12 +25,15 @@ released under a [cc-by-sa][translations] license and provided on a
   </div>
   <div class="action-buttons">
     <button type="submit" class="button button-white button-large" name="submit" alt="Give sats">
-      Give value
-      <img src="/assets/images/bitcoin/orange-heart.png">
+      Give value 🙏
+      <!-- <img src="/assets/images/bitcoin/orange-heart.png"> -->
     </button>
   </div>
 </form>
 </div>
+
+If you can not part with your hard-earned sats, consider sharing one of my
+articles or working on a [translation][translations].
 
 ---
 
