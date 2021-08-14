@@ -37,6 +37,10 @@ articles or working on a [translation][translations].
 
 ---
 
+![Bitcoin is Love](/assets/images/bitcoin/bitcoin-is-love.png)
+
+---
+
 Dear Netizen, \\
 there are many ways to support me: you can support me on [Patreon](https://www.patreon.com/dergigi)
 and [GitHub](https://github.com/sponsors/dergigi/), [buy my book](https://amzn.to/2VXmQgp),
