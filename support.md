@@ -4,7 +4,7 @@ title: Support
 ---
 
 If you find my work valuable, consider giving value back. All my work is
-released under a [cc-by-sa][translations] license and provided for free on a
+released under a [cc-by-sa][translations] license and provided on a
 [value for value] basis.
 
 [value for value]: https://levisan.me/blog/value-for-value

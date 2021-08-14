@@ -10,6 +10,16 @@
       background-color: $color-twitter-black;
       border: 0;
       color: $color-darkgrey;
+      background: none;
+    }
+
+    input[type=number]::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+    }
+    input[type=number] {
+      -moz-appearance: textfield;
+      appearance: textfield;
+      margin: 0;
     }
   }
 
@@ -18,19 +28,22 @@
     display: inline-block;
     padding: 0.5em 2em;
     margin: 0.21em;
-    color: $color-white !important;
+    background-color: $color-white;
+    color: $color-black !important;
     border-radius: 8px;
     text-decoration: none !important;
+    cursor: pointer;
+
     font-weight: bolder;
     font-size: $font-large;
 
     img {
-      max-height: 20px;
+      max-height: 21px;
     }
   }
 }
 
-button {
+.btcpay-flex-container button {
   @include btn-split($color-white, $color-white, 2px, 0.75em 1em);
 
   margin: 0;
