@@ -1,6 +1,35 @@
 //----------------------------------------------
 // Buttons
 //----------------------------------------------
+.value4value {
+  text-align: center;
+
+  .input-wrapper {
+    input, select {
+      max-width: 4em;
+      background-color: $color-twitter-black;
+      border: 0;
+      color: $color-darkgrey;
+    }
+  }
+
+  button {
+    border: 0;
+    display: inline-block;
+    padding: 0.5em 2em;
+    margin: 0.21em;
+    color: $color-white !important;
+    border-radius: 8px;
+    text-decoration: none !important;
+    font-weight: bolder;
+    font-size: $font-large;
+
+    img {
+      max-height: 20px;
+    }
+  }
+}
+
 button {
   @include btn-split($color-white, $color-white, 2px, 0.75em 1em);
 

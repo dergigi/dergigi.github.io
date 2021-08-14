@@ -9,24 +9,28 @@ released under a [cc-by-sa][translations] license and provided for free on a
 
 [value for value]: https://levisan.me/blog/value-for-value
 
-<style type="text/css"> .btcpay-form { display: inline-flex; align-items: center; justify-content: center; } .btcpay-form--inline { flex-direction: row; } .btcpay-form--block { flex-direction: column; } .btcpay-form--inline .submit { margin-left: 15px; } .btcpay-form--block select { margin-bottom: 10px; } .btcpay-form .btcpay-custom-container{ text-align: center; }.btcpay-custom { display: flex; align-items: center; justify-content: center; } .btcpay-form .plus-minus { cursor:pointer; font-size:25px; line-height: 25px; background: #DFE0E1; height: 30px; width: 45px; border:none; border-radius: 60px; margin: auto 5px; display: inline-flex; justify-content: center; } .btcpay-form select { -moz-appearance: none; -webkit-appearance: none; appearance: none; color: currentColor; background: transparent; border:1px solid transparent; display: block; padding: 1px; margin-left: auto; margin-right: auto; font-size: 11px; cursor: pointer; } .btcpay-form select:hover { border-color: #ccc; } #btcpay-input-price { -moz-appearance: none; -webkit-appearance: none; border: none; box-shadow: none; text-align: center; font-size: 25px; margin: auto; border-radius: 5px; line-height: 35px; background: #fff; } #btcpay-input-price::-webkit-outer-spin-button, #btcpay-input-price::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; } </style>
-<form method="POST"  action="https://shop.dergigi.com/api/v1/invoices" class="btcpay-form btcpay-form--inline">
+<div class="value4value">
+<form method="POST" action="https://shop.dergigi.com/api/v1/invoices">
   <input type="hidden" name="storeId" value="3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn" />
   <input type="hidden" name="orderId" value="V4V" />
-  <div class="btcpay-custom-container">
+  <div class="input-wrapper">
     <div class="btcpay-custom">
-      <input id="btcpay-input-price" name="price" type="number" min="1" max="99999" step="10" value="21" style="width: 3em;" oninput="event.preventDefault();isNaN(event.target.value)? document.querySelector('#btcpay-input-price').value = 21 : event.target.value; if (this.value < 1) {this.value = 1; } else if(this.value > 99999){  this.value = 99999;}"  />
+      <input id="btcpay-input-price" name="price" type="number" min="1" max="99999" step="10" value="21" oninput="event.preventDefault();isNaN(event.target.value)? document.querySelector('#btcpay-input-price').value = 21 : event.target.value; if (this.value < 1) {this.value = 1; } else if(this.value > 99999){  this.value = 99999;}"  />
+      <select name="currency">
+        <option value="USD" selected>USD</option>
+        <option value="EUR">EUR</option>
+        <option value="SATS">SATS</option>
+      </select>
     </div>
-    <select name="currency">
-      <option value="USD" selected>USD</option>
-      <option value="GBP">GBP</option>
-      <option value="EUR">EUR</option>
-      <option value="BTC">BTC</option>
-    </select>
   </div>
-<button type="submit" class="submit" name="submit" style="min-width:209px; min-height:57px; border-radius: 4px;border-style: none;background-color: #0f3b21;" alt="Pay with BtcPay, Self-Hosted Bitcoin Payment Processor"><span style="color:#fff">Give value</span>
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/298/orange-heart_1f9e1.png" style="height:57px;display:inline-block;padding: 5% 0 5% 5px;vertical-align: middle;">
-</button></form>
+  <div class="action-buttons">
+    <button type="submit" class="button button-white button-large" name="submit" alt="Give sats">
+      Give value
+      <img src="/assets/images/bitcoin/orange-heart.png">
+    </button>
+  </div>
+</form>
+</div>
 
 ---
 
