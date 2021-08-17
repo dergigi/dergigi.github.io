@@ -30,10 +30,10 @@ the bottom of this page.
   - **2021-08-10** - [Jordan B. Peterson Podcast S4E40][jbpS4E40] on Bitcoin and the Future of Money with John, Richard, and Breedlove, hosted by Jordan B. Peterson
   - **2021-07-26** - [Bitcoin Standard Podcast #73][saif73] on Bitcoin and Time, hosted by Saifedean Ammous
   - **2021-07-09** - [Swan Lounge with Tomer Strolight][sl-tomer] and the crew, hosted by Brekkie
-  - **2021-07-08** - [Why Bitcoin 24][why24] on CoinJoin and other topics, hosted by Jeff and Doug
+  - **2021-07-08** - [Why Bitcoin #24][why24] on CoinJoin and other topics, hosted by Jeff and Doug
   - **2021-07-05** - [Closing the Loop #1][ctl1], hosted by John
   - **2021-06-29** - [Dumbest Guy in the Room][dgitr10] on Bitcoin as Truth and Time, hosted by Eric
-  - **2021-06-21** - [Bitcoin Made Simple 22][bms22] on Toxicity and Breedlove22 Coin, hosted by Cory (also on [youtube][bms22-yt])
+  - **2021-06-21** - [Bitcoin Made Simple #22][bms22] on Toxicity and Breedlove22 Coin, hosted by Cory (also on [youtube][bms22-yt])
   - **2021-06-15** - [Toxic Happy Hour][thh-miami] Miami Recap with Pubby and Anders
   - **2021-05-25** - [TFTC: Citadel Dispatch e0.2.3][tftc-cd23] with Gladstein and Croesus, hosted by Matt Odell (also on [youtube][tftc-cd23-yt])
   - **2021-05-05** - [Talking in Bits #18][tib18] on Lightning, Security, and more, hosted by Jose Burgos
