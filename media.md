@@ -21,6 +21,14 @@ my thoughts about Bitcoin. There are also some [guest posts](#guest-posts)
 and popular [twitter threads](#twitter-threads) linked at
 the bottom of this page.
 
+---
+
+{% capture absoluteVideoURL %}{{ 'assets/video/jbp.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=absoluteVideoURL %}
+Watch the [full interview][jbpS4E40] on YouTube.
+
+---
+
 [saif73]: https://saifedean.com/podcast/73-bitcoin-and-time-with-gigi/
 [jbpS4E40]: https://youtu.be/iVym9wtopqs
 [btcsessions2]: https://youtu.be/ykbANpzduUA
