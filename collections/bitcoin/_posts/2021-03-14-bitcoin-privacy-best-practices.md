@@ -156,7 +156,7 @@ can help improve both your privacy as well as your fee footprint.
 **Do not use public block explorers:** Looking up addresses in public
 block explorers will link those addresses with your IP, which, in turn,
 can be linked to your real identity. Software packages like
-[Umbrel](https://getumbrel.com/)and [myNode](https://mynodebtc.com/)
+[Umbrel](https://getumbrel.com/) and [myNode](https://mynodebtc.com/)
 make it easy to run your own block explorer. If you have to use a public
 block explorer, make sure to mask your IP by connecting to them via
 [Tor](https://www.torproject.org/download/), or at least use
