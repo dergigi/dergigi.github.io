@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dear Family, Dear Friends,"
+title: "Dear Family, Dear Friends"
 subtitle: A letter to all of you who still have no bitcoin.
 date: 2020-04-27
 blocktime: 627883
