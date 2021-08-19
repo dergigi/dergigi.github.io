@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "On Bitcoin's UX"
+description: Bitcoin is a new paradigm, just like the internet was.
 date: 2020-09-20
 blocktime: 649239
 image: /assets/images/btc19-ux.jpg

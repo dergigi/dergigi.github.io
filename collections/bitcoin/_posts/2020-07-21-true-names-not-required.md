@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "True Names Not Required"
+description: On the Internet, nobody knows you're a dog.
 date: 2020-07-21
 blocktime: 640147
 image: /assets/images/btc17-true-names.jpg

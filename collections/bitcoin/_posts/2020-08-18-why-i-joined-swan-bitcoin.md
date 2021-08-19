@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why I Joined Swan Bitcoin"
+description: What is the most important thing in the world you could be working on right now?
 date: 2020-08-18
 blocktime: 644284
 image: /assets/images/btc18-why-swan.jpg
