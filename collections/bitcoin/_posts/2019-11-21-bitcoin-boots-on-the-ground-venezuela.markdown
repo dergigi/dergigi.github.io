@@ -35,9 +35,9 @@ dollars in most other countries. In Venezuela, he is earning
 approximately $7 a month. Due to the failure of the monetary system in
 his country, José is working for free, essentially.
 
-> “Living in Venezuela gives you a certain advantage in understanding
+> Living in Venezuela gives you a certain advantage in understanding
 > how fiat money is essentially broken — we have the worst fiat money in
-> the world.”
+> the world.
 
 Bitcoin plays an interesting role in Venezuela. On the one hand, some
 people use it to store their wealth and protect themselves from
@@ -79,9 +79,9 @@ wondering if Bitcoin could fix this.”
 Bitcoin could indeed fix this, but with the current stance of the
 government, the use of bitcoin is pushed underground.
 
-> “BTC does not seem like something Maduro would want to have widespread
+> BTC does not seem like something Maduro would want to have widespread
 > adoption in Venezuela. Because it means giving people economic
-> freedom.”
+> freedom.
 
 Currently, it seems, the government is not interested in providing this
 freedom. It seems that the Venezuelan government is interested in
