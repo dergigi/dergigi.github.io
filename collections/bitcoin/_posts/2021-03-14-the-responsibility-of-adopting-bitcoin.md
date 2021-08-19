@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Responsibility of Adopting Bitcoin"
+description: Not only the moon is programmed in, but responsibility too.
 date: 2021-03-14
 blocktime: 674473
 image: /assets/images/btc21-kings.jpg

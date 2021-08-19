@@ -2,6 +2,7 @@
 layout: post
 title: "Bitcoin's Habitats"
 subtitle: "How Bitcoin is surviving and thriving between worlds"
+description: An exploration of cyberspace, meatspace, and finspace.
 date: 2020-03-01
 blocktime: 619664
 image: /assets/images/btc12-habitats.jpg

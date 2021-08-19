@@ -2,6 +2,7 @@
 layout: post
 title: "Bitcoin's Eternal Struggle"
 subtitle: "How Bitcoin Thrives on the Edge between Order and Chaos"
+description: Transforming absolute chaos into perfect order.
 date: 2019-12-22
 blocktime: 608839
 image: /assets/images/btc11-eternal-struggle.jpg

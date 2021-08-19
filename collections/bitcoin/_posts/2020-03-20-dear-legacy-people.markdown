@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Dear Legacy People"
+description: Do you realize how fucked you are?
 date: 2020-03-20
 blocktime: 631088
 image: /assets/images/btc13-dear-legacy-people.jpg

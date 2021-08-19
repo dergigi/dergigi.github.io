@@ -2,6 +2,7 @@
 layout: post
 title: "Dear Bitcoiners"
 subtitle: An optimistic letter to friends and foes around the globe.
+description: Bullish on bitcoiners. We got this.
 date: 2020-03-31
 blocktime: 623774
 image: /assets/images/btc14-dear-bitcoiners.jpg

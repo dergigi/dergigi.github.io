@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Bitcoin Journey"
+description: From stage zero to omnipresence.
 date: 2020-06-15
 blocktime: 634843
 image: /assets/images/btc16-bitcoin-journey.png

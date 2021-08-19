@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Bitcoin Is An Idea"
+description: Nothing is as powerful as an idea whose time has come.
 date: 2021-06-13
 blocktime: 687477
-description: "Nothing is as powerful as an idea whose time has come. Bitcoin is here to stay; and Bitcoin's time is now."
 image: /assets/images/bitcoin-is-an-idea.jpg
 author: Gigi
 category: bitcoin
