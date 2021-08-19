@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bitcoin Privacy: Best Practices"
+description: No one shall be subjected to arbitrary inter­fer­ence with his privacy.
 date: 2021-03-14
 blocktime: 671711
 image: /assets/images/btc-hats.jpg

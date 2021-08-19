@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Bitcoin Is Time"
+description: "Keeping track of things in the informational realm requires keeping track of time."
 date: 2021-01-14
 blocktime: 666053
-description: "Keeping track of things in the informational realm requires keeping track of time."
 image: /assets/images/bitcoin-is-time.jpg
 source: https://www.swanbitcoin.com/bitcoin-is-time/
 author: Gigi
