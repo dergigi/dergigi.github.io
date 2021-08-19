@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bitcoin Boots on the Ground: Venezuela"
+description: The advantage of understanding how broken fiat money truly is.
 date: 2019-11-21
 blocktime: 604834
 image: /assets/images/btc10-venezuela.jpg
