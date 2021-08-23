@@ -168,6 +168,7 @@ In [2019](https://www.blockstream.info/block-height/591121) a couple of
 bitcoiners and I launched [🇩🇪 EINUNDZWANZIG](https://einundzwanzig.space/),
 a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 
+  - **2021-08-20** - [🇨🇭 Relai DACH #22][relai22] on Bitcoin Narratives and Lightning (also on [youtube][relai22-yt])
   - **2021-08-01** - [🇩🇪 Block52 - #116][block52-116] on PoW and why Bitcoin, hosted by Philipp Sandner  
   - **2021-04-15** - [🇦🇹 Interview][trending-topics] by Jakob Steinschaden
   - **2021-04-10** - [🇩🇪 Dialog with Julian][dialog-ist-tot] on Toxic Maximalism and the Ethics of the Bitcoin Standard (also on [youtube][dialog-yt])
@@ -187,7 +188,8 @@ a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 [dialog-yt]: https://youtu.be/uXgH4RqiC_U
 [trending-topics]: https://www.trendingtopics.at/bitcoin-maximalist-interview-gigi/
 [block52-116]: https://pca.st/97b6jgey
-
+[relai22]: https://anchor.fm/relai-dach/episodes/22-Relai-Bitcoin-Session-mit-Der-Gigi-Der-Bitcoin-Befrworter-e166kgu
+[relai22-yt]: https://youtu.be/ncXKYCx97B0
 
 ### Talks
 
