@@ -8,9 +8,9 @@ digital scarcity and immutability is impossible.
 
 Read the following, in order:
 
-1. ["A failure to understand proof of work is a failure to understand Bitcoin"][tw-pow] - A thread on PoW
-2. ["Memes vs The World"][tw-meme-world] - A thread on the difference of ideas and physical objects
-3. [Bitcoin is Time][time]
+1. [A failure to understand proof of work is a failure to understand Bitcoin][tw-pow]
+2. [Memes vs The World][tw-meme-world] - How information differs from physical objects
+3. [Bitcoin is Time][time] - How Bitcoin decentralizes time itself
 4. [Bitcoin's Energy Consumption][energy] - A shift in perspective
 
 ---
