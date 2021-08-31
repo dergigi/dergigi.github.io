@@ -7,11 +7,20 @@ image: /assets/images/cc-by-sa-400.svg.png
 
 {% include image.html path="/assets/images/cc-by-sa-400.svg.png" %}
 
+
 Unless otherwise noted, all my writings are published under the [Creative
 Commons Attribution-ShareAlike 4.0 International][cc-by-sa] (CC BY-SA 4.0)
 license which means that you are free to share and adapt the material as you see
 fit. The only requirement is that you must distribute your contributions under
 the same license.
+
+<div class="action-buttons">
+  <div class="button button-blue button-large">
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">
+      &nbsp; Read the License
+    </a>
+  </div>
+</div>
 
 Thanks to this license - and many awesome individual bitcoiners - many of [my
 writings][translations], including my book [21 Lessons][21trans], have been
@@ -19,9 +28,8 @@ translated to other languages.
 
 ---
 
-* [Read a copy of the license][cc-by-sa]
-* [Translated articles][translations]
-* [Translations of 21 Lessons][21trans]
+* List of translated articles: [/translations][translations]
+* Book translations: [21Lessons.com/translations][21trans]
 
 ---
 
