@@ -33,7 +33,7 @@ collections:
   books:
     title: Books
     output: true
-    permalink: /bitcoin/resources/:slug
+    permalink: /books/:slug
   episodes:
     title: Episodes
     output: true
