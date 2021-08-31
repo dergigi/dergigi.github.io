@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Translations
+description: "How shall men meditate in that which they cannot understand?"
+image: /assets/images/translations.png
 ---
 
 {% include image.html path="/assets/images/cc-by-sa-400.svg.png" %}
