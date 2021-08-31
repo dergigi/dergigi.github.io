@@ -13,8 +13,9 @@ license which means that you are free to share and adapt the material as you see
 fit. The only requirement is that you must distribute your contributions under
 the same license.
 
-Thanks to this license - and many awesome individual bitcoiners - many of my
-writings, including my book 21 Lessons, have been translated to other languages.
+Thanks to this license - and many awesome individual bitcoiners - many of [my
+writings][translations], including my book [21 Lessons][21trans], have been
+translated to other languages.
 
 ---
 
