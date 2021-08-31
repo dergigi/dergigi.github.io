@@ -1,24 +1,19 @@
 ---
 layout: page
 title: Translations
+subtitle: "How shall men meditate in that which they cannot understand?"
 description: "How shall men meditate in that which they cannot understand?"
 image: /assets/images/translations.png
 ---
 
-{% include image.html path="/assets/images/cc-by-sa-400.svg.png" %}
-
-All my writing is published under the [Creative Commons Attribution-ShareAlike
-4.0 International (CC BY-SA 4.0) license][cc-by-sa] which means that you are
-free to share and adapt the material as you see fit. The only requirement is
-that you must distribute your contributions under the same license.
-
-Thanks to this license - and many awesome individual bitcoiners - many of my
-writings, including my book [21 Lessons](https://21lessons.com/translations), have been
-translated to other languages.
-
----
+If you want to translate or remix my work in any way, you are free to do so, as
+long as you comply with the [terms of the license][license]. Feel free to reach
+out to me if you have any questions or are working on a translation. I will
+gladly link to it in the original article.
 
 Find a list of translations below. If a translation is missing please [let me know][contact].
+
+---
 
 {% for post in site.categories.bitcoin %}
 {% if post.translations %}
@@ -40,11 +35,14 @@ The following articles haven't been translated yet:
 {% endif %}
 {% endfor %}
 
+---
 
-If you want to translate or remix my work in any way, you are free to do so, as
-long as you comply with the [terms of the license][cc-by-sa]. Feel free to
-[reach out to me][contact] if you have any questions or are working on a
-translation. I will gladly link to it in the original article.
+> Translators are the shadow heroes of literature, the often forgotten instruments
+> that make it possible for different cultures to talk to one another, who have
+> enabled us to understand that we all, from every part of the world, live in one
+> world.
+>
+> <cite>Paul Auster</cite>
 
 [contact]: {{ '/contact' | absolute_url }}
-[cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
+[license]: {{ '/license' | absolute_url }}
