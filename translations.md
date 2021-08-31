@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Translations
-subtitle: "How shall men meditate in that which they cannot understand?"
 description: "How shall men meditate in that which they cannot understand?"
 image: /assets/images/bitcoin/translations.png
 ---
