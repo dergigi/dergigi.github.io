@@ -2,7 +2,7 @@
 layout: page
 title: License
 description: "All my writings are published under the CC BY-SA 4.0 license."
-image: /assets/images/cc-by-sa-400.svg.png
+image: /assets/images/bitcoin/license.png
 ---
 
 {% include image.html path="/assets/images/cc-by-sa-400.svg.png" %}
