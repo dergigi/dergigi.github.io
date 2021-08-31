@@ -32,6 +32,8 @@ deleted without an answer.
 </div>
 
 <center>
+<small>(Twitter DMs are terrible. Please use Telegram if you can.)</small>
+<br/>
 <a href="{{ 'pgp' | absolute_url }}">PGP</a>
 </center>
 

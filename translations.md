@@ -10,6 +10,16 @@ long as you comply with the [terms of the license][license]. Feel free to reach
 out to me if you have any questions or are working on a translation. I will
 gladly link to it in the original article.
 
+How to go about doing translations:
+
+1. [Read the license][license]
+2. Choose what you want to translate
+3. Translate it
+4. Host your translation somewhere[^hosting]
+5. [Notify me][contact]
+
+[^hosting]: You can use Medium, or [Ghost](https://ghost.org/), or Wordpress, or Blogger, or [Jekyll](https://jekyllrb.com/), or [Telegra.ph](https://telegra.ph/), or [Write.as](https://write.as/), or one of the thousands of publishing solutions that surely exist. You can also just host a txt file on your web server or something.
+
 Find a list of translations below. If a translation is missing please [let me know][contact].
 
 ---
