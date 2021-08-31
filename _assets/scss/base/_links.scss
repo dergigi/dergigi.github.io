@@ -5,9 +5,9 @@ a {
   text-decoration: none;
 }
 
-li a[href^="http://"]:not([href*="dergigi.com"]):after,
-li a[href^="https://"]:not([href*="dergigi.com"]):after {
-    display: inline-block;
-    margin-left: 5px;
-    content: url('/assets/icons/external.svg'); width: 21px; height: 21px;
-}
+// li a[href^="http://"]:not([href*="dergigi.com"]):after,
+// li a[href^="https://"]:not([href*="dergigi.com"]):after {
+//     display: inline-block;
+//     margin-left: 5px;
+//     content: url('/assets/icons/external.svg'); width: 21px; height: 21px;
+// }
