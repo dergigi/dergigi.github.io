@@ -3,7 +3,7 @@ layout: page
 title: Translations
 subtitle: "How shall men meditate in that which they cannot understand?"
 description: "How shall men meditate in that which they cannot understand?"
-image: /assets/images/translations.png
+image: /assets/images/bitcoin/translations.png
 ---
 
 If you want to translate or remix my work in any way, you are free to do so, as
