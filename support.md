@@ -4,7 +4,7 @@ title: Support
 ---
 
 If you find my work valuable, consider giving value back as you see fit. All my
-work is released under a [cc-by-sa][translations] license and provided on a
+work is released under a [cc-by-sa license][license] and provided on a
 [value for value] basis.
 
 [value for value]: https://levisan.me/blog/value-for-value
@@ -150,3 +150,4 @@ Gigi
 
 
 [translations]: {{ '/translations' | absolute_url }}
+[license]: {{ '/license' | absolute_url }}
