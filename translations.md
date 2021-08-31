@@ -44,5 +44,7 @@ The following articles haven't been translated yet:
 >
 > <cite>Paul Auster</cite>
 
+---
+
 [contact]: {{ '/contact' | absolute_url }}
 [license]: {{ '/license' | absolute_url }}
