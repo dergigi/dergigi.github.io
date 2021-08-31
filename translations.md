@@ -15,6 +15,13 @@ Find a list of translations below. If a translation is missing please [let me kn
 
 ---
 
+### Book: 21 Lessons [[en][21lessons]]
+
+* [Multiple translations][21trans] by various translators
+
+
+---
+
 {% for post in site.categories.bitcoin %}
 {% if post.translations %}
 ### {{ post.title }} [[en]({{ post.url }})]
@@ -48,3 +55,5 @@ The following articles haven't been translated yet:
 
 [contact]: {{ '/contact' | absolute_url }}
 [license]: {{ '/license' | absolute_url }}
+[21lessons]: https://21lessons.com
+[21trans]: https://21lessons.com/translations
