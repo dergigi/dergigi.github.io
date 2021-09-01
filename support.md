@@ -85,6 +85,7 @@ subconsciously as I pull my hand away from a hot stove.
     (or
     tip me via
     <a href="https://next-pay-beta.vercel.app/">LNURL</a>
+    or send sats to dergigi@ln.tips
     )
   </small>
 </div>
