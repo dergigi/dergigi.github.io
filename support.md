@@ -9,27 +9,12 @@ work is released under a [cc-by-sa license][license] and provided on a
 
 [value for value]: https://levisan.me/blog/value-for-value
 
-<div class="value4value">
-<form method="POST" action="https://shop.dergigi.com/api/v1/invoices">
-  <input type="hidden" name="storeId" value="3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn" />
-  <input type="hidden" name="orderId" value="V4V" />
-  <div class="input-wrapper">
-    <div class="btcpay-custom">
-      <input id="btcpay-input-price" name="price" type="number" min="1" max="99999" step="10" value="21" oninput="event.preventDefault();isNaN(event.target.value)? document.querySelector('#btcpay-input-price').value = 21 : event.target.value; if (this.value < 1) {this.value = 1; } else if(this.value > 99999){  this.value = 99999;}"  />
-      <select name="currency">
-        <option value="USD" selected>USD</option>
-        <option value="EUR">EUR</option>
-        <option value="SATS">SATS</option>
-      </select>
-    </div>
-  </div>
-  <div class="action-buttons">
-    <button type="submit" class="button button-white button-large" name="submit" alt="Give sats">
+<div class="action-buttons">
+  <div class="button button-blue button-large">
+    <a href="https://shop.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&currency=USD">
       Give value 🙏
-      <!-- <img src="/assets/images/bitcoin/orange-heart.png"> -->
-    </button>
+    </a>
   </div>
-</form>
 </div>
 
 If you can not part with your hard-earned sats, consider sharing one of my
