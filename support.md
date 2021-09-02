@@ -11,7 +11,7 @@ work is released under a [cc-by-sa license][license] and provided on a
 
 <div class="action-buttons">
   <div class="button button-blue button-large">
-    <a href="https://shop.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&currency=USD">
+    <a href="https://shop.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD">
       Give value 🙏
     </a>
   </div>
