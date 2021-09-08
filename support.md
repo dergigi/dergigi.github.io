@@ -20,11 +20,7 @@ work is released under a [cc-by-sa license][license] and provided on a
 If you can not part with your hard-earned sats, consider sharing one of my
 articles or working on a [translation][translations].
 
----
-
 ![Bitcoin is Love](/assets/images/bitcoin/bitcoin-is-love.png)
-
----
 
 Dear Netizen, \\
 there are many ways to support me: you can support me on [Patreon](https://www.patreon.com/dergigi)
