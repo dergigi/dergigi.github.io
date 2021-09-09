@@ -4,7 +4,7 @@ title: "Moving Towards a Bitcoin Standard"
 subtitle: "The Stairway to Omnipresence"
 description: "Step by step, Bitcoin marches towards a circular economy."
 date: 2021-09-09
-blocktime: 699782
+blocktime: 699784
 image: /assets/images/btc-staircase.jpg
 author: Gigi
 category: bitcoin
