@@ -5,7 +5,7 @@ subtitle: "The Stairway to Omnipresence"
 description: "Step by step, Bitcoin marches towards a circular economy."
 date: 2021-09-09
 blocktime: 699784
-image: /assets/images/btc-staircase.jpg
+image: /assets/images/btc-staircase-up.jpg
 author: Gigi
 category: bitcoin
 tags:
