@@ -6,6 +6,7 @@ description: "Step by step, Bitcoin marches towards a circular economy."
 date: 2021-09-09
 blocktime: 699784
 image: /assets/images/btc-staircase-up.jpg
+audio: /assets/audio/moving-towards-a-bitcoin-standard.ogg
 author: Gigi
 category: bitcoin
 tags:
