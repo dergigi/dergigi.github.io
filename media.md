@@ -32,8 +32,10 @@ Watch the [full interview][jbpS4E40] on YouTube.
 [saif73]: https://saifedean.com/podcast/73-bitcoin-and-time-with-gigi/
 [jbpS4E40]: https://youtu.be/iVym9wtopqs
 [btcsessions2]: https://youtu.be/ykbANpzduUA
+[simply-dalio]: https://youtu.be/_FRqLlX-VfM
 
 ### English Interviews and Conversations
+  - **2021-09-16** - [Simply Bitcoin][simply-dalio] hosted by Nico and Coinicarus
   - **2021-08-15** - [Why Are We Bullish][btcsessions2] with Tomer & Walton & Obi, hosted by BTC Sessions
   - **2021-08-10** - [Jordan B. Peterson Podcast S4E40][jbpS4E40] on Bitcoin and the Future of Money with John, Richard, and Breedlove, hosted by Jordan B. Peterson
   - **2021-07-26** - [Bitcoin Standard Podcast #73][saif73] on Bitcoin and Time, hosted by Saifedean Ammous
