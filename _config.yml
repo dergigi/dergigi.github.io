@@ -30,6 +30,10 @@ collections_dir: collections
 collections:
   posts:
     title: Posts
+  threads:
+    title: Threads
+    output: true
+    permalink: /threads/:slug
   books:
     title: Books
     output: true
