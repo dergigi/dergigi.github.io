@@ -77,6 +77,7 @@ Gigi
 
 * [/blog][photography]: random thoughts and photographs
 * [/twitter][twitter]: mostly shitposts
+* [/threads][threads]: archived twitter threads
 * [/patreon][patreon]: close and personal chats, early drafts of my work
 
 ---
@@ -86,6 +87,7 @@ Gigi
 [twitter]: https://twitter.com/dergigi
 [bitcoin]: {{ 'bitcoin' | absolute_url }}
 [canary]: {{ 'canary/' | absolute_url }}
+[threads]: {{ 'threads/' | absolute_url }}
 [photography]: {{ 'blog' | absolute_url }}
 [medium]: https://medium.com/@dergigi
 [gnu]: https://www.gnu.org/philosophy/free-sw.html
