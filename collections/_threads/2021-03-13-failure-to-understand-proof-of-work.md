@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Failure to understand proof-of-work"
-subtitle: ""
 date: 2021-03-13
 source: https://twitter.com/dergigi/status/1392826448017346561?s=20
-blocktime: 699784
 author: Gigi
 category: bitcoin
 tags:
@@ -62,6 +60,10 @@ selection (who decides?), naturally centralizing effects (more stake =
 more reward = more stake), and having no natural resistance to timestamp
 manipulation attacks, for example.
 
+Proof of work solves these exact problems. It decentralizes the selection
+process, creates physical proof of what happened, has real externalized costs,
+and decentralizes [time].
+
 The question of whether proof of work is wasteful or not can\'t be asked
 without understanding the problem it solves. Understanding the problem
 properly will lead you to the conclusion that there is no other way to
@@ -81,27 +83,31 @@ Trustless digital money can\'t work without it. You always need an
 anchor to the physical realm. Without this anchor, a truthful history
 that is self-evident is impossible. Energy is the only anchor we have.
 
+
 Proof of work = trust physics to determine what happened.
 
 Proof of stake = trust humans to determine what happened.
+
+---
+
+Addendum: I have a lot of sympathy for everyone who thinks that Bitcoin is
+wasteful. I thought so too, and I had to [shift my perspective][energy]. Like
+most people, I didn't know anything about (sound) money.
 
 Addendum, part two: The problem of agreeing on a common time in an
 adversarial decentralized system can\'t be solved precisely, not even in
 theory. Proof of work is a practical, probabilistic solution to this
 intractable problem.
-
-> [https://twitter.com/dergigi/status/1392409660154646529?s=20](https://twitter.com/dergigi/status/1392409660154646529?s=20?ref_src=twsrc%5Etfw)
+See [this thread](https://twitter.com/dergigi/status/1392409660154646529?s=20).
 
 Addendum, part three: I wrote \"trustless\" for brevity. There is no
 such thing. It is always about the minimization of trust.
-
-[ https://21lessons.com/16/ ](https://21lessons.com/16/ "https://21lessons.com/16/")
+See [Lesson 16](https://21lessons.com/16/).
 
 Addendum, part four: It should go without saying that energy expenditure
 doesn\'t equal carbon footprint and that both are decoupled from
 transaction throughput.
+See [this thread](https://twitter.com/LynAldenContact/status/1374774367666761729?s=20) by Lyn Alden.
 
-See this thread by
-[\@LynAldenContact](https://twitter.com/LynAldenContact):
-
-> [https://twitter.com/LynAldenContact/status/1374774367666761729?s=20](https://twitter.com/LynAldenContact/status/1374774367666761729?s=20?ref_src=twsrc%5Etfw)
+[time]: {% post_url /bitcoin/2021-01-14-bitcoin-is-time %}
+[energy]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
