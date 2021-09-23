@@ -7,14 +7,6 @@ I am currently working on [my new book][patreon], so I might be harder to reach
 than usual. There is also the fact that my inboxes are overflowing ever since
 the bull began his run.[*][golden-bull]
 
-If you want to reach me, [telegram], twitter, or the mail below is probably your
-best bet. I will do my best to reply in 3-5 days. If I don't please ping me
-again. Note that I will probably not respond if I can't make out what you're up
-to. A simple "hi" or "hey" without any context will be ignored. Also, I'm not
-interested in trading or shitcoinery, so anything along these lines will be
-deleted without an answer.
-
-[telegram]: https://t.me/dergigi
 [patreon]: https://www.patreon.com/dergigi
 [golden-bull]: https://youtu.be/nJeddv1QbeQ
 
@@ -38,6 +30,16 @@ deleted without an answer.
 </center>
 
 ---
+
+If you want to reach me, [telegram], twitter, or the mail below is probably your
+best bet. I will do my best to reply in 3-5 days. If I don't please ping me
+again. Note that I will probably not respond if I can't make out what you're up
+to. A simple "hi" or "hey" without any context will be ignored. Also, I'm not
+interested in trading or shitcoinery, so anything along these lines will be
+deleted without an answer.
+
+[telegram]: https://t.me/dergigi
+
 
 ## Questions
 
