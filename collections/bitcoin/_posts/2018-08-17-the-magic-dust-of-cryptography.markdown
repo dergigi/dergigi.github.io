@@ -11,6 +11,12 @@ redirect_from: /bitcoin/2018-08-17-the-magic-dust-of-cryptography
 author: Gigi
 category: bitcoin
 audio: /assets/audio/magic-dust.mp3
+
+translations:
+ - language: Spanish
+   url: https://btcishope.blogspot.com/2021/09/el-polvo-magico-de-la-criptografia.html
+   author: Bitcoin Kook
+   author_url: https://twitter.com/Bitcoin_kook/
 tags:
  - Bitcoin
  - Writing
