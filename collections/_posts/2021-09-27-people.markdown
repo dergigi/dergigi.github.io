@@ -1,0 +1,30 @@
+---
+layout: post
+title: "People"
+date: 2021-09-27
+description:
+image: /assets/images/people.jpg
+author: Gigi
+category: photography
+tags:
+  - Photography
+---
+
+People are the most wonderful thing. Full of potential, full of joy, full of
+wonder. Whenever I see people, I see dancers, artists, musicians, builders,
+gardeners, plumbers, and poets. Unique human beings, with hearts and souls, and
+mothers and fathers, and wishes and dreams.
+
+Every time I meet new people, I am amazed by their stories. I am fascinated by
+their past as well as by their potential future. They will share all of this
+with you, right here, in the present, as long as you are present with them.
+
+> I judge people by what they might be, — not are, nor will be.
+>
+> <cite>Robert Browning</cite>
+
+We must not forget that most people are good. They have to be; otherwise, the
+world we live in would not be possible. We would have constant war, and death,
+and deception, and suffering, and worse. But we don't. The world is alright
+because the people are alright. We must not forget that this is true, so I will
+repeat it once more for emphasis: most people are good people.
