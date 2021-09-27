@@ -9,6 +9,11 @@ image: /assets/images/btc-staircase-up.jpg
 audio: /assets/audio/moving-towards-a-bitcoin-standard.ogg
 author: Gigi
 category: bitcoin
+translations:
+ - language: Spanish
+   url: https://btcishope.blogspot.com/2021/09/avanzando-hacia-un-patron-bitcoin.html
+   author: Bitcoin Kook
+   author_url: https://twitter.com/Bitcoin_kook/
 tags:
  - Bitcoin
  - Writing
