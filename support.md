@@ -7,6 +7,8 @@ If you find my work valuable, consider giving value back as you see fit. All my
 work is released under a [cc-by-sa license][license] and provided on a
 [value for value] basis.
 
+**TL;DR** Give as much as think it's worth. Thank you. 🙏🧡
+
 [value for value]: https://levisan.me/blog/value-for-value
 
 <div class="action-buttons">
@@ -14,20 +16,14 @@ work is released under a [cc-by-sa license][license] and provided on a
     <a href="https://shop.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-2&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD&price=2.10">
       ⚡ $2.10
     </a>
-  </div>
-  <div class="button button-blue button-medium">
     <a href="https://shop.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-21&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD&price=21">
       ⚡ $21
     </a>
-  </div>
-  <div class="button button-blue button-medium">
     <a href="https://shop.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-210&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD&price=210">
       ⚡ $210
     </a>
-  </div>
-  <div class="button button-blue button-medium">
     <a href="https://shop.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD">
-      Custom amount 🙏🧡
+      Custom amount
     </a>
   </div>
 </div>
