@@ -8,6 +8,11 @@ image: /assets/images/btc10-venezuela.jpg
 source: https://medium.com/bull-bitcoin/bitcoin-boots-on-the-ground-venezuela-7ee01f966eff
 author: Gigi
 category: bitcoin
+translations:
+ - language: Spanish
+   url: https://btcishope.blogspot.com/2021/09/bitcoin-al-pie-del-canon-venezuela.html
+   author: Bitcoin Kook
+   author_url: https://twitter.com/Bitcoin_kook/
 tags:
  - Bitcoin
  - Writing
