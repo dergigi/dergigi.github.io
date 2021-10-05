@@ -19,6 +19,10 @@ translations:
    url: https://www.blocktrainer.de/uebersetzungen/bitcoin-ist-zeit/
    author: Rene
    author_url: https://twitter.com/da_renn4
+ - language: German
+   url: https://blog.karlklawatsch.com/bitcoin/bitcoin-ist-zeit/
+   author: Karl Klawatsch
+   author_url: https://twitter.com/KKlawatsch
  - language: Russian
    url: https://bitcoin-translated.ru/sources/bitcoin-abc/bitcoin-is-time/
    author: Tony
