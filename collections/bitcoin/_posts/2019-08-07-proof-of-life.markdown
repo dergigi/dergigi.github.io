@@ -23,6 +23,10 @@ translations:
    url: https://medium.com/brandin-kirjasto/todiste-el%C3%A4m%C3%A4st%C3%A4-181cd32b20ad
    author: Thomas Brand
    author_url: https://twitter.com/thlbr
+ - language: Spanish
+   url: https://btcishope.blogspot.com/2021/10/prueba-de-vida.html
+   author: Bitcoin Kook
+   author_url: https://twitter.com/Bitcoin_kook
 series: Proof of Life
 ---
 
