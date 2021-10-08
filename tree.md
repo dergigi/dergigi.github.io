@@ -42,11 +42,15 @@ description: Gigi is writing words and code for Bitcoin.
 
 ### Code
 
+- [Podcasting 2.0 Value Block][value]
+- [Lightning Login][login]
 - [Extended Public Key Tools][xpub-tools]
 - [Quotable Satoshi][quotablesatoshi]
 - [Bitcoin Quotes][quotes]
 - [...][github]
 
+[value]: https://github.com/Podcastindex-org/podcast-namespace/blob/main/value/value.md
+[login]: https://lightninglogin.live/
 [xpub-tools]: https://github.com/swan-bitcoin/xpub-tool
 [quotablesatoshi]: https://twitter.com/quotablesatoshi
 [quotes]: https://github.com/dergigi/btc-quotes
