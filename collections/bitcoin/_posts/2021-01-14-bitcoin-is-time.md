@@ -948,4 +948,4 @@ earth has access to something truly marvelous: Magic Internet Money.
 ------------------------------------------------------------------------
 
 *Bitcoin Is Time* is a chapter of
-my upcoming book [*21 Ways*](https://patreon.com/dergigi).
+my upcoming book [*21 Ways*](https://21-ways.com).
