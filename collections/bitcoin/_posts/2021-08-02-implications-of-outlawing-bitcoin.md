@@ -439,7 +439,7 @@ realize that Bitcoin is just that: thought and speech.
 ------------------------------------------------------------------------
 
 This article is largely based on two chapters of
-my upcoming book [*21 Ways*](https://patreon.com/dergigi).
+my upcoming book [*21 Ways*](https://21-ways.com).
 
 ------------------------------------------------------------------------
 
