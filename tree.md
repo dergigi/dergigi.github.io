@@ -31,11 +31,13 @@ description: Gigi is writing words and code for Bitcoin.
 - [Bitcoin Resources][resources]
 - [Bitcoin Quotes][quotes-web]
 - [EINUNDZWANZIG][einundzwanzig]
+- [OpsecSwag][opsecswag]
 - [...][projects]
 
 [resources]: https://bitcoin-resources.com
 [quotes-web]: https://www.bitcoin-quotes.com
 [einundzwanzig]: https://einundzwanzig.space
+[opsecswag]: https://opsecswag.com
 [projects]: {{ '/projects' | absolute_url }}
 
 ### Code
