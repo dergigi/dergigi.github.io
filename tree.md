@@ -19,7 +19,7 @@ description: Gigi is writing words and code for Bitcoin.
 - [...][words]
 
 [21-lessons]: https://21lessons.com
-[21-ways]: https://patreon.com/dergigi
+[21-ways]: https://21-ways.com
 [time]: {% post_url /bitcoin/2021-01-14-bitcoin-is-time %}
 [dear-family]: {% post_url /bitcoin/2020-04-27-dear-family-dear-friends %}
 [proof-of-life]: {% post_url /bitcoin/2019-08-07-proof-of-life %}
