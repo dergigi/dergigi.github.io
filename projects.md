@@ -5,7 +5,7 @@ title: Projects
 
 ### 21 Ways
 
-Bitcoin is different things to different people. [21 Ways](https://patreon.com/dergigi) is my attempt
+Bitcoin is different things to different people. [21 Ways](https://21-ways.com) is my attempt
 to embrace this prismatic nature of Bitcoin, exploring 21 different ways to look at Bitcoin.
 It is an ambitious project, trying to dive deep into Bitcoin's different facets, including
 its roots, pre-history, history, civil war, technologies built on top of Bitcoin,
@@ -15,6 +15,7 @@ scenes and get a glimpse of this work in progress.
 
 {% include image.html path="/assets/images/bitcoin/projects/21ways.png" link="https://patreon.com/dergigi" %}
 
+* Website: [21-ways.com](https://21-ways.com)
 * Patreon: [21 Ways](https://patreon.com/dergigi)
 
 ### 21 Lessons
