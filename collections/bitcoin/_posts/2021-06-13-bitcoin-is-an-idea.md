@@ -909,6 +909,6 @@ out that all that was missing was the right idea.
 ------------------------------------------------------------------------
 
 *Bitcoin Is an Idea* is a chapter of
-my upcoming book [*21 Ways*](https://patreon.com/dergigi).
+my upcoming book [*21 Ways*](https://21-ways.com).
 
 ------------------------------------------------------------------------
