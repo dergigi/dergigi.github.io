@@ -79,6 +79,10 @@ translations:
    url: https://medium.com/@bitcoinfrenched/ch%C3%A8re-famille-chers-amis-d30548df1f5a
    author: Bitcoin Frenched
    author_url: https://twitter.com/bitcoinfrenched
+ - language: Romanian
+   url: https://medium.com/@traduceribitcoin/drag%C4%83-familie-dragi-prieteni-9e2544c71642
+   author: Thursday
+   author_url: https://twitter.com/saintalgorithm
 series: Open Letters
 ---
 
