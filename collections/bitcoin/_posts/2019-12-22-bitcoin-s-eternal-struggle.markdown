@@ -10,6 +10,11 @@ source: https://medium.com/the-bitcoin-times/bitcoins-eternal-struggle-2c197f1ba
 author: Gigi
 category: bitcoin
 audio: /assets/audio/eternal-struggle.ogg
+translations:
+ - language: Romanian
+   url: https://medium.com/@traduceribitcoin/lupta-etern%C4%83-a-bitcoinului-d918fd38f1b0
+   author: Thursday
+   author_url: https://twitter.com/saintalgorithm
 tags:
  - Bitcoin
  - Writing
