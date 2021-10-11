@@ -26,6 +26,10 @@ translations:
    url: https://medium.com/brandin-kirjasto/bitcoinin-energiankulutus-e6dfdc4ae97e
    author: Thomas Brand
    author_url: https://twitter.com/thlbr
+ - language: Greek
+   url: https://greepto.gr/news/cryptocurrencies/bitcoin/katanalosi-energeias-bitcoin/
+   author: Nina
+   author_url: https://twitter.com/MiaThalassa
 ---
 
 You might have heard that Bitcoin wastes a tremendous amount of energy. You
