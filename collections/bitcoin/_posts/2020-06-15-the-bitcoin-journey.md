@@ -6,6 +6,7 @@ date: 2020-06-15
 blocktime: 634843
 image: /assets/images/btc16-bitcoin-journey.png
 source: https://medium.com/@dergigi/the-bitcoin-journey-e9d958b108e7
+redirect_from: /journey
 author: Gigi
 category: bitcoin
 tags:

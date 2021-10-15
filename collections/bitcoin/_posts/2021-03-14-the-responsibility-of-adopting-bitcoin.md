@@ -6,6 +6,7 @@ date: 2021-03-14
 blocktime: 674473
 image: /assets/images/btc21-kings.jpg
 source: https://dergigi.medium.com/the-responsibility-of-adopting-bitcoin-87ff96c6e8ef
+redirect_from: /responsibility
 author: Gigi
 category: bitcoin
 audio: /assets/audio/responsibility.ogg

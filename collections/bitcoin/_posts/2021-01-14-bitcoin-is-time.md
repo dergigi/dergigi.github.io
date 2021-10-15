@@ -6,6 +6,7 @@ date: 2021-01-14
 blocktime: 666053
 image: /assets/images/bitcoin-is-time.jpg
 source: https://www.swanbitcoin.com/bitcoin-is-time/
+redirect_from: /time
 author: Gigi
 category: bitcoin
 audio: /assets/audio/bitcoin-is-time.ogg

@@ -8,6 +8,7 @@ image: /assets/images/bitcoin-is-an-idea.jpg
 author: Gigi
 category: bitcoin
 audio: /assets/audio/bitcoin-is-an-idea.ogg
+redirect_from: /idea
 favorite: true
 tags:
  - Bitcoin

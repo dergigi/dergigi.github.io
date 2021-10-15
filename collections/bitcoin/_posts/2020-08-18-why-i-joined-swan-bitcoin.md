@@ -6,6 +6,7 @@ date: 2020-08-18
 blocktime: 644284
 image: /assets/images/btc18-why-swan.jpg
 source: https://www.swanbitcoin.com/why-i-joined-swan-bitcoin/
+redirect_from: /swan
 author: Gigi
 category: bitcoin
 tags:

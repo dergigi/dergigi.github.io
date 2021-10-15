@@ -6,6 +6,7 @@ date: 2020-03-20
 blocktime: 631088
 image: /assets/images/btc13-dear-legacy-people.jpg
 source: https://medium.com/@dergigi/dear-legacy-people-30034da666ab
+redirect_from: /legacy
 author: Gigi
 category: bitcoin
 tags:

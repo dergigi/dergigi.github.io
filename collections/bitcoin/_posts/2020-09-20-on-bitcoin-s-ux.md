@@ -6,6 +6,7 @@ date: 2020-09-20
 blocktime: 649239
 image: /assets/images/btc19-ux.jpg
 source: https://www.swanbitcoin.com/on-bitcoins-ux/
+redirect_from: /ux
 author: Gigi
 category: bitcoin
 tags:
