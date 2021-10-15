@@ -6,6 +6,7 @@ date: 2021-03-14
 blocktime: 671711
 image: /assets/images/btc-hats.jpg
 source: https://www.swanbitcoin.com/bitcoin-privacy-best-practices
+redirect_from: /privacy
 author: Gigi
 category: bitcoin
 tags:

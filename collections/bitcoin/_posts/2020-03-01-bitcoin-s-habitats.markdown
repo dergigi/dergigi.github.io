@@ -7,6 +7,7 @@ date: 2020-03-01
 blocktime: 619664
 image: /assets/images/btc12-habitats.jpg
 source: https://medium.com/@dergigi/bitcoins-habitats-9ce3064bd3a7
+redirect_from: /habitats
 author: Gigi
 category: bitcoin
 audio: /assets/audio/habitats.ogg

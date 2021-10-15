@@ -7,6 +7,7 @@ date: 2021-09-09
 blocktime: 699784
 image: /assets/images/btc-staircase-up.jpg
 audio: /assets/audio/moving-towards-a-bitcoin-standard.ogg
+redirect_from: /elsalvador
 author: Gigi
 category: bitcoin
 translations:

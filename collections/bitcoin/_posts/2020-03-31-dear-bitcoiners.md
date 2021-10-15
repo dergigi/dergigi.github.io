@@ -7,6 +7,7 @@ date: 2020-03-31
 blocktime: 623774
 image: /assets/images/btc14-dear-bitcoiners.jpg
 source: https://medium.com/@dergigi/dear-bitcoiners-73f87e2380f2
+redirect_from: /bitcoiners
 author: Gigi
 category: bitcoin
 favorite: true

@@ -7,6 +7,7 @@ date: 2019-12-22
 blocktime: 608839
 image: /assets/images/btc11-eternal-struggle.jpg
 source: https://medium.com/the-bitcoin-times/bitcoins-eternal-struggle-2c197f1bafd8
+redirect_from: /chaos
 author: Gigi
 category: bitcoin
 audio: /assets/audio/eternal-struggle.ogg

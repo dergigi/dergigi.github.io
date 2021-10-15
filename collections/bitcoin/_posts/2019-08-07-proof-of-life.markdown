@@ -7,6 +7,7 @@ blocktime: 589054
 description: "Life is like fire, not water; it is a process, not a pure substance. The simplest, but not the only, proof of life is to find something that is alive."
 image: /assets/images/btc07-bitcoin-mitosis.jpg
 source: https://medium.com/@dergigi/fa28fdc002fe
+redirect_from: /life
 author: Gigi
 category: bitcoin
 favorite: true
