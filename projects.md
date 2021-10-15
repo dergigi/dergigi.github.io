@@ -200,5 +200,5 @@ GitHub to see what I'm up to.
 [BIP 2]: https://github.com/bitcoin/bips/blob/master/bip-0002.mediawiki
 [BIP 16]: https://github.com/bitcoin/bips/blob/master/bip-0016.mediawiki
 [BIP 69]: https://github.com/bitcoin/bips/blob/master/bip-0069.mediawiki
-[joined-swan]: {% post_url /collections/bitcoin/2020-08-18-why-i-joined-swan-bitcoin %}
+[joined-swan]: {% post_url /bitcoin/2020-08-18-why-i-joined-swan-bitcoin %}
 [xpub-tools]: https://github.com/swan-bitcoin/xpub-tool
