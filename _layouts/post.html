@@ -23,7 +23,7 @@ layout: default
         {% if page.translations %}
           {% capture numTrans %}{{ page.translations | size }}{% endcapture %}
           <a href="#translations" class="post__source">{{ numTrans }}
-            {% if numTrans == 1 %}
+            {% if numTrans == '1' %}
               translation
             {% else %}
               translations
