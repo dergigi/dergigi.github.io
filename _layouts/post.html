@@ -17,8 +17,18 @@ layout: default
         {% endif %}
         </time>
         {% if page.source %}
-          {% capture sourceHost %}{{ page.source | remove_first: "https://" | split: "/" | first }}{% endcapture %}
+          {% capture sourceHost %}{{ page.source | remove_first: "https://" | split: "/" | first | remove_first: "www." }}{% endcapture %}
           <a href="{{ page.source }}" title="Also published on {{ sourceHost }}" target="_blank" class="post__source" itemprop="isBasedOn">{{ sourceHost }}</a>
+        {% endif %}
+        {% if page.translations %}
+          {% capture numTrans %}{{ page.translations | size }}{% endcapture %}
+          <a href="#translations" class="post__source">{{ numTrans }}
+            {% if numTrans == '1' %}
+              translation
+            {% else %}
+              translations
+            {% endif %}
+          </a>
         {% endif %}
       </div>
     </div>
