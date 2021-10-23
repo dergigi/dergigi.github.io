@@ -18,6 +18,10 @@ translations:
    url: https://www.blocktrainer.de/bitcoin-ist-eine-idee/
    author: Blocktrainer (Rene)
    author_url: https://twitter.com/blocktrainer/
+ - language: German
+   url: https://blog.karlklawatsch.com/bitcoin/bitcoin-ist-eine-idee/
+   author: Karl Klawatsch
+   author_url: https://twitter.com/KKlawatsch
  - language: Malay
    url: https://linuzri.medium.com/bitcoin-adalah-idea-a9fdfa6ef7e7
    author: Linuzri
