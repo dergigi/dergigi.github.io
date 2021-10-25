@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Support
+subtitle: Value for Value
 image: /assets/images/bitcoin/value4value.png
 ---
 
