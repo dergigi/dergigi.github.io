@@ -34,6 +34,10 @@ articles or working on a [translation][translations].
 
 ![Bitcoin is Love](/assets/images/bitcoin/bitcoin-is-love.png)
 
+Lightning Addresses[^ln-addr]: `dergigi@ln.tips`, `dergigi@lntxbot.com`
+
+---
+
 Dear Netizen, \\
 there are many ways to support me: you can support me on [Patreon](https://www.patreon.com/dergigi)
 and [GitHub](https://github.com/sponsors/dergigi/), [buy my book](https://amzn.to/2VXmQgp),
@@ -144,6 +148,9 @@ Gigi
 
 {% include image.html path="/assets/images/bitcoin/paynym.png" %}
 
+---
 
 [translations]: {{ '/translations' | absolute_url }}
 [license]: {{ '/license' | absolute_url }}
+
+[^ln-addr]: A [Lightning Address](https://lightningaddress.com/) allows you to receive bitcoin payments using an e-mail style address format. Try it out yourself using one of these Telegram bots: [LNTXBOT](https://telegram.me/lntxbot), [LightningTipBot](https://t.me/LightningTipBot)
