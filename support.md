@@ -34,7 +34,7 @@ articles or working on a [translation][translations].
 
 ![Bitcoin is Love](/assets/images/bitcoin/bitcoin-is-love.png)
 
-Lightning Addresses[^ln-addr]: `dergigi@ln.tips`, `dergigi@lntxbot.com`
+Lightning Addresses[^ln-addr]: `dergigi@ln.tips`, `dergigi@lntxbot.com`, `dergigi@stacker.news`
 
 ---
 
