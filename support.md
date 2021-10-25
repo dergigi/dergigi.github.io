@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Support
-image: /assets/images/value4value.png
+image: /assets/images/bitcoin/value4value.png
 ---
 
 If you find my work valuable, consider giving value back as you see fit. All my
