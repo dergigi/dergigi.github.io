@@ -26,6 +26,10 @@ translations:
    url: https://blog.stackinsat.com/la-responsabilite-de-ladoption-de-bitcoin/
    author: Sophie Portulan
    author_url: https://www.linkedin.com/in/sophieportulan/
+ - language: Italian
+   url: https://medium.com/@Bitcoin_ator/la-responsabilit%C3%A0-nelladottare-bitcoin-ae15dc5e7aaa
+   author: Bitcoin Ator
+   author_url: https://twitter.com/Bitcoin_ator
 ---
 
 
