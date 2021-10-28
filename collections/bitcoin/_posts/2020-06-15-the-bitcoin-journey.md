@@ -17,6 +17,10 @@ translations:
    url: https://medium.com/aprycotmedia/die-bitcoin-reise-dab572e5ff72
    author: Ge3onim0 & Fab
    author_url: https://twitter.com/ge3onim0
+ - language: Spanish
+   url: https://btcishope.blogspot.com/2021/10/bitcoin-el-viaje.html
+   author: Bitcoin Kook
+   author_url: https://twitter.com/Bitcoin_kook/
 ---
 
 A couple of weeks ago I had the immense pleasure of giving the opening
