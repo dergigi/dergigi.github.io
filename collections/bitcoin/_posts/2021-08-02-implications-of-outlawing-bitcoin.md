@@ -18,6 +18,10 @@ translations:
    url: https://aprycot.media/blog/konsequenzen-bitcoin-verbot/
    author: Juniormind and Jan Paul
    author_url: https://twitter.com/janpaul_f
+ - language: Portuguese
+   url: https://explicabitcoin.medium.com/implica%C3%A7%C3%B5es-da-proibi%C3%A7%C3%A3o-do-bitcoin-c98290db922d
+   author: Explica Bitcoin
+   author_url: https://twitter.com/BitcoinExplica
 tags:
  - Bitcoin
  - Writing
