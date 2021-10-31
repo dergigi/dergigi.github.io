@@ -30,6 +30,10 @@ translations:
    url: https://medium.com/@Bitcoin_ator/la-responsabilit%C3%A0-nelladottare-bitcoin-ae15dc5e7aaa
    author: Bitcoin Ator
    author_url: https://twitter.com/Bitcoin_ator
+ - language: German
+   url: https://aprycot.media/blog/die-verantwortung-bitcoin-anzunehmen/
+   author: Juniormind
+   author_url: https://twitter.com/Juniormind1
 ---
 
 
