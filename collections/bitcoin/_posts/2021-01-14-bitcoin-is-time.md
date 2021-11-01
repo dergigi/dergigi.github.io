@@ -40,6 +40,10 @@ translations:
    url: https://eduarda.substack.com/p/bitcoin-e-tempo
    author: Eduarda Lobato
    author_url: https://twitter.com/dudalobatoo
+ - language: French
+   url: https://blog.duxreserve.fr/bitcoin-cest-le-temps-partie-un/
+   author: Théo Mogenet
+   author_url: https://twitter.com/Theo_Mog
 tags:
  - Bitcoin
  - Writing
