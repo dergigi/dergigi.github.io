@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Magic Internet Money"
-description: "TODO"
+description: "On wizard, magic mushrooms, and Bitcoin's early history"
 date: 2021-11-02
 blocktime: 707909
 image: /assets/images/magic-internet-money.jpg
