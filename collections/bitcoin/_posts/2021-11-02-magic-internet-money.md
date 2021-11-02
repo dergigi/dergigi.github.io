@@ -115,9 +115,11 @@ Adam Back and Wei Dai), the night of Halloween 2008 was when he wrote
 his first public email to the *Cryptography Mailing List*.
 
 As he mentions in his writings, he had been working on the design of
-Bitcoin for over 1.5 years, mulling over the idea of electronic cash
+Bitcoin for over 1.5 years, mulling over the [idea of electronic cash][idea]
 (and what transaction types might come in handy) for many years before
 that.
+
+[idea]: {% post_url /bitcoin/2021-06-13-bitcoin-is-an-idea %}
 
 While little is known about Bitcoin's pseudonymous creator, many have
 tried to reveal the identity of the person (or persons) behind Satoshi
@@ -551,7 +553,7 @@ This shift of trust and responsibility - from third parties to yourself -
 is what allows for the emergence of sound money from the Bitcoin
 network. But what differentiates sound money from an unsound one? And
 why do we need sound money in the first place? Answering these questions
-will be the focus of the next chapter.
+will be the focus of the [next chapter](https://21-ways).
 
 ------------------------------------------------------------------------
 
