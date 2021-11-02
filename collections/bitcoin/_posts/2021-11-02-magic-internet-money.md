@@ -84,7 +84,7 @@ One can only echo the words of *ManboobsTheClown*: "Perfect."
 The wizard took on a life of his own, conjuring himself onto t-shirts,
 socks, mugs, paintings, and other artwork. He was drawn and re-drawn
 many times, and the largest miracle he performed was that his
-description of Bitcoin stuck: **Magic Internet Money**.
+description of Bitcoin stuck: *Magic Internet Money*.
 
 Internet culture is weird, and arguably, Bitcoin culture is even
 weirder. This is not particularly surprising since the early adopters of
@@ -140,10 +140,11 @@ Bitcoin's inventor.
 
 Over the years, multiple people came forward claiming to be the creator
 of Bitcoin. Ranging from the obscure to compulsive liars to the mentally
-challenged, nobody was able to prove that he (Footnote: So far, no
-female was bold or stupid enough to make such a claim.) is Satoshi - a
+challenged, nobody was able to prove that he[^shetoshi] is Satoshi - a
 claim that, thanks to public-key cryptography, would be as easy to prove
 as signing a message with one of Satoshi's private keys.
+
+[^shetoshi]: So far, no female was bold or stupid enough to make such a claim.
 
 Alas, without cryptographic proof, all that remains are outrageous
 claims and wild speculation. While some people are undoubtedly annoyed
@@ -390,7 +391,7 @@ anything, and - of course - they can be sent via end-to-end encrypted
 communication channels, making them completely unrecognizable. How can
 you censor something if you can't tell what you're looking at?
 
-{% include image.html name="torched-hearts.jpg" caption="'TORCHED H34R7S' by YT (@coin_artist), a puzzle which hid 4.87
+{% include image.html name="torched-hearts.jpg" caption="'TORCHED H34R7S' by Coin Artist, a puzzle which hid 4.87
 bitcoin in plain sight."%}
 
 But shapeshifting and teleportation aren't Bitcoin's only tricks. If I
@@ -398,7 +399,7 @@ had to pick a favorite, I would probably pick bitcoin's magical ability
 to disappear. And I don't mean the "send my all your bitcoin and I
 will send you twice the amount back" kind of disappear, but the
 plausible deniability kind. In essence, all you possess is a magic
-spell: your **private key**, which holds the power to
+spell: your *private key*, which holds the power to
 unlock your bitcoin so it can be teleported someplace else. Most people
 store this spell on a piece of paper (or a piece of steel, or a piece of
 specialized hardware). However, you can - with some effort - learn this
@@ -486,19 +487,21 @@ difference between these concepts and glyphs describing a magic spell.
 If you understand some of these concepts already, congratulations! You
 have a head-start when it comes to understanding Bitcoin. However, the
 technical side of Bitcoin is only one piece of the puzzle. Remember:
-Bitcoin is magic internet **money**, first and foremost. Many
+Bitcoin is magic internet *money*, first and foremost. Many
 technology-minded people mistake it for a *technological* invention and
 don't see the peculiar properties which make it an
 astounding *monetary* innovation.
 
 While using Bitcoin is getting easier every day, the days of the wizards
 aren't numbered. To this day, Bitcoin experts discuss developments and
-ideas in the #bitcoin-wizards \[Footnote with link\] IRC channel, and
+ideas in the #bitcoin-wizards[^irc] IRC channel, and
 Bitcoin is still embraced and described as magic internet money. The
 original wizard is evolving alongside Bitcoin, as is our idea of what a
 Bitcoin wizard is. Today, it is probably fair to say that the real
 wizards are the core developers, those who work on improvements at the
 base layer of the Bitcoin protocol.
+
+[^irc]: [irc://irc.freenode.net/bitcoin-wizards](irc://irc.freenode.net/bitcoin-wizards)
 
 {% include image.html name="wizard-rusty.jpg" caption="Bitcoin wizard painting by @WorldOfRusty."%}
 
@@ -525,7 +528,7 @@ rabbit hole goes.
 
 Similarly, I believe that the only way to understand Bitcoin's magical
 properties is to experience it yourself. After you have set up
-a **non-custodial** wallet and written down your **seed phrase** with
+a non-custodial wallet and written down your seed phrase with
 pen and paper, stop and realize that these words are the magic spell
 that can move your bitcoin. For all intents and purposes, these words
 are your bitcoin. Lose them, and they are gone. Memorize them, and you
