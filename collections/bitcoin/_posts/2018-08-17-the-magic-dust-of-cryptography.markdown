@@ -7,7 +7,7 @@ blocktime: 554747
 description: "Thoughts on the nature of information, free speech, and how strong cryptography changes everything."
 image: /assets/images/btc02-magic-dust.jpg
 source: https://medium.com/@dergigi/the-magic-dust-of-cryptography-c8ecd79ae13a
-redirect_from: /magic
+redirect_from: /dust
 author: Gigi
 category: bitcoin
 audio: /assets/audio/magic-dust.mp3

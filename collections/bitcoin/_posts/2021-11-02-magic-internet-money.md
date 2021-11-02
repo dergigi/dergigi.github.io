@@ -5,7 +5,7 @@ description: "On wizards, magic cards, magic mushrooms, and Bitcoin's magical pr
 date: 2021-11-02
 blocktime: 707909
 image: /assets/images/magic-internet-money.jpg
-redirect_from: /mim
+redirect_from: /magic
 author: Gigi
 category: bitcoin
 tags:
