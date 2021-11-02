@@ -398,7 +398,7 @@ bitcoin in plain sight."%}
 
 But shapeshifting and teleportation aren't Bitcoin's only tricks. If I
 had to pick a favorite, I would probably pick bitcoin's magical ability
-to disappear. And I don't mean the "send my all your bitcoin and I
+to disappear. And I don't mean the "send me all your bitcoin and I
 will send you twice the amount back" kind of disappear, but the
 plausible deniability kind. In essence, all you possess is a magic
 spell: your *private key*, which holds the power to
