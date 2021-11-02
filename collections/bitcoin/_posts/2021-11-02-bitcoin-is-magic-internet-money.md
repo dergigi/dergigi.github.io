@@ -399,7 +399,7 @@ had to pick a favorite, I would probably pick bitcoin's magical ability
 to disappear. And I don't mean the "send my all your bitcoin and I
 will send you twice the amount back" kind of disappear, but the
 plausible deniability kind. In essence, all you possess is a magic
-spell: your **private key** \[glossary\], which holds the power to
+spell: your **private key**, which holds the power to
 unlock your bitcoin so it can be teleported someplace else. Most people
 store this spell on a piece of paper (or a piece of steel, or a piece of
 specialized hardware). However, you can - with some effort - learn this
@@ -425,10 +425,7 @@ money on the internet didn't exist until the invention of Bitcoin. 
 
 If you move a file on your computer, it doesn't actually move as real
 objects do in the real world. It is copied, and after the copy is
-checked for errors, the original is deleted. (Footnote: Note that when
-dealing with pure information, it is a bit difficult to speak of
-"originals" and "copies" since information can be copied perfectly
-and physical location doesn't necessarily make sense.) Hence, the
+checked for errors, the original[^original] is deleted. Hence, the
 problem of money on the internet: if I want to *move* ten bucks from my
 computer to yours, the ten bucks are actually *copied* - bringing the
 total balance up to twenty bucks during the transfer - and you have to
@@ -436,6 +433,8 @@ trust me that I will *destroy* my original ten bucks after you've
 received the copy. Could you trust me to do that? This, in a nutshell,
 is the *double-spending problem*. This conundrum is why most people
 thought that the internet can't do money.
+
+[^original]: Note that when dealing with pure information, it is a bit difficult to speak of "originals" and "copies" since information can be copied perfectly and physical location doesn't necessarily make sense.
 
 ### Money: Facilitating Trust
 
