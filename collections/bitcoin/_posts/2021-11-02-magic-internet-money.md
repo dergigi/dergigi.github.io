@@ -453,16 +453,18 @@ deletion. In the physical world, things move naturally from A to B
 without getting copied. In the physical world, you don't need a
 middleman to facilitate transactions.
 
-In cyberspace, the only solution to this problem was having a middleman
-- a trusted third party - manage the orderliness of transactions. Thus,
+In cyberspace, the only solution to this problem was having a middleman - a
+trusted third party - manage the orderliness of transactions. Thus,
 by default, PayPal, VISA, MasterCard (and all other companies that
 process transactions) know exactly who paid what to whom at what point
 in time and for what reason. Knowledge is power, and this particular
 knowledge gives these trusted third parties the power to block
 transactions, freeze accounts, decline payments, and de-platform their
 customers. Further, as history has shown, this data will inevitably be
-leaked either by negligence, incompetence, or targeted hacks. *Trusted
-Third Parties are Security Holes*, as Nick Szabo would say*.* \[cite\]
+leaked either by negligence, incompetence, or targeted hacks. 
+[*Trusted Third Parties are Security Holes*][ttp], as Nick Szabo would say.
+
+[ttp]: https://nakamotoinstitute.org/trusted-third-parties/
 
 Bitcoin does away with all that, which is in part why it is so magical.
 It behaves like real money in the real world: you hand me a dollar bill,
