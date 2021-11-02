@@ -57,10 +57,12 @@ you won\'t have to learn all the intricacies of public-key cryptography
 and hashing functions to understand that mishandling your private keys
 might lead to disaster as well.
 
-### Modern Wizardry {#Modern-Wizardry}
+### Modern Wizardry
 
-> \"The good thing about bitcoin is that you know exactly the number ---
-> the magic number of 21 million.\" \-- Garry Kasparov
+> The good thing about bitcoin is that you know exactly the number ---
+> the magic number of 21 million.
+>
+> <cite>Garry Kasparov</cite>
 
 Bitcoin is a child of the internet. The whitepaper describing it wasn\'t
 published in a scientific journal but freely on the internet. Its
@@ -70,12 +72,12 @@ online for free. Thus, it is quite fitting that Bitcoin\'s first viral
 advertisement was not created by an ad agency but by an individual on
 the internet. 
 
-On February 18, 2013, *theymos* asked the Bitcoin community on Reddit if
-they had any ideas for a site-internal Bitcoin ad. An hour
-later, *mavensbot* submitted a glorious painting of an incredibly
-well-drawn and beautiful blue wizard.
+On February 18, 2013, *theymos* asked the Bitcoin community on Reddit if they
+had any ideas for a site-internal Bitcoin ad. An hour later, *mavensbot*
+submitted a glorious painting of an incredibly well-drawn and beautiful blue
+wizard.
 
-![](http://fakehost/file/aff65d2d4d1f06dcdb97f.jpg)
+{% include image.html name="wizard.jpg" caption="The original Bitcoin Wizard"%}
 
 One can only echo the words of *ManboobsTheClown*: \"Perfect.\"
 
@@ -97,11 +99,12 @@ While we have truly come a long way from the early days, Bitcoin still
 is and will always be Magic Internet Money. It is magical, it is
 internet-y, and it is money. Really good money.
 
-### Satoshi Nakamoto: The First Bitcoin Wizard {#Satoshi-Nakamoto:-The-First-Bitcoin-Wizard}
+### Satoshi Nakamoto: The First Bitcoin Wizard
 
-> \"First rule of magic: Don\'t let anyone know your real name. Names
-> have power.\" \-- [Neil
-> Gaiman](https://en.wikiquote.org/wiki/Magic_(supernatural)#G)
+> First rule of magic: Don\'t let anyone know your real name. Names
+> have power.
+>
+> <cite>[Neil Gaiman](https://en.wikiquote.org/wiki/Magic_(supernatural)#G)</cite>
 
 As we have seen in Chapter 1, Bitcoin has a long intellectual
 pre-history. It didn\'t appear out of nowhere. Its creator, however,
@@ -133,8 +136,7 @@ in the process. The man became somewhat of a meme himself, and if the
 identity of Satoshi remains a mystery, he might forever be the face of
 Bitcoin\'s inventor.
 
-![Portrait of Dorian Nakamoto by Trevor
-Jones](http://fakehost/file/ce65ebdecafe78e567313.jpg)
+{% include image.html name="dorian.jpg" caption="Portrait of Dorian Nakamoto by Trevor Jones" %}
 
 Over the years, multiple people came forward claiming to be the creator
 of Bitcoin. Ranging from the obscure to compulsive liars to the mentally
@@ -168,44 +170,7 @@ activities, spanning from his sudden appearance in 2008 to his
 disappearance in 2010. The following is such a timeline along with
 important events in Bitcoin\'s early history:
 
-![](http://fakehost/file/d98c4d45a762be147eddc.png)
-
-August 18, 2008: Satoshi registered bitcoin.org
-
-October 31, 2008: Publication of the Bitcoin whitepaper
-
-November 9, 2008: The Bitcoin project is registered at SourceForge
-
-January 3, 2009: The Genesis Block is mined (block 0)
-
-January 9, 2009: Version 0.1 is released
-
-January 12, 2009: First ever bitcoin transaction. Satoshi sends Hal 10
-BTC (block 170)
-
-October 12, 2009: Creation of #bitcoin-dev channel on Freenode
-
-December 16, 2009: Version 0.2 is released
-
-December 30, 2009: First difficulty adjustment (block 2016)
-
-May 22, 2010: First transaction for a real-world good (2 pizzas)
-
-July 7, 2010: Version 0.3 is released
-
-July 11, 2010: Slashdot article on Bitcoin
-
-July 17, 2010: MtGox is launched
-
-December 12, 2010: Last public message of Satoshi
-
-February 2011: Slik Road is launched
-
-April 26, 2011: Last private correspondence of Satoshi
-
-November 28, 2012: First Halving (block 210,000)
-
-February 24, 2014: Mt. Gox collapses
+![Timeline](/assets/images/bitcoin/2021-11-02-bitcoin-is-magic-internet-money/timeline.png#full)
 
 So it came to be that after a little over two years, on December 12,
 2010, Satoshi disappeared. Some of his final remarks were that \"the
@@ -215,7 +180,7 @@ Bitcoin\'s early history were launched: Mt. Gox and Silk Road. Both have
 magical origins: one used to deal with magic cards, the other with magic
 mushrooms.
 
-### Magic Cards: The Mt.Gox Era {#Magic-Cards:-The-Mt.Gox-Era}
+### Magic Cards: The Mt.Gox Era
 
 *Magic: The Gathering* is a popular card game played by millions of
 people around the world. Its playing cards are collectibles: some are
@@ -266,7 +231,7 @@ incredibly expensive lesson, and a lesson that needs to be repeated over
 and over again, lest the history that is Mt. Gox will repeat itself:
 your keys, your bitcoin. *Not your keys, not your bitcoin.*
 
-### Magic Mushrooms: Silk Road {#Magic-Mushrooms:-Silk-Road}
+### Magic Mushrooms: Silk Road
 
 Probably the most notorious chapter of Bitcoin\'s early history is the
 rise and fall of the *Silk Road*, an anonymous dark market that allowed
@@ -318,6 +283,7 @@ exchange for magic internet money.
 
 ![The Silk Road main
 page.](http://fakehost/file/0ea62dc70f333b36dc228.png)
+{% include image.html name="wizard.jpg" caption="The original Bitcoin Wizard"%}
 
 What started as a website with magic mushrooms as its only listing
 eventually grew into something that was larger than even the most
@@ -378,7 +344,7 @@ How and why Bitcoin is used - as well as by whom - will undoubtedly keep
 changing over time. But whether you use it to buy magic mushrooms or
 not, Bitcoin will always remain Magic Internet Money.
 
-### Magic: Teleportation, Shapeshifting, and Invisibility {#Magic:-Teleportation,-Shapeshifting,-and-Invisibility}
+### Magic: Teleportation, Shapeshifting, and Invisibility
 
 It\'s hard to explain the magic of Bitcoin if you haven\'t experienced
 it yourself. Receiving magic internet money for the first time is, well,
@@ -429,6 +395,7 @@ you censor something if you can\'t tell what you\'re looking at?
 
 ![\'TORCHED H34R7S\' by YT (\@coin_artist), a puzzle which hid 4.87
 bitcoin in plain sight.](http://fakehost/file/fc9ad312db3f68df6c099.jpg)
+{% include image.html name="wizard.jpg" caption="The original Bitcoin Wizard"%}
 
 But shapeshifting and teleportation aren\'t Bitcoin\'s only tricks. If I
 had to pick a favorite, I would probably pick bitcoin\'s magical ability
@@ -453,7 +420,7 @@ officers to find, and with a single \"abracadabra,\" our naked
 protagonists could restore their wealth once they arrived in a safe
 place. Magical, isn\'t it?
 
-**Internet: The Double-Spending Problem**
+### Internet: The Double-Spending Problem
 
 All computers are copying machines. The internet itself, in essence, is
 a gigantic copying machine. This, coincidentally, is also the reason why
@@ -473,7 +440,7 @@ received the copy. Could you trust me to do that? This, in a nutshell,
 is the *double-spending problem*. This conundrum is why most people
 thought that the internet can\'t do money.
 
-**Money: Facilitating Trust**
+### Money: Facilitating Trust
 
 What do I mean when I say that the internet can\'t do money? After all,
 there are credit cards, online banking, PayPal, Venmo, CashApp, AliPay,
@@ -511,7 +478,7 @@ permission to make this transaction. Bitcoin behaves in the same way:
 you send me some sats, and that\'s it. Now I have those sats, and you
 don\'t.
 
-### Becoming a Bitcoin Wizard {#Becoming-a-Bitcoin-Wizard}
+### Becoming a Bitcoin Wizard
 
 Until very recently, you had to be a wizard to use Bitcoin. At least
 that\'s what it felt like. Although Bitcoin came with a graphical user
@@ -538,8 +505,7 @@ Bitcoin wizard is. Today, it is probably fair to say that the real
 wizards are the core developers, those who work on improvements at the
 base layer of the Bitcoin protocol.
 
-![Bitcoin wizard painting by
-\@WorldOfRusty.](http://fakehost/file/af7ef234868c14e211be2.jpg)
+{% include image.html name="wizard-rusty.jpg" caption="Bitcoin wizard painting by @WorldOfRusty."%}
 
 Understanding Bitcoin is a process, an individual journey. You might end
 up becoming a bitcoin wizard yourself, just like the people that learned
@@ -581,14 +547,13 @@ to call. No one can help you to recover them. If you send funds to a
 scam artist, nobody can reverse this transaction or reimburse you for
 your gullibility.
 
-This shift of trust and responsibility - from third parties to yourself
-- is what allows for the emergence of sound money from the Bitcoin
+This shift of trust and responsibility - from third parties to yourself -
+is what allows for the emergence of sound money from the Bitcoin
 network. But what differentiates sound money from an unsound one? And
 why do we need sound money in the first place? Answering these questions
 will be the focus of the next chapter.
-:::
 
 ------------------------------------------------------------------------
 
-*Bitcoin Is Time* is a chapter of
+*Bitcoin Is Magic Internet Money* is a chapter of
 my upcoming book [*21 Ways*](https://21-ways.com).
