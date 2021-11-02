@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bitcoin Is Magic Internet Money"
+title: "Magic Internet Money"
 description: "TODO"
 date: 2021-11-02
 blocktime: 707849
@@ -158,12 +158,12 @@ of comments and writings that accompanied the code. His many public
 posts - as well as some private discussions he had with other
 cryptographers and early adopters of Bitcoin - are still available
 online. If you are interested in exploring the writings of Satoshi, the
-following two resources are probably the most complete archives to
-date: *The Complete Satoshi*, \[Footnote:
-https://satoshi.nakamotoinstitute.org/\] hosted by the Satoshi Nakamoto
-Institute, and *The Book of Satoshi* \[Footnote:
-https://www.bookofsatoshi.com/\] by Phil Champagne, which includes
-explanations and historical context in addition to Satoshi's writings. 
+following two resources are probably the most complete archives to date:
+[*The Complete Satoshi*](https://satoshi.nakamotoinstitute.org/), hosted by the
+Satoshi Nakamoto Institute, and
+[*The Book of Satoshi*](https://www.bookofsatoshi.com/) by Phil Champagne,
+which includes explanations and historical context in addition to Satoshi's
+writings. 
 
 These writings allow us to sketch out a timeline of Satoshi's
 activities, spanning from his sudden appearance in 2008 to his
@@ -314,9 +314,9 @@ possibility of parole, essentially for launching a website. While the
 whole story is nuanced and complicated, this is undoubtedly an
 exceedingly harsh penalty for committing non-violent crimes, especially
 since details of how the case was handled and evidence was obtained are
-questionable. \[Footnote: Free Ross is a petition that was launched to
-protest this grossly excessive sentence and fight for Ross Ulbricht's
-clemency. https://freeross.org/ \]
+questionable.[^freeross]
+
+[^freeross]: [Free Ross](https://freeross.org/) is a petition that was launched to protest this grossly excessive sentence and fight for Ross Ulbricht's clemency.  
 
 Of course, ideas can't be imprisoned. After the Silk Road was shut
 down, other "dark" marketplaces popped up, many of which exist to this
@@ -505,24 +505,24 @@ base layer of the Bitcoin protocol.
 
 Understanding Bitcoin is a process, an individual journey. You might end
 up becoming a bitcoin wizard yourself, just like the people that learned
-to code just to contribute to the Bitcoin project. \[Footnote: My friend
-Rajarshi Maitra, for example.
-\[[cite](https://www.citadel21.com/from-hello-world-to-bitcoin-core)\]\]
-And even if you don't, I hope that these different ways of looking at
-Bitcoin will help you on your journey of understanding Bitcoin a little
-better. At least, I hope that you will shift your perspective on Bitcoin
-and what it is. While Bitcoin is and always will be Magic Internet
-Money, it is so much more in its entirety.
+to code[^raj] just to contribute to the Bitcoin project. And even if you don't,
+I hope that these different ways of looking at Bitcoin will help you on your
+journey of understanding Bitcoin a little better. At least, I hope that you will
+shift your perspective on Bitcoin and what it is. While Bitcoin is and always
+will be Magic Internet Money, it is so much more in its entirety.
+
+[^raj]: My friend [Rajarshi Maitra](https://www.citadel21.com/from-hello-world-to-bitcoin-core), for example.
 
 Many people who got sucked into the world of Bitcoin describe the
 experience as "falling down the rabbit hole." Tipping your toes into
 this strange world of keys and hashes does indeed feel a little bit like
 entering Wonderland. Another metaphor that is often used is the "red
 pill vs blue pill" scene from The Matrix, where Morpheus offers Neo a
-red pill (the truth) and a blue pill (ignorance, but bliss). Neo chooses
+red[^orangepill] pill (the truth) and a blue pill (ignorance, but bliss). Neo chooses
 the red pill, and subsequently, he is bound to find out how deep the
-rabbit hole goes. \[Footnote: In Bitcoin, the pill to swallow
-is *orange*, of course.\]
+rabbit hole goes.
+
+[^orangepill]: In Bitcoin, the pill to swallow is *orange*, of course.
 
 Similarly, I believe that the only way to understand Bitcoin's magical
 properties is to experience it yourself. After you have set up
@@ -551,5 +551,7 @@ will be the focus of the next chapter.
 
 ------------------------------------------------------------------------
 
-*Bitcoin Is Magic Internet Money* is a chapter of
+*Magic Internet Money* is a chapter of
 my upcoming book [*21 Ways*](https://21-ways.com).
+
+------------------------------------------------------------------------
