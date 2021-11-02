@@ -170,7 +170,7 @@ activities, spanning from his sudden appearance in 2008 to his
 disappearance in 2010. The following is such a timeline along with
 important events in Bitcoin's early history:
 
-![Timeline](/assets/images/bitcoin/2021-11-02-bitcoin-is-magic-internet-money/timeline.png#full)
+![Timeline](/assets/images/bitcoin/2021-11-02-magic-internet-money/timeline.png#full)
 
 So it came to be that after a little over two years, on December 12,
 2010, Satoshi disappeared. Some of his final remarks were that "the
@@ -293,10 +293,9 @@ Other numbers are equally impressive: over one million transactions were
 facilitated between almost one million registered users, and the site
 listed tens of thousands of goods. Eventually, Ross Ulbricht, aka *Dread
 Pirate Roberts*, was caught and subsequently arrested, and the Silk Road
-was shut down. \[Footnote: If you are interested in the details of this
-particular chapter of Bitcoin's history, I would recommend *Silk
-Road* by Eileen Ormsby and *American Kingpin* by Nick Bilton, two great
-books on the topic.\]
+was shut down.[^kingpin]
+
+[^kingpin]: If you are interested in the details of this particular chapter of Bitcoin's history, I would recommend *Silk Road* by Eileen Ormsby and *American Kingpin* by Nick Bilton, two great books on the topic.
 
 The story of Ross Ulbricht, his arrest, and the rise and fall of the
 Silk Road is as fascinating as it is captivating. It is a story of a
