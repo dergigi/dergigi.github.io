@@ -461,7 +461,7 @@ in time and for what reason. Knowledge is power, and this particular
 knowledge gives these trusted third parties the power to block
 transactions, freeze accounts, decline payments, and de-platform their
 customers. Further, as history has shown, this data will inevitably be
-leaked either by negligence, incompetence, or targeted hacks. 
+leaked either by negligence, incompetence, or targeted hacks.
 [*Trusted Third Parties are Security Holes*][ttp], as Nick Szabo would say.
 
 [ttp]: https://nakamotoinstitute.org/trusted-third-parties/
