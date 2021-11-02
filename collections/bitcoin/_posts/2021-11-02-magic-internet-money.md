@@ -3,7 +3,7 @@ layout: post
 title: "Magic Internet Money"
 description: "TODO"
 date: 2021-11-02
-blocktime: 707849
+blocktime: 707909
 image: /assets/images/magic-internet-money.jpg
 redirect_from: /mim
 author: Gigi
