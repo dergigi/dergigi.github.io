@@ -245,11 +245,11 @@ mushrooms.
 | Date       | Time      | Event                                                          |
 | ---------- | --------: | -------------------------------------------------------------- |
 | 2011-02-27 |           | [Silk Road] is launched                                        |
-| 2011-04-26 |           | Last private correspondence of Satoshi                         |
+| 2011-04-26 |           | Last [private correspondence] of Satoshi                       |
 | 2011-06-01 |           | [Gawker] Article on Silk Road                                  |
 | 2012-01-15 |           | First appearance of bitcoin in a [TV show] ([The Good Wife])   |
 | 2012-11-28 | [210,000] | First [Halving]                                                |
-| 2013-10-02 |~[261,348] | Arrest of Ross Ulbricht and consequent shutdown of Silk Road   |
+| 2013-10-02 |~[261,348] | Arrest of [Ross Ulbricht] and consequent shutdown of Silk Road |
 | 2013-11-18 |           | [First hearing] on bitcoin of US Senate                        |
 | 2013-12-05 |           | First [China] "[ban]"                                          |
 | 2014-02-24 |           | Mt. Gox collapses                                              |
@@ -258,6 +258,7 @@ mushrooms.
 [261,348]: https://www.blockstream.info/block-height/261348
 
 [Silk Road]: https://www.gwern.net/Silk-Road
+[private correspondence]: https://web.archive.org/web/20190822205354/https://nakamotostudies.org/emails/satoshis-final-email-to-gavin-andresen/
 [Gawker]: https://archive.is/JhVAw
 [2b]: https://www.blockstream.info/tx/7dff938918f07619abd38e4510890396b1cef4fbeca154fb7aafba8843295ea2
 [4]: https://github.com/bitcoin/bitcoin/commit/8e79c64750fa5626713e4525c1f5192d3eb37c5c
@@ -266,6 +267,7 @@ mushrooms.
 [The Good Wife]: https://www.imdb.com/title/tt2148561/
 [First hearing]: https://archive.is/xW8gw
 [Halving]: https://en.bitcoin.it/wiki/Controlled_supply
+[Ross Ulbricht]: https://freeross.org
 [China]: https://archive.is/qDFCX
 [ban]: https://archive.is/t4wX5
 
