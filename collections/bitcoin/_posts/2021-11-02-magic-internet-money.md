@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Magic Internet Money"
+subtitle: "The Magical Origins of Bitcoin"
 description: "On wizards, magic cards, magic mushrooms, and Bitcoin's magical properties."
 date: 2021-11-02
 blocktime: 707909
