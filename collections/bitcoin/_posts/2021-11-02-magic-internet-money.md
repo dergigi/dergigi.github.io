@@ -199,7 +199,9 @@ important events in Bitcoin's early history:
 | 2010-07-14 |           | 1st commit by Gavin Andresen ([8bd6620])                   |
 | 2010-07-19 |           | [Version 0.3.1] released by Gavin Andresen                 |
 | 2010-12-10 |           | First article in a main-stream magazine [PC World]         |
-| 2010-12-12 | ~[97,230] | [Last BitcoinTalk post] of Satoshi                         |
+| 2010-12-12 | ~[97,230] | [Last public message] of Satoshi[^dorian]                  |
+
+[^dorian]: There is one later message, posted on March 7, 2014, in which Satoshi simply states that "[I am not Dorian Nakamoto.](http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A52186)" It is believed to be geniuine, although without cryptographic proof we can't be sure.
 
 [0]: https://www.blockstream.info/block-height/0
 [170]: https://www.blockstream.info/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16
@@ -227,7 +229,7 @@ important events in Bitcoin's early history:
 [Version 0.3.1]: https://github.com/bitcoin/bitcoin/releases/tag/v0.3.1
 [New Liberty Standard]: https://web.archive.org/web/20091229132610/http://newlibertystandard.wetpaint.com/page/Exchange+Rate
 [bitcoin-to-fiat]: https://twitter.com/marttimalmi/status/423455561703624704
-[Last BitcoinTalk post]: https://satoshi.nakamotoinstitute.org/posts/bitcointalk/543/
+[Last public message]: https://satoshi.nakamotoinstitute.org/posts/bitcointalk/543/
 
 ---
 
