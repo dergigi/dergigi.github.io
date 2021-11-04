@@ -196,6 +196,9 @@ important events in Bitcoin's early history:
 | 2010-07-11 |           | [Slashdot] article on Bitcoin                              |
 | 2010-07-17 |           | [Mt. Gox] is launched                                      |
 | 2010-08-28 |           | Last commit of Satoshi ([343328c])                         |
+| 2010-07-14 |           | 1st commit by Gavin Andresen ([8bd6620])                   |
+| 2010-07-19 |           | [Version 0.3.1] released by Gavin Andresen                 |
+| 2010-12-10 |           | First article in a main-stream magazine [PC World]         |
 | 2010-12-12 | ~[97,230] | [Last BitcoinTalk post] of Satoshi                         |
 
 [0]: https://www.blockstream.info/block-height/0
@@ -204,7 +207,6 @@ important events in Bitcoin's early history:
 [24,835]: https://www.blockstream.info/tx/7dff938918f07619abd38e4510890396b1cef4fbeca154fb7aafba8843295ea2
 [57,043]: https://www.blockstream.info/tx/a1075db55d416d3ca199f55b6084e2115b9345e16c5cf302fc80e9d5fbf5d48d
 [97,230]: https://www.blockstream.info/block-height/97230
-[210,000]: https://www.blockstream.info/block-height/210000
 
 [bitcoin.org]: https://bitcoin.org
 [whitepaper]: https://dergigi.com/bitcoin.pdf
@@ -219,33 +221,15 @@ important events in Bitcoin's early history:
 [#bitcoin-dev]: https://en.bitcoin.it/wiki/Bitcoin-dev
 [Version 0.3]: https://github.com/bitcoin/bitcoin/releases/tag/v0.3.0
 [Slashdot]: https://news.slashdot.org/story/10/07/11/1747245/Bitcoin-Releases-Version-03
-[New Liberty Standard]: https://web.archive.org/web/20091229132610/http://newlibertystandard.wetpaint.com/page/Exchange+Rate
-[343328c]: https://github.com/bitcoin/bitcoin/commit/343328c6b8db85e58a1feea85f0d10e62967fa19
-[bitcoin-to-fiat]: https://twitter.com/marttimalmi/status/423455561703624704
 [Mt. Gox]: https://en.bitcoin.it/wiki/Mt._Gox
+[343328c]: https://github.com/bitcoin/bitcoin/commit/343328c6b8db85e58a1feea85f0d10e62967fa19
+[8bd6620]: https://github.com/bitcoin/bitcoin/commit/8bd66202c324a6c7a79abc0f1f0558dacbc59460
+[Version 0.3.1]: https://github.com/bitcoin/bitcoin/releases/tag/v0.3.1
+[New Liberty Standard]: https://web.archive.org/web/20091229132610/http://newlibertystandard.wetpaint.com/page/Exchange+Rate
+[bitcoin-to-fiat]: https://twitter.com/marttimalmi/status/423455561703624704
 [Last BitcoinTalk post]: https://satoshi.nakamotoinstitute.org/posts/bitcointalk/543/
 
-New non-Satoshi events:
-* 2009, October 5: First exchange rate (New Liberty Standard) [1]
-* 2009, October 12: First bitcoin-to-fiat exchange [2a, 2b]
-* 2010, July 14: 1st commit by Gavin Andresen (8bd6620) [3]
-* 2010, July 19: Version 0.3.1 released by Gavin Andresen [4]
-* 2010, December 10: First article in a main-stream magazine ([PC World]) [5]
-* 2011, June 1: Gawker Article on Silk Road [6]
-* 2012, January 15: First appearance of bitcoin in a TV show (The Good Wife) [7a, 7b]
-* 2013, November 18: First hearing on bitcoin of US Senate  [8]
-* 2013, December 5: First China "ban" [9a, 9b]
-
-
-[2b]: https://www.blockstream.info/tx/7dff938918f07619abd38e4510890396b1cef4fbeca154fb7aafba8843295ea2
-[3] https://github.com/bitcoin/bitcoin/commit/8bd66202c324a6c7a79abc0f1f0558dacbc59460
-[4] https://github.com/bitcoin/bitcoin/commit/8e79c64750fa5626713e4525c1f5192d3eb37c5c
-[PC World]: https://archive.is/u9DLT
-[7a] https://archive.is/EeRNM
-[7b] https://www.imdb.com/title/tt2148561/
-[8] https://archive.is/xW8gw
-[9a] https://archive.is/qDFCX
-[9b] https://archive.is/t4wX5
+---
 
 So it came to be that after a little over two years, on December 12,
 2010, Satoshi disappeared. Some of his final remarks were that "the
@@ -255,15 +239,36 @@ Bitcoin's early history were launched: Mt. Gox and Silk Road. Both have
 magical origins: one used to deal with magic cards, the other with magic
 mushrooms.
 
-| Date       | Time      | Event                                                      |
-| ---------- | --------: | ---------------------------------------------------------- |
-| 2011-02    |           | Silk Road is launched                                      |
-| 2011-04-26 |           | Last private correspondence of Satoshi                     |
-| 2012-11-28 | [210,000] | First Halving (block 210,000)                              |
-| 2013-10    |           | Silk Road shut down by FBI                                 |
-| 2014-02-24 |           | Mt. Gox collapses                                          |
+---
 
+
+| Date       | Time      | Event                                                          |
+| ---------- | --------: | -------------------------------------------------------------- |
+| 2011-02-27 |           | [Silk Road] is launched                                        |
+| 2011-04-26 |           | Last private correspondence of Satoshi                         |
+| 2011-06-01 |           | [Gawker] Article on Silk Road                                  |
+| 2012-01-15 |           | First appearance of bitcoin in a [TV show] ([The Good Wife])   |
+| 2012-11-28 | [210,000] | First [Halving]                                                |
+| 2013-10-02 |~[261,348] | Arrest of Ross Ulbricht and consequent shutdown of Silk Road   |
+| 2013-11-18 |           | [First hearing] on bitcoin of US Senate                        |
+| 2013-12-05 |           | First [China] "[ban]"                                          |
+| 2014-02-24 |           | Mt. Gox collapses                                              |
+
+[210,000]: https://www.blockstream.info/block-height/210000
+[261,348]: https://www.blockstream.info/block-height/261348
+
+[Silk Road]: https://www.gwern.net/Silk-Road
 [Gawker]: https://archive.is/JhVAw
+[2b]: https://www.blockstream.info/tx/7dff938918f07619abd38e4510890396b1cef4fbeca154fb7aafba8843295ea2
+[4]: https://github.com/bitcoin/bitcoin/commit/8e79c64750fa5626713e4525c1f5192d3eb37c5c
+[PC World]: https://archive.is/u9DLT
+[TV show]: https://archive.is/EeRNM
+[The Good Wife]: https://www.imdb.com/title/tt2148561/
+[First hearing]: https://archive.is/xW8gw
+[Halving]: https://en.bitcoin.it/wiki/Controlled_supply
+[China]: https://archive.is/qDFCX
+[ban]: https://archive.is/t4wX5
+
 
 ### Magic Cards: The Mt.Gox Era
 
