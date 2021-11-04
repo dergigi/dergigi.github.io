@@ -37,7 +37,7 @@ articles or working on a [translation][translations].
 
 <center>
   <h4>Lightning Address</h4>
-  <p><small><a href="lightning:value@ts.dergigi.com">value@ts.dergigi.com</a></small></p>
+  <p><small><a href="lightning:s@ts.dergigi.com">value@ts.dergigi.com</a></small></p>
 </center>
 
 {% include image.html path="/assets/images/bitcoin/lightning-address-qr.gif" %}
