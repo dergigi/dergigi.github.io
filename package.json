@@ -29,12 +29,12 @@
     "salvattore": "^1.0.9"
   },
   "devDependencies": {
-    "@babel/cli": "^7.15.7",
-    "@babel/core": "^7.15.8",
-    "@babel/preset-env": "^7.15.8",
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
-    "eslint": "^8.0.1",
+    "eslint": "^8.1.0",
     "eslint-config-eslint": "^7.0.0",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
@@ -45,8 +45,8 @@
     "gulp-uglify": "^3.0.2",
     "gulp-zip": "^5.1.0",
     "s3-website": "^3.3.0",
-    "sass": "^1.43.2",
-    "stylelint": "^13.13.1",
+    "sass": "^1.43.4",
+    "stylelint": "^14.0.1",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0"
   }
