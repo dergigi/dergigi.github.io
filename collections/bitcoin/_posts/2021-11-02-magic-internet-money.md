@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Magic Internet Money"
+subtitle: "The Magical Origins of Bitcoin"
 description: "On wizards, magic cards, magic mushrooms, and Bitcoin's magical properties."
 date: 2021-11-02
 blocktime: 707909
@@ -175,6 +176,63 @@ important events in Bitcoin's early history:
 
 ![Timeline](/assets/images/bitcoin/2021-11-02-magic-internet-money/timeline.png#full)
 
+
+| Date       | Time      | Event                                                      |
+| ---------- | --------: | ---------------------------------------------------------- |
+| 2008-08-18 |           | Satoshi registered [bitcoin.org]                           |
+| 2008-10-31 |           | Publication of the Bitcoin [whitepaper]                    |
+| 2008-11-09 |           | The Bitcoin project is registered at [SourceForge]         |
+| 2009-01-03 |       [0] | The [Genesis Block] is mined                               |
+| 2009-01-08 |           | [Version 0.1] is [announced] and released                  |
+| 2009-01-11 |           | Hal tweets: [Running bitcoin]                              |
+| 2009-01-12 |     [170] | First ever bitcoin transaction. Satoshi sends Hal [10 BTC] |
+| 2009-01-27 |   [2,016] | First difficulty adjustment                                |
+| 2009-10-05 |           | First exchange rate via [New Liberty Standard]             |
+| 2009-10-12 |  [24,835] | First [bitcoin-to-fiat] exchange                           |
+| 2009-10-12 |           | Creation of [#bitcoin-dev] channel on Freenode             |
+| 2009-12-16 |           | [Version 0.2] is released                                  |
+| 2010-05-22 |  [57,043] | [First transaction][pizzatx] for a real-world good         |
+| 2010-07-07 |           | [Version 0.3] is released                                  |
+| 2010-07-11 |           | [Slashdot] article on Bitcoin                              |
+| 2010-07-17 |           | [Mt. Gox] is launched                                      |
+| 2010-08-28 |           | Last commit of Satoshi ([343328c])                         |
+| 2010-07-14 |           | 1st commit by Gavin Andresen ([8bd6620])                   |
+| 2010-07-19 |           | [Version 0.3.1] released by Gavin Andresen                 |
+| 2010-12-10 |           | First article in a main-stream magazine [PC World]         |
+| 2010-12-12 | ~[97,230] | [Last public message] of Satoshi[^dorian]                  |
+
+[^dorian]: There is one later message, posted on March 7, 2014, in which Satoshi simply states that "[I am not Dorian Nakamoto.](http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A52186)" It is believed to be geniuine, although without cryptographic proof we can't be sure.
+
+[0]: https://www.blockstream.info/block-height/0
+[170]: https://www.blockstream.info/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16
+[2,016]: https://www.blockstream.info/block-height/2016
+[24,835]: https://www.blockstream.info/tx/7dff938918f07619abd38e4510890396b1cef4fbeca154fb7aafba8843295ea2
+[57,043]: https://www.blockstream.info/tx/a1075db55d416d3ca199f55b6084e2115b9345e16c5cf302fc80e9d5fbf5d48d
+[97,230]: https://www.blockstream.info/block-height/97230
+
+[bitcoin.org]: https://bitcoin.org
+[whitepaper]: https://dergigi.com/bitcoin.pdf
+[SourceForge]: https://archive.ph/gSdgi
+[Genesis Block]: https://en.bitcoin.it/wiki/Genesis_block
+[Version 0.1]: https://github.com/Maguines/Bitcoin-v0.1
+[Running bitcoin]: https://twitter.com/halfin/status/1110302988
+[10 BTC]: https://www.blockstream.info/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16
+[announced]: https://satoshi.nakamotoinstitute.org/emails/cryptography/16/
+[Version 0.2]: https://github.com/bitcoin/bitcoin/releases/tag/v0.2.0
+[pizzatx]: https://www.blockstream.info/tx/a1075db55d416d3ca199f55b6084e2115b9345e16c5cf302fc80e9d5fbf5d48d
+[#bitcoin-dev]: https://en.bitcoin.it/wiki/Bitcoin-dev
+[Version 0.3]: https://github.com/bitcoin/bitcoin/releases/tag/v0.3.0
+[Slashdot]: https://news.slashdot.org/story/10/07/11/1747245/Bitcoin-Releases-Version-03
+[Mt. Gox]: https://en.bitcoin.it/wiki/Mt._Gox
+[343328c]: https://github.com/bitcoin/bitcoin/commit/343328c6b8db85e58a1feea85f0d10e62967fa19
+[8bd6620]: https://github.com/bitcoin/bitcoin/commit/8bd66202c324a6c7a79abc0f1f0558dacbc59460
+[Version 0.3.1]: https://github.com/bitcoin/bitcoin/releases/tag/v0.3.1
+[New Liberty Standard]: https://web.archive.org/web/20091229132610/http://newlibertystandard.wetpaint.com/page/Exchange+Rate
+[bitcoin-to-fiat]: https://twitter.com/marttimalmi/status/423455561703624704
+[Last public message]: https://satoshi.nakamotoinstitute.org/posts/bitcointalk/543/
+
+---
+
 So it came to be that after a little over two years, on December 12,
 2010, Satoshi disappeared. Some of his final remarks were that "the
 project is in good hands" and that he had "moved on to other things."
@@ -182,6 +240,39 @@ A short time before he vanished, two of the most prominent projects of
 Bitcoin's early history were launched: Mt. Gox and Silk Road. Both have
 magical origins: one used to deal with magic cards, the other with magic
 mushrooms.
+
+---
+
+
+| Date       | Time      | Event                                                          |
+| ---------- | --------: | -------------------------------------------------------------- |
+| 2011-02-27 |           | [Silk Road] is launched                                        |
+| 2011-04-26 |           | Last [private correspondence] of Satoshi                       |
+| 2011-06-01 |           | [Gawker] Article on Silk Road                                  |
+| 2012-01-15 |           | First appearance of bitcoin in a [TV show] ([The Good Wife])   |
+| 2012-11-28 | [210,000] | First [Halving]                                                |
+| 2013-10-02 |~[261,348] | Arrest of [Ross Ulbricht] and consequent shutdown of Silk Road |
+| 2013-11-18 |           | [First hearing] on bitcoin of US Senate                        |
+| 2013-12-05 |           | First [China] "[ban]"                                          |
+| 2014-02-24 |           | Mt. Gox collapses                                              |
+
+[210,000]: https://www.blockstream.info/block-height/210000
+[261,348]: https://www.blockstream.info/block-height/261348
+
+[Silk Road]: https://www.gwern.net/Silk-Road
+[private correspondence]: https://web.archive.org/web/20190822205354/https://nakamotostudies.org/emails/satoshis-final-email-to-gavin-andresen/
+[Gawker]: https://archive.is/JhVAw
+[2b]: https://www.blockstream.info/tx/7dff938918f07619abd38e4510890396b1cef4fbeca154fb7aafba8843295ea2
+[4]: https://github.com/bitcoin/bitcoin/commit/8e79c64750fa5626713e4525c1f5192d3eb37c5c
+[PC World]: https://archive.is/u9DLT
+[TV show]: https://archive.is/EeRNM
+[The Good Wife]: https://www.imdb.com/title/tt2148561/
+[First hearing]: https://archive.is/xW8gw
+[Halving]: https://en.bitcoin.it/wiki/Controlled_supply
+[Ross Ulbricht]: https://freeross.org
+[China]: https://archive.is/qDFCX
+[ban]: https://archive.is/t4wX5
+
 
 ### Magic Cards: The Mt.Gox Era
 
