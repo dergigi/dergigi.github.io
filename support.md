@@ -35,15 +35,11 @@ articles or working on a [translation][translations].
 
 ![Bitcoin is Love](/assets/images/bitcoin/bitcoin-is-love.png)
 
-<center>
-  <h4>Lightning Address</h4>
-  <p><small><a href="lightning:s@ts.dergigi.com">s@ts.dergigi.com</a></small></p>
-</center>
+{% include image.html path="/assets/images/bitcoin/lightning-address-sats-trans.png" link="lightning:s@ts.dergigi.com" %}
 
-{% include image.html path="/assets/images/bitcoin/lightning-address-qr.gif" %}
+You can send an arbitrary amount of sats to [s@ts.dergigi.com][sats] or one of my other lightning addresses.[^ln-addr]
 
-My other Lightning Addresses[^ln-addr]: [dergigi@ln.tips][lntips], [dergigi@lntxbot.com][lntxbot], [dergigi@stacker.news][sn]
-
+[sats]: lightning:s@ts.dergigi.com
 [lntips]: lightning:dergigi@ln.tips
 [lntxbot]: lightning:dergigi@lntxbot.com
 [sn]: lightning:dergigi@stacker.news
@@ -165,4 +161,4 @@ Gigi
 [translations]: {{ '/translations' | absolute_url }}
 [license]: {{ '/license' | absolute_url }}
 
-[^ln-addr]: A [Lightning Address](https://lightningaddress.com/) allows you to receive bitcoin payments using an e-mail style address format. Try it out yourself by signing up to [Stacker News](https://stacker.news) or by using one of these Telegram bots: [LNTXBOT](https://telegram.me/lntxbot), [LightningTipBot](https://t.me/LightningTipBot)
+[^ln-addr]: A [Lightning Address](https://lightningaddress.com/) allows you to receive bitcoin payments using an e-mail style address format. Try it out yourself by signing up to [Stacker News](https://stacker.news) or by using one of these Telegram bots: [LNTXBOT](https://telegram.me/lntxbot), [LightningTipBot](https://t.me/LightningTipBot). My lightning addresses: [s@ts.dergigi.com][sats], [dergigi@ln.tips][lntips], [dergigi@lntxbot.com][lntxbot], [dergigi@stacker.news][sn]
