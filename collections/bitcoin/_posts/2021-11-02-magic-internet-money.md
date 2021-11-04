@@ -181,65 +181,66 @@ important events in Bitcoin's early history:
 | ---------- | --------: | ---------------------------------------------------------- |
 | 2008-08-18 |           | Satoshi registered [bitcoin.org]                           |
 | 2008-10-31 |           | Publication of the Bitcoin [whitepaper]                    |
-| 2008-11-09 |           | The Bitcoin project is registered at SourceForge           |
-| 2009-01-03 |       [0] | The Genesis Block is mined                                 |
-| 2009-01-09 |           | Version 0.1 is released                                    |
+| 2008-11-09 |           | The Bitcoin project is registered at [SourceForge]         |
+| 2009-01-03 |       [0] | The [Genesis Block] is mined                               |
+| 2009-01-08 |           | [Version 0.1] is [announced] and released                  |
+| 2009-01-11 |           | Hal tweets: [Running bitcoin]                              |
 | 2009-01-12 |     [170] | First ever bitcoin transaction. Satoshi sends Hal [10 BTC] |
-| 2009-10-12 |  [24,835] | First bitcoin-to-fiat exchange                             |
-| 2009-10-12 |           | Creation of #bitcoin-dev channel on Freenode               |
-| 2009-12-16 |           | Version 0.2 is released                                    |
-| 2009-12-30 |   [2,016] | First difficulty adjustment                                |
-| 2010-05-22 |           | First transaction for a real-world good (2 pizzas)         |
-| 2010-07-07 |           | Version 0.3 is released                                    |
-| 2010-07-11 |           | Slashdot article on Bitcoin                                |
-| 2010-07-17 |           | MtGox is launched                                          |
+| 2009-01-27 |   [2,016] | First difficulty adjustment                                |
+| 2009-10-05 |           | First exchange rate via [New Liberty Standard]             |
+| 2009-10-12 |  [24,835] | First [bitcoin-to-fiat] exchange                           |
+| 2009-10-12 |           | Creation of [#bitcoin-dev] channel on Freenode             |
+| 2009-12-16 |           | [Version 0.2] is released                                  |
+| 2010-05-22 |  [57,043] | [First transaction][pizzatx] for a real-world good         |
+| 2010-07-07 |           | [Version 0.3] is released                                  |
+| 2010-07-11 |           | [Slashdot] article on Bitcoin                              |
+| 2010-07-17 |           | [Mt. Gox] is launched                                      |
 | 2010-08-28 |           | Last commit of Satoshi ([343328c])                         |
-| 2010-12-12 |           | Last public message of Satoshi                             |
-| 2011-02    |           | Silk Road is launched                                      |
-| 2011-04-26 |           | Last private correspondence of Satoshi                     |
-| 2012-11-28 | [210,000] | First Halving (block 210,000)                              |
-| 2013-10    |           | Silk Road shut down by FBI                                 |
-| 2014-02-24 |           | Mt. Gox collapses                                          |
+| 2010-12-12 | ~[97,230] | [Last BitcoinTalk post] of Satoshi                         |
 
 [0]: https://www.blockstream.info/block-height/0
-[170]: https://www.blockstream.info/block-height/170
+[170]: https://www.blockstream.info/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16
 [2,016]: https://www.blockstream.info/block-height/2016
+[24,835]: https://www.blockstream.info/tx/7dff938918f07619abd38e4510890396b1cef4fbeca154fb7aafba8843295ea2
+[57,043]: https://www.blockstream.info/tx/a1075db55d416d3ca199f55b6084e2115b9345e16c5cf302fc80e9d5fbf5d48d
+[97,230]: https://www.blockstream.info/block-height/97230
 [210,000]: https://www.blockstream.info/block-height/210000
 
 [bitcoin.org]: https://bitcoin.org
 [whitepaper]: https://dergigi.com/bitcoin.pdf
+[SourceForge]: https://archive.ph/gSdgi
+[Genesis Block]: https://en.bitcoin.it/wiki/Genesis_block
+[Version 0.1]: https://github.com/Maguines/Bitcoin-v0.1
+[Running bitcoin]: https://twitter.com/halfin/status/1110302988
 [10 BTC]: https://www.blockstream.info/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16
+[announced]: https://satoshi.nakamotoinstitute.org/emails/cryptography/16/
+[Version 0.2]: https://github.com/bitcoin/bitcoin/releases/tag/v0.2.0
+[pizzatx]: https://www.blockstream.info/tx/a1075db55d416d3ca199f55b6084e2115b9345e16c5cf302fc80e9d5fbf5d48d
+[#bitcoin-dev]: https://en.bitcoin.it/wiki/Bitcoin-dev
+[Version 0.3]: https://github.com/bitcoin/bitcoin/releases/tag/v0.3.0
+[Slashdot]: https://news.slashdot.org/story/10/07/11/1747245/Bitcoin-Releases-Version-03
+[New Liberty Standard]: https://web.archive.org/web/20091229132610/http://newlibertystandard.wetpaint.com/page/Exchange+Rate
 [343328c]: https://github.com/bitcoin/bitcoin/commit/343328c6b8db85e58a1feea85f0d10e62967fa19
+[bitcoin-to-fiat]: https://twitter.com/marttimalmi/status/423455561703624704
+[Mt. Gox]: https://en.bitcoin.it/wiki/Mt._Gox
+[Last BitcoinTalk post]: https://satoshi.nakamotoinstitute.org/posts/bitcointalk/543/
 
 New non-Satoshi events:
 * 2009, October 5: First exchange rate (New Liberty Standard) [1]
 * 2009, October 12: First bitcoin-to-fiat exchange [2a, 2b]
 * 2010, July 14: 1st commit by Gavin Andresen (8bd6620) [3]
 * 2010, July 19: Version 0.3.1 released by Gavin Andresen [4]
-* 2010, December 10: First article in a main-stream magazine (PC World) [5]
-* 2011, June 1: Gawker Article on Silk Road [6]
-* 2012, January 15: First appearance of bitcoin in a TV show (The Good Wife) [7a, 7b]
-* 2013, November 18: First hearing on bitcoin of US Senate  [8]
-* 2013, December 5: First China "ban" [9a, 9b]
-
-* 2009, October 5: First exchange rate (New Liberty Standard) [1]
-* 2009, October 12: First bitcoin-to-fiat exchange [2a, 2b]
-* 2010, July 14: 1st commit by Gavin Andresen (8bd6620) [3]
-* 2010, July 19: Version 0.3.1 released by Gavin Andresen [4]
-* 2010, December 10: First article in a main-stream magazine (PC World) [5]
+* 2010, December 10: First article in a main-stream magazine ([PC World]) [5]
 * 2011, June 1: Gawker Article on Silk Road [6]
 * 2012, January 15: First appearance of bitcoin in a TV show (The Good Wife) [7a, 7b]
 * 2013, November 18: First hearing on bitcoin of US Senate  [8]
 * 2013, December 5: First China "ban" [9a, 9b]
 
 
-[1] https://web.archive.org/web/20091229132610/http://newlibertystandard.wetpaint.com/page/Exchange+Rate
-[2a]: https://twitter.com/marttimalmi/status/423455561703624704
 [2b]: https://www.blockstream.info/tx/7dff938918f07619abd38e4510890396b1cef4fbeca154fb7aafba8843295ea2
 [3] https://github.com/bitcoin/bitcoin/commit/8bd66202c324a6c7a79abc0f1f0558dacbc59460
 [4] https://github.com/bitcoin/bitcoin/commit/8e79c64750fa5626713e4525c1f5192d3eb37c5c
-[5] https://archive.is/u9DLT
-[6] https://archive.is/JhVAw
+[PC World]: https://archive.is/u9DLT
 [7a] https://archive.is/EeRNM
 [7b] https://www.imdb.com/title/tt2148561/
 [8] https://archive.is/xW8gw
@@ -253,6 +254,16 @@ A short time before he vanished, two of the most prominent projects of
 Bitcoin's early history were launched: Mt. Gox and Silk Road. Both have
 magical origins: one used to deal with magic cards, the other with magic
 mushrooms.
+
+| Date       | Time      | Event                                                      |
+| ---------- | --------: | ---------------------------------------------------------- |
+| 2011-02    |           | Silk Road is launched                                      |
+| 2011-04-26 |           | Last private correspondence of Satoshi                     |
+| 2012-11-28 | [210,000] | First Halving (block 210,000)                              |
+| 2013-10    |           | Silk Road shut down by FBI                                 |
+| 2014-02-24 |           | Mt. Gox collapses                                          |
+
+[Gawker]: https://archive.is/JhVAw
 
 ### Magic Cards: The Mt.Gox Era
 
