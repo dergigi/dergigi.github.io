@@ -7,7 +7,7 @@ blocktime: 554747
 description: "Part one of 21 lessons learned from Bitcoin."
 image: /assets/images/btc03-the-school-of-bitcoin.jpg
 source: https://medium.com/@dergigi/philosophical-teachings-of-bitcoin-97f4b96f455f
-redirect_from: /bitcoin/2018-12-21-philosophical-teachings-of-bitcoin
+redirect_from: /philosophy
 numbering_style: upper-roman
 author: Gigi
 category: bitcoin
