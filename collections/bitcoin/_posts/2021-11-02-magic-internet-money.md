@@ -644,7 +644,7 @@ This shift of trust and responsibility - from third parties to yourself -
 is what allows for the emergence of sound money from the Bitcoin
 network. But what differentiates sound money from an unsound one? And
 why do we need sound money in the first place? Answering these questions
-will be the focus of the [next chapter](https://21-ways).
+will be the focus of the [next chapter](https://21-ways.com).
 
 ------------------------------------------------------------------------
 
