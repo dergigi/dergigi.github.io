@@ -30,6 +30,11 @@ layout: default
             {% endif %}
           </a>
         {% endif %}
+        {% if page.redirect_from %}
+          <a href="lightning:{{ page.redirect_from | replace: '/', '' }}@ts.dergigi.com"
+             title="Send sats to this article's lightning address" 
+             class="post__source">🧡</a>
+        {% endif %}
       </div>
     </div>
 
