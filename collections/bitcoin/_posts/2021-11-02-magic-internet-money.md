@@ -9,6 +9,7 @@ image: /assets/images/magic-internet-money.jpg
 redirect_from: /magic
 author: Gigi
 category: bitcoin
+favorite: true
 tags:
  - Bitcoin
  - Writing
