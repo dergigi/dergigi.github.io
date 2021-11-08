@@ -15,8 +15,9 @@ How to go about doing translations:
 1. [Read the license][license]
 2. Choose what you want to translate
 3. Translate it
-4. Host your translation somewhere[^hosting]
-5. [Notify me][contact]
+4. Mention and link to [the license] in your work.
+5. Host your translation somewhere[^hosting]
+6. [Notify me][contact]
 
 [^hosting]: You can use Medium, or [Ghost](https://ghost.org/), or Wordpress, or Blogger, or [Jekyll](https://jekyllrb.com/), or [Telegra.ph](https://telegra.ph/), or [Write.as](https://write.as/), or one of the thousands of publishing solutions that surely exist. You can also just host a txt file on your web server or something.
 
