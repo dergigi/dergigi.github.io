@@ -13,6 +13,11 @@ favorite: true
 tags:
  - Bitcoin
  - Writing
+translations:
+ - language: Italian
+   url: https://bitcoin-translate.it/blog/20211108.php
+   author: Italian Satoshi
+   author_url: https://twitter.com/italiansatoshi
 series: 21 Ways
 ---
 
