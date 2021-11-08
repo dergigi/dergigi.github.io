@@ -44,6 +44,10 @@ translations:
    url: https://blog.duxreserve.fr/bitcoin-cest-le-temps-partie-un/
    author: Théo Mogenet
    author_url: https://twitter.com/Theo_Mog
+ - language: Italian
+   url: https://medium.com/@filippo91/bitcoin-e-tempo-a540a468bc63
+   author: Filippo
+   author_url: https://twitter.com/Filo_Noveuno
 tags:
  - Bitcoin
  - Writing
