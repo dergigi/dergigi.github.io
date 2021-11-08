@@ -26,6 +26,10 @@ translations:
    url: https://linuzri.medium.com/bitcoin-adalah-idea-a9fdfa6ef7e7
    author: Linuzri
    author_url: https://twitter.com/linuzri1
+ - language: Italian
+   url: https://medium.com/@filippo91/bitcoin-%C3%A8-unidea-fa4d501f55d5
+   author: Filippo
+   author_url: https://twitter.com/Filo_Noveuno
 series: 21 Ways
 ---
 
