@@ -15,7 +15,7 @@ How to go about doing translations:
 1. [Read the license][license]
 2. Choose what you want to translate
 3. Translate it
-4. Mention and link to [the license][license] in your work.
+4. Mention and link to the [CC BY-SA 4.0 license][cc-by-sa] in your work.
 5. Host your translation somewhere[^hosting]
 6. [Notify me][contact]
 
@@ -65,5 +65,6 @@ The following articles haven't been translated yet:
 
 [contact]: {{ '/contact' | absolute_url }}
 [license]: {{ '/license' | absolute_url }}
+[cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
 [21lessons]: https://21lessons.com
 [21trans]: https://21lessons.com/translations
