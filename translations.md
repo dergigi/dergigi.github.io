@@ -15,7 +15,7 @@ How to go about doing translations:
 1. [Read the license][license]
 2. Choose what you want to translate
 3. Translate it
-4. Mention and link to [the license] in your work.
+4. Mention and link to [the license][license] in your work.
 5. Host your translation somewhere[^hosting]
 6. [Notify me][contact]
 
