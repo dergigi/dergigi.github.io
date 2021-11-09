@@ -24,6 +24,10 @@ translations:
    url: https://medium.com/brandin-kirjasto/suvereenin-yksil%C3%B6n-nousu-3f0cca824d59
    author: Thomas Brand
    author_url: https://twitter.com/thlbr
+ - language: Portuguese
+   url: https://explicabitcoin.medium.com/a-ascens%C3%A3o-do-indiv%C3%ADduo-soberano-bd483f629e16
+   author: Explica Bitcoin
+   author_url: https://twitter.com/BitcoinExplica
 ---
 
 Not too long ago, the internet was a fringe phenomenon. Very few people
