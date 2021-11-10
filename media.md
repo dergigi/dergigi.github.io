@@ -39,12 +39,12 @@ Watch the [full interview][jbpS4E40] on YouTube.
 
 
 ### English Interviews and Conversations
-  - **2021-10-19** - [Stephan Livera #313][slp313] on Bitcoin is Time and sat-dollar parity, hosted by Stephan Livera
+  - **2021-10-19** - [⭐ Stephan Livera #313][slp313] on Bitcoin is Time and sat-dollar parity, hosted by Stephan Livera
   - **2021-10-19** - [Smart People Shit #31][smart31] on 21 Lessons, self-sovereignty, maximalism, and more, hosted by Dennis Porter
   - **2021-10-08** - [Meme Factory #7][mf7] on 🍌 🍞 hosted by the Meme Factory™
   - **2021-09-16** - [Simply Bitcoin][simply-dalio] hosted by Nico and Coinicarus
   - **2021-08-15** - [Why Are We Bullish][btcsessions2] with Tomer & Walton & Obi, hosted by BTC Sessions
-  - **2021-08-10** - [Jordan B. Peterson Podcast S4E40][jbpS4E40] on Bitcoin and the Future of Money with John, Richard, and Breedlove, hosted by Jordan B. Peterson
+  - **2021-08-10** - [⭐ Jordan B. Peterson Podcast S4E40][jbpS4E40] on Bitcoin and the Future of Money with John, Richard, and Breedlove, hosted by Jordan B. Peterson
   - **2021-07-26** - [Bitcoin Standard Podcast #73][saif73] on Bitcoin and Time, hosted by Saifedean Ammous
   - **2021-07-09** - [Swan Lounge with Tomer Strolight][sl-tomer] and the crew, hosted by Brekkie
   - **2021-07-08** - [Why Bitcoin #24][why24] on CoinJoin and other topics, hosted by Jeff and Doug
