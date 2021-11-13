@@ -37,8 +37,11 @@ Watch the [full interview][jbpS4E40] on YouTube.
 [smart31]: https://youtu.be/8ldtAPW-ldE
 [slp313]: https://stephanlivera.com/episode/313/
 
+[missionbtc]: https://pod.link/1579377817/episode/b6e04e7ed92b75f6bc3217e086472cf5
 
 ### English Interviews and Conversations
+  - **2021-11-10** - [Bitcoin Made Simple #42][bms42] with Guy Swan, hosted by Cory Tucek
+  - **2021-11-08** - [Mission Bitcoin][missionbtc] on Bitcoin and Christianity, hosted by Patrick Melder
   - **2021-10-19** - [⭐ Stephan Livera #313][slp313] on Bitcoin is Time and sat-dollar parity, hosted by Stephan Livera
   - **2021-10-19** - [Smart People Shit #31][smart31] on 21 Lessons, self-sovereignty, maximalism, and more, hosted by Dennis Porter
   - **2021-10-08** - [Meme Factory #7][mf7] hosted by the Meme Factory™
