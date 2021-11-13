@@ -3,6 +3,20 @@ layout: page
 title: Projects
 ---
 
+* [21 Ways](#21-ways)
+* [21 Lessons](#21-lessons)
+* [Bitcoin Resources](#bitcoin-resources)
+* [Bitcoin Quotes](#bitcoin-quotes)
+* [Einundzwanzig](#einundzwanzig)
+* [21 Lektionen](#21-lektionen)
+* [Quotable Satoshi Twitter Bot](#quotable-satoshi-twitter-bot)
+* [Contribution: The Bitcoin Times](#contribution-the-bitcoin-times)
+* [Contribution: Citadel 21](#contribution-citadel-21)
+* [Contribution: 21ism Bitcoin Art Collective](#contribution-21ism-bitcoin-art-collective)
+* [Code Contributions](#code-contributions)
+
+---
+
 ### 21 Ways
 
 Bitcoin is different things to different people. [21 Ways](https://21-ways.com) is my attempt
