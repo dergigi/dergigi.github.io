@@ -36,8 +36,8 @@ Watch the [full interview][jbpS4E40] on YouTube.
 [mf7]: https://youtu.be/wChWhbuKo4c
 [smart31]: https://youtu.be/8ldtAPW-ldE
 [slp313]: https://stephanlivera.com/episode/313/
-
 [missionbtc]: https://pod.link/1579377817/episode/b6e04e7ed92b75f6bc3217e086472cf5
+[bms42]: https://anchor.fm/bitcoinmadesimple/episodes/BMS-042-Gigi--Guy-Swann-e1a2ktj
 
 ### English Interviews and Conversations
   - **2021-11-10** - [Bitcoin Made Simple #42][bms42] with Guy Swan, hosted by Cory Tucek
