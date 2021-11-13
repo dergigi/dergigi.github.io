@@ -38,8 +38,10 @@ Watch the [full interview][jbpS4E40] on YouTube.
 [slp313]: https://stephanlivera.com/episode/313/
 [missionbtc]: https://pod.link/1579377817/episode/b6e04e7ed92b75f6bc3217e086472cf5
 [bms42]: https://anchor.fm/bitcoinmadesimple/episodes/BMS-042-Gigi--Guy-Swann-e1a2ktj
+[ob208]: https://pod.link/1497540130/episode/edf49afe3e722e5e8ac70250689644a6
 
 ### English Interviews and Conversations
+  - **2021-11-10** - [Once Bitten #208][ob208] on how Bitcoin fixes the Meaning Crisis, hosted by Daniel Prince
   - **2021-11-10** - [Bitcoin Made Simple #42][bms42] with Guy Swan, hosted by Cory Tucek
   - **2021-11-08** - [Mission Bitcoin][missionbtc] on Bitcoin and Christianity, hosted by Patrick Melder
   - **2021-10-19** - [⭐ Stephan Livera #313][slp313] on Bitcoin is Time and sat-dollar parity, hosted by Stephan Livera
