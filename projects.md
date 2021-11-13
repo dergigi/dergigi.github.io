@@ -7,6 +7,7 @@ title: Projects
 * [21 Lessons](#21-lessons)
 * [Bitcoin Resources](#bitcoin-resources)
 * [Bitcoin Quotes](#bitcoin-quotes)
+* [Opsec Swag](#opsec-swag)
 * [Einundzwanzig](#einundzwanzig)
 * [21 Lektionen](#21-lektionen)
 * [Quotable Satoshi Twitter Bot](#quotable-satoshi-twitter-bot)
@@ -92,6 +93,21 @@ to get random quotes in your timeline.
 [bitcoin-quotes]: https://www.bitcoin-quotes.com/
 [btc_quotes]: https://twitter.com/btc_quotes
 [API]: https://www.bitcoin-quotes.com/quotes/random.json
+
+### Opsec Swag
+
+In-your-face Bitcoin swag is not my thing. I like more subtle stuff, which is why
+I've built [OpsecSwag.com][opsecswag]. It links to various shops and outlets that
+sell bitcoin merch that is opsec friendly, i.e. bitcoin merch that doesn't sport
+the bitcoin logo or has any other very obvious connection to the corn.
+
+{% include image.html path="/assets/images/bitcoin/projects/opsecswag.png" link="https://opsecswag.com" %}
+
+* Website: [opsecswag.com][opsecswag]
+* Contribute: [GitHub](https://github.com/opsecswag/opsecswag.github.io/blob/master/CONTRIBUTING.md)
+* Source: [GitHub](https://github.com/opsecswag/opsecswag.github.io)
+
+[opsecswag]: https://opsecswag.com/
 
 ### Einundzwanzig
 
