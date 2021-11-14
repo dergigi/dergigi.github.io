@@ -18,6 +18,10 @@ translations:
    url: https://bitcoin-translate.it/blog/20211108.php
    author: Italian Satoshi
    author_url: https://twitter.com/italiansatoshi
+ - language: German
+   url: https://aprycot.media/blog/magisches-internet-geld/
+   author: Geronimo & Kid
+   author_url: https://twitter.com/ge3onim0
 series: 21 Ways
 ---
 
