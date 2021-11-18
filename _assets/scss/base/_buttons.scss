@@ -128,6 +128,15 @@
   }
 }
 
+.button-green {
+  a {
+    background-color: $color-green;
+  }
+  a:hover {
+    background-color: $color-orange;
+  }
+}
+
 .button-black {
   a {
     background-color: $color-darkergrey;
