@@ -15,6 +15,11 @@ translations:
    url: https://btcishope.blogspot.com/2021/09/avanzando-hacia-un-patron-bitcoin.html
    author: Bitcoin Kook
    author_url: https://twitter.com/Bitcoin_kook/
+translations:
+ - language: German
+   url: https://aprycot.media/blog/weg-zum-bitcoin-standard/
+   author: Geronimo & Kid
+   author_url: https://twitter.com/ge3onim0
 tags:
  - Bitcoin
  - Writing
