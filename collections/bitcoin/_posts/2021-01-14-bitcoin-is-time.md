@@ -48,6 +48,10 @@ translations:
    url: https://medium.com/@filippo91/bitcoin-e-tempo-a540a468bc63
    author: Filippo
    author_url: https://twitter.com/Filo_Noveuno
+ - language: Malay
+   url: https://app.sigle.io/jesperolsanajek.id.stx/u0rnbwFCArfhwQ_nNigf3
+   author: Jesper
+   author_url: https://twitter.com/jesperolsanajek
 tags:
  - Bitcoin
  - Writing
