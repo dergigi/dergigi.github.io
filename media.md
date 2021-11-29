@@ -39,8 +39,10 @@ Watch the [full interview][jbpS4E40] on YouTube.
 [missionbtc]: https://pod.link/1579377817/episode/b6e04e7ed92b75f6bc3217e086472cf5
 [bms42]: https://anchor.fm/bitcoinmadesimple/episodes/BMS-042-Gigi--Guy-Swann-e1a2ktj
 [ob208]: https://pod.link/1497540130/episode/edf49afe3e722e5e8ac70250689644a6
+[wu52]: https://pod.link/1482223406/episode/e9be8c8957e37f626f7c19591d842fe2
 
 ### English Interviews and Conversations
+  - **2021-11-21** - [Wake Up #52][wu52] on the Bitcoin Remnant, with Pablo and Francis, hosted by Aleks
   - **2021-11-10** - [Once Bitten #208][ob208] on how Bitcoin fixes the Meaning Crisis, hosted by Daniel Prince
   - **2021-11-10** - [Bitcoin Made Simple #42][bms42] with Guy Swan, hosted by Cory Tucek
   - **2021-11-08** - [Mission Bitcoin][missionbtc] on Bitcoin and Christianity, hosted by Patrick Melder
