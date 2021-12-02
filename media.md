@@ -145,7 +145,6 @@ Watch the [full interview][jbpS4E40] on YouTube.
 [swan-lounge-farewell]: https://youtu.be/ksIyIlVBME0
 
   ---
-
   - **2020-05-11** - [Celebrating the Third Bitcoin Halving][define-your-moon]: Define your Moon with BitcoinTina and David Bailey hosted by Bitcoin Magazine
   - **2020-05-11** - [Panel Discussion][vob-panel] at the Value of Bitcoin Conference with Knut, Nik, Conner, Katie, and Max, hosted by John Vallis
   - **2020-04-16** - [What is Real #2][wir2] on the Nature of Reality, hosted by Chaz (also on [youtube][wir2-yt])
@@ -280,6 +279,7 @@ I use twitter to share and distill my thoughts, which sometimes leads to
 long-form twitter threads in which I try to flesh out certain ideas in a more
 public format. Here are some threads that resonated most:
 
+- **2021-11-06** - ["Money is a network"][tw-money-network] - A thread on network effects and the design space of money.
 - **2021-08-10** - ["Memes vs The World"][tw-meme-world] - A thread on the difference of ideas and physical objects.
 - **2021-05-13** - ["A failure to understand proof of work is a failure to understand Bitcoin"][tw-pow] - A thread on PoW.
 - **2020-10-08** - ["GigaChad Thread"][tw-gigachad] - A thread on MicroStrategy's move to a Corporate Bitcoin Standard.
@@ -300,6 +300,7 @@ public format. Here are some threads that resonated most:
 - **2019-01-12** - ["Economic Teachings of Bitcoin"][tw-economics] - A thread on what I've learned about economics thanks to studying Bitcoin.
 - **2018-12-21** - ["Philosophical Teachings of Bitcoin"][tw-philosophy] - A thread on what I've learned about philosophy thanks to studying Bitcoin.
 
+[tw-money-network]: https://twitter.com/dergigi/status/1456924393511211010
 [tw-meme-world]: https://twitter.com/dergigi/status/1425202084782264326
 [tw-pow]: https://twitter.com/dergigi/status/1392826448017346561
 [tw-gigachad]: https://twitter.com/dergigi/status/1314292693179289602
