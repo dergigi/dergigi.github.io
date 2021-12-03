@@ -335,7 +335,7 @@ Want to collaborate? Don't hesitate to [reach out][contact]!
 [bec22]: https://bitcoinechochamber.com/2019/06/24/paradigm-shift-with-gigi-bec022/
 [twib]: https://anchor.fm/bitcoinmeister/episodes/This-week-in-Bitcoin--6-28-2019--Future-of-Altcoins--Gold--BTC-mining--21-Lessons--Coinbase-outage-e4fpnd
 [twib-youtube]: https://youtu.be/VxG57es11kM
-[fwc30]: http://funwithcrypto.libsyn.com/interviewdiscussion-with-dergigi
+[fwc30]: https://www.funwithbitcoin.com/fun-with-bitcoin-e0038-with-dergigi
 [takeover]: https://bitcoin-takeover.com/s3-e6-gigi-on-bitcoin-as-a-living-organism/
 [takeover-youtube]: https://www.youtube.com/watch?v=rtmW4oIFs-w
 [dykc47]: http://didyouknowcrypto.com/ep47/
