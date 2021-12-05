@@ -32,7 +32,7 @@ translations:
    url: https://nicohughes.medium.com/querida-familia-queridos-amigos-365b4073a444
    author: Nicolás
    author_url: https://twitter.com/nicohughes
- - language: (Audio) Spanish
+ - language: (Audio) Brazilian Portuguese
    url: https://youtu.be/akSsXOds4ow
    author: Bitcoin Brasil
    author_url: https://twitter.com/_Bitcoin_Brasil
