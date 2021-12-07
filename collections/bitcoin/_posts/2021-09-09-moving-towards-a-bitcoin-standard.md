@@ -20,6 +20,10 @@ translations:
    url: https://aprycot.media/blog/weg-zum-bitcoin-standard/
    author: Geronimo & Kid
    author_url: https://twitter.com/ge3onim0
+ - language: Italian
+   url: https://medium.com/@santinisarin/verso-uno-standard-bitcoin-9d5fc987cdbd
+   author: Sarin
+   author_url: https://medium.com/@santinisarin
 tags:
  - Bitcoin
  - Writing
