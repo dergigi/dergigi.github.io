@@ -32,7 +32,7 @@ layout: default
         {% endif %}
         {% if page.redirect_from %}
           <a href="lightning:{{ page.redirect_from | replace: '/', '' }}@ts.dergigi.com"
-             title="Send sats to this article's lightning address" 
+             title="Send sats to this article's lightning address"
              class="post__source">🧡</a>
         {% endif %}
       </div>
@@ -62,11 +62,9 @@ layout: default
             <hr/>
           {% endif %}
           {{content}}
-          {% if page.category == 'bitcoin' %}
           {% include translations.html %}
           <hr/>
           {% include enjoyed.html %}
-          {% endif %}
           {% include article-navigation.html %}
         </div>
       </div>
