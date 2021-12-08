@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Dare"
+redirect_from: /dare
 date: 2020-06-23
 description:
 image: /assets/images/dare.jpg

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Outlook"
+redirect_from: /outlook
 date: 2019-02-27
 description:
 image: /assets/images/outlook.jpg

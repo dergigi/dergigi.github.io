@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "People"
+redirect_from: /people
 date: 2021-09-27
 description:
 image: /assets/images/people.jpg

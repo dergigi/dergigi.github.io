@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Days of Gray"
+redirect_from: /gray
 date: 2018-12-07
 description:
 image: /assets/images/days-of-gray.jpg

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Words"
+redirect_from: /words
 date: 2019-05-21
 description:
 image: /assets/images/words.jpg

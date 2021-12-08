@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Idling"
+redirect_from: /idling
 date: 2019-01-05
 description:
 image: /assets/images/idling.jpg

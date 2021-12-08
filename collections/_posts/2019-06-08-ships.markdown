@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ships"
+redirect_from: /ships
 date: 2019-06-08
 description:
 image: /assets/images/ship.jpg

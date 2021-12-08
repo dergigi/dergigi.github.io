@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Wanderers"
+redirect_from: /wanderers
 date: 2018-12-05
 description:
 image: /assets/images/wonderer.jpg

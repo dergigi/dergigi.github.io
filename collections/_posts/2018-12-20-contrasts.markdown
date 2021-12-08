@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Contrasts"
+redirect_from: /contrasts
 date: 2018-12-20
 description:
 image: /assets/images/aurora.jpg

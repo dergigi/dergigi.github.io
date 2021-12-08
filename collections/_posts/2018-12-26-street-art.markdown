@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Street Art"
+redirect_from: /streetart
 date: 2018-12-26
 description:
 image: /assets/images/streetart-teresa-gandhi.jpg

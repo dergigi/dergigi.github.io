@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Seeing"
+redirect_from: /seeing
 date: 2021-05-30
 description:
 image: /assets/images/seeing.jpg
