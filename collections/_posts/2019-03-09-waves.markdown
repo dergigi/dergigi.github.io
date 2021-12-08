@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Waves"
+redirect_from: /waves
 date: 2019-03-09
 description:
 image: /assets/images/waves.jpg

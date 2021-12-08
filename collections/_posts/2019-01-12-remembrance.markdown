@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Remembrance"
+redirect_from: /remembrance
 date: 2019-01-12
 description:
 image: /assets/images/remembrance.jpg

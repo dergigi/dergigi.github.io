@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Humility"
+redirect_from: /humility
 date: 2021-02-15
 description:
 image: /assets/images/humility.jpg

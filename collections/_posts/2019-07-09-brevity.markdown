@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Brevity"
+redirect_from: /brevity
 date: 2019-07-09
 description:
 image: /assets/images/brevity.jpg

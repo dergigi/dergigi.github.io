@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tyranny"
+redirect_from: /tyranny
 date: 2021-12-08
 description:
 image: /assets/images/tyranny.jpg

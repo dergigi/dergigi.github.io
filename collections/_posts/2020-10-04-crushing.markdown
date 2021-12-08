@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Crushing"
+redirect_from: /crushing
 date: 2020-10-04
 description:
 image: /assets/images/crushing.jpg
