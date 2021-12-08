@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="post__content section-padding">
+  <div id="markdown" class="grid">
+    <hr/>
+    <p>
+      You can filter the below via <a href="{{ 'blog' | absolute_url }}">/blog</a> and <a href="{{ 'bitcoin' | absolute_url }}">/bitcoin</a>
+    </p>
+  </div>
+  <div class="posts">
+    <div class="grid-xlarge">
+      <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
+        {% for post in site.posts %}
+          {% include post-card.html %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
