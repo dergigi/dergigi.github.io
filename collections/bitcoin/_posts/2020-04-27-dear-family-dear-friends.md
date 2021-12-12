@@ -554,9 +554,9 @@ it's not that difficult."
 [reasons to believe]: https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25
 [Don't trade]: https://youtu.be/KV5QlSgq7lg
 [Get off zero]: https://twitter.com/search?q=bitcoin%20get%20off%20zero
-[Automate with Auto-DCA]: https://twitter.com/FriarHass/status/1254050840182009856?s=20
-[Everyone thinks they are late]: https://twitter.com/TonyF87/status/80373832854151168?s=20
-[You can buy a fraction of a bitcoin]: http://stackingsats.com/
+[Automate with Auto-DCA]: https://twitter.com/FriarHass/status/1412187362965131284?s=20
+[Everyone thinks they are late]: https://bitcoin-resources.com/assets/images/missed-the-bus.jpg
+[You can buy a fraction of a bitcoin]: https://dcabtc.com/
 [Trusted third parties are security holes]: https://nakamotoinstitute.org/trusted-third-parties/
 [Time in the market beats timing the market]: http://jrxy.zjsu.edu.cn/jrxy/jssc/791.pdf
 [There is gold and there is fool's gold --- stay away from shitcoins]: https://coinmarketcrap.co/
