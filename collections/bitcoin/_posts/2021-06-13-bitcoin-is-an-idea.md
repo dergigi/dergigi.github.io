@@ -43,7 +43,7 @@ series: 21 Ways
 >
 > <cite>Alan Moore, V for Vendetta</cite>
 
-On October 31st, 2008, the future trajectory of our global society has
+On October 31st, 2008, the future trajectory of our global society was
 forever changed. A breakthrough was made, and an unstoppable idea was
 let loose on the world. An idea so profound, so outrageous, that it was
 ignored by almost everyone for the first couple of years - and is still
