@@ -282,6 +282,7 @@ I use twitter to share and distill my thoughts, which sometimes leads to
 long-form twitter threads in which I try to flesh out certain ideas in a more
 public format. Here are some threads that resonated most:
 
+- **2021-12-12** - ["Why shitcoins are a waste of your time"][tw-shitcoins-waste-time] - A thread on the winner-takes-all dynamics of Bitcoin.
 - **2021-11-06** - ["Money is a network"][tw-money-network] - A thread on network effects and the design space of money.
 - **2021-08-10** - ["Memes vs The World"][tw-meme-world] - A thread on the difference of ideas and physical objects.
 - **2021-05-13** - ["A failure to understand proof of work is a failure to understand Bitcoin"][tw-pow] - A thread on PoW.
@@ -303,6 +304,7 @@ public format. Here are some threads that resonated most:
 - **2019-01-12** - ["Economic Teachings of Bitcoin"][tw-economics] - A thread on what I've learned about economics thanks to studying Bitcoin.
 - **2018-12-21** - ["Philosophical Teachings of Bitcoin"][tw-philosophy] - A thread on what I've learned about philosophy thanks to studying Bitcoin.
 
+[tw-shitcoins-waste-time]: https://twitter.com/dergigi/status/1469820940884262913?s=20
 [tw-money-network]: https://twitter.com/dergigi/status/1456924393511211010
 [tw-meme-world]: https://twitter.com/dergigi/status/1425202084782264326
 [tw-pow]: https://twitter.com/dergigi/status/1392826448017346561
