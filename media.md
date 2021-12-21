@@ -199,7 +199,7 @@ In [2019](https://www.blockstream.info/block-height/591121) a couple of
 bitcoiners and I launched [🇩🇪 EINUNDZWANZIG](https://einundzwanzig.space/),
 a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 
-  - **2021-12-21** - [🇩🇪 Human B][hb] - a movie on the human aspect of Bitcoin, created by Cinemuck
+  - **2021-12-21** - [🇩🇪 Human B][hb] - a movie on the human aspect of Bitcoin, created by Cinemuck (on [Vimeo][hbv] and [YouTube][hby])
   - **2021-08-20** - [🇨🇭 Relai DACH #22][relai22] on Bitcoin Narratives and Lightning (also on [youtube][relai22-yt])
   - **2021-08-01** - [🇩🇪 Block52 - #116][block52-116] on PoW and why Bitcoin, hosted by Philipp Sandner  
   - **2021-04-15** - [🇦🇹 Interview][trending-topics] by Jakob Steinschaden
