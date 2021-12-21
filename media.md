@@ -1,12 +1,15 @@
 ---
 layout: page
 title: Media Appearances
-description: Podcasts, Presentations, Twitter Threads
+subtitle: Interviews, Movies, and more.
 redirect_from:
   - /interviews
   - /bitcoin/media
   - /bitcoin/interviews
 ---
+
+* [🇺🇸 English](#english-interviews-and-conversations)
+* [🇩🇪 German](#german-interviews-and-conversations)
 
 Over the last couple of years, I had the pleasure of speaking on various
 podcasts, conferences, and live shows to talk about Bitcoin and its
@@ -23,14 +26,8 @@ the bottom of this page.
 
 ---
 
-{% capture absoluteVideoURL %}{{ 'assets/video/jbp.mp4' | absolute_url }}{% endcapture %}
-{% include video.html file=absoluteVideoURL %}
-Watch the [full interview][jbpS4E40] on YouTube.
-
----
 
 [saif73]: https://saifedean.com/podcast/73-bitcoin-and-time-with-gigi/
-[jbpS4E40]: https://youtu.be/iVym9wtopqs
 [btcsessions2]: https://youtu.be/ykbANpzduUA
 [simply-dalio]: https://youtu.be/_FRqLlX-VfM
 [mf7]: https://youtu.be/wChWhbuKo4c
@@ -44,6 +41,20 @@ Watch the [full interview][jbpS4E40] on YouTube.
 [or16-yt]: https://youtu.be/XhIwnr_UsmI
 
 ### English Interviews and Conversations
+
+I had the immense pleasure of speaking to Jordan B. Peterson on his podcast
+for [S4:E40][jbpS4E40], along with some fellow bitcoiners.
+
+{% capture absoluteVideoURL %}{{ 'assets/video/jbp.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=absoluteVideoURL %}
+
+Watch the [full interview][jbpS4E40yt] on YouTube.
+
+[jbpS4E40yt]: https://youtu.be/iVym9wtopqs
+[jbpS4E40]: https://www.jordanbpeterson.com/podcast/s4e40/
+
+---
+
   - **2021-12-12** - [Orange Relationships #16][or16] on Bitcoin as Time, Bitcoin as a living organism, and Bitcoin as an absolute measure of value, hosted by Danny (also on [youtube][or16-yt])
   - **2021-11-21** - [Wake Up #52][wu52] on the Bitcoin Remnant, with Pablo and Francis, hosted by Aleks
   - **2021-11-10** - [Once Bitten #208][ob208] on how Bitcoin fixes the Meaning Crisis, hosted by Daniel Prince
@@ -180,7 +191,7 @@ Watch the [full interview][jbpS4E40] on YouTube.
 Want to talk? Feel free to [reach out to me][contact].
 
 
-### German Interviews
+### German Interviews and Conversations
 
 In 2021, the German movie [Human B][hb] was released, which I was fortunate
 enough to play small role in.
