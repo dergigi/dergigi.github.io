@@ -248,11 +248,13 @@ a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 
 Some of my writing and speech was remixed as videos and memes and VR worlds.
 
+- **2021-12-21** - [🇩🇪 Weihnachtsgedicht][gedicht] by Einundzwanzig
 - **2021-08-10** - [Bitcoin is Interstellar][interstellar] by Nakadai Mon
 - **2021-07-31** - [Proof of Work][pow-video] by yungfi
 - **2021-04-06** - [21 Lessons in VR][21lessons-vr] by BITPAINT
 - **2021-03-15** - [Bitcoin is Time][till-time] by Till Musshoff
 
+[gedicht]: https://youtu.be/cVVzy1J5PhM
 [interstellar]: https://youtu.be/hka3fVJQL7U
 [pow-video]: https://youtu.be/VfEnzaHAT-g
 [21lessons-vr]: https://21lessons.com/vr/
