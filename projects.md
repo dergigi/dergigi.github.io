@@ -11,6 +11,7 @@ title: Projects
 * [Einundzwanzig](#einundzwanzig)
 * [21 Lektionen](#21-lektionen)
 * [Quotable Satoshi Twitter Bot](#quotable-satoshi-twitter-bot)
+* [Secret Satsa](#secret-satsa)
 * [Contribution: The Bitcoin Times](#contribution-the-bitcoin-times)
 * [Contribution: Citadel 21](#contribution-citadel-21)
 * [Contribution: 21ism Bitcoin Art Collective](#contribution-21ism-bitcoin-art-collective)
@@ -161,6 +162,24 @@ Bitcoin in your timeline.
 * Source: [GitHub](https://twitter.com/quotablesatoshi)
 
 [quotablesatoshi]: https://twitter.com/quotablesatoshi
+
+### Secret Satsa
+
+Secret Satsa is an experiment in altruism. Imagine it's Christmas time and you
+are at a gas station, and the person in front of you is buying a small item for
+herself or a loved one. For whatever reason she can't pay, so you step in and
+pay the bill. It's the holiday season after all, right?
+
+That's exactly what Secret Satsa is about. Strangers share lightning invoices
+using the [#SecretSatsa](https://twitter.com/hashtag/SecretSatsa) hashtag, and
+other strangers pay them, just because they can.
+
+{% include image.html path="/assets/images/bitcoin/projects/secretsatsa.png" link="https://secretsatsa.com" %}
+
+* Website: [secretsatsa.com](https://secretsatsa.com/)
+* Twitter: [#SecretSatsa](https://twitter.com/hashtag/SecretSatsa)
+* Source: [GitHub](https://github.com/secretsatsa/secretsatsa.github.io)
+
 
 ### Contribution: The Bitcoin Times
 
