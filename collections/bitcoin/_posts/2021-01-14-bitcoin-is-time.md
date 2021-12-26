@@ -52,6 +52,10 @@ translations:
    url: https://app.sigle.io/jesperolsanajek.id.stx/u0rnbwFCArfhwQ_nNigf3
    author: Jesper
    author_url: https://twitter.com/jesperolsanajek
+ - language: Chinese
+   url: https://www.btcstudy.org/2021/09/29/bitcoin-is-time/
+   author: BTCStudy
+   author_url: https://twitter.com/btcstudy
 tags:
  - Bitcoin
  - Writing
