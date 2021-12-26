@@ -7,6 +7,7 @@ title: Projects
 * [21 Lessons](#21-lessons)
 * [Bitcoin Resources](#bitcoin-resources)
 * [Bitcoin Quotes](#bitcoin-quotes)
+* [Lightning Login](#lightning-login)
 * [Opsec Swag](#opsec-swag)
 * [Einundzwanzig](#einundzwanzig)
 * [21 Lektionen](#21-lektionen)
@@ -95,6 +96,21 @@ to get random quotes in your timeline.
 [bitcoin-quotes]: https://www.bitcoin-quotes.com/
 [btc_quotes]: https://twitter.com/btc_quotes
 [API]: https://www.bitcoin-quotes.com/quotes/random.json
+
+
+### Lightning Login
+
+[Lightning Login][ll] is a site to showcase LNURL-auth, a lightweight authentication
+protocol that is easy to use, easy to implement, and respects the user's
+privacy.
+
+{% include image.html path="/assets/images/bitcoin/projects/lightninglogin.png" link="https://lightninglogin.live" %}
+
+* Website: [LightningLogin.Live][ll]
+* Source: [GitHub](https://github.com/seetee-io/lnurl-auth-demo)
+
+[ll]: https://lightninglogin.live
+
 
 ### Opsec Swag
 
