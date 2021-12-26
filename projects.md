@@ -15,6 +15,7 @@ title: Projects
 * [Contribution: The Bitcoin Times](#contribution-the-bitcoin-times)
 * [Contribution: Citadel 21](#contribution-citadel-21)
 * [Contribution: 21ism Bitcoin Art Collective](#contribution-21ism-bitcoin-art-collective)
+* [Contribution: Reckless VR](#contribution-reckless-vr)
 * [Code Contributions](#code-contributions)
 
 ---
@@ -230,6 +231,23 @@ visual and multimedia art that make the words shine in more ways than one.
 [21ism]: https://21ism.com/
 [21ism-gigi]: https://21ism.com/portfolio-item/gigi/
 [twentyoneism]: https://twitter.com/twentyoneism
+
+### Contribution: Reckless VR
+
+[Reckless VR][rvr] started in 2019 to create a virtual place where bitcoiners
+can hang out, have some fun, and talk bitcoin among other things.
+
+I helped moderate some of the more formal sessions and took pictures of events,
+which you can find [on twitter][rvrpics].
+
+{% include image.html path="/assets/images/bitcoin/projects/reckless-vr.png" link="https://recklessvr.com" %}
+
+* Website: [RecklessVR.com][rvr]
+* Twitter: [@RecklessVR](https://twitter.com/RecklessVr/)
+* Pictures: [Twitter Search][rvrpics]
+
+[rvr]: https://www.recklessvr.com/
+[rvrpics]: https://twitter.com/search?q=from%3Adergigi%20%20vr&src=typed_query&f=image
 
 ### Code Contributions
 
