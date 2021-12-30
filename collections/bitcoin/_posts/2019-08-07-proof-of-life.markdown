@@ -28,6 +28,10 @@ translations:
    url: https://btcishope.blogspot.com/2021/10/prueba-de-vida.html
    author: Bitcoin Kook
    author_url: https://twitter.com/Bitcoin_kook
+ - language: Italian
+   url: https://medium.com/@Bitcoin_ator/prova-di-vita-8ee4319ea161
+   author: Bitcoin Ator
+   author_url: https://twitter.com/Bitcoin_ator
 series: Proof of Life
 ---
 
