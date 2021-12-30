@@ -473,10 +473,12 @@ ourselves from the evolutionary survival-of-the-richest environment of
 platforms, allowing ourselves to step into the quasi-immortal realm of
 protocols.
 
-There is much to be explored, many tools to be built, and plenty of
+There is [much to be explored][thread], many tools to be built, and plenty of
 pre-conceived notions to be shattered. There is a seismic shift
 happening right in front of our eyes, and I\'m looking forward to riding
 the waves with all of you. Onwards!
+
+[thread]: https://twitter.com/dergigi/status/1470520355710189571?s=20
 
 ---
 
