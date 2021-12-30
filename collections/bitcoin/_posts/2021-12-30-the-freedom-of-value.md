@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Freedom of Value"
-subtitle: "How Value-for-value Fixes the Monetization Model of Information"
+subtitle: "How Value-for-Value Fixes the Monetization of Information"
 date: 2021-12-30
 blocktime: 707909
 image: /assets/images/busking.jpg
