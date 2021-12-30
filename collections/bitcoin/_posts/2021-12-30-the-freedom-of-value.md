@@ -22,7 +22,7 @@ freedom, given enough time, it will also be free as in beer.
 
 Let me explain.
 
-### Poisoning the Air {#Poisoning-the-Air}
+### Poisoning the Air
 
 We consume untold amounts of data every day. Every second of every
 minute, bits and bytes are streaming through the series of tubes that we
@@ -47,7 +47,7 @@ Attention economy. What a fitting description. As we should all know by
 now, the stuff we consume isn\'t free; we are paying dearly for it: with
 our attention, among other things.
 
-### Paying Attention {#Paying-Attention}
+### Paying Attention
 
 In the high-velocity world of today, to maximize profits, you have to
 maximize attention. But it is a peculiar, shallow kind of attention. It
@@ -64,7 +64,7 @@ outraged for the maximum amount of time. All while keeping participants
 unaware that they are trapped in an algorithmic prison of their own
 choosing.
 
-### You Are The Product {#You-Are-The-Product}
+### You Are The Product
 
 The idiom \"if something is free, you are the product\" can\'t be
 repeated often enough. For one reason or another, we expect most things
@@ -93,7 +93,7 @@ the mind, custom-tailored to your particular likings. A truly cursed
 app. Unfortunately, most platforms of this nature are just different in
 degree, not in kind.
 
-### Allowed Opinion {#Allowed-Opinion}
+### Allowed Opinion
 
 \"It isn\'t so bad,\" we say to ourselves. \"Look at all the useful
 information!\" we exclaim as we scroll through our feeds, inadvertently
@@ -150,7 +150,7 @@ the potential audience who will share this significantly. If I were to
 optimize for \"number of people who will read this,\" removing it would
 be the smart choice. The irony is not lost on me.\]
 
-### Evolutionary Pressure {#Evolutionary-Pressure}
+### Evolutionary Pressure
 
 How did it come to this? If I were forced to give a short answer, I
 would give the following: We moved from protocols to platforms, and
@@ -184,7 +184,7 @@ what video you wanted to watch in the first place. Like rats pushing
 buttons in hyper-personalized Skinner boxes, we are conditioned into
 addiction cycles to maximize shareholder profits.
 
-### Maximizing Profits {#Maximizing-Profits}
+### Maximizing Profits
 
 Platforms are companies, and companies are incentivized to maximize
 shareholder profits. There is nothing wrong with profits, and there is
@@ -225,7 +225,7 @@ all, if you can be squashed by the state for content you host or
 transmit, you will be squashed by the state for content you host or
 transmit.
 
-### Self-Censorship {#Self-Censorship}
+### Self-Censorship
 
 However, long before state censorship will rear its ugly head, the
 chilling effect of self-censorship will be felt. If others are
@@ -242,7 +242,7 @@ and what is off-limits. They will tell you what opinions are inside the
 Overton window and which ones are outside of it. And if they don\'t, you
 will make an educated guess and adjust what you say accordingly.
 
-### A Problem and a Paradox {#A-Problem-and-a-Paradox}
+### A Problem and a Paradox
 
 Back to the original problem: why can\'t we sell information like a
 regular good? Why does the simplistic approach - putting content behind
@@ -324,7 +324,7 @@ more convenient solution is to pay for the damn Spotify subscription.
 That being said, we can already see one of the problems inherent in the
 subscription model. The following comic describes it well:
 
-https://preview.redd.it/d3423w2g5ur21.jpg?width=700&auto=webp&s=e7b74881fd5ab6160f1d4599bad8787122521624
+{% include image.html name="piracy.webp" caption="Comic by /u/Hoppy_Doodle" %}
 
 The proliferation of streaming platforms forces you to get a Netflix
 subscription, an Amazon Prime subscription, a Hulu subscription, a
@@ -334,7 +334,7 @@ music, books, games, newsletters, blog posts, etc.
 
 So, what is the solution?
 
-### Accept the Nature of Information {#Accept-the-Nature-of-Information}
+### Accept the Nature of Information
 
 The solution begins with acceptance. Selling digital content in the
 traditional, transactional way doesn\'t work, or at least doesn\'t work
@@ -364,7 +364,7 @@ extensible, and, last but not least, completely voluntary. 
 
 This model has a name: *value-for-value.*
 
-### Revivifying Busking {#Revivifying-Busking}
+### Revivifying Busking
 
 The idea is simple but sounds radical: you provide your content for
 free, for everyone, without access restrictions. If people enjoy it, if
@@ -399,7 +399,7 @@ countless metrics. You will want to provide value for your audience, and
 that\'s it. And if your audience got value out of it, a certain
 percentage will give back. All you have to do is ask.
 
-### A Valuable Alternative {#A-Valuable-Alternative}
+### A Valuable Alternative
 
 We are at the very beginning of this monumental shift. My hope is that
 the value-for-value model will continue to emerge as a viable
@@ -423,7 +423,7 @@ create. Catering only to themselves and those who are interested in
 their creations. No intermediaries. Directly, person-to-person,
 value-for-value.
 
-### What Lies Ahead {#What-Lies-Ahead}
+### What Lies Ahead
 
 Granted, as of today, it isn\'t exactly easy to self-host your
 infrastructure. It is intimidating to run your own node in order to
