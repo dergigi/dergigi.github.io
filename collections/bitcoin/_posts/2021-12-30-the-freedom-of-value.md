@@ -385,7 +385,13 @@ You are free to listen to the street musician and walk on, but - and
 this is something that the audience intuitively knows - if you want the
 music to continue, you should throw a couple of coins into the hat.
 
-\[TODO: insert image and/or \'give value\' button.\]
+<div class="action-buttons">
+  <div class="button button-blue button-medium">
+    <a href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-busking&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD">
+      🎩⚡ Give Value Back
+    </a>
+  </div>
+</div>
 
 One beautiful thing about this model is that it re-aligns incentives.
 You are not trying to maximize clicks, or view time, or any other of the
