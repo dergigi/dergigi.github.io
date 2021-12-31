@@ -140,16 +140,13 @@ president](https://web.archive.org/web/20211223015539/https://www.nbcnews.com/te
 mind you. You have said the wrong word in a video or played a
 copyrighted song in the background; thus, we have to take away your
 income. You have posted a picture of yourself without a mask; thus,
-we\'ll have to ban you and report you to the authorities. 
+we\'ll have to ban you and report you to the authorities.[^irony]
 
 The fact that the sentence above is not purely in the realm of dystopian
 science fiction anymore should have everyone worried. Removed from
-cyberspace for wanting to breathe free. Strange times. \[Footnote: The
-fact that I decided to include the sentence about masks (and, in some
-way, my opinion on the matter) in this paragraph will probably reduce
-the potential audience who will share this significantly. If I were to
-optimize for \"number of people who will read this,\" removing it would
-be the smart choice. The irony is not lost on me.\]
+cyberspace for wanting to breathe free. Strange times.
+
+[^irony]: The fact that I decided to include the sentence about masks (and, in some way, my opinion on the matter) in this paragraph will probably reduce the potential audience who will share this significantly. If I were to optimize for \"number of people who will read this,\" removing it would be the smart choice. The irony is not lost on me.
 
 ### Evolutionary Pressure
 
@@ -268,9 +265,10 @@ For the smallest of micro-transactions, this is even true from a
 strictly economic standpoint. Using an hourly wage of \$20 USD,
 thinking, \"Is this worth 21 sats?\" for two seconds will cost you a
 little over 1¢, which is more than the price of the microtransaction in
-question. \[Footnote: Moscow time 21:09 @ 716,411.\] It is unfeasible,
-both psychologically and economically. This, in a nutshell, is the MTX
-problem.
+question.[^moscow] It is unfeasible, both psychologically and economically.
+This, in a nutshell, is the MTX problem.
+
+[^moscow]: Moscow time 21:09 @ 716,411.
 
 But this isn\'t the only thing that is plaguing the monetization of
 digital content. As mentioned above, there is also the DRM paradox.
