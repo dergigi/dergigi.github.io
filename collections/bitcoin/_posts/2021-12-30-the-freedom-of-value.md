@@ -13,6 +13,12 @@ favorite: true
 tags:
  - Bitcoin
  - Writing
+translations:
+ - language: Spanish
+   url: https://armantheparman.com/la-libertad-de-valor/
+   author: Tink
+   author_url: https://twitter.com/bitcoinbabybee
+
 ---
 
 The internet has a problem. Few people know that this problem exists,
