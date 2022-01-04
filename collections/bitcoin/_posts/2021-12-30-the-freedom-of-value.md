@@ -34,8 +34,8 @@ Let me explain.
 We consume untold amounts of data every day. Every second of every
 minute, bits and bytes are streaming through the series of tubes that we
 all know and love: *the internet*. We take it for granted, and most of
-us take the current monetization model - as well as all the ills that
-come along with it - for granted as well. We seldom stop and think about
+us take the current monetization model—as well as all the ills that
+come along with it—for granted as well. We seldom stop and think about
 the strange world of bits and bytes. How wonderful it all is, but also
 how alien. How it already has transformed our lives, and how it will
 continue to transform our future. Where do the zeroes and ones come
@@ -93,7 +93,7 @@ Of course, the idea is usually that everyone profits: users, creators,
 advertisers, and the platforms alike. However, the evolutionary
 environment that is set up by said incentive structures will often
 select for shallow, attention-grabbing, and sensationalist snippets. As
-of this writing - block 716,025 - the epitome of such an environment is
+of this writing—block 716,025—the epitome of such an environment is
 TikTok, a video-based dopamine machine that will show you the motion
 picture equivalent of heroin mixed with crack cocaine. Hard drugs for
 the mind, custom-tailored to your particular likings. A truly cursed
@@ -141,7 +141,7 @@ express yourself freely. Your picture is offensive; thus, it has to be
 removed. Your meme is too close to the truth or too criminally funny;
 thus, we have to put you in Twitter jail for a week or two. You are
 saying something that we don\'t agree with; thus, we have to ban you for
-life - even if you are a [sitting
+life—even if you are a [sitting
 president](https://web.archive.org/web/20211223015539/https://www.nbcnews.com/tech/tech-news/twitter-permanently-bans-president-donald-trump-n1253588),
 mind you. You have said the wrong word in a video or played a
 copyrighted song in the background; thus, we have to take away your
@@ -249,8 +249,8 @@ will make an educated guess and adjust what you say accordingly.
 ### A Problem and a Paradox
 
 Back to the original problem: why can\'t we sell information like a
-regular good? Why does the simplistic approach - putting content behind
-a paywall - produce such bad results? I believe there are two reasons,
+regular good? Why does the simplistic approach—putting content behind
+a paywall—produce such bad results? I believe there are two reasons,
 which I will call the \"MTX problem\" and the \"DRM paradox.\"
 
 The MTX problem, with MTX being short for \"mental transaction,\" refers
@@ -261,8 +261,8 @@ decision: \"Do I want to pay for that?\" 
 As Szabo convincingly argues, most of the time, especially if the cost
 is tiny, the answer will be no. This is not for any technical reason but
 for *psychological* reasons. It turns out that the hassle of figuring
-out whether this transaction is worth it or not - a process that is
-happening in your head - is simply too much. If you have to think about
+out whether this transaction is worth it or not—a process that is
+happening in your head—is simply too much. If you have to think about
 a micro-purchase, the chance that you will make said purchase diminishes
 drastically. This is why flat rates and subscriptions are king: you only
 have to think about them once.
@@ -289,18 +289,18 @@ Bruce Schneier: \"trying to make digital files uncopyable is like trying
 to make water not wet.\"
 
 The nature of information is such that if it can be read, it can also be
-copied - with perfect fidelity. No amount of trickery or artificial
+copied—with perfect fidelity. No amount of trickery or artificial
 restrictions will change this fact. This is why digital artifacts such
 as movies and music will always be available for free. It is trivial for
-someone who has access to said artifacts to copy said artifact - at
-near-zero marginal cost, mind you - and make it accessible to others.
+someone who has access to said artifacts to copy said artifact—at
+near-zero marginal cost, mind you—and make it accessible to others.
 Thus, given enough time and popularity, every movie, every song, and
 every document will be available to the general public for free. The
 nature of information does not allow for another outcome. Hence the
 saying: *information wants to be free*.
 
-Although trying to create something that can\'t exist - information that
-can\'t be copied - is paradoxical in itself, this isn\'t what I mean by
+Although trying to create something that can\'t exist—information that
+can\'t be copied—is paradoxical in itself, this isn\'t what I mean by
 the DRM paradox. What I mean is something more hilarious. It is again
 psychological, not technical in nature. The paradox is this: content
 will only stay behind a paywall if it is shitty. If it\'s good, someone
@@ -384,10 +384,10 @@ content scales in ways that performances in meatspace never will. 
 
 The value-for-value model flips the traditional payment model on its
 head. Traditionally, enjoyment follows payment. In the value-for-value
-approach, payment follows enjoyment - voluntarily.
+approach, payment follows enjoyment—voluntarily.
 
-You are free to listen to the street musician and walk on, but - and
-this is something that the audience intuitively knows - if you want the
+You are free to listen to the street musician and walk on, but—and
+this is something that the audience intuitively knows—if you want the
 music to continue, you should throw a couple of coins into the hat.
 
 <div class="action-buttons">
@@ -472,7 +472,7 @@ just need to figure out how to position the hat correctly on the ground
 and where the best places in town are to perform, so to speak.
 
 Value-for-value does away with the DRM paradox in its entirety and -
-with the right amount of automation and sensible defaults - will solve
+with the right amount of automation and sensible defaults—will solve
 the MTX problem too. If we get this right, we might be able to free
 ourselves from the evolutionary survival-of-the-richest environment of
 platforms, allowing ourselves to step into the quasi-immortal realm of
