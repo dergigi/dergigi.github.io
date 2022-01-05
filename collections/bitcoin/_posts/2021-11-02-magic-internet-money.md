@@ -22,6 +22,10 @@ translations:
    url: https://aprycot.media/blog/magisches-internet-geld/
    author: Geronimo & Kid
    author_url: https://twitter.com/ge3onim0
+ - language: Chinese
+   url: https://www.btcstudy.org/2022/01/04/magic-internet-money/
+   author: BTCStudy
+   author_url: https://twitter.com/btcstudy
 series: 21 Ways
 ---
 
