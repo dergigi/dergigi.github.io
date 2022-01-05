@@ -18,6 +18,10 @@ translations:
    url: https://armantheparman.com/la-libertad-de-valor/
    author: Tink
    author_url: https://twitter.com/bitcoinbabybee
+ - language: German
+   url: https://telegra.ph/Der-Wert-der-Freiheit-von-Gigi-01-04
+   author: DerGeier
+   author_url: https://twitter.com/DerGeier21
 
 ---
 
