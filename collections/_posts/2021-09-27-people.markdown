@@ -9,6 +9,11 @@ author: Gigi
 category: photography
 tags:
   - Photography
+translations:
+ - language: German
+   url: https://telegra.ph/Menschen-01-05
+   author: DerGeier
+   author_url: https://twitter.com/DerGeier21
 ---
 
 People are the most wonderful thing. Full of potential, full of joy, full of
