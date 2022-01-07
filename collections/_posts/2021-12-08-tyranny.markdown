@@ -9,6 +9,11 @@ author: Gigi
 category: photography
 tags:
   - Photography
+translations:
+ - language: German
+   url: https://telegra.ph/Tyrannei-01-05
+   author: DerGeier
+   author_url: https://twitter.com/DerGeier21
 ---
 
 Tyranny comes in many forms. Some tyrannies are more obvious than others. Or,
