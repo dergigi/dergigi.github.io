@@ -26,6 +26,10 @@ translations:
    url: https://www.btcstudy.org/2022/01/04/magic-internet-money/
    author: BTCStudy
    author_url: https://twitter.com/btcstudy
+ - language: German
+   url: https://blog.karlklawatsch.com/bitcoin/bitcoin-ist-magisches-internet-geld/
+   author: Karl Klawatsch
+   author_url: https://twitter.com/KKlawatsch
 series: 21 Ways
 ---
 
