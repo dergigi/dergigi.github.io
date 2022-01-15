@@ -13,7 +13,9 @@ tags:
  - Writing
 ---
 
-**A failure to understand proof of work is a failure to understand Bitcoin.**
+**A failure to understand [proof of work][pow] is a failure to understand Bitcoin.**
+
+[pow]: {{ '/pow' | absolute_url }}
 
 Decentralized systems, by definition, do not have a single source of
 truth.
