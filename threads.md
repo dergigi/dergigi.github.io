@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Twitter Threads
+subtitle: Early thoughts that might turn into something longer.
 description: A collection of twitter threads on Bitcoin.
 ---
 
@@ -8,4 +9,7 @@ description: A collection of twitter threads on Bitcoin.
   * [{{ thread.title }}]({{ thread.url }}) - {{ thread.subtitle }}
 {% endfor %}
 
+More threads are linked in the [/media][media] section.
+
+[media]: {{ '/media#twitter-threads' | absolute_url }}
 [contact]: {{ '/contact' | absolute_url }}
