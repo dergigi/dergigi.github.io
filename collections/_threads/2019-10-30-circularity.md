@@ -131,3 +131,7 @@ maximalists, and some of these maximalists will have religious devotion.
 
 But I ask you, dear skeptics: are you prepared to deal with tens of
 thousands of zealots, in case I\'m right?
+
+---
+
+Addendum: Discussion with Dustin: [Episode 57](https://didyouknowcrypto.com/ep57/)
