@@ -2,6 +2,7 @@
 layout: post
 title: "Failure to understand proof-of-work"
 date: 2021-03-13
+blocktime: 683449
 source: https://twitter.com/dergigi/status/1392826448017346561?s=20
 author: Gigi
 category: bitcoin
