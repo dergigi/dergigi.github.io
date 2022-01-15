@@ -331,6 +331,10 @@ public format. Here are some threads that resonated most:
 - **2019-01-12** - ["Economic Teachings of Bitcoin"][tw-economics] - A thread on what I've learned about economics thanks to studying Bitcoin.
 - **2018-12-21** - ["Philosophical Teachings of Bitcoin"][tw-philosophy] - A thread on what I've learned about philosophy thanks to studying Bitcoin.
 
+Some of the above are mirrored at [/threads][threads] for archive purposes.
+
+[threads]: {{ '/threads' | absolute_url }}
+
 [tw-shitcoins-waste-time]: https://twitter.com/dergigi/status/1469820940884262913?s=20
 [tw-money-network]: https://twitter.com/dergigi/status/1456924393511211010
 [tw-meme-world]: https://twitter.com/dergigi/status/1425202084782264326

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Failure to understand proof-of-work"
+title: "PoW is essential"
+subtitle: "A failure to understand proof of work is a failure to understand Bitcoin."
 date: 2021-03-13
+blocktime: 683449
 source: https://twitter.com/dergigi/status/1392826448017346561?s=20
 author: Gigi
 category: bitcoin
