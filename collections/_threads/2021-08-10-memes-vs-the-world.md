@@ -16,7 +16,7 @@ translations:
    url: https://twitter.com/TonyCrusoe/status/1444715787244220418
    archive: https://archive.is/7ThQA
    author: Tony
-   author_url: https://archive.is/wip/7ThQA
+   author_url: https://twitter.com/TonyCrusoe/
 ---
 
 > This is our meme world, everyone else is just living in it.
