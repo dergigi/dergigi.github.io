@@ -5,6 +5,7 @@ subtitle: "A thread on competition, money, and energy."
 date: 2021-12-12
 blocktime: 713757
 source: https://twitter.com/dergigi/status/1469820940884262913
+redirect_from: shitcoins
 author: Gigi
 category: bitcoin
 tags:
@@ -76,4 +77,4 @@ the problem of [decentralized time-stamping][time].
 The reason why we are still having this \"debate\" is that most people
 do not understand [proof-of-work][pow], or the depth of the problem it solves.
 
-　
+[pow]: {{ '/powthread/' | absolute_url }}　

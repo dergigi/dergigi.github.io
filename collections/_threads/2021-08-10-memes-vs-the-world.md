@@ -5,6 +5,7 @@ subtitle: "This is our meme world, everyone else is just living in it."
 date: 2021-08-10
 blocktime: 695091
 source: https://twitter.com/dergigi/status/1425202084782264326
+redirect_from: /memeworld
 author: Gigi
 category: bitcoin
 tags:

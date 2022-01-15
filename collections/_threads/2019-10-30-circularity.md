@@ -7,6 +7,7 @@ couple of years."
 date: 2019-10-30
 blocktime: 601679
 source: https://twitter.com/dergigi/status/1189608467029516289
+redirect_from: circularity
 author: Gigi
 category: bitcoin
 tags:
