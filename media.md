@@ -26,6 +26,19 @@ the bottom of this page.
 
 ---
 
+### English Interviews and Conversations
+
+I had the immense pleasure of speaking to Jordan B. Peterson on his podcast
+for [S4:E40][jbpS4E40], along with some fellow bitcoiners.
+
+{% capture absoluteVideoURL %}{{ 'assets/video/jbp.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=absoluteVideoURL %}
+
+Watch the [full interview][jbpS4E40yt] on YouTube.
+
+[jbpS4E40yt]: https://youtu.be/iVym9wtopqs
+[jbpS4E40]: https://www.jordanbpeterson.com/podcast/s4e40/
+
 
 [saif73]: https://saifedean.com/podcast/73-bitcoin-and-time-with-gigi/
 [btcsessions2]: https://youtu.be/ykbANpzduUA
@@ -40,19 +53,6 @@ the bottom of this page.
 [or16]: https://youtu.be/XhIwnr_UsmI
 [or16-yt]: https://youtu.be/XhIwnr_UsmI
 [jist226]: https://youtu.be/h9CV8zy_32I
-
-### English Interviews and Conversations
-
-I had the immense pleasure of speaking to Jordan B. Peterson on his podcast
-for [S4:E40][jbpS4E40], along with some fellow bitcoiners.
-
-{% capture absoluteVideoURL %}{{ 'assets/video/jbp.mp4' | absolute_url }}{% endcapture %}
-{% include video.html file=absoluteVideoURL %}
-
-Watch the [full interview][jbpS4E40yt] on YouTube.
-
-[jbpS4E40yt]: https://youtu.be/iVym9wtopqs
-[jbpS4E40]: https://www.jordanbpeterson.com/podcast/s4e40/
 
 ---
   - **2021-01-13** - [The Jist #226][jist226] on Bitcoin, Austria, Digital IDs, and Authoritarianism
