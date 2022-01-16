@@ -39,6 +39,7 @@ the bottom of this page.
 [wu52]: https://pod.link/1482223406/episode/e9be8c8957e37f626f7c19591d842fe2
 [or16]: https://youtu.be/XhIwnr_UsmI
 [or16-yt]: https://youtu.be/XhIwnr_UsmI
+[jist226]: https://youtu.be/h9CV8zy_32I
 
 ### English Interviews and Conversations
 
@@ -54,7 +55,7 @@ Watch the [full interview][jbpS4E40yt] on YouTube.
 [jbpS4E40]: https://www.jordanbpeterson.com/podcast/s4e40/
 
 ---
-
+  - **2021-01-13** - [The Jist #226][jist226] on Bitcoin, Austria, Digital IDs, and Authoritarianism
   - **2021-12-12** - [Orange Relationships #16][or16] on Bitcoin as Time, Bitcoin as a living organism, and Bitcoin as an absolute measure of value, hosted by Danny (also on [youtube][or16-yt])
   - **2021-11-21** - [Wake Up #52][wu52] on the Bitcoin Remnant, with Pablo and Francis, hosted by Aleks
   - **2021-11-10** - [Once Bitten #208][ob208] on how Bitcoin fixes the Meaning Crisis, hosted by Daniel Prince
