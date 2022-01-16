@@ -1,15 +1,27 @@
 ---
 layout: post
 title: "Memes vs The World"
-subtitle: "This is our meme world, everyone else is just living in it.ss"
+subtitle: "This is our meme world, everyone else is just living in it."
 date: 2021-08-10
 blocktime: 695091
 source: https://twitter.com/dergigi/status/1425202084782264326
+redirect_from: /memeworld
 author: Gigi
 category: bitcoin
 tags:
  - Bitcoin
  - Writing
+translations:
+ - language: Russian
+   url: https://twitter.com/TonyCrusoe/status/1444715787244220418
+   archive: https://archive.is/7ThQA
+   author: Tony
+   author_url: https://twitter.com/TonyCrusoe/
+ - language: Chinese
+   url: https://spotlight.soy/detail?article_id=8tifg8snj
+   archive: https://archive.is/WoffR
+   author: Katakoto
+   author_url: https://spotlight.soy/katakoto
 ---
 
 > This is our meme world, everyone else is just living in it.
