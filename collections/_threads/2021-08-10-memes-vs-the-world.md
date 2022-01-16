@@ -17,6 +17,11 @@ translations:
    archive: https://archive.is/7ThQA
    author: Tony
    author_url: https://twitter.com/TonyCrusoe/
+ - language: Chinese
+   url: https://spotlight.soy/detail?article_id=8tifg8snj
+   archive: https://archive.is/WoffR
+   author: Katakoto
+   author_url: https://spotlight.soy/katakoto
 ---
 
 > This is our meme world, everyone else is just living in it.
