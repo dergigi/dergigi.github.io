@@ -56,6 +56,11 @@ translations:
    url: https://www.btcstudy.org/2021/09/29/bitcoin-is-time/
    author: BTCStudy
    author_url: https://twitter.com/btcstudy
+ - language: Korean
+   url: https://medium.com/@1btctrip/%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8%EC%9D%80-%EC%8B%9C%EA%B0%84%EC%9D%B4%EB%8B%A4-892142b30f8e
+   archive: https://web.archive.org/web/20220116212118/https://medium.com/@1btctrip/%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8%EC%9D%80-%EC%8B%9C%EA%B0%84%EC%9D%B4%EB%8B%A4-892142b30f8e
+   author: Elena
+   author_url: https://medium.com/@1btctrip
 tags:
  - Bitcoin
  - Writing
