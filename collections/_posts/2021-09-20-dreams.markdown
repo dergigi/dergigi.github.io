@@ -7,6 +7,11 @@ description:
 image: /assets/images/dreams.jpg
 author: Gigi
 category: photography
+translations:
+ - language: German
+   url: https://telegra.ph/Tr%C3%A4ume-01-07
+   author: DerGeier
+   author_url: https://twitter.com/DerGeier21
 tags:
   - Photography
 ---
