@@ -17,6 +17,10 @@ translations:
    url: https://bitcoinarabic.org/bitcoin-privacy-gigi-odell/
    author: Arabic Hodl
    author_url: https://twitter.com/Arabic_hodl
+ - language: German
+   url: https://telegra.ph/Bitcoin-Privatsph%C3%A4re-Empfohlene-Vorgangsweisen-01-07
+   author: DerGeier
+   author_url: https://twitter.com/DerGeier21
 ---
 
 > There is a sacred realm of privacy for every man and woman where he
