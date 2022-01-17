@@ -49,7 +49,7 @@ translations:
    author: BitcoinInfo DK
    author_url: https://twitter.com/BitcoininfoD
  - language: Indonesian
-   url: https://www.dearezkitha.com/2020/11/26/kepada-keluarga-dan-kerabatku/
+   url: https://kelasbitcoin.com/blog/kepada-keluarga-dan-kerabatku/
    author: Dea Rezkitha
    author_url: https://twitter.com/dearezkitha
  - language: Arabic
