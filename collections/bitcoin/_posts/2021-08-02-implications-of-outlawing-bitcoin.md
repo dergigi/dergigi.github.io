@@ -22,6 +22,14 @@ translations:
    url: https://explicabitcoin.medium.com/implica%C3%A7%C3%B5es-da-proibi%C3%A7%C3%A3o-do-bitcoin-c98290db922d
    author: Explica Bitcoin
    author_url: https://twitter.com/BitcoinExplica
+ - language: German (video version)
+   url: https://youtu.be/AIkICEUrVwU
+   author:  Till Musshoff
+   author_url: https://twitter.com/bPGTill
+ - language: English (video version)
+   url: https://youtu.be/zmGKUflR6lc
+   author:  Till Musshoff
+   author_url: https://twitter.com/bPGTill
 tags:
  - Bitcoin
  - Writing
