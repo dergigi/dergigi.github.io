@@ -1,7 +1,15 @@
+{% capture name %}{% if page.redirect_from %}{{ page.redirect_from | replace: '/', '' }}{% else %}{{ 's' }}{% endif %}{% endcapture %}
+
 <!-- The footer at the very bottom of the screen -->
 <footer class="footer section-padding">
   <div class="grid">
     <div class="footer__container">
+      <p class="lightning-address">
+        <small>
+          <a href="lightning:{{ name }}@ts.dergigi.com">
+          ⚡ {{ name }}@ts.dergigi.com</a>
+        </small>
+      </p>
       <p class="license">
         <small>
           Except where otherwise noted, content on this site is licensed under a
