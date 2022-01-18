@@ -64,6 +64,7 @@
 }
 
 .action-buttons {
+  font-family: $font;
   text-align: center;
   margin-top: 1em;
   margin-bottom: 2em;
@@ -143,6 +144,17 @@
   }
   a:hover {
     background-color: $color-darkgrey;
+  }
+}
+
+.button-transparent {
+  a {
+    background-color: none;
+    border: 1px solid $color-blue;
+  }
+  a:hover {
+    background-color: $color-blue;
+    border: 1px solid $color-yellow;
   }
 }
 

@@ -1,5 +1,12 @@
 {% capture name %}{{ page.redirect_from | replace: '/', '' }}{% endcapture %}
 <p id="value4value">
+  <div class="action-buttons">
+    <div class="button button-transparent button-small">
+      <a href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-{{ name }}&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD">
+        🧡⚡ Give Value
+      </a>
+    </div>
+  </div>
   <small>
     🧡 · Found this valuable? Consider
     <a href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-{{ name }}&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD">giving value</a> back,
