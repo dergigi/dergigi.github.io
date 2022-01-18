@@ -11,7 +11,7 @@ work is released under a [cc-by-sa license][license] and provided on a
 
 **TL;DR** Give as much as think it's worth. Thank you. 🙏🧡
 
-[value for value]: https://levisan.me/blog/value-for-value
+[value for value]: {{ '/busking' | absolute_url }}
 
 <div class="action-buttons">
   <div class="button button-blue button-medium">
@@ -37,8 +37,6 @@ If you can not part with your hard-earned sats, consider sharing one of my
 articles or working on a [translation][translations].
 
 ![Bitcoin is Love](/assets/images/bitcoin/bitcoin-is-love.png)
-
-{% include image.html path="/assets/images/bitcoin/lightning-address-sats-trans.png" link="lightning:s@ts.dergigi.com" %}
 
 You can send an arbitrary amount of sats to [s@ts.dergigi.com][sats] or one of my other lightning addresses.[^ln-addr]
 

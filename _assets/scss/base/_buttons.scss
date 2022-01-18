@@ -3,7 +3,7 @@
 //----------------------------------------------
 
 .value4value {
-  margin: 2em 0 4em;
+  margin: 0em 0 4em;
   text-align: center;
 
   .input-wrapper {
@@ -64,6 +64,7 @@
 }
 
 .action-buttons {
+  font-family: $font;
   text-align: center;
   margin-top: 1em;
   margin-bottom: 2em;
@@ -110,6 +111,13 @@
   }
 }
 
+.button-wide {
+  a {
+    padding-left: 3em;
+    padding-right: 3em;
+  }
+}
+
 .button-red {
   a {
     background-color: $color-red;
@@ -143,6 +151,17 @@
   }
   a:hover {
     background-color: $color-darkgrey;
+  }
+}
+
+.button-transparent {
+  a {
+    background-color: none;
+    border: 1px solid $color-blue;
+  }
+  a:hover {
+    background-color: $color-blue;
+    border: 1px solid $color-yellow;
   }
 }
 
