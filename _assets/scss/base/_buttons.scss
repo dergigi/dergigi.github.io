@@ -3,7 +3,7 @@
 //----------------------------------------------
 
 .value4value {
-  margin: 2em 0 4em;
+  margin: 0em 0 4em;
   text-align: center;
 
   .input-wrapper {
@@ -108,6 +108,13 @@
   a {
     font-weight: bold;
     font-size: $font-small;
+  }
+}
+
+.button-wide {
+  a {
+    padding-left: 3em;
+    padding-right: 3em;
   }
 }
 

@@ -1,20 +1,23 @@
 {% capture name %}{{ page.redirect_from | replace: '/', '' }}{% endcapture %}
-<p id="value4value">
-  <div class="action-buttons">
-    <div class="button button-transparent button-small">
-      <a href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-{{ name }}&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD">
-        🧡⚡ Give Value
-      </a>
-    </div>
-  </div>
+
+<center>
+<h3 id="value4value"><a href="{{ '/support' | absolute_url }}" title="Value4Value">🧡</a></h3>
   <small>
-    🧡 · Found this valuable? Consider
+    Found this valuable?<br/>
+    Consider
     <a href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-{{ name }}&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD">giving value</a> back,
     <a href="{{ '/support' | absolute_url }}">supporting me</a>,
     sharing it,
-    <a href="{{ '/translations' | absolute_url }}">translating it</a>,
+    <a href="{{ '/translations' | absolute_url }}">translating it</a>,<br/>
     or leaving a note via its lightning address
     <a href="lightning:{{ name }}@ts.dergigi.com">
       ⚡ {{ name }}@ts.dergigi.com</a>.
   </small>
-</p>
+<div class="action-buttons">
+  <div class="button button-transparent button-small button-wide">
+    <a href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-{{ name }}&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD">
+      ⚡ Give Value Back
+    </a>
+  </div>
+</div>
+</center>
