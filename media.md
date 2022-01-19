@@ -56,8 +56,8 @@ Watch the [full interview][jbpS4E40yt] on YouTube.
 [ctl2]: https://www.seetee.io/podcast/S2E1/13-gigi-the-future-of-value/
 
 ---
-  - **2021-01-18** - [Closing the Loop S2E01][ctl2] on Value, Closing the Loop, Podcasting 2.0, and Value4Value, hosted by John Vallis
-  - **2021-01-13** - [The Jist #226][jist226] on Bitcoin, Austria, Digital IDs, and Authoritarianism
+  - **2022-01-18** - [Closing the Loop S2E01][ctl2] on Value, Closing the Loop, Podcasting 2.0, and Value4Value, hosted by John Vallis
+  - **2022-01-13** - [The Jist #226][jist226] on Bitcoin, Austria, Digital IDs, and Authoritarianism
   - **2021-12-12** - [Orange Relationships #16][or16] on Bitcoin as Time, Bitcoin as a living organism, and Bitcoin as an absolute measure of value, hosted by Danny (also on [youtube][or16-yt])
   - **2021-11-21** - [Wake Up #52][wu52] on the Bitcoin Remnant, with Pablo and Francis, hosted by Aleks
   - **2021-11-10** - [Once Bitten #208][ob208] on how Bitcoin fixes the Meaning Crisis, hosted by Daniel Prince
