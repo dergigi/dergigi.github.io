@@ -2,10 +2,8 @@
 layout: page
 title: Media Appearances
 subtitle: Interviews, Movies, and more.
-redirect_from:
-  - /interviews
-  - /bitcoin/media
-  - /bitcoin/interviews
+redirect_from: /interviews
+
 ---
 
 * [🇺🇸 English](#english-interviews-and-conversations)
