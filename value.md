@@ -17,7 +17,10 @@ value for value basis.
   </div>
 </div>
 
-For my long-form thoughts on value-for-value please read [The Freedom of Value][busking]. I know it's long. Apologies.
+For my long-form thoughts on value-for-value see the following:
+
+- [Dear Netizen][netizen]
+- [The Freedom of Value][busking]
 
 **TL;DR** Give as much as think it's worth. Thank you. 🙏🧡
 
@@ -29,3 +32,4 @@ are [other ways to support me][support].
 [license]: {{ '/license' | absolute_url }}
 [support]: {{ '/support' | absolute_url }}
 [busking]: {{ '/busking' | absolute_url }}
+[netizen]: {{ '/dear-netizen' | absolute_url }}
