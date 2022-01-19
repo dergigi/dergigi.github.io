@@ -91,7 +91,7 @@ too, so if you want to send some sats to a specific article---you can!
 
 ### Stealthy Support
 
-My paynym is [+gentlepond791][paynym]. It's a green robot. How fitting!
+My paynym[^paynym] is [+gentlepond791][paynym]. It's a green robot. How fitting!
 
 {% include image.html path="/assets/images/bitcoin/paynym.png" %}
 
@@ -107,3 +107,5 @@ My paynym is [+gentlepond791][paynym]. It's a green robot. How fitting!
 [21lessons]: https://21Lessons.com
 
 [^ln-addr]: A [Lightning Address](https://lightningaddress.com/) allows you to receive bitcoin payments using an e-mail style address format. Try it out yourself by signing up to [Stacker News](https://stacker.news) or by using one of these Telegram bots: [LNTXBOT](https://telegram.me/lntxbot), [LightningTipBot](https://t.me/LightningTipBot). My lightning addresses: [s@ts.dergigi.com][sats], [dergigi@ln.tips][lntips], [dergigi@lntxbot.com][lntxbot], [dergigi@stacker.news][sn]
+
+[^paynym]: A [PayNym](https://paynym.is/about) is a shareable code for sending and receiving private bitcoin payments.
