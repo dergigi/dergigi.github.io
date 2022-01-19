@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Donate
-redirect_to: support
+redirect_to: value
 ---
