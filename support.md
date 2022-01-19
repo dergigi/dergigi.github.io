@@ -7,13 +7,13 @@ image: /assets/images/bitcoin/value4value.png
 
 First of all: thank you for your support. It is because of people like you why I
 am able to do what I do. All my work is released for free under a [cc-by-sa
-license][license] and provided on a [value for value][busking] basis.
+license][license] and provided on a [value for value][value] basis.
 
 The idea of value for value is simple: information is provided free of charge,
 directly, without any paywalls or middlemen. If the information was valuable to
 you, you are encouraged to give value back.
 
-[value for value]: {{ '/busking' | absolute_url }}
+[value]: {{ '/value' | absolute_url }}
 
 <div class="action-buttons">
   <div class="button button-blue button-medium">

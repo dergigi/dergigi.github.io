@@ -6,10 +6,8 @@ image: /assets/images/bitcoin/value4value.png
 ---
 
 If you find my work valuable, consider giving value back as you see fit. All my
-work is released for free under a [cc-by-sa license][license] and provided on a
-[value for value][busking] basis.
-
-**TL;DR** Give as much as think it's worth. Thank you. 🙏🧡
+work is released for free under an [open license][license] and provided on a
+value for value basis.
 
 <div class="action-buttons">
   <div class="button button-blue button-large">
@@ -19,9 +17,14 @@ work is released for free under a [cc-by-sa license][license] and provided on a
   </div>
 </div>
 
+For my long-form thoughts on value-for-value please read [The Freedom of Value][busking]. I know it's long. Apologies.
+
+**TL;DR** Give as much as think it's worth. Thank you. 🙏🧡
+
 ![Bitcoin is Love](/assets/images/bitcoin/bitcoin-is-love.png)
 
-Can't part with your hard-earned sats? There are [other ways to support me][support].
+If you can't part with your hard-earned sats, there
+are [other ways to support me][support].
 
 [license]: {{ '/license' | absolute_url }}
 [support]: {{ '/support' | absolute_url }}
