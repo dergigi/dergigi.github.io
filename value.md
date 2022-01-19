@@ -5,9 +5,9 @@ subtitle: An Ethical Monetization Model for Information
 image: /assets/images/bitcoin/value4value.png
 ---
 
-If you find my work valuable, consider giving value back as you see fit. All my
-work is released for free under an [open license][license] and provided on a
-value for value basis.
+If you find my work valuable, consider [giving value back][support] as you see
+fit. All my work is released for free under an [open license][license] and
+provided on a value for value basis.
 
 <div class="action-buttons">
   <div class="button button-blue button-large">

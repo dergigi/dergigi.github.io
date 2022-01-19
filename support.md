@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Support
-subtitle: Value for Value
+title: Value for Value
+subtitle: More Ways to Support Me
 image: /assets/images/bitcoin/value4value.png
 ---
 
@@ -74,9 +74,13 @@ atoms that exist because of me, buying [my book][21lessons] is a good option.
   </small>
 </div>
 
+<a id="lightning"></a>
+
 ### Lightning Support
 
-You can send an arbitrary amount of sats to [s@ts.dergigi.com][sats] or one of my other lightning addresses.[^ln-addr]
+You can send an arbitrary amount of sats to [s@ts.dergigi.com][sats] or one of
+my other lightning addresses.[^ln-addr] My articles have lightning addresses
+too, so if you want to send some sats to a specific article---you can!
 
 [sats]: lightning:s@ts.dergigi.com
 [lntips]: lightning:dergigi@ln.tips
