@@ -30,6 +30,10 @@ translations:
    url: https://youtu.be/zmGKUflR6lc
    author:  Till Musshoff
    author_url: https://twitter.com/bPGTill
+ - language: Italian
+   url: https://bitcoin-translate.it/blog/20200730.php
+   author: Italian Satoshi
+   author_url: https://twitter.com/italiansatoshi
 tags:
  - Bitcoin
  - Writing
