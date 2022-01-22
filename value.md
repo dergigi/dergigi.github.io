@@ -22,7 +22,7 @@ For my long-form thoughts on value-for-value see the following:
 - [Dear Netizen][netizen]
 - [The Freedom of Value][busking]
 
-**TL;DR** Give as much as think it's worth. Thank you. 🙏🧡
+**TL;DR** Give as much as you think it's worth. Thank you. 🙏🧡
 
 ![Bitcoin is Love](/assets/images/bitcoin/bitcoin-is-love.png)
 
