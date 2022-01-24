@@ -22,7 +22,10 @@ translations:
    url: https://telegra.ph/Der-Wert-der-Freiheit-von-Gigi-01-04
    author: DerGeier
    author_url: https://twitter.com/DerGeier21
-
+ - language: Italian
+   url: https://medium.com/@Bitcoin_ator/la-libert%C3%A0-del-valore-313025197cd1
+   author: Bitcoin Ator
+   author_url: https://twitter.com/Bitcoin_ator
 ---
 
 The internet has a problem. Few people know that this problem exists,
