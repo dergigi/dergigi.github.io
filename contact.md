@@ -31,7 +31,7 @@ the bull began his run.[*][golden-bull]
 
 ---
 
-If you want to reach me, [telegram], twitter, or the mail below is probably your
+If you want to reach me, [telegram], twitter, [nostr], or the mail below is probably your
 best bet. I will do my best to reply in 3-5 days. If I don't please ping me
 again. Note that I will probably not respond if I can't make out what you're up
 to. A simple "hi" or "hey" without any context will be ignored. Also, I'm not
@@ -39,6 +39,7 @@ interested in trading or shitcoinery, so anything along these lines will be
 deleted without an answer.
 
 [telegram]: https://t.me/dergigi
+[nostr]: https://branle.fiatjaf.com/6b0d4c8d9dc59e110d380b0429a02891f1341a0fa2ba1b1cf83a3db4d47e3964
 
 
 ## Questions
