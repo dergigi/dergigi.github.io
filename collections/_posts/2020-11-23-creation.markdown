@@ -7,6 +7,11 @@ description:
 image: /assets/images/creation.jpg
 author: Gigi
 category: photography
+translations:
+ - language: German
+   url: https://telegra.ph/Sch%C3%B6pfung-01-24
+   author: DerGeier
+   author_url: https://twitter.com/DerGeier21
 tags:
   - Photography
 ---
