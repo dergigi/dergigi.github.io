@@ -19,6 +19,10 @@ translations:
    author: Tink
    author_url: https://twitter.com/bitcoinbabybee
  - language: German
+   url: https://aprycot.media/blog/der-wert-der-freiheit/
+   author: Jan-Paul
+   author_url: https://twitter.com/janpaul_f
+ - language: German
    url: https://telegra.ph/Der-Wert-der-Freiheit-von-Gigi-01-04
    author: DerGeier
    author_url: https://twitter.com/DerGeier21
