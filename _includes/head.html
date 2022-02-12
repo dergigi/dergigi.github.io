@@ -27,6 +27,10 @@
 <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
 
+<!-- Lightning Address for Alby's Value4Value extensions -->
+{% capture shortName %}{{ page.redirect_from | replace: '/', '' }}{% endcapture %}
+{% capture lightningAddress %}{% if shortName %}{{ shortName }}{% else %}{{ 's@ts.dergigi.com' }}{% endif %}{% endcapture %}
+<meta name="lightning" content="lnurlp:{{ lightningAddress }}"/>
 
 <!-- Twitter cards -->
 <meta name="twitter:site"    content="@{{ site.title }}">
