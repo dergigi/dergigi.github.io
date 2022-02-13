@@ -10,6 +10,11 @@ source: https://medium.com/@dergigi/bitcoins-habitats-9ce3064bd3a7
 redirect_from: /habitats
 author: Gigi
 category: bitcoin
+translations:
+ - language: German
+   url: https://telegra.ph/Bitcoins-Lebensr%C3%A4ume-02-12
+   author: DerGeier
+   author_url: https://twitter.com/DerGeier21
 audio: /assets/audio/habitats.ogg
 tags:
  - Bitcoin
