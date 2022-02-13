@@ -9,6 +9,11 @@ source: https://medium.com/@dergigi/dear-legacy-people-30034da666ab
 redirect_from: /legacy
 author: Gigi
 category: bitcoin
+translations:
+ - language: German
+   url: https://telegra.ph/Liebe-Erben-02-12
+   author: DerGeier
+   author_url: https://twitter.com/DerGeier21
 tags:
  - Bitcoin
  - Writing
