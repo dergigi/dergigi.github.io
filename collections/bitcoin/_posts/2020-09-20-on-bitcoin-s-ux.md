@@ -9,6 +9,11 @@ source: https://www.swanbitcoin.com/on-bitcoins-ux/
 redirect_from: /ux
 author: Gigi
 category: bitcoin
+translations:
+ - language: German
+   url: https://telegra.ph/%C3%9Cber-Bitcoins-Benutzererlebnis-02-02
+   author: DerGeier
+   author_url: https://twitter.com/DerGeier21
 tags:
  - Bitcoin
  - Writing
