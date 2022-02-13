@@ -14,6 +14,10 @@ tags:
  - Bitcoin
  - Writing
 translations:
+ - language: German
+   url: https://telegra.ph/Wahre-Namen-nicht-erforderlich-02-07
+   author: DerGeier
+   author_url: https://twitter.com/DerGeier21
  - language: Italian
    url: https://bitcoin-translate.it/blog/20200730.php
    author: Italian Satoshi
