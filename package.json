@@ -30,11 +30,11 @@
   },
   "devDependencies": {
     "@babel/cli": "^7.17.0",
-    "@babel/core": "^7.17.0",
+    "@babel/core": "^7.17.2",
     "@babel/preset-env": "^7.16.11",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
-    "eslint": "^8.8.0",
+    "eslint": "^8.9.0",
     "eslint-config-eslint": "^7.0.0",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
@@ -46,7 +46,7 @@
     "gulp-zip": "^5.1.0",
     "s3-website": "^3.3.1",
     "sass": "^1.49.7",
-    "stylelint": "^14.3.0",
+    "stylelint": "^14.5.0",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0"
   }
