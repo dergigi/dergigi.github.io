@@ -4,7 +4,7 @@ This repository is a collection of thoughts and essays on [Bitcoin](https://derg
 
 If you find any typos, grammatical errors, broken links, or any other mistakes or issues, please [contact me](https://dergigi.com/contact/) or point them out to me on [twitter](https://twitter.com/dergigi). Or create a PR to correct them.
 
-You can [support me](https://dergigi.com/support/) by purchasing a copy of [21 Lessons](https://21lessons.com/) (or by sending me sats directly ⚡). Thank you 🙏🧡.
+You can [support me](https://dergigi.com/support/) by purchasing a copy of [21 Lessons](https://21lessons.com/) (or by sending me sats directly to ⚡s@ts.dergigi.com). Thank you 🙏🧡.
 
 ---
 
