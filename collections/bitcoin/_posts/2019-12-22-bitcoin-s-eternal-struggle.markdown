@@ -16,6 +16,10 @@ translations:
    url: https://medium.com/@traduceribitcoin/lupta-etern%C4%83-a-bitcoinului-d918fd38f1b0
    author: Thursday
    author_url: https://twitter.com/saintalgorithm
+ - language: Greek
+   url: https://medium.com/@northberlin_64196/%CE%BF-%CE%B1%CE%AD%CE%BD%CE%B1%CE%BF%CF%82-%CE%B1%CE%B3%CF%8E%CE%BD%CE%B1%CF%82-%CF%84%CE%BF%CF%85-bitcoin-greepto-3bff4360c1b0
+   author: Nina
+   author_url: https://twitter.com/MiaThalassa
 tags:
  - Bitcoin
  - Writing
