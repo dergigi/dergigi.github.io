@@ -58,6 +58,9 @@ gone is your credit score. And with it, gone is your ability to
 participate in society. Send money to a peaceful protest?
 Congratulations, you are no longer a citizen. You are now a terrorist.
 
+{% capture absoluteVideoURL %}{{ 'assets/video/terrorists.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=absoluteVideoURL %}
+
 This is the world we are already living in, yet most people are still
 too preoccupied with trivialities, too blinded by politics, and too
 comfortable to care.
@@ -125,11 +128,8 @@ beauty, and the Good. It is easy to forget that 
 [chaos][chaos] is
 required for order to emerge. 
 
-Do not forget that we
-have [truth](https://dergigi.com/threads/pow-is-essential) on
-our side,
-and [love](https://dergigi.com/threads/memes-vs-the-world),
-and [responsibility][responsibility].
+Do not forget that we have [truth][pow-thread] on our side, and
+[love][meme-thread], and [responsibility][responsibility].
 I mean all of these things literally, as literal as when I say \"bitcoin
 fixes this\" when responding to many a problem of this world. 
 
@@ -207,5 +207,8 @@ We\'re going to need it.
 [busking]: {% post_url /bitcoin/2021-12-30-the-freedom-of-value %}
 [chaos]: {% post_url /bitcoin/2019-12-22-bitcoin-s-eternal-struggle %}
 [life]: {% post_url /bitcoin/2019-08-07-proof-of-life %}
+
+[pow-thread]: {{ '/powthread' | absolute_url }}
+[meme-thread]: {{ '/memeworld' | absolute_url }}
 
 [Odell]: https://twitter.com/ODELL/status/1450210122073088001?s=20&t=rwcDTi53TMkF6fmWmMH2Iw
