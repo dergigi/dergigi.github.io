@@ -1,21 +1,20 @@
 ---
 layout: post
 title: "The Egg of the Phoenix"
-subtitle: "TODO"
-description: "TODO"
+subtitle: "Out of Chaos, Order"
+description: "Bitcoin is the constant, the signal for rebirth, the egg of the phoenix."
 date: 2022-02-19
-blocktime: TODO
+blocktime: 724095
 image: /assets/images/phoenix.jpg
 redirect_from: /phoenix
 author: Gigi
 category: bitcoin
-favorite: true
 tags:
  - Bitcoin
  - Writing
 ---
 
-\"Bitcoin fixes this.\"
+You've heard it before: \"Bitcoin fixes this.\"
 
 It sounds like a joke at first. An off-hand comment uttered by a
 complete fool, by someone who is at least partly delusional. Surely,
@@ -28,10 +27,11 @@ taken literally. \"Jesus died for our sins.\" \"Live and let live.\"
 It\'s all gibberish. The people who say this stuff aren\'t actually
 serious, are they? Surely, it can\'t be true in a literal sense, right?
 
-Consequently, you don\'t take it---or them---seriously. \[Footnote: This
-is good, as far as I\'m concerned. All of it is too serious to be taken
-too seriously.\] You don\'t think twice about it. You don\'t entertain
-the possibility of what it *could* mean or *why* it could be true. 
+Consequently, you don\'t take it---or them---seriously.[^seriously]  You don\'t
+think twice about it. You don\'t entertain the possibility of what it *could*
+mean or *why* it could be true. 
+
+[^seriously]: This is good, as far as I\'m concerned. All of it is too serious to be taken too seriously.
 
 However, the truth has a way of creeping up on you. And then, one day,
 suddenly, it hits you: Bitcoin fixes this. Actually, truly, once and for
@@ -178,12 +178,11 @@ your friends, your family, your loved ones, your community, and so on. 
 
 That being said, I refer to the following resources often:
 
-- [bitcoin-intro.com](https://bitcoin-intro.com/)
+* [bitcoin-intro.com](https://bitcoin-intro.com/)
+* [bitcoiner.guide](https://bitcoiner.guide/)
+* [bitcoin-resources.com](https://bitcoin-resources.com/)[^br]
 
-- [bitcoiner.guide](https://bitcoiner.guide/)
-
-- [bitcoin-resources.com](https://bitcoin-resources.com/) \[Footnote:
-Disclosure: bitcoin-resources.com is mostly curated by myself.\]
+[^br]: Disclosure: [bitcoin-resources.com](https://bitcoin-resources.com) is mostly curated by myself.
 
 If you just got
 de-banked, [bankaccountfrozen.com](https://bankaccountfrozen.com/) might
@@ -197,7 +196,9 @@ the [caveats](https://bankaccountfrozen.com/caveats.html). 
 
 May freedom arise like a phoenix out of the ashes. 
 
-Godspeed, and good luck to you all. We\'re going to need it.
+Godspeed, and good luck to you all.\\
+We\'re going to need it.
 
+---
 
 [Odell]: https://twitter.com/ODELL/status/1450210122073088001?s=20&t=rwcDTi53TMkF6fmWmMH2Iw
