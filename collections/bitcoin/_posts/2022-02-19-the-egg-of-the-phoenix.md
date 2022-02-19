@@ -82,8 +82,11 @@ you. 
 You can defend yourself from tyranny, right here, right now. But you
 have to put in the work, and you have to do it yourself. I can\'t do the
 work for you, and, quite obviously, I can\'t convince you of the
-necessity to do so. You can only convince yourself. \"I can only show
-you the door. You\'re the one that has to walk through it.\"
+necessity to do so. You can only convince yourself.
+
+> I can only show you the door. You\'re the one that has to walk through it.
+>
+> <cite>[Morpheus]</cite>
 
 This is true for many things, but it is especially true for bitcoin.
 Bitcoin held by others is not your bitcoin. Bitcoin verified by others
@@ -139,11 +142,11 @@ fixes this\" when responding to many a problem of this world. 
 -   **Love:** Bitcoin is opt-in. It will never force you to use it. All
     interactions are completely voluntary. It does not coerce. It is
     open, transparent, and welcoming to all. Always. 
--   **Responsibility**: Bitcoin puts the responsibility upon you, and it
-    is also responsible in itself: no waste, no unnecessary parts, no
+-   **Responsibility**: Bitcoin puts the responsibility upon you, the individual.
+    But it is also responsible in itself: no waste, no unnecessary parts, no
     leakage. A closed-loop monetary base of 21 million, never more. No
-    irresponsible bailouts. No handouts to the well-connected. No
-    favors, for no one, ever. Everyone is equal in the eyes of Bitcoin.
+    irresponsible bailouts. No handouts to the well-connected. No favors, for no
+    one, ever. Everyone is equal in the eyes of Bitcoin.
 
 We are past the \"laugh at you\" stage now. It was clear from the
 beginning that *if* Bitcoin grew big
@@ -151,7 +154,7 @@ enough, [peacetime](https://twitter.com/dergigi/status/1303264736579121152?s=20
 come to an end, and the powers that be would try to squat it like the
 annoying mosquito they think it is. What they don\'t understand,
 however, is that Bitcoin is a [different kind of organism][life].
-And you, dear bitcoiners, are a crucial part of it. Arm yourself; with
+And you, dear bitcoiners, are a crucial part of it. Arm yourselves; with
 knowledge and freedom-enabling tools alike. 
 
 > In all matters, before beginning, a diligent preparation should be
@@ -207,6 +210,7 @@ We\'re going to need it.
 [busking]: {% post_url /bitcoin/2021-12-30-the-freedom-of-value %}
 [chaos]: {% post_url /bitcoin/2019-12-22-bitcoin-s-eternal-struggle %}
 [life]: {% post_url /bitcoin/2019-08-07-proof-of-life %}
+[Morpheus]: {% post_url /bitcoin/2020-11-05-what-is-21ism %}
 
 [pow-thread]: {{ '/powthread' | absolute_url }}
 [meme-thread]: {{ '/memeworld' | absolute_url }}
