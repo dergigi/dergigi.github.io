@@ -27,11 +27,9 @@ taken literally. \"Jesus died for our sins.\" \"Live and let live.\"
 It\'s all gibberish. The people who say this stuff aren\'t actually
 serious, are they? Surely, it can\'t be true in a literal sense, right?
 
-Consequently, you don\'t take it---or them---seriously.[^seriously]  You don\'t
+Consequently, you don\'t take it---or them---too seriously.[^seriously]  You don\'t
 think twice about it. You don\'t entertain the possibility of what it *could*
 mean or *why* it could be true. 
-
-[^seriously]: This is good, as far as I\'m concerned. All of it is too serious to be taken too seriously.
 
 However, the truth has a way of creeping up on you. And then, one day,
 suddenly, it hits you: Bitcoin fixes this. Actually, truly, once and for
@@ -44,41 +42,39 @@ ubiquitous, global, and all-encompassing. Our capacity to yield power
 and bring about destruction is almost endless; our wisdom is anything
 but. While the end has always been near, I do believe that it truly is
 different this time, if just a bit. Our ancestors didn\'t have the
-technology to eradicate or enslave all of humanity forever. \[Footnote:
-At least as far as we know.\] In the words of Robert Oppenheimer: \"I am
+technology to eradicate or enslave all of humanity forever.[^aliens]
+In the words of Robert Oppenheimer: \"I am
 become death, the destroyer of worlds.\" 
 
-In addition to that, Orwell\'s imaginary boot has already been built,
+In addition to that, Orwell\'s imaginary boot has been built,
 and in some corners of the world, it is stamping on human faces already.
 China is the obvious example: social credit scores, total surveillance,
 authoritarian rule. But also, the supposedly \"free world\" is not
 immune. What is currently happening in Canada is a glimpse of what can
-happen to anyone in the \[legacy system\] at all times, anywhere on
-earth. Join the wrong Facebook group? A visit by the police is in order.
+happen to anyone in the [legacy system][dear-legacy] at all times, anywhere on
+earth. Join the wrong Facebook[^facebook] group? A visit by the police is in order.
 Like the wrong tweet? Gone is your bank account, gone is your insurance,
 gone is your credit score. And with it, gone is your ability to
 participate in society. Send money to a peaceful protest?
-Congratulations, you\'re now a terrorist.
+Congratulations, you are no longer a citizen. You are now a terrorist.
 
 This is the world we are already living in, yet most people are still
 too preoccupied with trivialities, too blinded by politics, and too
 comfortable to care.
 
-I would love to tell you that \"bitcoin fixes this\" - magically, on its
-own. However, it all depends
+I would love to tell you that \"bitcoin fixes this\"---magically, on its
+own. It doesn't. It all depends
 on [you](https://twitter.com/dergigi/status/1462554586829500420?s=20&t=g1j4quHdS6gkLCY2aVKtHQ).
-Bitcoin can only fix this if you let it.
 
 ### It\'s All You
 
-There is no magic solution. Yes, [Bitcoin is Magic Internet
+There is no magic solution. Yes, Bitcoin is [Magic Internet
 Money](https://21-ways.com/3/), but it doesn\'t work
 magically on its own. It is *you* that has to participate. It
 is *you* that has to care. It is *you* that has to make use of it. It
 is *you* that has to stand up, do the work, use the tools, and defend
-yourself from those who want to
-control, [deplatform](https://dergigi.com/2021/12/30/the-freedom-of-value/),
-cancel, and rob you. 
+yourself from those who want to control, [deplatform][busking], cancel, and rob
+you. 
 
 You can defend yourself from tyranny, right here, right now. But you
 have to put in the work, and you have to do it yourself. I can\'t do the
@@ -89,7 +85,7 @@ you the door. You\'re the one that has to walk through it.\"
 This is true for many things, but it is especially true for bitcoin.
 Bitcoin held by others is not your bitcoin. Bitcoin verified by others
 is not your bitcoin. You have to take ownership. You have to
-take [responsibility](https://dergigi.com/2021/03/14/the-responsibility-of-adopting-bitcoin/).
+take [responsibility][responsibility].
 You have to become one with the network. You have to care; you have to
 decide; you have to believe. You have to form your own opinions of what
 bitcoin is and what it might be in the future. You have to be involved. 
@@ -126,14 +122,14 @@ There are rough times ahead of us, no doubt about it. And yet I am
 hopeful. In the midst of all the chaos, it is easy to forget that there
 is always  [hope](https://www.hope.com/), and love, and
 beauty, and the Good. It is easy to forget that 
-[chaos](https://dergigi.com/2019/12/22/bitcoin-s-eternal-struggle/) is
+[chaos][chaos] is
 required for order to emerge. 
 
 Do not forget that we
 have [truth](https://dergigi.com/threads/pow-is-essential) on
 our side,
 and [love](https://dergigi.com/threads/memes-vs-the-world),
-and [responsibility](https://dergigi.com/2021/03/14/the-responsibility-of-adopting-bitcoin/).
+and [responsibility][responsibility].
 I mean all of these things literally, as literal as when I say \"bitcoin
 fixes this\" when responding to many a problem of this world. 
 
@@ -154,8 +150,7 @@ beginning that *if* Bitcoin grew big
 enough, [peacetime](https://twitter.com/dergigi/status/1303264736579121152?s=20&t=VSzDAcNhwAWSEbH_oG8jXQ) would
 come to an end, and the powers that be would try to squat it like the
 annoying mosquito they think it is. What they don\'t understand,
-however, is that Bitcoin is a [different kind of
-organism](https://dergigi.com/2019/08/07/proof-of-life/).
+however, is that Bitcoin is a [different kind of organism][life].
 And you, dear bitcoiners, are a crucial part of it. Arm yourself; with
 knowledge and freedom-enabling tools alike. 
 
@@ -174,15 +169,13 @@ yourself, and if you can, educate others.
 Again: there are no easy solutions. I can\'t recommend one single
 article, one book, or one 5-step guide that is one-size-fits-all. You
 have to care enough to figure out what works for you, what works for
-your friends, your family, your loved ones, your community, and so on. 
+your friends, your [family][dear-family], your loved ones, your community, and so on. 
 
 That being said, I refer to the following resources often:
 
 * [bitcoin-intro.com](https://bitcoin-intro.com/)
 * [bitcoiner.guide](https://bitcoiner.guide/)
 * [bitcoin-resources.com](https://bitcoin-resources.com/)[^br]
-
-[^br]: Disclosure: [bitcoin-resources.com](https://bitcoin-resources.com) is mostly curated by myself.
 
 If you just got
 de-banked, [bankaccountfrozen.com](https://bankaccountfrozen.com/) might
@@ -200,5 +193,19 @@ Godspeed, and good luck to you all.\\
 We\'re going to need it.
 
 ---
+
+[^seriously]: This is good, as far as I\'m concerned. All of it is too serious to be taken too seriously.
+[^aliens]: At least as far as we know.
+[^br]: Disclosure: [bitcoin-resources.com](https://bitcoin-resources.com) is mostly curated by myself.
+[^facebook]: [https://archive.is/coBob](https://archive.is/coBob)
+
+
+[dear-family]: {% post_url /bitcoin/2020-04-27-dear-family-dear-friends %}
+[dear-legacy]: {% post_url /bitcoin/2020-03-20-dear-legacy-people %}
+[journey]: {% post_url /bitcoin/2020-06-15-the-bitcoin-journey %}
+[responsibility]: {% post_url /bitcoin/2021-03-14-the-responsibility-of-adopting-bitcoin %}
+[busking]: {% post_url /bitcoin/2021-12-30-the-freedom-of-value %}
+[chaos]: {% post_url /bitcoin/2019-12-22-bitcoin-s-eternal-struggle %}
+[life]: {% post_url /bitcoin/2019-08-07-proof-of-life %}
 
 [Odell]: https://twitter.com/ODELL/status/1450210122073088001?s=20&t=rwcDTi53TMkF6fmWmMH2Iw
