@@ -27,6 +27,10 @@ translations:
    url: https://bitcoinbadger.blogspot.com/2021/06/blog-post.html
    author: Di Wu
    author_url: https://twitter.com/BitcoinAnother
+ - language: Italian
+   url: https://medium.com/@filippo91/cari-bitcoiners-9df2b24fe0c5
+   author: Filippo
+   author_url: https://twitter.com/fbortoss
 series: Open Letters
 ---
 
