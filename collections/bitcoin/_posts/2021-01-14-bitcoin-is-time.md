@@ -47,7 +47,7 @@ translations:
  - language: Italian
    url: https://medium.com/@filippo91/bitcoin-e-tempo-a540a468bc63
    author: Filippo
-   author_url: https://twitter.com/Filo_Noveuno
+   author_url: https://twitter.com/fbortoss
  - language: Malay
    url: https://app.sigle.io/jesperolsanajek.id.stx/u0rnbwFCArfhwQ_nNigf3
    author: Jesper

@@ -29,7 +29,7 @@ translations:
  - language: Italian
    url: https://medium.com/@filippo91/bitcoin-%C3%A8-unidea-fa4d501f55d5
    author: Filippo
-   author_url: https://twitter.com/Filo_Noveuno
+   author_url: https://twitter.com/fbortoss
  - language: Chinese
    url: https://www.btcstudy.org/2021/10/26/bitcoin-is-an-idea-by-Gigi/
    author: BTCStudy
