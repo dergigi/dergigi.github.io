@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Egg of the Phoenix"
-subtitle: "Out of Chaos, Order"
 description: "Bitcoin is the constant, the signal for rebirth, the egg of the phoenix."
 date: 2022-02-19
 blocktime: 724099
