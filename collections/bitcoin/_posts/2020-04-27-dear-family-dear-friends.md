@@ -84,6 +84,10 @@ translations:
    url: https://medium.com/@traduceribitcoin/drag%C4%83-familie-dragi-prieteni-9e2544c71642
    author: Thursday
    author_url: https://twitter.com/saintalgorithm
+ - language: Swedish
+   url: https://medium.com/@bitcoinswetranslation/k%C3%A4ra-familj-k%C3%A4ra-v%C3%A4nner-1c13f120e98b
+   author: Pleb Joker
+   author_url: https://twitter.com/jokerhasse
 series: Open Letters
 ---
 
