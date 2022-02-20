@@ -26,6 +26,10 @@ translations:
    url: https://telegra.ph/Der-Wert-der-Freiheit-von-Gigi-01-04
    author: DerGeier
    author_url: https://twitter.com/DerGeier21
+ - language: German (Discussion)
+   url: https://pod.link/1601802816/episode/b5e283d48811cedef9b1de1e0e9a4789
+   author: Nodesignal
+   author_url: https://twitter.com/nodesignal
  - language: Italian
    url: https://medium.com/@Bitcoin_ator/la-libert%C3%A0-del-valore-313025197cd1
    author: Bitcoin Ator
