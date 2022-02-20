@@ -150,7 +150,7 @@ fixes this\" when responding to many a problem of this world. 
 We are past the \"laugh at you\" stage now. It was clear from the
 beginning that *if* Bitcoin grew big
 enough, [peacetime](https://twitter.com/dergigi/status/1303264736579121152?s=20&t=VSzDAcNhwAWSEbH_oG8jXQ) would
-come to an end, and the powers that be would try to squat it like the
+come to an end, and the powers that be would try to squash it like the
 annoying mosquito they think it is. What they don\'t understand,
 however, is that Bitcoin is a [different kind of organism][life].
 And you, dear bitcoiners, are a crucial part of it. Arm yourselves; with
