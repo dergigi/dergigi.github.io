@@ -30,6 +30,10 @@ translations:
    url: https://blog.karlklawatsch.com/bitcoin/bitcoin-ist-magisches-internet-geld/
    author: Karl Klawatsch
    author_url: https://twitter.com/KKlawatsch
+ - language: German (audio)
+   url: https://anchor.fm/bitcoin-bibliothek/episodes/Lesung-1---Magisches-Internet-Geld-Gigi-e1ekb06
+   author: Chris
+   author_url: https://twitter.com/Chris_SHA256
 series: 21 Ways
 ---
 
