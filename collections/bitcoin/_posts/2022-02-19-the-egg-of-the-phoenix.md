@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Egg of the Phoenix"
+subittle: "Stand up, do the work, use the tools" 
 description: "Bitcoin is the constant, the signal for rebirth, the egg of the phoenix."
 date: 2022-02-19
 blocktime: 724099
