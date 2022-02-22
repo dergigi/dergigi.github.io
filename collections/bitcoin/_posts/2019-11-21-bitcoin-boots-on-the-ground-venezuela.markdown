@@ -14,6 +14,10 @@ translations:
    url: https://btcishope.blogspot.com/2021/09/bitcoin-al-pie-del-canon-venezuela.html
    author: Bitcoin Kook
    author_url: https://twitter.com/Bitcoin_kook/
+ - language: German
+   url: https://telegra.ph/Bitcoins-Einsatz-vor-Ort---Venezuela-02-15
+   author: DerGeier
+   author_url: https://twitter.com/DerGeier21
 tags:
  - Bitcoin
  - Writing
