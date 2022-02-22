@@ -32,6 +32,10 @@ translations:
    url: https://medium.com/@Bitcoin_ator/prova-di-vita-8ee4319ea161
    author: Bitcoin Ator
    author_url: https://twitter.com/Bitcoin_ator
+ - language: German
+   url: https://telegra.ph/Beweis-des-Lebens-02-15
+   author: DerGeier
+   author_url: https://twitter.com/DerGeier21
 series: Proof of Life
 ---
 
