@@ -7,6 +7,11 @@ description:
 image: /assets/images/sanity.jpg
 author: Gigi
 category: photography
+translations:
+ - language: German
+   url: https://telegra.ph/Wagen-02-07
+   author: DerGeier
+   author_url: https://telegra.ph/Vernunft-02-15
 tags:
   - Photography
   - Travel
