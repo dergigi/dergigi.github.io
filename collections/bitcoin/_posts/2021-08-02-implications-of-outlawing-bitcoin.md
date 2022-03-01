@@ -5,6 +5,7 @@ description: "Bitcoin is numbers. Bitcoin is math. Bitcoin is thought. Bitcoin i
 date: 2021-08-02
 blocktime: 693819
 image: /assets/images/btc-law.jpg
+audio: /assets/audio/law.ogg
 redirect_from: /law
 author: Gigi
 category: bitcoin
