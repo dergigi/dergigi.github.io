@@ -54,8 +54,11 @@ Watch the [full interview][jbpS4E40yt] on YouTube.
 [ctl2]: https://www.seetee.io/podcast/S2E1/13-gigi-the-future-of-value/
 [stoa]: https://youtu.be/G-E9DuQf2Pk
 [podland]: https://pod.link/1542481043/episode/d63610565aeb07cd6da90e8e08153ffe
+[twib6]: https://pod.link/1455583682/episode/e679a6cbecb97c3cafffaede2aa126d5
+[twib6-yt]: https://youtu.be/zM9zLxnHJ3Q
 
 ---
+  - **2022-02-25** - [This Week in Bitcoin][twib6] with Brady and Justine, hosted by Adam Meister (also on [youtube][twib6-yt])
   - **2022-02-11** - [Podland News][podland] on Value4Value, hosted by James Cridland and Sam Sethi
   - **2022-01-23** - [Bitcoin Stoa][stoa], a conversation with Nobody Caribou
   - **2022-01-18** - [Closing the Loop S2E01][ctl2] on Value, Closing the Loop, Podcasting 2.0, and Value4Value, hosted by John Vallis
