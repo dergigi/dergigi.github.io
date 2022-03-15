@@ -218,8 +218,9 @@ In [2019](https://www.blockstream.info/block-height/591121) a couple of
 bitcoiners and I launched [🇩🇪 EINUNDZWANZIG](https://einundzwanzig.space/),
 a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 
+  - **2022-03-23** - [🇩🇪⭐ Was Bitcoin Bringt][wbb] on Bitcoin's History, essence, and the necessity of proof-of-work, hosted by Niko (also on [youtube][wbb-yt])
   - **2022-01-23** - [🇩🇪 Pleb's Taverne #11][taverne11] on OpSec, hosted by Kid and Mr. C.
-  - **2021-12-21** - [🇩🇪 Human B][hb] - a movie on the human aspect of Bitcoin, created by Cinemuck (on [Vimeo][hbv] and [YouTube][hby])
+  - **2021-12-21** - [🇩🇪⭐ Human B][hb] - a movie on the human aspect of Bitcoin, created by Cinemuck (on [Vimeo][hbv] and [YouTube][hby])
   - **2021-08-20** - [🇨🇭 Relai DACH #22][relai22] on Bitcoin Narratives and Lightning (also on [youtube][relai22-yt])
   - **2021-08-01** - [🇩🇪 Block52 - #116][block52-116] on PoW and why Bitcoin, hosted by Philipp Sandner  
   - **2021-04-15** - [🇦🇹 Interview][trending-topics] by Jakob Steinschaden
@@ -243,6 +244,8 @@ a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 [relai22]: https://anchor.fm/relai-dach/episodes/22-Relai-Bitcoin-Session-mit-Der-Gigi-Der-Bitcoin-Befrworter-e166kgu
 [relai22-yt]: https://youtu.be/ncXKYCx97B0
 [taverne11]: https://pod.link/1591830939/episode/4f4b3ad5a6ce435c99aebec81db0d6a5
+[wbb]: https://www.wasbitcoinbringt.com/gigi/
+[wbb-yt]: https://youtu.be/0tHTB0ZBVwY
 
 ### Talks
 
