@@ -11,8 +11,8 @@ image: /assets/images/bitcoin/license.png
 Unless otherwise noted, all my writings are published under the [Creative
 Commons Attribution-ShareAlike 4.0 International][cc-by-sa] (CC BY-SA 4.0)
 license which means that you are free to share and adapt the material as you see
-fit. The only requirement is that you must distribute your contributions under
-the same license.
+fit. <strong>The only requirement is that you must distribute your contributions under
+the same license.</strong>
 
 <div class="action-buttons">
   <div class="button button-blue button-large">
