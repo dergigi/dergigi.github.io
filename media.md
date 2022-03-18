@@ -56,8 +56,10 @@ Watch the [full interview][jbpS4E40yt] on YouTube.
 [podland]: https://pod.link/1542481043/episode/d63610565aeb07cd6da90e8e08153ffe
 [twib6]: https://pod.link/1455583682/episode/e679a6cbecb97c3cafffaede2aa126d5
 [twib6-yt]: https://youtu.be/zM9zLxnHJ3Q
+[pi]: http://adam.curry.com/html/PC207720220318Podcas-c6tB5Z513kQBm75Gq0hXc5ThbXjPhF.html
 
 ---
+  - **2022-03-18** - [Podcasting 2.0][pi] on Value4Value, podcasting, the ethics of money production, dice & toilets, hosted by Adam Curry and Dave Jones
   - **2022-02-25** - [This Week in Bitcoin][twib6] with Brady and Justine, hosted by Adam Meister (also on [youtube][twib6-yt])
   - **2022-02-11** - [Podland News][podland] on Value4Value, hosted by James Cridland and Sam Sethi
   - **2022-01-23** - [Bitcoin Stoa][stoa], a conversation with Nobody Caribou
