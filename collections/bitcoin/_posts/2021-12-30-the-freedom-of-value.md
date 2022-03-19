@@ -6,6 +6,7 @@ description: "How #Bitcoin and #Value4Value fixes the monetization of informatio
 date: 2021-12-30
 blocktime: 716448
 image: /assets/images/busking.jpg
+audio: /assets/audio/busking.ogg
 redirect_from: /busking
 author: Gigi
 category: bitcoin
@@ -42,6 +43,11 @@ translations:
    url: https://fanismichalakis.fr/fr/posts/the-freedom-of-value/
    author: Fanis Michalakis
    author_url: https://twitter.com/FanisMichalakis
+ - language: English (reading & commentary)
+   url: https://pod.link/1359544516/episode/13637ef7c4f181f95e0f901ed9573812
+   author: Guy Swann
+   author_url: https://twitter.com/TheGuySwann
+
 ---
 
 The internet has a problem. Few people know that this problem exists,
