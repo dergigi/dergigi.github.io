@@ -9,6 +9,11 @@ image: /assets/images/phoenix.jpg
 redirect_from: /phoenix
 author: Gigi
 category: bitcoin
+translations:
+ - language: German
+   url: https://aprycot.media/blog/das-ei-des-phoenix/
+   author: Geronimo & Kid
+   author_url: https://twitter.com/aprycotmedia/status/1505086631778390019?s=20&t=sjSX7uHswRwGbNnLLWXqsw
 tags:
  - Bitcoin
  - Writing
