@@ -6,6 +6,7 @@ description: "How #Bitcoin and #Value4Value fixes the monetization of informatio
 date: 2021-12-30
 blocktime: 716448
 image: /assets/images/busking.jpg
+audio: /assets/audio/busking.ogg
 redirect_from: /busking
 author: Gigi
 category: bitcoin
