@@ -175,6 +175,8 @@ back and forth between curious cypherpunks. However, the moment [Laszlo]
 exchanged 10,000 BTC for [two pizzas], Bitcoin went from zero to one. In
 an instant, the network became valuable in a tangible way.
 
+<a id="loop"/>
+
 Ever since this moment, the following *idea-value feedback loop* is at
 play:
 
