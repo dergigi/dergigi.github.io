@@ -220,7 +220,8 @@ In [2019](https://www.blockstream.info/block-height/591121) a couple of
 bitcoiners and I launched [🇩🇪 EINUNDZWANZIG](https://einundzwanzig.space/),
 a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 
-  - **2022-03-23** - [🇩🇪⭐ Was Bitcoin Bringt][wbb] on Bitcoin's History, essence, and the necessity of proof-of-work, hosted by Niko (also on [youtube][wbb-yt])
+  - **2022-03-23** - [🇩🇪 Verbinde die Punkte][vdb] on how Bitcoin brings freedom and protection for sovereign individuals.
+  - **2022-03-15** - [🇩🇪⭐ Was Bitcoin Bringt][wbb] on Bitcoin's History, essence, and the necessity of proof-of-work, hosted by Niko (also on [youtube][wbb-yt])
   - **2022-01-23** - [🇩🇪 Pleb's Taverne #11][taverne11] on OpSec, hosted by Kid and Mr. C.
   - **2021-12-21** - [🇩🇪⭐ Human B][hb] - a movie on the human aspect of Bitcoin, created by Cinemuck (on [Vimeo][hbv] and [YouTube][hby])
   - **2021-08-20** - [🇨🇭 Relai DACH #22][relai22] on Bitcoin Narratives and Lightning (also on [youtube][relai22-yt])
@@ -248,6 +249,7 @@ a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 [taverne11]: https://pod.link/1591830939/episode/4f4b3ad5a6ce435c99aebec81db0d6a5
 [wbb]: https://www.wasbitcoinbringt.com/gigi/
 [wbb-yt]: https://youtu.be/0tHTB0ZBVwY
+[vdb]: https://podtail.com/podcast/verbinde-die-punkte-der-podcast/der-gigi-der-laz0r-der-sunny-auf-ein-gutes-gesprac/
 
 ### Talks
 
