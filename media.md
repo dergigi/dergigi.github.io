@@ -220,7 +220,7 @@ In [2019](https://www.blockstream.info/block-height/591121) a couple of
 bitcoiners and I launched [🇩🇪 EINUNDZWANZIG](https://einundzwanzig.space/),
 a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 
-  - **2022-03-27** - [🇩🇪 Nodesignal #20][ns20] on [Bitcoin is Time][https://21-ways.com/2/], hosted by mit Thorsten and Jan-Paul.
+  - **2022-03-27** - [🇩🇪 Nodesignal #20][ns20] on [Bitcoin is Time](https://21-ways.com/2/), hosted by mit Thorsten and Jan-Paul.
   - **2022-03-23** - [🇩🇪 Verbinde die Punkte][vdb] on how Bitcoin brings freedom and protection for sovereign individuals.
   - **2022-03-15** - [🇩🇪⭐ Was Bitcoin Bringt][wbb] on Bitcoin's History, essence, and the necessity of proof-of-work, hosted by Niko (also on [youtube][wbb-yt])
   - **2022-01-23** - [🇩🇪 Pleb's Taverne #11][taverne11] on OpSec, hosted by Kid and Mr. C.
