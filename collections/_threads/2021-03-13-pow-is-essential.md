@@ -11,6 +11,12 @@ category: bitcoin
 tags:
  - Bitcoin
  - Writing
+translations:
+ - language: Italian
+   url: https://medium.com/alessandro-omega/il-pow-%C3%A8-essenziale-di-gigi-c72eee31c83c
+   archive: https://archive.ph/uhs2g
+   author: Alessandro Omega
+   author_url: https://twitter.com/AOmega_Crypto
 ---
 
 **A failure to understand [proof of work][pow] is a failure to understand Bitcoin.**
