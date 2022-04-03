@@ -6,6 +6,7 @@ description: "TODO"
 date: 2022-04-03
 blocktime: TODO
 image: /assets/images/jefferson-bastiat-hayek.jpg
+video: /assets/video/hayek.mp4
 redirect_from: /speech
 author: Gigi
 favorite: true
@@ -14,8 +15,6 @@ tags:
  - Bitcoin
  - Writing
 ---
-
-\[TODO: Embed video.\]
 
 Law. Language. Money. The three paradigms of spontaneous and emergent
 order in society. Moral questions are at the root of it all:
