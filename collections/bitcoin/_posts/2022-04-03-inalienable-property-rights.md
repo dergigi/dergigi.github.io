@@ -249,17 +249,16 @@ and all the rest of it. It can also lead to dangerous consequences: if
 the stifled information is a warning signal---or some other indication
 that something is wrong---error correction can\'t happen.
 
-However, words convey *meaning*, as does information. And this meaning
-is and always will be disconnected from the form that said information
-takes. Words are pointers, not reality. If you outlaw a certain word,
-people will just use something else in its place, something that will
-convey the same idea, something that will have the same meaning. This is
-also why outlawing any piece of information is not only futile but
-ridiculous. Information can take on virtually endless forms.
-Consequently, by outlawing a certain piece of information, you
-automatically ban books, music, and all other possible representations
-of said information, which, depending on your encoding, might
-be *anything*.[^goedel]
+However, words convey *meaning*, as does information. And this meaning is and
+always will be disconnected from the form that said information
+takes.[^map-territory] Words are pointers, not reality. If you outlaw a certain
+word, people will just use something else in its place, something that will
+convey the same idea, something that will have the same meaning. This is also
+why outlawing any piece of information is not only futile but ridiculous.
+Information can take on virtually endless forms. Consequently, by outlawing a
+certain piece of information, you automatically ban books, music, and all other
+possible representations of said information, which, depending on your encoding,
+might be *anything*.[^goedel]
 
 [^goedel]: Wikipedia contributors. (2022, March 23). [Gödel numbering](https://en.wikipedia.org/w/index.php?title=G%C3%B6del_numbering&oldid=1078810674). In Wikipedia, The Free Encyclopedia. Retrieved at 730,136
 
@@ -270,12 +269,7 @@ place: to show how ridiculous it all is.
 
 \[TODO: RSA shirt image\]
 
-\[Footnote: Funnily enough, the encoding problem---the disconnect
-between the real world and the world of information---is at the root of
-the problem of digital money. Bitcoin solves this problem via its
-difficulty-adjusted proof-of-work algorithm, which, I believe, is
-the *only* way this problem can be solved. In Bitcoin, [the map is the
-territory](https://dergigi.com/memeworld).\]
+[^map-territory]: Funnily enough, the encoding problem---the disconnect between the real world and the world of information---is at the root of the problem of digital money. Bitcoin solves this problem via its difficulty-adjusted proof-of-work algorithm, which, I believe, is the *only* way this problem can be solved. In Bitcoin, [the map is the territory](https://dergigi.com/memeworld).
 
 This is precisely why [outlawing
 bitcoin](https://dergigi.com/law) unavoidably leads to thoughtcrimes,
