@@ -89,16 +89,16 @@ Money can be traded for goods and services. These goods and services are
 produced and offered by strangers. The \"stranger\" part is important
 because money is the one thing that effectively and peacefully allows us
 to scale across trust barriers. With money, you don\'t need to trust
-your counterparty - that\'s the whole point. If the counterparty is a
+your counterparty---that\'s the whole point. If the counterparty is a
 good friend of yours, you can rely on credit. Final settlement is what
-removes the trust barrier and allows societies to scale. Without money,
-human cooperation has to rely on credit relationships. Everyone has to
-remember who owes what to whom. Without an external representation of
-these relationships---if everyone has to keep all these ratios in their
-head---human cooperation can\'t scale beyond Dunbar\'s Number, resulting
-in a maximum group size of about 150 people.
+removes the trust barrier and allows societies to scale.[^sscale] Without money,
+human cooperation has to rely on credit relationships. Everyone has to remember
+who owes what to whom. Without an external representation of these
+relationships---if everyone has to keep all these ratios in their head---human
+cooperation can\'t scale beyond Dunbar\'s Number, resulting in a maximum group
+size of about 150 people.
 
-\[Footnote: Nick Szabo, *Money, Blockchains, and Social Scalability*\]
+[^sscale]: Nick Szabo, *Money, Blockchains, and Social Scalability*
 
 \[TODO: Dunbar Number Image\]
 
@@ -117,20 +117,18 @@ society, we must not interfere with the issue and control of money.
 After all, as Frédéric Bastiat famously said, \"When goods do not cross
 borders, soldiers will.\"
 
-Fundamentally, there are two ways to get your hands on the things of
-strangers: trade and violence. \[Footnote: This includes gifts since you
-are trading your gift for reciprocity, karma, a friendly society, or
-similar ideas. See Hülsmann, Graeber.\]
+Fundamentally, there are two ways to get your hands on the things of strangers:
+trade and violence.[^gifts] The difference between cooperation and conquest is
+that one interaction is voluntary, while the other is not. Money not only
+facilitates and scales trade, it is also used to express individual preferences
+and valuations. How much are you willing to spend for a certain good or service?
+Are you willing to spend money at all, or would you rather save? How long are
+you willing to hold on to your money? How much are you willing to invest in
+certain ventures? Answers to such questions are expressed in the language of
+money, which is why the flow of money is not dissimilar to the flow of
+information, or speech.
 
-The difference between cooperation and conquest is that one interaction
-is voluntary, while the other is not. Money not only facilitates and
-scales trade, it is also used to express individual preferences and
-valuations. How much are you willing to spend for a certain good or
-service? Are you willing to spend money at all, or would you rather
-save? How long are you willing to hold on to your money? How much are
-you willing to invest in certain ventures? Answers to such questions are
-expressed in the language of money, which is why the flow of money is
-not dissimilar to the flow of information, or speech.
+[^gifts]: This includes gifts since you are trading your gift for reciprocity, karma, a friendly society, or similar ideas. See Hülsmann, Graeber. TODO: cite
 
 This brings us to the next question. The next two, actually: who should
 be allowed to publish? And, who should be allowed to speak?
