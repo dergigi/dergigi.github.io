@@ -271,14 +271,12 @@ place: to show how ridiculous it all is.
 
 [^map-territory]: Funnily enough, the encoding problem---the disconnect between the real world and the world of information---is at the root of the problem of digital money. Bitcoin solves this problem via its difficulty-adjusted proof-of-work algorithm, which, I believe, is the *only* way this problem can be solved. In Bitcoin, [the map is the territory](https://dergigi.com/memeworld).
 
-This is precisely why [outlawing
-bitcoin](https://dergigi.com/law) unavoidably leads to thoughtcrimes,
-illegal numbers, illegal primes, and illegal speech. If publishing a
-certain block, nonce, or transaction is ever deemed illegal, the
-publication of said block, nonce, or transaction by ways of books or the
-press will be illegal too. And because *all aspects* of Bitcoin are
-information, having certain thoughts---such as 12 words in your
-head---would be illegal too.
+This is precisely why [outlawing bitcoin](https://dergigi.com/law) unavoidably
+leads to thoughtcrimes, illegal numbers, illegal primes, and illegal speech. If
+publishing a certain block, nonce, or transaction is ever deemed illegal, the
+publication of said block, nonce, or transaction by ways of books or the press
+will be illegal too. And because *all aspects* of Bitcoin are information,
+having certain thoughts---such as 12 words in your head---would be illegal too.
 
 Which brings us to the question of enforcement, and the last two
 questions of our initial list: Who should be allowed to have property?
@@ -374,10 +372,12 @@ is supposed to be played.
 
 The question becomes: how is the game supposed to be played? What are
 the rules of the game, and who can change them? Bitcoin\'s *Blocksize
-War* was about this question. The resolution of the blocksize wars
+War*[^blocksize-war] was about this question. The resolution of the blocksize wars
 showed one thing clearly: in the end, individual users define, verify,
 and enforce the rules. The full node is sovereign, as are the users
-behind said nodes. \[Footnote: Link to book\]
+behind said nodes.
+
+[^blocksize-war]: Jonathan Bier (2021), [*The Blocksize War*](https://bitcoin-resources.com/books/the-blocksize-war)
 
 > An apparently overwhelming economic interest group \[wanted to
 > change the rules\]---85% of miners, many big-block philosophical
@@ -397,9 +397,11 @@ only players that want to play according to certain rules, and once they
 have a way to communicate with each other, the game can be played.
 
 It is important to note, however, that Bitcoin is an
-ongoing, *infinite* game. \[Footnote: Link to infinite games book\] It
+ongoing, *infinite* game.[^infinite-games] It
 started with the Genesis Block, and it has been and is being played by
 myriads of players ever since. 
+
+[^infinite-games]: James P. Carse (1987), [*Finite and Infinite Games*](https://www.goodreads.com/book/show/189989.Finite_and_Infinite_Games)
 
 The goal of the game is to create an indisputable past in an ongoing
 fashion, and it goes something like this:
