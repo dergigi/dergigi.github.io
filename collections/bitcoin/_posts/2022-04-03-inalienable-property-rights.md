@@ -407,9 +407,11 @@ fashion, and it goes something like this:
 -   Users imbue sats with value
 
 Users, nodes, and miners are not exclusive roles. You might be one, two,
-or all three.
+or all three.[^bitstein]
 
-{% include image.html name="reservoir-dogs-laser-eyes.jpg" caption="Fiat is dying on the ground."%}
+[^bitstein]: Shout-out to bitstein for sharing his view on [Bitcoin governance](https://twitter.com/bitstein/status/901500957862899712?s=20&t=t19XNvc86E0Yi2xyRi69wA).
+
+{% include image.html name="reservoir-dogs-laser-eyes.jpg" caption="It's peaceful, I swear. Even with fiat dying on the ground."%}
 
 The question about what Bitcoin was and what the rules of the game have
 been are visible to all. Dispute arises when we want to define what
