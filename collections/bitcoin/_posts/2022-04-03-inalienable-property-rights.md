@@ -5,7 +5,6 @@ subtitle: "The Law, Language, Money, and Morality of Bitcoin"
 date: 2022-04-03
 blocktime: 730136
 image: /assets/images/jefferson-bastiat-hayek.jpg
-video: /assets/video/hayek.mp4
 redirect_from: /speech
 author: Gigi
 favorite: true
@@ -13,6 +12,11 @@ category: bitcoin
 tags:
  - Bitcoin
  - Writing
+---
+
+{% capture introVideo %}{{ 'assets/video/hayek.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=introVideo caption="Video bitcoinized by <a href='https://twitter.com/RD_btc'>RD ₿TC</a>, based on an edit by <a href='https://youtu.be/9-uo-KfnkhI'>Ampleforth</a>.<br/>Original source: <a href='https://youtu.be/s-k_Fc63tZI'>An interview with F.A. Hayek (1984)</a>" %}
+
 ---
 
 Law. Language. Money. The three paradigms of spontaneous and emergent
