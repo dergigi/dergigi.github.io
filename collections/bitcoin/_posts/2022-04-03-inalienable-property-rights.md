@@ -942,7 +942,8 @@ under tyranny, nobody can force you to think certain thoughts or take
 them away from you. \"Thoughts are free,\" as the German folk song goes.
 \"No person can know them, no hunter can shoot them.\"
 
-### \[TODO Embed: https://youtu.be/YVc0wBLri1A\]
+{% capture absoluteVideoURL %}{{ 'assets/video/die-gedanken-sind-frei.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=absoluteVideoURL %}
 
 Consequently, the rights and freedoms granted to you by Bitcoin are
 independent of the rights and freedoms granted by the state. Bitcoin
