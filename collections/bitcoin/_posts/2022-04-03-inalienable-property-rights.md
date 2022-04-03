@@ -518,19 +518,16 @@ value is linked to security, which is probably the most confusing thing
 about Bitcoin\'s strange loop of law, language, and money. If we can\'t
 rely on trust or violence, we have to rely on mathematics and money.
 
-This is why Bitcoin had to grow like
-an [organism](https://dergigi.com/2019/08/07/proof-of-life/) to become
-truly resilient. Without a trusted third party, both value and security
-have to grow organically over time. This is why Satoshi did not welcome
-too much unnecessary attention in the early days. \[Footnote: \"It would
-have been nice to get this attention in any other context. WikiLeaks has
-kicked the hornet\'s nest, and the swarm is headed towards us.\"
----[Satoshi
-Nakamoto](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/542/)\]
-It was his responsibility to protect Bitcoin when it was still a
-sapling. Bitcoin is not a sapling anymore, but the same forces are still
-at play: an endless loop of words and values, protecting themselves by
-running the numbers.
+This is why Bitcoin had to grow like an
+[organism](https://dergigi.com/2019/08/07/proof-of-life/) to become truly
+resilient. Without a trusted third party, both value and security have to grow
+organically over time. This is why Satoshi did not welcome too much unnecessary
+attention in the early days.[^hornets-nest] It was his responsibility to protect
+Bitcoin when it was still a sapling. Bitcoin is not a sapling anymore, but the
+same forces are still at play: an endless loop of words and values, protecting
+themselves by running the numbers.
+
+[^hornets-nest]: \"It would have been nice to get this attention in any other context. WikiLeaks has kicked the hornet\'s nest, and the swarm is headed towards us.\" ---[Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/542/)
 
 \[TODO: sat-bitcoin loop image\]
 
