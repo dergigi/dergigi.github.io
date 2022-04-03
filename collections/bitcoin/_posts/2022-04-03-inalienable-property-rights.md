@@ -3,7 +3,7 @@ layout: post
 title: "Inalienable Property Rights"
 subtitle: "The Law, Language, Money, and Morality of Bitcoin"
 date: 2022-04-03
-blocktime: 730136
+blocktime: 730245
 image: /assets/images/jefferson-bastiat-hayek.jpg
 redirect_from: /speech
 author: Gigi
