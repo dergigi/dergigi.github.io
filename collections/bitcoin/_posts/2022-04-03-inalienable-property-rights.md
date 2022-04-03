@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Inalienable Property Rights"
-subitle: "The Law, Language, Money, and Morality of Bitcoin"
+subtitle: "The Law, Language, Money, and Morality of Bitcoin"
 date: 2022-04-03
-blocktime: TODO
+blocktime: 730136
 image: /assets/images/jefferson-bastiat-hayek.jpg
 video: /assets/video/hayek.mp4
 redirect_from: /speech
