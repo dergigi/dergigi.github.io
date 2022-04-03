@@ -354,7 +354,7 @@ and I will still each have one apple. But if you have an idea and I have
 an idea and we exchange these ideas, then each of us will have two
 ideas.\"
 
-\[TODO: Apple Idea Image\]
+{% include image.html name="apples-and-ideas.png" %}
 
 These two sentences perfectly encapsulate the problem of digital money.
 You can\'t double-spend an apple, but when it comes to information,
@@ -409,7 +409,7 @@ fashion, and it goes something like this:
 Users, nodes, and miners are not exclusive roles. You might be one, two,
 or all three.
 
-\[TODO: Governance standoff image\]
+{% include image.html name="reservoir-dogs-laser-eyes.jpg" caption="Fiat is dying on the ground."%}
 
 The question about what Bitcoin was and what the rules of the game have
 been are visible to all. Dispute arises when we want to define what
