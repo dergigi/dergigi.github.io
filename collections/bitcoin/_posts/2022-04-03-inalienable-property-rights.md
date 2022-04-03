@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Inalienable Property Rights of Bitcoin"
-subittle: "The Law, Language, and Money of Bitcoin"
+title: "Inalienable Property Rights"
+subittle: "The Law, Language, Money, and Morality of Bitcoin"
 description: "TODO"
 date: 2022-04-03
 blocktime: TODO
