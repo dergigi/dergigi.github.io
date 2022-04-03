@@ -54,7 +54,7 @@ This is neither hard to see nor hard to understand: if you can dictate
 who gets the money, you can dictate who is well off and who is not. If
 you can decide who is allowed to create new money, you can decide who
 has to work for money and who gets it unjustly, with the stroke of a pen
-or the push of a button.\[1\] If you can control the flow of money, you
+or the push of a button.[^cantillion] If you can control the flow of money, you
 can decide who can pay, who can get paid, who can withdraw, who has
 access to their bank accounts, and who has access to financial
 infrastructure in general. In short: you can decide who will be
@@ -63,18 +63,12 @@ of life and death. Who gets to eat and who must starve; who gets to
 prosper, and who must perish.
 
 This is why questions on the control and issuance of money are first and
-foremost *ethical* questions.\[2\] It is a moral problem, not a
+foremost *ethical* questions.[^hulsmann] It is a moral problem, not a
 technical one.
 
-\[Footnote 1: This injustice is called the \'Cantillion Effect\' and is
-especially pronounced in fiat money because fiat money can be printed
-out of thin air. For monies like gold or bitcoin, there is no free lunch
-since the money is not made up. One has to dig it out of the ground. The
-fact that this ground is mathematical, as is the case with Bitcoin,
-doesn\'t matter much. If you have to perform work to find new units, the
-money is *not* fiat money.\]
+[^cantillion]: This injustice is called the \'Cantillion Effect\' and is especially pronounced in fiat money because fiat money can be printed out of thin air. For monies like gold or bitcoin, there is no free lunch since the money is not made up. One has to dig it out of the ground. The fact that this ground is mathematical, as is the case with Bitcoin, doesn\'t matter much. If you have to perform work to find new units, the money is *not* fiat money.
 
-\[Footnote 2: Jörg Guido Hülsmann, *The Ethics of Money Production*\]
+[^hulsmann]: Jörg Guido Hülsmann, *The Ethics of Money Production*
 
 The nature of money is as multifaceted as it is elusive. Without a deep
 understanding of money and an appreciation for its importance, it is
