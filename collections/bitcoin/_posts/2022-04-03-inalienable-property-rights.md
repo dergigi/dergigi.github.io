@@ -602,13 +602,11 @@ history that you can\'t simply make up---you have to bring it into
 existence by rolling the dice, by playing the game according to its
 rules.
 
-One of the clearest thinkers when it comes to this property of
-proof-of-work is probably Adam Gibson, who wrote at length about
-this [reification of
-information](https://reyify.com/blog/pow-a-pictorial-essay). Because
-thinking requires energy, and because playing in accordance with the
-rules requires thinking, Bitcoin\'s blocks are informational constructs
-that behave as if they have concrete, material existence.
+One of the clearest thinkers when it comes to this property of proof-of-work is
+probably Adam Gibson, who wrote at length about this [reification of
+information][reify]. Because thinking requires energy, and because playing in
+accordance with the rules requires thinking, Bitcoin\'s blocks are informational
+constructs that behave as if they have concrete, material existence.
 
 > Demanding a low entropy output from a hash function results in
 > a *costly signal which is very unambiguous and easy to
@@ -621,7 +619,9 @@ that behave as if they have concrete, material existence.
 > the only signals that are objective are the ones that
 > are **demonstrably costly**. \[\...\]
 >
-> <cite>Adam Gibson</cite>
+> <cite>[Adam Gibson][reify]</cite>
+
+[reify]: https://archive.ph/BJpZH
 
 Demonstrably costly signals are the only thing that can publicly prove
 that something has happened---without the need of any secret
@@ -630,8 +630,8 @@ this secret information. This is also why all good money needs to have
 unforgeable costliness, as Szabo pointed out in the past. Anything that
 doesn\'t have any real cost---cost that is immediately obvious and can
 be verified by anyone at a glance---can be trivially forged or simply
-made up. In the words of  [Hugo
-Nguyen](https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667):
+made up. In the words of [Hugo
+Nguyen](https://archive.ph/UsIOC):
 \"By attaching energy to a block, we give it \'form\', allowing it to
 have real weight & consequences in the physical world.\"
 
