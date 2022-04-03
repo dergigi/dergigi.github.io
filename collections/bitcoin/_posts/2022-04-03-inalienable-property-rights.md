@@ -750,7 +750,7 @@ are basically the sats in your wallet. The secret you know allows you to
 craft a magic spell---a transaction---that will transfer your sats to
 someone else (or yourself).
 
-\[TODO: Magic Spell Image\]
+{% include image.html name="abracadabra.png" %}
 
 It is this interplay of public and private information that defines
 ownership and property rights in Bitcoin, and it is the interplay of
@@ -882,7 +882,7 @@ done, the word has been spoken, and as soon as this information
 propagates to other players, the cat is out of the bag. Flesh became
 Word, and words---like ideas---are bulletproof.
 
-\[TODO: Potential for Violence image\]
+{% include image.html name="nonviolent.png" %}
 
 It is this transformation, the \"reification of information,\" as
 waxwing calls it, that makes bitcoin an inalienable right. You can hold
@@ -1050,7 +1050,7 @@ It is the asymmetry in cost that gives rise to the cryptoeconomical game
 theory of Bitcoin. Peaceful and voluntary cooperation; mutually assured
 preservation. Sovereignty through cryptography.
 
-\[TODO: Circularity image\]
+{% include image.html name="utxo-loop.png" %}
 
 Law, Language, and Money. A healthy trifecta of these three is
 absolutely essential for a free society to flourish. If freedom is a
