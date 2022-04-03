@@ -218,23 +218,23 @@ sacred, as it should be.
 
 ### Bitcoin is Free Speech Money
 
-Why is all of this important in the context of Bitcoin? As myself and
-others \[Footnote: Beautyon\] have argued many times before, every
-component of bitcoin is text, which makes bitcoin equivalent to speech.
-Bitcoin is *Free Speech Money*, both figuratively and literally.
+Why is all of this important in the context of Bitcoin? As myself and others
+have argued many times before, every component of bitcoin is text, which makes
+bitcoin equivalent to speech. Bitcoin is *Free Speech Money*, both figuratively
+and literally.
+
 
 What Bitcoin\'s code facilitates can be understood as a language game,
-an ongoing process of publication and rejection. \[Footnote: Warmke, C.
-(2021). What is bitcoin?. *Inquiry*, 1-43.\] Miners publish blocks, full
+an ongoing process of publication and rejection.[^warmke] Miners publish blocks, full
 nodes accept or reject said blocks, users publish transactions, ASIC
 chips publish hashes of random inputs, and so on. \"It is all text, all
-the time,\" as Beautyon has so succinctly put it. Consequently, as he
+the time,\" as Beautyon[^beautyon] has so succinctly put it. Consequently, as he
 points out, \"it cannot be regulated in a free country like the USA with
 guaranteed inalienable rights and a First Amendment that explicitly
 excludes the act of publishing from government oversight.\"
 
-\[Footnote: Why America Can\'t Regulate Bitcoin, Beautyon
-https://archive.is/yAOwZ\]
+[^beautyon]: Beautyon (2018). [*Why America Can’t Regulate Bitcoin*](https://archive.ph/yAOwZ)
+[^warmke]: Warmke, C. (2021). What is bitcoin?. *Inquiry*, 1-43.
 
 Understanding these fundamentals is important in more ways than one. If
 we mistake speech for something which it is not---ammunition, for
@@ -259,7 +259,9 @@ ridiculous. Information can take on virtually endless forms.
 Consequently, by outlawing a certain piece of information, you
 automatically ban books, music, and all other possible representations
 of said information, which, depending on your encoding, might
-be *anything*. \[Footnote: Goedel numbering\] 
+be *anything*.[^goedel]
+
+[^goedel]: Wikipedia contributors. (2022, March 23). [Gödel numbering](https://en.wikipedia.org/w/index.php?title=G%C3%B6del_numbering&oldid=1078810674). In Wikipedia, The Free Encyclopedia. Retrieved at 730,136
 
 We went through this in the past. The classification of RSA as munition
 led to exactly such a conflict of free speech, which is why t-shirts
