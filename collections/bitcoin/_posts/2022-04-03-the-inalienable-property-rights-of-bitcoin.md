@@ -40,7 +40,7 @@ Let\'s begin with the last question: the issuance and control of money.
 > Permit me to issue and control the money of a nation, and I care not
 > who makes its laws.
 >
-> ---Mayer Amschel Rothschild
+> <cite>Mayer Amschel Rothschild</cite>
 
 As Hayek pointed out in the *Denationalisation of Money*, the government
 monopoly on the issuance and control of money is the root of all
@@ -84,7 +84,7 @@ dissemination.
 > banking and monetary system, for if they did, I believe there would be
 > a revolution before tomorrow morning.
 >
-> ---Henry Ford
+> <cite>Henry Ford</cite>
 
 Money can be traded for goods and services. These goods and services are
 produced and offered by strangers. The \"stranger\" part is important
@@ -141,7 +141,7 @@ be allowed to publish? And, who should be allowed to speak?
 > Give me the liberty to know, to utter, and to argue freely according
 > to conscience, above all liberties.
 >
-> ---John Milton
+> <cite>John Milton</cite>
 
 > Without free speech no search for Truth is possible; without free
 > speech no discovery of Truth is useful; without free speech progress
@@ -151,7 +151,7 @@ be allowed to publish? And, who should be allowed to speak?
 > denial slays the life of the people and entombs the hope of the
 > race.
 >
-> ---Charles Bradlaugh
+> <cite>Charles Bradlaugh</cite>
 
 > Without an unfettered press, without liberty of speech, all the
 > outward forms and structures of free institutions are a sham, a
@@ -160,7 +160,7 @@ be allowed to publish? And, who should be allowed to speak?
 > impotent through fear, it makes no difference under what form of
 > government you live you are a subject and not a citizen.
 >
-> ---William E. Borah
+> <cite>William E. Borah</cite>
 
 Countless philosophers, authors, thinkers, activists, freedom fighters,
 saints, revolutionaries, and religious leaders have made this point in
@@ -178,7 +178,7 @@ dia-Logos, to use the Vervaekian vocabulary).
 > In the beginning was the Word, and the Word was with God, and the
 > Word was God. The same was in the beginning with God.
 >
-> ---Gospel of John
+> <cite>Gospel of John</cite>
 
 There is a reason why *the Logos* is sacred. The divine Word. Speech,
 statements, discourse. It is discourse that makes the freedom of
@@ -193,7 +193,7 @@ The U.S. constitution got this right:
 > assemble, and to petition the Government for a redress of
 > grievances.
 >
-> ---First Amendment to the United States Constitution
+> <cite>First Amendment to the United States Constitution</cite>
 
 Freedom of speech. Freedom of the press. It is the first amendment for a
 reason, since it is so unbelievably important. If we have free speech,
@@ -204,7 +204,7 @@ certainty of tyranny.
 > die together: And it is the terror of traitors and oppressors, and a
 > barrier against them.
 >
-> ---Cato, Letter Number 15
+> <cite>Cato, Letter Number 15</cite>
 
 > Liberty is meaningless where the right to utter one\'s thoughts and
 > opinions has ceased to exist. That, of all rights, is the dread of
@@ -214,7 +214,7 @@ certainty of tyranny.
 > allowed to reason of righteousness, temperance, and of a judgment to
 > come in their presence.
 >
-> ---Frederick Douglass
+> <cite>Frederick Douglass</cite>
 
 For all our flaws, this is the one thing we got right. The Logos is
 sacred, as it should be.
@@ -310,7 +310,7 @@ property can be violated, not vice-versa.
 > On the contrary, it was the fact that life, liberty, and property
 > existed beforehand that caused men to make laws in the first place.
 >
-> ---Frederic Bastiat, The Law
+> <cite>Frederic Bastiat, The Law</cite>
 
 The fact that physical things are scarce and can be stolen or destroyed
 is what brings property rights into existence in the first place.
@@ -352,7 +352,7 @@ information to its advantage, as Satoshi pointed out.
 > spend a coin. It takes advantage of the nature of information being
 > easy to spread but hard to stifle.
 >
-> ---Satoshi Nakamoto
+> <cite>Satoshi Nakamoto</cite>
 
 Let me repeat the second sentence for emphasis: Bitcoin takes advantage
 of the *nature of information being easy to spread but hard to stifle*.
@@ -392,7 +392,7 @@ behind said nodes. \[Footnote: Link to book\]
 > business lobby group---and they lost, because the market prevailed,
 > and activist investors said NO. And meant it.
 >
-> ---[Adam Back](https://twitter.com/adam3us/status/1505101863737307141?s=20&t=a3oT6r6nK54nhVC3f3q40g)
+> <cite>[Adam Back](https://twitter.com/adam3us/status/1505101863737307141?s=20&t=a3oT6r6nK54nhVC3f3q40g)</cite>
 
 This precedent is important if one wants to understand the various
 incentives and dynamics that secure the Bitcoin network. While
@@ -443,7 +443,7 @@ rules.
 > the core design was set in stone for the rest of its
 > lifetime.
 >
-> ---Satoshi Nakamoto
+> <cite>Satoshi Nakamoto</cite>
 
 This is why the blocksize war was not really a war about block size; it
 was a debate about the *soul* of Bitcoin. A dialogue about Bitcoin\'s
@@ -632,7 +632,7 @@ that behave as if they have concrete, material existence.
 > the only signals that are objective are the ones that
 > are **demonstrably costly**. \[\...\]
 >
-> ---Adam Gibson
+> <cite>Adam Gibson</cite>
 
 Demonstrably costly signals are the only thing that can publicly prove
 that something has happened---without the need of any secret
@@ -814,7 +814,7 @@ uneconomical, it is virtually impossible.\]
 > asymmetric defense advantage. It\'s like everyone is walking around
 > with a nuke proof personal force field.
 >
-> ---[Adam Back](https://twitter.com/adam3us/status/1505087191554351109?s=20&t=Sgn7g5fHzCV05gIaD4Q7cA)
+> <cite>[Adam Back](https://twitter.com/adam3us/status/1505087191554351109?s=20&t=Sgn7g5fHzCV05gIaD4Q7cA)</cite>
 
 Your private key is secure because no amount of compute will ever be
 able to guess it. It\'s about physics, not technology, as [Bruce
@@ -921,7 +921,7 @@ deeply. 
 
 > The code alone is sovereign. There is no exception.
 >
-> ---Erik Cason
+> <cite>Erik Cason</cite>
 
 Bitcoin provides an automated framework for trust-minimized, digital
 money. It defines the rules of the game and makes changing these rules
@@ -972,7 +972,7 @@ speaks Bitcoin\'s freedoms into existence: responsibility.
 > Freedom makes a huge requirement of every human being. With freedom
 > comes responsibility.
 >
-> ---Eleanor Roosevelt
+> <cite>Eleanor Roosevelt</cite>
 
 I see it as my responsibility to exercise these inalienable rights and
 stand for the values that Bitcoin embodies. \"Running the numbers is not
