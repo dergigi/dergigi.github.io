@@ -2,7 +2,6 @@
 layout: post
 title: "Inalienable Property Rights"
 subittle: "The Law, Language, Money, and Morality of Bitcoin"
-description: "TODO"
 date: 2022-04-03
 blocktime: TODO
 image: /assets/images/jefferson-bastiat-hayek.jpg
@@ -124,7 +123,7 @@ certain ventures? Answers to such questions are expressed in the language of
 money, which is why the flow of money is not dissimilar to the flow of
 information, or speech.
 
-[^gifts]: This includes gifts since you are trading your gift for reciprocity, karma, a friendly society, or similar ideas. See Hülsmann, Graeber. TODO: cite
+[^gifts]: This includes gifts since you are trading your gift for reciprocity, karma, a friendly society, or similar ideas. See Hülsmann, Graeber.
 
 This brings us to the next question. The next two, actually: who should
 be allowed to publish? And, who should be allowed to speak?
@@ -964,7 +963,7 @@ I see it as my responsibility to exercise these inalienable rights and
 stand for the values that Bitcoin embodies. \"Running the numbers is not
 a crime,\" as a good friend of mine once remarked. It is my
 responsibility to hold my own keys and run my own node. It is my
-responsibility to  [know the
+responsibility to [know the
 rules](https://www.youtube.com/watch?v=iik25wqIuFo). It is my
 responsibility to accept or refuse changes. It is my responsibility to
 exercise my right to free speech and free thought. It is my
