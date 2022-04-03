@@ -96,7 +96,7 @@ size of about 150 people.
 
 [^sscale]: Nick Szabo, *Money, Blockchains, and Social Scalability*
 
-\[TODO: Dunbar Number Image\]
+{% include image.html name="dunbars-number.png" %}
 
 Money, however, is not only used for scalability. It is also used for
 measurement. Thus, in the grand scheme of things, money is a measure of
@@ -263,7 +263,7 @@ led to exactly such a conflict of free speech, which is why t-shirts
 that have the forbidden information on them were printed in the first
 place: to show how ridiculous it all is.
 
-\[TODO: RSA shirt image\]
+{% include image.html name="rsa-shirt.jpg" caption="The Crypto Wars have never ended."%}
 
 [^map-territory]: Funnily enough, the encoding problem---the disconnect between the real world and the world of information---is at the root of the problem of digital money. Bitcoin solves this problem via its difficulty-adjusted proof-of-work algorithm, which, I believe, is the *only* way this problem can be solved. In Bitcoin, [the map is the territory](https://dergigi.com/memeworld).
 
