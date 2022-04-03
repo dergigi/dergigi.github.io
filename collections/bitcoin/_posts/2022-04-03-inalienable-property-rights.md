@@ -1095,3 +1095,15 @@ this limitation into existence: by shouldering the responsibility of
 running the numbers, by exercising your inalienable right to think and
 to speak. And through that, absolute Truth emerges---without the need to
 spill a single drop of blood.
+
+---
+
+*This essay is an amalgamation of multiple chapters of my upcoming book [21 Ways](https://21waysbook.com). Like my first book, it will be published under a [permissive license](https://dergigi.com/license/). You can [support me](https://dergigi.com/support/) in writing it.*
+
+---
+
+### Acknowledgments
+
+- Thanks to [John](https://twitter.com/johnkvallis), [Max](https://twitter.com/HillebrandMax/), [Erik](https://twitter.com/Erikcason), [Mr. Hodl](https://twitter.com/MrHodl/), and [my patrons](https://dergigi.com/patreon) for their valuable feedback on earlier drafts of this essay.
+
+---
