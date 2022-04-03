@@ -38,7 +38,9 @@ Let\'s begin with the last question: the issuance and control of money.
 ### Issuance and Control of Money {#Issuance-and-Control-of-Money}
 
 > Permit me to issue and control the money of a nation, and I care not
-> who makes its laws. ---Mayer Amschel Rothschild
+> who makes its laws.
+>
+> ---Mayer Amschel Rothschild
 
 As Hayek pointed out in the *Denationalisation of Money*, the government
 monopoly on the issuance and control of money is the root of all
@@ -80,7 +82,9 @@ dissemination.
 
 > It is well enough that people of the nation do not understand our
 > banking and monetary system, for if they did, I believe there would be
-> a revolution before tomorrow morning. ---Henry Ford
+> a revolution before tomorrow morning.
+>
+> ---Henry Ford
 
 Money can be traded for goods and services. These goods and services are
 produced and offered by strangers. The \"stranger\" part is important
@@ -135,7 +139,9 @@ be allowed to publish? And, who should be allowed to speak?
 ### Freedom of Speech (and Publication) {#Freedom-of-Speech-(and-Publication)}
 
 > Give me the liberty to know, to utter, and to argue freely according
-> to conscience, above all liberties. ---John Milton
+> to conscience, above all liberties.
+>
+> ---John Milton
 
 > Without free speech no search for Truth is possible; without free
 > speech no discovery of Truth is useful; without free speech progress
@@ -143,15 +149,18 @@ be allowed to publish? And, who should be allowed to speak?
 > life which the future holds for man. Better a thousandfold abuse of
 > free speech than denial of free speech. The abuse dies in a day; the
 > denial slays the life of the people and entombs the hope of the
-> race. ---Charles Bradlaugh
+> race.
+>
+> ---Charles Bradlaugh
 
 > Without an unfettered press, without liberty of speech, all the
 > outward forms and structures of free institutions are a sham, a
 > pretense---the sheerest mockery. If the press is not free; if speech
 > is not independent and untrammelled; if the mind is shackled or made
 > impotent through fear, it makes no difference under what form of
-> government you live you are a subject and not a citizen. ---William
-> E. Borah
+> government you live you are a subject and not a citizen.
+>
+> ---William E. Borah
 
 Countless philosophers, authors, thinkers, activists, freedom fighters,
 saints, revolutionaries, and religious leaders have made this point in
@@ -167,8 +176,9 @@ money lies in exchange, the purpose of speech lies in dialogue (or
 dia-Logos, to use the Vervaekian vocabulary).
 
 > In the beginning was the Word, and the Word was with God, and the
-> Word was God. The same was in the beginning with God. ---Gospel of
-> John
+> Word was God. The same was in the beginning with God.
+>
+> ---Gospel of John
 
 There is a reason why *the Logos* is sacred. The divine Word. Speech,
 statements, discourse. It is discourse that makes the freedom of
@@ -181,7 +191,9 @@ The U.S. constitution got this right:
 > or prohibiting the free exercise thereof; or abridging the freedom of
 > speech, or of the press; or the right of the people peaceably to
 > assemble, and to petition the Government for a redress of
-> grievances. ---First Amendment to the United States Constitution
+> grievances.
+>
+> ---First Amendment to the United States Constitution
 
 Freedom of speech. Freedom of the press. It is the first amendment for a
 reason, since it is so unbelievably important. If we have free speech,
@@ -190,7 +202,9 @@ certainty of tyranny.
 
 > Freedom of speech is the great bulwark of liberty; they prosper and
 > die together: And it is the terror of traitors and oppressors, and a
-> barrier against them. ---Cato, Letter Number 15
+> barrier against them.
+>
+> ---Cato, Letter Number 15
 
 > Liberty is meaningless where the right to utter one\'s thoughts and
 > opinions has ceased to exist. That, of all rights, is the dread of
@@ -198,7 +212,9 @@ certainty of tyranny.
 > know its power. Thrones, dominions, principalities, and powers,
 > founded in injustice and wrong, are sure to tremble, if men are
 > allowed to reason of righteousness, temperance, and of a judgment to
-> come in their presence. ---Frederick Douglass
+> come in their presence.
+>
+> ---Frederick Douglass
 
 For all our flaws, this is the one thing we got right. The Logos is
 sacred, as it should be.
@@ -292,7 +308,8 @@ property can be violated, not vice-versa.
 
 > Life, liberty, and property do not exist because men have made laws.
 > On the contrary, it was the fact that life, liberty, and property
-> existed beforehand that caused men to make laws in the first place.\"
+> existed beforehand that caused men to make laws in the first place.
+>
 > ---Frederic Bastiat, The Law
 
 The fact that physical things are scarce and can be stolen or destroyed
@@ -333,7 +350,9 @@ information to its advantage, as Satoshi pointed out.
 > In a nutshell, the network works like a [distributed timestamp
 > server](http://dergigi.com/time), stamping the first transaction to
 > spend a coin. It takes advantage of the nature of information being
-> easy to spread but hard to stifle. ---Satoshi Nakamoto
+> easy to spread but hard to stifle.
+>
+> ---Satoshi Nakamoto
 
 Let me repeat the second sentence for emphasis: Bitcoin takes advantage
 of the *nature of information being easy to spread but hard to stifle*.
@@ -371,8 +390,9 @@ behind said nodes. \[Footnote: Link to book\]
 > change the rules\]---85% of miners, many big-block philosophical
 > supporters in exchanges, payment processors, a superficially daunting
 > business lobby group---and they lost, because the market prevailed,
-> and activist investors said NO. And meant it. ---[Adam
-> Back](https://twitter.com/adam3us/status/1505101863737307141?s=20&t=a3oT6r6nK54nhVC3f3q40g)
+> and activist investors said NO. And meant it.
+>
+> ---[Adam Back](https://twitter.com/adam3us/status/1505101863737307141?s=20&t=a3oT6r6nK54nhVC3f3q40g)
 
 This precedent is important if one wants to understand the various
 incentives and dynamics that secure the Bitcoin network. While
@@ -421,7 +441,9 @@ rules.
 
 > The nature of Bitcoin is such that once version 0.1 was released,
 > the core design was set in stone for the rest of its
-> lifetime.\"---Satoshi Nakamoto
+> lifetime.
+>
+> ---Satoshi Nakamoto
 
 This is why the blocksize war was not really a war about block size; it
 was a debate about the *soul* of Bitcoin. A dialogue about Bitcoin\'s
@@ -608,7 +630,9 @@ that behave as if they have concrete, material existence.
 > environment, one in which there are stakes, picking out the \"real\"
 > from the \"fake\" means identifying signals which are objective, and
 > the only signals that are objective are the ones that
-> are **demonstrably costly**. \[\...\] ---Adam Gibson
+> are **demonstrably costly**. \[\...\]
+>
+> ---Adam Gibson
 
 Demonstrably costly signals are the only thing that can publicly prove
 that something has happened---without the need of any secret
@@ -788,8 +812,9 @@ uneconomical, it is virtually impossible.\]
 
 > With cryptography in the digital domain there is an impenetrable
 > asymmetric defense advantage. It\'s like everyone is walking around
-> with a nuke proof personal force field. ---[Adam
-> Back](https://twitter.com/adam3us/status/1505087191554351109?s=20&t=Sgn7g5fHzCV05gIaD4Q7cA)
+> with a nuke proof personal force field.
+>
+> ---[Adam Back](https://twitter.com/adam3us/status/1505087191554351109?s=20&t=Sgn7g5fHzCV05gIaD4Q7cA)
 
 Your private key is secure because no amount of compute will ever be
 able to guess it. It\'s about physics, not technology, as [Bruce
@@ -894,7 +919,9 @@ works---[*Cryptosovereignty*](https://cryptosovereignty.org/) & 
 ---in full if you want to understand said nuances and implications
 deeply. 
 
-> The code alone is sovereign. There is no exception. ---Erik Cason
+> The code alone is sovereign. There is no exception.
+>
+> ---Erik Cason
 
 Bitcoin provides an automated framework for trust-minimized, digital
 money. It defines the rules of the game and makes changing these rules
@@ -943,7 +970,9 @@ speaks Bitcoin\'s freedoms into existence: responsibility.
 ### Responsibility {#Responsibility}
 
 > Freedom makes a huge requirement of every human being. With freedom
-> comes responsibility. ---Eleanor Roosevelt
+> comes responsibility.
+>
+> ---Eleanor Roosevelt
 
 I see it as my responsibility to exercise these inalienable rights and
 stand for the values that Bitcoin embodies. \"Running the numbers is not
