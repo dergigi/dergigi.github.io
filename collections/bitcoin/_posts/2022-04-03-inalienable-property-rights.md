@@ -43,7 +43,9 @@ Let\'s begin with the last question: the issuance and control of money.
 
 As Hayek pointed out in the *Denationalisation of Money*, the government
 monopoly on the issuance and control of money is the root of all
-monetary evil. \[Footnote / cite\]
+monetary evil.[^hayek]
+
+[^hayek]: Hayek, F. A. (2009). [Denationalisation of money: the argument refined.](https://mises.org/library/denationalisation-money-argument-refined) Ludwig von Mises Institute.
 
 If you control the money, you control the purchasing power. Which, in
 turn, allows you to control most other things.
@@ -789,18 +791,14 @@ of asymmetries: cryptographic ones and *economic* ones.
 Your *private* information is secured by *secrecy* and strong
 cryptography. Your *public* information is secured by sunk costs and the
 incentives to be reimbursed for said costs. The first security guarantee
-is *mathematical*; the second is *economic*. 
+is *mathematical*; the second is *economic*.[^its-all-economics] 
 
 Both are rooted in the physical limits of computation. Both massively
 favor the defender, which is why---if you are absolutely hell-bent on
 using combat language---bitcoin is a shield, not a sword. It is
 indestructible bulletproof glass, not a gun.
 
-\[Footnote: Of course, the relationship between a private key and a
-public key is mathematical as well, and trying to crack this
-relationship is also a problem of cost, but it is so outrageously
-difficult to get a private key from a public key that it is not only
-uneconomical, it is virtually impossible.\]
+[^its-all-economics]: Of course, even though the relationship between a private key and a public key is mathematical, trying to crack this relationship is again a problem of cost. But it is so outrageously difficult to get a private key from a public key that it is not only uneconomical, it is virtually impossible.
 
 > With cryptography in the digital domain there is an impenetrable
 > asymmetric defense advantage. It\'s like everyone is walking around
@@ -1037,14 +1035,12 @@ existence. A money that creates and enforces its own set of laws:
 -   You shall not inflate.
 -   You shall not counterfeit.
 
-This is the essence \[Footnote: Soul, cite Hasu\] of the laws of
-Bitcoin, a global and neutral money accessible to all. Anyone can
-enforce these laws through speaking and listening with their nodes:
-accepting valid messages and rejecting those that break the rules.
-Anyone can contribute to the cumulative shield that protects Bitcoin\'s
-past. Anyone can craft transactions and run the numbers that define the
-future. All that\'s needed is a way to do the math and a way to
-communicate with others.
+This is the essence of the laws of Bitcoin, a global and neutral money
+accessible to all. Anyone can enforce these laws through speaking and listening
+with their nodes: accepting valid messages and rejecting those that break the
+rules. Anyone can contribute to the cumulative shield that protects Bitcoin\'s
+past. Anyone can craft transactions and run the numbers that define the future.
+All that\'s needed is a way to do the math and a way to communicate with others.
 
 Anyone can play according to their own set of rules. It is overlap and
 agreement that makes Bitcoin\'s rules, not authority.
