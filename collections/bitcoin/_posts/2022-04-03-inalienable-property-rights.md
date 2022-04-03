@@ -229,7 +229,7 @@ guaranteed inalienable rights and a First Amendment that explicitly
 excludes the act of publishing from government oversight.\"
 
 [^beautyon]: Beautyon (2018). [*Why America Can’t Regulate Bitcoin*](https://archive.ph/yAOwZ)
-[^warmke]: Warmke, C. (2021). What is bitcoin?. *Inquiry*, 1-43.
+[^warmke]: Warmke, C. (2021). [*What is bitcoin?*](https://philpapers.org/go.pl?id=WARWIB&proxyId=&u=https%3A%2F%2Fcraigwarmke.com%2Fs%2FWIB.pdf). *Inquiry*, 1-43.
 
 Understanding these fundamentals is important in more ways than one. If
 we mistake speech for something which it is not---ammunition, for
