@@ -468,16 +468,16 @@ questions---are in consensus with the Bitcoin network.
 -   Who should be allowed to issue and control the money? Everyone and
     no one.
 
-The answer to the last question shines light on a common misconception
-in Bitcoin: miners are not creating bitcoin; they
-are *discovering* bitcoin that already exists in the mathematical space
-defined by the protocol. The issuance of bitcoin is [fixed in
-time](https://dergigi.com/2021/01/14/bitcoin-is-time/), not computation.
-It is pre-determined via the rules of the system and completely
-unrelated to its energy expenditure. Issuance and security---and
-transaction throughput, for that matter---are completely orthogonal to
-each other, as Pierre Rochard \[Footnote: Noded 78, 32:50\] and others
-have correctly pointed out in the past.
+The answer to the last question shines light on a common misconception in
+Bitcoin: miners are not creating bitcoin; they are *discovering* bitcoin that
+already exists in the mathematical space defined by the protocol. The issuance
+of bitcoin is [fixed in time](https://dergigi.com/2021/01/14/bitcoin-is-time/),
+not computation. It is pre-determined via the rules of the system and completely
+unrelated to its energy expenditure. Issuance and security---and transaction
+throughput, for that matter---are completely orthogonal to each other, as Pierre
+Rochard[^noded] and others have correctly pointed out in the past.
+
+[^noded]: Noded 78, [32:50](https://pod.link/1308074867/episode/7ba1dfec402781fa77b57359c3a6fe7c)
 
 Above all, the question that is the hardest to grasp for those new to
 Bitcoin is the question of *who is in charge of the rules*, which brings
