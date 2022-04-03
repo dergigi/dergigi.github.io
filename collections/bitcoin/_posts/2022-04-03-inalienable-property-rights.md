@@ -723,7 +723,7 @@ someone tried to break the glass.
 The whole point of Bitcoin is to remove humans from the issuance and
 control of money. As Szabo put it: \"\[Bitcoin\] implements data
 integrity via computer science rather than via \'call the cops\'\".
-Nobody can help you if you lose forget your private key. Nobody can
+Nobody can help you if you <s>lose</s> forget your private key. Nobody can
 reverse a transaction once it is confirmed and buried beneath a couple
 of blocks. It doesn\'t matter who you call.
 
