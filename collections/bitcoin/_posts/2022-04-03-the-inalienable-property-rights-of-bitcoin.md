@@ -35,7 +35,7 @@ makes all of it hang together.
 
 Let\'s begin with the last question: the issuance and control of money.
 
-### Issuance and Control of Money {#Issuance-and-Control-of-Money}
+### Issuance and Control of Money
 
 > Permit me to issue and control the money of a nation, and I care not
 > who makes its laws.
@@ -136,7 +136,7 @@ not dissimilar to the flow of information, or speech.
 This brings us to the next question. The next two, actually: who should
 be allowed to publish? And, who should be allowed to speak?
 
-### Freedom of Speech (and Publication) {#Freedom-of-Speech-(and-Publication)}
+### Freedom of Speech (and Publication)
 
 > Give me the liberty to know, to utter, and to argue freely according
 > to conscience, above all liberties.
@@ -219,7 +219,7 @@ certainty of tyranny.
 For all our flaws, this is the one thing we got right. The Logos is
 sacred, as it should be.
 
-### Bitcoin is Free Speech Money {#Bitcoin-is-Free-Speech-Money}
+### Bitcoin is Free Speech Money
 
 Why is all of this important in the context of Bitcoin? As myself and
 others \[Footnote: Beautyon\] have argued many times before, every
@@ -291,7 +291,7 @@ Which brings us to the question of enforcement, and the last two
 questions of our initial list: Who should be allowed to have property?
 And who should be allowed to defend said property?
 
-### Enforcement & Defense of Property Rights {#Enforcement-&amp;-Defense-of-Property-Rights}
+### Enforcement & Defense of Property Rights
 
 In the physical realm, property rights are enforced by violence or the
 prospect thereof. It doesn\'t matter much if an individual, the Mafia,
@@ -458,7 +458,7 @@ again. It is an unavoidable consequence of any decentralized game.
 Everyone is free to play by their own rules. Everyone is free to fork
 off.
 
-### A Strange Loop of Law, Language, and Values {#A-Strange-Loop-of-Law,-Language,-and-Values}
+### A Strange Loop of Law, Language, and Values
 
 Allow me to revisit the moral questions that we outlined in the
 beginning and answer them on my behalf---which is to say Bitcoin\'s
@@ -540,7 +540,7 @@ running the numbers.
 \[TODO: sat-bitcoin loop image\]
 
 
-### Looting the Loop  {#Looting-the-Loop}
+### Looting the Loop 
 
 Because Bitcoin is just information, it has to use information to
 protect other information via a process of *hiding* and *binding*. The
@@ -730,7 +730,7 @@ vault made of this substance, and because it can *only* protect its
 native asset, it is as if this glass vault would empty itself as soon as
 someone tried to break the glass.
 
-### Ten-tenths of the Law {#Ten-tenths-of-the-Law}
+### Ten-tenths of the Law
 
 The whole point of Bitcoin is to remove humans from the issuance and
 control of money. As Szabo put it: \"\[Bitcoin\] implements data
@@ -776,7 +776,7 @@ is all that\'s needed to create a valid transaction. Your node is all
 that\'s needed to validate said transactions. Your miner has the power
 to preserve the past. In Bitcoin, you truly are sovereign.
 
-### Cryptosovereignty through Cryptoeconomics {#Cryptosovereignty-through-Cryptoeconomics}
+### Cryptosovereignty through Cryptoeconomics
 
 Because bitcoin is digital money without any central authority,
 enforcement has to happen via cryptography and the cost of breaking
@@ -846,7 +846,7 @@ the game can be played anonymously, all a dishonest player can do is
 make moves in the game itself: by speaking words, by providing
 information to other players.
 
-### Non-Violent Play {#Non-Violent-Play}
+### Non-Violent Play
 
 Here is the real innovation that Bitcoin brings: Nakamoto Consensus
 allows us to settle disputes *without* the threat of violence. Disputes
@@ -943,7 +943,7 @@ under tyranny, nobody can force you to think certain thoughts or take
 them away from you. \"Thoughts are free,\" as the German folk song goes.
 \"No person can know them, no hunter can shoot them.\"
 
-### \[TODO Embed: https://youtu.be/YVc0wBLri1A\] {#[TODO-Embed:-https://youtu.be/YVc0wBLri1A]}
+### \[TODO Embed: https://youtu.be/YVc0wBLri1A\]
 
 Consequently, the rights and freedoms granted to you by Bitcoin are
 independent of the rights and freedoms granted by the state. Bitcoin
@@ -967,7 +967,7 @@ exist.
 This, finally, brings me to the last bend of the Gordian knot that
 speaks Bitcoin\'s freedoms into existence: responsibility.
 
-### Responsibility {#Responsibility}
+### Responsibility
 
 > Freedom makes a huge requirement of every human being. With freedom
 > comes responsibility.
@@ -1027,7 +1027,7 @@ individuals that have 12 words stored somewhere; individuals that
 believe in the core value of Bitcoin in the first place: financial
 freedom and the separation of money and state.
 
-### Conclusion {#Conclusion}
+### Conclusion
 
 Law, Language, and Money. Out of these three, only law and language were
 allowed to evolve, as Hayek pointed out. The money was captured, by
