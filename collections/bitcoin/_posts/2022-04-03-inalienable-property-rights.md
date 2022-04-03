@@ -496,7 +496,7 @@ in the game are something they value. It is this [idea-value feedback
 loop](https://dergigi.com/2019/05/01/bitcoins-gravity/#loop) that brings
 economic value into existence.
 
-\[TODO: Idea-value-feedback-loop image\]
+{% include image.html name="idea-value-feedback-loop.png" %}
 
 Bitcoin is so weird because it does the seemingly impossible: it pulls
 itself up from the bootstraps, becoming more valuable and more secure as
@@ -527,8 +527,7 @@ themselves by running the numbers.
 
 [^hornets-nest]: \"It would have been nice to get this attention in any other context. WikiLeaks has kicked the hornet\'s nest, and the swarm is headed towards us.\" ---[Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/542/)
 
-\[TODO: sat-bitcoin loop image\]
-
+{% include image.html name="bitcoin-sats-loop.png" %}
 
 ### Looting the Loop 
 
