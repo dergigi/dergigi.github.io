@@ -583,7 +583,7 @@ In Bitcoin, *anyone* can look at the block hash of the current block,
 that a lot of work---or, in other words: time, energy, and money---went
 into creating this string:
 
-0000000000000000000627b7cbed46b1184677d48fef56649ef269bc3bfc345c
+    0000000000000000000627b7cbed46b1184677d48fef56649ef269bc3bfc345c
 
 It was *costly* to find this number. Someone or something had to think
 very hard to be able to speak it. The reason why we can be so confident
