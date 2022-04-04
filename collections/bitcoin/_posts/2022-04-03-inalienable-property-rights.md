@@ -574,7 +574,7 @@ Remember that money is just a ledger, a list of who owes what to whom.
 If we want this ledger to be trustworthy, it needs to
 be *public* and *auditable*. Further, we need strong assurances
 of *authenticity*, i.e., we need to be able to *trustlessly verify* that
-nobody tempered with past records and that the records are not made up.
+nobody tampered with past records and that the records are not made up.
 That\'s why we need the [costly
 signal](https://reyify.com/blog/pow-a-pictorial-essay) of proof-of-work:
 to create a past that is unfathomably expensive to fake. You are bound
