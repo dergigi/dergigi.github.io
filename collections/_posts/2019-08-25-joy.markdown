@@ -10,6 +10,11 @@ category: photography
 tags:
   - Photography
   - Travel
+translations:
+ - language: German
+   url: https://telegra.ph/Freude-03-24
+   author: DerGeier
+   author_url: https://twitter.com/DerGeier21
 ---
 
 > Occasionally in life, there are those moments of unutterable fulfillment which
