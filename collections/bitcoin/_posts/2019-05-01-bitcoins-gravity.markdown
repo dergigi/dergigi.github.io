@@ -36,6 +36,10 @@ translations:
    url: https://explicabitcoin.medium.com/a-gravidade-do-bitcoin-a50685170793
    author: Explica Bitcoin
    author_url: https://twitter.com/BitcoinExplica
+ - language: German
+   url: https://telegra.ph/Bitcoins-Anziehungskraft---Wie-Feedbackschleifen-zwischen-Idee-und-Wert-die-Menschen-anziehen-03-18
+   author: DerGeier
+   author_url: https://twitter.com/DerGeier21
 ---
 
 Bitcoin is different things to different people. Whatever it might be to
