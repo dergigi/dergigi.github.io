@@ -12,6 +12,11 @@ category: bitcoin
 tags:
  - Bitcoin
  - Writing
+translations:
+ - language: German
+   url: https://aprycot.media/blog/unveraeusserliche-eigentumsrechte-recht-sprache-geld-und-moral-von-bitcoin/
+   author: DerGeier & stfano
+   author_url: https://aprycot.media/content-plebs/
 ---
 
 {% capture introVideo %}{{ 'assets/video/hayek.mp4' | absolute_url }}{% endcapture %}
