@@ -14,6 +14,10 @@ translations:
    url: https://aprycot.media/blog/das-ei-des-phoenix/
    author: Geronimo & Kid
    author_url: https://twitter.com/aprycotmedia/status/1505086631778390019?s=20&t=sjSX7uHswRwGbNnLLWXqsw
+ - language: German (audio version)
+   url: https://pod.link/1616536976/episode/19cd3e9e55bd1cbf1246e678dd9cf754
+   author: Krid
+   author_url: https://twitter.com/Kridforreal
 tags:
  - Bitcoin
  - Writing
