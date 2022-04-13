@@ -17,6 +17,10 @@ translations:
    url: https://aprycot.media/blog/unveraeusserliche-eigentumsrechte-recht-sprache-geld-und-moral-von-bitcoin/
    author: DerGeier & stfano
    author_url: https://aprycot.media/content-plebs/
+ - language: English (video version)
+   url: https://youtu.be/oBApGvwkdGs
+   author:  Till Musshoff
+   author_url: https://twitter.com/bPGTill
 ---
 
 {% capture introVideo %}{{ 'assets/video/hayek.mp4' | absolute_url }}{% endcapture %}
