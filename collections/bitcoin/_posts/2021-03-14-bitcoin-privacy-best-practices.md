@@ -173,9 +173,9 @@ trans­ac­tional best practices such as collab­o­ra­tive CoinJoin
 trans­ac­tions will ensure that your privacy is protected going forward.
 While CoinJoin trans­ac­tions are nuanced, user-friendly software exists
 to help you create and automate these kinds of trans­ac­tions.
-Samourai's [Whirlpool](https://samouraiwallet.com/whirlpool)is a great
-solution for Android users, for example. There is also JoinMarket,
-which, thanks to projects like
+Samourai's [Whirlpool](https://samouraiwallet.com/whirlpool) is a great
+solution for Android users, for example. There is also JoinMarket, 
+which, thanks to projects like 
 [JoininBox](https://github.com/openoms/joininbox), can be set up quite
 easily on your own node. Note that Swan offers the ability to
 [auto-withdraw your
