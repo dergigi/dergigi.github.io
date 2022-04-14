@@ -37,7 +37,7 @@ for idx, row in enumerate(articles.get_all_values()):
                 f"language: {translation_language}\n"
                 f"author: {translation_author}\n"
                 f"author_url: {translation_profile}\n"
-                f"url: {translation_link}\n"
+                f"link: {translation_link}\n"
                 f"archive: {translation_archive}\n"
                 f"---\n")
 
