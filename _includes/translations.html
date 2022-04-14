@@ -1,7 +1,9 @@
+{% capture code %}{{ page.redirect_from | replace: '/', '' }}{% endcapture %}
 {% if include.translations %}
 {% assign translations = include.translations %}
 {% else %}
-{% assign translations = page.translations %}
+{% assign scraped_translations = site.translations | where: "code", code %}
+{% assign translations = page.translations | concat: scraped_translations %}
 {% endif %}
 
 {% if translations %}
@@ -14,7 +16,7 @@
 {% if translation.archive %}
 <a href="{{ translation.archive }}" target="_blank">🔗</a>
 {% endif %}
-<a href="{{ translation.url }}" target="_blank">{{ translation.language }} translation</a>
+<a href="{{ translation.link }}" target="_blank">{{ translation.language }} translation</a>
 by
 <a href="{{ translation.author_url }}" target="_blank">{{ translation.author }}</a>
 </li>
