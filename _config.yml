@@ -34,6 +34,9 @@ collections:
     title: Threads
     output: true
     permalink: /threads/:slug
+  translations:
+    title: Translations
+    output: false
   books:
     title: Books
     output: true
