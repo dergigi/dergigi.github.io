@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% capture code %}{{ page.redirect_from | replace: '/', '' }}{% endcapture %}
 <div class="post">
   <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
     <div class="post__header section-padding--double">
@@ -20,8 +21,9 @@ layout: default
           {% capture sourceHost %}{{ page.source | remove_first: "https://" | split: "/" | first | remove_first: "www." }}{% endcapture %}
           <a href="{{ page.source }}" title="Also published on {{ sourceHost }}" target="_blank" class="post__source" itemprop="isBasedOn">{{ sourceHost }}</a>
         {% endif %}
-        {% if page.translations %}
-          {% capture numTrans %}{{ page.translations | size }}{% endcapture %}
+        {% assign translations = site.translations | where: "code", code %}
+        {% if (translations | size) > 0 %}
+          {% capture numTrans %}{{ translations | size }}{% endcapture %}
           <a href="#translations" class="post__source">{{ numTrans }}
             {% if numTrans == '1' %}
               translation
