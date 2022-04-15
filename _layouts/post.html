@@ -22,10 +22,10 @@ layout: default
           <a href="{{ page.source }}" title="Also published on {{ sourceHost }}" target="_blank" class="post__source" itemprop="isBasedOn">{{ sourceHost }}</a>
         {% endif %}
         {% assign translations = site.translations | where: "code", code %}
-        {% if (translations | size) > 0 %}
-          {% capture numTrans %}{{ translations | size }}{% endcapture %}
+        {% assign numTrans = translations | size %}
+        {% if numTrans > 0 %}
           <a href="#translations" class="post__source">{{ numTrans }}
-            {% if numTrans == '1' %}
+            {% if numTrans == 1 %}
               translation
             {% else %}
               translations

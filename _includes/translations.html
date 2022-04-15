@@ -3,9 +3,10 @@
 {% assign translations = include.translations %}
 {% else %}
 {% assign translations = site.translations | where: "code", code %}
+{% assign numTrans = translations | size %}
 {% endif %}
 
-{% if translations %}
+{% if numTrans > 0 %}
 {% if include.hide_heading != true %}
 <h3 id="translations">Translations</h3>
 {% endif %}
