@@ -2,6 +2,7 @@
 layout: post
 title: "Inalienable Property Rights"
 subtitle: "The Law, Language, Money, and Morality of Bitcoin"
+description: "If speech and the free exercise thereof is sacred, then Bitcoin is sacred, because all that Bitcoin requires of you is to think and to speak."
 date: 2022-04-03
 blocktime: 730245
 image: /assets/images/jefferson-bastiat-hayek.jpg
