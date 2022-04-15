@@ -29,7 +29,7 @@
 
 <!-- Lightning Address for Alby's Value4Value extensions -->
 {% capture shortName %}{{ page.redirect_from | replace: '/', '' }}{% endcapture %}
-{% capture lightningAddress %}{% if shortName %}{{ shortName }}{% else %}{{ 's@ts.dergigi.com' }}{% endif %}{% endcapture %}
+{% capture lightningAddress %}{% if shortName != '' %}{{ shortName }}{% else %}{{ 's' }}{% endif %}@ts.dergigi.com{% endcapture %}
 <meta name="lightning" content="lnurlp:{{ lightningAddress }}"/>
 
 <!-- Twitter cards -->
