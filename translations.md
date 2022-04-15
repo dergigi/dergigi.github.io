@@ -33,9 +33,12 @@ Find a list of translations below. If a translation is missing please [let me kn
 ---
 
 {% for post in site.categories.bitcoin %}
-{% if post.translations %}
+{% assign code = post.redirect_from | replace: '/', '' %}
+{% assign translations = site.translations | where: "code", code %}
+{% assign numTrans = translations | size %}
+{% if numTrans > 0 %}
 ### {{ post.title }} [[en]({{ post.url }})]
-{% include translations.html translations=post.translations hide_heading=true hide_link=true %}
+{% include translations.html translations=translations hide_heading=true hide_link=true %}
 {% endif %}
 {% endfor %}
 
@@ -46,7 +49,10 @@ Find a list of translations below. If a translation is missing please [let me kn
 The following articles haven't been translated yet:
 
 {% for post in site.categories.bitcoin %}
-{% if post.translations %}
+{% assign code = post.redirect_from | replace: '/', '' %}
+{% assign translations = site.translations | where: "code", code %}
+{% assign numTrans = translations | size %}
+{% if numTrans > 0 %}
 {% else %}
 - [{{ post.title }}]({{ post.url }})
 {% endif %}
