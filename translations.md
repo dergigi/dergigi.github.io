@@ -25,13 +25,6 @@ Find a list of translations below. If a translation is missing please [let me kn
 
 ---
 
-### Book: 21 Lessons [[en][21lessons]]
-
-* [Multiple translations][21trans] by various translators
-
-
----
-
 {% for post in site.categories.bitcoin %}
 {% assign code = post.redirect_from | replace: '/', '' %}
 {% assign translations = site.translations | where: "code", code %}
@@ -41,6 +34,12 @@ Find a list of translations below. If a translation is missing please [let me kn
 {% include translations.html translations=translations hide_heading=true hide_link=true %}
 {% endif %}
 {% endfor %}
+
+---
+
+### Book: 21 Lessons [[en][21lessons]]
+
+* [Multiple translations][21trans] by various translators
 
 ---
 
