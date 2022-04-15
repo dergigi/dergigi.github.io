@@ -44,19 +44,13 @@ Find a list of translations below. If a translation is missing please [let me kn
 
 ---
 
-### Translations wanted!
+### Thank You 🧡
 
-The following articles haven't been translated yet:
+{% assign translators = site.translations | map: "author" %}
 
-{% for post in site.categories.bitcoin %}
-{% assign code = post.redirect_from | replace: '/', '' %}
-{% assign translations = site.translations | where: "code", code %}
-{% assign numTrans = translations | size %}
-{% if numTrans > 0 %}
-{% else %}
-- [{{ post.title }}]({{ post.url }})
-{% endif %}
-{% endfor %}
+A huge _thank you_ to all translators that provided their time and talent:
+
+{{ translators | uniq | join: ", " }}.
 
 ---
 
