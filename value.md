@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Value for Value
-subtitle: An Ethical Monetization Model for Information
+subtitle: Time, Talent, and Treasure
 image: /assets/images/bitcoin/value4value.png
 ---
 
@@ -29,6 +29,15 @@ provided on a value for value basis.
   </div>
 </div>
 
+### Time, Talent, Treasure
+
+While treasure in the form of sats is very welcome, *time* and *talent* is very
+much appreciated too!  If you can't part with your hard-earned sats, there are
+[other ways to support me][support]. You can [remix or translate][translations]
+my work, create an audio or video version, or simply take some time to send it
+to a friend. You can also take some time to [review] my book, which helps to
+feed the algorithmic gods of our present reality.
+
 For my long-form thoughts on value-for-value see the following:
 
 - [Dear Netizen][netizen]
@@ -38,10 +47,10 @@ For my long-form thoughts on value-for-value see the following:
 
 ![Bitcoin is Love](/assets/images/bitcoin/bitcoin-is-love.png)
 
-If you can't part with your hard-earned sats, there
-are [other ways to support me][support].
 
 [license]: {{ '/license' | absolute_url }}
 [support]: {{ '/support' | absolute_url }}
 [busking]: {{ '/busking' | absolute_url }}
+[translations]: {{ '/translations' | absolute_url }}
 [netizen]: {{ '/dear-netizen' | absolute_url }}
+[review]: https://21lessons.com/reviews/

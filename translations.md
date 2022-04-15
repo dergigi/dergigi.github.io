@@ -25,12 +25,18 @@ Find a list of translations below. If a translation is missing please [let me kn
 
 ---
 
+> The plant must spring again from its seed, or it will bear no flower.
+>
+> <cite>Percy Bysshe Shelley</cite>
+
+---
+
 {% for post in site.categories.bitcoin %}
 {% assign code = post.redirect_from | replace: '/', '' %}
 {% assign translations = site.translations | where: "code", code %}
 {% assign numTrans = translations | size %}
 {% if numTrans > 0 %}
-### {{ post.title }} [[en]({{ post.url }})]
+### [#]({{ post.url }}) {{ post.title }} ({{numTrans}})
 {% include translations.html translations=translations hide_heading=true hide_link=true %}
 {% endif %}
 {% endfor %}
@@ -47,9 +53,12 @@ Find a list of translations below. If a translation is missing please [let me kn
 
 {% assign translators = site.translations | map: "author" %}
 
-A huge _thank you_ to all translators that provided their time and talent:
+At least {{ translators | uniq | size }} people were involved in creating more
+than {{ site.translations | size }} translations and remixes of my writing.
+*Thank you* for providing your [time and talent][support]:
 
-{{ translators | uniq | join: ", " }}.
+*{{ translators | uniq | join: ", " }}.*
+
 
 ---
 
@@ -64,6 +73,7 @@ A huge _thank you_ to all translators that provided their time and talent:
 
 [contact]: {{ '/contact' | absolute_url }}
 [license]: {{ '/license' | absolute_url }}
+[support]: {{ '/support' | absolute_url }}
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
 [21lessons]: https://21lessons.com
 [21trans]: https://21lessons.com/translations
