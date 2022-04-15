@@ -2,8 +2,7 @@
 {% if include.translations %}
 {% assign translations = include.translations %}
 {% else %}
-{% assign scraped_translations = site.translations | where: "code", code %}
-{% assign translations = page.translations | concat: scraped_translations %}
+{% assign translations = site.translations | where: "code", code %}
 {% endif %}
 
 {% if translations %}
