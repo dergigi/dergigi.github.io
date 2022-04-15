@@ -55,7 +55,7 @@ Find a list of translations below. If a translation is missing please [let me kn
 
 At least {{ translators | uniq | size }} people were involved in creating more
 than {{ site.translations | size }} translations and remixes of my writing.
-*Thank you* for providing your [time and talent][value]:
+*Thank you* for providing your [time and talent][support]:
 
 *{{ translators | uniq | join: ", " }}.*
 
@@ -73,7 +73,7 @@ than {{ site.translations | size }} translations and remixes of my writing.
 
 [contact]: {{ '/contact' | absolute_url }}
 [license]: {{ '/license' | absolute_url }}
-[value]: {{ '/value' | absolute_url }}
+[support]: {{ '/support' | absolute_url }}
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
 [21lessons]: https://21lessons.com
 [21trans]: https://21lessons.com/translations
