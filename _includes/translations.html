@@ -1,10 +1,12 @@
+{% capture code %}{{ page.redirect_from | replace: '/', '' }}{% endcapture %}
 {% if include.translations %}
 {% assign translations = include.translations %}
 {% else %}
-{% assign translations = page.translations %}
+{% assign translations = site.translations | where: "code", code %}
+{% assign numTrans = translations | size %}
 {% endif %}
 
-{% if translations %}
+{% if numTrans > 0 %}
 {% if include.hide_heading != true %}
 <h3 id="translations">Translations</h3>
 {% endif %}
@@ -14,7 +16,7 @@
 {% if translation.archive %}
 <a href="{{ translation.archive }}" target="_blank">🔗</a>
 {% endif %}
-<a href="{{ translation.url }}" target="_blank">{{ translation.language }} translation</a>
+<a href="{{ translation.link }}" target="_blank">{{ translation.language }} translation</a>
 by
 <a href="{{ translation.author_url }}" target="_blank">{{ translation.author }}</a>
 </li>

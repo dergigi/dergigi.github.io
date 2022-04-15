@@ -18,7 +18,7 @@
           </strong>
           —
           <span itemprop="description">
-          {% if post.title == "How to Kill Bitcoin" %}
+          {% if post.title == "How to Kill Bitcoin" or post.title == "Inalienable Property Rights" %}
             {{ post.description | truncatewords: 35, "" }}
           {% else %}
             {{ post.content | strip_html | truncatewords: 35, "" }}
