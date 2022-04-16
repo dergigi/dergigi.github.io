@@ -37,7 +37,7 @@ Find a list of translations below. If a translation is missing please [let me kn
 {% assign numTrans = translations | size %}
 {% if numTrans > 0 %}
 ### [#]({{ post.url }}) {{ post.title }} ({{numTrans}})
-{% include translations.html translations=translations hide_heading=true hide_link=true %}
+{% include translations.html code=code hide_heading=true hide_link=true %}
 {% endif %}
 {% endfor %}
 
