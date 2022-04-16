@@ -8,26 +8,29 @@
 {% assign numTrans = translations | size %}
 
 {% if numTrans > 0 %}
-{% if include.hide_heading != true %}
-<h3 id="translations">Translations</h3>
-{% endif %}
+  {% if include.hide_heading != true %}
+    <h3 id="translations">Translations</h3>
+  {% endif %}
 <ul class="translations">
+
 {% for translation in translations %}
-<li class="{{ translation.language }}">
-{% if translation.archive %}
-<a href="{{ translation.archive }}" target="_blank">🔗</a>
-{% endif %}
-<a href="{{ translation.link }}" target="_blank">{{ translation.language }} translation
-{% if translation.part %}
-({{ translation.part }})
-{% endif %}
-</a>
-by
-<a href="{{ translation.author_url }}" target="_blank">{{ translation.author }}</a>
-</li>
+  <li class="{{ translation.language }}">
+  {% if translation.archive %}
+  <a href="{{ translation.archive }}" target="_blank">🔗</a>
+  {% endif %}
+  <a href="{{ translation.link }}" target="_blank">
+    {% if translation.type == "audio" %}🎧{% elsif translation.type == "video" %}📺{% endif %}
+    {{ translation.language }}
+    {% if translation.type == 'text' %}translation{% else %}{{ translation.type }}{% endif %}
+    {% if translation.part %}({{ translation.part }}){% endif %}
+  </a>
+  by
+  <a href="{{ translation.author_url }}" target="_blank">{{ translation.author }}</a>
+  </li>
 {% endfor %}
+
 </ul>
-{% if include.hide_link != true %}
-<p>Want to help? <a href="{{ '/translations' | absolute_url }}">Add a translation</a>!</p>
-{% endif %}
+  {% if include.hide_link != true %}
+    <p>Want to help? <a href="{{ '/translations' | absolute_url }}">Add a translation</a>!</p>
+  {% endif %}
 {% endif %}
