@@ -15,7 +15,7 @@
 
 {% for translation in translations %}
   <li class="{{ translation.language }}">
-  {% if translation.archive %}
+  {% if translation.archive and translation.type == 'text' %}
   <a href="{{ translation.archive }}" target="_blank">🔗</a>
   {% endif %}
   <a href="{{ translation.link }}" target="_blank">
