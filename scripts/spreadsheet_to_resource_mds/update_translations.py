@@ -24,6 +24,8 @@ for idx, row in enumerate(articles.get_all_values()):
     translation_profile = row[3].lstrip().rstrip()
     translation_link = row[4].lstrip().rstrip()
     translation_archive = row[5].lstrip().rstrip()
+    translation_type = row[6].lstrip().rstrip()
+    translation_part = row[7].lstrip().rstrip()
 
     md_file_name = translation_archive.replace("https://archive.ph/", "")
     md_file_path = title_to_file_path(md_file_name, 'translations')
@@ -39,6 +41,8 @@ for idx, row in enumerate(articles.get_all_values()):
                 f"author_url: {translation_profile}\n"
                 f"link: {translation_link}\n"
                 f"archive: {translation_archive}\n"
+                f"type: {translation_type}\n"
+                f"part: {translation_part}\n"
                 f"---\n")
 
     with open(md_file_path, 'w') as f:
