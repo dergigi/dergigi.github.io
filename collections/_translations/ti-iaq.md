@@ -6,4 +6,6 @@ author: Tink
 author_url: https://twitter.com/bitcoinbabybee
 link: https://armantheparman.com/la-libertad-de-valor/
 archive: https://archive.ph/TiIaq
+type: text
+part: 
 ---
