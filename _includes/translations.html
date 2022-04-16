@@ -2,7 +2,7 @@
 {% if include.translations %}
 {% assign translations = include.translations %}
 {% else %}
-{% assign translations = site.translations | where: "code", code %}
+{% assign translations = site.translations | where: "code", code | sort: "part" | sort: "author" %}
 {% assign numTrans = translations | size %}
 {% endif %}
 
@@ -16,7 +16,11 @@
 {% if translation.archive %}
 <a href="{{ translation.archive }}" target="_blank">🔗</a>
 {% endif %}
-<a href="{{ translation.link }}" target="_blank">{{ translation.language }} translation</a>
+<a href="{{ translation.link }}" target="_blank">{{ translation.language }} translation
+{% if translation.part %}
+({{ translation.part }})
+{% endif %}
+</a>
 by
 <a href="{{ translation.author_url }}" target="_blank">{{ translation.author }}</a>
 </li>
