@@ -1,10 +1,11 @@
-{% capture code %}{{ page.redirect_from | replace: '/', '' }}{% endcapture %}
-{% if include.translations %}
-{% assign translations = include.translations %}
+{% if include.code %}
+{% assign code = include.code %}
 {% else %}
+{% assign code = page.redirect_from | replace: '/', '' %}
+{% endif %}
+
 {% assign translations = site.translations | where: "code", code | sort: "part" | sort: "author" %}
 {% assign numTrans = translations | size %}
-{% endif %}
 
 {% if numTrans > 0 %}
 {% if include.hide_heading != true %}
