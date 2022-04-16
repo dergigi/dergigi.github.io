@@ -19,7 +19,10 @@
   <a href="{{ translation.archive }}" target="_blank">🔗</a>
   {% endif %}
   <a href="{{ translation.link }}" target="_blank">
-    {% if translation.type == "audio" %}🎧{% elsif translation.type == "video" %}📺{% endif %}
+    {% if translation.type == "audio" %}🎧
+    {% elsif translation.type == "video" %}📺
+    {% elsif translation.type == "discussion" %}💬
+    {% endif %}
     {{ translation.language }}
     {% if translation.type == 'text' %}translation{% else %}{{ translation.type }}{% endif %}
     {% if translation.part %}({{ translation.part }}){% endif %}
