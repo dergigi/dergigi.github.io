@@ -32,7 +32,7 @@ for idx, row in enumerate(articles.get_all_values()):
     episode_youtube = row[11].lstrip().rstrip()
     episode_archive = row[12].lstrip().rstrip()
 
-    md_file_name = episode_archive.replace("https://archive.ph/", "")
+    md_file_name = episode_date + "-" + episode_abbrev
     md_file_path = title_to_file_path(md_file_name, 'episodes')
     if md_file_path == "":
         continue
