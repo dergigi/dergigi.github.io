@@ -21,16 +21,17 @@ for idx, row in enumerate(articles.get_all_values()):
     episode_date = row[0].lstrip().rstrip()
     episode_podname = row[1].lstrip().rstrip()
     episode_topics = row[2].lstrip().rstrip()
-    episode_host = row[3].lstrip().rstrip()
-    episode_abbrev = row[4].lstrip().rstrip()
-    episode_sode = row[5].lstrip().rstrip()
-    episode_star = row[6].lstrip().rstrip()
-    episode_lang = row[7].lstrip().rstrip()
-    episode_code = row[8].lstrip().rstrip()
-    episode_link = row[9].lstrip().rstrip()
-    episode_podlink = row[10].lstrip().rstrip()
-    episode_youtube = row[11].lstrip().rstrip()
-    episode_archive = row[12].lstrip().rstrip()
+    episode_guests = row[3].lstrip().rstrip()
+    episode_host = row[4].lstrip().rstrip()
+    episode_abbrev = row[5].lstrip().rstrip()
+    episode_sode = row[6].lstrip().rstrip()
+    episode_star = row[7].lstrip().rstrip()
+    episode_lang = row[8].lstrip().rstrip()
+    episode_code = row[9].lstrip().rstrip()
+    episode_link = row[10].lstrip().rstrip()
+    episode_podlink = row[11].lstrip().rstrip()
+    episode_youtube = row[12].lstrip().rstrip()
+    episode_archive = row[13].lstrip().rstrip()
 
     md_file_name = episode_date + "-" + episode_abbrev
     md_file_path = title_to_file_path(md_file_name, 'episodes')
@@ -43,6 +44,7 @@ for idx, row in enumerate(articles.get_all_values()):
                 f"date: {episode_date}\n"
                 f"podname: {episode_podname}\n"
                 f"topics: {episode_topics}\n"
+                f"guests: {episode_guests}\n"
                 f"host: {episode_host}\n"
                 f"abbrev: {episode_abbrev}\n"
                 f"sode: {episode_sode}\n"
