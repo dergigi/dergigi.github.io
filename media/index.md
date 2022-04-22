@@ -14,10 +14,17 @@ redirect_from: /interviews
 [de]: {{ '/media/de' | absolute_url }}
 [en]: {{ '/media/en' | absolute_url }}
 
+{% capture absoluteVideoURL %}{{ 'assets/video/jbp.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=absoluteVideoURL %}
+Jordan B. Peterson Podcast [S4:E40][jbpS4E40] / [YouTube][jbpS4E40yt]
+
+[jbpS4E40yt]: https://youtu.be/iVym9wtopqs
+[jbpS4E40]: https://www.jordanbpeterson.com/podcast/s4e40/
+
 {% assign sorted_sodes = site.episodes | sort: 'date' | reverse %}
 
 <ul class="sodes">
-{% for sode in sorted_sodes %}
+{% for sode in sorted_sodes limit:6 %}
   {% assign link = sode.youtube %}
   {% if sode.podlink %}{% assign link = sode.podlink %}{% endif %}
   {% if sode.link %}{% assign link = sode.link %}{% endif %}
@@ -48,8 +55,7 @@ redirect_from: /interviews
 {% endfor %}
 </ul>
 
-
-Want to talk? Feel free to [reach out to me][contact].
+[More...][all]
 
 
 ---
@@ -194,6 +200,8 @@ the [Bull Bitcoin][bull-bitcoin] publication. I have also contributed to
 [bull-bitcoin]: https://bullbitcoin.com/
 
 ---
+
+Want to talk? Feel free to [reach out to me][contact].
 
 [contact]: {{ '/contact' | absolute_url }}
 [license]: {{ '/license' | absolute_url }}

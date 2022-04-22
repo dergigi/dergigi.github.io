@@ -14,6 +14,13 @@ redirect_from: /interviews
 [de]: {{ '/media/de' | absolute_url }}
 [en]: {{ '/media/en' | absolute_url }}
 
+{% capture absoluteVideoURL2 %}{{ 'assets/video/humanb.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=absoluteVideoURL2 %}
+[Human B][hb] / [Vimeo][hbv] / [YouTube][hby]
+
+[hb]: https://humanb-film.com/
+[hbv]: https://vimeo.com/658711759
+[hby]: https://youtu.be/RFSBWrAllzw
 
 {% assign sodes_de = site.episodes | where: 'lang', 'DE' %}
 {% assign sodes_at = site.episodes | where: 'lang', 'AT' %}
