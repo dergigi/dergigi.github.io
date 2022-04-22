@@ -6,11 +6,6 @@ redirect_from: /interviews
 
 ---
 
-[✨ All (no filter)][all] | [⭐ Favorites][favs] | [🇺🇸 English](#english-interviews-and-conversations) | [🇩🇪 German](#german-interviews-and-conversations)
-
-[all]: '/media2'
-[favs]: '/media2/favs'
-
 Over the last couple of years, I had the pleasure of speaking on various
 podcasts, conferences, and live shows to talk about Bitcoin and its
 implications. While the conversations mostly revolve around Bitcoin, they
@@ -24,22 +19,15 @@ my thoughts about Bitcoin. There are also some [guest posts](#guest-posts)
 and popular [twitter threads](#twitter-threads) linked at
 the bottom of this page.
 
----
-
-### English Interviews and Conversations
-
-I had the immense pleasure of speaking to Jordan B. Peterson on his podcast
-for [S4:E40][jbpS4E40], along with some fellow bitcoiners.
-
-{% capture absoluteVideoURL %}{{ 'assets/video/jbp.mp4' | absolute_url }}{% endcapture %}
-{% include video.html file=absoluteVideoURL %}
-
-Watch the [full interview][jbpS4E40yt] on YouTube.
-
-[jbpS4E40yt]: https://youtu.be/iVym9wtopqs
-[jbpS4E40]: https://www.jordanbpeterson.com/podcast/s4e40/
 
 ---
+
+
+[✨ All (no filter)][all] | [⭐ Favorites][favs] | [🇺🇸 English](#english-interviews-and-conversations) | [🇩🇪 German](#german-interviews-and-conversations)
+
+[all]: '/media2'
+[favs]: '/media2/favs'
+
 
 {% assign sorted_sodes = site.episodes | sort: 'date' | reverse %}
 
@@ -79,6 +67,7 @@ Watch the [full interview][jbpS4E40yt] on YouTube.
 [wir2]: https://anchor.fm/whatisreal/episodes/Gigi-Questions-Reality---WiR002-e120v63
 [wir2-yt]: https://youtu.be/8ytMsyRAk5s
 
+
 Want to talk? Feel free to [reach out to me][contact].
 
 
@@ -101,9 +90,20 @@ In [2019](https://www.blockstream.info/block-height/591121) a couple of
 bitcoiners and I launched [🇩🇪 EINUNDZWANZIG](https://einundzwanzig.space/),
 a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 
-  ---
+---
 
-TODO: German interviews
+### Videos
+
+I had the immense pleasure of speaking to Jordan B. Peterson on his podcast
+for [S4:E40][jbpS4E40], along with some fellow bitcoiners.
+The [full interview][jbpS4E40yt] is on YouTube.
+
+{% capture absoluteVideoURL %}{{ 'assets/video/jbp.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=absoluteVideoURL %}
+
+
+[jbpS4E40yt]: https://youtu.be/iVym9wtopqs
+[jbpS4E40]: https://www.jordanbpeterson.com/podcast/s4e40/
 
 ### Talks
 
@@ -234,8 +234,6 @@ Some of the above are mirrored at [/threads][threads] for archive purposes.
 [tw-philosophy]: https://twitter.com/dergigi/status/1076241029576179712
 
 ---
-
-Want to collaborate? Don't hesitate to [reach out][contact]!
 
 [keyvan-english]: https://youtu.be/RrW2yhEY39Y
 [keyvan-pod-en]: https://anchor.fm/keyvandavani/episodes/Interview-with-Gigi--Bitcoiner--Bitcoin-e3r65v
