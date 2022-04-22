@@ -10,7 +10,7 @@ redirect_from: /interviews
 
 [home]: {{ '/media' | absolute_url }}
 [all]: {{ '/media/all' | absolute_url }}
-[favs]: {{ '/media/favs' | absolute_url }}
+[favs]: {{ '/media/best' | absolute_url }}
 [de]: {{ '/media/de' | absolute_url }}
 [en]: {{ '/media/en' | absolute_url }}
 
