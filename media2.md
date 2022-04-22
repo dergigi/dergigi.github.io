@@ -49,7 +49,7 @@ Watch the [full interview][jbpS4E40yt] on YouTube.
   {% if sode.podlink %}{% assign link = sode.podlink %}{% endif %}
   {% if sode.link %}{% assign link = sode.link %}{% endif %}
   <li>
-    <a href="{{ link }}" target="_blank" title="Released on {{ sode.date }}">
+    <a href="{{ link }}" target="_blank" title="Released on {{ sode.date }} by {{ sode.host }}">
       {% if sode.star %} ⭐ {% endif %}
       {% case sode.lang %}
         {% when 'AT' %}🇦🇹
@@ -61,13 +61,15 @@ Watch the [full interview][jbpS4E40yt] on YouTube.
       {{ sode.podname }}
       {% if sode.sode %}#{{ sode.sode }} {% endif %}
     </a>
-
-    {% if sode.podlink %}<a href="{{ sode.podlink }}" target="_blank"><i class="fab fa-podcast"></i></a>{% endif %}
-    {% if sode.youtube %}<a href="{{ sode.youtube }}" target="_blank"><i class="fab fa-youtube"></i></a>{% endif %}
-    {% if sode.archive %}<a href="{{ sode.archive }}" target="_blank"><i class="fab fa-archive"></i></a>{% endif %}
-    <br/>
-    {% if sode.guests %}with {{ sode.guests }}{% endif %}
-    {% if sode.host %}hosted by {{ sode.host }}{% endif %}
+    <small>
+      {% if sode.podlink %}<a href="{{ sode.podlink }}" target="_blank"><i class="fab fa-podcast"></i></a>{% endif %}
+      {% if sode.youtube %}<a href="{{ sode.youtube }}" target="_blank"><i class="fab fa-youtube"></i></a>{% endif %}
+      {% if sode.archive %}<a href="{{ sode.archive }}" target="_blank"><i class="fab fa-archive"></i></a>{% endif %}
+      <br/>
+      {% if sode.topics %}on {{ sode.topics }},{% endif %}
+      {% if sode.guests %}with {{ sode.guests }}{% endif %}
+      {% if sode.host %}hosted by {{ sode.host }}{% endif %}
+    </small>
 
   </li>
 {% endfor %}
