@@ -14,7 +14,11 @@ redirect_from: /interviews
 [en]: {{ '/media/en' | absolute_url }}
 
 
-{% assign sorted_sodes = site.episodes | where: 'lang', 'DE' | sort: 'date' | reverse %}
+{% assign sodes_de = site.episodes | where: 'lang', 'DE' %}
+{% assign sodes_at = site.episodes | where: 'lang', 'AT' %}
+{% assign sodes_ch = site.episodes | where: 'lang', 'CH' %}
+{% assign all_sodes = sodes_de | concat: sodes_at | concat: sodes_ch %}
+{% assign sorted_sodes = all_sodes | sort: 'date' | reverse %}
 
 <ul class="sodes">
 {% for sode in sorted_sodes %}
