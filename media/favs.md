@@ -6,9 +6,10 @@ redirect_from: /interviews
 
 ---
 
-[✨ All (no filter)][all] | **⭐ Favorites** | [🇺🇸 English][en] | [🇩🇪 German][de]
+[🏠 Home][home] | [✨ All (no filter)][all] | **⭐ Favorites** | [🇺🇸 English][en] | [🇩🇪 German][de]
 
-[all]: {{ '/media' | absolute_url }}
+[home]: {{ '/media' | absolute_url }}
+[all]: {{ '/media/all' | absolute_url }}
 [favs]: {{ '/media/favs' | absolute_url }}
 [de]: {{ '/media/de' | absolute_url }}
 [en]: {{ '/media/en' | absolute_url }}
@@ -47,3 +48,28 @@ redirect_from: /interviews
   </li>
 {% endfor %}
 </ul>
+
+---
+
+I had the immense pleasure of speaking to Jordan B. Peterson on his podcast
+for [S4:E40][jbpS4E40], along with some fellow bitcoiners.
+The [full interview][jbpS4E40yt] is on YouTube.
+
+{% capture absoluteVideoURL %}{{ 'assets/video/jbp.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=absoluteVideoURL %}
+
+[jbpS4E40yt]: https://youtu.be/iVym9wtopqs
+[jbpS4E40]: https://www.jordanbpeterson.com/podcast/s4e40/
+
+---
+
+In 2021, the German movie [Human B][hb] was released, which I was fortunate
+enough to play small role in. The full movie is available on [Vimeo][hbv] and
+[YouTube][hby].
+
+{% capture absoluteVideoURL2 %}{{ 'assets/video/humanb.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=absoluteVideoURL2 %}
+
+[hb]: https://humanb-film.com/
+[hbv]: https://vimeo.com/658711759
+[hby]: https://youtu.be/RFSBWrAllzw

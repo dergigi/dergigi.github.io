@@ -6,7 +6,7 @@ redirect_from: /interviews
 
 ---
 
-[🏠 Home][home] | [✨ All (no filter)][all] | [⭐ Favorites][favs] | [🇺🇸 English][en] | **🇩🇪 German**
+[🏠 Home][home] | **✨ All (no filter)** | [⭐ Favorites][favs] | [🇺🇸 English][en] | [🇩🇪 German][de]
 
 [home]: {{ '/media' | absolute_url }}
 [all]: {{ '/media/all' | absolute_url }}
@@ -15,11 +15,7 @@ redirect_from: /interviews
 [en]: {{ '/media/en' | absolute_url }}
 
 
-{% assign sodes_de = site.episodes | where: 'lang', 'DE' %}
-{% assign sodes_at = site.episodes | where: 'lang', 'AT' %}
-{% assign sodes_ch = site.episodes | where: 'lang', 'CH' %}
-{% assign all_sodes = sodes_de | concat: sodes_at | concat: sodes_ch %}
-{% assign sorted_sodes = all_sodes | sort: 'date' | reverse %}
+{% assign sorted_sodes = site.episodes | sort: 'date' | reverse %}
 
 <ul class="sodes">
 {% for sode in sorted_sodes %}
