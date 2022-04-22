@@ -6,7 +6,7 @@ redirect_from: /interviews
 
 ---
 
-[🏠 Home][home] | [✨ All (no filter)][all] | [⭐ Favorites][favs] | **🇺🇸 English** | [🇩🇪 German][de]
+[🏠 Home][home] | [✨ No Filter][all] | [⭐ Favorites][favs] | **🇺🇸 English** | [🇩🇪 German][de]
 
 [home]: {{ '/media' | absolute_url }}
 [all]: {{ '/media/all' | absolute_url }}
