@@ -23,11 +23,12 @@ the bottom of this page.
 ---
 
 
-[✨ All (no filter)][all] | [⭐ Favorites][favs] | [🇺🇸 English](#english-interviews-and-conversations) | [🇩🇪 German](#german-interviews-and-conversations)
+**✨ All (no filter)** | [⭐ Favorites][favs] | [🇺🇸 English][en] | [🇩🇪 German][de]
 
-[all]: '/media2'
-[favs]: '/media2/favs'
-
+[all]: {{ '/media' | absolute_url }}
+[favs]: {{ '/media/favs' | absolute_url }}
+[de]: {{ '/media/de' | absolute_url }}
+[en]: {{ '/media/en' | absolute_url }}
 
 {% assign sorted_sodes = site.episodes | sort: 'date' | reverse %}
 
