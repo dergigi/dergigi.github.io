@@ -43,7 +43,6 @@ Watch the [full interview][jbpS4E40yt] on YouTube.
 
 {% assign sorted_sodes = site.episodes | sort: 'date' | reverse %}
 
-
 <ul class="sodes">
 {% for sode in sorted_sodes %}
   {% assign link = sode.youtube %}
@@ -51,6 +50,7 @@ Watch the [full interview][jbpS4E40yt] on YouTube.
   {% if sode.link %}{% assign link = sode.link %}{% endif %}
   <li>
     <a href="{{ link }}" target="_blank" title="Released on {{ sode.date }}">
+      {% if sode.star %} ⭐ {% endif %}
       {% case sode.lang %}
         {% when 'AT' %}🇦🇹
         {% when 'DE' %}🇩🇪
@@ -60,12 +60,15 @@ Watch the [full interview][jbpS4E40yt] on YouTube.
       {% if sode.youtube %}📺{% else %}🎧{% endif %}
       {{ sode.podname }}
       {% if sode.sode %}#{{ sode.sode }} {% endif %}
-      {% if sode.star %} ⭐ {% endif %}
     </a>
+
+    {% if sode.podlink %}<a href="{{ sode.podlink }}" target="_blank"><i class="fab fa-podcast"></i></a>{% endif %}
+    {% if sode.youtube %}<a href="{{ sode.youtube }}" target="_blank"><i class="fab fa-youtube"></i></a>{% endif %}
+    {% if sode.archive %}<a href="{{ sode.archive }}" target="_blank"><i class="fab fa-archive"></i></a>{% endif %}
     <br/>
     {% if sode.guests %}with {{ sode.guests }}{% endif %}
-    {% if sode.guests %}with {{ sode.guests }}{% endif %}
     {% if sode.host %}hosted by {{ sode.host }}{% endif %}
+
   </li>
 {% endfor %}
 </ul>
