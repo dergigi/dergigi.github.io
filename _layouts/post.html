@@ -21,6 +21,17 @@ layout: default
           {% capture sourceHost %}{{ page.source | remove_first: "https://" | split: "/" | first | remove_first: "www." }}{% endcapture %}
           <a href="{{ page.source }}" title="Also published on {{ sourceHost }}" target="_blank" class="post__source" itemprop="isBasedOn">{{ sourceHost }}</a>
         {% endif %}
+        {% assign conversations = site.episodes | where: "code", code %}
+        {% assign numConvs = conversations | size %}
+        {% if numConvs > 0 %}
+          <a href="#conversations" class="post__source">{{ numConvs }}
+            {% if numConvs == 1 %}
+              conversation
+            {% else %}
+              conversations
+            {% endif %}
+          </a>
+        {% endif %}
         {% assign translations = site.translations | where: "code", code %}
         {% assign numTrans = translations | size %}
         {% if numTrans > 0 %}
