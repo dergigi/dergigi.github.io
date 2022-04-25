@@ -5,7 +5,7 @@ if [[ $# -eq 0 ]] ; then
     exit 1
 fi
 
-readability-cli $1 > scraped.html
+readable $1 > scraped.html
 pandoc -f html -t markdown scraped.html > markdown.md
 sed -i '' -- 's/<div>//g' markdown.md
 sed -i '' -- 's/<\/div>//g' markdown.md
