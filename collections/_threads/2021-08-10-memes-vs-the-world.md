@@ -252,7 +252,7 @@ P.S: I hope to make the slides and the source material available soon,
 as well as publish the relevant chapters of my upcoming book as soon as
 they are good enough.
 
-A recording of the original talk, given in German, is available here:
+A recording of the original talk, given in German, is available on [YouTube](https://www.youtube.com/watch?v=n9OWZq5z49I&t=29401s).
 
 P.P.S: This talk was inspired by a comment by
 [nvk](https://twitter.com/nvk) - he was trying to explain these things
