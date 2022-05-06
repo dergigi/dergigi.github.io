@@ -290,7 +290,7 @@ When I'm not writing I try to contribute to open source projects where I can.
 Apart from trivial fixes and contributions in various projects, I've worked on
 adding [Tor] and [Dojo] support to Samourai Wallet's Sentinel app for iOS (see
 [video]). I also made some corrections to [BIP 2], [BIP 16], and [BIP 69]. I
-recently joined the [Swan][joined-swan] engineering team and published a set of
+used to be part of the [Swan][joined-swan] engineering team and published a set of
 [extended public key tools][xpub-tools] as open source software. Follow me on
 GitHub to see what I'm up to.
 
