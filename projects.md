@@ -170,6 +170,17 @@ Bitcoin in your timeline.
 
 [quotablesatoshi]: https://twitter.com/quotablesatoshi
 
+### Closing the Loop
+
+Closing the Loop is a podcast hosted by John Vallis and launched by Seetee. The
+purpose of this project is to talk to the entrepreneurs, developers, and
+thinkers who are contributing to "closing the loop" of the Bitcoin economy.
+
+{% include image.html path="/assets/images/bitcoin/projects/closing-the-loop.png" link="https://seetee.io/podcast" %}
+
+* Website: [seetee.io/podcast](https://seetee.io/podcast)
+* Source: [GitHub](https://github.com/closing-the-loop/closing-the-loop.github.io)
+
 ### Secret Satsa
 
 Secret Satsa is an experiment in altruism. Imagine it's Christmas time and you
