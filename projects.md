@@ -3,21 +3,12 @@ layout: page
 title: Projects
 ---
 
-* [21 Ways](#21-ways)
-* [21 Lessons](#21-lessons)
-* [Bitcoin Resources](#bitcoin-resources)
-* [Bitcoin Quotes](#bitcoin-quotes)
-* [Lightning Login](#lightning-login)
-* [Opsec Swag](#opsec-swag)
-* [Einundzwanzig](#einundzwanzig)
-* [21 Lektionen](#21-lektionen)
-* [Quotable Satoshi Twitter Bot](#quotable-satoshi-twitter-bot)
-* [Secret Satsa](#secret-satsa)
-* [Contribution: The Bitcoin Times](#contribution-the-bitcoin-times)
-* [Contribution: Citadel 21](#contribution-citadel-21)
-* [Contribution: 21ism Bitcoin Art Collective](#contribution-21ism-bitcoin-art-collective)
-* [Contribution: Reckless VR](#contribution-reckless-vr)
-* [Code Contributions](#code-contributions)
+* Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
+* Education: [Bitcoin Resources](#bitcoin-resources), [Bitcoin Quotes](#bitcoin-quotes)
+* Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world)
+* Code: [Jam](#jam), [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
+* Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop)
+* Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr)
 
 ---
 
@@ -180,6 +171,32 @@ Bitcoin in your timeline.
 
 [quotablesatoshi]: https://twitter.com/quotablesatoshi
 
+### Closing the Loop
+
+Closing the Loop is a podcast hosted by John Vallis and launched by Seetee. The
+purpose of this project is to talk to the entrepreneurs, developers, and
+thinkers who are contributing to "closing the loop" of the Bitcoin economy.
+
+It is also a [value4value] experiment. Listeners can stream sats and send
+boosts, including short messages if they choose to do so. 
+
+{% include image.html path="/assets/images/bitcoin/projects/closing-the-loop.png" link="https://seetee.io/podcast" %}
+
+* Website: [seetee.io/podcast](https://seetee.io/podcast)
+* Source: [GitHub](https://github.com/closing-the-loop/closing-the-loop.github.io)
+
+### Jam
+
+Jam is a Web UI for JoinMarket, one of the oldest and most established Bitcoin
+privacy tools that exist. It is a community-effort to make JoinMarket easier to
+install and use.
+
+{% include image.html path="/assets/images/bitcoin/projects/jam.jpg" link="https://github.com/joinmarket-webui" %}
+
+* Installation: via [RaspiBlitz, Umbrel, or Citadel](https://github.com/joinmarket-webui/joinmarket-webui#-running-locally)
+* Documentation: [Wiki](https://github.com/joinmarket-webui/joinmarket-webui/wiki) 
+* Source: [GitHub](https://github.com/joinmarket-webui)
+
 ### Secret Satsa
 
 Secret Satsa is an experiment in altruism. Imagine it's Christmas time and you
@@ -197,6 +214,20 @@ other strangers pay them, just because they can.
 * Twitter: [#SecretSatsa](https://twitter.com/hashtag/SecretSatsa)
 * Source: [GitHub](https://github.com/secretsatsa/secretsatsa.github.io)
 
+### Twentyone World
+
+Due to the immense success of EINUNDZWANZIG, a couple of people decided to start
+their own forks of in their respective countries. [Twentyone
+World](https://twentyone.world) was created to visualize and encourage this. The
+site serves two purposes: (1) show trusted bitcoin-only communities on a map,
+and (2) make it really easy to start one. The idea is to provide an open-source
+blueprint, a step-by-step guide of sorts, that should help and encourage others
+to start their own local—and localized—bitcoin-only community.
+
+{% include image.html path="/assets/images/bitcoin/projects/twentyone-world.png" link="https://twentyone.world" %}
+
+* Website: [twentyone.world](https://twentyone.world)
+* Source: [GitHub](https://github.com/twentyone-world/)
 
 ### Contribution: The Bitcoin Times
 
@@ -271,7 +302,7 @@ When I'm not writing I try to contribute to open source projects where I can.
 Apart from trivial fixes and contributions in various projects, I've worked on
 adding [Tor] and [Dojo] support to Samourai Wallet's Sentinel app for iOS (see
 [video]). I also made some corrections to [BIP 2], [BIP 16], and [BIP 69]. I
-recently joined the [Swan][joined-swan] engineering team and published a set of
+used to be part of the [Swan][joined-swan] engineering team and published a set of
 [extended public key tools][xpub-tools] as open source software. Follow me on
 GitHub to see what I'm up to.
 
@@ -285,3 +316,5 @@ GitHub to see what I'm up to.
 [BIP 69]: https://github.com/bitcoin/bips/blob/master/bip-0069.mediawiki
 [joined-swan]: {% post_url /bitcoin/2020-08-18-why-i-joined-swan-bitcoin %}
 [xpub-tools]: https://github.com/swan-bitcoin/xpub-tool
+
+[value4value]: {{ '/busking' | absolute_url }}
