@@ -3,21 +3,11 @@ layout: page
 title: Projects
 ---
 
-* [21 Ways](#21-ways)
-* [21 Lessons](#21-lessons)
-* [Bitcoin Resources](#bitcoin-resources)
-* [Bitcoin Quotes](#bitcoin-quotes)
-* [Lightning Login](#lightning-login)
-* [Opsec Swag](#opsec-swag)
-* [Einundzwanzig](#einundzwanzig)
-* [21 Lektionen](#21-lektionen)
-* [Quotable Satoshi Twitter Bot](#quotable-satoshi-twitter-bot)
-* [Secret Satsa](#secret-satsa)
-* [Contribution: The Bitcoin Times](#contribution-the-bitcoin-times)
-* [Contribution: Citadel 21](#contribution-citadel-21)
-* [Contribution: 21ism Bitcoin Art Collective](#contribution-21ism-bitcoin-art-collective)
-* [Contribution: Reckless VR](#contribution-reckless-vr)
-* [Code Contributions](#code-contributions)
+* Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
+* Sites: [Bitcoin Resources](#bitcoin-resources), [Bitcoin Quotes](#bitcoin-quotes), [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world)
+* Content: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop)
+* Code: [Jam](#jam), [Lightning Login](#lightning-login), [Quotable Satoshi Twitter Bot](#quotable-satoshi-twitter-bot), [Misc. Code Contributions](#code-contributions)
+* Contributions: [The Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism Bitcoin Art Collective](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr)
 
 ---
 
