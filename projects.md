@@ -5,7 +5,7 @@ title: Projects
 
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
 * Sites: [Bitcoin Resources](#bitcoin-resources), [Bitcoin Quotes](#bitcoin-quotes), [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world)
-* Content: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop)
+* Content: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop
 * Code: [Jam](#jam), [Lightning Login](#lightning-login), [Quotable Satoshi Twitter Bot](#quotable-satoshi-twitter-bot), [Misc. Code Contributions](#code-contributions)
 * Contributions: [The Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism Bitcoin Art Collective](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr)
 
@@ -187,6 +187,20 @@ other strangers pay them, just because they can.
 * Twitter: [#SecretSatsa](https://twitter.com/hashtag/SecretSatsa)
 * Source: [GitHub](https://github.com/secretsatsa/secretsatsa.github.io)
 
+### Twentyone World
+
+Due to the immense success of EINUNDZWANZIG, a couple of people decided to start
+their own forks of in their respective countries. [Twentyone
+World](https://twentyone.world) was created to visualize and encourage this. The
+site serves two purposes: (1) show trusted bitcoin-only communities on a map,
+and (2) make it really easy to start one. The idea is to provide an open-source
+blueprint, a step-by-step guide of sorts, that should help and encourage others
+to start their own local—and localized—bitcoin-only community.
+
+{% include image.html path="/assets/images/bitcoin/projects/twentyone-world.png" link="https://twentyone.world" %}
+
+* Website: [twentyone.world](https://twentyone.world)
+* Source: [GitHub](https://github.com/twentyone-world/)
 
 ### Contribution: The Bitcoin Times
 
