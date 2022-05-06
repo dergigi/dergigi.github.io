@@ -176,6 +176,9 @@ Closing the Loop is a podcast hosted by John Vallis and launched by Seetee. The
 purpose of this project is to talk to the entrepreneurs, developers, and
 thinkers who are contributing to "closing the loop" of the Bitcoin economy.
 
+It is also a [value4value] experiment. Listeners can stream sats and send
+boosts, including short messages if they choose to do so. 
+
 {% include image.html path="/assets/images/bitcoin/projects/closing-the-loop.png" link="https://seetee.io/podcast" %}
 
 * Website: [seetee.io/podcast](https://seetee.io/podcast)
@@ -300,3 +303,5 @@ GitHub to see what I'm up to.
 [BIP 69]: https://github.com/bitcoin/bips/blob/master/bip-0069.mediawiki
 [joined-swan]: {% post_url /bitcoin/2020-08-18-why-i-joined-swan-bitcoin %}
 [xpub-tools]: https://github.com/swan-bitcoin/xpub-tool
+
+[value4value]: {{ '/busking' | absolute_url }}
