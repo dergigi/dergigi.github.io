@@ -149,7 +149,7 @@ than any maximalist could.
 Watch below as Representative [Chad Shillman][Shillman] beautifully explains
 Bitcoin's value proposition in less than one minute.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cnz2oo8MRas" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/swhDhs3UUFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Once the value proposition is properly understood, the last stage is to
 wrap your head around Bitcoin's decentralized nature.
@@ -240,7 +240,7 @@ This article first appeared on [Bull Bitcoin]'s [Medium publication].
 [Medium publication]: https://medium.com/bull-bitcoin
 
 [Powell]: https://www.youtube.com/watch?v=iSRfoBp_Fq0
-[Shillman]: https://www.youtube.com/watch?v=Cnz2oo8MRas
+[Shillman]: https://youtu.be/swhDhs3UUFw
 [McHenry1]: https://www.youtube.com/watch?v=xolYGw2wU6Y
 [McHenry2]: https://www.youtube.com/watch?v=9-ZTkCNW0w8
 
