@@ -530,7 +530,7 @@ it's not that difficult."
 [Matt Odell]: https://twitter.com/matt_odell/status/1131559561872252928?s=20
 [Vijay Boyapati]: https://twitter.com/real_vijay/status/969591986662424576
 
-[The Simpsons]: https://www.ccn.com/bitcoin-finally-mentioned-foxs-simpsons/
+[The Simpsons]: https://web.archive.org/web/20190628072140/https://www.ccn.com/bitcoin-finally-mentioned-foxs-simpsons/
 [Mr. Robot]: https://youtu.be/gHOAKWzDH-Q
 [Silicon Valley]: https://www.youtube.com/watch?v=28IpiLraUoc
 [The Big Bang Theory]: https://www.youtube.com/watch?v=Cc-Hbklizzk
@@ -540,7 +540,7 @@ it's not that difficult."
 [sound money]: https://21lessons.com/14/
 [resources]: https://bitcoin-resources.com/
 [continue to march on]: https://dergigi.com/2019/10/03/how-to-kill-bitcoin/
-[228-trillion]: https://internationalservices.hsbc.com/content/dam/hsbcis/pdf/HSBC_Global_Real_Estate_Report_July2017.pdf
+[228-trillion]: https://bebc.services/wp-content/uploads/2021/04/HSBC_Global_Real_Estate_Report_July2017.pdf
 [unlimited QE]: https://www.marketwatch.com/story/fed-announces-unlimited-qe-and-sets-up-several-new-lending-programs-2020-03-23
 [infinite cash]: https://www.bloomberg.com/opinion/articles/2020-03-23/coronavirus-fed-s-infinite-cash-tested-in-world-of-leverage
 [Hyperinflation]: https://21lessons.com/9/
