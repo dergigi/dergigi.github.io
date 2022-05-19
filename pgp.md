@@ -3,7 +3,11 @@ layout: page
 title: My PGP Key
 ---
 
-I'm [dergigi](https://keybase.io/dergigi) on keybase.
+I'm [dergigi](https://keybase.io/dergigi) on keybase. Fingerprint:
+
+    8198 A185 30A5 22A0 9561 2439 89C4 A25E 69A5 DE7F
+
+[PGP.txt](/PGP.txt):
 
     -----BEGIN PGP PUBLIC KEY BLOCK-----
     Version: Keybase Go 3.1.2 (darwin)
