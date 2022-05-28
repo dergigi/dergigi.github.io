@@ -10,4 +10,4 @@ Thank you 🙏🧡.
 
 ---
 
-[![tippin.me](https://badgen.net/badge/%E2%9A%A1%EF%B8%8Ftippin.me/@dergigi/F0918E)](https://tippin.me/@dergigi)
+[![tippin.me](https://badgen.net/badge/⚡/s@ts.dergigi.com/f7931a)](https://dergigi.com/support)
