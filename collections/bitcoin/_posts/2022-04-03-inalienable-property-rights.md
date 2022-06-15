@@ -1112,7 +1112,7 @@ spill a single drop of blood.
 
 ---
 
-*This essay is an amalgamation of multiple chapters of my upcoming book [21 Ways](https://21waysbook.com). Like my first book, it will be published under a [permissive license](https://dergigi.com/license/). You can [support me](https://dergigi.com/support/) in writing it.*
+*This essay is an amalgamation of multiple chapters of my upcoming book [21 Ways](https://21-ways.com). Like my first book, it will be published under a [permissive license](https://dergigi.com/license/). You can [support me](https://dergigi.com/support/) in writing it.*
 
 ---
 
