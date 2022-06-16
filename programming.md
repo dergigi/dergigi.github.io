@@ -15,3 +15,7 @@ That being said: if you want to get into it, just start. There are many online r
 I wrote [this](https://telegra.ph/Programming-Resources-for-Pseu-06-07) a while ago for a friend, it might be helpful for you too.
 
 Good luck.
+
+---
+
+P.S: You don't need a fancy degree, even though learning proper computer science helps. I would argue that open-source contributions and a healthy GitHub profile are more important than any degree.
