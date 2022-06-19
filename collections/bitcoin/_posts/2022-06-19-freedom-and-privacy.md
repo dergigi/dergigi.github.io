@@ -252,7 +252,7 @@ Richelieu: "Give me six lines written by the most honest man, and I will
 find something there to hang him."
 
 There is no better way to [check your financial
-privilege](https://bitcoinmagazine.com/culture/check-your-financial-privilege) than
+privilege](https://bitcoin-resources.com/books/check-your-financial-privilege) than
 to listen to the stories of those who are less fortunate, those who
 aren't born into liberal democracies that guarantee certain freedoms,
 that hold certain truths to be self-evident. Whether it's Ire Aderinokun
