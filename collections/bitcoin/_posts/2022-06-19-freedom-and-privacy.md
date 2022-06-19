@@ -2,9 +2,9 @@
 layout: post
 title: "Freedom and Privacy"
 subtitle: "Two Sides of the Same Coin"
-description: "TODO"
+description: "The solution to improving online privacy was not to create a 2nd internet."
 date: 2022-06-19
-blocktime: TODO
+blocktime: 741471
 image: /assets/images/btc-privacy.jpg
 redirect_from: /https
 author: Gigi
