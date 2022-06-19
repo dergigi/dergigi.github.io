@@ -53,11 +53,12 @@ humanity at your fingertips. What used to be science fiction is now
 science fact, thanks to countless incremental improvements that were and
 still are being made along the way.
 
-It is instructive to look at and study the history of the internet. Not
-only to understand where the "world wide web" came from and where it
-might go, but also to understand the value, purpose, and evolution of
-additional networked technologies built on top of it. One such
-technology, of course, is Bitcoin.
+It is instructive to look at and study the history of the internet. Not only to
+understand where the “world wide web” came from and where it might go but also
+to understand how other networked technologies might improve and evolve over
+time. One such technology, of course, is the [internet of money]: Bitcoin.
+
+[internet of money]: https://bitcoin-resources.com/books/the-internet-of-money-volume-1
 
 The history of the internet is as fascinating as it is extensive. Thus
 we will have to narrow our scope to one---okay, two---things. 
