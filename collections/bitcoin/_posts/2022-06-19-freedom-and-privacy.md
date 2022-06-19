@@ -222,7 +222,9 @@ the *Covenant on Civil and Political Rights*. 
 > reputation. Everyone has the right to the protection of the law
 > against such interference or attacks.
 > 
-> <cite>Article 12 of the Universal Declaration of Human Rights</cite>
+> <cite>[Article 12][art12] of the Universal Declaration of Human Rights</cite>
+
+[art12]: https://www.un.org/en/about-us/universal-declaration-of-human-rights#:~:text=Article%2012,%20attacks.
 
 We build walls, doors, locks, curtains, drapes, shades, and tinted
 windows to ensure certain privacy guarantees in the physical world.
