@@ -5,7 +5,7 @@ subtitle: "Two Sides of the Same Coin"
 description: "TODO"
 date: 2022-06-19
 blocktime: TODO
-image: /assets/images/rfc-2026.jpg
+image: /assets/images/btc-privacy.jpg
 redirect_from: /https
 author: Gigi
 category: bitcoin
@@ -13,6 +13,7 @@ favorite: true
 tags:
  - Bitcoin
  - Writing
+series: Privacy
 ---
 
 
@@ -298,4 +299,4 @@ be.
 
 ---
 
-<small>Original cover image (c) by [Martyn Smith](https://www.flickr.com/photos/35471453@N03/25961339020).</small>
+<small>Cover image (cc-by-nc-nd) [David Melchor Diaz](https://www.flickr.com/photos/dmelchordiaz/11054955103/).</small>

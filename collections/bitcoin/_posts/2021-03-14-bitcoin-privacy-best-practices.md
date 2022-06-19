@@ -21,6 +21,7 @@ translations:
    url: https://telegra.ph/Bitcoin-Privatsph%C3%A4re-Empfohlene-Vorgangsweisen-01-07
    author: DerGeier
    author_url: https://twitter.com/DerGeier21
+series: Privacy
 ---
 
 > There is a sacred realm of privacy for every man and woman where he
