@@ -1,6 +1,7 @@
 ---
 layout: page
 title: My PGP Key
+redirect_from: /gpg
 ---
 
 I'm [dergigi](https://keybase.io/dergigi) on keybase. Fingerprint:
