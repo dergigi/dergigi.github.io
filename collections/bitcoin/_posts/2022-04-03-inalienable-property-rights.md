@@ -615,6 +615,8 @@ history that you can\'t simply make up---you have to bring it into
 existence by rolling the dice, by playing the game according to its
 rules.
 
+<a id="reify"/>
+
 One of the clearest thinkers when it comes to this property of proof-of-work is
 probably Adam Gibson, who wrote at length about this [reification of
 information][reify]. Because thinking requires energy, and because playing in
