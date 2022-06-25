@@ -14,8 +14,6 @@ tags:
  - Writing
 ---
 
-Want to Understand Bitcoin? Understand Peace.
-
 > producing kinetic brute-force physical power for strategic defense is
 > something nations already do
 > 
@@ -24,19 +22,19 @@ Want to Understand Bitcoin? Understand Peace.
 Yes, they do that. They do so via a show of force, implying 
 *"do as we say, or else..."*
 
-Bitcoin is very different. It\'s not about \"I have the longer stick\";
-it\'s about producing a **real, costly signal**. A signal that can\'t be
-argued with and happens to protect everyone else that participates in
-the system.
+Bitcoin is very different. It\'s not about "I have the longer stick"—it's about
+producing a **real, costly signal**. A signal that can't be argued with and
+happens to protect everyone else that participates in the system.
 
 **Why produce this signal?**
 
 Three reasons:
 
-1. Unforgeable costliness (read Szabo)
+1. [Unforgeable costliness][szabo]
 2. [Timing][time]
 3. [Cryptanalytic stability][idea]
 
+[szabo]: https://archive.ph/BlYYi
 [time]: {{ '/time' | absolute_url }}
 [idea]: {{ '/idea' | absolute_url }}
 
@@ -56,11 +54,11 @@ My detailed response is contained in
 like this: bitcoin is non-violent play, a game of message passing that
 makes the threat of violence impotent.
 
-To quote Wei Dai: 
-
 > the threat of violence is impotent because violence
 > is impossible, and violence is impossible because its participants
 > cannot be linked to their true names or physical locations.
+>
+> <cite>[Wei Dai][idea]</cite>
 
 In Bitcoin, [True Names][names] are not required.
 
@@ -171,7 +169,9 @@ Let\'s reserve all these war terms for meatspace, where actual bullets
 and actual bombs kill actual people, shall we? Words are not violence,
 and Bitcoin is just that: all text, all the time.
 
-Peace & Love. \\
+[Peace & Love][memeworld]. \\
 Not violence & war.
 
 🙏🧡
+
+[memeworld]: {{ '/memeworld' | absolute_url }}
