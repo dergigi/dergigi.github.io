@@ -120,7 +120,7 @@ into the oracle problem: you need to trust someone that the information
 reflects reality accurately. Additionally, you need a trusted 3rd party
 to update the information as soon as the real world changes.
 
-{% include image.html name="bitcoin-zitadelle-en-trans.015.png" %}
+{% include image.html link="https://nakamotoinstitute.org/trusted-third-parties/" name="bitcoin-zitadelle-en-trans.015.png" %}
 
 To keep the map and the territory in sync, you'd need magical lists that
 update themselves as soon as the underlying reality changes.
@@ -160,7 +160,7 @@ It defines the map and implies the territory. All participants
 voluntarily "act out" Bitcoin and a shared reality emerges because of
 it.
 
-{% include image.html name="bitcoin-zitadelle-en-trans.021.png" %}
+{% include image.html link="/time" name="bitcoin-zitadelle-en-trans.021.png" %}
 
 To run the informational construct that is Bitcoin, real electrons in
 the real world have to be pushed around.
@@ -235,7 +235,7 @@ half-jokingly, but it is also profoundly true.
 
 All interactions are voluntary. They have to be. Ideas are non-violent.
 
-{% include image.html name="bitcoin-zitadelle-en-trans.031.png" %}
+{% include image.html link="/support" name="bitcoin-zitadelle-en-trans.031.png" %}
 
 Fighting Bitcoin is fighting a global, voluntary, opt-in network, that
 does nothing but utilize math and physics to enable value transfer via
