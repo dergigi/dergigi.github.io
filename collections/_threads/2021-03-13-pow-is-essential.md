@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: thread
 title: "PoW is essential"
 subtitle: "A failure to understand proof of work is a failure to understand Bitcoin."
 date: 2021-03-13

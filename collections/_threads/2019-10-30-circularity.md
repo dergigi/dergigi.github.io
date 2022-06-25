@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: thread
 title: "Circularity"
 subtitle: "A thread about Bitcoin, religion, mirrors, my rabbit
 hole journey, and where Bitcoin (and bitcoiners) might go in the next

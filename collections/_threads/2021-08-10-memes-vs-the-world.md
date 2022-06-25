@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: thread
 title: "Memes vs The World"
 subtitle: "This is our meme world, everyone else is just living in it."
 date: 2021-08-10
