@@ -52,7 +52,7 @@ any traditional sense. Bitcoin is non-violent. It is like a game of
 correspondence chess. So: why call it war?
 
 My detailed response is contained in
-[dergigi.com/speech](http://dergigi.com/speech) and goes
+[Inalienable Property Rights][speech] and goes
 like this: bitcoin is non-violent play, a game of message passing that
 makes the threat of violence impotent.
 
@@ -87,21 +87,42 @@ ideas.
 I don\'t \"own\" the number 3; you can\'t violate this \"property\" of
 mine. Thoughts and things are different, and Bitcoin ultimately operates
 in the realm of thoughts. It is substrate-independent.
-[![Image](https://threadreaderapp.com/images/1px.png){data-src="https://pbs.twimg.com/media/FR8TgTYXoAcfbTO.jpg"}](https://pbs.twimg.com/media/FR8TgTYXoAcfbTO.jpg)
-^^
+
+> We must accept that the nature of information is very different from the
+> nature of physical objects. While you can own an apple, you can't own a word or
+> a number in any meaningful sense. If you want to exclusively know something,
+> then you must not share it. You must keep it secret. As George Bernard Shaw so
+> succinctly put it: 'If you have an apple and I have an apple and we exchange
+> these apples then you and I will still each have one apple. But if you have an
+> idea and I have an idea and we exchange these ideas, then each of us will have
+> two ideas.'
+>
+> <cite>[Inalienable Property Rights][speech]</cite>
+
+[speech]: {{ '/speech' | absolute_url }}
+
+{% include image.html otherPost="2022-04-03-inalienable-property-rights" name="apples-and-ideas.png" %}
 
 Once any dispute is settled---via what Adam Gibson called the
 \"reification of information\"---we move permanently from the physical
 to the informational. That\'s why you can have 12 words in your head; 12
-words that represent value \*directly.\*
-[![Image](https://threadreaderapp.com/images/1px.png){data-src="https://pbs.twimg.com/media/FR8TkdYXsAA1T-2.jpg"}](https://pbs.twimg.com/media/FR8TkdYXsAA1T-2.jpg)
-^^
+words that represent value *directly*.
 
-Yes, Bitcoin settles disputes extra-legally, i.e., outside of the law.
+> Because the information speaks for itself, once a valid block is found, we
+> move from the domain of violence to the domain of ideas. The work is done, the
+> word has been spoken, and as soon as this information propagates to other
+> players, the cat is out of the bag. Flesh became Word, and words---like ideas---are
+> bulletproof.
+>
+> <cite>[Inalienable Property Rights][speech]</cite>
+
+{% include image.html otherPost="2022-04-03-inalienable-property-rights" name="nonviolent.png" %}
+
+Yes, Bitcoin settles disputes extra-legally, i.e., outside of the [law][law].
 But it does so non-violently. Further, it doesn\'t do it because of any
 deliberate property violation. It does so out of necessity.
 
-[dergigi.com/law](http://dergigi.com/law){preview="true"} ^^
+[law]: {{ '/law' | absolute_url }}
 
 The need to settle disputes arises naturally through the physical
 limitations of information propagation. It is impossible to have a
