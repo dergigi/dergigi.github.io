@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: thread
 title: "Understand Peace"
 subtitle: "Want to Understand Bitcoin? Understand Peace."
 date: 2022-05-04

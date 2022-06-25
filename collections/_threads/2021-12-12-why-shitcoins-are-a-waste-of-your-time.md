@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: thread
 title: "Why shitcoins are a waste of your time"
 subtitle: "A thread on competition, money, and energy."
 date: 2021-12-12
