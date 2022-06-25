@@ -5,7 +5,7 @@ subtitle: "I am a Bitcoin maximalist from first principles, not by choice. I rea
 date: 2022-05-30
 blocktime: TODO
 source: https://twitter.com/dergigi/status/1531348561983578116
-redirect_from: peace
+redirect_from: maximalism
 archive: https://archive.ph/5BKWx
 author: Gigi
 category: bitcoin
@@ -52,22 +52,23 @@ Without the [reification of information][reify], trust is required. [PoW][pow]
 puts truth into history. It is the only consensus mechanism that works without
 trust. 
 
-[reify]: {{ '/speech#reify' | absolute_url }}
+[reify]: {{ '/speech/#reify' | absolute_url }}
 [pow]: {{ '/pow' | absolute_url }}
 
 Money is a requirement. If the native unit is bad money, the network
 will have bad security. All money competes for liquidity. Without money,
 no security. Without security, no value. Without value, no immutability.
 
+
 This has to grow organically.
-[![](https://threadreaderapp.com/images/1px.png){data-src="https://pbs.twimg.com/media/FUBtl7qWIAkT7_Y.jpg"}](https://pbs.twimg.com/media/FUBtl7qWIAkT7_Y.jpg)
+
+{% include image.html link="/speech" otherPost="2022-04-03-inalienable-property-rights" name="bitcoin-sats-loop.png" %}
 
 PoW makes electricity a requirement. All electricity competes for
 utility, or, more accurately, all utilities compete for electricity.
 Electricity equals shield thickness, nothing else.
 
-[dergigi.com/memeworld](http://dergigi.com/memeworld){preview="true"}
-[![](https://threadreaderapp.com/images/1px.png){data-src="https://pbs.twimg.com/media/FUBtyY6XsAIef9I.jpg"}](https://pbs.twimg.com/media/FUBtyY6XsAIef9I.jpg)
+{% include image.html link="/memeworld" otherPost="2021-08-10-memes-vs-the-world" name="bitcoin-zitadelle-en.027.jpeg" %}
 
 Electricity is singular. You can't use the same kWh for ten different
 things. You have to split it; you have to decide. Energy can't be
