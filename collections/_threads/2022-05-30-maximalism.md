@@ -68,7 +68,7 @@ PoW makes electricity a requirement. All electricity competes for
 utility, or, more accurately, all utilities compete for electricity.
 Electricity equals shield thickness, nothing else.
 
-{% include image.html link="/memeworld" otherPost="2021-08-10-memes-vs-the-world" name="bitcoin-zitadelle-en.027.jpeg" %}
+{% include image.html link="/memeworld" otherPost="2021-08-10-memes-vs-the-world" name="bitcoin-zitadelle-en-trans.027.png" %}
 
 Electricity is singular. You can't use the same kWh for ten different
 things. You have to split it; you have to decide. Energy can't be
@@ -83,34 +83,34 @@ most secure & most liquid money than some random shitcoin. It is better
 to mine the hardest & most secure & most liquid money than some random
 shitcoin. Especially if your intention is to sell it anyway. 
 
-Once you hold a certain money, you are incentivized to use and protect
-said money properly. Not your keys, not your coins. Not your node, not
+Once you hold a certain money, [you are incentivized to use and protect
+said money][gravity] properly. Not your keys, not your coins. Not your node, not
 your rules. Not your hash, not your say.
-[dergigi.com/gravity](http://dergigi.com/gravity){preview="true"} 
+
+[gravity]: {{ '/gravity' | absolute_url }}
 
 The design space of money is limited. There is no need to reinvent the
 wheel, and there is no need to reinvent perfectly sound money.
 
-> [https://twitter.com/dergigi/status/1456924410057838592?s=20&t=P0TQDyWyoU9WKtUNbUbsjQ](https://twitter.com/dergigi/status/1456924410057838592)
+> In fact, bitcoin pretty much perfected most - if not all - important
+> characteristics of money. The design space of money is limited, as is the design
+> space of a wheel or stackable containers.
 
-
+{% include image.html link="https://twitter.com/dergigi/status/1456924410057838592?s=20&t=iDUDcPuG3jOTUACNUrYRWA" name="honeycombs.jpg" %}
 
 Bitcoin is pretty much perfect: absolutely finite, insanely divisible,
 no mass, can be teleported, can be held in your head, with infinite
 value density. Permissionless & easily/cheaply verifiable by anyone.
-Issuance schedule set in stone, linked to time.
+Issuance schedule set in stone, linked to [time].
 
-[dergigi.com/2021/01/14/bit...](https://dergigi.com/2021/01/14/bitcoin-is-time/){preview="true"}
-
+[time]: {{ '/time' | absolute_url }}
 
 Without demand and long-term holding, the value of all shitcoins trends
 towards zero in bitcoin terms. Consequently, the security of all
-shitcoins goes to zero in the long run. Non-PoW chains are insecure &
+shitcoins goes to zero in the long run. Non-[PoW] chains are insecure &
 centralized by default.
 
-> [https://twitter.com/dergigi/status/1392826448017346561?s=20](https://twitter.com/dergigi/status/1392826448017346561)
-
-
+[PoW]: {{ '/pow' | absolute_url }}　
 
 While Bitcoin's supply schedule is unchanging, the network is not.
 Upgrades have been made in the past, enabling Lightning and other
@@ -119,29 +119,26 @@ things. More upgrades will follow as users opt-in to these upgrades.
 Sats are the finite and teleportable atomic unit of Bitcoin's base
 money. Everything else is being built on top. Payments are already
 better, faster, and more private than they were before. Identity and
-authentication can be built on top.
+[authentication] can be built on top.
 
-[lightninglogin.live](https://lightninglogin.live/){preview="true"} 
+[authentication]: https://lightninglogin.live/
 
-The immaculate conception of Bitcoin as base money is as important as
+The [immaculate conception][L5] of Bitcoin as base money is as important as
 its organic growth, both in regards to supply distribution and security.
 It grew in the shade, and Satoshi disappeared. This can't happen again.
 
-[21lessons.com/5/](http://21lessons.com/5/){preview="true"} 
+[L5]: http://21lessons.com/5/
 
 Bitcoin is our best shot at the separation of money and state. The
 government monopoly of the issuance and control of money is the source
 and root of all monetary evil, as Hayek argued.
 
 Things are fucked, and Bitcoin fixes this.
-[![](https://threadreaderapp.com/images/1px.png){data-src="https://pbs.twimg.com/media/FUBsOhkWYAQarLT.jpg"}](https://pbs.twimg.com/media/FUBsOhkWYAQarLT.jpg)
-
 
 It's time to stop playing games. There is bitcoin, and there's
-shitcoins. The former is time, the latter is a waste of your time.
+shitcoins. The former is time, the latter is a [waste of your time][shitcoins].
 
-[#Bitcoin](https://threadreaderapp.com/hashtag/Bitcoin) is freedom
-money. All other monies enslave you in one way or another. Only Bitcoin
-makes the individual sovereign.
+[shitcoins]: {{ '/shitcoins' | absolute_url }}
 
-> [https://twitter.com/dergigi/status/1469820940884262913?s=20&t=TBzAgr3lgnEsfntCtOuVYQ](https://twitter.com/dergigi/status/1469820940884262913)
+Bitcoin is freedom money. All other monies enslave you in one way or another.
+Only Bitcoin makes the individual sovereign.
