@@ -3,7 +3,7 @@ layout: thread
 title: "Maximalism"
 subtitle: "I am a Bitcoin maximalist from first principles, not by choice. I reasoned myself into maximalism, and you can too."
 date: 2022-05-30
-blocktime: TODO
+blocktime: 738614
 source: https://twitter.com/dergigi/status/1531348561983578116
 redirect_from: maximalism
 archive: https://archive.ph/5BKWx
@@ -134,6 +134,8 @@ government monopoly of the issuance and control of money is the source
 and root of all monetary evil, as Hayek argued.
 
 Things are fucked, and Bitcoin fixes this.
+
+{% include image.html name="hayek.jpg" %}
 
 It's time to stop playing games. There is bitcoin, and there's
 shitcoins. The former is time, the latter is a [waste of your time][shitcoins].
