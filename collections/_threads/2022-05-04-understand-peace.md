@@ -3,7 +3,7 @@ layout: post
 title: "Understand Peace"
 subtitle: "Want to Understand Bitcoin? Understand Peace."
 date: 2022-05-04
-blocktime: 601679
+blocktime: 734,866
 source: https://twitter.com/dergigi/status/1521957852541329414
 redirect_from: peace
 archive: https://archive.ph/wStFL
