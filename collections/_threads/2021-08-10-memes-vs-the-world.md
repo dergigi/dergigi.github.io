@@ -30,7 +30,7 @@ With this quote by [bitstein](https://twitter.com/bitstein) I began my
 talk about "memes" and "the world" at the
 [BTC Zitadelle](https://twitter.com/BTCZitadelle) this weekend. 👇
 
-{% include image.html name="bitcoin-zitadelle-en-trans.001.png" %}
+{% include image.html link="https://youtu.be/PBAuHv5cPl8" name="bitcoin-zitadelle-en-trans.001.png" %}
 
 My talk wasn't about memes, since I wouldn't be able to top Bitstein's
 talk anyway.
@@ -77,7 +77,7 @@ As a side note, this is also the root of the evil that is fiat money.
 Fiat money is a map without an underlying reality. The map decoupled
 from the underlying reality of gold and silver over time.
 
-{% include image.html name="bitcoin-zitadelle-en-trans.009.png" %}
+{% include image.html link="https://21lessons.com/12" name="bitcoin-zitadelle-en-trans.009.png" %}
 
 Back to information vs objects: information can be shared freely. It
 isn't scarce like physical objects. You can share an idea without losing
@@ -246,7 +246,7 @@ Peace, Love, and Truth are on our side.
 
 Bring it.
 
-{% include image.html name="bitcoin-zitadelle-en-trans.032.png" %}
+{% include image.html link="/law" name="bitcoin-zitadelle-en-trans.032.png" %}
 
 P.S: I hope to make the slides and the source material available soon,
 as well as publish the relevant chapters of my upcoming book as soon as
