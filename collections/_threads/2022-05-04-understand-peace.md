@@ -77,9 +77,13 @@ We probably agree on more things than we disagree on, I just heavily
 disagree with the framing of violence and war as I have said multiple
 times in the past.
 
-It boils down to what Applebaum has said: 
+It boils down to what Appelbaum has said: 
 
 > No amount of violence will ever solve a math problem.
+> 
+> <cite>[Jacob Appelbaum][cypherpunks]</cite>
+
+[cypherpunks]: https://bitcoin-resources.com/books/cypherpunks
 
 It truly is apples and oranges, and since this is Bitcoin, oranges are
 ideas.
@@ -129,31 +133,45 @@ limitations of information propagation. It is impossible to have a
 globally synchronized state at a single time. Our universe forbids it.
 That\'s why we will always have orphan blocks.
 
-> [https://twitter.com/dergigi/status/1507303872028680197?s=20&t=Vmzp1tZs4GfYMItcdWnllw](https://twitter.com/dergigi/status/1507303872028680197)
 
-^^
+{% include image.html otherPost="2022-05-25-physical-limits" name="hash-horizon.png" %}
+
+> While Bitcoin is just information, there are real physical limits that all
+> decentralized systems will run in to. One limit is the speed of light and thus
+> the time window in which consensus can be reached.
+>
+> <cite>[Hash Horizons][sol]</cite>
+
+[sol]: {{ '/sol' | absolute_url }}
 
 The probabilistic nature of this dispute settlement is also what makes
 \"attacks\" via pure hash-force not very meaningful, and the economic
 nature of PoW makes disruption not very sustainable long-term, as
-[\@adam3us](https://twitter.com/adam3us) pointed out.
+Adam Back pointed out:
 
-> [https://twitter.com/adam3us/status/1505088264536997888?s=20&t=OgRvu9VyukzKsDcIZX96fg](https://twitter.com/adam3us/status/1505088264536997888)
-
-^^
+> They lose money due to second order effects and anti-fragile reactive extra
+> lines of defense, so they still lose, for someone who thinks a few moves ahead
+> in the economic game theory. Firstly they impact bitcoin price and confidence
+> potentially, hurting their payout, and value of their $10bil+ of ASICs and power
+> infrastructure. Secondly, the network will reactively defend, e.g. by mutual
+> defense agreement to periodically call RPC invalidateBlock on attack blocks
+> until the attacker runs out of money and resolve. So I think in reality
+> bitcoin is more secure than first order thinking assumes. 
+>
+> <cite>[Adam Back](https://nitter.net/adam3us/status/1505088264536997888#m)</cite>
 
 In conclusion: if you\'re hell-bent on using the language of war because
 it is the only way to convince the US military to start mining, so be
 it.
 
 That doesn\'t make hashing violent, though, or Nakamoto Consensus a
-massacre, or the timechain a battlefield. ^^
+massacre, or the timechain a battlefield.
 
 Let\'s reserve all these war terms for meatspace, where actual bullets
 and actual bombs kill actual people, shall we? Words are not violence,
 and Bitcoin is just that: all text, all the time.
 
-Peace & Love.\
+Peace & Love. \\
 Not violence & war.
 
 🙏🧡
