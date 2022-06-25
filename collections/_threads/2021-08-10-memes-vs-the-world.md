@@ -219,7 +219,7 @@ make accurate inferences about the real world - based on the laws of
 thermodynamics, information, and probability theory - by LOOKING AT A
 NUMBER.
 
-{% include image.html name="bitcoin-zitadelle-en-trans.029.png" %}
+{% include image.html name="mind-blown.gif" %}
 
 Because of this, the Bitcoin timechain is the most truthful record we
 have of past events. No other information comes close in terms of
