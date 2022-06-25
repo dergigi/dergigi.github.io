@@ -135,7 +135,7 @@ and root of all monetary evil, as Hayek argued.
 
 Things are fucked, and Bitcoin fixes this.
 
-{% include image.html name="hayek.jpg" %}
+{% include image.html link="/speech" name="hayek.jpg" %}
 
 It's time to stop playing games. There is bitcoin, and there's
 shitcoins. The former is time, the latter is a [waste of your time][shitcoins].
