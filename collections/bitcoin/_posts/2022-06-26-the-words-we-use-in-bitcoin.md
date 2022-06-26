@@ -253,12 +253,15 @@ This brings us to the next problematic metaphor: coins.
 I always loved this quote by Peter Van Valkenburgh, musing on the
 [locality](https://21lessons.com/3/) of bitcoin---or lack thereof:
 
-"Where is it, at this moment, in transit? \[...\] First, there are no
-bitcoins. There just aren't. They don't exist. There are ledger
-entries in a ledger that's shared \[...\] They don't exist in any
-physical location. The ledger exists in every physical location,
-essentially. Geography doesn't make sense here --- it is not going to
-help you figuring out your policy here."
+> Where is it, at this moment, in transit? [...] First, there are no
+> bitcoins. There just aren't. They don't exist. There are ledger
+> entries in a ledger that's shared [...] They don't exist in any
+> physical location. The ledger exists in every physical location,
+> essentially. Geography doesn't make sense here --- it is not going to
+> help you figuring out your policy here.
+>
+> <cite>[Peter Van Valkenburgh](https://21lessons.com/3/)</cite>
+
 
 What we call "coins" only exist by convention. The protocol is
 oblivious to our notion of coins. It only knows sats and spent or
