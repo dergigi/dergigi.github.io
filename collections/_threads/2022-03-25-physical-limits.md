@@ -3,9 +3,9 @@ layout: thread
 title: "Physical Limits"
 subtitle: "On the physical limits of consensus."
 date: 2022-03-25
-blocktime: TODO
+blocktime: 728925
 source: https://twitter.com/dergigi/status/1507294786268585995
-redirect_from: maximalism
+redirect_from: sol
 archive: https://archive.ph/WF8zj
 author: Gigi
 category: bitcoin
