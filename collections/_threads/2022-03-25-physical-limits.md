@@ -69,6 +69,8 @@ Unfortunately, we can't bring Bitcoin with us to the stars, we would have to
 start a new center of hash on the multi-generational starship (unless we all
 go). (h/t [Dhruv Bansal](https://unchained.com/blog/law-of-hash-horizons/))
 
+{% include image.html name="center-of-hash.jpg" link="https://unchained.com/blog/law-of-hash-horizons/" %}
+
 If a project is truly decentralized it must not have a central keeper of
 time.
 
