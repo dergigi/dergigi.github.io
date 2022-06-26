@@ -84,7 +84,7 @@ network, you need to interact with a Bitcoin node. You need a way to
 access the public information, the "distributed ledger" that is so
 often mentioned by finance and crypto bros alike.
 
-![](https://lh5.googleusercontent.com/SvE0mHTVvG7O0vhJcVv79U7DboN7re6N08HuYBGrkPQT07pPL2FXUj36XqH_5nlB3oD5dMB54_Foa44yywlVAPsgSAjwCEEcWpDK4kQE_Z-THgZFA1ZNK-i6Lbfw3Snir8YsOKNWal9XhrkJQw)
+{% include image.html name="private-public-bitcoin.png" %}
 
 What we have historically called a bitcoin wallet, thus, is just some
 software that manages and stores keys and allows the user to easily use
@@ -106,7 +106,7 @@ as "vaults"---a powerful and clear distinction. The vault metaphor
 makes it immediately obvious that whatever is stored in the vault is
 there for the long haul. It isn't spendable easily or quickly.
 
-![](https://lh6.googleusercontent.com/L4zzWa9GJaAIc1dU6VDtUSiRVruR-YxZP6Ozheevdzq9yuQF3D-4qfkAY-ZsGicFBOu9ySSi5vk_pbzBYuPAEMZsqNAyZsJYJfdE-eKE3xaSWE8m_MkDL2oOGHjLOZfGuNpfw5LKswRql0ohKA)
+{% include image.html name="cold-storage.png" %}
 
 I hope that, in the future, we will also manage to do away with the
 generic "wallet" term. When it comes to hardware wallets, a change of
@@ -141,7 +141,7 @@ Bitcoin, of course. Plenty of other software uses cryptographic keys to
 sign stuff, which is why in 2010, this abomination of an emoji was
 introduced: the padlock, "locked with pen."
 
-![](https://lh6.googleusercontent.com/-5DbWcC_vWhenNhsFv5DbVfWuif_aMqqpAo6_I4edYj0jFrzGsYh8QDwIjOHrprn2QP_XnhrNnQVFgiIgxlGaFpYFSvf5SHlEe790vxikZyL6-vAuGmfehI7ExWN-S6wA1WXWnt4csy_srS_gw)
+{% include image.html name="locked-with-pen.png" %}
 
 Consequently, a "key" in bitcoin is more like a pen, not an actual key.
 Granted, you can use your key to "unlock" sats that are "locked" by
@@ -165,7 +165,7 @@ allow you to spend your sats are connected to the internet at all times.
 If your computer or smartphone is compromised, your funds are at risk.
 Such are the tradeoffs between "hot" wallets and "cold" storage.
 
-![](https://lh5.googleusercontent.com/_wGRzX09ykHkWDD-r1SHmeCLWf3B_7tHcOruKVeAFXmEyppQoLB6DH-SvqL7GybCVqPk8ToT13i1IRR_rwLajbV1gi1mCQNFyvEB_LR6pmZZNj0fQyjGiQc9bhn__enlqGPv75BwAuATLgP8WQ)
+{% include image.html name="hot-wallet.png" %}
 
 "Hot" and "cold" are again, of course, metaphors. A hot wallet is hot
 like a microphone in a recording studio is hot. It means that it's
@@ -244,7 +244,7 @@ size---you can think about every transaction as a smelting process. All
 inputs are liquified in a big furnace, and new coins are created as
 outputs.
 
-![](https://lh5.googleusercontent.com/g6eDVAOzI1nxXNC7J5IqYR4axvTjrb9PHsviK9eOHUIzxLEwaR0BzUfvornB8Ee3aoPL20AX-bnTSJ6Nq9TVo0r6y99xwlxC63I2rWMNvUKw36Q4E86sZ21RlmSecTUgrOzsQ76HU2K-Vc-htg)
+{% include image.html name="smelting.png" %}
 
 This brings us to the next problematic metaphor: coins.
 
@@ -272,7 +272,7 @@ real-world experience. We have an intuitive understanding of these
 metaphors, so it is clear what is happening if one "coin" moves from
 one "wallet" to another "wallet"---or so we think.
 
-![](https://lh5.googleusercontent.com/T06r8bp02g4BQBYE55PBoZUZB2tsz069DEAMrlKD9YfcyGylUFm18V4lzI835NZfpks0cfXAP2ygavCzV6Dt48NX_SDb10CUSuoQbW8kZGsb0gKYyFs4UpS3T7Ntj_fVao9aobqkQ2SV7AIxeA)
+{% include image.html name="leather-wallets.png" %}
 
 While the mental image of coins moving from one wallet to the next in an
 intuitive and easy-to-understand manner is a comforting one,
