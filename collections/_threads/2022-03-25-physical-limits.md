@@ -29,6 +29,8 @@ the other end (in the best case).
 Relativistic effects make global consensus below this time window
 impossible. Universal time does not exist.
 
+{% include image.html name="simultaneity.png" %}
+
 <div class="flex-vid">
   <iframe src="https://www.youtube-nocookie.com/embed/SrNVsfkGW-0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
