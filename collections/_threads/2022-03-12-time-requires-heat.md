@@ -3,7 +3,7 @@ layout: thread
 title: "Time Requires Heat"
 subtitle: "Why proof-of-work is not optional."
 date: 2022-03-12
-blocktime: TODO
+blocktime: 736043
 source: https://twitter.com/dergigi/status/1392409660154646529
 redirect_from: heat
 archive: https://archive.ph/JSThS
