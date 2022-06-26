@@ -2,7 +2,7 @@
 layout: thread
 title: "Physical Limits"
 subtitle: "On the physical limits of consensus."
-date: 2022-05-25
+date: 2022-03-25
 blocktime: TODO
 source: https://twitter.com/dergigi/status/1507294786268585995
 redirect_from: maximalism

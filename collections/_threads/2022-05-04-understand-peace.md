@@ -131,8 +131,7 @@ limitations of information propagation. It is impossible to have a
 globally synchronized state at a single time. Our universe forbids it.
 That\'s why we will always have orphan blocks.
 
-
-{% include image.html otherPost="2022-05-25-physical-limits" name="hash-horizon.png" %}
+{% include image.html otherPost="2022-03-25-physical-limits" name="hash-horizon.png" %}
 
 > While Bitcoin is just information, there are real physical limits that all
 > decentralized systems will run in to. One limit is the speed of light and thus
