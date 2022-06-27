@@ -528,8 +528,11 @@ consensus mechanisms, just as good as Bitcoin's proof-of-work." No.
 Wrong. Proof-of-stake is make-believe, and it will inevitably lead to
 all the ills that the make-believe world of the fiat monetary system
 suffers from, as the various failures of these systems show time and
-time again. \[TODO: Add footnotes to failures of voting & timing &
-governance\]
+time again.[^pos]
+
+[^pos]: See [dergigi.com/pos][pos] to understand why proof-of-stake is and always will be a defective consensus mechanism.
+
+[pos]: {{ '/pos' | absolute_url }}
 
 ## Conclusion 
 
