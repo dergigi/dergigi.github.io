@@ -430,29 +430,17 @@ how empowering it truly is, which is why they will do everything they
 can to keep you numb, dependent, and enslaved. "They want more for
 themselves and less for everybody else," to quote [George
 Carlin](https://youtu.be/3fGQ8pF3wYU). "They don't want well-informed,
-well-educated people capable of critical thinking."
+well-educated people capable of critical thinking."[^carlin]
 
-\[TODO: Insert video, <https://youtu.be/3fGQ8pF3wYU> \]
+<div class="flex-vid">
+  <iframe src="https://www.youtube-nocookie.com/embed/3fGQ8pF3wYU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+[^carlin]: "The politicians are put there to give you the idea that you have freedom of choice. You don't. You have no choice. You have owners. They own you. They own everything. They own all the important land. They own and control the corporations. They've long since bought and paid for the Senate, the Congress, the state houses, the city halls. They got the judges in their back pockets and they own all the big media companies, so they control just about all of the news and information you get to hear. They got you by the balls. They spend billions of dollars every year lobbying. Lobbying to get what they want.  Well, we know what they want. They want more for themselves and less for everybody else, but I'll tell you what they don't want. They don't want a population of citizens capable of critical thinking. They don't want well-informed, well-educated people capable of critical thinking.  They're not interested in that. That doesn't help them. That's against their interests."
 
 Ask yourself: should flipping a coin 256 times be illegal? What about
 math? What about having certain thoughts? Do we really want to live in a
 world in which having 12 words in your head makes you an outlaw?
-
-\[TODO: Footnote or quote: "The politicians are put there to give you
-the idea that you have freedom of choice. You don't. You have no
-choice. You have owners. They own you. They own everything. They own all
-the important land. They own and control the corporations. They've long
-since bought and paid for the Senate, the Congress, the state houses,
-the city halls. They got the judges in their back pockets and they own
-all the big media companies, so they control just about all of the news
-and information you get to hear. They got you by the balls. They spend
-billions of dollars every year lobbying. Lobbying to get what they want.
-Well, we know what they want. They want more for themselves and less for
-everybody else, but I'll tell you what they don't want. They don't
-want a population of citizens capable of critical thinking. They don't
-want well-informed, well-educated people capable of critical thinking.
-They're not interested in that. That doesn't help them. That's
-against their interests." --George Carlin\]
 
 ### #ChangeTheCode 
 
@@ -542,14 +530,23 @@ governance\]
 
 ## Conclusion 
 
-Words have meanings, which is why we should choose them wisely and
-carefully. Bitcoin is not wasteful. Bitcoin is not closed source.
-Bitcoin is not controlled by shadowy supercoders. \[TODO: Add Footnotes
-(Parker Lewis, GitHub, Blocksize War)\] Bitcoin is not war. An ASIC is
-not a gun. If anything, Bitcoin is a Wittgensteinian language-game,
-using [words](https://dergigi.com/speech) and chance for [peaceful
-conflict resolution](https://dergigi.com/peace). \[TODO: Add Footnote,
-Farrington\]
+Words have meanings, which is why we should choose them wisely and carefully.
+Bitcoin is not wasteful.[^parker] Bitcoin is not closed source.[^github]  Bitcoin is not
+controlled by shadowy supercoders.[^bier] \[TODO: Add Footnotes (Parker Lewis, GitHub,
+Blocksize War)\] Bitcoin is not war. An ASIC is not a gun. If anything, Bitcoin
+is a Wittgensteinian[^farrington] language-game, using [words][speech] and
+chance for [peaceful conflict resolution][peace].
+
+[speech]: {{ '/speech' | absolute_url }}
+[peace]: {{ '/peace' | absolute_url }}
+
+[^github]: Bitcoin is and always was free and open-source software. It is released under the [MIT License](https://github.com/bitcoin/bitcoin/blob/master/COPYING). "Being open source means anyone can independently review the code.  If it was closed source, nobody could verify the security.  I think it's essential for a program of this nature to be open source." ---[Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/17/) (2009)
+
+[^parker]: Parker Lewis (2019). *[Bitcoin Does Not Waste Energy](https://bitcoin-resources.com/articles/bitcoin-does-not-waste-energy/)*
+
+[^farrington]: Allen Farrington (2020). *[Wittgenstein's Money](https://bitcoin-resources.com/articles/wittgensteins-money/)*
+
+[^bier]: Jonathan Bier (2021). *[The Blocksize War](https://bitcoin-resources.com/books/the-blocksize-war)*
 
 Allocation follows perception, as does public policy. Perception, in
 turn, is shaped by our understanding and the very words we use to arrive
@@ -601,4 +598,6 @@ up and the points don't matter."
 The points in Bitcoin *do* matter, as do the words that we use to
 describe it. Bitcoin is truthful and precise in its
 [speech](https://dergigi.com/speech), and we should strive to be too.
+
+---
 
