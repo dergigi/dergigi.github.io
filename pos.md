@@ -7,10 +7,6 @@ subtitle: The failures of a centralized "consensus" mechanism
 Proof-of-stake is no alternative to [proof-of-work][pow].
 When deployed, proof-of-stake will run into failures in the long run, because it has fundamentally flaws that can not be addressed without proof-of-work.
 
-Some recent failures incluce:
-
-- TODO
-
 Read the following to understand why proof-of-stake has and will always fail:
 
 - [What’s Wrong with Proof of Stake?](https://medium.com/@BobMcElrath/whats-wrong-with-proof-of-stake-77d4f370be15) by Bob McElrath
@@ -29,6 +25,19 @@ If you are more on the academic side of things, here are some papers:
 [Poelstra2014]: {{ site.url }}/assets/files/Poelstra2014.pdf
 [Poelstra2015]: {{ site.url }}/assets/files/Poelstra2015.pdf
 [Sus2022]: {{ site.url }}/assets/files/Sus2022.pdf
+
+---
+
+Some recent failures include:
+
+- **2022-05-27** [Solana's blockchain clock loses track of time][sol-clock], now running 30 minutes behind (see [Lesson 17][L17] and [Bitcoin is Time][time])
+- **2022-06-19** - Solana: [1 vote][sol-vote-img], making up 90% of total votes, [decided the fate][sol-vote] of ~$270m in users assets
+
+[L17]: https://21lessons.com/17/
+
+[sol-clock]: https://archive.ph/jlVn4
+[sol-vote]: https://archive.ph/f3boB
+[sol-vote-img]: {{ site.url }}/assets/images/shitcoins/sol-vote.jpg
 
 ---
 
