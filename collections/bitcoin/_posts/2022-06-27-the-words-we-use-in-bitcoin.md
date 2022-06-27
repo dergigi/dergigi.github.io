@@ -296,9 +296,11 @@ money is used between parties that aren't fully trusting each other in
 the first place. Consequently, a monetary system is an adversarial
 system. 
 
-Everyone would love to have something for nothing; to cheat the system
-and get away with it. Everyone's a scammer; everyone wants to get some
-sats for free.
+Everyone would love to have something for nothing; to cheat the system and get
+away with it. Everyone's a scammer;[^bitstein] everyone wants to get some sats
+for free.
+
+[^bitstein]: M. Goldstein (2014). *[Everyone's a Scammer](https://nakamotoinstitute.org/mempool/everyones-a-scammer/)*
 
 Bitcoin is the biggest honeypot the world has ever seen; everyone and
 their grandma would love to break it. Further, the powers that be are,
@@ -367,10 +369,10 @@ monetary problems in the first place, but I'm afraid that we will have
 to learn the lessons of history and the lessons of Mt. Gox over and over
 and over again: money held and controlled by others can and will be
 manipulated. We do not want to make this mistake again, which is why the
-following became a mantra of sorts: not your keys, not your bitcoin.
+following became a mantra of sorts: *not your keys, not your bitcoin.*
 
 Bitcoin wallets are supposed to be unhosted---or, to use a word that
-wasn't made up by devilish puppeteers: independent. The purpose of
+wasn't made up by devilish puppeteers: *independent*. The purpose of
 Bitcoin is to bring full sovereignty to the individual and to remove all
 dependencies on trusted third parties. No rulers, no masters, no hosts.
 Only peers.
@@ -447,9 +449,11 @@ Another phrase, another implication. The #ChangeTheCode campaign is
 ingenious; you have to give them that. It implies that Bitcoin's code
 can't be changed, which couldn't be further from the truth.
 
-Bitcoin is free and open-source software released under the MIT
+Bitcoin is free[^gnu] and open-source software released under the MIT
 License.[^github] This means that anyone can change the code, Greenpeace or not,
 without having to ask for permission.
+
+[^gnu]: [What is Free Software?](https://www.gnu.org/philosophy/free-sw.html) by the Free Software Foundation
 
 Allow me to replicate the license in full:
 
