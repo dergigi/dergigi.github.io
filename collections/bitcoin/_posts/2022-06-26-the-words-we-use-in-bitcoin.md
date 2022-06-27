@@ -5,7 +5,7 @@ subtitle: "Words, Language, Terminology, and Linguistic Attacks"
 description: "TODO"
 date: 2022-06-26
 blocktime: TODO
-image: /assets/images/TODO.jpg
+image: /assets/images/btc-terminology.jpg
 redirect_from: /terminology
 author: Gigi
 category: bitcoin
