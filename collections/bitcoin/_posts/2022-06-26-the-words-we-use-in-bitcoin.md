@@ -509,8 +509,9 @@ fair issuance, and the problem of unforgeable costliness in the digital
 realm. It embeds [objective
 truth](https://dergigi.com/2022/04/03/inalienable-property-rights/#reify)
 into a blob of data directly, which is why it is trustless and reliable.
-The information "speaks for itself," to quote Satoshi. \[Footnote:
-https://satoshi.nakamotoinstitute.org/posts/bitcointalk/327/\]
+The information "speaks for itself," to quote Satoshi.[^satoshi]
+
+[^satoshi]: "Proof-of-work has the nice property that it can be relayed through untrusted middlemen.  We don't have to worry about a chain of custody of communication.  It doesn't matter who tells you a longest chain, the proof-of-work speaks for itself." ---[Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/327/) (2010)
 
 Proof-of-stake, on the other hand, has no objective truth, no objective
 time, no random selection, no fair issuance, no outside cost, no
@@ -576,15 +577,9 @@ other words we use are insufficient to truly explain what is going on.
 
 The confusion which inevitably arises out of this misunderstanding is
 used and abused by Bitcoin's detractors, be it from the church of
-"fiat" or the cult of "crypto." \[Footnote: One should note that
-"crypto" is another linguistic attack on Bitcoin, making it seem like
-there are many other projects that are either interesting, viable, or
-comparable. This couldn't be further from the truth. Virtually all of
-"crypto" is a scam. The word "crypto" also leaves out the other half
-of what makes Bitcoin work, namely the "econ" part. After all, Bitcoin
-is a
-[cryptoeconomic](https://bitcoin-resources.com/books/cryptoeconomics)
-system.\]
+"fiat" or the cult of "crypto."[^crypto] 
+
+[^crypto]: One should note that "crypto" is yet another linguistic attack on Bitcoin, making it seem like there are many other projects that are either interesting, viable, or comparable. This couldn't be further from the truth. Virtually all of "crypto" is a scam. The word "crypto" also leaves out the other half of what makes Bitcoin work, namely the "econ" part. After all, Bitcoin is a [cryptoeconomic](https://bitcoin-resources.com/books/cryptoeconomics) system.
 
 Obviously, "honeybadger don't care" when it comes to most of these
 attacks. Bitcoin will march on regardless, but that doesn't mean that
