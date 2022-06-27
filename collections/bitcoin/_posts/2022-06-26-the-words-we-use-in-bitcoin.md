@@ -531,11 +531,11 @@ governance\]
 ## Conclusion 
 
 Words have meanings, which is why we should choose them wisely and carefully.
-Bitcoin is not wasteful.[^parker] Bitcoin is not closed source.[^github]  Bitcoin is not
-controlled by shadowy supercoders.[^bier] \[TODO: Add Footnotes (Parker Lewis, GitHub,
-Blocksize War)\] Bitcoin is not war. An ASIC is not a gun. If anything, Bitcoin
-is a Wittgensteinian[^farrington] language-game, using [words][speech] and
-chance for [peaceful conflict resolution][peace].
+Bitcoin is not wasteful.[^parker] Bitcoin is not closed source.[^github]
+Bitcoin is not controlled by shadowy supercoders.[^bier] Bitcoin is not war. An
+ASIC is not a gun. If anything, Bitcoin is a [Wittgensteinian
+language-game][speech],[^farrington] using words and chance for [peaceful
+conflict resolution][peace].
 
 [speech]: {{ '/speech' | absolute_url }}
 [peace]: {{ '/peace' | absolute_url }}
@@ -556,8 +556,11 @@ In a world awash in euphemisms and blatant lies, calling something by
 its proper name is rebellious in itself. Bitcoin is about freedom and
 self-sovereignty, not about asking for permission. It is about
 independence and verifiable truth; extreme ownership and responsibility;
-hope and human rights. \[TODO: Add Footnotes: hope.com, Gladstein's OFF
-thread.\]
+hope[^hope] and human rights.[^off] 
+
+[^hope]: Michael Saylor, [hope.com](https://hope.com)
+
+[^off]: Alex Gladstein (2022), *[Check Your Financial Privilege](https://bitcoin-resources.com/books/check-your-financial-privilege)*. See also this [compilation of videos](https://nitter.net/gladstein/status/1539472491474694144#m) from the Oslo Freedom Forum 2022.
 
 The best way to fight bad ideas and bad terminology is with good ideas
 and good terminology. Thus, we should all make an effort to call things
