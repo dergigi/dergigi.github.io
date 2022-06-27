@@ -2,8 +2,8 @@
 layout: post
 title: "The Words We Use In Bitcoin"
 subtitle: "Words, Language, Terminology, and Linguistic Attacks"
-description: "TODO"
-date: 2022-06-26
+description: "How Bitcoin's destractors lie through their teeth with no regard for language or the truth."
+date: 2022-06-27
 blocktime: TODO
 image: /assets/images/btc-terminology.jpg
 redirect_from: /terminology
