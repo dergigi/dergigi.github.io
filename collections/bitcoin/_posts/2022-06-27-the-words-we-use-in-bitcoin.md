@@ -4,7 +4,7 @@ title: "The Words We Use In Bitcoin"
 subtitle: "Words, Language, Terminology, and Linguistic Attacks"
 description: "How Bitcoin's destractors lie through their teeth with no regard for language or the truth."
 date: 2022-06-27
-blocktime: TODO
+blocktime: 742573
 image: /assets/images/btc-terminology.jpg
 redirect_from: /terminology
 author: Gigi
