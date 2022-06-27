@@ -15,11 +15,6 @@ tags:
  - Writing
 ---
 
-{% capture introVideo %}{{ 'assets/video/carlin.mp4' | absolute_url }}{% endcapture %}
-{% include video.html file=introVideo caption="Original video by <a href='https://youtu.be/j800SVeiS5I'>Lubomir Arsov</a>, remixed by <a href='https://youtu.be/3fGQ8pF3wYU'>The Outcome</a>.<br/>Audio by George Carlin, from his 2005 special <a href='https://youtu.be/-54c0IdxZWc'>Life is Worth Losing</a>" %}
-
----
-
 It can't be said often enough: Bitcoin is confusing. However, it's not
 complicated like a Rube Goldberg machine is complicated. It's just very
 foreign and thus very misunderstood---it is a completely new thing.
@@ -438,11 +433,14 @@ themselves and less for everybody else," to quote [George
 Carlin](https://youtu.be/3fGQ8pF3wYU). "They don't want well-informed,
 well-educated people capable of critical thinking."[^carlin]
 
-<div class="flex-vid">
-  <iframe src="https://www.youtube-nocookie.com/embed/3fGQ8pF3wYU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+---
 
-[^carlin]: "The politicians are put there to give you the idea that you have freedom of choice. You don't. You have no choice. You have owners. They own you. They own everything. They own all the important land. They own and control the corporations. They've long since bought and paid for the Senate, the Congress, the state houses, the city halls. They got the judges in their back pockets and they own all the big media companies, so they control just about all of the news and information you get to hear. They got you by the balls. They spend billions of dollars every year lobbying. Lobbying to get what they want.  Well, we know what they want. They want more for themselves and less for everybody else, but I'll tell you what they don't want. They don't want a population of citizens capable of critical thinking. They don't want well-informed, well-educated people capable of critical thinking.  They're not interested in that. That doesn't help them. That's against their interests."
+{% capture introVideo %}{{ 'assets/video/carlin.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=introVideo caption="Original video by <a href='https://youtu.be/j800SVeiS5I'>Lubomir Arsov</a>, remixed by <a href='https://youtu.be/3fGQ8pF3wYU'>The Outcome</a>.<br/>Audio by George Carlin, from his 2005 special <a href='https://youtu.be/-54c0IdxZWc'>Life is Worth Losing</a>" %}
+
+---
+
+[^carlin]: "The politicians are put there to give you the idea that you have freedom of choice. You don't. You have no choice. You have owners. They own you. They own everything. They own all the important land. They own and control the corporations. They've long since bought and paid for the Senate, the Congress, the state houses, the city halls. They got the judges in their back pockets and they own all the big media companies, so they control just about all of the news and information you get to hear. They got you by the balls. They spend billions of dollars every year lobbying. Lobbying to get what they want.  Well, we know what they want. They want more for themselves and less for everybody else, but I'll tell you what they don't want. They don't want a population of citizens capable of critical thinking. They don't want well-informed, well-educated people capable of critical thinking.  They're not interested in that. That doesn't help them. That's against their interests." —[George Carlin](https://youtu.be/3fGQ8pF3wYU)
 
 Ask yourself: should flipping a coin 256 times be illegal? What about
 math? What about having certain thoughts? Do we really want to live in a
