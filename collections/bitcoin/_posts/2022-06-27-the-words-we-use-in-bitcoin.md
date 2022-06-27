@@ -188,12 +188,11 @@ spending condition: the key is the key to the puzzle. So if we think
 "key to the puzzle," it's not even wrong. And anyway, I'm afraid
 we're stuck with it.
 
-Two more things: the reason why your private key can be transformed into
-words is that it is, just like everything else in bitcoin, just
-information. And the reason why we call this the "seed phrase" is
-because your private key is the seed from which all your other keys and,
-ultimately, addresses are derived from. This brings us to the next word:
-"address."
+Two more things: the reason why your private key can be represented as words is
+that it is, just like everything else in bitcoin, information. And the reason
+why we call these words a "seed phrase" is because your private key is the seed
+from which all your other keys and, ultimately, addresses are derived from. This
+brings us to the next word: "address."
 
 ### "Address" 
 
