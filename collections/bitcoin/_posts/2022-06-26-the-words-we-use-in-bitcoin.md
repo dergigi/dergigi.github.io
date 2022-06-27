@@ -448,10 +448,9 @@ Another phrase, another implication. The #ChangeTheCode campaign is
 ingenious; you have to give them that. It implies that Bitcoin's code
 can't be changed, which couldn't be further from the truth.
 
-Bitcoin is free and open-source software released under the MIT License.
-\[Footnote: https://github.com/bitcoin/bitcoin/blob/master/COPYING\]
-This means that anyone can change the code, Greenpeace or not, without
-having to ask for permission.
+Bitcoin is free and open-source software released under the MIT
+License.[^github] This means that anyone can change the code, Greenpeace or not,
+without having to ask for permission.
 
 Allow me to replicate the license in full:
 
@@ -464,8 +463,9 @@ Allow me to replicate the license in full:
 Anyone is and always was free to change the code of Bitcoin. Bitcoin's
 free and open-source nature is why we have thousands of forks and clones
 in the first place, including forks that implement what the
-#ChangeTheCode campaigners are proposing. \[Footnote:
-https://bitcointalk.org/index.php?topic=5064355.msg47645649#msg47645649\]
+#ChangeTheCode campaigners are proposing.[^shitforks]
+
+[^shitforks]: Three historical forks that implement what #ChangeTheCode is advocating for are "Bitcoin Oil," "Bitcoin Stake," and "Bitcoin Interest." See this [BitcoinTalk discussion](https://bitcointalk.org/index.php?topic=5064355.msg47645649#msg47645649) from 2018.
 
 While this whole campaign to "change the code" shouldn't be taken
 seriously in the first place, the tactics behind it shed some light on
@@ -494,8 +494,10 @@ This, coincidentally, brings us to the next attack.
 ### "Proof of Stake" 
 
 Let's get one thing out of the way: there is no proof, there is no
-stake, and it isn't even remotely comparable to its namesake,
-proof-of-work. \[Footnote: https://ethereum.stackexchange.com/a/2405\]
+stake,[^nothing-at-stake] and it isn't even remotely comparable to its namesake,
+proof-of-work.
+
+[^nothing-at-stake]: Proof-of-stake suffers from the ["nothing at stake" problem](https://ethereum.stackexchange.com/a/2405). "You don't lose anything from behaving badly, you lose nothing by signing each and every fork, your incentive is to sign everywhere because it doesn't cost you anything."
 
 I have written extensively about
 [proof-of-work](https://dergigi.com/pow/) in the past, so in the
