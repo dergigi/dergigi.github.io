@@ -9,7 +9,7 @@ image: /assets/images/btc-privacy.jpg
 redirect_from: /https
 author: Gigi
 category: bitcoin
-favorite: true
+favorite: false
 tags:
  - Bitcoin
  - Writing
