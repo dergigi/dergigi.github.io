@@ -15,6 +15,11 @@ tags:
  - Writing
 ---
 
+{% capture introVideo %}{{ 'assets/video/carlin.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=introVideo caption="Original video by <a href='https://youtu.be/j800SVeiS5I'>Lubomir Arsov</a>, remixed by <a href='https://youtu.be/3fGQ8pF3wYU'>The Outcome</a>.<br/>Audio by George Carlin, from his 2005 special <a href='https://youtu.be/-54c0IdxZWc'>Life is Worth Losing</a>" %}
+
+---
+
 It can't be said often enough: Bitcoin is confusing. However, it's not
 complicated like a Rube Goldberg machine is complicated. It's just very
 foreign and thus very misunderstood---it is a completely new thing.
