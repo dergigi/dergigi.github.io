@@ -6,6 +6,7 @@ description: "How Bitcoin's detractors lie through their teeth with no regard fo
 date: 2022-06-27
 blocktime: 742573
 image: /assets/images/btc-terminology.jpg
+audio: /assets/audio/terminology.ogg
 redirect_from: /terminology
 author: Gigi
 category: bitcoin
