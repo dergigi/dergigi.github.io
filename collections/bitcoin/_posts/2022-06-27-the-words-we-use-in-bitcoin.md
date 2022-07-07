@@ -30,7 +30,7 @@ what I will focus on. 
 I want to talk about two things: (1) the language used in Bitcoin and
 (2) the language used to attack bitcoin.
 
-## Part 1: The Language Used In Bitcoin 
+## Part 1: The Language Used In Bitcoin
 
 Let's get one thing out of the way: it's all numbers, all the way
 down. Bitcoin does the one thing that all computers do, which is
@@ -67,7 +67,7 @@ First, let's go through some of the words we use in Bitcoin and see
 where they fall short. We all know these words, and we usually don't
 think twice about them. Let's start with "wallet."
 
-### "Wallet" 
+### "Wallet"
 
 A wallet is a piece of software or hardware that makes it easier or more
 secure to store and/or spend your bitcoin. It's easy to see that a
@@ -125,7 +125,7 @@ be wrong in a crucial way: your wallet does not actually hold any of
 your coins. That's not how Bitcoin works. It might hold your keys,
 which brings us to the next word.
 
-### "Key" 
+### "Key"
 
 In the physical world, a key is used to open something. A door, a chest,
 a locker, and so on. It might also be used to start something: a car, a
@@ -195,7 +195,7 @@ why we call these words a "seed phrase" is because your private key is the seed
 from which all your other keys and, ultimately, addresses are derived from. This
 brings us to the next word: "address."
 
-### "Address" 
+### "Address"
 
 This is probably the worst of all. To [quote Luke
 Dashjr](https://nitter.net/LukeDashjr/status/1509306158800338945):
@@ -290,7 +290,7 @@ workings](https://21-ways.com/ch0-04-building-blocks/) to a certain
 degree, especially if we want to be properly equipped to fight against
 any and all linguistic attacks, present and future.
 
-## Part 2: The Language Used To Attack Bitcoin 
+## Part 2: The Language Used To Attack Bitcoin
 
 Bitcoin is under attack, always. Money is adversarial by nature because
 money is used between parties that aren't fully trusting each other in
@@ -347,7 +347,7 @@ Allow me to highlight some of the more recent terms and phrases dreamt
 up by those who hang on the tits of various money printers---whether it
 be politicians, special interest groups, or crypto bros.
 
-### "Unhosted Wallet" 
+### "Unhosted Wallet"
 
 Two words, one goal: pushing users away from sound money and
 independence into something that we all know too well from the fiat
@@ -447,7 +447,7 @@ Ask yourself: should flipping a coin 256 times be illegal? What about
 math? What about having certain thoughts? Do we really want to live in a
 world in which having 12 words in your head makes you an outlaw?
 
-### #ChangeTheCode 
+### #ChangeTheCode
 
 Another phrase, another implication. The #ChangeTheCode campaign is
 ingenious; you have to give them that. It implies that Bitcoin's code
@@ -462,9 +462,9 @@ without having to ask for permission.
 Allow me to replicate the license in full:
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-   
+
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-   
+
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Anyone is and always was free to change the code of Bitcoin. Bitcoin's
@@ -498,7 +498,7 @@ you do not value such a system, it will always seem wasteful.
 
 This, coincidentally, brings us to the next attack.
 
-### "Proof of Stake" 
+### "Proof of Stake"
 
 Let's get one thing out of the way: there is no proof, there is no
 stake,[^nothing-at-stake] and it isn't even remotely comparable to its namesake,
@@ -541,7 +541,7 @@ time again.[^pos]
 
 [pos]: {{ '/pos' | absolute_url }}
 
-## Conclusion 
+## Conclusion
 
 Words have meanings, which is why we should choose them wisely and carefully.
 Bitcoin is not wasteful.[^parker] Bitcoin is not closed source.[^github]
@@ -569,7 +569,7 @@ In a world awash in euphemisms and blatant lies, calling something by
 its proper name is rebellious in itself. Bitcoin is about freedom and
 self-sovereignty, not about asking for permission. It is about
 independence and verifiable truth; extreme ownership and responsibility;
-hope[^hope] and human rights.[^off] 
+hope[^hope] and human rights.[^off]
 
 [^hope]: Michael Saylor, [hope.com](https://hope.com)
 
@@ -587,7 +587,7 @@ other words we use are insufficient to truly explain what is going on.
 
 The confusion which inevitably arises out of this misunderstanding is
 used and abused by Bitcoin's detractors, be it from the church of
-"fiat" or the cult of "crypto."[^crypto] 
+"fiat" or the cult of "crypto."[^crypto]
 
 [^crypto]: One should note that "crypto" is yet another linguistic attack on Bitcoin, making it seem like there are many other projects that are either interesting, viable, or comparable. This couldn't be further from the truth. Virtually all of "crypto" is a scam. The word "crypto" also leaves out the other half of what makes Bitcoin work, namely the "econ" part. After all, Bitcoin is a [cryptoeconomic](https://bitcoin-resources.com/books/cryptoeconomics) system.
 
@@ -610,4 +610,3 @@ describe it. Bitcoin is truthful and precise in its
 [speech](https://dergigi.com/speech), and we should strive to be too.
 
 ---
-
