@@ -3,15 +3,10 @@
 {% if sode.podlink %}{% assign link = sode.podlink %}{% endif %}
 {% if sode.link %}{% assign link = sode.link %}{% endif %}
 <li>
+  <small><b>{{ sode.date | date: "%Y-%m-%d" }}</b></small>
   <a href="{{ link }}" target="_blank" title="Released on {{ sode.date }} by {{ sode.host }}">
     {% if sode.star %} ⭐ {% endif %}
-    {% case sode.lang %}
-      {% when 'AT' %}🇦🇹
-      {% when 'DE' %}🇩🇪
-      {% when 'CH' %}🇨🇭
-      {% else %}🇺🇸
-    {% endcase %}
-    {% if sode.youtube %}📺{% else %}🎧{% endif %}
+    <!-- {% if sode.youtube %}📺{% else %}🎧{% endif %} -->
     {{ sode.podname }}
     {% if sode.sode %}#{{ sode.sode }} {% endif %}
   </a>
@@ -24,5 +19,11 @@
     {% if sode.guests %}with {{ sode.guests }}{% endif %}
     {% if sode.host %}hosted by {{ sode.host }}{% endif %}
   </small>
+  {% case sode.lang %}
+    {% when 'AT' %}(🇦🇹)
+    {% when 'DE' %}(🇩🇪)
+    {% when 'CH' %}(🇨🇭)
+    {% else %}
+  {% endcase %}
 
 </li>
