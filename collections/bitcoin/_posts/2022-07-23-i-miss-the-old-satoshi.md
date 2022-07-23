@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "I Miss the Old Satoshi"
-subtitle: ""
-description: ""
+description: "And Now We're All Satoshi"
 date: 2022-07-23
-blocktime: TODO
+blocktime: 746126
 image: /assets/images/old-satoshi.jpg
 redirect_from: /satoshi
 author: Gigi
@@ -15,22 +14,26 @@ tags:
  - Writing
 ---
 
-I miss the old Satoshi, straight from the node Satoshi \\
-Chop up the code Satoshi, set on his goals Satoshi \\
-I hate the new Satoshi, the blood fued Satoshi \\
-The always rude Satoshi, go on a cruise Satoshi \\
-I miss the sweet Satoshi, chop up the tweets Satoshi \\
-I gotta say at that time I'd like to meet Satoshi \\
-See he invented Satoshi, it wasn't any Satoshis \\
-And now I look and look around and there's so many Satoshis \\
-I used to love Satoshi, I used to love Satoshi \\
-I even had the pink polo, I thought I was Satoshi \\
-What if Satoshi made a post about Satoshi \\
-Called "I Miss The Old Satoshi," man that would be so Satoshi \\
-That's all it was Satoshi, we still love Satoshi \\
-And I love you like Satoshi loves Satoshi \\
-I'm glad there's no Satoshi, all nym no face to Satoshi \\
-that's very based Satoshi, cuz' now we're all Satoshi
+> I miss the old Satoshi, straight from the node Satoshi. \\
+> Chop up the code Satoshi, set on his goals Satoshi. \\
+> I hate the new Satoshi, the lawsuit Satoshi. \\
+> The always rude Satoshi, go on a cruise Satoshi. \\
+> I miss the sweet Satoshi, chop up the tweets Satoshi. \\
+> I gotta say at that time I'd like to meet Satoshi. \\
+> See he invented Satoshi, it wasn't any Satoshis. \\
+> And now I look and look around and there's so many Satoshis. \\
+> I used to love Satoshi, I used to love Satoshi. \\
+> I even had the old windows, I thought I was Satoshi. \\
+> What if Satoshi made a post about Satoshi? \\
+> Called "I Miss The Old Satoshi," man that would be so Satoshi. \\
+> That's all it was Satoshi, we still love Satoshi. \\
+> And I love you like Satoshi loves Satoshi. \\
+> I'm glad there's no Satoshi, all nym no face Satoshi. \\
+> That's very based Satoshi, cuz' now we're all Satoshi.
+>
+> <cite>[Satoshi][sn]</cite>
+
+[sn]: https://archive.ph/6e4c0
 
 ---
 
