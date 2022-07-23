@@ -8,7 +8,7 @@ image: /assets/images/old-satoshi.jpg
 redirect_from: /satoshi
 author: Gigi
 category: bitcoin
-favorite: true
+favorite: false
 tags:
  - Bitcoin
  - Writing
