@@ -33,7 +33,7 @@ tags:
 >
 > <cite>[Satoshi][dg]</cite>
 
-[dg]: https://archive.ph/Ip4B4
+[dg]: https://archive.ph/IXZOA
 
 ---
 
