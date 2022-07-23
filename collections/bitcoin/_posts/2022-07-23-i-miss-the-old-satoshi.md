@@ -31,9 +31,9 @@ tags:
 > I'm glad there's no Satoshi, all nym no face Satoshi. \\
 > That's very based Satoshi, cuz' now we're all Satoshi.
 >
-> <cite>[Satoshi][sn]</cite>
+> <cite>[Satoshi][dg]</cite>
 
-[sn]: https://archive.ph/Ip4B4
+[dg]: https://archive.ph/Ip4B4
 
 ---
 
@@ -53,7 +53,7 @@ tags:
 > That’s all it was Satoshi, we still love Satoshi \\
 > And I love Satoshi like everyone loves Satoshi
 >
-> <cite>[BitcoinErrorLog][jk]</cite>
+> <cite>[Satoshi][jk]</cite>
 
 [jk]: https://archive.ph/1L011
 
@@ -71,6 +71,6 @@ tags:
 > i miss the chill Satoshi \\
 > chop up some code Satoshi
 >
-> <cite>[roasbeef][rb]</cite>
+> <cite>[Satoshi][rb]</cite>
 
 [rb]: https://archive.ph/d7HTC
