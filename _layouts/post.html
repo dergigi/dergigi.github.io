@@ -19,7 +19,9 @@ layout: default
         </time>
         {% if page.source %}
           {% capture sourceHost %}{{ page.source | remove_first: "https://" | split: "/" | first | remove_first: "www." }}{% endcapture %}
+          {% unless sourceHost == "medium.com" %}
           <a href="{{ page.source }}" title="Also published on {{ sourceHost }}" target="_blank" class="post__source" itemprop="isBasedOn">{{ sourceHost }}</a>
+          {% endunless %}
         {% endif %}
         {% assign conversations = site.episodes | where: "code", code %}
         {% assign numConvs = conversations | size %}
