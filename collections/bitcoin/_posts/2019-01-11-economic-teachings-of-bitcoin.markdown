@@ -8,6 +8,7 @@ description: "Part two of 21 lessons learned from Bitcoin."
 image: /assets/images/btc04-the-garden-of-bitcoin.jpg
 source: https://medium.com/@dergigi/economic-teachings-of-bitcoin-b2cc4f2cfa96
 redirect_from: /economy
+updated_version: https://21lessons.com/economics
 numbering_style: upper-roman
 author: Gigi
 category: bitcoin

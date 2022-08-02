@@ -19,7 +19,9 @@ layout: default
         </time>
         {% if page.source %}
           {% capture sourceHost %}{{ page.source | remove_first: "https://" | split: "/" | first | remove_first: "www." }}{% endcapture %}
+          {% unless sourceHost == "medium.com" %}
           <a href="{{ page.source }}" title="Also published on {{ sourceHost }}" target="_blank" class="post__source" itemprop="isBasedOn">{{ sourceHost }}</a>
+          {% endunless %}
         {% endif %}
         {% assign conversations = site.episodes | where: "code", code %}
         {% assign numConvs = conversations | size %}
@@ -43,10 +45,11 @@ layout: default
             {% endif %}
           </a>
         {% endif %}
-        {% if page.redirect_from %}
-          <a href="#value4value"
-             title="Give value back #Value4Value"
-             class="post__source">🧡</a>
+        {% if page.updated_version %}
+          <a href="{{ page.updated_version }}"
+             title="Updated version"
+             target="_blank"
+             class="post__source">{{ page.updated_version | remove: "https://" }}</a>
         {% endif %}
       </div>
     </div>
@@ -61,6 +64,15 @@ layout: default
     {% endif %}
 
     <div class="post__content section-padding">
+      {% if page.redirect_from %}
+      <div class="grid-small">
+        <center>
+          <a href="#value4value"
+             title="Give value back #Value4Value"
+          >🧡</a>
+        </center>
+      </div>
+      {% endif %}
       <div class="grid">
         <div id="markdown" itemprop="articleBody" class="{{ page.numbering_style }}">
           <img src="{{ page.image }}" style="display: none" itemprop="image"/>
