@@ -8,6 +8,7 @@ description: "Part three of 21 lessons learned from Bitcoin."
 image: /assets/images/btc05-the-anatomy-of-bitcoin.jpg
 source: https://medium.com/@dergigi/technological-teachings-of-bitcoin-20420b459417
 redirect_from: /technology
+updated_version: https://21lessons.com/technology
 numbering_style: upper-roman
 author: Gigi
 category: bitcoin
