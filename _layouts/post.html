@@ -43,11 +43,6 @@ layout: default
             {% endif %}
           </a>
         {% endif %}
-        {% if page.redirect_from %}
-          <a href="#value4value"
-             title="Give value back #Value4Value"
-             class="post__source">🧡</a>
-        {% endif %}
         {% if page.updated_version %}
           <a href="{{ page.updated_version }}"
              title="Updated version"
@@ -67,6 +62,15 @@ layout: default
     {% endif %}
 
     <div class="post__content section-padding">
+      {% if page.redirect_from %}
+      <div class="grid-small">
+        <center>
+          <a href="#value4value"
+             title="Give value back #Value4Value"
+          >🧡</a>
+        </center>
+      </div>
+      {% endif %}
       <div class="grid">
         <div id="markdown" itemprop="articleBody" class="{{ page.numbering_style }}">
           <img src="{{ page.image }}" style="display: none" itemprop="image"/>
