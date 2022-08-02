@@ -7,6 +7,7 @@ blocktime: 666053
 image: /assets/images/bitcoin-is-time.jpg
 source: https://www.swanbitcoin.com/bitcoin-is-time/
 redirect_from: /time
+updated_version: https://21-ways.com/2
 author: Gigi
 category: bitcoin
 audio: /assets/audio/bitcoin-is-time.ogg

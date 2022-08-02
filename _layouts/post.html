@@ -48,6 +48,11 @@ layout: default
              title="Give value back #Value4Value"
              class="post__source">🧡</a>
         {% endif %}
+        {% if page.updated_version %}
+          <a href="{{ page.updated_version }}"
+             title="Updated version"
+             class="post__source">{{ page.updated_version | remove: "https://" }}</a>
+        {% endif %}
       </div>
     </div>
 
