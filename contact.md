@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Der Who?
+title: Contact
+subtitle: Der Who?
 ---
 
 I am currently working on [my new book][21ways], so I will be harder to reach
