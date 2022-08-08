@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Proof of Work
+subtitle: Trustless consensus via difficulty-adjusted PoW is the innovation
+redirect_from: /pow
 ---
 
 Bitcoin's difficulty-adjusted proof-of-work is the innovation. Without it, trustless
@@ -12,6 +14,11 @@ Read the following, in order:
 2. [Memes vs The World][tw-meme-world] - How information differs from physical objects
 3. [Bitcoin is Time][time] - How Bitcoin decentralizes time itself
 4. [Bitcoin's Energy Consumption][energy] - A shift in perspective
+
+---
+
+{% capture absoluteVideoURL %}{{ 'assets/video/pow.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=absoluteVideoURL %}
 
 ---
 

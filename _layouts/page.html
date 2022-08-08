@@ -25,6 +25,10 @@ layout: default
       <div class="grid">
         <div id="markdown">
           {{content}}
+          {% include conversations.html %}
+          {% include translations.html %}
+          <hr/>
+          {% include enjoyed.html %}
         </div>
       </div>
     </div>
