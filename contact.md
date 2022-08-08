@@ -3,10 +3,10 @@ layout: page
 title: Der Who?
 ---
 
-I am currently working on [my new book][patreon], so I might be harder to reach
-than usual. There is also the fact that my inboxes are overflowing ever since
-the bull began his run.[*][golden-bull]
+I am currently working on [my new book][21ways], so I will be harder to reach
+than usual.
 
+[21ways]: https://21-ways.com
 [patreon]: https://www.patreon.com/dergigi
 [golden-bull]: https://youtu.be/nJeddv1QbeQ
 
@@ -24,30 +24,29 @@ the bull began his run.[*][golden-bull]
 </div>
 
 <center>
-<small>(Twitter DMs are terrible. Please use Telegram if you can.)</small>
+<small>(Twitter DMs are terrible. Please use matrix if you can.)</small>
 <br/>
 <a href="{{ 'pgp' | absolute_url }}">PGP</a>
 </center>
 
 ---
 
-If you want to reach me, [telegram], twitter, [nostr], or the mail below is probably your
-best bet. I'm also on matrix as `@dergigi:matrix.org`.
+If you want to reach me, matrix[^fn-matrix] is probably your best bet. You can
+also try the email above, or twitter, or Telegram. That being said, Twitter is
+absolutely terrible when it comes to DMs, and I recently had to close my DMs
+because the spam became absolutely unbearable. Telegram is alright but it is
+neither private nor trustworthy, so, again, matrix is probably your best bet.
+
 I will do my best to reply in 3-5 days. If I don't please ping me
 again. Note that I will probably not respond if I can't make out what you're up
 to. A simple "hi" or "hey" without any context will be ignored. Also, I'm not
 interested in trading or shitcoinery, so anything along these lines will be
 deleted without an answer.
 
+[^fn-matrix]: I'm `@dergigi:matrix.org` on matrix.
+
 [telegram]: https://t.me/dergigi
-[nostr]: https://branle.fiatjaf.com/6b0d4c8d9dc59e110d380b0429a02891f1341a0fa2ba1b1cf83a3db4d47e3964
 
-
-## Questions
-
-I do [Q&A sessions][patreon] from time to time. Please send any questions to the email above,
-replacing the "hi" part of the address with "question" (this is my way of making
-sure that you are not a robot).
 
 ## About Me
 
