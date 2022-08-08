@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Proof of Work
+subtitle: Trustless consensus via difficulty-adjusted PoW is the innovation
 ---
 
 Bitcoin's difficulty-adjusted proof-of-work is the innovation. Without it, trustless
