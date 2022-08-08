@@ -16,6 +16,11 @@ Read the following, in order:
 
 ---
 
+{% capture absoluteVideoURL %}{{ 'assets/video/pow.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=absoluteVideoURL %}
+
+---
+
 Visit [endthefud.org/PoW](https://endthefud.org/PoW) for a collection of
 articles that explain why proof-of-stake is a non-solution to the problems that
 Bitcoin solves.
