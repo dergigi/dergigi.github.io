@@ -5,6 +5,15 @@ a {
   text-decoration: none;
 }
 
+//----------------------------------------------
+// External Links
+//----------------------------------------------
+#markdown > p > a[target='_blank']:after,
+.footnotes > li > p > a[target='_blank']:after {
+    content: ' \f08e';
+    font-family: 'FontAwesome';
+}
+
 // li a[href^="http://"]:not([href*="dergigi.com"]):after,
 // li a[href^="https://"]:not([href*="dergigi.com"]):after {
 //     display: inline-block;
