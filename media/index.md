@@ -6,6 +6,11 @@ redirect_from: /interviews
 
 ---
 
+Note: I won't do any more interviews or other shenanigans until [my 2nd
+book](https://21-ways.com) is done.
+
+---
+
 **✨ Recent** | [🧹 All][all] | [⭐ Best][favs] | [🇺🇸 English][en] | [🇩🇪 German][de]
 
 [home]: {{ '/media' | absolute_url }}
