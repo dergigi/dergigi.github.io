@@ -166,9 +166,6 @@ the [Bull Bitcoin][bull-bitcoin] publication. I have also contributed to
 [bull-waking-up]: https://medium.com/bull-bitcoin/the-world-is-waking-up-to-bitcoin-5d532a1188ce
 [bull-bitcoin]: https://bullbitcoin.com/
 
----
-
-Want to talk? Feel free to [reach out to me][contact].
 
 [contact]: {{ '/contact' | absolute_url }}
 [license]: {{ '/license' | absolute_url }}
