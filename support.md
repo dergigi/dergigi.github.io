@@ -29,11 +29,26 @@ you, you are encouraged to give value back.
     <a href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-210&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD&price=210">
       ⚡ $210
     </a>
+  </div>
+</div>
+
+Some give 10 sats, some give 21 EUR, some give [$100 USD][100] or more. It's
+completely up to you.
+
+[100]: https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-210&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD&price=100
+
+<div class="action-buttons">
+  <div class="button button-blue button-large">
     <a style="background-color: #46B00C;" href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD">
       Custom amount
     </a>
   </div>
 </div>
+
+
+How much value did you get out of it? Pack of chewing gum? Good meal? Night at
+the movies? 🍿 It's a weird and unusual concept, but somehow it works. And
+there's more to it than just money.
 
 ### Time, Talent, Treasure
 
