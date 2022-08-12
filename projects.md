@@ -237,6 +237,8 @@ to start their own local—and localized—bitcoin-only community.
 A very serious campaign to shame merchants into bitcoin adoption. Very serious.
 Seriously.
 
+{% include image.html path="/assets/images/bitcoin/projects/fucking-shitcoins.jpg" link="https://fuckingshitcoins.com" %}
+
 * Website: [fuckingshitcoins.com](https://fuckingshitcoins.com/)
 * Twitter: [#FuckingShitcoins](https://twitter.com/hashtag/FuckingShitcoins)
 * Source: [GitHub](https://github.com/fuckingshitcoins/fuckingshitcoins.github.io)
