@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Projects
+subtitle: Words and Code for Bitcoin
 ---
 
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
 * Education: [Bitcoin Resources](#bitcoin-resources), [Bitcoin Quotes](#bitcoin-quotes)
-* Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world)
+* Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
 * Code: [Jam](#jam), [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
 * Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr)
@@ -178,7 +179,7 @@ purpose of this project is to talk to the entrepreneurs, developers, and
 thinkers who are contributing to "closing the loop" of the Bitcoin economy.
 
 It is also a [value4value] experiment. Listeners can stream sats and send
-boosts, including short messages if they choose to do so. 
+boosts, including short messages if they choose to do so.
 
 {% include image.html path="/assets/images/bitcoin/projects/closing-the-loop.png" link="https://seetee.io/podcast" %}
 
@@ -193,9 +194,11 @@ install and use.
 
 {% include image.html path="/assets/images/bitcoin/projects/jam.jpg" link="https://github.com/joinmarket-webui" %}
 
-* Installation: via [RaspiBlitz, Umbrel, or Citadel](https://github.com/joinmarket-webui/joinmarket-webui#-running-locally)
-* Documentation: [Wiki](https://github.com/joinmarket-webui/joinmarket-webui/wiki) 
-* Source: [GitHub](https://github.com/joinmarket-webui)
+* Website: [jamapp.org](https://jamapp.org)
+* Twitter: [@jamapporg](https://twitter.com/jamapporg)
+* Documentation: [jamdocs.org](https://jamdocs.org)
+* Installation: via [RaspiBlitz, Umbrel, or Citadel](https://jamdocs.org/software/installation/)
+* Source: [GitHub](https://github.com/joinmarket-webui/jam)
 
 ### Secret Satsa
 
@@ -228,6 +231,17 @@ to start their own local—and localized—bitcoin-only community.
 
 * Website: [twentyone.world](https://twentyone.world)
 * Source: [GitHub](https://github.com/twentyone-world/)
+
+### Fucking Shitcoins
+
+A very serious campaign to shame merchants into bitcoin adoption. Very serious.
+Seriously.
+
+{% include image.html path="/assets/images/bitcoin/projects/fucking-shitcoins.jpg" link="https://fuckingshitcoins.com" %}
+
+* Website: [fuckingshitcoins.com](https://fuckingshitcoins.com/)
+* Twitter: [#FuckingShitcoins](https://twitter.com/hashtag/FuckingShitcoins)
+* Source: [GitHub](https://github.com/fuckingshitcoins/fuckingshitcoins.github.io)
 
 ### Contribution: The Bitcoin Times
 
