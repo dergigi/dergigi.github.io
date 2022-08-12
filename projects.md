@@ -231,6 +231,15 @@ to start their own local—and localized—bitcoin-only community.
 * Website: [twentyone.world](https://twentyone.world)
 * Source: [GitHub](https://github.com/twentyone-world/)
 
+### Fucking Shitcoins
+
+A very serious campaign to shame merchants into bitcoin adoption. Very serious.
+Seriously.
+
+* Website: [fuckingshitcoins.com](https://fuckingshitcoins.com/)
+* Twitter: [#FuckingShitcoins](https://twitter.com/hashtag/FuckingShitcoins)
+* Source: [GitHub](https://github.com/fuckingshitcoins/fuckingshitcoins.github.io)
+
 ### Contribution: The Bitcoin Times
 
 Launched by Alex Svetski in 2019, The Bitcoin Times is a publication that distills complex
