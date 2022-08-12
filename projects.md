@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+subtitle: Words and Code for Bitcoin
 ---
 
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
