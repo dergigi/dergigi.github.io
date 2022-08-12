@@ -194,6 +194,7 @@ install and use.
 {% include image.html path="/assets/images/bitcoin/projects/jam.jpg" link="https://github.com/joinmarket-webui" %}
 
 * Website: [jamapp.org](https://jamapp.org)
+* Twitter: [@jamapporg](https://twitter.com/jamapporg)
 * Documentation: [jamdocs.org](https://jamdocs.org)
 * Installation: via [RaspiBlitz, Umbrel, or Citadel](https://jamdocs.org/software/installation/)
 * Source: [GitHub](https://github.com/joinmarket-webui/jam)
