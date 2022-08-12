@@ -178,7 +178,7 @@ purpose of this project is to talk to the entrepreneurs, developers, and
 thinkers who are contributing to "closing the loop" of the Bitcoin economy.
 
 It is also a [value4value] experiment. Listeners can stream sats and send
-boosts, including short messages if they choose to do so. 
+boosts, including short messages if they choose to do so.
 
 {% include image.html path="/assets/images/bitcoin/projects/closing-the-loop.png" link="https://seetee.io/podcast" %}
 
@@ -193,9 +193,10 @@ install and use.
 
 {% include image.html path="/assets/images/bitcoin/projects/jam.jpg" link="https://github.com/joinmarket-webui" %}
 
-* Installation: via [RaspiBlitz, Umbrel, or Citadel](https://github.com/joinmarket-webui/joinmarket-webui#-running-locally)
-* Documentation: [Wiki](https://github.com/joinmarket-webui/joinmarket-webui/wiki) 
-* Source: [GitHub](https://github.com/joinmarket-webui)
+* Website: [jamapp.org](https://jamapp.org)
+* Documentation: [jamdocs.org](https://jamdocs.org)
+* Installation: via [RaspiBlitz, Umbrel, or Citadel](https://jamdocs.org/software/installation/)
+* Source: [GitHub](https://github.com/joinmarket-webui/jam)
 
 ### Secret Satsa
 
