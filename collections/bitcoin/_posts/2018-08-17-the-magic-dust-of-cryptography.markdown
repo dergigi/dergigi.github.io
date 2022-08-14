@@ -281,8 +281,14 @@ something meaningful again is to speak some magic words.
 
 Addendum: The [xkcd] comics used are from issue [504] and [1553].
 Wikipedia has a great article on the [Free Speech Flag].
-The 3d-printed gun above is called [The Liberator], the code of which can be
-bought as a book [on Amazon].
+The 3d-printed gun above is called [The Liberator], ~~the code of which can be
+bought as a book [on Amazon]~~.
+
+Update: The book was [removed from Amazon](https://archive.ph/cy0uy). It is now
+banned from the platform for "containing illegal content." ([1], [2])
+
+[1]: https://archive.ph/tRI1M
+[2]: https://archive.ph/Q60lo
 
 [ipfs]: https://ipfs.io/
 [1553]: https://xkcd.com/1553/
@@ -296,7 +302,7 @@ bought as a book [on Amazon].
 [The Bitcoin Standard]: https://thesaifhouse.wordpress.com/book/
 [crypto wars]: https://en.wikipedia.org/wiki/Crypto_Wars
 [encryption algorithms on t-shirts]: https://commons.wikimedia.org/wiki/File:Munitions_T-shirt_%28front%29.jpg
-[sing songs]: http://sing%20songs
+[sing songs]: https://youtu.be/JRFZeP9Nv2w
 [Free Speech Flag]: https://en.wikipedia.org/wiki/Free_Speech_Flag
   "w:Free Speech Flag"
 [illegal numbers]: https://en.wikipedia.org/wiki/Illegal_number
