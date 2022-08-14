@@ -282,7 +282,9 @@ something meaningful again is to speak some magic words.
 Addendum: The [xkcd] comics used are from issue [504] and [1553].
 Wikipedia has a great article on the [Free Speech Flag].
 The 3d-printed gun above is called [The Liberator], the code of which can be
-bought as a book [on Amazon].
+bought as a book ~~[on Amazon]~~.
+
+Update: The book was [removed from Amazon](https://archive.ph/cy0uy).
 
 [ipfs]: https://ipfs.io/
 [1553]: https://xkcd.com/1553/
