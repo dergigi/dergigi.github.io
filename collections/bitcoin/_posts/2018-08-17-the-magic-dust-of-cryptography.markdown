@@ -10,7 +10,7 @@ source: https://medium.com/@dergigi/the-magic-dust-of-cryptography-c8ecd79ae13a
 redirect_from: /dust
 author: Gigi
 category: bitcoin
-audio: /assets/audio/magic-dust.mp3
+audio: /assets/audio/magic-dust.ogg
 
 translations:
  - language: Spanish
