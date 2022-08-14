@@ -296,7 +296,7 @@ bought as a book [on Amazon].
 [The Bitcoin Standard]: https://thesaifhouse.wordpress.com/book/
 [crypto wars]: https://en.wikipedia.org/wiki/Crypto_Wars
 [encryption algorithms on t-shirts]: https://commons.wikimedia.org/wiki/File:Munitions_T-shirt_%28front%29.jpg
-[sing songs]: http://sing%20songs
+[sing songs]: https://youtu.be/JRFZeP9Nv2w
 [Free Speech Flag]: https://en.wikipedia.org/wiki/Free_Speech_Flag
   "w:Free Speech Flag"
 [illegal numbers]: https://en.wikipedia.org/wiki/Illegal_number
