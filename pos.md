@@ -10,13 +10,15 @@ has fundamentally flaws that can not be addressed without proof-of-work.
 
 The fundamental flaws are:
 - No trustless mechanism for [decentralized timestamping][time]
+- No [objective truth][terminology]
+- No link to [reality][tw-meme-world]
 - No true randomness
 - No truly fair validator selection
 - No validator turnover
 - No way to bootstrap & fairly distribute coins
 - No real-world external cost
 - No game-theoretic stability in an adversarial environment
-- No way to reduce imbalance over time; rich get richer, always
+- No way to reduce imbalance over time; rich get richer
 - No aligned incentives
 
 ---
@@ -75,5 +77,6 @@ Bitcoin solves. Also make sure to browse the [rekt leaderboard](https://rekt.new
 
 [pow]: {{ '/pow' | absolute_url }}
 [tw-meme-world]: {{ '/memeworld' | absolute_url }}
+[terminology]: {{ '/2022/06/27/the-words-we-use-in-bitcoin/#proof-of-stake' | absolute_url }}
 [time]: {% post_url /bitcoin/2021-01-14-bitcoin-is-time %}
 [energy]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
