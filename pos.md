@@ -5,7 +5,27 @@ subtitle: The failures of a centralized "consensus" mechanism
 ---
 
 Proof-of-stake is no alternative to [proof-of-work][pow].
-When deployed, proof-of-stake will run into failures in the long run, because it has fundamentally flaws that can not be addressed without proof-of-work.
+When deployed, proof-of-stake will run into failures in the long run, because it
+has fundamentally flaws that can not be addressed without proof-of-work.
+
+The fundamental flaws are:
+- No trustless mechanism for [decentralized timestamping][time]
+- No true randomness
+- No truly fair validator selection
+- No validator turnover
+- No way to bootstrap & fairly distribute coins
+- No real-world external cost
+- No game-theoretic stability in an adversarial environment
+- No way to reduce imbalance over time; rich get richer, always
+- No aligned incentives
+
+---
+
+<div class="flex-vid">
+  <iframe src="https://www.youtube-nocookie.com/embed/gyP0uxxB6V8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
 
 Read the following to understand why proof-of-stake has and will always fail:
 
@@ -33,11 +53,19 @@ Some recent failures include:
 - **2022-05-27** [Solana's blockchain clock loses track of time][sol-clock], now running 30 minutes behind (see [Lesson 17][L17] and [Bitcoin is Time][time])
 - **2022-06-19** - Solana: [1 vote][sol-vote-img], making up 90% of total votes, [decided the fate][sol-vote] of ~$270m in users assets
 
+For some not-so-recent failures, see [this thread by Alex B][bergealex].
+
 [L17]: https://21lessons.com/17/
 
 [sol-clock]: https://archive.ph/jlVn4
 [sol-vote]: https://archive.ph/f3boB
 [sol-vote-img]: {{ site.url }}/assets/images/shitcoins/sol-vote.jpg
+[bergealex]: https://twitter.com/bergealex4/status/1410761639226318852?s=20
+
+---
+
+{% capture absoluteVideoURL %}{{ 'assets/video/curb-your-eth-enthusiasm.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=absoluteVideoURL %}
 
 ---
 
