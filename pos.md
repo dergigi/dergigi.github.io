@@ -53,11 +53,14 @@ Some recent failures include:
 - **2022-05-27** [Solana's blockchain clock loses track of time][sol-clock], now running 30 minutes behind (see [Lesson 17][L17] and [Bitcoin is Time][time])
 - **2022-06-19** - Solana: [1 vote][sol-vote-img], making up 90% of total votes, [decided the fate][sol-vote] of ~$270m in users assets
 
+For some not-so-recent failures, see [this thread by Alex B][bergealex].
+
 [L17]: https://21lessons.com/17/
 
 [sol-clock]: https://archive.ph/jlVn4
 [sol-vote]: https://archive.ph/f3boB
 [sol-vote-img]: {{ site.url }}/assets/images/shitcoins/sol-vote.jpg
+[bergealex]: https://twitter.com/bergealex4/status/1410761639226318852?s=20
 
 ---
 
