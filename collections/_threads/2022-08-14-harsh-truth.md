@@ -29,6 +29,8 @@ tags:
 >
 > <cite>Mr. Whale Street, a random shitcoiner</cite>
 
+---
+
 Me: [🙄](https://twitter.com/search?q=from%253A%2540dergigi%20code%20is%20speech)
 
 > I think you probably all do agree with my point you just don't like how I expressed it.
