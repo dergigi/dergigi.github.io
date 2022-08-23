@@ -25,7 +25,7 @@ than usual.
 </div>
 
 <center>
-<small>(Twitter DMs are terrible. Please use matrix if you can.)</small>
+<small>(Twitter DMs are terrible & now closed. Please use matrix if you can.)</small>
 <br/>
 <a href="{{ 'pgp' | absolute_url }}">PGP</a>
 </center>
