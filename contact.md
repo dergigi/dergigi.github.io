@@ -15,7 +15,7 @@ than usual.
 
 <div style="position: relative;">
   <img src="/assets/images/dergigi-contact.png">
-  <a href="https://t.me/dergigi" title="telegram/twitter" style="position:
+  <a href="https://twitter.com/dergigi" title="telegram/twitter" style="position:
   absolute; left: 19.87%; top: 8.24%; width: 45.79%; height: 58.79%; z-index:
   2;"></a><a href="mailto:hi@dergigi.com" title="email" style="position:
   absolute; left: 9.61%; top: 8.52%; width: 9.94%; height: 58.79%; z-index:
