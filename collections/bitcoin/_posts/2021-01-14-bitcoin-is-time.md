@@ -851,7 +851,7 @@ proba­bilistic, but it isn't illusory.
 
 The present moment, however, can absolutely be an illusion in Bitcoin.
 Since there is no central authority in the network, strange situa­tions
-can arise. While unlikely, it is possible that a valid block is found at
+can arise. While unlikely, it is possible that two valid blocks are found at
 the same time (again: apolo­gies to all physi­cists), which will make
 the clock tick forward in two different places at once. However, since
 the two different blocks will very likely differ in their content, they
