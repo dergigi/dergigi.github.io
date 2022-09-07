@@ -26,6 +26,15 @@ Visit [endthefud.org/PoW](https://endthefud.org/PoW) for a collection of
 articles that explain why proof-of-stake is a non-solution to the problems that
 Bitcoin solves.
 
+---
+
+### Reports
+
+- [How Bitcoin Mining Can Transform the Energy Industry][arcane2022-pdf] by [Arcane Research][arcane2022]
+
+[arcane2022-pdf]: {{ site.url }}/assets/files/2022-09-03-arcane-research-how-bitcoin-mining-can-transform-the-energy-industry.pdf
+[arcane2022]: https://arcane.no/research/reports/how-bitcoin-mining-can-transform-the-energy-industry
+
 [tw-pow]: {{ '/powthread' | absolute_url }}
 [tw-meme-world]: {{ '/memeworld' | absolute_url }}
 [time]: {% post_url /bitcoin/2021-01-14-bitcoin-is-time %}
