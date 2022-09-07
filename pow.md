@@ -28,12 +28,24 @@ Bitcoin solves.
 
 ---
 
-### Reports
+### Data & Reports
 
-- [How Bitcoin Mining Can Transform the Energy Industry][arcane2022-pdf] by [Arcane Research][arcane2022]
+- 2022: [How Bitcoin Mining Can Transform the Energy Industry][arcane2022-pdf]
+- 2022: [Q2 Global Bitcoin Mining Data Review][bmc2022-q2-pdf]
+- 2021: [Q3 Global Bitcoin Mining Data Review][bmc2021-q3-pdf]
+- 2021: [Bitcoin is Key to an Abundant, Clean Energy Future][bcei2021-pdf]
+
+Reports by [Arcane Research][arcane], the [Bitcoin Mining Council][bmc], and the
+[Bitcoin Clean Energy Initiative][bcei].
 
 [arcane2022-pdf]: {{ site.url }}/assets/files/2022-09-03-arcane-research-how-bitcoin-mining-can-transform-the-energy-industry.pdf
-[arcane2022]: https://arcane.no/research/reports/how-bitcoin-mining-can-transform-the-energy-industry
+[bmc2021-q3-pdf]: {{ site.url }}/assets/files/2021-10-19-Q3-BMC-Presentation-Materials-Final.pdf
+[bmc2022-q2-pdf]: {{ site.url }}/assets/files/2022-07-19-BMC-Presentation-Q2-22-Presentation.pdf
+[bcei2021-pdf]: {{ site.url }}/assets/files/2021-04-01-bcei-paper-clean-abundant-energy.pdf
+
+[arcane]: https://arcane.no/research/reports
+[bmc]: https://bitcoinminingcouncil.com/
+[bcei]: https://bitcoin.energy/
 
 [tw-pow]: {{ '/powthread' | absolute_url }}
 [tw-meme-world]: {{ '/memeworld' | absolute_url }}
