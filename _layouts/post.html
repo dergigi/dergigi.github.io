@@ -78,7 +78,7 @@ layout: default
           <img src="{{ page.image }}" style="display: none" itemprop="image"/>
           {% if page.audio %}
             {% capture absoluteURL %}{{ page.audio | absolute_url }}{% endcapture %}
-            {% include player.html file=absoluteURL %}
+            {% include player.html file=absoluteURL reader=page.reader %}
             <hr/>
           {% endif %}
           {% if page.video %}
