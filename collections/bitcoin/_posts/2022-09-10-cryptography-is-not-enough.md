@@ -126,9 +126,11 @@ This talk was originally given in Riga at [#BHH2022][bh2022].
 
 ---
 
+```
 ### Transcript
 
 Coming soon...
+```
 
 ---
 
