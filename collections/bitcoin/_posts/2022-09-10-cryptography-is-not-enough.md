@@ -24,6 +24,12 @@ This talk was originally given in Riga at [#BHH2022][bh2022].
 
 ---
 
+<div class="flex-vid">
+  <iframe src="https://www.youtube-nocookie.com/embed/C7ynm0Zkwfk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
+
 - Recording: [YouTube][yt]
 - Slides: [PDF][pdf]
 - Images & Prompts: coming soon...
@@ -126,7 +132,8 @@ Coming soon...
 
 ---
 
-If you like my work [consider supporting me][support] in [writing my 2nd book][21W].
+If you like my work [consider supporting me][support] in writing [my 2nd
+book][21W].
 
 [support]: {{ '/support' | absolute_url }}
 [21W]: https://21-ways.com/
