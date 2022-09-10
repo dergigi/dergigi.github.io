@@ -126,6 +126,13 @@ This talk was originally given in Riga at [#BHH2022][bh2022].
 
 ---
 
+### Paradoxes
+
+- You can't possess bitcoin, but you can be possessed by bitcoin.
+- etc...
+
+---
+
 ```
 ### Transcript
 
