@@ -7,7 +7,7 @@ date: 2022-09-10
 blocktime: 746126
 image: /assets/images/adams-back.png
 audio: /assets/audio/cryptography-is-not-enough.ogg
-reader: myself
+narrator: myself
 redirect_from: /cryptography
 author: Gigi
 category: bitcoin
