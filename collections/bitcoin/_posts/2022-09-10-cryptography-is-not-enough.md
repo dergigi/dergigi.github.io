@@ -5,7 +5,7 @@ subtitle: "A long(ish) Speech on Paradoxes and Antinomies"
 description: "Adam's back, the Great Rug, and Crypto Bros."
 date: 2022-09-10
 blocktime: 753597
-image: /assets/images/adams-back.png
+image: /assets/images/adams-back.jpg
 audio: /assets/audio/cryptography-is-not-enough.ogg
 narrator: myself
 redirect_from: /cryptography
@@ -128,6 +128,15 @@ This talk was originally given in Riga at [#BHB2022][bhb2022].
 [map]: {{ '/memeworld' | absolute_url }}
 [sol]: {{ '/sol' | absolute_url }}
 [law]: {{ '/law' | absolute_url }}
+
+One important thing I forgot to mention during the re-recording, is the
+following: the freedoms that bitcoin provides rest on
+[responsibility][responsibility]. The responsibility of each and every one of us
+to use bitcoin in a self-sovereign way. To hold our own keys, run our own nodes,
+and provide our own hash. Without shouldering this responsibility, all freedoms
+would fall apart.
+
+[responsibility]: {{ '/responsibility' | absolute_url }}
 
 ---
 
