@@ -18,9 +18,9 @@ tags:
  - Presentations
 ---
 
-This talk was originally given in Riga at [#BHH2022][bh2022].
+This talk was originally given in Riga at [#BHB2022][bhb2022].
 
-[bh2022]: https://twitter.com/hashtag/BHB2022
+[bhb2022]: https://twitter.com/hashtag/BHB2022
 
 ---
 
