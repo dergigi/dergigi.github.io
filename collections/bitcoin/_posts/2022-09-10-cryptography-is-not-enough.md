@@ -36,11 +36,11 @@ This talk was originally given in Riga at [#BHB2022][bhb2022].
 
 ---
 
-- Recording: [YouTube][yt]
+- Recording: [YouTube][yt], [BitcoinTV]
 - Slides: [PDF][pdf]
 
 [yt]: https://youtu.be/C7ynm0Zkwfk
-[bitcoinTV]: TODO
+[bitcoinTV]: https://bitcointv.com/w/wRfZmtNwWqDGJ2eE3TZaCS
 [pdf]: {{ site.url }}/assets/files/Riga2022.pdf
 [images]: TODO
 
