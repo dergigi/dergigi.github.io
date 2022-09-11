@@ -4,7 +4,7 @@ title: "Cryptography is Not Enough"
 subtitle: "A long(ish) Speech on Paradoxes and Antinomies"
 description: "Adam's back, the Great Rug, and Crypto Bros."
 date: 2022-09-10
-blocktime: 746126
+blocktime: 753597
 image: /assets/images/adams-back.png
 audio: /assets/audio/cryptography-is-not-enough.ogg
 narrator: myself
