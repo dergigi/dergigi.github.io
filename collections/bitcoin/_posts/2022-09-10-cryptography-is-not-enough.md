@@ -129,6 +129,15 @@ This talk was originally given in Riga at [#BHB2022][bhb2022].
 [sol]: {{ '/sol' | absolute_url }}
 [law]: {{ '/law' | absolute_url }}
 
+One important thing I forgot to mention during the re-recording, is the
+following: the freedoms that bitcoin provides rest on
+[responsibility][responsibility]. The responsibility of each and every one of us
+to use bitcoin in a self-sovereign way. To hold our own keys, run our own nodes,
+and provide our own hash. Without shouldering this responsibility, all freedoms
+would fall apart.
+
+[responsibility]: {{ '/responsibility' | absolute_url }}
+
 ---
 
 ### Paradoxes
