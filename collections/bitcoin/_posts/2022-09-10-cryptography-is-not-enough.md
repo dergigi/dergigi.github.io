@@ -5,7 +5,7 @@ subtitle: "A long(ish) Speech on Paradoxes and Antinomies"
 description: "Adam's back, the Great Rug, and Crypto Bros."
 date: 2022-09-10
 blocktime: 753597
-image: /assets/images/adams-back.png
+image: /assets/images/adams-back.jpg
 audio: /assets/audio/cryptography-is-not-enough.ogg
 narrator: myself
 redirect_from: /cryptography
