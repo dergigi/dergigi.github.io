@@ -25,6 +25,7 @@ your money.**
 
 This talk was originally given in Riga at [#BHB2022][bhb2022].
 
+
 [bhb2022]: https://twitter.com/hashtag/BHB2022
 
 ---
@@ -37,7 +38,6 @@ This talk was originally given in Riga at [#BHB2022][bhb2022].
 
 - Recording: [YouTube][yt]
 - Slides: [PDF][pdf]
-- Images & Prompts: coming soon...
 
 [yt]: https://youtu.be/C7ynm0Zkwfk
 [bitcoinTV]: TODO
@@ -134,7 +134,39 @@ This talk was originally given in Riga at [#BHB2022][bhb2022].
 ### Paradoxes
 
 - You can't possess bitcoin, but you can be possessed by bitcoin.
-- etc...
+- Bitcoin is everywhere and nowhere.
+- [Bitcoin can't be copied][copied], yet every part of bitcoin can be copied.
+- Bitcoin is always changing, yet unchangeable.
+- Bitcoin is digital, yet it is scarce.
+- Bitcoin is dead, and bitcoin is alive.
+- Bitcoin is a bubble, yet bitcoin is the pin.
+- Bitcoin is simple & complicated.
+- Bitcoin is elegant & complex.
+- Bitcoin is ugly & beautiful.
+- [Bitcoin is worse is better.][gwern]
+- Bitcoin is worthless, yet bitcoin is too expensive.
+- Bitcoin is finite, yet endless.
+- Bitcoin is private, yet bitcoin is completely transparent.
+- Bitcoin is energy-intensive, yet bitcoin is insanely efficient.
+- Bitcoin is slow, yet bitcoin is fast as lightning.
+- Bitcoin can't be confiscated, yet bitcoin can be lost.
+- Bitcoin is text, yet bitcoin is money.
+- [Bitcoin is time][time], and bitcoin is energy.
+- Bitcoin is savings, and bitcoin is streaming money.
+- Bitcoin is conservative, and bitcoin is progressive.
+- Bitcoin is political, yet bitcoin is apolitical.
+- Bitcoin is lawless, yet bitcoin is the law.
+- Bitcoin is math, and bitcoin is physics.
+- Bitcoin is religion, and bitcoin is atheism.
+- Bitcoin requires randomness, yet bitcoin creates order.
+- Bitcoin price is important, yet bitcoin price is terribly unimportant.
+- Bitcoin pays people, yet bitcoin can't got bankrupt.
+- Bitcoin is intangible, yet bitcoin is incorruptible.
+- [Bitcoin is Love][peace], and bitcoin is Fuck You money.
+- Bitcoin is 12 words in your head, and bitcoin is 21 million.
+- Bitcoin is knowledge. And knowledge is power.
+
+[copied]: https://bitcoin-resources.com/series/gradually-then-suddenly/
 
 ---
 
