@@ -23,10 +23,11 @@ tags:
 sample keys or send bitcoins to any of the associated addresses; you will lose
 your money.**
 
-This talk was originally given in Riga at [#BH2022][bh2022].
+This talk was [originally given][orig] in Riga at [#BH2022][bh2022].
 
 
 [bh2022]: https://twitter.com/search?q=%23bh2022+OR+%23bhb2022
+[orig]: https://bitcointv.com/w/9FaFi8Xd5Fk9V6W8SPncCr
 
 ---
 
