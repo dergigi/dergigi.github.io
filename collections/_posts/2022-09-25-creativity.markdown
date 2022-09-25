@@ -50,6 +50,8 @@ it erodes the foundation of the skyscrapers that make up the skyline of our
 shared worldview. The protective constructs we find ourselves in, that give us
 shelter. Our structures of understanding.
 
+{% include image.html name="fall-of-skyscrapers.jpg" caption="'The fall of skyscrapers.'" %}
+
 Creativity is expression. Of course, there is more to expression than just
 words. Art and dance and music are the obvious ones. Mathematics, programming
 engineering, skateboarding, and rock climbing are some of the less obvious ones.
@@ -72,11 +74,16 @@ that which would otherwise be dark.
 > sedere "to sit," from PIE root *sed- (1) "to sit." Of evil spirits, "to
 > haunt," from 1530s.
 
-It took me a long time to realize that I am obsessed with words. Words that hold
-value, first and foremost. Words in general, as of late. And, more recently,
+It took me a long time to realize that I am obsessed with words. [Words that hold
+value][bitcoin], first and foremost. [Words in general][words], as of late. And, more recently,
 words that generate images. Words that somehow, magically, rearrange pixels to
 produce something that never existed before. Something that will never be
 generated again in exactly the same way. Something mesmerising.
+
+
+
+[bitcoin]: {{ '/bitcoin' | absolute_url }}
+[words]: {{ '/words' | absolute_url }}
 
 Is creativity still valuable when it is generated? What is the difference
 between a creative solution devised by man, a creative solution devised by
@@ -86,10 +93,15 @@ flesh and blood? Are the models that are birthed and killed by neural networks
 less real than the models in our heads? What is a model but a useful
 abstraction? What is a writer but a creative text-completion engine?
 
+{% include image.html name="creative-solution-devised-by-nature.png" caption="'A creative solution devised by nature.'" %}
+
 "But it lacks soul," I hear you shouting in protest. "It lacks human feeling."
 
 But is that so? Can't machines create something soulful? How do we _know_ that
-they create without _feeling_ and _passion_, but with passionless objectivity?
+they create without _feeling_ and _passion_, but with passionless objectivity?[^fn-passionless]
+
+[^fn-passionless]: [Passionless objectivity.][passionless]
+[passionless]: {{ '/assets/images/photography/2022-09-25-creativity/passionless-objectivity.png' | absolute_url }}
 
 "But it is still just an algorithm."
 "Ah, but this algorithm is designed by a human."
@@ -101,7 +113,10 @@ they create without _feeling_ and _passion_, but with passionless objectivity?
 "Stop!" you cry, and the argument ceases. I have won. "The algorithms are the
 same. Both are still just algorithms. The difference is inconsequential. It
 means nothing. What matters is what they are designed to do." A computer is a
-machine that computes. Does that make it any less real?
+machine that computes. Does that make it any less real?[^fn-algos]
+
+[^fn-algos]: [Both are still just algorithms.][algos]
+[algos]: {{ '/assets/images/photography/2022-09-25-creativity/still-just-algorithms.png' | absolute_url }}
 
 "But it still lacks soul!" I hear you shouting in protest, again. "It cannot
 capture our imagination. It is just another means to an end."
@@ -117,7 +132,10 @@ But you are right: It is not as good as an author, yet.
 
 An algorithm, even a well-designed algorithm, is less powerful than an author
 because it lacks the complexity of the original. An algorithm lacks the range of
-imagination of the original. An algorithm is only as good as its data.
+imagination of the original. An algorithm is only as good as its data.[^fn-create-soul]
+
+[^fn-create-soul]: [It can create the soul.][create-soul]
+[create-soul]: {{ '/assets/images/photography/2022-09-25-creativity/create-soul.png' | absolute_url }}
 
 That's fair. My point is, that every artist has a voice, but it's not
 necessarily his own. If it's not his voice, whose voice is it? The answer is, it
@@ -128,8 +146,7 @@ minds, but they most definitely speak to our hearts. If it is not the voice of
 God, then what is it? I don't know the answer, but we are missing something big
 if it is not God speaking.[^fn-god-speaking]
 
-[^fn-god-speaking]: [We are missing something big indeed.][god-speaking]
-
+[^fn-god-speaking]: [The voice of God is the most important voice.][god-speaking]
 [god-speaking]: {{ '/assets/images/photography/2022-09-25-creativity/gods-voice.png' | absolute_url }}
 
 {% include image.html name="god-speaking.png" caption="'We are missing something big if it is not God speaking.'" %}
@@ -140,23 +157,40 @@ appreciate their impact or to be in the right place to appreciate it. The pace
 of innovation is so rapid that even those who love to experiment with new things
 often lack the nerve to embrace the new before it has found its feet.[^fn-new-innovations]
 
+[^fn-new-innovations]: [You no longer trust yourself.][new-innovations]
+[new-innovations]: {{ '/assets/images/photography/2022-09-25-creativity/new-innovations.png' | absolute_url }}
+
 "A poem isn't just a box of words." True, but if it isn't also creative, what
 exactly is it? Isn't poetry itself a creative act? Why is it that poetry is
 considered to be a spiritual enterprise, a high-brow thing for high-brow people?
 Isn't poetry in the end but a set of creative conventions?[^fn-box-of-words]
 
+[^fn-box-of-words]: [A poem isn't just a box of words.][box-of-words]
+[box-of-words]: {{ '/assets/images/photography/2022-09-25-creativity/box-of-words.png' | absolute_url }}
+
 What is creativity then? How do we define it? The creativity I speak of is not
 something that just happens to creative people. It is their way of solving
 problems and it is part of who they are. It is their soul.[^fn-their-soul]
+
+[^fn-their-soul]: [It is their soul.][their-soul]
+[their-soul]: {{ '/assets/images/photography/2022-09-25-creativity/their-soul.png' | absolute_url }}
 
 But what if there is no soul? Is that any better? Is there still room for art?
 Is creativity lost once it is not produced by a brain? Can a machine write a
 better poem than an individual poet? What makes a creation good? I don't think a
 good answer can be given for any of these questions.[^fn-no-soul]
 
+[^fn-no-soul]: [A poem isn't just a box of words.][no-soul]
+[no-soul]: {{ '/assets/images/photography/2022-09-25-creativity/what-if-no-soul.png' | absolute_url }}
+
 Who am I, as an author? Who are we, as humanity? One thing is certain: we lack
 neither creativity nor spirit. We are made of love. If we're machines, we're
 machines that love. And a machine that loves is never a machine in any real
 sense. And we are not meant to be machines.[^fn-made-of-love]
 
+[^fn-made-of-love]: [We are made of love.][made-of-love]
+[made-of-love]: {{ '/assets/images/photography/2022-09-25-creativity/made-of-love.png' | absolute_url }}
+
 We are meant to create, which, of course, is the root of all creativity.
+
+{% include image.html name="jinn.jpg" caption="'Portrait of a jinn.'" %}
