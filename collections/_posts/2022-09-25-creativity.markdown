@@ -197,4 +197,4 @@ sense. And we are not meant to be machines.[^fn-made-of-love]
 
 We are meant to create. Which, of course, is the root of all creativity.
 
-{% include image.html name="root.jpg" caption="'The root of all creativity.'" %}
+{% include image.html name="root-of-creativity.jpg" caption="'The root of all creativity.'" %}
