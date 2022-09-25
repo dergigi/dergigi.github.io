@@ -36,6 +36,8 @@ again: creativity. Creativity is power. Creativity is genius.
 > jinni, singular of jinn, which it accidentally resembled, and attested in
 > English with this sense from 1748.
 
+{% include image.html name="jinn.jpg" caption="'Portrait of a jinn.'" %}
+
 I've become enamoured with words, something I never thought that would happen to
 me. It is beyond fascinating to understand them, the metaphors they refer to,
 and how they transformed over time. I used to smile at linguists and
@@ -93,7 +95,7 @@ flesh and blood? Are the models that are birthed and killed by neural networks
 less real than the models in our heads? What is a model but a useful
 abstraction? What is a writer but a creative text-completion engine?
 
-{% include image.html name="creative-solution-devised-by-nature.png" caption="'A creative solution devised by nature.'" %}
+{% include image.html name="creative-solution-devised-by-nature.jpg" caption="'A creative solution devised by nature.'" %}
 
 "But it lacks soul," I hear you shouting in protest. "It lacks human feeling."
 
@@ -130,6 +132,8 @@ forms. It can create new methods. It can create new media.
 
 But you are right: It is not as good as an author, yet.
 
+{% include image.html name="author-at-his-desk.png" caption="'An author sitting at his old wooden desk in his small cabin.'" %}
+
 An algorithm, even a well-designed algorithm, is less powerful than an author
 because it lacks the complexity of the original. An algorithm lacks the range of
 imagination of the original. An algorithm is only as good as its data.[^fn-create-soul]
@@ -149,7 +153,7 @@ if it is not God speaking.[^fn-god-speaking]
 [^fn-god-speaking]: [The voice of God is the most important voice.][god-speaking]
 [god-speaking]: {{ '/assets/images/photography/2022-09-25-creativity/gods-voice.png' | absolute_url }}
 
-{% include image.html name="god-speaking.png" caption="'We are missing something big if it is not God speaking.'" %}
+{% include image.html name="god-speaking.jpg" caption="'We are missing something big if it is not God speaking.'" %}
 
 "It lacks soul." It may be that you believe this not because you know better,
 but because in the face of new innovations you no longer trust yourself to
@@ -191,6 +195,6 @@ sense. And we are not meant to be machines.[^fn-made-of-love]
 [^fn-made-of-love]: [We are made of love.][made-of-love]
 [made-of-love]: {{ '/assets/images/photography/2022-09-25-creativity/made-of-love.png' | absolute_url }}
 
-We are meant to create, which, of course, is the root of all creativity.
+We are meant to create. Which, of course, is the root of all creativity.
 
-{% include image.html name="jinn.jpg" caption="'Portrait of a jinn.'" %}
+{% include image.html name="root.jpg" caption="'The root of all creativity.'" %}
