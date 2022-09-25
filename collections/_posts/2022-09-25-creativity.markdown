@@ -195,8 +195,10 @@ sense. And we are not meant to be machines.[^fn-made-of-love]
 [^fn-made-of-love]: [We are made of love.][made-of-love]
 [made-of-love]: {{ '/assets/images/photography/2022-09-25-creativity/made-of-love.png' | absolute_url }}
 
-We are meant to create. Which, of course, is the root of all creativity.
+We are meant to create. Which, of course, is the root of all creativity.[^fn-last]
 
 {% include image.html name="root-of-creativity.jpg" %}
 
 ---
+
+[^fn-last]: All images were generated using Midjourney. Prompts are given as captions. Photorealistic images were generated using `--testp`. 'The fall of skyscrapers' and 'God speaking' was generated in the style of John Martin. Most of the second half of the text was generated too. See footnotes above.
