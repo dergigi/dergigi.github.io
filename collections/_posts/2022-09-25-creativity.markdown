@@ -3,7 +3,7 @@ layout: post
 title: "Creativity"
 redirect_from: /creativity
 date: 2022-09-25
-description:
+description: What is the root of all creativity?
 image: /assets/images/creativity.jpg
 author: Gigi
 category: photography
