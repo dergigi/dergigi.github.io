@@ -132,7 +132,7 @@ forms. It can create new methods. It can create new media.
 
 But you are right: It is not as good as an author, yet.
 
-{% include image.html name="author-at-his-desk.png" caption="'An author sitting at his old wooden desk in his small cabin.'" %}
+{% include image.html name="author-at-his-desk.jpg" caption="'An author sitting at his old wooden desk in his small cabin.'" %}
 
 An algorithm, even a well-designed algorithm, is less powerful than an author
 because it lacks the complexity of the original. An algorithm lacks the range of
@@ -197,4 +197,6 @@ sense. And we are not meant to be machines.[^fn-made-of-love]
 
 We are meant to create. Which, of course, is the root of all creativity.
 
-{% include image.html name="root-of-creativity.jpg" caption="'The root of all creativity.'" %}
+{% include image.html name="root-of-creativity.jpg" %}
+
+---
