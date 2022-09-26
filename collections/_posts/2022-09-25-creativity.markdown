@@ -55,7 +55,7 @@ shelter. Our structures of understanding.
 {% include image.html name="fall-of-skyscrapers.jpg" caption="'The fall of skyscrapers.'" %}
 
 Creativity is expression. Of course, there is more to expression than just
-words. Art and dance and music are the obvious ones. Mathematics, programming
+words. Art and dance and music are the obvious ones. Mathematics, programming,
 engineering, skateboarding, and rock climbing are some of the less obvious ones.
 Truly creative people seem to be _possessed_ by whatever they are doing;
 possessed by a goal, or a feeling, or an idea, or a spirit. There he is again,
