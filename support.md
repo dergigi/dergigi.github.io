@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Value for Value
-subtitle: More Ways to Support Me
+subtitle: Ways to Support Me
 image: /assets/images/bitcoin/value4value.png
 ---
 
