@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bitcoin Is Digital Scarcity"
-description: "TODO"
+description: "Non-virtual money in a non-virtual world."
 date: 2022-10-02
 blocktime: TODO
 image: /assets/images/goldmaedchen.jpg
@@ -15,8 +15,6 @@ tags:
  - Writing
 series: 21 Ways
 ---
-
-<!-- TODO: Add "give value back" button & LN address right after end -->
 
 > We should treat computers as fancy telephones, whose purpose is to connect
 > people. Information is alienated experience. Information is not something that
