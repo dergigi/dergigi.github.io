@@ -3,7 +3,7 @@ layout: post
 title: "Bitcoin Is Digital Scarcity"
 description: "Non-virtual money in a non-virtual world."
 date: 2022-10-02
-blocktime: TODO
+blocktime: 756744
 image: /assets/images/goldmaedchen.jpg
 redirect_from: /digital
 updated_version: https://21-ways.com/6
