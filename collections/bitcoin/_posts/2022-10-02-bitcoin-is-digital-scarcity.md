@@ -17,6 +17,7 @@ series: 21 Ways
 ---
 
 <!-- TODO: Double-check with 6.md, maybe include parts that fit -->
+<!-- TODO: Add "give value back" button & LN address right after end -->
 
 > We should treat computers as fancy telephones, whose purpose is to connect
 > people. Information is alienated experience. Information is not something that
@@ -604,33 +605,64 @@ to be offline because the power is out.
 
 [^fn-economist]: The Economist (2019), [Venezuela’s paper currency is worthless, so its people seek virtual gold](https://web.archive.org/web/20191123131514/https://www.economist.com/the-americas/2019/11/21/venezuelas-paper-currency-is-worthless-so-its-people-seek-virtual-gold)
 
-All these examples show that games are microcosms when it comes to
-economies and the creation and control of money. The difference between
-the Linden Dollar, World of Warcraft Gold, Fortnite V-Bucks, the Euro,
-and the U.S. dollar is in scale, not in nature. While V-Bucks are
-created and controlled by Epic Games (the company that created
-Fortnite), the U.S. dollar is created and controlled by the Fed. One
-impacts millions of people, the other billions. The mechanism that keeps
-these monies in check---the rules of the game, if you will---is the same
+All these examples show that games are microcosms when it comes to economies and
+the creation and control of money. The difference between the Linden Dollar,
+World of Warcraft Gold, Fortnite V-Bucks, the Euro, and the U.S. dollar is in
+scale, not in nature. While V-Bucks are created and controlled by Epic Games
+(the company that created Fortnite), the U.S. dollar is created and controlled
+by the Fed. One impacts millions of people, the other billions. The mechanism
+that keeps these monies in check—the rules of the game, if you will—is the same
 in both cases: central decree.
 
-TODO: Include paragraphs of 6.md; segue into how Bitcoin is a non-virtual world.
+While the worlds are virtual, the time and effort that people are willing to put
+into building and equipping their avatars are not. Consequently, real economies
+can emerge in virtual worlds. However, as we have seen, these virtual economies
+are neither long-term persistent nor independent of their virtual arenas.
+
+Herein lies the crux of virtual currencies: they are created, managed, and kept
+alive by central decree. They only exist in their respective arenas—in-game or
+otherwise. Consequently, they do not transcend boundaries. It is impossible to
+spend your in-game money outside of the game, just like it is impossible to
+spend your bolívars or lira outside of your failing country.
+
+However, even when trapped inside the borders of these walled gardens,  people
+will find ways to trade their virtual goods on real marketplaces, no matter if
+they are allowed to do so or not. As soon as this happens, the authorities
+usually step in. The companies who instantiate the virtual worlds will intervene
+out of self-interest or because a government forces them to, as was the case
+with Second Life. In most cases, the companies want to have a piece of the pie:
+a cut for every transaction that happens inside their world. Ironically, this is
+also one of the reasons for government intervention: they want their "fair
+share" too.
+
+It is simple, really: if the world is controlled and instantiated by a single
+entity, it will sooner or later cease to exist. And with it, everything that
+existed inside it.
+
+What we need is a non-virtual world, a persistent world. A world that is digital
+and yet refuses to go away.
 
 ## Emergent Money in a Non-Virtual World
 
-Bitcoin is different. Bitcoin's value does not derive from a central
-decree. Like gold before it, its scarcity and persistence do not derive
-from *authority*, but from *reality*. Gold is scarce because physical
-laws make its production extraordinarily costly. Gold doesn't go away
-because it is virtually indestructible. 
+Bitcoin is different in two ways: First of all, bitcoin's value does not come
+from central decree. Like gold before it, its scarcity and persistence do not
+derive from *authority*, but from *reality*. Gold is scarce because physical
+laws make its creation and production extraordinarily costly. Gold doesn't go
+away because it is virtually indestructible. 
 
 Bitcoin brings digital objects into existence---sats---that are bound to
 the digital world of the bitcoin network. How is this any different from
 the various in-game monies that emerged before it?
 
-The difference lies in the *issuance and control* of the monetary units,
-which, when centrally controlled, are the source and root of all
-monetary evil, as Hayek said so poignantly.
+It is different because both the environment as well as its monetary units
+emerge naturally over time. Bitcoin is not instantiated by decree; neither are
+sats brought into existence by decree. Bitcoin's monetary units, their value,
+_and_ Bitcoin's arena emerge naturally over time, via voluntary interaction of
+anyone who is willing to participate.
+
+The difference lies in the nature of the arena, as well as in the *issuance and
+control* of the monetary units, which, when centrally controlled, are the source
+and root of all monetary evil, as Hayek said so poignantly.
 
 > [Free trade in money] seems to me both preferable and more
 practicable than the utopian scheme of introducing a new European
@@ -913,7 +945,7 @@ well.
 
 Bitcoin is the first money that is digital but not virtual. Before
 Bitcoin, any link between the digital and the physical was always rooted
-in trust and human intepretation, not physical reality. Bitcoin's link
+in trust and human interpretation, not physical reality. Bitcoin's link
 to the real world is defined by numbers and their mathematical
 relationships; relationships so extreme, that they can only be brought
 about by real events in the real world. Consequently, the processes in
@@ -991,7 +1023,7 @@ is a feature, not a bug. It acts as an unforgeable costly signal that is
 used to build up a trustless arrow of time, as well as a transparent and
 publicly verifiable shield around the past. It is an anti-cheat
 mechanism to ensure that the past can't be altered cheaply and to
-ensure that future issuance can't be farmed efficiently.* *
+ensure that future issuance can't be farmed efficiently.
 
 Consequently, Bitcoin's energy consumption is not a byproduct of the
 creation of sats, but a by-product of demand for a fair distribution of
@@ -1023,14 +1055,22 @@ II. As long as the arena is virtual, it can be controlled and shut down.
 The difference between central banks and game developers is one of
 quantity, not quality.
 
-The downside of gold is that it is a physical item in a physical
-environment. You can't teleport it, and therein lies the problem.
-Bitcoin is a scarce digital commodity that, monetarily speaking, is as
-valuable as a scarce physical commodity, precisely because it is issued
-and secured by a physical process. Proof-of-work reifies Bitcoin's
-blocks as well as the monetary units within them, and it is this
-reification of information that allows Bitcoin to transcend the mere
-virtual.
+Gold was sound money that emerged naturally in the physical world. It does not
+have the problem of a disappearing arena. Because for gold, the arena is the
+physical universe.
+
+Bitcoin is sound money that emerged naturally in the digital world. And as it
+continues to monetize, more and more people will understand that it too does not
+have the problem of a disappearing arena. For bitcoin, the arena is the
+mathematical universe. And as long as a single copy of the timechain remains
+intact, Bitcoin will survive.
+
+Its physicality is the downside of gold: it is a physical item in a physical
+environment. Consequently, you can't send it at the speed of light.
+
+Bitcoin fixes this. Bitcoin's proof-of-work reifies Bitcoin's blocks as well as
+the monetary units within them, and it is this reification of information that
+allows Bitcoin to transcend the mere virtual.
 
 But Bitcoin transcends more than just the virtual. It also transcends
 all other monies that came before it, by introducing something that
