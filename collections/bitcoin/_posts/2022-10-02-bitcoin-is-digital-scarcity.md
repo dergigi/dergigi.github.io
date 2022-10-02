@@ -240,7 +240,7 @@ print gold in order to pay for the useless goods which are being created
 by the manufacturers." Sounds familiar?
 
 As history shows and this example illustrates, planning an economy -
-virtual or not - is an impossible task. Every interference, no matter
+virtual or not---is an impossible task. Every interference, no matter
 how benign the central planners believe it to be, will have unintended
 consequences and side effects that will beget more interference. If the
 rules that are supposed to prevent unauthorized copying can be broken
@@ -396,10 +396,10 @@ where you can be anything and anyone you want to be. In other words: it
 is an opportunity to start a second life.
 
 Residents of Second Life craft all kinds of virtual goods: clothing,
-vehicles, houses, sculptures, gadgets, artwork - anything that can be
+vehicles, houses, sculptures, gadgets, artwork---anything that can be
 modeled in 3D. Residents can buy cosmetics to improve the appearance of
 their avatars, just like we do in the real world. Skin, hair, jewelry,
-custom animations - if you can imagine it, someone will craft it and
+custom animations---if you can imagine it, someone will craft it and
 sell it to you. Apart from objects, some focus on providing services for
 their fellow residents: entertainment, education, consulting, business
 management, news, and yes, even banking.
@@ -442,7 +442,7 @@ Most of these "Acts of Linden," as they became known in the community,
 were initiated by the company to steer the virtual world in a certain
 direction or improve the bottom line of Linden Lab. One such example
 would be the introduction of a value-added tax for all European
-residents - a tax for purchasing virtual goods, mind you. Others, such
+residents---a tax for purchasing virtual goods, mind you. Others, such
 as the global ban on gambling, were initiated because of pressure due to
 real-world government regulations.
 To quote the announcement of this new policy: "Second Life Residents must comply
@@ -504,7 +504,7 @@ is as normal as paying for other digital goods and services such as
 songs, movies, or ebooks. People will continue to spend ridiculous
 amounts of money on cosmetics and status symbols. Whether these goods
 exist in "real life" or in virtual worlds does not seem to matter.
-Luxurious cars, expensive watches, jewelry, designer clothes - virtual
+Luxurious cars, expensive watches, jewelry, designer clothes---virtual
 or not, the money people spend on them is real.
 
 As of today, the most well-known game that monetizes on the purchase of
