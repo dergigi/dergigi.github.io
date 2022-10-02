@@ -150,7 +150,7 @@ tokens on, among other things, various items for sale in vending
 machines called *Vendroids*. There were also Pawn Machines, which would
 buy objects back (at a discount, of course)."
 
-[^fn-mud]: See https://web.archive.org/web/20070816070650/http://www.juliandibbell.com/texts/mudmoney.html
+[^fn-mud]: Julian Dibbell, [MUD Money](https://web.archive.org/web/20070816070650/http://www.juliandibbell.com/texts/mudmoney.html): A Talk on Virtual Value and, Incidentally, the Value of the Virtual
 
 {% include image.html name="adventure-mud-dark.png" caption="'Colossal Cave Adventure' created by Will Crowther in 1975 was one of the first dungeon games."%}
 
@@ -178,8 +178,7 @@ Online*, *Diablo 2, and Second Life*.
 ## Ultima Online: Planning a Virtual Economy
 
 Ultima Online was released on September 24, 1997, by Origin Systems. It
-was one of the first MMORPGs [Footnote/glossary: massively multiplayer
-online role-playing game] that garnered mainstream attention,
+was one of the first MMORPGs[^fn-mmorpg] that garnered mainstream attention,
 attracting over 100,000 players within six months. Like the MUDs before
 it, the world of Ultima Online is a *persistent* world, which means that
 your actions and interactions in the game have lasting consequences for
@@ -191,20 +190,24 @@ effort players put into leveling up their characters and gathering items
 and resources are real as well, which, in turn, spawn real economies
 around these virtual goods.
 
-To quote Zachary Booth Simpson [Footnote:
-https://static1.squarespace.com/static/5bf1bc95506fbe3baadb7063/t/5c00ac140e2e7265722166af/1543547925580/The+In-game+Economics+of+Ultima+Online.pdf],
-who studied the in-game economics of the game extensively: "*Ultima
-Online*, and online games similar to it, offer a unique research
-platform because, while the commodities traded are virtual, the
-resulting economies are not simulations." Matthew Beller from the Mises
-Institute [Footnote:
-https://mises.org/library/coming-second-life-business-cycle] echoes
-this sentiment: "Some economists might dismiss virtual worlds as an
-application for economics, given that they do not contain any resources
-that are traditionally considered scarce (lumber, steel, oil, etc.), but
-a closer inspection reveals that some virtual worlds contain real market
-economies complete with scarce resources, property rights,
-entrepreneurship, and exchange."
+[^fn-mmorpg]: Massively multiplayer online role-playing game.
+
+To quote Zachary Booth Simpson who studied the in-game economics of the game
+extensively: "_Ultima Online_, and online games similar to it, offer a unique
+research platform because, while the commodities traded are virtual, the
+resulting economies are not simulations.”[^fn-zachary] Matthew Beller from the
+Mises Institute echoes this sentiment: "Some economists might dismiss virtual
+worlds as an application for economics, given that they do not contain any
+resources that are traditionally considered scarce (lumber, steel, oil, etc.),
+but a closer inspection reveals that some virtual worlds contain real market
+economies complete with scarce resources, property rights, entrepreneurship, and
+exchange."[^fn-mises]
+
+[^fn-zachary]: Zachary Booth Simpson, [The In-game Economics of Ultima Online][uo-economics], Origin Research, April 1999
+
+[uo-economics]: {{ '/assets/files/UO-Economics.pdf' | absolute_url }}
+
+[^fn-mises]: https://mises.org/library/coming-second-life-business-cycle
 
 The world of Ultima Online allows for spontaneous economic interaction
 between players. Players are free to trade as they see fit, directly,
@@ -1033,7 +1036,9 @@ inflation.
 
 21 million. Absolute scarcity.
 
-------------------------------------------------------------------------
+---
 
 *Bitcoin Is Digital Scarcity* is a chapter of
 my upcoming book [*21 Ways*](https://21-ways.com).
+
+---
