@@ -51,7 +51,7 @@ I hope not. While it is true that software is eating the
 world,[^fn-software] we have to differentiate between
 the *digital* and the *virtual*.  
 
-### Digital vs. Virtual
+## Digital vs. Virtual
 
 As any dictionary will tell you, *digital* is anything that can be
 expressed as *digits*, i.e. any information that can be represented in
@@ -86,7 +86,7 @@ fact, it has emerged many times, in multiple worlds and various forms.
 To paraphrase Charles Stross: build a world that facilitates trade, and
 money will emerge. 
 
-### Virtual Scarcity
+## Virtual Scarcity
 
 As we have seen in Chapter 4, humans have used a multitude of objects as
 money over the millennia: cattle, salt, shells, bones, pearls, stones,
@@ -125,7 +125,7 @@ To get a better understanding of digital goods and their scarcity (or
 lack thereof) we will take a look at the virtual worlds that first
 spawned them: online games.
 
-### A Short History Of Virtual Economies
+## A Short History Of Virtual Economies
 
 In-game economies are almost as old as networked gaming itself. In 1995,
 Julian Dibbell published *MUD Money* [^fn-mud],
@@ -167,7 +167,7 @@ emerge. While there are many games that had (and still have) vast
 virtual economies, I want to highlight three in particular: *Ultima
 Online*, *Diablo 2, and Second Life*.
 
-### Ultima Online: Planning a Virtual Economy
+## Ultima Online: Planning a Virtual Economy
 
 Ultima Online was released on September 24, 1997, by Origin Systems. It
 was one of the first MMORPGs [Footnote/glossary: massively multiplayer
@@ -256,7 +256,7 @@ they inevitably will exploit this advantage, no matter the long-term
 consequences. As we shall see, this is also true if the money emerges
 naturally in the first place.
 
-### Diablo 2: Duplicating the Stone of Jordan
+## Diablo 2: Duplicating the Stone of Jordan
 
 To me, Diablo 2 is one of the great iconic games of PC game history.
 Released in the summer of 2000 it quickly became one of the
@@ -375,7 +375,7 @@ rare items in cyberspace. As we shall see, this is also true for
 artificially scarce goods such as designer clothes and other luxury
 items.
 
-### Second Life: Linden Lab's Interventionism
+## Second Life: Linden Lab's Interventionism
 
 Launched in 2003, the virtual world of Second Life quickly became an
 economic phenomenon. Second Life differs from the games mentioned
@@ -486,7 +486,7 @@ can and does create (all) value." [Footnote:
 https://mises.org/wire/and-thus-it-came-pass]
 
 
-### Gaming and Virtual Currencies Today
+## Gaming and Virtual Currencies Today
 
 Online games and the in-game economies they create are here to stay. For
 those who grew up with computer games, spending money on in-game goods
@@ -599,7 +599,7 @@ impacts millions of people, the other billions. The mechanism that keeps
 these monies in check---the rules of the game, if you will---is the same
 in both cases: central decree.
 
-### Emergent Money in a Non-Virtual World
+## Emergent Money in a Non-Virtual World
 
 Bitcoin is different. Bitcoin's value does not derive from a central
 decree. Like gold before it, its scarcity and persistence do not derive
@@ -692,10 +692,12 @@ reality.
 
 How is Bitcoin different?
 
-### Digital Reality
+## Digital Reality
 
-> Reality is that which, when you stop believing in it, doesn't go away.
-> 
+> Reality is that which,
+> when you stop believing in it,
+> doesn't go away. 
+>
 > <cite>Philip K. Dick</cite>
 
 While the world of Bitcoin is a digital world, it is not a virtual
@@ -785,7 +787,7 @@ The numbers might be random, but the process that brings them about is
 not. The parameters might be arbitrary, but the digital universe they
 create is not.
 
-### Emergent Money in an Emergent World
+## Emergent Money in an Emergent World
 
 One question remains: why won't Bitcoin die? Why doesn't it go away?
 To answer this, we have to talk about two other aspects of the
@@ -874,7 +876,7 @@ As long as someone cares about fair, censorship-resistant money that is
 independent of the state, Bitcoin will exist. Even if that someone is
 only one person. Even if that someone is just you.
 
-### Conclusion
+## Conclusion
 
 Before Bitcoin, all digital money was *virtual* money. Most virtual
 monies are fiat monies, only money because some authority says so. Even
