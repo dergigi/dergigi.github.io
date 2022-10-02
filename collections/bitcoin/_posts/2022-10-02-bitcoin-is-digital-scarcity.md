@@ -16,7 +16,6 @@ tags:
 series: 21 Ways
 ---
 
-<!-- TODO: Double-check with 6.md, maybe include parts that fit -->
 <!-- TODO: Add "give value back" button & LN address right after end -->
 
 > We should treat computers as fancy telephones, whose purpose is to connect
