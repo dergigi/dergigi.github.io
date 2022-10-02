@@ -586,24 +586,25 @@ as well. Farming is just one method to produce more of something
 cheaply, and if that something is money, the effects that come with
 inflation will burden the economy; in-game or not.
 
-While in-game economies can have repercussions in the real world, the
-reverse is also true: economic events in the real world can have
-rippling effects that disturb virtual worlds. One such example is the
-hyperinflation in Venezuela, which lead many people to start farming
-gold and other valuable in-game items to make ends meet. Venezuelans
-that had a computer and internet access were driven to abandon their
-real-world jobs, since farming and selling virtual goods to players
-worldwide - sometimes using bitcoin as the intermediate medium of
-exchange - brought in more money than they could earn regularly. As The
-Economist quipped: "The law of supply and demand is ignored in
-Venezuela, but not online." [Footnote:
-https://www.economist.com/the-americas/2019/11/21/venezuelas-paper-currency-is-worthless-so-its-people-seek-virtual-gold]
-So many Venezuelans farmed and traded virtual goods that when the power
-went out during the 2019 Venezuelan blackouts, virtual worlds such
-as *RuneScape* suffered their own economic crisis. Imagine a lively
-marketplace, and suddenly, one day, the vast majority of traders (and
-thus goods) can't show up. After all, there is no online trading when
-you're forced to be offline because the power is out.
+While in-game economies can have repercussions in the real world, the reverse is
+also true: economic events in the real world can have rippling effects that
+disturb virtual worlds. One such example is the hyperinflation in Venezuela,
+which lead many people to start farming gold and other valuable in-game items to
+make ends meet. Venezuelans that had a computer and internet access were driven
+to abandon their real-world jobs, since farming and selling virtual goods to
+players worldwide---sometimes using bitcoin as the intermediate medium of
+exchange---brought in more money than they could earn regularly. As The
+Economist quipped: "The law of supply and demand is ignored in Venezuela, but
+not online."[^fn-economist]
+
+So many Venezuelans farmed and traded virtual goods
+that when the power went out during the 2019 Venezuelan blackouts, virtual
+worlds such as *RuneScape* suffered their own economic crisis. Imagine a lively
+marketplace, and suddenly, one day, the vast majority of traders (and thus
+goods) can't show up. After all, there is no online trading when you're forced
+to be offline because the power is out.
+
+[^fn-economist]: The Economist (2019), [Venezuela’s paper currency is worthless, so its people seek virtual gold](https://web.archive.org/web/20191123131514/https://www.economist.com/the-americas/2019/11/21/venezuelas-paper-currency-is-worthless-so-its-people-seek-virtual-gold)
 
 All these examples show that games are microcosms when it comes to
 economies and the creation and control of money. The difference between
