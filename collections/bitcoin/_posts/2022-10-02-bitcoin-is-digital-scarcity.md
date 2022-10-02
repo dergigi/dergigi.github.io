@@ -846,22 +846,22 @@ To answer this, we have to talk about two other aspects of the
 proof-of-work coin: *validation* and *instantiation*.
 
 If you are the inhabitant of someone else's world---if the arena is
-"served"---you will always be bound to their rules. That is true in
-computer games and nation-states alike. The game changes if you can
-"run your own," which is what makes you independent of any masters. If
-you run your own instance---if you create your own world---you won't
-have to bow down to anyone else. You just have to subjugate yourself to
-the laws of nature.
+"served"---you will always be at your master's mercy. You will always be bound
+to their rules. That is true in computer games and nation-states alike. The game
+changes if you can "run your own," which is what makes you independent of any
+masters. If you run your own instance---if you create your own world---you won't
+have to bow down to anyone else. You just have to subjugate yourself to the laws
+of nature.
 
 In Bitcoin, anyone can create both the *objects* and the *arena*. Anyone
 can mine. Anyone can run a node.
 
-A node is what builds up and verifies the digital world of Bitcoin, from
-the very beginning, including all rules and all past states. The world
-of Bitcoin arises out of the overlap of all these individual worlds. It
-is not a shared world, it is a world of consensus that arises out
-of *agreement*. Agreement about what happened in the past; agreement via
-independent repetition of the same experiment and arriving at the same
+A node is what builds up and verifies the digital world of Bitcoin, from the
+very beginning, including all rules and all past states. The world of Bitcoin
+arises out of the overlap of all these individual worlds. It is not a shared
+world, it is a world of consensus that arises out of *agreement*. Agreement
+about what happened in the past and what should happen in the future. Agreement
+via independent repetition of the same experiment and arriving at the same
 conclusion.
 
 A "miner" is what extends the digital world of Bitcoin. Miners are in
@@ -934,7 +934,7 @@ only one person. Even if that someone is just you.
 Before Bitcoin, all digital money was *virtual* money. Most virtual
 monies are fiat monies, only money because some authority says so. Even
 when money emerged naturally in networked games, the worlds that form
-these arenas were always *virtual* worlds, designed, controlled, and
+these arenas were always *virtual* worlds. Designed, controlled, and
 maintained by central authorities. Authorities with the power to change
 the rules, something that they will always do, either out of
 self-interest or emergency. As we have seen, if a central authority can
@@ -1002,8 +1002,8 @@ future: 
 
 1.  "admins" abuse their powers and print more outright, 
 2.  "players" find ways to make more of it cheaply, 
-3.  "the arena" ceases to exist, either because of bankruptcy or state
-    intervention.
+3.  "the arena" ceases to exist, either because of bankruptcy,
+    intervention, or collapse.
 
 The combination of non-simulatable proof-of-work with cheap, independent
 verification and instantiation is what separates Bitcoin from all the
@@ -1067,12 +1067,15 @@ have the problem of a disappearing arena. For bitcoin, the arena is the
 mathematical universe. And as long as a single copy of the timechain remains
 intact, Bitcoin will survive.
 
-Its physicality is the downside of gold: it is a physical item in a physical
-environment. Consequently, you can't send it at the speed of light.
+Gold's physicality is its biggest downside: it is a physical item in a physical
+environment. Consequently, you can neither store it in your head nor send it to
+others at the speed of light.
 
-Bitcoin fixes this. Bitcoin's proof-of-work reifies Bitcoin's blocks as well as
-the monetary units within them, and it is this reification of information that
-allows Bitcoin to transcend the mere virtual.
+Bitcoin fixes this. It is a digital commodity in a digital environment, brought
+about and protected by physical processes that can't be cheated. Bitcoin's
+proof-of-work reifies Bitcoin's blocks as well as the monetary units within
+them, and it is this reification of information that allows Bitcoin to transcend
+the mere virtual.
 
 But Bitcoin transcends more than just the virtual. It also transcends
 all other monies that came before it, by introducing something that
@@ -1080,7 +1083,7 @@ cannot be improved upon further, something that did not and *can
 not* exist in the physical world: absolute limitation via zero terminal
 inflation.
 
-21 million. Absolute scarcity.
+21 million. [Absolute scarcity.](https://21-ways.com/7/)
 
 ---
 
