@@ -1084,9 +1084,4 @@ inflation.
 
 21 million. [Absolute scarcity.](https://21-ways.com/7/)
 
----
-
-*Bitcoin Is Digital Scarcity* is a chapter of
-my upcoming book [*21 Ways*](https://21-ways.com).
-
----
+{% include v4v-21w.html %}

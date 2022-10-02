@@ -1,0 +1,31 @@
+{% capture name %}{{ page.redirect_from | replace: '/', '' }}{% endcapture %}
+{% if include.chapter %}{% assign chapter = include.chapter %}{% endif %}
+
+<hr/>
+
+<center>
+  <small>
+    Found this valuable? <a href="{{ '/support' | absolute_url }}"><i class="fa-solid fa-circle-info"></i></a>
+  </small>
+  <div class="action-buttons">
+    <div class="button button-transparent button-small button-wide">
+      <a href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-{{ name }}&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD">
+        Give Value Back
+      </a>
+    </div>
+    <small class="lightning-address">
+      <a href="{{ '/support#lightning' | absolute_url }}">
+      ⚡ s@ts.dergigi.com
+      </a>
+    </small>
+  </div>
+  <small>
+    <a href="{{ page.updated_version }}" target="_blank">
+      <i>{{ page.title }}</i>
+    </a>
+    is a chapter of my upcoming book
+    <a href="https://21-ways.com" target="_blank">21 Ways</a>.
+  </small>
+</center>
+
+<hr/>
