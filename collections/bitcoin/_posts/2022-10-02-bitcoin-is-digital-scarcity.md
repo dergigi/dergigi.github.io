@@ -16,7 +16,6 @@ tags:
 series: 21 Ways
 ---
 
-<!-- TODO: Insert images -->
 <!-- TODO: Double-check with 6.md, maybe include parts that fit -->
 <!-- TODO: Convert external links to archive links. -->
 <!-- TODO: Proper footnotes with text -->
@@ -622,7 +621,7 @@ currency, which would ultimately only have the effect of more deeply
 entrenching the source and root of all monetary evil, the government
 monopoly of the issue and control of money.
 >
-><cite>F. A. Hayek</cite> 
+> <cite>F. A. Hayek</cite> 
 
 The problem of *issuance* relates to the monetary units themselves: who
 can make more of them? The problem of *control* relates to the
@@ -695,11 +694,8 @@ How is Bitcoin different?
 
 ### Digital Reality
 
-> "Reality is that which, when you stop believing in it, doesn't go
-away,"
-
+> Reality is that which, when you stop believing in it, doesn't go away.
 > 
-
 > <cite>Philip K. Dick</cite>
 
 While the world of Bitcoin is a digital world, it is not a virtual
@@ -771,14 +767,12 @@ happened in the real world. Certain events that are so improbable, so
 incredibly unlikely, that they had to happen in *actuality*, even though
 every single event was a *digital* event. 
 
-> Proof-of-work has the nice property that it can be relayed through
-untrusted middlemen. We don't have to worry about a chain of custody of
-communication. It doesn't matter who tells you a [heaviest] chain,
-the proof-of-work speaks for itself.
-
+> Proof-of-work has the nice property that it can be relayed through untrusted
+> middlemen. We don't have to worry about a chain of custody of communication.
+> It doesn't matter who tells you a [heaviest] chain, the proof-of-work speaks
+> for itself.
 >
-
-><cite>Satoshi Nakamoto</cite>
+> <cite>Satoshi Nakamoto</cite>
 
 Bitcoin's difficulty-adjusted proof-of-work is what makes Bitcoin a
 real phenomenon, something to be wrestled with. It is what makes it
