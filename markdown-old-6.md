@@ -1,5 +1,5 @@
 ---
-layout: way
+layout: page
 title: Bitcoin Is Digital Scarcity
 subtitle: "'Digital Scarcity' used to be an oxymoron. It isn't anymore."
 link: {{ page.url }}
