@@ -298,29 +298,31 @@ Jordan*. 
 
 {% include image.html name="soj.jpg" caption="Emergent in-game money: The Stone of Jordan"%}
 
-The Stone of Jordan, or SoJ for short, was one of the *unique* (read:
-very rare) [Footnote: Unique items in Diablo 2 aren't unique in the
-literal sense, but belong to the "unique" class. Other classes are
-normal, superior, magic, rare, set, and crafted. Unique items are
-exceedingly rare, meaning that the odds that they will spawn more than
-once each game are nearly impossible. ] rings in the game. While it had
-desirable properties in and of itself, most players didn't use it as an
-item to be equipped, but as a currency to facilitate trade. The SoJ was
-small and rare, which made it portable and valuable. Using up only one
-slot in a player's inventory, many players had dozens of SoJs in their
-stash to be used for trading. Prices emerged naturally. Most desirable
-weapons - which usually belonged to the unique or set class - traded for
-single-digit amounts of SoJs. A *Doombringer* sword was worth between
-two and four SoJs, an *Eaglehorn* bow between five and seven, and a
-mallet known as *Schaefer's Hammer* was worth between four and six
-SoJs. Any item that was worth less than a single SoJ was traded for one
-or more *perfect skulls*, another de-facto currency that emerged
-naturally. In essence, the perfect skull was the \$1 bill of the game,
-and the SoJ was the \$5 bill of the game. Naturally, one SoJ would trade
-for 5 perfect skulls. Only the best items were priced in the double
-digits in terms of SoJs. One example would be the *Windforce* bow that,
-coincidentally, my *Bowazon* was lucky enough to hold in her hands. It
-was traded for around 40 SoJs.
+The Stone of Jordan, or SoJ for short, was one of the _unique_[^fn-unique]
+(read: very rare) rings in the game. While it had desirable properties in and of
+itself, most players didn't use it as an item to be equipped, but as a currency
+to facilitate trade. The SoJ was small and rare, which made it portable and
+valuable.[^fn-soj-monopoly] Using up only one slot in a player's inventory, many
+players had dozens of SoJs in their stash to be used for trading. Prices emerged
+naturally.[^fn-soj-endogenous] Most desirable weapons—which usually belonged to
+the unique or set class—traded for single-digit amounts of SoJs. A _Doombringer_
+sword was worth between two and four SoJs, an _Eaglehorn_ bow between five and
+seven, and a mallet known as _Schaefer's Hammer_ was worth between four and six
+SoJs. Any item that was worth less than a single SoJ was traded for one or more
+_perfect skulls_, another de-facto currency that emerged naturally. In essence,
+the perfect skull was the $1 bill of the game, and the SoJ was the $5 bill of
+the game. Naturally, one SoJ would trade for 5 perfect skulls. Only the best
+items were priced in the double digits in terms of SoJs. One example would be
+the _Windforce_ bow that, coincidentally, my _Bowazon_ was lucky enough to hold
+in her hands. It was traded for around 40 SoJs.
+
+[^fn-soj-monopoly]: Daniel McNally (2012). [It’s all Monopoly Money Now](https://archive.ph/0QgUt)
+
+[^fn-soj-endogenous]: Salter, A. W., & Stein, S. (2016). [Endogenous currency formation in an online environment: The case of Diablo II.][d2-currency-formation] The Review of Austrian Economics, 29(1), 53-66.
+
+[d2-currency-formation]: https://link.springer.com/article/10.1007/s11138-014-0289-1
+
+[^fn-unique]: Unique items in Diablo 2 aren't unique in the literal sense, but belong to the "unique" class. Other classes are normal, superior, magic, rare, set, and crafted. Unique items are exceedingly rare, meaning that the odds that they will spawn more than once each game are nearly impossible.
 
 The *Stone of Jordan* eventually lost its role as the de-facto money in
 Diablo 2. As with all obsolete money, its eventual downfall was that
