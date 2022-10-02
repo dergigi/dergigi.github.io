@@ -614,6 +614,8 @@ impacts millions of people, the other billions. The mechanism that keeps
 these monies in check---the rules of the game, if you will---is the same
 in both cases: central decree.
 
+TODO: Include paragraphs of 6.md; segue into how Bitcoin is a non-virtual world.
+
 ## Emergent Money in a Non-Virtual World
 
 Bitcoin is different. Bitcoin's value does not derive from a central
