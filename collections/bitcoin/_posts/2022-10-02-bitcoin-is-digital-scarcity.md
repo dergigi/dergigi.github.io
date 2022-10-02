@@ -569,11 +569,13 @@ In even more extreme cases prison inmates were forced to farm the digital asset
 all night long.[^fn-guardian] As Paul Tassi wrote in Forbes in 2011: "It's been
 discovered that in an unknown number of Chinese prisons across the country,
 inmates have been forced not only to do physical labor, but electronic work as
-well, acting as World of Warcraft gold farmers by night."
+well, acting as World of Warcraft gold farmers by night."[^fn-forbes]
 
 [^fn-gold-farming]: [Gold Farming](https://en.wikipedia.org/w/index.php?title=Gold_farming&oldid=1110810665), Wikipedia
 
 [^fn-guardian]: Danny Vincent (2011), [China used prisoners in lucrative internet gaming work](https://web.archive.org/web/20220000000000*/https://www.theguardian.com/world/2011/may/25/china-prisoners-internet-gaming-scam), The Guardian
+
+[^fn-forbes]: Paul Tassi (2011), [Chinese Prisoners Forced to Farm World of Warcraft Gold](https://web.archive.org/web/20210719071601/https://www.forbes.com/sites/insertcoin/2011/06/02/chinese-prisoners-forced-to-farm-world-of-warcraft-gold/), Forbes
 
 It turns out that prison bosses made more money with forced in-game
 labor than they made with good old-fashioned forced physical labor in
@@ -635,12 +637,12 @@ a cut for every transaction that happens inside their world. Ironically, this is
 also one of the reasons for government intervention: they want their "fair
 share" too.
 
-It is simple, really: if the world is controlled and instantiated by a single
-entity, it will sooner or later cease to exist. And with it, everything that
-existed inside it.
+It is simple, really: if a world is controlled and instantiated by a single
+entity, it is prone to manipulation. Sooner or later, it will cease to exist.
+And with it, everything that existed inside it.
 
-What we need is a non-virtual world, a persistent world. A world that is digital
-and yet refuses to go away.
+What we need is a non-virtual world, a persistent world. A world that refuses to
+disappear.
 
 ## Emergent Money in a Non-Virtual World
 
