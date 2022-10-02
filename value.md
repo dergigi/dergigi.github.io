@@ -42,6 +42,7 @@ For my long-form thoughts on value-for-value see the following:
 
 - [Dear Netizen][netizen]
 - [The Freedom of Value][busking]
+- [Value4Value.info][v4v-info]
 
 **TL;DR** Give as much as you think it's worth. Thank you. 🙏🧡
 
@@ -51,6 +52,7 @@ For my long-form thoughts on value-for-value see the following:
 [license]: {{ '/license' | absolute_url }}
 [support]: {{ '/support' | absolute_url }}
 [busking]: {{ '/busking' | absolute_url }}
+[v4v-info]: https://value4value.info
 [translations]: {{ '/translations' | absolute_url }}
 [netizen]: {{ '/dear-netizen' | absolute_url }}
 [review]: https://21lessons.com/reviews/
