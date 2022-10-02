@@ -616,15 +616,13 @@ The difference lies in the *issuance and control* of the monetary units,
 which, when centrally controlled, are the source and root of all
 monetary evil, as Hayek said so poignantly.
 
-\> [Free trade in money] seems to me both preferable and more
+> [Free trade in money] seems to me both preferable and more
 practicable than the utopian scheme of introducing a new European
 currency, which would ultimately only have the effect of more deeply
 entrenching the source and root of all monetary evil, the government
 monopoly of the issue and control of money.
-
-\>
-
-\>\<cite\>F. A. Hayek\</cite\> 
+>
+><cite>F. A. Hayek</cite> 
 
 The problem of *issuance* relates to the monetary units themselves: who
 can make more of them? The problem of *control* relates to the
@@ -697,12 +695,12 @@ How is Bitcoin different?
 
 ### Digital Reality
 
-\> "Reality is that which, when you stop believing in it, doesn't go
+> "Reality is that which, when you stop believing in it, doesn't go
 away,"
 
-\> 
+> 
 
-\> \<cite\>Philip K. Dick\</cite\>
+> <cite>Philip K. Dick</cite>
 
 While the world of Bitcoin is a digital world, it is not a virtual
 world. It is not a made-up world. Yes, the rules were "made up" by
@@ -765,7 +763,7 @@ is what makes Bitcoin more than a fancy telephone; Bitcoin doesn't only
 connect people, but it uses proof-of-work to connect itself to the
 physical world.
 
-[IMAGE: Insert chain to physical world.]
+{% include image.html name="chain-to-the-physical.png" caption="TODO"%}
 
 Proof-of-work can't be argued with. The information that is brought
 into existence via proof-of-work can only exist because certain things
@@ -773,14 +771,14 @@ happened in the real world. Certain events that are so improbable, so
 incredibly unlikely, that they had to happen in *actuality*, even though
 every single event was a *digital* event. 
 
-\> Proof-of-work has the nice property that it can be relayed through
+> Proof-of-work has the nice property that it can be relayed through
 untrusted middlemen. We don't have to worry about a chain of custody of
 communication. It doesn't matter who tells you a [heaviest] chain,
 the proof-of-work speaks for itself.
 
-\>
+>
 
-\>\<cite\>Satoshi Nakamoto\</cite\>
+><cite>Satoshi Nakamoto</cite>
 
 Bitcoin's difficulty-adjusted proof-of-work is what makes Bitcoin a
 real phenomenon, something to be wrestled with. It is what makes it
@@ -869,7 +867,7 @@ with the worlds of others, leaving you stranded on an island of one.
 [Footnote: We will discuss soft- and hard forks in detail in Chapter
 16.]
 
-[IMAGE: Insert image of served arena vs consensus.]
+{% include image.html name="emergent-world-vs-dictate.png" caption="TODO"%}
 
 Unlike most virtual worlds, the world of Bitcoin arises out of the
 intersection of individual points of view. It is not served by authority
