@@ -47,13 +47,13 @@ everything dematerialize, ourselves included? Is the rapture of the
 nerds imminent, and only those who praise the gods of
 the singularity will be saved?[^fn-rapture]
 
-[^fn-rapture]: Cory Doctorow, [The Rapture of the Nerds](https://en.wikipedia.org/w/index.php?title=The_Rapture_of_the_Nerds&oldid=1082818012)
+[^fn-rapture]: Cory Doctorow (2012), [The Rapture of the Nerds](https://en.wikipedia.org/w/index.php?title=The_Rapture_of_the_Nerds&oldid=1082818012)
 
 I hope not. While it is true that software is eating the
 world,[^fn-software] we have to differentiate between
 the *digital* and the *virtual*.
 
-[^fn-software]:  Marc Andreessen, [Why Software Is Eating the World](https://archive.ph/8biiK)
+[^fn-software]:  Marc Andreessen (2011), [Why Software Is Eating the World](https://archive.ph/8biiK)
 
 ## Digital vs. Virtual
 
@@ -150,7 +150,7 @@ tokens on, among other things, various items for sale in vending
 machines called *Vendroids*. There were also Pawn Machines, which would
 buy objects back (at a discount, of course)."
 
-[^fn-mud]: Julian Dibbell, [MUD Money](https://web.archive.org/web/20070816070650/http://www.juliandibbell.com/texts/mudmoney.html): A Talk on Virtual Value and, Incidentally, the Value of the Virtual
+[^fn-mud]: Julian Dibbell (1995), [MUD Money](https://web.archive.org/web/20070816070650/http://www.juliandibbell.com/texts/mudmoney.html): A Talk on Virtual Value and, Incidentally, the Value of the Virtual
 
 {% include image.html name="adventure-mud-dark.png" caption="'Colossal Cave Adventure' created by Will Crowther in 1975 was one of the first dungeon games."%}
 
@@ -203,24 +203,24 @@ but a closer inspection reveals that some virtual worlds contain real market
 economies complete with scarce resources, property rights, entrepreneurship, and
 exchange."[^fn-mises]
 
-[^fn-zachary]: Zachary Booth Simpson, [The In-game Economics of Ultima Online][uo-economics], Origin Research, April 1999
+[^fn-zachary]: Zachary Booth Simpson (1999), [The In-game Economics of Ultima Online][uo-economics], Origin Research
 
 [uo-economics]: {{ '/assets/files/UO-Economics.pdf' | absolute_url }}
 
-[^fn-mises]: https://mises.org/library/coming-second-life-business-cycle
+[^fn-mises]: Matthew Beller (2007), [The Coming Second Life Business Cycle](https://archive.ph/6soMH)
 
-The world of Ultima Online allows for spontaneous economic interaction
-between players. Players are free to trade as they see fit, directly,
-without restriction in regards to what to trade or with whom. However,
-some parts of the game's economy are planned by the game's designers.
-For example, players can sell their goods to NPCs [Footnote/glossary:
-non-player characters], receiving gold in return. Also, players can
-explore the world and harvest natural resources, e.g. hunt wild animals
-for fur and meat, cut down trees to gather wood, and so on. Naturally,
-these computer-controlled aspects of the game have to be pre-programmed:
-how much of a good is an NPC vendor willing to buy, and for what price?
-How many rabbits spawn in a certain area? How quickly will a forest
-regrow?
+The world of Ultima Online allows for spontaneous economic interaction between
+players. Players are free to trade as they see fit, directly, without
+restriction in regards to what to trade or with whom. However, some parts of the
+game's economy are planned by the game's designers. For example, players can
+sell their goods to NPCs[^fn-npc], receiving gold in return. Also, players can
+explore the world and harvest natural resources, e.g. hunt wild animals for fur
+and meat, cut down trees to gather wood, and so on. Naturally, these
+computer-controlled aspects of the game have to be pre-programmed: how much of a
+good is an NPC vendor willing to buy, and for what price? How many rabbits spawn
+in a certain area? How quickly will a forest regrow?
+
+[^fn-npc]: Non-player characters.
 
 {% include image.html name="uo-economic-flow-dark.png" caption="Originally designed and revised economic flow of Ultima Online."%}
 
@@ -419,11 +419,9 @@ writing,[^fn-this-writing] Second Life has about 50,000 residents logged into
 the virtual world at any given time, and an annual GDP of approximately USD 500
 million.[^fn-sl-facts] To quote Matthew Beller: "Second Life's economy could
 reasonably be compared to that of a small foreign country dependent on
-tourism."[^fn-tourism]
+tourism."[^fn-mises]
 
 [^fn-this-writing]: Daniel Voyager (2022). [Second Life Grid Statistics](https://archive.ph/oWcuX)
-
-[^fn-tourism]: https://mises.org/library/coming-second-life-business-cycle
 
 [^fn-sl-facts]: Nick Galov (2022). [Second Life in 2022: What It Means to Live in a Virtual World](https://archive.ph/Br8Dh)
 
