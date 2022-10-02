@@ -530,28 +530,29 @@ dollars on secondary markets. Some skins are bound to championships and
 thus have a unique character, such as the *Dragon Lore* from the Boston
 2018 Major, which sold for over USD 61,000 in January 2018. Some
 collectors seem to have paid even more to purchase a single skin, with
-reports citing up to twice that amount (over USD 100,000). [Footnote:
-https://www.ginx.tv/en/cs-go/the-most-expensive-csgo-skin-purchase-in-history
-https://www.skinwallet.com/csgo/the-most-expensive-csgo-skins-ever-sold/
-https://www.pcgamer.com/uk/csgo-dragon-lore-awp-skin-sells-for-more-than-61000/]
+reports citing
+up to twice that amount (over USD 100,000).[^fn-csgo]
+
+[^fn-csgo]: See https://www.ginx.tv/en/cs-go/the-most-expensive-csgo-skin-purchase-in-history and https://www.skinwallet.com/csgo/the-most-expensive-csgo-skins-ever-sold/ and https://www.pcgamer.com/uk/csgo-dragon-lore-awp-skin-sells-for-more-than-61000/
 
 {% include image.html name="dragonlore.png" caption="Dragon Lore AWP skin sold for USD 61,000 in 2018"%}
 
-All of this goes to show that if left to their own devices, players will
-spawn vast economies as long as the game mechanics allow for it. One of
-the best examples of a flourishing in-game economy is Eve Online, an
-MMORPG space simulation. The game was home to what is probably the most
-expensive battle in gaming history: the *Bloodbath of
-B-R5RB,* (Footnote: https://en.wikipedia.org/wiki/Bloodbath_of_B-R5RB)
-named after the star system where the battle took place. Players can
-visit 7,800 star systems in this virtual world to explore, mine, trade,
-and---of course---combat other players. This particular battle took
-place in January 2014. The tally of the losses of all involved was in
-the realm of 11 trillion Interstellar Kredit (ISK) or USD 330,000 at the
-time. I can only echo the words of Marcus Carter, Kelly Bergstrom, and
-Darryl Woodford: *"Internet Spaceships Are Serious
-Business."* (Footnote:
-https://www.amazon.de/Internet-Spaceships-Are-Serious-Business/dp/0816699089/) 
+All of this goes to show that if left to their own devices, players will spawn
+vast economies as long as the game mechanics allow for it. One of the best
+examples for a flourishing economy (thanks to little intervention) is Eve
+Online, an MMORPG space simulation. The game was home to what is probably the
+most expensive battle in gaming history: the _Bloodbath of B-R5RB_, named after
+the star system where the battle took place.[^fn-bb] Players can visit 7,800
+star systems in this virtual world to explore, mine, trade, and---of
+course---combat other players. This particular battle took place in January 2014.
+The tally of the losses of all involved was in the realm of 11 trillion
+Interstellar Kredit (ISK) or USD 330,000 at the time. I can only echo the words
+of Marcus Carter, Kelly Bergstrom, and Darryl Woodford: "_Internet Spaceships
+Are Serious Business_."[^fn-serious]
+
+[^fn-bb]: https://en.wikipedia.org/wiki/Bloodbath_of_B-R5RB
+
+[^fn-serious]: https://www.amazon.de/Internet-Spaceships-Are-Serious-Business/dp/0816699089/
 
 No discussion about in-game money is complete without mentioning the
 king of gold farming, at least in terms of real-world
