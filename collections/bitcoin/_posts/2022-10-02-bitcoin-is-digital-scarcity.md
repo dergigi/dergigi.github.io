@@ -328,17 +328,16 @@ The *Stone of Jordan* eventually lost its role as the de-facto money in
 Diablo 2. As with all obsolete money, its eventual downfall was that
 people found a way to make more of it, cheaply. 
 
-Inflation began gradually. Since the *Stone of Jordan* was such a
-valuable item, players began to "farm" it as best as they could. They
-found all kinds of ingenious ways to make it "drop" more often,
-inflating the supply over time. [Footnote: It is worth pointing out at
-this point that our current fiat monies such as the USD can be farmed
-too. The easiest way to farm fiat is not by doing work, however, but by
-taking on debt.] The game developers even introduced features into the
-game that would incentivize players to get rid of the additional SoJ
-supply. For example: if enough players sold their SoJ rings to NPC
-vendors, a special monster would spawn, known as the *Uber Diablo - *a
-clone of the final boss of the game. 
+Inflation began gradually. Since the *Stone of Jordan* was such a valuable item,
+players began to "farm" it as best as they could. They found all kinds of
+ingenious ways to make it "drop" more often, inflating the supply over
+time.[^fn-fiat-farming] The game developers even introduced features into the
+game that would incentivize players to get rid of the additional SoJ supply. For
+example: if enough players sold their SoJ rings to NPC vendors, a special
+monster would spawn, known as the *Uber Diablo - *a clone of the final boss of
+the game. 
+
+[^fn-fiat-farming]: It is worth pointing out at this point that our current fiat monies such as the USD can be farmed too. The easiest way to farm fiat is not by doing work, however, but by taking on debt.
 
 Of course, the cheapest way to make more of something is not to farm it,
 but to copy it. And that's exactly what players figured out to do.
