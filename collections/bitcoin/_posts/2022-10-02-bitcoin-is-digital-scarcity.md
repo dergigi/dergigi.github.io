@@ -446,12 +446,12 @@ direction or improve the bottom line of Linden Lab. One such example
 would be the introduction of a value-added tax for all European
 residents - a tax for purchasing virtual goods, mind you. Others, such
 as the global ban on gambling, were initiated because of pressure due to
-real-world government regulations. To quote [the
-announcement](https://web.archive.org/web/20071216095626/http://blog.secondlife.com/2007/07/25/wagering-in-second-life-new-policy/) [Footnote:
-https://web.archive.org/web/20071216095626/http://blog.secondlife.com/2007/07/25/wagering-in-second-life-new-policy/]
-of this new policy: "Second Life Residents must comply with state and
-federal laws applicable to regulated online gambling, even when both
-operators and players of the games reside outside of the US."
+real-world government regulations.
+To quote the announcement of this new policy: "Second Life Residents must comply
+with state and federal laws applicable to regulated online gambling, even when
+both operators and players of the games reside outside of the US."[^fn-slb]
+
+[^fn-slb]: Robin Linden (2007), [Wagering In Second Life: New Policy](https://web.archive.org/web/20071216095626/http://blog.secondlife.com/2007/07/25/wagering-in-second-life-new-policy/), Second Life Blog
 
 As with all complex systems, interference will often cause a whole set
 of intricate problems down the line. The ban on gambling, for example,
@@ -465,24 +465,22 @@ real world do. The virtual bank invested its money primarily in illiquid
 goods or virtual securities, just like banks in the real world do. It
 was later described as a Ponzi scheme, just like \... you get the idea.
 
-Consequently, another "Act of Linden" followed. Linden Lab updated its
-terms of services and
-various [policies](https://web.archive.org/web/20200507122527/http://wiki.secondlife.com/wiki/Linden_Lab_Official:Policy_regarding_inworld_banks) [Footnote:
-https://web.archive.org/web/20200507122527/http://wiki.secondlife.com/wiki/Linden_Lab_Official:Policy_regarding_inworld_banks]
-to include a new rule for all residents of their virtual world: everyone
-who offers an interest-paying service in Second Life must have a
-real-life banking license. The reason? Legal risks.
+Consequently, another "Act of Linden" followed. Linden Lab updated their terms
+of services and various policies[^fn-slw] to include a new rule for all
+residents of their virtual world: everyone who offers an interest-paying service
+in Second Life must have a real-life banking license. The reason? Legal risks.
 
-The following is a direct quote from the [Second Life
-Blog](http://blog.secondlife.com/2008/01/08/new-policy-regarding-in-world-banks/) [Footnote:
-http://blog.secondlife.com/2008/01/08/new-policy-regarding-in-world-banks/]:
-"As of January 22, 2008, it will be prohibited to offer interest or any
-direct return on an investment (whether in L\$ or other currency) from
-any object, such as an ATM, located in Second Life, without proof of an
-applicable government registration statement or financial institution
-charter. We're implementing this policy after reviewing Resident
-complaints, banking activities, and the law, and we're doing it to
-protect our Residents and the integrity of our economy."
+[^fn-slw]: Linden Lab (2011), [Official Policy Regarding In-World Banks](https://web.archive.org/web/20200507122527/http://wiki.secondlife.com/wiki/Linden_Lab_Official:Policy_regarding_inworld_banks), Second Life Wiki
+
+The following is a direct quote from the Second Life Blog: "As of January 22,
+2008, it will be prohibited to offer interest or any direct return on an
+investment (whether in L$ or other currency) from any object, such as an ATM,
+located in Second Life, without proof of an applicable government registration
+statement or financial institution charter. We're implementing this policy after
+reviewing Resident complaints, banking activities, and the law, and we're doing
+it to protect our Residents and the integrity of our economy."[^fn-slbp]
+
+[^fn-slbp]:  Ken D Linden (2008), [New Policy Regarding In-World “Banks”](https://web.archive.org/web/20080109141057/http://blog.secondlife.com/2008/01/08/new-policy-regarding-in-world-banks/), Second Life Blog
 
 Second Life shows two things very clearly: (1) Artificially regulating a
 complex system is not only difficult, but it will almost always have
@@ -490,14 +488,14 @@ unintended consequences that might make the problem worse. (2) If you
 are a centralized and identifiable entity that has the power to change
 the rules, the real-world state will intervene.
 
-There is a lot to be learned from the controlled laboratory experiment
-that is Second Life. In many ways, Linden Labs failed to create a stable
-and controlled closed-loop economy, even with the godlike powers they
-have over all aspects of the game. As Joseph Potts put it: "whether in
-real life or the virtual one, the creation of money by fiat produces
-booms and busts, and this even in a world in which the 'government'
-can and does create (all) value." [Footnote:
-https://mises.org/wire/and-thus-it-came-pass]
+There is a lot to be learned from the controlled laboratory experiment that is
+Second Life. In many ways, Linden Labs failed to create a stable and controlled
+closed-loop economy, even with the godlike powers they have over all aspects of
+the game.  As Joseph Potts put it: "whether in real life or the virtual one, the
+creation of money by fiat produces booms and busts, and this even in a world in
+which the 'government' can and does create (all) value."[^fn-mises-pass]
+
+[^fn-mises-pass]: Joseph Potts (2007), [And Thus It Came to Pass](https://mises.org/wire/and-thus-it-came-pass), Mises Wire
 
 
 ## Gaming and Virtual Currencies Today
