@@ -18,7 +18,6 @@ series: 21 Ways
 
 <!-- TODO: Double-check with 6.md, maybe include parts that fit -->
 <!-- TODO: Convert external links to archive links. -->
-<!-- TODO: Proper footnotes with text -->
 
 > We should treat computers as fancy telephones, whose purpose is to connect
 > people. Information is alienated experience. Information is not something that
@@ -878,9 +877,9 @@ the world will overlap sufficiently so that you can communicate and
 trade with others. You are free to extend this world, both in accordance
 with the rules (block production) and by introducing new rules (forks).
 If your rule change is incompatible, your world will cease to overlap
-with the worlds of others, leaving you stranded on an island of one.
-[Footnote: We will discuss soft- and hard forks in detail in Chapter
-16.]
+with the worlds of others, leaving you stranded on an island of one.[^fn-forks]
+
+[^fn-forks]: We will discuss soft- and hard forks in detail in [Chapter 16](https://21-ways.com/16/).
 
 {% include image.html name="emergent-world-vs-dictate.png" caption="TODO"%}
 
