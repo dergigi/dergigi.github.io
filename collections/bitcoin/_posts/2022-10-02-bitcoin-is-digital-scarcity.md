@@ -663,7 +663,7 @@ which is why all fiat monies go away over time. Either the money
 collapses due to hyperinflation, or the arena collapses due to the end
 of the nation.
 
-{% include image.html name="physical-vs-digital-arena.png" caption="TODO"%}
+{% include image.html name="physical-vs-digital-arena.png" caption="Money can emerge naturally in physical and digital environments alike."%}
 
 Whether we look at computer games or fiat money, the questions we have
 to ask when it comes to money are the same: Who can create more of it?
@@ -779,7 +779,7 @@ is what makes Bitcoin more than a fancy telephone; Bitcoin doesn't only
 connect people, but it uses proof-of-work to connect itself to the
 physical world.
 
-{% include image.html name="chain-to-the-physical.png" caption="TODO"%}
+{% include image.html name="chain-to-the-physical.png" caption="Proof-of-work chains the digital to the physical."%}
 
 Proof-of-work can't be argued with. The information that is brought
 into existence via proof-of-work can only exist because certain things
@@ -882,7 +882,7 @@ with the worlds of others, leaving you stranded on an island of one.[^fn-forks]
 
 [^fn-forks]: We will discuss soft- and hard forks in detail in [Chapter 16](https://21-ways.com/16/).
 
-{% include image.html name="emergent-world-vs-dictate.png" caption="TODO"%}
+{% include image.html name="emergent-world-vs-dictate.png" caption="Virtual worlds served by third parties differ drastically from the emergent world of Bitcoin."%}
 
 Unlike most virtual worlds, the world of Bitcoin arises out of the
 intersection of individual points of view. It is not served by authority
