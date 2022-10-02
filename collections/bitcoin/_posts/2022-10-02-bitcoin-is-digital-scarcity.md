@@ -719,11 +719,11 @@ For fiat currencies, this means that the nation-state went bankrupt or
 ceased to exist.
 
 As a shorthand, we might call the aforementioned questions
-print/farm/serve, short for: Can it be printed? Can it be farmed? Is it
+print-farm-serve, short for: Can it be printed? Can it be farmed? Is it
 served? If the answer to any of these questions is *yes*, then you are
 most definitely dealing with bad money.
 
-When looking at the trifecta of print/farm/serve through the lens of
+When looking at the trifecta of print-farm-serve through the lens of
 Bitcoin, most people will know by now that only 21 million will ever
 exist, i.e. that you can't print it. Fewer people will understand the
 difficulty adjustment, which is the mechanism that allows Bitcoin's
@@ -994,12 +994,12 @@ running the servers is in charge. In Bitcoin, it is *you* and you alone
 who is in charge. You and the truth are the final authority, brought
 about by mathematics and the physical laws of our universe.
 
-The three questions of print/farm/serve also point to the reasons why
-digital monies failed in the past, and why CBDCs will fail in the
+The questions surrounding _printing_, _farming_, and _serving_ point to the
+reasons why digital monies failed in the past, and why CBDCs will fail in the
 future: 
 
-1.  "admins" abused their powers and printed more outright, 
-2.  "players" found a way to make more of it cheaply, 
+1.  "admins" abuse their powers and print more outright, 
+2.  "players" find ways to make more of it cheaply, 
 3.  "the arena" ceases to exist, either because of bankruptcy or state
     intervention.
 
