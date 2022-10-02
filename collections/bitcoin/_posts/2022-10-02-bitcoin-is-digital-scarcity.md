@@ -528,12 +528,14 @@ what you see: weapons. While most of these weapon skins are almost
 worthless, some of the rare ones regularly trade hands for thousands of
 dollars on secondary markets. Some skins are bound to championships and
 thus have a unique character, such as the *Dragon Lore* from the Boston
-2018 Major, which sold for over USD 61,000 in January 2018. Some
+2018 Major, which sold for over USD 61,000 in January 2018.[^fn-csgo] Some
 collectors seem to have paid even more to purchase a single skin, with
 reports citing
-up to twice that amount (over USD 100,000).[^fn-csgo]
+up to twice that amount (over USD 100,000).[^fn-csgo2]
 
-[^fn-csgo]: See https://www.ginx.tv/en/cs-go/the-most-expensive-csgo-skin-purchase-in-history and https://www.skinwallet.com/csgo/the-most-expensive-csgo-skins-ever-sold/ and https://www.pcgamer.com/uk/csgo-dragon-lore-awp-skin-sells-for-more-than-61000/
+[^fn-csgo]: Andy Chalk (2018), [CS:GO 'Dragon Lore' AWP skin sells for more than $61,000](https://web.archive.org/web/20221002105923/https://www.pcgamer.com/csgo-dragon-lore-awp-skin-sells-for-more-than-61000/)
+
+[^fn-csgo2]: Nikola Savic (2020), [https://web.archive.org/web/20221002105859/https://www.ginx.tv/en/cs-go/the-most-expensive-csgo-skin-purchase-in-history](Someone paid $100,000+ for a CS:GO skin, the most expensive skin purchase in history)
 
 {% include image.html name="dragonlore.png" caption="Dragon Lore AWP skin sold for USD 61,000 in 2018"%}
 
@@ -547,32 +549,33 @@ star systems in this virtual world to explore, mine, trade, and---of
 course---combat other players. This particular battle took place in January 2014.
 The tally of the losses of all involved was in the realm of 11 trillion
 Interstellar Kredit (ISK) or USD 330,000 at the time. I can only echo the words
-of Marcus Carter, Kelly Bergstrom, and Darryl Woodford: "_Internet Spaceships
-Are Serious Business_."[^fn-serious]
+of Marcus Carter, Kelly Bergstrom, and Darryl Woodford: "Internet Spaceships
+Are Serious Business."[^fn-serious]
 
-[^fn-bb]: https://en.wikipedia.org/wiki/Bloodbath_of_B-R5RB
+[^fn-bb]: Wikipedia, [Battle of B-R5RB](https://en.wikipedia.org/w/index.php?title=Battle_of_B-R5RB&oldid=1107214681)
 
-[^fn-serious]: https://www.amazon.de/Internet-Spaceships-Are-Serious-Business/dp/0816699089/
+[^fn-serious]: Marcus Carter, Kelly Bergstrom, and Darryl Woodford (2016), [Internet Spaceships Are Serious Business](https://web.archive.org/web/20221002105611/https://www.upress.umn.edu/book-division/books/internet-spaceships-are-serious-business), University of Minnesota Press
 
-No discussion about in-game money is complete without mentioning the
-king of gold farming, at least in terms of real-world
-repercussions: *World of Warcraft*. The virtual gold rush and the gold
-farms (Footnote: https://en.wikipedia.org/wiki/Gold_farming) it spawned
-are something to behold. While the gold was virtual, the (mostly
-criminal) organizations launched to systematically harvest the in-game
-currency were anything but. The idea was simple: hire a bunch of people,
-pay them to play for up to 20 hours a day, and sell the gold they find
-in the game to other players. For real money, of course. Some took the
-execution of this idea to the extreme. "Companies" retro-fitted
-warehouses to cram as many PCs and "employees" in them as possible.
-The only job of these employees was to play the game and farm gold. In
-even more extreme cases prison inmates were forced to farm the digital
-asset all night long. As Paul Tassi wrote in Forbes in 2011: "It's
-been discovered that in an unknown number of Chinese prisons across the
-country, inmates have been forced not only to do physical labor, but
-electronic work as well, acting as *World of Warcraft* gold farmers by
-night." [Footnote:
-https://www.theguardian.com/world/2011/may/25/china-prisoners-internet-gaming-scam]
+No discussion about in-game money is complete without mentioning the king of
+gold farming, at least in terms of real-world repercussions: _World of
+Warcraft_. The virtual gold rush and the gold farms it spawned are something to
+behold.[^fn-gold-farming] While the gold was virtual, the (mostly criminal)
+organizations launched to systematically harvest the in-game currency were
+anything but. The idea was simple: hire a bunch of people, pay them to play for
+up to 20 hours a day, and sell the gold they find in the game to other players.
+For real money, of course. Some took the execution of this idea to the extreme.
+"Companies" retro-fitted warehouses to cram as many PCs and "employees" in them
+as possible. The only job of these employees was to play the game and farm gold.
+In even more extreme cases prison inmates were forced to farm the digital asset
+all night long.[^fn-guardian] As Paul Tassi wrote in Forbes in 2011: "It's been
+discovered that in an unknown number of Chinese prisons across the country,
+inmates have been forced not only to do physical labor, but electronic work as
+well, acting as World of Warcraft gold farmers by night."
+
+[^fn-gold-farming]: [Gold Farming](https://en.wikipedia.org/w/index.php?title=Gold_farming&oldid=1110810665), Wikipedia
+
+[^fn-guardian]: Danny Vincent (2011), [China used prisoners in lucrative internet gaming work](https://web.archive.org/web/20220000000000*/https://www.theguardian.com/world/2011/may/25/china-prisoners-internet-gaming-scam), The Guardian
+
 It turns out that prison bosses made more money with forced in-game
 labor than they made with good old-fashioned forced physical labor in
 the real world. Prisoners were compelled to work 12-hour shifts inside
