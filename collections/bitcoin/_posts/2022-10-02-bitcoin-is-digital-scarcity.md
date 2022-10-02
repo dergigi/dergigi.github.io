@@ -715,10 +715,10 @@ disappear.
 
 [^fn-diamonds]: Diamonds are one example of a real-world good that used to be scarce but can now be farmed. Thanks to human ingenuity, diamonds can be produced artificially. To quote the [U.S. National Minerals Information Center](https://web.archive.org/web/20221002111535/https://www.usgs.gov/centers/national-minerals-information-center/industrial-diamond-statistics-and-information): "Synthetic industrial is superior to its natural diamond counterpart because it can be produced in unlimited quantities, and, in many cases, its properties can be tailored for specific applications. Consequently, manufactured diamond accounts for more than 90% of the industrial diamond used in the United States."
 
-For in-game currencies, this means that the company that is running the
-game servers went bankrupt or decided to shut down for other reasons.
-For fiat currencies, this means that the nation-state went bankrupt or
-ceased to exist.
+When it comes to in-game currencies, the company that is running the game
+servers might go bankrupt or decides to shut down operations for other reasons.
+When it comes to fiat currencies, the nation-state that forces you to use its
+fiat money might go bankrupt or ceases to exist for other reasons.
 
 As a shorthand, we might call the aforementioned questions
 print-farm-serve, short for: Can it be printed? Can it be farmed? Is it
@@ -727,7 +727,7 @@ most definitely dealing with bad money.
 
 When looking at the trifecta of print-farm-serve through the lens of
 Bitcoin, most people will know by now that only 21 million will ever
-exist, i.e. that you can't print it. Fewer people will understand the
+exist, i.e. that you can't print more of it. Fewer people will understand the
 difficulty adjustment, which is the mechanism that allows Bitcoin's
 monetary issuance to be fixed in time, i.e. the mechanism that makes the
 efficient farming of bitcoin impossible. Only very few will understand
@@ -809,7 +809,7 @@ something that can be farmed.
 The only way to produce a valid proof-of-work is to actually do the
 work. This is what makes Bitcoin real; this is what transfers the
 physical limits of our universe into the digital world of Bitcoin. This
-is what makes Bitcoin more than a fancy telephone; Bitcoin doesn't only
+is what makes Bitcoin more than a fancy telephone. Bitcoin doesn't only
 connect people, but it uses proof-of-work to connect itself to the
 physical world.
 
