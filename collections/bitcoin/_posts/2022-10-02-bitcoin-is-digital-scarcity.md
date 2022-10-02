@@ -44,12 +44,16 @@ digital by the day. 
 But what does that mean, exactly? Does it mean that things are
 transforming into something that is less real? Will absolutely
 everything dematerialize, ourselves included? Is the rapture of the
-nerds[^fn-rapture] imminent, and only those who praise the gods of
-the singularity will be saved?
+nerds imminent, and only those who praise the gods of
+the singularity will be saved?[^fn-rapture]
+
+[^fn-rapture]: Cory Doctorow, [The Rapture of the Nerds](https://en.wikipedia.org/w/index.php?title=The_Rapture_of_the_Nerds&oldid=1082818012)
 
 I hope not. While it is true that software is eating the
 world,[^fn-software] we have to differentiate between
-the *digital* and the *virtual*.  
+the *digital* and the *virtual*.
+
+[^fn-software]:  Marc Andreessen, [Why Software Is Eating the World](https://archive.ph/8biiK)
 
 ## Digital vs. Virtual
 
@@ -402,15 +406,19 @@ Ailin Graef in her first life) became the first person to make over one
 million US dollars in Second Life. It took her two and a half years to
 build her fortune, mainly working in the virtual real estate business.
 
-In 2009, the total size of the *Second Life* economy grew to USD 567
-million, with gross resident earnings of USD 55 million. As of this
-writing, Second Life has about 50,000 residents logged into the virtual
-world at any given time [Footnote:
-http://dwellonit.taterunino.net/sl-statistical-charts/], and an annual
-GDP of approximately USD 500 million. To quote Matthew Beller: "Second
-Life's economy could reasonably be compared to that of a small foreign
-country dependent on tourism." [Footnote:
-https://mises.org/library/coming-second-life-business-cycle]
+In 2009, the total size of the _Second Life_ economy grew to USD 567 million,
+with gross resident earnings of USD 55 million. As of this
+writing,[^fn-this-writing] Second Life has about 50,000 residents logged into
+the virtual world at any given time, and an annual GDP of approximately USD 500
+million.[^fn-sl-facts] To quote Matthew Beller: "Second Life's economy could
+reasonably be compared to that of a small foreign country dependent on
+tourism."[^fn-tourism]
+
+[^fn-this-writing]: Daniel Voyager (2022). [Second Life Grid Statistics](https://archive.ph/oWcuX)
+
+[^fn-tourism]: https://mises.org/library/coming-second-life-business-cycle
+
+[^fn-sl-facts]: Nick Galov (2022). [Second Life in 2022: What It Means to Live in a Virtual World](https://archive.ph/Br8Dh)
 
 In the game itself, however, it is not US dollars that are circulating.
 The currency in Second Life is the Linden dollar (L\$), named after
