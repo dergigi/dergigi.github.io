@@ -494,7 +494,7 @@ the game.  As Joseph Potts put it: "whether in real life or the virtual one, the
 creation of money by fiat produces booms and busts, and this even in a world in
 which the 'government' can and does create (all) value."[^fn-mises-pass]
 
-[^fn-mises-pass]: Joseph Potts (2007), [And Thus It Came to Pass](https://mises.org/wire/and-thus-it-came-pass), Mises Wire
+[^fn-mises-pass]: Joseph Potts (2007), [And Thus It Came to Pass](https://web.archive.org/web/20221002112336/https://mises.org/wire/and-thus-it-came-pass), Mises Wire
 
 
 ## Gaming and Virtual Currencies Today
