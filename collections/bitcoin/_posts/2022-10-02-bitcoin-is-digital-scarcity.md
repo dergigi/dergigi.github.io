@@ -62,28 +62,32 @@ expressed as *digits*, i.e. any information that can be represented in
 discrete numerical form. In our modern world of binary encoding, that
 means everything that can be encoded as zeros and ones.
 
-> "digital | adjective (1) (of signals or data) expressed in discrete
-numerical form, especially for use by a computer or other electronic
-device."
+> digital, adjective —
+> (1) (of signals or data) expressed in discrete numerical form, especially for
+> use by a computer or other electronic device.
 
 Not everything that is digital is also virtual. A digital radio is not a
 virtual radio, it just works differently than an analog radio. Once said
 radio is put into a computer game, however, it clearly becomes
 a *virtual* radio.
 
-> "virtual | adjective (1) existing or resulting in essence or effect
-though not in actual fact, form, or name. (2) created, simulated, or
-carried on by means of a computer or computer network. (3) not
-physically existing as such but made by software to appear to do so"
+> virtual, adjective —
+> (1) existing or resulting in essence or effect though not in actual fact,
+> form, or name.
+> (2) created, simulated, or carried on by means of a computer or computer
+> network.
+> (3) not physically existing as such but made by software to appear to do so
 
 According to one dictionary definition, *virtual* is "anything that is
 existing or resulting in *essence* or *effect*, though not
-in *actual* fact or form." [^fn-virtual-dictionary] A virtual
+in *actual* fact or form."[^fn-virtual-dictionary] A virtual
 meeting room is not an actual meeting room, but it has the *effect* of
 one. It is made of bits and bytes as opposed to brick and mortar, but
 the meetings that are being held in it, the conversations that are being
 had, and the decisions that are being made, are still real.
 The *space* is virtual---what happens in it is not.
+
+[^fn-virtual-dictionary]: Definition of '[virtual](https://archive.ph/TmLYL)' from The American Heritage® Dictionary of the English Language, 5th Edition.
 
 As we shall see, digital money can and will emerge in virtual worlds. In
 fact, it has emerged many times, in multiple worlds and various forms.
