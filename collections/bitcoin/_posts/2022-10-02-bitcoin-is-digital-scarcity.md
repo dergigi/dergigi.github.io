@@ -535,7 +535,7 @@ up to twice that amount (over USD 100,000).[^fn-csgo2]
 
 [^fn-csgo]: Andy Chalk (2018), [CS:GO 'Dragon Lore' AWP skin sells for more than $61,000](https://web.archive.org/web/20221002105923/https://www.pcgamer.com/csgo-dragon-lore-awp-skin-sells-for-more-than-61000/)
 
-[^fn-csgo2]: Nikola Savic (2020), [https://web.archive.org/web/20221002105859/https://www.ginx.tv/en/cs-go/the-most-expensive-csgo-skin-purchase-in-history](Someone paid $100,000+ for a CS:GO skin, the most expensive skin purchase in history)
+[^fn-csgo2]: Nikola Savic (2020), [Someone paid $100,000+ for a CS:GO skin, the most expensive skin purchase in history](https://web.archive.org/web/20221002105859/https://www.ginx.tv/en/cs-go/the-most-expensive-csgo-skin-purchase-in-history)
 
 {% include image.html name="dragonlore.png" caption="Dragon Lore AWP skin sold for USD 61,000 in 2018"%}
 
