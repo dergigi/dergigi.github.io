@@ -17,7 +17,6 @@ series: 21 Ways
 ---
 
 <!-- TODO: Double-check with 6.md, maybe include parts that fit -->
-<!-- TODO: Convert external links to archive links. -->
 
 > We should treat computers as fancy telephones, whose purpose is to connect
 > people. Information is alienated experience. Information is not something that
@@ -319,7 +318,7 @@ in her hands. It was traded for around 40 SoJs.
 
 [^fn-soj-endogenous]: Salter, A. W., & Stein, S. (2016). [Endogenous currency formation in an online environment: The case of Diablo II.][d2-currency-formation] The Review of Austrian Economics, 29(1), 53-66.
 
-[d2-currency-formation]: https://link.springer.com/article/10.1007/s11138-014-0289-1
+[d2-currency-formation]: https://archive.ph/pFajj
 
 [^fn-unique]: Unique items in Diablo 2 aren't unique in the literal sense, but belong to the "unique" class. Other classes are normal, superior, magic, rare, set, and crafted. Unique items are exceedingly rare, meaning that the odds that they will spawn more than once each game are nearly impossible.
 
