@@ -862,8 +862,9 @@ Networked computing won't go away either, and for the same reason. Take
 two computers, plug them together, and voilà! You have a network. Plug
 many networks together, and voilà! You have the internet. The thing
 about the internet is that it's most useful when it's largest, which
-is why we have one internet, not many. [Footnote: We used to have many,
-but it clearly is a winner-takes-all phenomenon.]
+is why we have one internet, not many.[^fn-internet]
+
+[^fn-internet]: The [History of the Internet](https://en.wikipedia.org/w/index.php?title=History_of_the_Internet&oldid=1112948487) clearly shows that we used to have many different networks. Today we have one, because like most networks that are open and global, the Internet is a winner-takes-all phenomenon.
 
 The same goes for Bitcoin: run free and open-source software on your
 computer, connect it to another node with compatible consensus rules,
