@@ -135,19 +135,19 @@ spawned them: online games.
 ## A Short History Of Virtual Economies
 
 In-game economies are almost as old as networked gaming itself. In 1995,
-Julian Dibbell published *MUD Money* [^fn-mud],
+Julian Dibbell published *MUD Money*,[^fn-mud]
 which describes how money was introduced in Multi-User Dungeons (MUDs).
 Coins would appear randomly in these online worlds, so if you stroll
 around for long enough you would, over time, find enough money to pay
 for certain goods and services in these games. Randall Farmer, a
 researcher at MIT who studied the emergence of virtual economies at this
-time, describes how in a game called *Habitat* "players could acquire
-[\...] funds by engaging in business, winning contests, finding buried
-treasure, and so on." He details how players would get a certain amount
-of tokens every time they log in, and how "they could spend their
-tokens on, among other things, various items for sale in vending
-machines called *Vendroids*. There were also Pawn Machines, which would
-buy objects back (at a discount, of course)."
+time, describes how in a game called *Habitat* 
+"players could acquire [...] funds by engaging in business, winning contests,
+finding buried treasure, and so on." He details how players would get a certain
+amount of tokens every time they log in, and how "they could spend their tokens
+on, among other things, various items for sale in vending machines called
+*Vendroids*. There were also Pawn Machines, which would buy objects back (at a
+discount, of course)."
 
 [^fn-mud]: Julian Dibbell (1995), [MUD Money](https://web.archive.org/web/20070816070650/http://www.juliandibbell.com/texts/mudmoney.html): A Talk on Virtual Value and, Incidentally, the Value of the Virtual
 
@@ -240,8 +240,8 @@ positive cash flow had to be abandoned. Shopkeepers now effectively
 print gold in order to pay for the useless goods which are being created
 by the manufacturers." Sounds familiar?
 
-As history shows and this example illustrates, planning an economy -
-virtual or not---is an impossible task. Every interference, no matter
+As history shows and this example illustrates, planning an
+economy---virtual or not---is an impossible task. Every interference, no matter
 how benign the central planners believe it to be, will have unintended
 consequences and side effects that will beget more interference. If the
 rules that are supposed to prevent unauthorized copying can be broken
@@ -304,15 +304,15 @@ to facilitate trade. The SoJ was small and rare, which made it portable and
 valuable.[^fn-soj-monopoly] Using up only one slot in a player's inventory, many
 players had dozens of SoJs in their stash to be used for trading. Prices emerged
 naturally.[^fn-soj-endogenous] Most desirable weapons—which usually belonged to
-the unique or set class—traded for single-digit amounts of SoJs. A _Doombringer_
-sword was worth between two and four SoJs, an _Eaglehorn_ bow between five and
+the unique or set class—traded for single-digit amounts of SoJs. A 'Doombringer'
+sword was worth between two and four SoJs, an 'Eaglehorn' bow between five and
 seven, and a mallet known as _Schaefer's Hammer_ was worth between four and six
 SoJs. Any item that was worth less than a single SoJ was traded for one or more
-_perfect skulls_, another de-facto currency that emerged naturally. In essence,
+'perfect skulls,' another de-facto currency that emerged naturally. In essence,
 the perfect skull was the $1 bill of the game, and the SoJ was the $5 bill of
 the game. Naturally, one SoJ would trade for 5 perfect skulls. Only the best
 items were priced in the double digits in terms of SoJs. One example would be
-the _Windforce_ bow that, coincidentally, my _Bowazon_ was lucky enough to hold
+the 'Windforce' bow that, coincidentally, my 'Bowazon' was lucky enough to hold
 in her hands. It was traded for around 40 SoJs.
 
 [^fn-soj-monopoly]: Daniel McNally (2012). [It’s all Monopoly Money Now](https://archive.ph/0QgUt)
@@ -333,7 +333,7 @@ ingenious ways to make it "drop" more often, inflating the supply over
 time.[^fn-fiat-farming] The game developers even introduced features into the
 game that would incentivize players to get rid of the additional SoJ supply. For
 example: if enough players sold their SoJ rings to NPC vendors, a special
-monster would spawn, known as the *Uber Diablo - *a clone of the final boss of
+monster would spawn, known as the *Uber Diablo*---a clone of the final boss of
 the game. 
 
 [^fn-fiat-farming]: It is worth pointing out at this point that our current fiat monies such as the USD can be farmed too. The easiest way to farm fiat is not by doing work, however, but by taking on debt.
@@ -341,7 +341,7 @@ the game. 
 Of course, the cheapest way to make more of something is not to farm it,
 but to copy it. And that's exactly what players figured out to do.
 People found ways to exploit certain bugs in the game and its servers,
-allowing them to duplicate any item of their choosing. These *dupes*, as
+allowing them to duplicate any item of their choosing. These _dupes_, as
 they became to be known, were perfect copies of the original item. In
 essence, players found a way to double-spend their digital items,
 leaving the game's servers and other players none the wiser.
@@ -456,8 +456,8 @@ As with all complex systems, interference will often cause a whole set
 of intricate problems down the line. The ban on gambling, for example,
 led to a run on the banks by both players and operators of casinos,
 sports betting institutions, and other gambling businesses.
-Consequently, one of the largest banks in the game - *Ginko Financial* -
-collapsed, since most ATMs located in the gambling districts were owned
+Consequently, one of the largest banks in the
+game---*Ginko Financial*---collapsed, since most ATMs located in the gambling districts were owned
 by this bank. Residents quickly drained the reserves of the bank since
 Ginko Financial operated on a fractional reserve, just like banks in the
 real world do. The virtual bank invested its money primarily in illiquid
