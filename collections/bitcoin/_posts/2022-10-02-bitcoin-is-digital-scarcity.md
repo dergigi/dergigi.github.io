@@ -95,12 +95,12 @@ money will emerge. 
 
 ## Virtual Scarcity
 
-As we have seen in Chapter 4, humans have used a multitude of objects as
-money over the millennia: cattle, salt, shells, bones, pearls, stones,
-copper, bronze, silver, gold, and other precious metals. While the list
-of historical monies is long, there is one trait that all functioning
-monies share: scarcity. After all, if something is extremely easy to
-find or produce, it isn't good money, or at least not for long.
+As we have seen in [Chapter 4](https://21-ways.com/4/), humans have used a
+multitude of objects as money over the millennia: cattle, salt, shells, bones,
+pearls, stones, copper, bronze, silver, gold, and other precious metals. While
+the list of historical monies is long, there is one trait that all functioning
+monies share: scarcity. After all, if something is extremely easy to find or
+produce, it isn't good money, or at least not for long.
 
 Digital goods aren't naturally scarce. The marginal cost to replicate
 them is practically zero, as anyone who ever copy-and-pasted something
@@ -1018,12 +1018,12 @@ sats is related to *time*, not energy. The energy cost is dynamic and
 completely unrelated to issuance. More energy won't produce more
 bitcoin, it will only disperse the bitcoin that would be issued anyway
 more widely while making the Bitcoin network more secure. As we have
-seen in Chapter 3, the fact that block production requires electricity
-is a feature, not a bug. It acts as an unforgeable costly signal that is
-used to build up a trustless arrow of time, as well as a transparent and
-publicly verifiable shield around the past. It is an anti-cheat
-mechanism to ensure that the past can't be altered cheaply and to
-ensure that future issuance can't be farmed efficiently.
+seen in [Chapter 2](https://21-ways.com/2/), the fact that block production
+requires electricity is a feature, not a bug. It acts as an unforgeable costly
+signal that is used to build up a trustless arrow of time, as well as a
+transparent and publicly verifiable shield around the past. It is an anti-cheat
+mechanism to ensure that the past can't be altered cheaply and to ensure that
+future issuance can't be farmed efficiently.
 
 Consequently, Bitcoin's energy consumption is not a byproduct of the
 creation of sats, but a by-product of demand for a fair distribution of
