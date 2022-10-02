@@ -670,15 +670,16 @@ to ask when it comes to money are the same: Who can create more of it?
 Is there a way to farm it effectively? And, most importantly: Who is in
 charge of the arena?
 
-History shows that any rules that can be broken will be broken.
-Consequently, we can assert the following with confidence: If the
-objects are virtual---disconnected from reality---they can be created at
-a whim. If there is a mechanism to make more of a desired good---virtual
-or not---some ingenious humans will find a way to do so efficiently.
-[Footnote: Diamonds come to mind.] If the arena is virtual---if the
-environment is disconnected from reality---the rules of the game can be
-changed arbitrarily, and, even more catastrophically, the arena can
+History shows that any rules that can be broken will be broken. Consequently, we
+can assert the following with confidence: If the objects are
+virtual---disconnected from reality---they can be created at a whim. If there is
+a mechanism to make more of a desired good---virtual or not---some ingenious
+humans will find a way to do so efficiently.[^fn-diamonds] If the arena is
+virtual---if the environment is disconnected from reality---the rules of the
+game can be changed arbitrarily, and, even more catastrophically, the arena can
 disappear.
+
+[^fn-diamonds]: Diamonds are one example of a real-world good that used to be scarce but can now be farmed. Thanks to human ingenuity, diamonds can be produced artificially. To quote the [U.S. National Minerals Information Center](https://web.archive.org/web/20221002111535/https://www.usgs.gov/centers/national-minerals-information-center/industrial-diamond-statistics-and-information): "Synthetic industrial is superior to its natural diamond counterpart because it can be produced in unlimited quantities, and, in many cases, its properties can be tailored for specific applications. Consequently, manufactured diamond accounts for more than 90% of the industrial diamond used in the United States."
 
 For in-game currencies, this means that the company that is running the
 game servers went bankrupt or decided to shut down for other reasons.
