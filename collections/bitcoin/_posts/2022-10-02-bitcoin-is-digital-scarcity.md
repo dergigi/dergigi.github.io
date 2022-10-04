@@ -339,7 +339,7 @@ Of course, the cheapest way to make more of something is not to farm it,
 but to copy it. And that's exactly what players figured out to do.
 People found ways to exploit certain bugs in the game and its servers,
 allowing them to duplicate any item of their choosing. These _dupes_, as
-they became to be known, were perfect copies of the original item. In
+they came to be known, were perfect copies of the original item. In
 essence, players found a way to double-spend their digital items,
 leaving the game's servers and other players none the wiser.
 
@@ -350,7 +350,7 @@ remember well the day when it all collapsed, prices had been inflating
 ever so slightly for several weeks and when I logged on that morning to
 do business as usual the trade channel was in a state of chaos.
 Stormshields were going for 20 SoJ, other higher value items were
-impossible to obtain. The heydays were over and everyone knew it. The
+impossible to obtain. The heydays were over, and everyone knew it. The
 once busy trade channels would slowly fade to silence\..."
 
 Eventually, the game developers were able to get a handle on the
@@ -376,7 +376,7 @@ sentence to the lore surrounding the ring: *"The Stone of Jordan is far
 more valuable than its appearance would suggest. Men have given much to
 possess it."*
 
-Once people hone in on one form of money, they do indeed go through
+Once people home in on one form of money, they do indeed go through
 great pains to gather more of the precious good. What's true for gold
 and diamonds in meatspace is also true for *Stones of Jordan* and other
 rare items in cyberspace. As we shall see, this is also true for
@@ -402,7 +402,7 @@ sell it to you. Apart from objects, some focus on providing services for
 their fellow residents: entertainment, education, consulting, business
 management, news, and yes, even banking.
 
-As a consequence, many people ditched their real-life job to focus fully
+Consequently, many people ditched their real-life job to focus fully
 on their *Second Life* job. While the goods might be virtual, the
 profits are not, and it didn't take long for the first self-made
 millionaires of Second Life to emerge. In 2006, Anshe Chung (known as
@@ -537,7 +537,7 @@ up to twice that amount (over USD 100,000).[^fn-csgo2]
 
 All of this goes to show that if left to their own devices, players will spawn
 vast economies as long as the game mechanics allow for it. One of the best
-examples for a flourishing economy (thanks to little intervention) is Eve
+examples of a flourishing economy (thanks to little intervention) is Eve
 Online, an MMORPG space simulation. The game was home to what is probably the
 most expensive battle in gaming history: the _Bloodbath of B-R5RB_, named after
 the star system where the battle took place.[^fn-bb] Players can visit 7,800
@@ -578,8 +578,8 @@ It turns out that prison bosses made more money with forced in-game
 labor than they made with good old-fashioned forced physical labor in
 the real world. Prisoners were compelled to work 12-hour shifts inside
 the game, earning up to USD 900 per day for the prison bosses.
-The *China Farmer* phenomenon, as it became to be known in the World of
-Warcraft community, was not only an ethical problem but an economic one
+The *China Farmer* phenomenon, as it came to be known in the World of
+Warcraft community, was not only an ethical problem, but an economic one
 as well. Farming is just one method to produce more of something
 cheaply, and if that something is money, the effects that come with
 inflation will burden the economy; in-game or not.
@@ -587,7 +587,7 @@ inflation will burden the economy; in-game or not.
 While in-game economies can have repercussions in the real world, the reverse is
 also true: economic events in the real world can have rippling effects that
 disturb virtual worlds. One such example is the hyperinflation in Venezuela,
-which lead many people to start farming gold and other valuable in-game items to
+which led many people to start farming gold and other valuable in-game items to
 make ends meet. Venezuelans that had a computer and internet access were driven
 to abandon their real-world jobs, since farming and selling virtual goods to
 players worldwide---sometimes using bitcoin as the intermediate medium of
@@ -653,7 +653,7 @@ Bitcoin brings digital objects into existence---sats---that are bound to
 the digital world of the bitcoin network. How is this any different from
 the various in-game monies that emerged before it?
 
-It is different because both the environment as well as its monetary units
+It is different because both the Bitcoin environment as well as its monetary units
 emerge naturally over time. Bitcoin is not instantiated by decree; neither are
 sats brought into existence by decree. Bitcoin's monetary units, their value,
 _and_ Bitcoin's arena emerge naturally over time, via voluntary interaction of
@@ -713,7 +713,7 @@ disappear.
 [^fn-diamonds]: Diamonds are one example of a real-world good that used to be scarce but can now be farmed. Thanks to human ingenuity, diamonds can be produced artificially. To quote the [U.S. National Minerals Information Center](https://web.archive.org/web/20221002111535/https://www.usgs.gov/centers/national-minerals-information-center/industrial-diamond-statistics-and-information): "Synthetic industrial is superior to its natural diamond counterpart because it can be produced in unlimited quantities, and, in many cases, its properties can be tailored for specific applications. Consequently, manufactured diamond accounts for more than 90% of the industrial diamond used in the United States."
 
 When it comes to in-game currencies, the company that is running the game
-servers might go bankrupt or decides to shut down operations for other reasons.
+servers might go bankrupt or decide to shut down operations for other reasons.
 When it comes to fiat currencies, the nation-state that forces you to use its
 fiat money might go bankrupt or ceases to exist for other reasons.
 
@@ -868,7 +868,7 @@ in accordance with the rules, nodes will accept them. If they are not,
 nodes will reject them. Miners extend the arena, and in doing so, are
 rewarded with sats---the most precious objects in the world of Bitcoin.
 Anyone can participate in block production. All that is required is an
-energy source and a communications channel.
+energy source, a computer, and a communications channel.
 
 Herein lies the main difference when compared to fiat and in-game money:
 you don't have to rely on anyone to bring Bitcoin about. You can do it
@@ -887,7 +887,7 @@ You have electricity. Anyone can generate electricity at all times, as
 long as they are doing the required work. Electricity is here to stay
 precisely because it is *not* brought about by authority. It is
 a *natural* phenomenon, brought about by physical interaction. There is
-no central authority in charge when it comes to making it. 
+no central authority in charge of making it. 
 
 Networked computing won't go away either, and for the same reason. Take
 two computers, plug them together, and voilà! You have a network. Plug
@@ -934,7 +934,7 @@ when money emerged naturally in networked games, the worlds that form
 these arenas were always *virtual* worlds. Designed, controlled, and
 maintained by central authorities. Authorities with the power to change
 the rules, something that they will always do, either out of
-self-interest or emergency. As we have seen, if a central authority can
+self-interest or coercion. As we have seen, if a central authority can
 be identified, the state will step in and force a rule change.
 
 The difference between in-game money and fiat money is in scale, not in
@@ -962,7 +962,7 @@ real world. 
 
 Jaron Lanier quipped that "information is not something that exists."
 I disagree. Information that can only exist because of expensive
-physical processes has a certain reality to it. It is inconvertible
+physical processes has a certain reality to it. It is incontrovertible
 proof that something happened in the real world. It is "more real"
 than the words that you are currently reading. After all, this paragraph
 could've been cheaply generated by GPT-3. A valid bitcoin block? Not so
@@ -1002,7 +1002,7 @@ future: 
 3.  "the arena" ceases to exist, either because of bankruptcy,
     intervention, or collapse.
 
-The combination of non-simulatable proof-of-work with cheap, independent
+The combination of non-simulative proof-of-work with cheap, independent
 verification and instantiation is what separates Bitcoin from all the
 monies that came before it. 
 
@@ -1024,7 +1024,7 @@ transparent and publicly verifiable shield around the past. It is an anti-cheat
 mechanism to ensure that the past can't be altered cheaply and to ensure that
 future issuance can't be farmed efficiently.
 
-Consequently, Bitcoin's energy consumption is not a byproduct of the
+Consequently, Bitcoin's energy consumption is not a by-product of the
 creation of sats, but a by-product of demand for a fair distribution of
 sats. If the demand for sats had stayed with Satoshi and Satoshi alone,
 Bitcoin's energy use would be close to zero. If it would've stayed
@@ -1037,8 +1037,8 @@ decentralization and security, nothing else.
 In short: bitcoin can't be printed because it is automatically issued
 over time. The system can't be cheated because energy can't be copied.
 Proof-of-work can't be simulated, and the difficulty adjustment forbids
-the "farming" of blocks. Anyone can participate in, instantiate, and
-validate everything.
+the "farming" of blocks. Anyone can participate, instantiate, and
+validate.
 
 Bitcoin is a digital item in a digital environment, brought about and
 kept alive by physical processes. It is the combination of the physical
@@ -1047,7 +1047,7 @@ can be sent around at the speed of light, inexorably linked to the
 physical laws of our universe. It is *digital* gold, not virtual gold.
 
 Virtual currencies like in-game currencies and fiat currencies are not
-scarce, because they do neither require time nor energy to create.
+scarce, because they require neither time nor energy to create.
 God-like entities can create them out of thin air. This is true even if
 money emerges naturally in a virtual arena, as was the case in Diablo
 II. As long as the arena is virtual, it can be controlled and shut down.
