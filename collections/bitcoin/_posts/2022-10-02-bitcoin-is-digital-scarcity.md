@@ -350,7 +350,7 @@ remember well the day when it all collapsed, prices had been inflating
 ever so slightly for several weeks and when I logged on that morning to
 do business as usual the trade channel was in a state of chaos.
 Stormshields were going for 20 SoJ, other higher value items were
-impossible to obtain. The heydays were over, and everyone knew it. The
+impossible to obtain. The heydays were over and everyone knew it. The
 once busy trade channels would slowly fade to silence\..."
 
 Eventually, the game developers were able to get a handle on the
@@ -402,7 +402,7 @@ sell it to you. Apart from objects, some focus on providing services for
 their fellow residents: entertainment, education, consulting, business
 management, news, and yes, even banking.
 
-Consequently, many people ditched their real-life job to focus fully
+As a consequence, many people ditched their real-life job to focus fully
 on their *Second Life* job. While the goods might be virtual, the
 profits are not, and it didn't take long for the first self-made
 millionaires of Second Life to emerge. In 2006, Anshe Chung (known as
@@ -653,7 +653,7 @@ Bitcoin brings digital objects into existence---sats---that are bound to
 the digital world of the bitcoin network. How is this any different from
 the various in-game monies that emerged before it?
 
-It is different because both the Bitcoin environment as well as its monetary units
+It is different because both the environment as well as its monetary units
 emerge naturally over time. Bitcoin is not instantiated by decree; neither are
 sats brought into existence by decree. Bitcoin's monetary units, their value,
 _and_ Bitcoin's arena emerge naturally over time, via voluntary interaction of
@@ -713,7 +713,7 @@ disappear.
 [^fn-diamonds]: Diamonds are one example of a real-world good that used to be scarce but can now be farmed. Thanks to human ingenuity, diamonds can be produced artificially. To quote the [U.S. National Minerals Information Center](https://web.archive.org/web/20221002111535/https://www.usgs.gov/centers/national-minerals-information-center/industrial-diamond-statistics-and-information): "Synthetic industrial is superior to its natural diamond counterpart because it can be produced in unlimited quantities, and, in many cases, its properties can be tailored for specific applications. Consequently, manufactured diamond accounts for more than 90% of the industrial diamond used in the United States."
 
 When it comes to in-game currencies, the company that is running the game
-servers might go bankrupt or decide to shut down operations for other reasons.
+servers might go bankrupt or decides to shut down operations for other reasons.
 When it comes to fiat currencies, the nation-state that forces you to use its
 fiat money might go bankrupt or ceases to exist for other reasons.
 
@@ -868,7 +868,7 @@ in accordance with the rules, nodes will accept them. If they are not,
 nodes will reject them. Miners extend the arena, and in doing so, are
 rewarded with sats---the most precious objects in the world of Bitcoin.
 Anyone can participate in block production. All that is required is an
-energy source, a computer, and a communications channel.
+energy source and a communications channel.
 
 Herein lies the main difference when compared to fiat and in-game money:
 you don't have to rely on anyone to bring Bitcoin about. You can do it
@@ -934,7 +934,7 @@ when money emerged naturally in networked games, the worlds that form
 these arenas were always *virtual* worlds. Designed, controlled, and
 maintained by central authorities. Authorities with the power to change
 the rules, something that they will always do, either out of
-self-interest or coercion. As we have seen, if a central authority can
+self-interest or emergency. As we have seen, if a central authority can
 be identified, the state will step in and force a rule change.
 
 The difference between in-game money and fiat money is in scale, not in
@@ -1002,7 +1002,7 @@ future: 
 3.  "the arena" ceases to exist, either because of bankruptcy,
     intervention, or collapse.
 
-The combination of non-simulative proof-of-work with cheap, independent
+The combination of non-simulatable proof-of-work with cheap, independent
 verification and instantiation is what separates Bitcoin from all the
 monies that came before it. 
 
@@ -1024,7 +1024,7 @@ transparent and publicly verifiable shield around the past. It is an anti-cheat
 mechanism to ensure that the past can't be altered cheaply and to ensure that
 future issuance can't be farmed efficiently.
 
-Consequently, Bitcoin's energy consumption is not a by-product of the
+Consequently, Bitcoin's energy consumption is not a byproduct of the
 creation of sats, but a by-product of demand for a fair distribution of
 sats. If the demand for sats had stayed with Satoshi and Satoshi alone,
 Bitcoin's energy use would be close to zero. If it would've stayed
@@ -1037,8 +1037,8 @@ decentralization and security, nothing else.
 In short: bitcoin can't be printed because it is automatically issued
 over time. The system can't be cheated because energy can't be copied.
 Proof-of-work can't be simulated, and the difficulty adjustment forbids
-the "farming" of blocks. Anyone can participate, instantiate, and
-validate.
+the "farming" of blocks. Anyone can participate in, instantiate, and
+validate everything.
 
 Bitcoin is a digital item in a digital environment, brought about and
 kept alive by physical processes. It is the combination of the physical
