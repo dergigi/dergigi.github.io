@@ -7,9 +7,13 @@ subtitle: "Act 3 background images (generated with Midjourney)"
 Images used in ACT 3 of [Cryptography is Not Enough][cryptography].
 
 {% for image in site.static_files %}
-{% if image.path contains '2022-riga/images/used' %}
+{% if image.path contains '2022-riga/images/used' and image.path contains '.webp' %}
 {% assign highres = image.path | replace: 'used', 'highres' %}
+{% assign md_file = image.name | replace: '.webp', '.md' %}
+{% assign rel_path_to_md = 'used/' | append: md_file %}
+---
 {% include image.html path=image.path width='100%' link=highres %}
+{% include_relative {{ rel_path_to_md }} %}
 {% endif %}
 {% endfor %}
 
