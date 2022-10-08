@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "Cryptography is Not Enough"
-subtitle: "Act 3 background images (generated with Midjourney)"
+subtitle: "Background Images"
+image: /assets/images/brain.jpg
 ---
 
-Images used in ACT 3 of [Cryptography is Not Enough][cryptography].
+Images used in ACT 3 of [Cryptography is Not Enough][cryptography]. Generated with [Midjourney](https://www.midjourney.com).
 
 {% for image in site.static_files %}
 {% if image.path contains '2022-riga/images/used' and image.path contains '.webp' %}
@@ -29,6 +30,9 @@ Images that I generated and liked somewhat, but didn't make the cut:
 {% endfor %}
 
 
-Make sure to watch the whole talk: [Cryptography is Not Enough][cryptography]
+Make sure to watch the whole talk: [Cryptography is Not Enough][yt]
+
+[« Back to /cryptography][cryptography]
 
 [cryptography]: {{ '/cryptography' | absolute_url }}
+[yt]: https://youtu.be/C7ynm0Zkwfk
