@@ -39,11 +39,12 @@ This talk was [originally given][orig] in Riga at [#BH2022][bh2022].
 
 - Recording: [YouTube][yt], [BitcoinTV]
 - Slides: [PDF][pdf]
+- Images: [Here][images]
 
 [yt]: https://youtu.be/C7ynm0Zkwfk
 [bitcoinTV]: https://bitcointv.com/w/wRfZmtNwWqDGJ2eE3TZaCS
 [pdf]: {{ site.url }}/assets/files/Riga2022.pdf
-[images]: TODO
+[images]: {{ '/slides/2022-riga/images' | absolute_url }}
 
 ---
 
