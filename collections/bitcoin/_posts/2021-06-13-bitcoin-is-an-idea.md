@@ -49,9 +49,4 @@ series: 21 Ways
 
 {% include way/01.md %}
 
-------------------------------------------------------------------------
-
-*Bitcoin Is an Idea* is a chapter of
-my upcoming book [*21 Ways*](https://21-ways.com).
-
-------------------------------------------------------------------------
+{% include v4v-21w.html %}
