@@ -35,8 +35,8 @@ than usual.
 If you want to reach me, matrix[^fn-matrix] is probably your best bet. You can
 also try the email above, or twitter, or Telegram. That being said, Twitter is
 absolutely terrible when it comes to DMs, and I recently had to close my DMs
-because the spam became absolutely unbearable. Telegram is alright but it is
-neither private nor trustworthy, so, again, matrix is probably your best bet.
+because the spam became unbearable. Telegram is alright but it is
+neither private nor trustworthy, so, again, matrix is probably your best bet.[^fn-nostr]
 
 I will do my best to reply in 3-5 days. If I don't please ping me
 again. Note that I will probably not respond if I can't make out what you're up
@@ -45,6 +45,8 @@ interested in trading or shitcoinery, so anything along these lines will be
 deleted without an answer.
 
 [^fn-matrix]: I'm `@dergigi:matrix.org` on matrix.
+
+[^fn-nostr]: I'm also on nostr as `6b0d4c8d9dc59e110d380b0429a02891f1341a0fa2ba1b1cf83a3db4d47e3964` but it's very early days, so don't expect (a) nostr to work and (b) me to check my DMs there all too often.
 
 [telegram]: https://t.me/dergigi
 
