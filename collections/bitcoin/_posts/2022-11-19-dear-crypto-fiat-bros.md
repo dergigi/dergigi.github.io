@@ -272,7 +272,7 @@ expansion of over 30% was in large part due to the monetary response to
 the worldwide lockdowns. In other words: when measuring the value of
 things in USD, everything is distorted by at least 30%.
 
-\[IMAGE: monetary base\]
+{% include image.html name="base-money.png" caption="Shitcoin printer go BRRR" %}
 
 When it comes to economic views, we see with and through the respective
 currency we are forced to do economic calculations with. Whether our
@@ -282,7 +282,9 @@ lens yet, but it is useful as a comparison to fiat lenses. It is useful
 because it provides a counter-balance to the inflationary monetary
 policies of fiat currencies. It is useful because, from a BTC point of
 view, it shows that everything is being repriced in sats. Even
-the stupid shit you bought a couple of years ago.
+the [stupid shit][shit] you bought a couple of years ago.
+
+[shit]: https://bitcoinorshit.com/
 
 {% include image.html name="glassholes.png" caption="Some lenses are more useful than others." %}
 
@@ -294,7 +296,7 @@ you use as measurement, whether its USD (United States dollar), ARS
 or---to pick something else entirely---the S&P 500, gold, or barrels of
 oil. 
 
-\[IMAGE: insert circular charts: USD, S&P 500, Gold, Oil\]
+![The spirals of monetization](/assets/images/bitcoin/2022-11-19-dear-crypto-fiat-bros/spirals.png#full)
 
 In the western world, we are especially oblivious to the fiat lens
 through which we view the world. We are mostly dealing with \"stable\"
@@ -303,11 +305,13 @@ power. But make no mistake: all fiat currencies are inflating. If money
 can be printed, it will be printed. The temptation is simply too strong.
 
 Consequently, all fiat monies are monies of decline. And if this decline
-happens too quickly---When Money Dies---the distortion in prices becomes
+happens too quickly---[When Money Dies][wmd]---the distortion in prices becomes
 obvious. And if the distortion gets big enough, all long-term economic
 calculation---and with it, regular life---breaks down.
 
-\[IMAGE: rise and fall of USD\]
+[wmd]: https://bitcoin-resources.com/books/when-money-dies
+
+{% include image.html name="rise-and-fall-of-the-dollar.png" caption="Do you think it rose substantially from 2019 to 2022?" %}
 
 The above charts show two things clearly: fiat currencies are designed
 to lose purchasing power over time. Bitcoin is designed to monetize
@@ -391,17 +395,15 @@ certain patterns, which I would summarise as \"understanding increases
 conviction, conviction increases allocation\"---or: the more you know,
 the more you buy.
 
-\[IMAGE: HODL Waves\]
+{% include image.html name="hodl-waves.jpg" caption="~73% of sats have been held for more than a year" %}
 
 These \"HODL Waves,\" as they are called, show that an increasing number
 of people understand the underlying dynamics of, as well as the
 differences between, fiat monetary policy and Bitcoin\'s monetary
 policy, which leads to them holding BTC on their personal or corporate
-balance sheets, rather than fiat currency. 
+balance sheets, rather than fiat currency.[^fn-eth-policy]
 
-\[IMAGE: eth monetary policy?\]
-
-(\"Crypto\" has no monetary policy, so it\'s not even worth mentioning.)
+[^fn-eth-policy]: \"Crypto\" has no monetary policy, so it\'s not even worth mentioning. If you're still curious, read [Lyn Alden's article](https://www.lynalden.com/ethereum-analysis/) or just look at [one](https://www.lynalden.com/wp-content/uploads/ethereum-issuance.png) of these [two]({{ '/assets/images/shitcoins/eth-monetary-policy.jpg' | absolute_url }}) images.
 
 ### But the Volatility!
 
@@ -438,7 +440,7 @@ No, you didn\'t. We are still very early in the unfolding of the
 bitcoinization process. Everyone thinks they are late. Everyone thinks
 that they have missed the bus.
 
-\[IMAGE: insert missed the bus image\]
+{% include image.html name="missed-the-bus.jpg" caption="Bitcoin is a hop-on hop-off bus, and round and round it goes." %}
 
 Most bitcoiners don\'t think of Bitcoin as an investment. It is a
 breakthrough technology that allows you to move wealth through space and
@@ -481,3 +483,5 @@ shitcoins, and the Ponzis, and the central points of failure. But you
 didn\'t. And you have no one to blame but yourself.
 
 Good luck.
+
+---
