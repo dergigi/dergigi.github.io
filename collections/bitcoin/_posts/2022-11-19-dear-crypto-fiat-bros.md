@@ -70,14 +70,23 @@ message to you is the same:
 
 You have to understand that Bitcoin is not an app, or a company, or a
 stock, or an investment. Bitcoin doesn\'t have a board of directors, or
-a CEO, or quarterly earnings. There is nobody \"behind\" Bitcoin. 
-
-Bitcoin is like fire, the number zero, the wheel, and electricity. It is
-a breakthrough of enormous proportions. An autopoietic network that is
-internally stable and can\'t go bankrupt.
+a CEO, or quarterly earnings. There is nobody \"behind\" Bitcoin.
 
 {% capture mallers %}{{ 'assets/video/mallers.mp4' | absolute_url }}{% endcapture %}
 {% include video.html file=mallers %}
+
+Many bitcoiners have strong opinions when it comes to bitcoin vs. "crypto"---and
+for good reason. One is a breakthrough of enormous proportions. The others are
+cheap imitations, copy-cats that have been riding the coattails of said
+breakthrough, confusing noobs and retail investors alike. "Crypto" is nerds
+discovering money printing and pyramid schemes. Seemingly free lunches propped
+up by perpetual motion machines that run on technobabble.
+
+Bitcoin is like fire, the number zero, the wheel, and electricity. An
+[autopoietic] network that is internally stable and can\'t go bankrupt. An
+antidote to the corruption of money.
+
+[autopoietic]: {{ '/memeworld' | absolute_url }}
 
 It is an entirely new thing, something that is so profound, so alien, so
 novel that most people fail to appreciate it. I don\'t blame them. Most
