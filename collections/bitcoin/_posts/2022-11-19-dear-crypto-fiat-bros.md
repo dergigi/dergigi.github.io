@@ -86,7 +86,7 @@ up by perpetual motion machines that run on technobabble.
 Crypto does not compare to Bitcoin. If you want to compare Bitcoin to something
 else, compare it to fire, [the number zero][zero], the wheel, the printing press, or
 electricity. Yes, it is that important.
-It is an [autopoietic] network that is internally stable or can\'t
+It is an [autopoietic] network that is internally stable and can\'t
 go bankrupt. The antidote to the corruption of money.
 
 [zero]: https://bitcoin-resources.com/articles/the-number-zeroand-bitcoin/
