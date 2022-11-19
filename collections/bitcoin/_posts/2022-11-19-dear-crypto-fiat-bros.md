@@ -4,7 +4,7 @@ title: "Dear Crypto & Fiat Bros"
 subtitle: The Price of Freedom Is Responsibility
 description: ...and you have no one to blame but yourself.
 date: 2022-11-19
-blocktime: 763907
+blocktime: 763908
 image: /assets/images/crypto-bros.jpg
 redirect_from: /crypto
 author: Gigi
