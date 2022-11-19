@@ -78,14 +78,18 @@ a CEO, or quarterly earnings. There is nobody \"behind\" Bitcoin.
 Many bitcoiners have strong opinions when it comes to bitcoin vs. "crypto"---and
 for good reason. One is a breakthrough of enormous proportions. The others are
 cheap imitations, copy-cats that have been riding the coattails of said
-breakthrough, confusing noobs and retail investors alike. "Crypto" is nerds
+breakthrough for way too long, confusing noobs and retail investors alike.
+"Crypto" is nerds
 discovering money printing and pyramid schemes. Seemingly free lunches propped
 up by perpetual motion machines that run on technobabble.
 
-Bitcoin is like fire, the number zero, the wheel, and electricity. An
-[autopoietic] network that is internally stable and can\'t go bankrupt. An
-antidote to the corruption of money.
+Crypto does not compare to Bitcoin. If you want to compare Bitcoin to something
+else, compare it to fire, [the number zero][zero], the wheel, the printing press, or
+electricity. Yes, it is that important.
+It is an [autopoietic] network that is internally stable or can\'t
+go bankrupt. The antidote to the corruption of money.
 
+[zero]: https://bitcoin-resources.com/articles/the-number-zeroand-bitcoin/
 [autopoietic]: {{ '/memeworld' | absolute_url }}
 
 It is an entirely new thing, something that is so profound, so alien, so
@@ -124,7 +128,7 @@ un-debaseable money.
 
 Whether you\'re a rekt crypto bro or a friend of fiat, there is one
 thing that is especially difficult to accept. The one thing that sets
-Bitcoin apart: it all works without anyone in charge. 
+Bitcoin apart: **it all works without anyone in charge.**
 
 Bitcoin is best understood as a force of nature, like the coming and
 going of the tide, like the sun rising in the east and setting in the
@@ -145,6 +149,10 @@ minutes.
 {% capture timechain %}{{ 'assets/video/timechain.mp4' | absolute_url }}{% endcapture %}
 {% include video.html file=timechain %}
 
+<small>
+Source: [bitfeed.live](https://bitfeed.live/)
+</small>
+
 Bitcoin just works. Like clockwork. It works because you don\'t have to
 trust anyone. It works because it uses mathematics and physics---the
 laws of nature---to remove any trust from the system. It works because
@@ -156,7 +164,7 @@ because you and only you are in charge. 
 [emergent]: {{ '/digital' | absolute_url }}
 
 If you aren\'t, you are not using bitcoin. You are trusting someone else
-with their interpretation of bitcoin---or, even worse---you are trusting
+with their interpretation of Bitcoin---or, even worse---you are trusting
 someone else to hold bitcoin for you. 
 
 > The root problem with conventional currency is all the trust that\'s
@@ -256,8 +264,8 @@ it has in the past.
 As of this writing, the bitcoin price is 16,641 USD. Yes, it went all
 the way to \$65,000, and then it crashed all the way down to \$16,000. 
 
-Here is what you have to understand: USD price is both important and
-unimportant. 
+Here is what you have to understand: 
+**USD price is both important and unimportant.**
 
 Here is how price is important: BTC needs to have a price so that the
 Bitcoin system can secure itself. Price is correlated to hashrate (which
@@ -389,10 +397,12 @@ steal from you.\"][promise] Neither through debasement nor confiscation.
 
 [promise]: https://youtu.be/C7ynm0Zkwfk
 
-If you think that bitcoin should produce anything else---like yield, for
-example---you are still looking at the world through a fiat lens. Bound
+**If you think that bitcoin should produce anything else---like yield, for
+example---you are still looking at the world through a fiat lens.** Bound
 to the view that you have to \"put your money to work.\" You did not
-pause and reconsider the yield from money held.
+pause and reconsider [the yield from money held][money-held].
+
+[money-held]: https://nakamotoinstitute.org/the-yield-from-money-held-reconsidered/
 
 I empathize with you. I was looking at the world through the same fiat
 lens not too long ago. I was even bullish on \"crypto,\" believing that
@@ -420,8 +430,10 @@ say to step back and ask yourself very simple questions about money: why
 do we have it, why do we need it, why does it has to be scarce, why can
 some people print it while most have to work for it, and so on. These
 are hard questions. Those who run the money printers don\'t want you to
-ask, \"WTF happened in 1971?\" Those who run the shitcoin casinos don\'t
+ask, \"[WTF happened in 1971?][wtf]\" Those who run the shitcoin casinos don\'t
 want you to ask, \"but where does the yield come from?\"
+
+[wtf]: https://wtfhappenedin1971.com/
 
 {% include image.html name="allen.png" caption="BUT WHERE DOES THE YIELD COME FROM?" %}
 
@@ -441,8 +453,11 @@ the more you buy.
 These \"HODL Waves,\" as they are called, show that an increasing number
 of people understand the underlying dynamics of, as well as the
 differences between, fiat monetary policy and Bitcoin\'s monetary
-policy, which leads to them holding BTC on their personal or corporate
-balance sheets, rather than fiat currency.[^fn-eth-policy]
+policy, which leads to them holding BTC on their personal or 
+[corporate balance sheets][treasuries],
+rather than fiat currency.[^fn-eth-policy]
+
+[treasuries]: https://bitcointreasuries.net/
 
 [^fn-eth-policy]: \"Crypto\" has no monetary policy, so it\'s not even worth mentioning. If you're still curious, read [Lyn Alden's article](https://www.lynalden.com/ethereum-analysis/) or just look at [one]({{ '/assets/images/shitcoins/eth-issuance.png' | absolute_url }}) of these [two]({{ '/assets/images/shitcoins/eth-monetary-policy.jpg' | absolute_url }}) images.
 
@@ -451,7 +466,7 @@ balance sheets, rather than fiat currency.[^fn-eth-policy]
 Volatility, volatility, volatility. All this talk about volatility
 misses the whole point of Bitcoin: deep, systemic stability. 
 
-Bitcoin isn\'t volatile. Human psychology is. 
+**Bitcoin isn\'t volatile. Human psychology is.**
 
 Human behavior is volatile. Bitcoin isn\'t. Consequently, bitcoin\'s
 market price can be volatile. But Bitcoin is not. The Bitcoin network
@@ -478,8 +493,8 @@ assets in the first place---but liabilities.
 ### But I Missed the Bus!
 
 No, you didn\'t. We are still very early in the unfolding of the
-bitcoinization process. Everyone thinks they are late. Everyone thinks
-that they have missed the bus.
+bitcoinization process. Everyone thinks they are late. 
+**Everyone thinks that they have missed the bus.**
 
 {% include image.html name="missed-the-bus.jpg" caption="Bitcoin is a hop-on hop-off bus, and round and round it goes." %}
 
@@ -491,7 +506,9 @@ any other random shitcoin. Your wealth. Held and controlled by you.
 
 Because of this, it is never too late to use it to your advantage. Just
 like it\'s never too late to adopt electricity or the internet. It is
-never too late to adopt the Bitcoin Standard.
+never too late to adopt [the Bitcoin Standard][tbs].
+
+[tbs]: https://bitcoin-resources.com/books/the-bitcoin-standard
 
 ### But Bitcoiners Are Mean!
 
@@ -519,10 +536,12 @@ fools are once again parted with the coins that they thought they held,
 remember this: you could\'ve known better. You could\'ve held your own
 keys. You could\'ve run your own node. You could\'ve stayed humble. You
 could\'ve stacked sats. You could\'ve listened to the toxic maximalists.
-You could\'ve read a book or two. You could\'ve stayed away from the
+You could\'ve read [a book or two][books]. You could\'ve stayed away from the
 shitcoins, and the Ponzis, and the central points of failure. But you
 didn\'t. And you have no one to blame but yourself.
 
 Good luck.
+
+[books]: https://bitcoin-resources.com/books/
 
 ---
