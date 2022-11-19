@@ -139,9 +139,11 @@ Bitcoin just works. Like clockwork. It works because you don\'t have to
 trust anyone. It works because it uses mathematics and physics---the
 laws of nature---to remove any trust from the system. It works because
 you can verify anything yourself. It works because it is not an external
-thing (dictated by someone else) but an emergent thing: brought into
+thing (dictated by someone else) but an [emergent thing][emergent]: brought into
 existence by relentless validation and verification. It works
 because you and only you are in charge. 
+
+[emergent]: {{ '/digital' | absolute_url }}
 
 If you aren\'t, you are not using bitcoin. You are trusting someone else
 with their interpretation of bitcoin---or, even worse---you are trusting
@@ -215,8 +217,11 @@ fast riches, and easy money.
 
 And when the fools once again lost all their money; and when you, dear
 crypto bros, get rug-pulled by your dear leader; and when you, dear fiat
-bros, declare Bitcoin dead once more; and when the 500th bitcoin
-obituary has been written; Bitcoin will still march on, unhindered.
+bros, declare Bitcoin dead once more; and when the
+[500th bitcoin obituary][obituary] has been written;
+Bitcoin will still march on, unhindered.
+
+[obituary]: https://99bitcoins.com/bitcoin-obituaries/
 
 ### But What about the Price? Didn\'t It Crash?
 
@@ -258,10 +263,12 @@ BTC still equals one BTC.
 
 Bitcoin worked just as well as it does now when the USD price was zero,
 which was the case for the first ten months of its existence. Without a
-central issuer, bitcoin had and still has to grow organically in value,
+central issuer, bitcoin had and still has to grow [organically][life] in value,
 distribution, and security, which is why many people---myself
 included---believe that Bitcoin\'s history can not be repeated, i.e.,
 that a scarce digital commodity is path-dependent.
+
+[life]: {{ '/life' | absolute_url }}
 
 Speaking of price: it helps to put things in a broader context when
 talking about any price in the first place. Nominal price is an
@@ -275,7 +282,7 @@ expansion of over 30% was in large part due to the monetary response to
 the worldwide lockdowns. In other words: when measuring the value of
 things in USD, everything is distorted by at least 30%.
 
-{% include image.html name="base-money.png" caption="Shitcoin printer go BRRR" %}
+{% include image.html name="base-money.png" caption="Shitcoin printer go BRRR (Source: Porkopolis)" link="https://porkopolis.io/basemoney" %}
 
 When it comes to economic views, we see with and through the respective
 currency we are forced to do economic calculations with. Whether our
@@ -289,7 +296,7 @@ the [stupid shit][shit] you bought a couple of years ago.
 
 [shit]: https://bitcoinorshit.com/
 
-{% include image.html name="glassholes.png" caption="Some lenses are more useful than others." %}
+{% include image.html name="glassholes.png" caption="Some lenses are more useful than others." link="https://bitcoinorshit.com/" %}
 
 Consequently, bitcoiners like to speak of purchasing power because it is
 irrespective of the nominal value bound to fiat currency measure. Note,
@@ -326,23 +333,30 @@ money. Nobody can interfere with it. Nobody can debase it. Nobody can
 take it from you (when stored properly, that is). Nobody can stop you
 from using it. In a world of de-platforming, de-banking, and CBDCs,
 having censorship-resistant, unconfiscatable money is valuable in
-itself. If you disagree with the above, I invite you to Check Your
-Financial Privilege.
+itself. If you disagree with the above, I invite you to 
+[Check Your Financial Privilege][cyfp].
 
-Currently, BTC is ranked #28 worldwide, both as an asset and when
-compared to fiat currencies. It is #28 now because it crashed, and it
+[cyfp]: https://bitcoin-resources.com/books/check-your-financial-privilege
+
+Currently, BTC is ranked #28 worldwide, both as [an asset][asset] and when
+compared to [fiat currencies][fiat]. It is #28 now because it crashed, and it
 crashed because people are greedy, over-leveraged, and there are no
 bailouts. It seems, however, that despite all of this, bitcoin is
 continually monetizing. 
 
+[asset]: https://web.archive.org/web/20221118153734/https://8marketcap.com/
+[fiat]: https://web.archive.org/web/20220929043430/https://fiatmarketcap.com/
+
 Due to bitcoin\'s fixed issuance schedule---its predetermined issuance
 over time---the only thing that can meaningfully respond to adoption
 waves is price. How else could an asset monetize naturally---an asset
-that doesn\'t have an issuer---but chaotically? Or, to quote Alan
-Farrington:
+that doesn\'t have an issuer---but chaotically? Or, to quote
+[Allen Farrington][wm]:
 
-\"What would it seem like if it did seem like a global, digital, sound,
-open source, programmable money was monetizing from absolute zero?\"
+_\"What would it seem like if it did seem like a global, digital, sound,
+open source, programmable money was monetizing from absolute zero?\"_
+
+[wm]: https://bitcoin-resources.com/articles/wittgensteins-money/
 
 ### But Bitcoin Doesn\'t Produce Anything!
 
