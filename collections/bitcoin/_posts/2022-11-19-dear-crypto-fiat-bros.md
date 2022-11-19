@@ -362,8 +362,10 @@ open source, programmable money was monetizing from absolute zero?\"_
 
 Wrong. Every 10 minutes, a new valid block is produced. That\'s all that
 matters. And with this block, another chapter of unforgeable history is
-being written, and the core promise of Bitcoin is kept: \"I will not
-steal from you.\" Neither through debasement nor confiscation.
+being written, and the core promise of Bitcoin is kept: [\"I will not
+steal from you.\"][promise] Neither through debasement nor confiscation.
+
+[promise]: https://youtu.be/C7ynm0Zkwfk
 
 If you think that bitcoin should produce anything else---like yield, for
 example---you are still looking at the world through a fiat lens. Bound
@@ -412,13 +414,15 @@ certain patterns, which I would summarise as \"understanding increases
 conviction, conviction increases allocation\"---or: the more you know,
 the more you buy.
 
-{% include image.html name="hodl-waves.jpg" caption="~73% of sats have been held for more than a year" %}
+{% include image.html name="hodl-waves.png" caption="~73% of sats have been held for more than a year" %}
 
-These \"HODL Waves,\" as they are called, show that an increasing number
+These \"HODL Waves,\"[fn-waves] as they are called, show that an increasing number
 of people understand the underlying dynamics of, as well as the
 differences between, fiat monetary policy and Bitcoin\'s monetary
 policy, which leads to them holding BTC on their personal or corporate
 balance sheets, rather than fiat currency.[^fn-eth-policy]
+
+[fn-waves]: You can have a look at this data yourself, using something like WhaleMap or [Glassnode](https://academy.glassnode.com/supply/hodl/hodl-waves)
 
 [^fn-eth-policy]: \"Crypto\" has no monetary policy, so it\'s not even worth mentioning. If you're still curious, read [Lyn Alden's article](https://www.lynalden.com/ethereum-analysis/) or just look at [one]({{ '/assets/images/shitcoins/eth-issuance.png' | absolute_url }}) of these [two]({{ '/assets/images/shitcoins/eth-monetary-policy.jpg' | absolute_url }}) images.
 
