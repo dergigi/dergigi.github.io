@@ -428,7 +428,7 @@ the more you buy.
 
 {% include image.html name="hodl-waves.png" caption="~73% of sats have been held for more than a year" link="https://unchained.com/hodlwaves/"%}
 
-These \"HODL Waves,\"[fn-waves] as they are called, show that an increasing number
+These \"HODL Waves,\" as they are called, show that an increasing number
 of people understand the underlying dynamics of, as well as the
 differences between, fiat monetary policy and Bitcoin\'s monetary
 policy, which leads to them holding BTC on their personal or corporate
