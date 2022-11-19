@@ -179,8 +179,11 @@ complacent, people get greedy, and people fool themselves and others. 
 
 By layering trust on top of Bitcoin, you re-introduce central points of
 failure and systemic risk---for any systems built on top of these
-central institutions, that is. This has happened before, and it will
+central institutions, that is.[^fn-clusterfuck]
+This has happened before, and it will
 happen again. Time is a flat circle.
+
+[^fn-clusterfuck]: Just look at this [clusterfuck]({{ '/assets/images/shitcoins/ftx-clusterfuck.jpg' | absolute_url }}). Look at it!
 
 \[TABLE: Insert Lopp\'s table, maybe only the top 5\]
 
