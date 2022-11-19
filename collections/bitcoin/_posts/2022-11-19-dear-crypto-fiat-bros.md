@@ -403,7 +403,7 @@ differences between, fiat monetary policy and Bitcoin\'s monetary
 policy, which leads to them holding BTC on their personal or corporate
 balance sheets, rather than fiat currency.[^fn-eth-policy]
 
-[^fn-eth-policy]: \"Crypto\" has no monetary policy, so it\'s not even worth mentioning. If you're still curious, read [Lyn Alden's article](https://www.lynalden.com/ethereum-analysis/) or just look at [one](https://www.lynalden.com/wp-content/uploads/ethereum-issuance.png) of these [two]({{ '/assets/images/shitcoins/eth-monetary-policy.jpg' | absolute_url }}) images.
+[^fn-eth-policy]: \"Crypto\" has no monetary policy, so it\'s not even worth mentioning. If you're still curious, read [Lyn Alden's article](https://www.lynalden.com/ethereum-analysis/) or just look at [one]({{ '/assets/images/shitcoins/eth-issuance.png' | absolute_url }}) of these [two]({{ '/assets/images/shitcoins/eth-monetary-policy.jpg' | absolute_url }}) images.
 
 ### But the Volatility!
 
