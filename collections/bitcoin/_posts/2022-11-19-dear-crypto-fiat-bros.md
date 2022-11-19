@@ -186,11 +186,23 @@ This has happened before, and it will
 happen again. Time is a flat circle.
 
 [^fn-clusterfuck]: Just look at this [clusterfuck]({{ '/assets/images/shitcoins/ftx-clusterfuck.jpg' | absolute_url }}). Look at it!
-
-\[TABLE: Insert Lopp\'s table, maybe only the top 5\]
+[^fn-lopp]: [_Securing bitcoin's scarcity: fighting fake bitcoin_](https://archive.ph/wip/0l5Du) by Jameson Lopp, Casa Blog
 
 {% capture lopp %}{{ 'assets/video/lopp-mtgox.mp4' | absolute_url }}{% endcapture %}
 {% include video.html file=lopp %}
+
+| Entity         | BTC Lost     |
+| ---------------|--------------|
+| Mt. Gox        | 650,000      |
+| Bitfinex       | 120,000      |
+| Celsius        | 105,000      |
+| BlockFi        |  30,000?     |
+| Voyager        |  10,000?     |
+| FTX            |  70,000      |
+
+<small>
+Source: Jameson Lopp[^fn-lopp]
+</small>
 
 Again, a centralized company failed. Again, it is unclear how much of
 this failure was due to incompetence, how much due to malice, and how
@@ -414,15 +426,13 @@ certain patterns, which I would summarise as \"understanding increases
 conviction, conviction increases allocation\"---or: the more you know,
 the more you buy.
 
-{% include image.html name="hodl-waves.png" caption="~73% of sats have been held for more than a year" %}
+{% include image.html name="hodl-waves.png" caption="~73% of sats have been held for more than a year" link="https://unchained.com/hodlwaves/"%}
 
 These \"HODL Waves,\"[fn-waves] as they are called, show that an increasing number
 of people understand the underlying dynamics of, as well as the
 differences between, fiat monetary policy and Bitcoin\'s monetary
 policy, which leads to them holding BTC on their personal or corporate
 balance sheets, rather than fiat currency.[^fn-eth-policy]
-
-[fn-waves]: You can have a look at this data yourself, using something like WhaleMap or [Glassnode](https://academy.glassnode.com/supply/hodl/hodl-waves)
 
 [^fn-eth-policy]: \"Crypto\" has no monetary policy, so it\'s not even worth mentioning. If you're still curious, read [Lyn Alden's article](https://www.lynalden.com/ethereum-analysis/) or just look at [one]({{ '/assets/images/shitcoins/eth-issuance.png' | absolute_url }}) of these [two]({{ '/assets/images/shitcoins/eth-monetary-policy.jpg' | absolute_url }}) images.
 
