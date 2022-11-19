@@ -123,12 +123,17 @@ influence on the phenomenon whatsoever. The tide will come and go, the
 sun will rise and set, and Bitcoin will produce a new block. Every 10
 minutes.
 
-\"Amidst attention-grabbing headlines this week that will be talked
-about for decades, I want to bring your attention to one far more
-profound and awe-inspiring non-headline: every 10 minutes a new bitcoin
-block was produced. Every 10 minutes. Every 10 minutes.\" Ross Stevens
+> Amidst attention-grabbing headlines this week that will be talked
+> about for decades, I want to bring your attention to one far more
+> profound and awe-inspiring non-headline: every 10 minutes a new bitcoin
+> block was produced. Every 10 minutes. Every 10 minutes.
+>
+> [Ross Stevens][ross]
 
-\[Bitfeed video\]
+[ross]: https://archive.ph/v0xwH
+
+{% capture timechain %}{{ 'assets/video/timechain.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=timechain %}
 
 Bitcoin just works. Like clockwork. It works because you don\'t have to
 trust anyone. It works because it uses mathematics and physics---the
@@ -142,18 +147,23 @@ If you aren\'t, you are not using bitcoin. You are trusting someone else
 with their interpretation of bitcoin---or, even worse---you are trusting
 someone else to hold bitcoin for you. 
 
-\"The root problem with conventional currency is all the trust that\'s
-required to make it work. The central bank must be trusted not to debase
-the currency, but the history of fiat currencies is full of breaches of
-that trust. Banks must be trusted to hold our money and transfer it
-electronically, but they lend it out in waves of credit bubbles with
-barely a fraction in reserve. We have to trust them with our privacy,
-trust them not to let identity thieves drain our accounts.\" ---Satoshi
-Nakamoto
+> The root problem with conventional currency is all the trust that\'s
+> required to make it work. The central bank must be trusted not to debase
+> the currency, but the history of fiat currencies is full of breaches of
+> that trust. Banks must be trusted to hold our money and transfer it
+> electronically, but they lend it out in waves of credit bubbles with
+> barely a fraction in reserve. We have to trust them with our privacy,
+> trust them not to let identity thieves drain our accounts.
+>
+> <cite>[Satoshi Nakamoto][root-problem]</cite>
+
+[root-problem]: https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/#selection-45.1-45.479
 
 Bitcoin was created as a response to the rug-pulls of the fiat world. It
-is anti-rug-pull technology. But it is only anti-rug-pull technology if
+is [anti-rug-pull technology][rug]. But it is only anti-rug-pull technology if
 you use it right: your node, your rules, your keys, your bitcoin.
+
+[rug]: https://dergigi.com/cryptography
 
 Crypto, on the other hand, is fiat on steroids. Worse, it is fiat on
 methamphetamines. It is the belief that honest money doesn\'t matter,
@@ -161,7 +171,7 @@ which is why every project, every person, every exchange, every network,
 every system, every community, and every jpg needs its own separate form
 of money. It\'s economic nihilism.
 
-### But Isn\'t Bitcoin Dead? {#But-Isn&#39;t-Bitcoin-Dead?}
+### But Isn\'t Bitcoin Dead?
 
 No, it\'s not dead. It\'s also not a fad, or suddenly useless, or
 suddenly worthless. What happened is what always happens: people get
@@ -183,8 +193,11 @@ much due to fraud. Again, the Bitcoin network was unaffected. Again,
 people relied on trust. Again, the rug was pulled.
 
 It should be obvious by now that bitcoin held by someone else is not
-your bitcoin. Further, it should be obvious that bitcoin and leverage
-mix as well as oil and water. All of this has happened before. And,
+your bitcoin. It should be obvious that paper bitcoin is not bitcoin.
+Further, it should be obvious that bitcoin and leverage
+mix as well as oil and water.
+
+All of this has happened before. And,
 human nature being what it is, all of this will happen again. People
 will---again---fail to heed the warnings of the more experienced
 bitcoiners. People will---again---fail to hold their own keys. People
@@ -202,7 +215,7 @@ crypto bros, get rug-pulled by your dear leader; and when you, dear fiat
 bros, declare Bitcoin dead once more; and when the 500th bitcoin
 obituary has been written; Bitcoin will still march on, unhindered.
 
-### But What about the Price? Didn\'t It Crash? {#But-What-about-the-Price?-Didn&#39;t-It-Crash?}
+### But What about the Price? Didn\'t It Crash?
 
 Yes, it did crash. And it will crash again, and again, and again. Like
 it has in the past.
@@ -271,7 +284,7 @@ policies of fiat currencies. It is useful because, from a BTC point of
 view, it shows that everything is being repriced in sats. Even
 the stupid shit you bought a couple of years ago.
 
-\[IMAGE: Google glasses\]
+{% include image.html name="glassholes.png" caption="Some lenses are more useful than others." %}
 
 Consequently, bitcoiners like to speak of purchasing power because it is
 irrespective of the nominal value bound to fiat currency measure. Note,
@@ -324,7 +337,7 @@ Farrington:
 \"What would it seem like if it did seem like a global, digital, sound,
 open source, programmable money was monetizing from absolute zero?\"
 
-### But Bitcoin Doesn\'t Produce Anything! {#But-Bitcoin-Doesn&#39;t-Produce-Anything&#33;}
+### But Bitcoin Doesn\'t Produce Anything!
 
 Wrong. Every 10 minutes, a new valid block is produced. That\'s all that
 matters. And with this block, another chapter of unforgeable history is
@@ -342,7 +355,8 @@ an unstoppable world computer would be a neat thing. It took me a very
 long time to understand that printing money does not enrich society, but
 does just the opposite.
 
-\[VIDEO: Hoppe\]
+{% capture hoppe %}{{ 'assets/video/hoppe.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=hoppe %}
 
 In the same way, it took me a very long time to step back and ask myself
 the following questions, almost like a child: \"Why does your
@@ -364,7 +378,7 @@ are hard questions. Those who run the money printers don\'t want you to
 ask, \"WTF happened in 1971?\" Those who run the shitcoin casinos don\'t
 want you to ask, \"but where does the yield come from?\"
 
-\[IMAGE: Allen, where does the yield come from\]
+{% include image.html name="allen.png" caption="BUT WHERE DOES THE YIELD COME FROM?" %}
 
 But even with all the shenanigans that are currently going on, I\'m
 hopeful. After all, \"you can fool some people sometimes, but you can\'t
@@ -389,7 +403,7 @@ balance sheets, rather than fiat currency. 
 
 (\"Crypto\" has no monetary policy, so it\'s not even worth mentioning.)
 
-### But the Volatility! {#But-the-Volatility&#33;}
+### But the Volatility!
 
 Volatility, volatility, volatility. All this talk about volatility
 misses the whole point of Bitcoin: deep, systemic stability. 
@@ -418,7 +432,7 @@ position because a 0% allocation is a 100% allocation to assets that
 have substantial counterparty risk or, even worse, assets that aren\'t
 assets in the first place---but liabilities.
 
-### But I Missed the Bus! {#But-I-Missed-the-Bus&#33;}
+### But I Missed the Bus!
 
 No, you didn\'t. We are still very early in the unfolding of the
 bitcoinization process. Everyone thinks they are late. Everyone thinks
@@ -436,9 +450,10 @@ Because of this, it is never too late to use it to your advantage. Just
 like it\'s never too late to adopt electricity or the internet. It is
 never too late to adopt the Bitcoin Standard.
 
-### But Bitcoiners Are Mean! {#But-Bitcoiners-Are-Mean&#33;}
+### But Bitcoiners Are Mean!
 
-\[VIDEO: American hodl video\]
+{% capture hodl %}{{ 'assets/video/american-hodl.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=hodl %}
 
 Do the right thing. Drop your shitcoin bags, whether they are \"crypto\"
 or fiat-denominated. Start small. Take responsibility. Learn how to
