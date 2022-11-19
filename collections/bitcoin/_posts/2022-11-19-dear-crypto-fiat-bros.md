@@ -45,13 +45,14 @@ is. It takes humility, strength, self-reflection, and the swallowing of
 pride to acknowledge that you\'ve been had. It\'s easier to blame
 someone else and double down---or to throw your hands in the air and
 walk away. It\'s a harsh truth, but at some point in the future, you
-will be able to hear it: You have been fooled, and you have no one to
-blame but yourself.
+will be able to hear it: 
+
+**You have been fooled, and you have no one to blame but yourself.**
 
 If that\'s too painful right now, fine. Step back. Do something else for
 a while. Spend some time with your family, or in the woods, or go
 fishing or something. And once you come back, try to wrap your head
-around the following: Bitcoin is the signal, and the rest is noise. All
+around the following: _Bitcoin is the signal_, and the rest is noise. All
 of it.
 
 {% include image.html name="signal.jpg" caption="Bitcoin is the signal." %}
