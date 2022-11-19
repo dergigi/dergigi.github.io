@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Dear Crypto & Fiat Bros"
-subtitle: TODO
-description: TODO
+subtitle: The Price of Freedom Is Responsibility
+description: ...and you have no one to blame but yourself.
 date: 2022-11-19
-blocktime: TODO
-image: /assets/images/btc15-dear-family.jpg
+blocktime: 763907
+image: /assets/images/crypto-bros.jpg
 redirect_from: /crypto
 author: Gigi
 category: bitcoin
@@ -402,7 +402,7 @@ example---you are still looking at the world through a fiat lens.** Bound
 to the view that you have to \"put your money to work.\" You did not
 pause and reconsider [the yield from money held][money-held].
 
-[money-held]: https://nakamotoinstitute.org/the-yield-from-money-held-reconsidered/
+[money-held]: https://mises.org/library/yield-money-held-reconsidered
 
 I empathize with you. I was looking at the world through the same fiat
 lens not too long ago. I was even bullish on \"crypto,\" believing that
