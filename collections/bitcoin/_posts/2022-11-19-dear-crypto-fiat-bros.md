@@ -149,7 +149,7 @@ minutes.
 
 [ross]: https://archive.ph/v0xwH
 
-{% capture timechain %}{{ 'assets/video/timechain.mp4' | absolute_url }}{% endcapture %}
+{% capture timechain %}{{ 'assets/video/timechain-short.mp4' | absolute_url }}{% endcapture %}
 {% include video.html file=timechain %}
 
 <small>
