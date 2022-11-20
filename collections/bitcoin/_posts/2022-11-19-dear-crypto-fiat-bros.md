@@ -34,11 +34,14 @@ In the latter case, you are probably still in shock because the
 likelihood is high that you just lost all your money. Maybe you are
 still in denial. Maybe you are angry or even depressed. Maybe your
 pre-mined world-computer coins are locked up in a centrally controlled
-staking system, and you have no way of getting them out again.
+staking system, and you have no way of getting them out again.[^fn-stake]
 Unfortunately, there is no way to fast-track the five stages of grief.
 You have to slouch through it all until you finally arrive at
 acceptance: \"I never had bitcoin in the first place, I only had IOUs
 and paper bitcoin. I was the yield that was being farmed.\"
+
+[^fn-stake]: [lol]({{ '/assets/images/shitcoins/eth-no-withdrawing.jpg' | absolute_url }})
+
 
 Admitting that you\'ve been fooled is one of the hardest things there
 is. It takes humility, strength, self-reflection, and the swallowing of
