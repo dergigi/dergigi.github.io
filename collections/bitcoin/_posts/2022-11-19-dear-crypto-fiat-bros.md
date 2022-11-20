@@ -161,12 +161,12 @@ laws of nature---to remove any trust from the system. It works because
 you can verify anything yourself. It works because it is not an external
 thing (dictated by someone else) but an [emergent thing][emergent]: brought into
 existence by relentless validation and verification. It works
-because you and only you are in charge. 
+because *you* and *only you* are in charge.
 
 [emergent]: {{ '/digital' | absolute_url }}
 
-If you aren\'t, you are not using bitcoin. You are trusting someone else
-with their interpretation of Bitcoin---or, even worse---you are trusting
+If you aren\'t in charge, you are not using bitcoin. You are trusting someone
+else with their interpretation of Bitcoin---or, even worse---you are trusting
 someone else to hold bitcoin for you. 
 
 > The root problem with conventional currency is all the trust that\'s
