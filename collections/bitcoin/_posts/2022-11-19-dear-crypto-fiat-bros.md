@@ -532,8 +532,9 @@ Or don\'t. You can also stay in crypto wonderland, buying ape JPGs and
 shares of Ponzis built on quicksand. You can once again believe all the
 lies of the next autistic wunderkind, convincing you that fundamentals
 don\'t matter and that principles are worthless. You can also stay in
-the world of fiat slavery, believing that your government has your best
-interest at heart, that printing trillions out of thin air is sensible
+the world of fiat slavery, believing that your money should steal from you
+(as long as the rate of stealing stays somewhere between 2-9%),
+that printing trillions out of thin air is sensible
 monetary policy, and that central-bank digital currencies are a neat
 idea.
 
