@@ -558,3 +558,12 @@ Good luck.
 [books]: https://bitcoin-resources.com/books/
 
 ---
+
+<small>
+Thanks to [my patrons][patreon] for the excellent feedback
+on early drafts of this letter.
+</small>
+
+[patreon]: https://www.patreon.com/dergigi
+
+---
