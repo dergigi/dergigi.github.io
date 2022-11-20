@@ -191,6 +191,12 @@ which is why every project, every person, every exchange, every network,
 every system, every community, and every jpg needs its own separate form
 of money. It\'s economic nihilism.
 
+The two couldn't be more different.
+Bitcoin removes seigniorage. Shitcoins re-introduce seigniorage. Bitcoin removes
+the Cantillon effect. Shitcoins re-introduce the Cantillon effect. Bitcoin
+removes trust. Shitcoins re-introduce trust. As do centralized financial
+services motivated by fiat thinking.
+
 ### But Isn\'t Bitcoin Dead?
 
 No, it\'s not dead. It\'s also not a fad, or suddenly useless, or
