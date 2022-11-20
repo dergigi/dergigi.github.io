@@ -251,7 +251,7 @@ fast riches, and easy money.
 
 [long]: https://youtu.be/9wUygGyD7Ng
 
-And when the fools once again lost all their money; and when you, dear
+And when the fools once again lose all their money; and when you, dear
 crypto bros, get rug-pulled by your dear leader; and when you, dear fiat
 bros, declare Bitcoin dead once more; and when the
 [500th bitcoin obituary][obituary] has been written;
