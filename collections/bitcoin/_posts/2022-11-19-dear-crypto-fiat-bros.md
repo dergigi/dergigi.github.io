@@ -445,9 +445,11 @@ want you to ask, \"but where does the yield come from?\"
 
 But even with all the shenanigans that are currently going on, I\'m
 hopeful. After all, \"you can fool some people sometimes, but you can\'t
-fool all the people all the time.\" More and more people will learn.
+fool all the people all the time.\"[^fn-marley] More and more people will learn.
 More and more people will hold their own keys. More and more people will
 run the numbers.
+
+[^fn-marley]: [Don't give up the fight!](https://youtu.be/JuMlHdxiIZ8?t=143)
 
 This assumption is not based on faith. Bitcoin\'s on-chain data shows
 certain patterns, which I would summarise as \"understanding increases
