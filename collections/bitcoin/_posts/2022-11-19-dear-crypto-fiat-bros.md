@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Dear Crypto & Fiat Bros"
-subtitle: The Price of Freedom Is Responsibility
-description: ...and you have no one to blame but yourself.
+subtitle: An open letter to the confused and dismissive.
+description: The coin is dead, long live the coin!
 date: 2022-11-19
 blocktime: 763908
 image: /assets/images/crypto-bros.jpg
