@@ -336,7 +336,7 @@ the [stupid shit][shit] you bought a couple of years ago.
 
 [shit]: https://bitcoinorshit.com/
 
-{% include image.html name="glassholes.png" caption="Some lenses are more useful than others." link="https://bitcoinorshit.com/" %}
+{% include image.html name="glassholes-cropped.png" caption="Some lenses are more useful than others." link="https://bitcoinorshit.com/" %}
 
 Consequently, bitcoiners like to speak of purchasing power because it is
 irrespective of the nominal value bound to fiat currency measure. Note,
