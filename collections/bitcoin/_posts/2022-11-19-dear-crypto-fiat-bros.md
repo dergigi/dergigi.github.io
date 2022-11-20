@@ -102,10 +102,12 @@ protocols. Consequently, most people are easily fooled. 
 What is so revolutionary about bitcoin?
 
 -   Bitcoin is absolutely scarce
--   Bitcoin\'s issuance is fixed in time
+-   Bitcoin\'s issuance is [fixed in time][time]
 -   Bitcoin can be stored in your head
 -   Bitcoin can be sent at the speed of light
 -   Bitcoin can be verified by anyone, easily and cheaply
+
+[time]: https://dergigi.com/time
 
 Every single one of these points is revolutionary in itself. 
 
