@@ -4,7 +4,7 @@ title: "Dear Crypto & Fiat Bros"
 subtitle: An open letter to the confused and dismissive.
 description: The coin is dead, long live the coin!
 date: 2022-11-19
-blocktime: 763908
+blocktime: 763992
 image: /assets/images/crypto-bros.jpg
 redirect_from: /crypto
 author: Gigi
