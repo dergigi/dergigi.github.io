@@ -82,9 +82,8 @@ Many bitcoiners have strong opinions when it comes to bitcoin vs. "crypto"---and
 for good reason. One is a breakthrough of enormous proportions. The others are
 cheap imitations, copy-cats that have been riding the coattails of said
 breakthrough for way too long, confusing noobs and retail investors alike.
-"Crypto" is nerds
-discovering money printing and pyramid schemes. Seemingly free lunches propped
-up by perpetual motion machines that run on technobabble.
+"Crypto" is nerds re-discovering money printing and pyramid schemes. Seemingly
+free lunches propped up by perpetual motion machines that run on technobabble.
 
 Crypto does not compare to Bitcoin. If you want to compare Bitcoin to something
 else, compare it to fire, [the number zero][zero], the wheel, the printing press, or
