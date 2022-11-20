@@ -44,7 +44,7 @@ Admitting that you\'ve been fooled is one of the hardest things there
 is. It takes humility, strength, self-reflection, and the swallowing of
 pride to acknowledge that you\'ve been had. It\'s easier to blame
 someone else and double down---or to throw your hands in the air and
-walk away. It\'s a harsh truth, but at some point in the future, you
+walk away. It\'s a harsh truth, and at some point in the future, you
 will be able to hear it: 
 
 **You have been fooled, and you have no one to blame but yourself.**
