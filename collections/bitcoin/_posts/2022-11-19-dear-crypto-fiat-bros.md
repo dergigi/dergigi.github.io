@@ -538,8 +538,10 @@ that printing trillions out of thin air is sensible
 monetary policy, and that central-bank digital currencies are a neat
 idea.
 
-In either case, Bitcoin doesn\'t care. But when (not if) bitcoin reaches
-new heights again, and the mainstream media screams \"bubble\" again,
+In either case, Bitcoin doesn\'t care. But when (not if)
+the next centralized abomination implodes,
+and when (not if) bitcoin reaches
+new heights again, and when the mainstream media screams \"bubble\" again,
 and when bitcoin\'s price will once more correct after that, and when
 fools are once again parted with the coins that they thought they held,
 remember this: you could\'ve known better. You could\'ve held your own
