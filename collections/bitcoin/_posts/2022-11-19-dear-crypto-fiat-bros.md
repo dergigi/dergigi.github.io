@@ -150,7 +150,7 @@ minutes.
 [ross]: https://archive.ph/v0xwH
 
 {% capture timechain %}{{ 'assets/video/timechain-short.mp4' | absolute_url }}{% endcapture %}
-{% include video.html file=timechain %}
+{% include video.html file=timechain autoplay=true %}
 
 <small>
 Source: [bitfeed.live](https://bitfeed.live/)
