@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Dear Crypto & Fiat Bros"
-subtitle: The Price of Freedom Is Responsibility
-description: ...and you have no one to blame but yourself.
+subtitle: An open letter to the confused and dismissive.
+description: The coin is dead, long live the coin!
 date: 2022-11-19
-blocktime: 763908
+blocktime: 763992
 image: /assets/images/crypto-bros.jpg
 redirect_from: /crypto
 author: Gigi
@@ -34,17 +34,20 @@ In the latter case, you are probably still in shock because the
 likelihood is high that you just lost all your money. Maybe you are
 still in denial. Maybe you are angry or even depressed. Maybe your
 pre-mined world-computer coins are locked up in a centrally controlled
-staking system, and you have no way of getting them out again.
+staking system, and you have no way of getting them out again.[^fn-stake]
 Unfortunately, there is no way to fast-track the five stages of grief.
 You have to slouch through it all until you finally arrive at
 acceptance: \"I never had bitcoin in the first place, I only had IOUs
 and paper bitcoin. I was the yield that was being farmed.\"
 
+[^fn-stake]: [lol]({{ '/assets/images/shitcoins/eth-no-withdrawing.jpg' | absolute_url }})
+
+
 Admitting that you\'ve been fooled is one of the hardest things there
 is. It takes humility, strength, self-reflection, and the swallowing of
 pride to acknowledge that you\'ve been had. It\'s easier to blame
 someone else and double down---or to throw your hands in the air and
-walk away. It\'s a harsh truth, but at some point in the future, you
+walk away. It\'s a harsh truth, and at some point in the future, you
 will be able to hear it: 
 
 **You have been fooled, and you have no one to blame but yourself.**
@@ -79,9 +82,8 @@ Many bitcoiners have strong opinions when it comes to bitcoin vs. "crypto"---and
 for good reason. One is a breakthrough of enormous proportions. The others are
 cheap imitations, copy-cats that have been riding the coattails of said
 breakthrough for way too long, confusing noobs and retail investors alike.
-"Crypto" is nerds
-discovering money printing and pyramid schemes. Seemingly free lunches propped
-up by perpetual motion machines that run on technobabble.
+"Crypto" is nerds re-discovering money printing and pyramid schemes. Seemingly
+free lunches propped up by perpetual motion machines that run on technobabble.
 
 Crypto does not compare to Bitcoin. If you want to compare Bitcoin to something
 else, compare it to fire, [the number zero][zero], the wheel, the printing press, or
@@ -146,8 +148,8 @@ minutes.
 
 [ross]: https://archive.ph/v0xwH
 
-{% capture timechain %}{{ 'assets/video/timechain.mp4' | absolute_url }}{% endcapture %}
-{% include video.html file=timechain %}
+{% capture timechain %}{{ 'assets/video/timechain-short.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=timechain autoplay=true %}
 
 <small>
 Source: [bitfeed.live](https://bitfeed.live/)
@@ -159,12 +161,12 @@ laws of nature---to remove any trust from the system. It works because
 you can verify anything yourself. It works because it is not an external
 thing (dictated by someone else) but an [emergent thing][emergent]: brought into
 existence by relentless validation and verification. It works
-because you and only you are in charge. 
+because *you* and *only you* are in charge.
 
 [emergent]: {{ '/digital' | absolute_url }}
 
-If you aren\'t, you are not using bitcoin. You are trusting someone else
-with their interpretation of Bitcoin---or, even worse---you are trusting
+If you aren\'t in charge, you are not using bitcoin. You are trusting someone
+else with their interpretation of Bitcoin---or, even worse---you are trusting
 someone else to hold bitcoin for you. 
 
 > The root problem with conventional currency is all the trust that\'s
@@ -190,6 +192,12 @@ methamphetamines. It is the belief that honest money doesn\'t matter,
 which is why every project, every person, every exchange, every network,
 every system, every community, and every jpg needs its own separate form
 of money. It\'s economic nihilism.
+
+The two couldn't be more different.
+Bitcoin removes seigniorage. Shitcoins re-introduce seigniorage. Bitcoin removes
+the Cantillon effect. Shitcoins re-introduce the Cantillon effect. Bitcoin
+removes trust. Shitcoins re-introduce trust. As do centralized financial
+services motivated by fiat thinking.
 
 ### But Isn\'t Bitcoin Dead?
 
@@ -245,7 +253,7 @@ fast riches, and easy money.
 
 [long]: https://youtu.be/9wUygGyD7Ng
 
-And when the fools once again lost all their money; and when you, dear
+And when the fools once again lose all their money; and when you, dear
 crypto bros, get rug-pulled by your dear leader; and when you, dear fiat
 bros, declare Bitcoin dead once more; and when the
 [500th bitcoin obituary][obituary] has been written;
@@ -439,9 +447,11 @@ want you to ask, \"but where does the yield come from?\"
 
 But even with all the shenanigans that are currently going on, I\'m
 hopeful. After all, \"you can fool some people sometimes, but you can\'t
-fool all the people all the time.\" More and more people will learn.
+fool all the people all the time.\"[^fn-marley] More and more people will learn.
 More and more people will hold their own keys. More and more people will
 run the numbers.
+
+[^fn-marley]: [Don't give up the fight!](https://youtu.be/JuMlHdxiIZ8?t=143)
 
 This assumption is not based on faith. Bitcoin\'s on-chain data shows
 certain patterns, which I would summarise as \"understanding increases
@@ -524,13 +534,16 @@ Or don\'t. You can also stay in crypto wonderland, buying ape JPGs and
 shares of Ponzis built on quicksand. You can once again believe all the
 lies of the next autistic wunderkind, convincing you that fundamentals
 don\'t matter and that principles are worthless. You can also stay in
-the world of fiat slavery, believing that your government has your best
-interest at heart, that printing trillions out of thin air is sensible
+the world of fiat slavery, believing that your money should steal from you
+(as long as the rate of stealing stays somewhere between 2-9%),
+that printing trillions out of thin air is sensible
 monetary policy, and that central-bank digital currencies are a neat
 idea.
 
-In either case, Bitcoin doesn\'t care. But when (not if) bitcoin reaches
-new heights again, and the mainstream media screams \"bubble\" again,
+In either case, Bitcoin doesn\'t care. But when (not if)
+the next centralized abomination implodes,
+and when (not if) bitcoin reaches
+new heights again, and when the mainstream media screams \"bubble\" again,
 and when bitcoin\'s price will once more correct after that, and when
 fools are once again parted with the coins that they thought they held,
 remember this: you could\'ve known better. You could\'ve held your own
@@ -543,5 +556,14 @@ didn\'t. And you have no one to blame but yourself.
 Good luck.
 
 [books]: https://bitcoin-resources.com/books/
+
+---
+
+<small>
+Thanks to [my patrons][patreon] for the excellent feedback
+on early drafts of this letter.
+</small>
+
+[patreon]: https://www.patreon.com/dergigi
 
 ---
