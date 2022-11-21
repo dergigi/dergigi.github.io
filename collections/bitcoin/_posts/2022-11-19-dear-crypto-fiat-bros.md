@@ -437,7 +437,7 @@ even know these questions were worth asking in the first place.
 
 The most difficult thing is to get rid of the fiat mindset, which is to
 say to step back and ask yourself very simple questions about money: why
-do we have it, why do we need it, why does it has to be scarce, why can
+do we have it, why do we need it, why does it have to be scarce, why can
 some people print it while most have to work for it, and so on. These
 are hard questions. Those who run the money printers don\'t want you to
 ask, \"[WTF happened in 1971?][wtf]\" Those who run the shitcoin casinos don\'t
