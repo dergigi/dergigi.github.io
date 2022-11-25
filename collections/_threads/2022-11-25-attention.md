@@ -72,6 +72,14 @@ piece right, without having to rely on trusted third parties.
 
 [^fn-cost]: Listen to [Saylor on the Bitcoin Matrix](https://pod.link/1534519469/episode/54931b6a4142335fdc84ce249b59469a). I'd recommend you [listen on Breez](https://pod.link/1632017958/episode/4140110ced3524d74b9da3c914ddbb16) or Fountain.
 
+[Snowden](https://twitter.com/Snowden/) understands these problems and is on the right track, and like him, I am optimistic that we will be able to fix them.
+
+> I'm thankful for the Internet.
+>
+> One day it will be free and open, edge to edge.
+>
+> <cite>[Edward Snowden](https://twitter.com/Snowden/status/1595802834611900416)</cite>
+
 Central control doesn\'t fix this. A new platform doesn\'t fix this.
 Protocols do. In addition to using the right protocols, we have to fix
 the incentives. And for that we have to fix the money.
