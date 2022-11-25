@@ -43,8 +43,12 @@ outrage. We should use money as money, not attention.
 
 Of course, this is already happening. The obvious examples are:
 
-- _[Podcasting 2.0](https://podcastindex.org)_, lead by the [Podcast Index Team](https://podcastindex.social), which allows for [value-enabled podcasts](https://value4value.info/).
+- _[Podcasting 2.0](https://podcastindex.org)_, lead by the Podcast Index,[^fn-pis] which allows for value-enabled podcasts.[^fn-v4v]
 - _[Stacker News](https://stacker.news/)_, which uses a slightly different approach: every action has monetary value attached to it, making bots uneconomical.
+
+[^fn-pis]: Join [podcastindex.social](https://podcastindex.social) and chime in!
+
+[^fn-v4v]: Visit [value4value.info](https://value4value.info/) to learn more.
 
 The thing about monetary value is that it is human action distilled.
 Many signals can be faked or auto-generated, be it views, downloads,
@@ -62,9 +66,11 @@ understands these problems deeply and has the right ideas when it comes
 to fixing them.
 
 [Saylor](https://twitter.com/saylor) understands that cash money brings real
-consequences and real cost to cyberspace, which is one piece of the
+consequences and real cost to cyberspace,[^fn-cost] which is one piece of the
 puzzle. [Daniel](https://twitter.com/csuwildcat) understands that we have to get the identity
 piece right, without having to rely on trusted third parties.
+
+[^fn-cost]: Listen to [Saylor on the Bitcoin Matrix](https://pod.link/1534519469/episode/54931b6a4142335fdc84ce249b59469a). I'd recommend you [listen on Breez](https://pod.link/1632017958/episode/4140110ced3524d74b9da3c914ddbb16) or Fountain.
 
 Central control doesn\'t fix this. A new platform doesn\'t fix this.
 Protocols do. In addition to using the right protocols, we have to fix
@@ -80,3 +86,5 @@ is king.
 And when it comes to monies,
 Bitcoin
 is the king of kings.
+
+---
