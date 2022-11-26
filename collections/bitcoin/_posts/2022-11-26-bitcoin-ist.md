@@ -116,7 +116,7 @@ Realität. Nakamoto bezeichnete Bitcoin als "electronic peer-to-peer cash" und e
 ist das Elektronische, welches das Physikalische ins Spiel bringt. Elektronen
 flippen Bits, was Zeit und Energie benötigt. Zeit und Energie bilden die
 Grundlage der Kryptografie---wenn Berechnung weder Zeit noch Energie benötigen
-würde, wäre jegliche Krypt---ografie unsicher, jeder Code knackbar, jedes Geheimnis
+würde, wäre jegliche Kryptografie unsicher, jeder Code knackbar, jedes Geheimnis
 zu erraten. [Bitcoin ist physikalisch][pow].
 
 [pow]: {{ '/pow' | absolute_url }}
