@@ -40,7 +40,9 @@ eine Weile mit Approximationen begnügen müssen. Approximationen, welche das
 Individuum in den Mittelpunkt stellen. Die ewige Frage muss umformuliert werden,
 da es in der Welt von Bitcoin keine Autoritäten gibt. Bitcoin ist die Autorität,
 und Bitcoin ist persönlich. Somit wird aus "Was ist Bitcoin eigentlich?" ganz
-automatisch "Was ist Bitcoin für dich?"
+automatisch "[Was ist Bitcoin für dich?][weg]"
+
+[weg]: https://einundzwanzig.space/podcast/der-weg/
 
 Kollektiv und Individuum---gegensätzlich, und doch vereint. Niemand kann dir sagen
 was Bitcoin ist, und doch gibt es ihn, den Konsensus---sowohl technisch, als auch
