@@ -1,6 +1,7 @@
 ---
 layout: thread
 title: "Attention is a Terrible Currency"
+subtitle: "The internet never had a native currency, so it had to use a surrogate: attention."
 date: 2022-11-25
 blocktime: 738614
 source: https://twitter.com/dergigi/status/1596126980402864131
