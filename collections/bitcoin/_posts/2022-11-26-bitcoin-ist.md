@@ -238,9 +238,11 @@ Währung. Das wahre Geld verschwand und die Währung wurde kaputt.
 
 Mit dem Geld verschwand auch die Zeit und mit ihr unsere Aufmerksamkeit. Es gibt
 sie wirklich, die Zeit-Diebe. Die grauen Herren, die glatzköpfigen Agenten der
-„Zeitsparkasse“. Wir kennen sie als Zentralbanken und Teilreserve-Magier,
+"Zeitsparkasse".[^fn-momo] Wir kennen sie als Zentralbanken und Teilreserve-Magier,
 Negativzins und Inflation. Bitcoin ist das Kind, das den Menschen die gestohlene
 Zeit zurückbringt. **Bitcoin ist Momo.**
+
+[^fn-momo]: [Momo --- oder die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zurückbrachte](https://amzn.to/3VjPi7E)
 
 Unsere Geldscheine sind mehr Schein als Geld, nur gültig, weil sonst die
 Freiheit entfällt. Scheinheilig und unscheinbar als Goldersatz erschienen, nun
