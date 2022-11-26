@@ -26,7 +26,7 @@ Geld, welches jemals existieren kann. Zu teuer, und praktisch geschenkt.
 Es ist ein Wunder, dass Bitcoin überhaupt existiert. Ein Wunder, dass es
 erschaffen wurde. Ein Wunder, dass Satoshi den Schlüssel zur digitalen Knappheit
 entdeckt hat. Ein Wunder, dass es sich entfalten durfte, dass es langsam wachsen
-durfte, im Dunklen, im so-genannten "Dark Web''.
+durfte, im Dunklen, im so-genannten "Dark Web".
 
 Das Wunder von Bitcoin liegt vor allem darin, dass es allerlei Gegensätze in
 sich vereint. Wie kann etwas gleichzeitig digital und knapp sein? Veränderbar
@@ -42,19 +42,19 @@ da es in der Welt von Bitcoin keine Autoritäten gibt. Bitcoin ist die Autoritä
 und Bitcoin ist persönlich. Somit wird aus "Was ist Bitcoin eigentlich?" ganz
 automatisch "Was ist Bitcoin für dich?"
 
-Kollektiv und Individuum—gegensätzlich, und doch vereint. Niemand kann dir sagen
-was Bitcoin ist, und doch gibt es ihn, den Konsensus—sowohl technisch, als auch
+Kollektiv und Individuum---gegensätzlich, und doch vereint. Niemand kann dir sagen
+was Bitcoin ist, und doch gibt es ihn, den Konsensus---sowohl technisch, als auch
 philosophisch. Es ist die Aufgabe eines jeden Bitcoiners zu bestimmen, was
 Bitcoin ist, und was es in Zukunft sein soll. Welchen Code willst du laufen
 lassen? Welche Konsensus-Parameter überprüft deine Node? Was ist Bitcoin für
 dich?
 
-Vereinigung von Gegensätzen, Auflösung von Paradoxien—das ist Bitcoin für mich.
+Vereinigung von Gegensätzen, Auflösung von Paradoxien---das ist Bitcoin für mich.
 
 Eines der spannendste Paradoxa in Bitcoin ist wohl das Paradoxon des Besitzes.
-Die Frage, ob man Bitcoins—Sats—überhaupt besitzen kann. Das Umgekehrte ist
+Die Frage, ob man Bitcoins---Sats---überhaupt besitzen kann. Das Umgekehrte ist
 definitiv möglich: viele Menschen, ich inklusive, sind von Bitcoin regelrecht
-besessen. Doch mit dem Besitz an sich—dem Besitz von Sats—ist es etwas
+besessen. Doch mit dem Besitz an sich---dem Besitz von Sats---ist es etwas
 schwieriger.
 
 Alles an Bitcoin ist Information, jeder Bestandteil ist Text. Bitcoin hat keine
@@ -66,17 +66,17 @@ lieber Leser. Und wenn Du der Erste bist, der das versteht, dann bist du
 Millionär. Abracadabra, Bitcoin ist ein Zauberspruch.
 
 Bitcoin ist geheimes Wissen, verschränkt mit öffentlicher Information. Bitcoin
-verschränkt sich selbst mit Sats, und Sats verschränken sich—wie jede
-Geldeinheit—mit unserem Leben. In anderen Worten: Bitcoin erschafft sich
-selbst—als Geld—durch die Einheit mit seiner Geldeinheit. Ohne Sats kein Bitcoin
+verschränkt sich selbst mit Sats, und Sats verschränken sich---wie jede
+Geldeinheit---mit unserem Leben. In anderen Worten: Bitcoin erschafft sich
+selbst---als Geld---durch die Einheit mit seiner Geldeinheit. Ohne Sats kein Bitcoin
 Netzwerk, ohne Bitcoin Netzwerk keine Sats. Ohne Verschränkung keine Einheit,
 ohne Einheit keine Kaufkraft.
 
-Dein privater Schlüssel—deine 12 Wörter—sind, auf sich alleine gestellt,
+Dein privater Schlüssel---deine 12 Wörter---sind, auf sich alleine gestellt,
 wertlos. Das gleiche gilt für das öffentliche Kassenbuch, den "public ledger".
 Der Wert liegt in der Kombination, in der Verbindung. Nur wenn deine 12 Wörter
-mit dem Kassenbuch verschränkt sind—wenn dein privater Schlüssel eine UTXO
-kontrolliert—werden deine Wörter zum Zauberspruch. Bitcoin ist Kontrolle.
+mit dem Kassenbuch verschränkt sind---wenn dein privater Schlüssel eine UTXO
+kontrolliert---werden deine Wörter zum Zauberspruch. Bitcoin ist Kontrolle.
 
 Wie zu Beginn erwähnt ist Bitcoin's Identität unbestimmt, da es keine Autorität
 gibt welche eine Identität bestimmen könnte. Jedes Individuum muss diese
@@ -97,7 +97,9 @@ Stückchen Vergangenheit vorschlagen, und wenn sich alle einig sind, wird jener
 mit Sats belohnt. Zuerst entscheidet der Zufall, dann das Netzwerk. Aus Chaos
 wird Ordnung, aus Zufälligkeit unumstrittene Geschichte. Jeder Privatschlüssel
 einmalig, jeder valide Block ein kleines Wunder. Alle 10 Minuten. Bitcoin ist
-probabilistisch. Bitcoin ist Zeit.
+probabilistisch. [Bitcoin ist Zeit.][time]
+
+[time]: {% post_url /bitcoin/2021-01-14-bitcoin-is-time %}#translations
 
 Es ist die Zeit, welche Bitcoins Geldpolitik bestimmt. Das Politische wurde
 chirurgisch entfernt und von Mathematik ersetzt. Das Politische wird
@@ -107,8 +109,8 @@ Die Mathematik alleine reicht allerdings nicht, denn ihr fehlt der Bezug zur
 Realität. Nakamoto bezeichnete Bitcoin als "electronic peer-to-peer cash" und es
 ist das Elektronische, welches das Physikalische ins Spiel bringt. Elektronen
 flippen Bits, was Zeit und Energie benötigt. Zeit und Energie bilden die
-Grundlage der Kryptografie—wenn Berechnung weder Zeit noch Energie benötigen
-würde, wäre jegliche Kryptografie unsicher, jeder Code knackbar, jedes Geheimnis
+Grundlage der Kryptografie---wenn Berechnung weder Zeit noch Energie benötigen
+würde, wäre jegliche Krypt---ografie unsicher, jeder Code knackbar, jedes Geheimnis
 zu erraten. Bitcoin ist physikalisch.
 
 Kryptografie ist allerdings nicht die Geheimzutat von Bitcoin. Kryptografie ist
@@ -158,8 +160,8 @@ Obwohl Bitcoin auf den ersten Blick unvernünftig erscheinen mag, ist es wohl da
 vernünftigste Geld, welches die Menschheit je hatte. Bitcoin's Geldpolitik ist
 eine Rückkehr zur Vernunft: stabil, vorhersehbar und limitiert. Eine
 Limitierung, welche unausweichlich das Vernünftige auf diejenigen überträgt, die
-mit Bitcoin interagieren: Individuen, Firmen, Familien, Staaten—und, wenn
-Satoshi es so will—unsere Zivilisation. Ohne Limitierung keine Stabilität. Ohne
+mit Bitcoin interagieren: Individuen, Firmen, Familien, Staaten---und, wenn
+Satoshi es so will---unsere Zivilisation. Ohne Limitierung keine Stabilität. Ohne
 Stabilität keine Vernunft. Ohne Vernunft keine Zukunft. Bitcoin ist Vernunft.
 
 Bitcoin muss erlebt werden. Man muss teilhaben und Teil werden, sich
@@ -231,7 +233,7 @@ Zeit zurückbringt. Bitcoin ist Momo.
 Unsere Geldscheine sind mehr Schein als Geld, nur gültig, weil sonst die
 Freiheit entfällt. Scheinheilig und unscheinbar als Goldersatz erschienen, nun
 ohne Deckung und Deckelung, ein Fiat-Fiasko ohne Bezug zu Gerechtigkeit oder
-Realität.  “Es werde Geld”, “es werde Licht”—doch lange funktioniert das nicht.
+Realität.  “Es werde Geld”, “es werde Licht”---doch lange funktioniert das nicht.
 Fiat ist Lüge, Währung ohne Gewähr, erzwungen durch Staatsgewalt mit Polizei und
 Militär. Bereicherung der Wenigen auf den Kosten der Vielen, weil sie gern Krieg
 und Geldpolitik spielen. Ein diabolischer Plan, welcher 1971 ins Rollen kam.
