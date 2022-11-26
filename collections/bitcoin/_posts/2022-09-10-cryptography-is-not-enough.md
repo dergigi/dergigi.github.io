@@ -23,6 +23,14 @@ tags:
 sample keys or send bitcoins to any of the associated addresses; you will lose
 your money.**
 
+<div class="action-buttons">
+  <div class="button button-blue button-large">
+    <a href="https://youtu.be/C7ynm0Zkwfk">
+      Watch on YouTube
+    </a>
+  </div>
+</div>
+
 This talk was [originally given][orig] in Riga at [#BH2022][bh2022].
 
 
