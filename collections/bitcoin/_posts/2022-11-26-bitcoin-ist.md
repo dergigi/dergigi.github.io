@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bitcoin ist..."
+description: "...ein Kind, das den Menschen die gestohlene Zeit zurückbringt."
 date: 2022-11-26
 blocktime: 751,372
 image: /assets/images/momo.jpg
