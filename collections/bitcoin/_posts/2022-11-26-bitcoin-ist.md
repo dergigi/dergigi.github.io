@@ -63,7 +63,9 @@ abgesichert wird. Kann man Information besitzen? 12 Wörter, ein Eigentum? Deine
 12 Wörter müssen geheim sein. Wenn sie das nicht sind, ist Besitz unmöglich.
 Zwölfmal “Bus” ist eine Bitcoin Wallet. Nun ist es auch deine Bitcoin Wallet,
 lieber Leser. Und wenn Du der Erste bist, der das versteht, dann bist du
-Millionär. Abracadabra, Bitcoin ist ein Zauberspruch.
+Millionär. Abracadabra, [Bitcoin ist ein Zauberspruch][abracadabra].
+
+[abracadabra]: https://21-ways.com/ch0-04-building-blocks/
 
 Bitcoin ist geheimes Wissen, verschränkt mit öffentlicher Information. Bitcoin
 verschränkt sich selbst mit Sats, und Sats verschränken sich---wie jede
@@ -111,7 +113,9 @@ ist das Elektronische, welches das Physikalische ins Spiel bringt. Elektronen
 flippen Bits, was Zeit und Energie benötigt. Zeit und Energie bilden die
 Grundlage der Kryptografie---wenn Berechnung weder Zeit noch Energie benötigen
 würde, wäre jegliche Krypt---ografie unsicher, jeder Code knackbar, jedes Geheimnis
-zu erraten. Bitcoin ist physikalisch.
+zu erraten. [Bitcoin ist physikalisch][pow].
+
+[pow]: {{ '/pow' | absolute_url }}
 
 Kryptografie ist allerdings nicht die Geheimzutat von Bitcoin. Kryptografie ist
 alt, Bitcoin ist neu. Die Geheimzutat ist die dynamische Anpassung, welche
@@ -122,8 +126,10 @@ Schwierigkeit wird angepasst, der Code nicht angefasst. Bitcoin ist dynamisch.
 Diese Dynamik ermöglicht Bitcoin sich mit uns und unserer Welt zu verschränken.
 Sowohl als monetäres als auch als moralisches Phänomen, denn der Code von
 Bitcoin ist ein ethischer: du sollst nicht fälschen, du sollst nicht
-inflationieren, du sollst nicht beschlagnahmen. Kurz gesagt, du sollst nicht
-stehlen.
+inflationieren, du sollst nicht beschlagnahmen. Kurz gesagt, [du sollst nicht
+stehlen][cryptography].
+
+[cryptography]: {% post_url /bitcoin/2022-09-10-cryptography-is-not-enough %}#translations
 
 Moralischer Code wird zu Computercode, Computercode wird zu Gesetz. 12 Wörter in
 deinem Kopf können nicht gestohlen werden. Bitcoin muss verdient werden. Das
@@ -135,15 +141,19 @@ philosophischen Sinne. Eine Gestalt, welche sich auflöst, sobald man einen
 einzelnen Teil untersucht, oder, noch fataler, entfernt. Ich glaube, darum ist
 mir die biologische Metapher immer noch die Liebste. Die Verschränkung mit uns
 erweckt Bitcoin zum Leben. Aus technologischem Artefakt wird lebendiger
-Organismus. Auf Mathematik und Physik folgt Spieltheorie und Ökonomie. Bitcoin
-ist lebendig.
+Organismus. Auf Mathematik und Physik folgt Spieltheorie und Ökonomie. [Bitcoin
+ist lebendig][life].
+
+[life]: {% post_url /bitcoin/2019-08-07-proof-of-life %}#translations
 
 Bitcoin verkörpert Freiheit, Wahrheit, und Vernunft. Jeder ist frei, Bitcoin zu
 verwenden. Es ist ein freiwilliges System, ohne Zwang, ohne Herrscher. Du hast
 die Freiheit, es für dich zu nutzen. Du hast die Freiheit, es bleiben zu lassen.
 Du hast die Freiheit, es zu verändern, zu kopieren, zu verschlimmbessern, zu
 studieren. Diese Freiheit ist ein integraler Bestandteil des Systems. Ohne diese
-Freiheit würde Bitcoin nicht funktionieren. Bitcoin ist Freiheit.
+Freiheit würde Bitcoin nicht funktionieren. [Bitcoin ist Freiheit][speech].
+
+[speech]: {% post_url /bitcoin/2022-04-03-inalienable-property-rights %}#translations
 
 Bitcoin wurde ins Leben gerufen, um die Wahrheit zu sagen. Unsere Aufgabe ist
 es, diese Wahrheit zu überprüfen. Dank Elektronik und Mathematik kann dies
@@ -173,7 +183,7 @@ erste Schritt.
 
 Sowohl Wörter als auch Geld können einen um den Verstand bringen, vor allem wenn
 Wörter zu Geld werden. Doch haben wir einmal etwas verstanden, dann haben wir es
-begriffen. Begriffe helfen uns, Dinge zu er-fassen, sie zu be-greifen. Ohne
+_begriffen_. Begriffe helfen uns, Dinge zu er-_fassen_, sie zu be-_greifen_. Ohne
 begreifen kein erfassen. Ohne Erfassen kein Handeln.
 
 Das Handeln ist die Grundlage, sowohl von Geld als auch von Sprache. Wir handeln
@@ -182,7 +192,7 @@ verhandeln zu müssen. Geld skaliert das friedliche Handeln. Ohne Geld kein
 Handel. Ohne Handel keine Spezialisierung. Ohne Spezialisierung keine
 Skalierung. Ohne Skalierung keine Zivilisation. Bitcoin ist Frieden.
 
-Geld ist Wert, und Maß, und Maßstab. Wir be-werten und be-messen das, was Gut
+Geld ist Wert, und Maß, und Maßstab. Wir be-_werten_ und be-_messen_ das, was Gut
 ist. Wir legen Dinge in die Waagschale, schätzen Wert und beziffern. Wir tun all
 dies, um abwägen zu können, welche Handlung die nächste sein soll.
 Gleichwertigkeit bedeutet Stillstand, denn ohne Wert und Bewertung ist jegliches
@@ -196,13 +206,13 @@ Handel. Bitcoin ist Maßstab.
 
 Geld und Sprache sind an den Wurzeln verbunden, ja regelrecht verworren. Zwei
 Seiten der gleichen Medaille, gegossen aus derselben Ursubstanz, und die
-Gussform ist die Moral. Wir sprechen über jene Dinge, über die es Wert ist,
-gesprochen zu werden. Wir prägen uns etwas in unseren Köpfen ein, so wie die
+Gussform ist die Moral. Wir sprechen über jene Dinge, über die es _Wert_ ist,
+gesprochen zu werden. Wir _prägen_ uns etwas in unseren Köpfen ein, so wie die
 Köpfe vergangener Könige in Gold eingeprägt wurden. Wir sammeln Wertgegenstände
 und wertvolle Erfahrungen, um unsere Erfahrungen wiederum in wirksames Handeln
 ummünzen zu können. Wichtig ist, was Gewicht hat. Das Wichtigste ist
 schwerwiegend. Auch Geld und Gewicht sind verschränkt, wie der englische Pfund
-uns wissen lässt. Gewichte müssen ehrlich und gerecht sein; "völlig und recht'',
+uns wissen lässt. Gewichte müssen ehrlich und gerecht sein; "völlig und recht",
 um es mit den Worten des Buches Mose zu sagen. Ohne rechte Gewichte kein Recht.
 Ohne Waage keine Justiz. Bitcoin ist Maßstab und Richter. Bitcoin ist
 Gerechtigkeit.
@@ -215,7 +225,7 @@ Schuld kann mit Geld beglichen werden. Falls Geld nicht reicht, bestimmen
 Gericht und Glaube, wie etwaige Schuld beglichen werden muss. Geld ist nicht
 Glaube, Kredit allerdings schon. Die Gläubiger glauben ihren Schuldnern.
 Glauben, dass die Schuldigen fähig sind, ihre Schuld zu begleichen; nicht mit
-Beichte oder Erlösung, nein, mit Geld, denn Geld ist das, was gilt.
+Beichte oder Erlösung, nein, mit Geld, denn Geld ist das, was _gilt_.
 
 Schuld und Glaube, Erlösung und Erlös. Wir bezahlen für unsere Sünden, können
 Lügner nicht für bare Münze nehmen. Wir schenken Aufmerksamkeit, im Gegensatz
@@ -228,7 +238,7 @@ Mit dem Geld verschwand auch die Zeit und mit ihr unsere Aufmerksamkeit. Es gibt
 sie wirklich, die Zeit-Diebe. Die grauen Herren, die glatzköpfigen Agenten der
 „Zeitsparkasse“. Wir kennen sie als Zentralbanken und Teilreserve-Magier,
 Negativzins und Inflation. Bitcoin ist das Kind, das den Menschen die gestohlene
-Zeit zurückbringt. Bitcoin ist Momo.
+Zeit zurückbringt. **Bitcoin ist Momo.**
 
 Unsere Geldscheine sind mehr Schein als Geld, nur gültig, weil sonst die
 Freiheit entfällt. Scheinheilig und unscheinbar als Goldersatz erschienen, nun
@@ -245,20 +255,24 @@ Wir sehen und hören, dass Bitcoin Verschränkung ist. Auch im musikalischen
 Sinne: “Das Ineinandergreifen zweier Phrasen, wobei der Schluss der ersten
 zugleich der Anfang einer neuen Phrase ist.” Phrasis: das Sprechen, der
 Ausdruck, die Anzeige. In unserer Petrodollar-basierten Fiat-Welt zeigt uns vor
-allem dieser den Wert von unseren Sats an. 49 Uhr 37. Bitcoin ist Moskauzeit.
+allem dieser den Wert von unseren Sats an. 49 Uhr 37. [Bitcoin ist Moskauzeit][mt].
+
+[mt]: https://twitter.com/moscowTimeBot/
 
 Die Verschränkung von Sats und Bitcoin begann mit einer Anzeige von Null: Null
 Dollar, null Euro, null Cent. Erst nach 10 Monaten hatte ein Satoshi einen Wert,
 zumindest am Markt, nicht nur subjektiv. Am Ende wird die Anzeige wieder Null
 sein, aber nicht weil Bitcoin wertlos ist, sondern weil es keine Dollar, keine
-Euro, kein Fiatgeld mehr geben wird.
+Euro, kein Fiatgeld mehr geben wird.[^fn-o]
+
+[^fn-o]: [Stufe O](https://twitter.com/dergigi/status/1518553898121842689)
 
 Damit beendet Bitcoin die Fiat-Phase dieser Welt, und wir kehren zurück zum
 Ursprung. Die Anzeige geht zurück auf Null, wie zu Anfang, als Satoshi die erste
 Node das Licht der Welt erblicken ließ. Was bleibt ist Geld, und Wert, und
 Wertigkeit, und Bitcoin. Denn Bitcoin ist, und Bitcoin wird bleiben. Weil es
 stabil ist, und einfach, und verständlich, und sinnvoll, und vernünftig. Doch
-beginnen und enden muss es mit Dir, und der Verschränkung mit deinen 12 Wörtern.
+beginnen und enden muss es mit _Dir_, und der Verschränkung mit deinen 12 Wörtern.
 
 ---
 
@@ -270,3 +284,5 @@ originally in print for the first issue of the
 copy at
 [einundzwanzig.shop](https://einundzwanzig.shop/p/einundzwanzig-magazin-ausgabe-1/)
 </small>
+
+---
