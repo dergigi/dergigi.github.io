@@ -9,6 +9,7 @@ image: /assets/images/crypto-bros.jpg
 redirect_from: /crypto
 author: Gigi
 category: bitcoin
+favorite: true
 tags:
  - Bitcoin
  - Writing
