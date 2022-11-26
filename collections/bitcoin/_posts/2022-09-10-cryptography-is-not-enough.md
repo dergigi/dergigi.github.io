@@ -183,9 +183,9 @@ would fall apart.
 
 ### Transcript
 
-The transcript is auto-generated and probably contains errors and inaccuracies,
-as well as parts that were cut from the video because talking into a microphone
-is hard.
+The transcript was auto-generated at first and later corrected by Ivan, who also
+created a Russian [translation](#translations) of both the transcript, and the
+video. Thank you, Ivan. 🙏
 
 ```
 
