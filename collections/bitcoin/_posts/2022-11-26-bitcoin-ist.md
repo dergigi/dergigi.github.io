@@ -261,9 +261,9 @@ Wir sehen und hören, dass Bitcoin Verschränkung ist. Auch im musikalischen
 Sinne: “Das Ineinandergreifen zweier Phrasen, wobei der Schluss der ersten
 zugleich der Anfang einer neuen Phrase ist.” Phrasis: das Sprechen, der
 Ausdruck, die Anzeige. In unserer Petrodollar-basierten Fiat-Welt zeigt uns vor
-allem dieser den Wert von unseren Sats an. 49 Uhr 37. [Bitcoin ist Moskauzeit][mt].
+allem dieser den Wert von unseren Sats an. 49 Uhr 37. Bitcoin ist Moskauzeit.[^fn-mt]
 
-[mt]: https://twitter.com/moscowTimeBot/
+[^fn-mt]: [Moscow Time](https://twitter.com/moscowTimeBot/)
 
 Die Verschränkung von Sats und Bitcoin begann mit einer Anzeige von Null: Null
 Dollar, null Euro, null Cent. Erst nach 10 Monaten hatte ein Satoshi einen Wert,
