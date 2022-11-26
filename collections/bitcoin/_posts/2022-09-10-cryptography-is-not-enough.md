@@ -183,9 +183,9 @@ would fall apart.
 
 ### Transcript
 
-The transcript was auto-generated at first and later corrected by Ivan, who also
+The transcript was auto-generated at first and later corrected by Ivan and Tony, who also
 created a Russian [translation](#translations) of both the transcript, and the
-video. Thank you, Ivan. 🙏
+video. Thanks to both. 🙏
 
 ```
 
