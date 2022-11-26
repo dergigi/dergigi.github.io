@@ -183,7 +183,7 @@ erste Schritt.
 
 Sowohl Wörter als auch Geld können einen um den Verstand bringen, vor allem wenn
 Wörter zu Geld werden. Doch haben wir einmal etwas verstanden, dann haben wir es
-_begriffen_. Begriffe helfen uns, Dinge zu er-_fassen_, sie zu be-_greifen_. Ohne
+*begriffen*. Begriffe helfen uns, Dinge zu er-*fassen*, sie zu be-*greifen*. Ohne
 begreifen kein erfassen. Ohne Erfassen kein Handeln.
 
 Das Handeln ist die Grundlage, sowohl von Geld als auch von Sprache. Wir handeln
@@ -192,7 +192,7 @@ verhandeln zu müssen. Geld skaliert das friedliche Handeln. Ohne Geld kein
 Handel. Ohne Handel keine Spezialisierung. Ohne Spezialisierung keine
 Skalierung. Ohne Skalierung keine Zivilisation. Bitcoin ist Frieden.
 
-Geld ist Wert, und Maß, und Maßstab. Wir be-_werten_ und be-_messen_ das, was Gut
+Geld ist Wert, und Maß, und Maßstab. Wir be-*werten* und be-*messen* das, was Gut
 ist. Wir legen Dinge in die Waagschale, schätzen Wert und beziffern. Wir tun all
 dies, um abwägen zu können, welche Handlung die nächste sein soll.
 Gleichwertigkeit bedeutet Stillstand, denn ohne Wert und Bewertung ist jegliches
