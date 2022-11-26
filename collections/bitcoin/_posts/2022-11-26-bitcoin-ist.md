@@ -5,6 +5,7 @@ date: 2022-11-26
 blocktime: 751,372
 image: /assets/images/crypto-bros.jpg
 redirect_from: /momo
+source: https://einundzwanzig.shop/p/einundzwanzig-magazin-ausgabe-1/
 author: Gigi
 category: bitcoin
 language: German
