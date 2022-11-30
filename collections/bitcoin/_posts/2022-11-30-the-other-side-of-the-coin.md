@@ -24,9 +24,8 @@ we don\'t want anyone to hold the \"master key.\"
 
 [cryptography]: {{ '/cryptography' | absolute_url }}
 
-In Bitcoin, your private key is only one-half of the equation. You also
-need the public ledger, which records the information that is public to
-all.
+In Bitcoin, your private key is only one-half of the equation. You also need the
+so-called public ledger, which records the information that is public to all.
 
 To ensure that public information has integrity---without falling back to
 cryptography, which requires private information and thus secrecy---we need to
