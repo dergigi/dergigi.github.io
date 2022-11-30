@@ -22,7 +22,7 @@ enough. Why? 
 secrecy. It requires key holders, and when it comes to a global monetary system,
 we don\'t want anyone to hold the \"master key.\"
 
-[cryptography]: {{ '/crypography' | absolute_url }}
+[cryptography]: {{ '/cryptography' | absolute_url }}
 
 In Bitcoin, your private key is only one-half of the equation. You also
 need the public ledger, which records the information that is public to
