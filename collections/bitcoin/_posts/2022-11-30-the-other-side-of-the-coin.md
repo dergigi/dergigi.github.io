@@ -4,7 +4,7 @@ title: "The Other Side of the Coin"
 subtitle: "Computational proof of the chronological order of transactions"
 description: "Without the luxury of private keys, we can't use cryptography to construct a shield in cyberspace. We have to use computation directly."
 date: 2022-11-30
-blocktime: TODO
+blocktime: 765335
 image: /assets/images/coin-tree.jpg
 redirect_from: /computation
 author: Gigi
