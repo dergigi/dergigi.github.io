@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Other Side of the Coin"
-subtitle: Cryptography is not enough.
+subtitle: Computational proof of the chronological order of transactions
 description: The coin is dead, long live the coin!
 date: 2022-11-30
 blocktime: TODO
@@ -18,11 +18,11 @@ tags:
 Cryptography is only one side of the coin, and cryptography is not
 enough. Why? 
 
-[Cryptography is not
-enough](https://dergigi.com/2022/09/10/cryptography-is-not-enough/) because
-cryptography requires secrecy. It requires key holders, and when it
-comes to a global monetary system, we don\'t want anyone to hold the
-\"master key.\"
+[Cryptography is not enough][cryptography] because cryptography requires
+secrecy. It requires key holders, and when it comes to a global monetary system,
+we don\'t want anyone to hold the \"master key.\"
+
+[cryptography]: {{ '/crypography' | absolute_url }}
 
 In Bitcoin, your private key is only one-half of the equation. You also
 need the public ledger, which records the information that is public to
@@ -57,7 +57,7 @@ no private keys. There is no secrecy. Everything is out in the open for
 anyone to look at. Openness allows for public verification, and it is
 public verification that removes trusted third parties & inspires awe.
 
-\[IMAGE: David\]
+{% include image.html name="david-small.jpg" caption="Oldschool proof-of-work by Michelangelo. Photo by Jörg Bittner Unna" %}
 
 That\'s why Bitcoin is \"high art,\" why [Bitcoin Can\'t Be
 Copied](https://bitcoin-resources.com/articles/bitcoin-cant-be-copied/),
@@ -95,18 +95,16 @@ never more.
 
 Bitcoin\'s heartbeat is what connects the two, and what makes the coin
 whole. Tick-tock, next block. Every [**10
-minutes**](https://21-ways.com/2/). Every 10 minutes. Every 10 minutes.
-\[Footnote: Link to Ross Stevens\]
+minutes**](https://21-ways.com/2/). Every 10 minutes. Every 10 minutes.[^fn-ross]
 
-\[VIDEO: Cryptography is not enough\]
+[^fn-ross]: "Amidst attention-grabbing headlines this week that will be talked about for decades, I want to bring your attention to one far more profound and awe-inspiring non-headline: every 10 minutes a new bitcoin block was produced. Every 10 minutes. Every 10 minutes." ---[Ross Stevens][ross]
+
+[ross]: https://archive.ph/v0xwH
 
 ---
 
-<small>
-Thanks to [my patrons][patreon] for the excellent feedback
-on early drafts of this letter.
-</small>
-
-[patreon]: https://www.patreon.com/dergigi
+<div class="flex-vid">
+  <iframe src="https://www.youtube-nocookie.com/embed/C7ynm0Zkwfk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---
