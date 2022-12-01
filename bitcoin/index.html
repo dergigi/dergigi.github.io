@@ -15,6 +15,15 @@ layout: default
   <div id="markdown" class="grid">
     <hr/>
     <p>
+    Not all code is words, but some words are code:
+    </p>
+    <p>
+        {% for post in site.categories.bitcoin %}
+          <a href="{{ post.url }}" title="{{ post.title }}">{{ post.redirect_from }}</a>
+        {% endfor %}
+    </p>
+    <hr/>
+    <p>
       Proud host of the <a href="../bitcoin.pdf">Bitcoin Whitepaper</a>.
     </p>
     <p>

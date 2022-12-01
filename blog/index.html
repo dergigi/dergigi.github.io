@@ -12,6 +12,15 @@ redirect_from: photography
       {% endfor %}
     </div>
   </div>
-  <!-- TODO: Fix pagination -->
-  <!-- {% include pagination.html %} -->
+  <div id="markdown" class="grid">
+    <hr/>
+    <p>
+    Not all code is words, but some words are code:
+    </p>
+    <p>
+        {% for post in site.categories.photography %}
+          <a href="{{ post.url }}" title="{{ post.title }}">{{ post.redirect_from }}</a>
+        {% endfor %}
+    </p>
+  </div>
 </div>
