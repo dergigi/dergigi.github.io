@@ -1,0 +1,17 @@
+{% if include.posts %}
+{% assign posts = include.posts %}
+{% else %}
+{% assign posts = site.posts %}
+{% endif %}
+
+<div id="markdown" class="grid">
+  <hr/>
+  <p>
+  Not all code is words, but some words are code:
+  </p>
+  <p>
+      {% for post in posts %}
+        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.redirect_from }}</a>
+      {% endfor %}
+  </p>
+</div>
