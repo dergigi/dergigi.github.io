@@ -104,6 +104,8 @@ money for money\'s sake is the root of all evil. Consequently, we
 ignored the root of all monetary evil for far too long: the government
 monopoly on the issuance and control of money. 
 
+{% include image.html name="root-of-all-monetary-evil.jpg" link="https://amzn.to/3is3L37" %}
+
 [Money production is an ethical
 question](https://bitcoin-resources.com/books/the-ethics-of-money-production).
 The printing of money is a moral failure, and shitcoinery is nothing but
