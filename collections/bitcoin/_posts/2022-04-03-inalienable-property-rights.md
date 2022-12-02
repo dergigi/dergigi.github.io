@@ -538,6 +538,8 @@ Bitcoin when it was still a sapling. Bitcoin is not a sapling anymore, but the
 same forces are still at play: an endless loop of words and values, protecting
 themselves by running the numbers.
 
+<a id="loop"/>
+
 [^hornets-nest]: \"It would have been nice to get this attention in any other context. WikiLeaks has kicked the hornet\'s nest, and the swarm is headed towards us.\" ---[Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/542/)
 
 {% include image.html name="bitcoin-sats-loop.png" %}
