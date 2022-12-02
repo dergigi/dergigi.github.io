@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Bitcoin Is the Rediscovery of Money"
-subtitle: ""
-description: ""
+description: "We forgot what money is. Bitcoin makes us remember."
 date: 2022-12-02
-blocktime: TODO
+blocktime: 765645
 image: /assets/images/cave-painting.jpg
 redirect_from: /rediscovery
 author: Gigi
