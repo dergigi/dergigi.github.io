@@ -8,7 +8,7 @@ image: /assets/images/cave-painting.jpg
 redirect_from: /rediscovery
 author: Gigi
 category: bitcoin
-favorite: false
+favorite: true
 tags:
  - Bitcoin
  - Writing

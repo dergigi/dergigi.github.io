@@ -9,7 +9,7 @@ image: /assets/images/coin-tree.jpg
 redirect_from: /computation
 author: Gigi
 category: bitcoin
-favorite: true
+favorite: false
 tags:
  - Bitcoin
  - Writing

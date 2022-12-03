@@ -10,7 +10,7 @@ source: https://einundzwanzig.shop/p/einundzwanzig-magazin-ausgabe-1/
 author: Gigi
 category: bitcoin
 language: German
-favorite: true
+favorite: false
 tags:
  - Bitcoin
  - Writing
