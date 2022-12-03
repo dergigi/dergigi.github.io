@@ -128,6 +128,7 @@ adjustment is what makes it an autopoietic system: capable of
 maintaining and [reproducing itself][life].
 
 [loop]: {{ '/2022/04/03/inalienable-property-rights/#loop' | absolute_url }}
+[life]: {{ '/life' | absolute_url }}
 
 All shitcoins will wither into irrelevance as a consequence of
 Bitcoin\'s continued existence. They will become irrelevant because the
