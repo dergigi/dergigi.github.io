@@ -147,10 +147,16 @@ Every 10 minutes, Bitcoin reasserts itself. [Every 10 minutes][10m].
 And you can be part of it. You can do the work, educate yourself, hold your own
 keys, and 
 [run your own node](https://bitcoin-resources.com/articles/towarda-node-world-order/).
-That\'s all that bitcoin requires of you. A little bit of [responsibility].
+That\'s all that bitcoin requires of you. A little bit of [responsibility]. 
+
+If you don't hold your own keys, you don't hold bitcoin---but IOUs.
+If you don't run your own node, you have no say in 
+Bitcoin---you are beholden to someone else's idea of Bitcoin.
 
 [responsibility]: {{ '/responsibility' | absolute_url }}
 
+For bitcoin to be *your* money, you have to hold your own keys, 
+and you have to *verify* with your own node.
 And with that, *you* too can rediscover money. You can rediscover what
 it means to have deep stability and autonomy. You can put in the work,
 and you can transform yourself into a [sovereign
