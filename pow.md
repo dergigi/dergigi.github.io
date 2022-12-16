@@ -13,7 +13,8 @@ Read the following, in order:
 1. [A failure to understand proof of work is a failure to understand Bitcoin][tw-pow]
 2. [Memes vs The World][tw-meme-world] - How information differs from physical objects
 3. [Bitcoin is Time][time] - How Bitcoin decentralizes time itself
-4. [Bitcoin's Energy Consumption][energy] - A shift in perspective
+4. [Bitcoin is Digital Scarcity][digital]
+5. [Bitcoin's Energy Consumption][energy] - A shift in perspective
 
 ---
 
@@ -50,4 +51,5 @@ Reports by [Arcane Research][arcane], the [Bitcoin Mining Council][bmc], and the
 [tw-pow]: {{ '/powthread' | absolute_url }}
 [tw-meme-world]: {{ '/memeworld' | absolute_url }}
 [time]: {% post_url /bitcoin/2021-01-14-bitcoin-is-time %}
+[digital]: {% post_url /bitcoin/2022-10-02-bitcoin-is-digital-scarcity %}
 [energy]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
