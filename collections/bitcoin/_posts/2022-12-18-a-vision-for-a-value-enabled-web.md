@@ -91,9 +91,7 @@ penny. For anything smaller than this unit, we had to do batch
 transactions, selling multiple items for a single penny; or we had to
 give the item away for free.
 
-TODO: Cut the image down, and insert it.
-
-https://www.ignitespot.com/hs-fs/hubfs/BuyWithANickelOK.png?width=2048&name=BuyWithANickelOK.png
+{% include image.html name="nickel-100yrs-ago.png" caption="Source: What Could You Buy With a Nickel? A century of chump change, by Ignite Spot." %}
 
 Counter-intuitively, the limitations in cyberspace are even larger. Ask
 yourself: why can\'t we buy things online for pennies or fractions of a
