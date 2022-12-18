@@ -5,7 +5,7 @@ description: "TODO"
 date: 2022-12-18
 blocktime: TODO
 image: /assets/images/vew.jpg
-redirect_from: /rediscovery
+redirect_from: /vew
 author: Gigi
 category: bitcoin
 favorite: true
