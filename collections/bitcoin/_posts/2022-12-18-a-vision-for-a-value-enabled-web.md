@@ -15,8 +15,10 @@ tags:
 ---
 
 We all know that the Web is broken in more ways than one. Clickbait,
-misinformation, bot farms, anonymous \"troll-demons\"---the list is as
+misinformation, bot farms, anonymous \"troll-demons\"[^fn-td]---the list is as
 endless as it is depressing. How did we end up here? 
+
+[^fn-td]: Jordan, Jordan, [Jordan](https://twitter.com/jordanbpeterson/status/1593691037121228801)... There is a mute button. There is a block button. Please use it, and don't feed the trolls.
 
 I believe there is a single-phrase answer to all these ills. But
 single-phrase answers are often too simplistic and thus too easily
@@ -532,7 +534,10 @@ to the creation of digital things that can be reproduced at zero
 marginal cost. Everyone will have to grapple with the fundamental nature
 of digital information (that it can be reproduced perfectly and for
 free) as well as the fundamental nature of humans (that they need to
-eat). Everyone. Even platforms like YouTube and Spotify:
+eat). Everyone. Even platforms like YouTube[^fn-yt] and Spotify:[^fn-spotify]
+
+[^fn-yt]: https://archive.vn/Di8SE https://archive.vn/pLe5B
+[^fn-spotify]: https://archive.vn/tVS8n
 
 {% include image.html name="spotify-youtube-twitch.png" caption="Today, all of these are credit, sent on credit rails. Tomorrow, they could be sats." %}
 
