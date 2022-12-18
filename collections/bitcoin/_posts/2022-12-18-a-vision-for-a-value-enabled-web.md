@@ -15,10 +15,8 @@ tags:
 ---
 
 We all know that the Web is broken in more ways than one. Clickbait,
-misinformation, bot farms, anonymous \"troll-demons\"[^fn-td]---the list is as
+misinformation, bot farms, anonymous \"troll-demons\"---the list is as
 endless as it is depressing. How did we end up here? 
-
-[^fn-td]: Jordan, Jordan, [Jordan](https://twitter.com/jordanbpeterson/status/1593691037121228801)... There is a mute button. There is a block button. Please use it, and don't feed the trolls.
 
 I believe there is a single-phrase answer to all these ills. But
 single-phrase answers are often too simplistic and thus too easily
@@ -320,7 +318,8 @@ separations that we are so used to in meatspace. The guy replying to
 your tweet might be trolling, might be a bot, might be 12 years old,
 might be heavily intoxicated, or all of the above.
 
-Boomers are known to bemoan the armies of \"anonymous troll-demons.\"
+Some ~~boomers~~ people bemoan the armies of \"anonymous troll-demons,\" seemingly
+incapable of dealing with the roughness of pseudonymous online discourse.[^fn-td]
 They want to fix the problem in an old-school way, forcing everyone and
 anyone to show their face and attach their meatspace identity to their
 online profiles. Those who grew up with and in between trolls---playing
@@ -328,6 +327,8 @@ countless hours of competitive online games, for example---know that
 online interactions and online identity are to be categorized
 differently than offline interactions and identities. \"Don\'t feed the
 trolls\" is a wisdom of online culture, and for good reason.
+
+[^fn-td]: Jordan, Jordan, [Jordan](https://twitter.com/jordanbpeterson/status/1593691037121228801)... There is a mute button. There is a block button. Please use it, and don't feed the trolls.
 
 Forcing KYC on any platform, service, or app is a naive and
 short-sighted approach to fixing the problem of identity. It is
