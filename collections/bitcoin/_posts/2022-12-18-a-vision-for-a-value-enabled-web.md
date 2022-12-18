@@ -202,9 +202,10 @@ attention as currency is---at least in part---to blame for the loss of
 nuanced discourse and the increase in polarization, be it political or
 otherwise.[^fn-polarization]
 
-[^fn-polarization]: The visualization of the political polarization in the U.S. Senate is something to behold: [Team Red and Team Blue, drifting apart][pp].
+[^fn-polarization]: The visualization of the political polarization in the U.S. Senate is something to behold: [Team Red and Team Blue, drifting apart][pp]. Data by Clio Andris, David Lee, Christian E. Gunning, John A. Selden, Mauro Martino and Marcus J. Hamilton, visualization by [Mauro Martino][mm]
 
 [pp]: {{ '/assets/images/bitcoin/2022-12-18-a-vision-for-a-value-enabled-web/party-polarization.png' | absolute_url }}
+[mm]: https://www.mamartino.com/projects/rise_of_partisanship/
 
 Time and attention are the ultimate currencies. There is a reason why we
 \"spend\" the first and \"pay\" the latter. And while we do indeed
