@@ -214,16 +214,12 @@ accumulation as it is for distributed cognition, and if the money is
 broken, both of these things deteriorate. And with it, so does our time
 and attention.
 
-By using attention as the de facto currency online, we destroyed depth and
-nuance, as well as our collective attention spans. We build tools to harvest
-attention, capturing audiences and being captured by audiences alike.
-
-{% include image.html name="msm-attention.jpg" caption="Number of headlines that tell you that the money is broken? Zero." %}
-
+By using attention as the de facto currency online, we destroyed depth
+and nuance, as well as our collective attention spans.
 
 Now that I hopefully have yours---your attention, that is---I will
 finally use the single-phrase answer that I refused to use in the
-beginning: *Bitcoin fixes this.*
+beginning: Bitcoin fixes this.
 
 Bitcoin fixes this because, for the first time in history, we have
 high-velocity, digitally native money without having to rely on credit.
