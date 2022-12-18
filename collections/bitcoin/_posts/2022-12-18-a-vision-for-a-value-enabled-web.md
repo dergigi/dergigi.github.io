@@ -251,10 +251,10 @@ stability, and *real* costs.
 
 **Reduced friction:** Intermediaries introduce friction. Cash reduces
 friction. An Italian comedian once said that \"the whole *point* of
-money is to NOT know your customer.\" Note that this is also what made
+money is to NOT know your customer.\"[^fn-giacomo] Note that this is also what made
 the internet great. The whole point of \"the web\" was to NOT know who
 is on the other side of the computer. \"[True Names][names]\" are not 
-required, to quote Vernor Vinge.[^fn-giacomo]
+required, to quote Vernor Vinge.
 
 [names]: {{ '/names' | absolute_url }}
 
@@ -319,7 +319,8 @@ comedy club. Identity isn\'t singular. Identity is prismatic.
 Cyberspace flattens both time and space, dissolving the prismatic
 separations that we are so used to in meatspace. The guy replying to
 your tweet might be trolling, might be a bot, might be 12 years old,
-might be heavily intoxicated, or all of the above.
+might be heavily intoxicated, or all of the above. 
+You don't know, and that's a feature, not a bug.
 
 Some ~~boomers~~ people bemoan the armies of \"anonymous troll-demons,\" seemingly
 incapable of dealing with the roughness of pseudonymous online discourse.[^fn-td]
