@@ -220,6 +220,8 @@ and attention.
 By using attention as the de facto currency online, we destroyed depth
 and nuance, as well as our collective attention spans.
 
+{% include image.html name="scarlett.png" caption="Memes: the weapons of attention warfare." %}
+
 Now that I hopefully have yours---your attention, that is---I will
 finally use the single-phrase answer that I refused to use in the
 beginning: *Bitcoin fixes this.*
