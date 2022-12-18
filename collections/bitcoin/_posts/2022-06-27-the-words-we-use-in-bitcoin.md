@@ -514,9 +514,11 @@ time](https://dergigi.com/2021/01/14/bitcoin-is-time/) in a
 decentralized system, the problem of random selection, the problem of
 fair issuance, and the problem of unforgeable costliness in the digital
 realm. It embeds [objective
-truth](https://dergigi.com/2022/04/03/inalienable-property-rights/#reify)
+truth][reify]
 into a blob of data directly, which is why it is trustless and reliable.
 The information "speaks for itself," to quote Satoshi.[^satoshi]
+
+[reify]: {{ '2022/04/03/inalienable-property-rights/#reify' | absolute_url }}
 
 [^satoshi]: "Proof-of-work has the nice property that it can be relayed through untrusted middlemen.  We don't have to worry about a chain of custody of communication.  It doesn't matter who tells you a longest chain, the proof-of-work speaks for itself." ---[Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/327/) (2010)
 
