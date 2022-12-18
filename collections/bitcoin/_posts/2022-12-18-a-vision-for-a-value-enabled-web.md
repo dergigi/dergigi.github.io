@@ -204,7 +204,7 @@ attention as currency is---at least in part---to blame for the loss of
 nuanced discourse and the increase in polarization, be it political or
 otherwise.
 
-\[IMAGE: Party Polarization\]
+{% include image.html name="party-polarization.png" caption="The money is broken, and so is our political landscape." %}
 
 Time and attention are the ultimate currencies. There is a reason why we
 \"spend\" the first and \"pay\" the latter. And while we do indeed
