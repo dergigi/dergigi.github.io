@@ -170,13 +170,9 @@ Because of credit, every single service you want to pay for online
 forces you into a contract that binds you for multiple weeks or months
 because single payments below \~\$5 are not economically feasible.
 
-It\'s all because of credit. Cash does not have these problems. 
+It\'s all because of credit. Cash does not have these problems.[^fn-credit]
 
-\[Footnote: Note that I\'m glossing over the fact that all fiat money is
-credit. Let\'s just assume, for the sake of arguing for a Value-Enabled
-Web, that all conventional currencies are still backed by gold. Let\'s
-assume that [nothing happened in
-1971](https://wtfhappenedin1971.com/).\]
+[^fn-credit]: Note that I\'m glossing over the fact that all fiat money is credit. Let\'s just assume, for the sake of arguing for a Value-Enabled Web, that all conventional currencies are still backed by gold. Let\'s assume that [nothing happened in 1971](https://wtfhappenedin1971.com/).
 
 ### Attention
 
@@ -254,11 +250,12 @@ stability, and *real* costs.
 friction. An Italian comedian once said that \"the whole *point* of
 money is to NOT know your customer.\" Note that this is also what made
 the internet great. The whole point of \"the web\" was to NOT know who
-is on the other side of the computer. \"[True
-Names](https://dergigi.com/2020/07/21/true-names-not-required/)\" are
-not required, to quote Vernor Vinge. 
+is on the other side of the computer. \"[True Names][names]\" are not 
+required, to quote Vernor Vinge.[^fn-giacomo]
 
-\[\^fn-giacomo\]: https://youtu.be/zp1B_i4JlXc?t=1401
+[names]: {{ '/names' | absolute_url }}
+
+[^fn-giacomo]: https://youtu.be/zp1B_i4JlXc?t=1401
 
 **Peer-to-peer:** All physical money is peer-to-peer technology. If you
 have a physical coin, it is yours. You are not beholden to anyone when
@@ -267,10 +264,11 @@ that is willing to trade with you. Yes, intermediaries might still
 exist, but they are less important. They are less important because they
 are not essential anymore. In a credit-based system, trusted third
 parties are not optional: they are absolutely necessary. In a cash-based
-system, they are mostly superfluous.
+system, they are mostly superfluous.[^fn-szabo]
 
-\[fn-szabo\]: In Bitcoin, they are security holes: Trusted third parties
-are security holes.
+[^fn-szabo]: In Bitcoin, [trusted third parties are security holes][ttpsh].
+
+[ttpsh]: https://bitcoin-resources.com/articles/trusted-third-parties-are-security-holes/
 
 **Neutrality & systemic stability:** Protocols, like math and language,
 are neutral systems. Anyone can use them, and no single person or entity
@@ -279,9 +277,9 @@ makes a system resilient. Openness & neutrality provide inclusivity and
 a level playing field for all. When it comes to money, any lack of
 openness inevitably leads to financial censorship, and any lack of
 neutrality inevitably leads to bailouts, Cantillionaires, and systemic
-instability.
+instability.[^fn-cantillion]
 
-\[\^fn-cantillion\]: https://duckduckgo.com/?q=cantillion+effect
+[^fn-cantillion]: https://duckduckgo.com/?q=cantillion+effect
 
 **Real cost:** Electronic money that is natively digital allows us to
 attach *real* costs to actions in cyberspace. It allows us to move away
@@ -292,10 +290,9 @@ costly without having to go to the extreme of destroying the public
 personas of those who slipped up. It allows us to do all these things
 because real money does not require real identity, and yet has a real
 cost. Real cost makes spam bots uneconomical and disincentivizes
-antisocial behavior.
+antisocial behavior.[^fn-saylor]
 
-\[\^fn-saylor\]:
-https://pod.link/1534519469/episode/54931b6a4142335fdc84ce249b59469a
+[^fn-saylor]: https://pod.link/1534519469/episode/54931b6a4142335fdc84ce249b59469a
 
 ### Identity
 
@@ -406,9 +403,9 @@ all pieces are known yet, let alone in place. Nevertheless, many people
 are working on various technologies and protocols that might help to fix
 some of the issues described above. My hope is that---once we understand
 the problems properly and have the right thesis and vision---we will
-figure out the details as we go along.
+figure out the details as we go along.[^fn-tbd]
 
-\[fn-tbd\]: Notable mentions are TBD, Web5, Holepunch, ION, nostr, etc.
+[^fn-tbd]: Notable mentions are TBD, Web5, Holepunch, ION, nostr, etc. TODO: add links!
 
 ### Thesis
 
@@ -448,9 +445,10 @@ that thing. It doesn\'t matter if that thing is a JPG, a blog post, or
 an mp3 file. If it can be copied by anyone quickly, perfectly, and for
 basically free, the supply of said thing quickly approaches infinity. We
 move from the analog world of scarcity into the digital world of
-abundance. Markets don\'t work in this world. In the words of [Jaron
-Lanier](https://www.goodreads.com/book/show/15802693-who-owns-the-future):
-\"Markets become absurd as supply approaches infinity.\"
+abundance. Markets don\'t work in this world. In the words of Jaron
+Lanier: \"Markets become absurd as supply approaches infinity.\"[^fn-lanier]
+
+[^fn-lanier]: Lanier's book [Who Owns the Future](https://www.goodreads.com/book/show/15802693-who-owns-the-future) describes the problem we face well, but it fails to offer a solution that is viable and practical. In my humble opinion, Lanier tries to make water not wet.
 
 Traditional paywalls in the form of \"pay 10 cents to read the
 blogpost\" are trying to restrict supply and/or access artificially. It
@@ -525,7 +523,7 @@ anonymous or pseudonymous notes is a novel way to show your appreciation
 directly and clearly. A big \"thank you\" online---directly and with a
 costly signal attached. It is a delight to read these small messages. As
 an early adopter, I have the privilege of glimpsing into the future as I
-read the messages that are sent to s@ts.dergigi.com every morning. My
+read the messages that are sent to `s@ts.dergigi.com` every morning. My
 hope is that, given enough time and improvements, this delight will be
 ubiquitous.
 
@@ -536,9 +534,7 @@ of digital information (that it can be reproduced perfectly and for
 free) as well as the fundamental nature of humans (that they need to
 eat). Everyone. Even platforms like YouTube and Spotify:
 
-\[TODO: Add YouTube money comment screenshots.\]
-
-\[TODO: Add Spotify money support screenshots.\]
+{% include image.html name="spotify-youtube-twitch.png" caption="Today, all of these are credit, sent on credit rails. Tomorrow, they could be sats." %}
 
 What I mean when I say \"value-enabled web\" is a broad framework for
 thinking about these technologies and trends, including the open
@@ -569,11 +565,12 @@ revolve around the following ideas:
 -   Allow those who add value to participate in value flows.
 -   Make unethical behavior costly.
 -   Provide tools & services that add value and bring joy.
--   Use money for monetization, not attention. \[Footnote: Bitcoin is
-    the only sound money in cyberspace we have.\]
+-   Use money for monetization, not attention.[^fn-bitcoin-only]
 -   Sell services, not user data.
 -   Keep exit costs low.
 -   Build on sats, not IOUs.
+
+[^fn-bitcoin-only]: Bitcoin is [unique](https://bitcoin-resources.com/articles/#bitcoins-uniqueness), and the only sound money in cyberspace we have. 
 
 Businesses should not spend their time role-playing as credit
 institutions. In the best case, they shouldn\'t have to know who their
@@ -634,12 +631,12 @@ generated in online environments---without gatekeepers and sign-up
 requirements---we can provide more value for more people. 
 
 In a value-enabled web, anyone can benefit, not only those who are in
-control of the servers that farm our time and attention. Value for
-anyone, not just for those who have credit ratings and bank accounts. 
+control of the servers that farm our time and attention. More prosperity for
+everyone, not just for those who have credit ratings and bank accounts. 
 
-Fatten the long tail.
+Include anyone in the value flow. Fatten the long tail.
 
-\[TODO: Insert image?\]
+{% include image.html name="long-tail.jpg" caption="All the attention economy can do is blow up the head. Sat-flows can fatten the long tail." %}
 
 The vision of a value-enabled web is a return to substance and sanity. A
 move away from clickbait and attention farming. A counter to Orwellian
@@ -672,5 +669,9 @@ less spam, and---hopefully---a reduction of dark patterns and addictive
 behavior.
 
 It\'s [Day 2][day2] for the internet, and it\'s time to fix it.
+
+---
+
+
 
 [day2]: https://twitter.com/dergigi/status/1596127000590053376
