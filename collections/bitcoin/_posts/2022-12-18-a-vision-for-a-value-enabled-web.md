@@ -640,7 +640,7 @@ everyone, not just for those who have credit ratings and bank accounts. 
 
 Include anyone in the value flow. Fatten the long tail.
 
-{% include image.html name="long-tail.jpg" caption="All the attention economy can do is blow up the head. Sat-flows can fatten the long tail." %}
+{% include image.html name="long-tail.png" caption="All the attention economy can do is blow up the head. Sat-flows can fatten the long tail." %}
 
 The vision of a value-enabled web is a return to substance and sanity. A
 move away from clickbait and attention farming. A counter to Orwellian
