@@ -407,9 +407,15 @@ all pieces are known yet, let alone in place. Nevertheless, many people
 are working on various technologies and protocols that might help to fix
 some of the issues described above. My hope is that---once we understand
 the problems properly and have the right thesis and vision---we will
-figure out the details as we go along.[^fn-tbd]
+figure out the details as we go along.[^fn-tbd][^fn-nostr]
 
 [^fn-tbd]: Notable mentions include [TBD][tbd]'s [Web5][web5], [Holepunch][hp], [ION][ion], and [nostr][nostr]. (I'm sure there are many more, feel free to add them via a PR.)
+
+[^fn-nostr]: I wrote the bulk of this post about a month before it was published, so all of this was written before Jack [endorsed] and [funded] nostr, and before Elon [banned] the promotion of it (and other twitter competitors).
+
+[endorsed]: {{ '/assets/images/bitcoin/2022-12-18-a-vision-for-a-value-enabled-web/nostr-endorsement.png' | absolute_url }}
+[funded]: {{ '/assets/images/bitcoin/2022-12-18-a-vision-for-a-value-enabled-web/nostr-funding.jpg' | absolute_url }}
+[banned]: {{ '/assets/images/bitcoin/2022-12-18-a-vision-for-a-value-enabled-web/nostr-ban.jpg' | absolute_url }}
 
 [tbd]: https://tbd.website
 [web5]: https://developer.tbd.website/projects/web5/
