@@ -595,7 +595,6 @@ it feels beyond antiquated to deal with the legacy payment rails of our
 fiat world.
 
 [^fn-better]: Mastroianni, Adam, and Ethan Ludwin-Peery. “[Things Could Be Better.][better-link]” PsyArXiv, 14 Nov. 2022. Web.
-Chicago
 
 [better-link]: https://psyarxiv.com/2uxwk/
 
