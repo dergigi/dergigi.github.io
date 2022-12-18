@@ -545,10 +545,9 @@ to the creation of digital things that can be reproduced at zero
 marginal cost. Everyone will have to grapple with the fundamental nature
 of digital information (that it can be reproduced perfectly and for
 free) as well as the fundamental nature of humans (that they need to
-eat). Everyone. Even platforms like YouTube[^fn-yt] and Spotify:[^fn-spotify]
+eat). Everyone. Even platforms like YouTube and Spotify:[^fn-yt]
 
-[^fn-yt]: https://archive.vn/Di8SE https://archive.vn/pLe5B
-[^fn-spotify]: https://archive.vn/tVS8n
+[^fn-yt]: See [this](https://archive.vn/Di8SE) and [this](https://archive.vn/pLe5B) for YouTube, and [this](https://archive.vn/tVS8n) for Spotify, for example. 
 
 {% include image.html name="spotify-youtube-twitch.png" caption="Today, all of these are credit, sent on credit rails. Tomorrow, they could be sats." %}
 
@@ -586,7 +585,7 @@ revolve around the following ideas:
 -   Keep exit costs low.
 -   Build on sats, not IOUs.
 
-[^fn-bitcoin-only]: Bitcoin is [unique](https://bitcoin-resources.com/articles/#bitcoins-uniqueness), and the only sound money in cyberspace we have. 
+[^fn-bitcoin-only]: Bitcoin is [unique](https://bitcoin-resources.com/articles/#bitcoins-uniqueness), as it is the only reliable and battle-tested money that is natively digital and has an unbroken track record when it comes ot the integrity of its monetary policy. No other money can claim this. Consequently, bitcoin is the only sound money in cyberspace. 
 
 Businesses should not spend their time role-playing as credit
 institutions. In the best case, they shouldn\'t have to know who their
