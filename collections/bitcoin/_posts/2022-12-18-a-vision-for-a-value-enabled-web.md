@@ -223,11 +223,12 @@ beginning: Bitcoin fixes this.
 
 Bitcoin fixes this because, for the first time in history, we have
 high-velocity, digitally native money without having to rely on credit.
-Not IOUs. Not credit relationships. Good, [old-fashioned
-money](https://dergigi.com/2022/12/02/bitcoin-is-the-rediscovery-of-money/).
+Not IOUs. Not credit relationships. Good, [old-fashioned money][rediscovery].
 Cold, hard cash. Better yet: cold, hard cash that is digitally native,
 can\'t be debased, and can be sent around at the speed of light. Without
 counterparty risk.
+
+[rediscovery]: {{ '/rediscovery' | absolute_url }}
 
 ### Consequences
 
@@ -294,7 +295,9 @@ because real money does not require real identity, and yet has a real
 cost. Real cost makes spam bots uneconomical and disincentivizes
 antisocial behavior.[^fn-saylor]
 
-[^fn-saylor]: Listen to Michael Saylor explain this in detail on the [Bitcoin Matrix](https://pod.link/1534519469/episode/54931b6a4142335fdc84ce249b59469a) podcast. 
+[^fn-saylor]: Listen to Michael Saylor explain this in detail on the [Bitcoin Matrix][saylor] podcast. 
+
+[saylor]: https://pod.link/1534519469/episode/54931b6a4142335fdc84ce249b59469a
 
 ### Identity
 
@@ -352,7 +355,7 @@ show the world that they are *serious* and *real*.
 
 > Value brings consequence to cyberspace.
 >
-> <cite>Michael Saylor</cite>
+> <cite>[Michael Saylor][saylor]</cite>
 
 There is an Eastern-European saying: \"If you truly want to hurt a man,
 you have to punch him where it hurts most: his wallet.\" Michael Saylor
