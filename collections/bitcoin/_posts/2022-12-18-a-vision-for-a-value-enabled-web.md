@@ -504,7 +504,13 @@ cultural shift is happening. And yes, it is still clunky. It is clunky
 to enter a lightning address and send sats manually. It is clunky to
 click the \"boost\" button and scan a QR code.
 
-\[TODO: Insert V4V button\]
+<div class="action-buttons">
+  <div class="button button-blue button-medium">
+    <a href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-vew&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD">
+      Boost! 🚀🎉
+    </a>
+  </div>
+</div>
 
 But we\'ve come a long way, and the trend is going in the right
 direction. If we build this right, micropayments will be invisible and
