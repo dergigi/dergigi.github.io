@@ -157,11 +157,13 @@ We could sum it up as follows:
 
 All these issues stem from having to use IOUs as money, and we have to
 use IOUs as money when dealing with conventional currencies (currencies
-that are not natively digital, i.e., currencies that are not reified
+that are not natively digital, i.e., currencies that are not [reified][reify]
 by [proof-of-work][pow]).[^fn-pow] 
 
-[^fn-pow]: Only proof-of-work allows for natively digital money that is trustless and permissionless, i.e., accessible to all and not controlled by a quorum of key holders.
+[^fn-pow]: Only [proof-of-work][pow] allows for natively digital money that is trustless and permissionless, i.e., accessible to all and not controlled by a quorum of key holders.
+
 [pow]: {{ '/pow' | absolute_url }}
+[reify]: {{ '2022/04/03/inalienable-property-rights/#reify' | absolute_url }}
 
 Because of credit, the goddamn fees are too damn high. Because of
 credit, we were never able to do micropayments online. Because of
@@ -257,7 +259,7 @@ required, to quote Vernor Vinge.[^fn-giacomo]
 
 [names]: {{ '/names' | absolute_url }}
 
-[^fn-giacomo]: https://youtu.be/zp1B_i4JlXc?t=1401
+[^fn-giacomo]: "[Good morning, money laundering is beautiful](https://youtu.be/zp1B_i4JlXc?t=1401)" by Giacomo Zucco, Baltic Honeybadger 2022
 
 **Peer-to-peer:** All physical money is peer-to-peer technology. If you
 have a physical coin, it is yours. You are not beholden to anyone when
@@ -281,7 +283,7 @@ openness inevitably leads to financial censorship, and any lack of
 neutrality inevitably leads to bailouts, Cantillionaires, and systemic
 instability.[^fn-cantillion]
 
-[^fn-cantillion]: https://duckduckgo.com/?q=cantillion+effect
+[^fn-cantillion]: Search for ["Cantillion effect"](https://duckduckgo.com/?q=cantillion+effect)
 
 **Real cost:** Electronic money that is natively digital allows us to
 attach *real* costs to actions in cyberspace. It allows us to move away
@@ -294,7 +296,7 @@ because real money does not require real identity, and yet has a real
 cost. Real cost makes spam bots uneconomical and disincentivizes
 antisocial behavior.[^fn-saylor]
 
-[^fn-saylor]: https://pod.link/1534519469/episode/54931b6a4142335fdc84ce249b59469a
+[^fn-saylor]: Listen to Michael Saylor explain this in detail on the [Bitcoin Matrix](https://pod.link/1534519469/episode/54931b6a4142335fdc84ce249b59469a) podcast. 
 
 ### Identity
 
@@ -407,7 +409,16 @@ some of the issues described above. My hope is that---once we understand
 the problems properly and have the right thesis and vision---we will
 figure out the details as we go along.[^fn-tbd]
 
-[^fn-tbd]: Notable mentions are TBD, Web5, Holepunch, ION, nostr, etc. TODO: add links!
+[^fn-tbd]: Notable mentions include [TBD][tbd]'s [Web5][web5], [Holepunch][hp], [ION][ion], and [nostr][nostr]. (I'm sure there are many more, feel free to add them via a PR.)
+
+[tbd]: https://tbd.website
+[web5]: https://developer.tbd.website/projects/web5/
+[hp]: https://holepunch.to
+[ion]: https://identity.foundation/ion/
+[nostr]: https://www.nostr.net/
+[alby]: https://getalby.com/
+[breez]: https://breez.technology/
+
 
 ### Thesis
 
