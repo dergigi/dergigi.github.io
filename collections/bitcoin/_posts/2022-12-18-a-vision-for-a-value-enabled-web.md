@@ -40,8 +40,9 @@ the most important one: incentives.
 
 ### Incentives
 
-\"Show me the incentives, and I\'ll show you the outcome.\" ---Charlie
-Munger.
+> Show me the incentives, and I\'ll show you the outcome.
+>
+> <cite>Charlie Munger</cite>
 
 Human action is shaped by the subtle and not-so-subtle structures of the
 systems we are embedded in. While actions, values, and motivations are
@@ -299,10 +300,12 @@ https://pod.link/1534519469/episode/54931b6a4142335fdc84ce249b59469a
 
 ### Identity
 
-\"It is funny about money. And it is funny about identity. You are you
-because your little dog knows you, but when your public knows you and
-does not want to pay for you and when your public knows you and does
-want to pay for you, you are not the same you.\" ---Gertrude Stein.
+> It is funny about money. And it is funny about identity. You are you
+> because your little dog knows you, but when your public knows you and
+> does not want to pay for you and when your public knows you and does
+> want to pay for you, you are not the same you.
+>
+> <cite>Gertrude Stein</cite>
 
 Identity is prismatic. You act differently in a bar on Friday night than
 at church on Sunday. You are a different you in public and in private,
@@ -656,6 +659,6 @@ data packets did in the past. More value, more humanity, fewer bots,
 less spam, and---hopefully---a reduction of dark patterns and addictive
 behavior.
 
-It\'s [Day
-2](https://twitter.com/dergigi/status/1596127000590053376?s=20&t=-A5ov-qGxgcuM2AY2jYcXw) for
-the internet, and it\'s time to fix it.
+It\'s [Day 2][day2] for the internet, and it\'s time to fix it.
+
+[day2]: https://twitter.com/dergigi/status/1596127000590053376
