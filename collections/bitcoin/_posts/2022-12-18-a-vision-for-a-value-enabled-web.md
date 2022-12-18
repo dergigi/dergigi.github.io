@@ -233,8 +233,9 @@ counterparty risk.
 
 ### Consequences
 
-\"Every unpunished delinquency has a family of delinquencies.\"
----Herbert Spencer.
+> Every unpunished delinquency has a family of delinquencies.
+> 
+> <cite>Herbert Spencer</cite>
 
 The consequence of bringing real, non-credit-based money to cyberspace
 can hardly be overstated. While the conversation around Bitcoin is still
@@ -347,7 +348,9 @@ should not add our singular government-mandated identities to everything
 in cyberspace. Instead, we should allow users---anonymous or not---to
 show the world that they are *serious* and *real*.
 
-\"Value brings consequence to cyberspace.\" \--Michael Saylor
+> Value brings consequence to cyberspace.
+>
+> <cite>Michael Saylor</cite>
 
 There is an Eastern-European saying: \"If you truly want to hurt a man,
 you have to punch him where it hurts most: his wallet.\" Michael Saylor
@@ -375,9 +378,11 @@ cash. And because money is one way to express value---the main way,
 arguably---the free expression thereof is of utmost importance for a
 free and prosperous society.
 
-\"In most cases personal identity is not salient. When I purchase a
-magazine at a store and hand cash to the clerk, there is no need to know
-who I am.\" ---Eric Hughes.
+> In most cases personal identity is not salient. When I purchase a
+> magazine at a store and hand cash to the clerk, there is no need to know
+> who I am.
+>
+> <cite>Eric Hughes</cite>
 
 Most transactions do not require identity. Most transactions should not
 require credit. For most transactions, trusted third parties should be
@@ -407,13 +412,12 @@ figure out the details as we go along.
 
 ### Thesis
 
-\"Anon out of the earth a fabric huge
-
-Rose like an exhalation, with the sound
-
-Of dulcet symphonies and voices sweet,
-
-Built like a temple\" ---John Milton, Paradise Lost.
+> Anon out of the earth a fabric huge \\
+> Rose like an exhalation, with the sound \\
+> Of dulcet symphonies and voices sweet, \\
+> Built like a temple
+> 
+> <cite>John Milton, Paradise Lost</cite>
 
 Let\'s recap: We have seen that the incentives are broken, leading to
 \"you are the product\" and \"subscription hell\" business models. We
@@ -468,8 +472,10 @@ We have to disconnect price from value, and we have to re-think both.
 
 ### Vision
 
-\"The vision of the eye is limited, but the vision of the heart
-transcends all barriers of time and space.\" ---Imam Ali
+> The vision of the eye is limited, but the vision of the heart
+> transcends all barriers of time and space.
+>
+> <cite>Imam Ali</cite>
 
 We now have a money that transcends the conventional barriers of time
 and space. A money born in and out of cyberspace, a money that allows us
