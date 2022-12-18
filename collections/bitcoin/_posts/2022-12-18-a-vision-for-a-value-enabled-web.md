@@ -158,7 +158,7 @@ We could sum it up as follows:
 All these issues stem from having to use IOUs as money, and we have to
 use IOUs as money when dealing with conventional currencies (currencies
 that are not natively digital, i.e., currencies that are not [reified][reify]
-by [proof-of-work][pow]).[^fn-pow] 
+by proof-of-work).[^fn-pow] 
 
 [^fn-pow]: Only [proof-of-work][pow] allows for natively digital money that is trustless and permissionless, i.e., accessible to all and not controlled by a quorum of key holders.
 
