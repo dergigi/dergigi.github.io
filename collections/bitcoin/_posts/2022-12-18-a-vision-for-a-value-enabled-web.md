@@ -597,7 +597,7 @@ these developments. Once you\'ve received your first streaming payments,
 it feels beyond antiquated to deal with the legacy payment rails of our
 fiat world.
 
-\[TODO: Insert image of fiat payment button matrix.\]
+{% include image.html name="fiat-platform-buttons.jpg" caption="The result of using platforms instead of protocols." %}
 
 I don\'t want to enter my credit card details into this random website
 form, I just want to pay in sats. I don\'t want to sign up for 12 months
@@ -640,12 +640,9 @@ The vision of a value-enabled web is a return to substance and sanity. A
 move away from clickbait and attention farming. A counter to Orwellian
 surveillance, deplatforming, and cancel culture.
 
-A move from winner-takes-all to all-can-win.
-
-A move from maximizing growth to maximizing value.
-
-A move from quantity to quality.
-
+A move from winner-takes-all to all-can-win. \\
+A move from maximizing growth to maximizing value. \\
+A move from quantity to quality. \\
 A move away from client-server relationships, which more often than not
 turn into relationships of masters and slaves, towards peer-to-peer
 relationships where everyone is on equal footing.
