@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "A Vision for a Value-Enabled Web"
-description: "TODO"
+description: "Gentlemen, we can rebuild it. We have the technology."
 date: 2022-12-18
-blocktime: TODO
+blocktime: 767992
 image: /assets/images/vew.jpg
 redirect_from: /vew
 author: Gigi
