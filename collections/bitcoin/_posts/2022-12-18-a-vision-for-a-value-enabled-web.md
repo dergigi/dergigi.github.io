@@ -591,11 +591,16 @@ third parties.
 
 I am still a huge fan of the web---and, of course, the internet in
 general---but I believe, as all of you do, too, that things could be
-better. \[Footnote: https://psyarxiv.com/2uxwk/\] In fact, I *know* that
+better.[^fn-better] In fact, I *know* that
 it can be better, as everyone else knows who is at the forefront of
 these developments. Once you\'ve received your first streaming payments,
 it feels beyond antiquated to deal with the legacy payment rails of our
 fiat world.
+
+[^fn-better]: Mastroianni, Adam, and Ethan Ludwin-Peery. “[Things Could Be Better.][better-link]” PsyArXiv, 14 Nov. 2022. Web.
+Chicago
+
+[better-link]: https://psyarxiv.com/2uxwk/
 
 {% include image.html name="fiat-platform-buttons.jpg" caption="The result of using platforms instead of protocols." %}
 
