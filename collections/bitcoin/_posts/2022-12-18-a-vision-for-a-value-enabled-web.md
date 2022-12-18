@@ -200,9 +200,11 @@ terribly unfit for cyberspace, and now we are all paying for it---with
 our attention, among other things. One could even argue that the use of
 attention as currency is---at least in part---to blame for the loss of
 nuanced discourse and the increase in polarization, be it political or
-otherwise.
+otherwise.[^fn-polarization]
 
-{% include image.html name="party-polarization.png" caption="The money is broken, and so is our political landscape." %}
+[^fn-polarization]: The visualization of the political polarization in the U.S. Senate is something to behold: [Team Red and Team Blue, drifting apart][pp].
+
+[pp]: {{ '/assets/images/bitcoin/2022-12-18-a-vision-for-a-value-enabled-web/party-polarization.png' | absolute_url }}
 
 Time and attention are the ultimate currencies. There is a reason why we
 \"spend\" the first and \"pay\" the latter. And while we do indeed
@@ -219,7 +221,7 @@ and nuance, as well as our collective attention spans.
 
 Now that I hopefully have yours---your attention, that is---I will
 finally use the single-phrase answer that I refused to use in the
-beginning: Bitcoin fixes this.
+beginning: *Bitcoin fixes this.*
 
 Bitcoin fixes this because, for the first time in history, we have
 high-velocity, digitally native money without having to rely on credit.
