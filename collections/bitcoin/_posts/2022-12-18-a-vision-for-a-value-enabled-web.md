@@ -38,7 +38,7 @@ value-enabled Web. But first, we have to start by wrapping our heads
 around the various sub-problems that plague the web. Let\'s start with
 the most important one: incentives.
 
-### Incentives {#Incentives}
+### Incentives
 
 \"Show me the incentives, and I\'ll show you the outcome.\" ---Charlie
 Munger.
@@ -75,10 +75,12 @@ believe that a big part of it is due to the technical limitations of our
 current monetary system and the payment infrastructure built on top of
 it.
 
-### Limitations {#Limitations}
+### Limitations
 
-\"Imagine a Being who is omniscient, omnipresent, and omnipotent. What
-does such a Being lack? The answer? Limitation.\" ---Jordan Peterson.
+> Imagine a Being who is omniscient, omnipresent, and omnipotent. What
+> does such a Being lack? The answer? Limitation.
+> 
+> <cite>Jordan Peterson</cite>
 
 Money has limitations, always. While it used to be possible to buy small
 items or services for a nickel or even a penny---a pack of chewing gum,
@@ -103,12 +105,14 @@ something that you own outright, but it\'s something that you owe to
 someone else: \"I owe you.\" It is credit, and credit is different from
 base money. Credit requires trust.
 
-### Credit {#Credit}
+### Credit
 
-\"All the perplexities, confusions, and distresses in America arise, not
-from defects in their constitution or confederation, not from a want of
-honor or virtue, so much as from downright ignorance of the nature of
-coin, credit, and circulation.\" ---John Adams
+> All the perplexities, confusions, and distresses in America arise, not
+> from defects in their constitution or confederation, not from a want of
+> honor or virtue, so much as from downright ignorance of the nature of
+> coin, credit, and circulation.
+>
+> <cite>John Adams</cite>
 
 The problem with credit is that it has various risks. That\'s why we
 have to keep track of credit, as well as the creditors and debtors
@@ -131,12 +135,13 @@ shells](https://bitcoin-resources.com/articles/shelling-out-the-originsof-money/
 metal coins, or paper notes---can only be transferred as IOUs when
 transferred electronically.
 
-\"The root problem with conventional currency is all the trust that\'s
-required to make it work. \[\...\] Banks must be trusted to hold our
-money and transfer it electronically \[\...\]. We have to trust them
-with our privacy, trust them not to let identity thieves drain our
-accounts. Their massive overhead costs make micropayments impossible.\"
----Satoshi Nakamoto.
+> The root problem with conventional currency is all the trust that\'s
+> required to make it work. \[\...\] Banks must be trusted to hold our
+> money and transfer it electronically \[\...\]. We have to trust them
+> with our privacy, trust them not to let identity thieves drain our
+> accounts. Their massive overhead costs make micropayments impossible.
+>
+> <cite>Satoshi Nakamoto</cite>
 
 We could sum it up as follows:
 
@@ -144,19 +149,18 @@ We could sum it up as follows:
 -   Credit relies on trust
 -   Trust can be broken (by fraud, negligence, or by accident)
 -   Fraud leads to chargebacks & insurance constructs
--   These constructs require KYC and lead to high processing costs
-    \[Footnote: KYC isn't always a function of evil corporations and/or
-    governments trying to be evil and spying on everyone. When it comes
-    to financial products, it's often just a guard against credit
-    risk.\]
+-   These constructs require KYC and lead to high processing costs[^fn-kyc]
+    
+    
+[^fn-kyc]: KYC isn't always a function of evil corporations and/or governments trying to be evil and spying on everyone. When it comes to financial products, it's often just a guard against credit risk.
 
 All these issues stem from having to use IOUs as money, and we have to
 use IOUs as money when dealing with conventional currencies (currencies
 that are not natively digital, i.e., currencies that are not reified
-by [proof-of-work](https://dergigi.com/pow/)). \[Footnote: Only
-proof-of-work allows for natively digital money that is trustless and
-permissionless, i.e., accessible to all and not controlled by a quorum
-of key holders.\]
+by [proof-of-work][pow]).[^fn-pow] 
+
+[^fn-pow]: Only proof-of-work allows for natively digital money that is trustless and permissionless, i.e., accessible to all and not controlled by a quorum of key holders.
+[pow]: {{ '/pow' | absolute_url }}
 
 Because of credit, the goddamn fees are too damn high. Because of
 credit, we were never able to do micropayments online. Because of
@@ -175,7 +179,7 @@ Web, that all conventional currencies are still backed by gold. Let\'s
 assume that [nothing happened in
 1971](https://wtfhappenedin1971.com/).\]
 
-### Attention {#Attention}
+### Attention
 
 \"Are you not ashamed that you give your attention to acquiring as much
 money as possible, and similarly with reputation and honor, and give no
@@ -228,7 +232,7 @@ Cold, hard cash. Better yet: cold, hard cash that is digitally native,
 can\'t be debased, and can be sent around at the speed of light. Without
 counterparty risk.
 
-### Consequences {#Consequences}
+### Consequences
 
 \"Every unpunished delinquency has a family of delinquencies.\"
 ---Herbert Spencer.
@@ -293,7 +297,7 @@ antisocial behavior.
 \[\^fn-saylor\]:
 https://pod.link/1534519469/episode/54931b6a4142335fdc84ce249b59469a
 
-### Identity {#Identity}
+### Identity
 
 \"It is funny about money. And it is funny about identity. You are you
 because your little dog knows you, but when your public knows you and
@@ -400,7 +404,7 @@ figure out the details as we go along.
 
 \[fn-tbd\]: Notable mentions are TBD, Web5, Holepunch, ION, nostr, etc.
 
-### Thesis {#Thesis}
+### Thesis
 
 \"Anon out of the earth a fabric huge
 
@@ -461,7 +465,7 @@ users---without trying to make water not wet.
 
 We have to disconnect price from value, and we have to re-think both.
 
-### Vision {#Vision}
+### Vision
 
 \"The vision of the eye is limited, but the vision of the heart
 transcends all barriers of time and space.\" ---Imam Ali
