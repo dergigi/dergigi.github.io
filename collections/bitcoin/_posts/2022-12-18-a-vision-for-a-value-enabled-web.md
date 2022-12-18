@@ -417,7 +417,7 @@ all pieces are known yet, let alone in place. Nevertheless, many people
 are working on various technologies and protocols that might help to fix
 some of the issues described above. My hope is that---once we understand
 the problems properly and have the right thesis and vision---we will
-figure out the details as we go along.[^fn-tbd][^fn-nostr]
+figure out the details as we go along.[^fn-tbd] [^fn-nostr]
 
 [^fn-tbd]: Notable mentions include [TBD][tbd]'s [Web5][web5], [Holepunch][hp], [ION][ion], and [nostr][nostr]. (I'm sure there are many more, feel free to add them via a PR.)
 
