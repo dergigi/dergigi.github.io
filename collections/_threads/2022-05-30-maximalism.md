@@ -52,7 +52,7 @@ Without the [reification of information][reify], trust is required. [PoW][pow]
 puts truth into history. It is the only consensus mechanism that works without
 trust. 
 
-[reify]: {{ '/speech/#reify' | absolute_url }}
+[reify]: {{ '2022/04/03/inalienable-property-rights/#reify' | absolute_url }}
 [pow]: {{ '/pow' | absolute_url }}
 
 Money is a requirement. If the native unit is bad money, the network
