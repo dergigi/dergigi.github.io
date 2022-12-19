@@ -724,12 +724,9 @@ confusing and incomplete are due to my blurry vision and stubbernness.
 
 <small>
 Found a typo? Please help me [fix it].
+Are you building something that fits this vision, or want to help? Reach out to `vew@dergigi.com`
 </small>
 
 [fix it]: https://github.com/dergigi/dergigi.github.io/blob/master/collections/bitcoin/_posts/2022-12-18-a-vision-for-a-value-enabled-web.md
-
-<small>
-Building something that fits this vision, or want to help? Reach out to `vew@dergigi.com`
-</small>
 
 ---
