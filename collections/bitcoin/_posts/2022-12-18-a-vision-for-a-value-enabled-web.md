@@ -178,10 +178,12 @@ It\'s all because of credit. Cash does not have these problems.[^fn-credit]
 
 ### Attention
 
-\"Are you not ashamed that you give your attention to acquiring as much
-money as possible, and similarly with reputation and honor, and give no
-attention or thought to truth and understanding and the perfection of
-your soul?\" ---Plato
+> Are you not ashamed that you give your attention to acquiring as much
+> money as possible, and similarly with reputation and honor, and give no
+> attention or thought to truth and understanding and the perfection of
+> your soul?
+>
+> <cite>Plato</cite>
 
 The problem of paying attention to the wrong things is not new, but it
 is particularly pronounced online. Again: the issue is that when dealing
@@ -393,7 +395,9 @@ free and prosperous society.
 > magazine at a store and hand cash to the clerk, there is no need to know
 > who I am.
 >
-> <cite>Eric Hughes</cite>
+> <cite>[Eric Hughes][cpm]</cite>
+
+[cpm]: https://bitcoin-resources.com/articles/a-cypherpunks-manifesto/
 
 Most transactions do not require identity. Most transactions should not
 require credit. For most transactions, trusted third parties should be
