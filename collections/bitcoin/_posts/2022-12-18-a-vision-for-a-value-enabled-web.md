@@ -702,6 +702,8 @@ It\'s [Day 2][day2] for the internet, and it\'s time to fix it.
 
 [day2]: https://twitter.com/dergigi/status/1596127000590053376
 
+{% include enjoyed.html %}
+
 ---
 
 <small>
