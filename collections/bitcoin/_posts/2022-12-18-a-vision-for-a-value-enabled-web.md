@@ -707,10 +707,6 @@ It\'s [Day 2][day2] for the internet, and it\'s time to fix it.
 ---
 
 <small>
-Find me on nostr: `npub1dvx5ervack0pzrfcpvzzngpgj8cngxs052apk88c8g7mf4r789jqf2w0r9`
-</small>
-
-<small>
 Thanks to [Tomer], [Allen], Daniel, and [my patrons][patreon] for providing
 excellent feedback on earlier drafts of this writing. Any parts that are still
 confusing and incomplete are due to my blurry vision and stubbernness.
