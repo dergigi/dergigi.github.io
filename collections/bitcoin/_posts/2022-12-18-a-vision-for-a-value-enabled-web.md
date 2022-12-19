@@ -395,7 +395,9 @@ free and prosperous society.
 > magazine at a store and hand cash to the clerk, there is no need to know
 > who I am.
 >
-> <cite>Eric Hughes</cite>
+> <cite>[Eric Hughes][cpm]</cite>
+
+[cpm]: https://bitcoin-resources.com/articles/a-cypherpunks-manifesto/
 
 Most transactions do not require identity. Most transactions should not
 require credit. For most transactions, trusted third parties should be
