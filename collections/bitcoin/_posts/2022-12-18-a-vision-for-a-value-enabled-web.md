@@ -702,11 +702,9 @@ It\'s [Day 2][day2] for the internet, and it\'s time to fix it.
 
 [day2]: https://twitter.com/dergigi/status/1596127000590053376
 
----
+{% include enjoyed.html %}
 
-<small>
-Find me on nostr: `npub1dvx5ervack0pzrfcpvzzngpgj8cngxs052apk88c8g7mf4r789jqf2w0r9`
-</small>
+---
 
 <small>
 Thanks to [Tomer], [Allen], Daniel, and [my patrons][patreon] for providing
@@ -717,5 +715,14 @@ confusing and incomplete are due to my blurry vision and stubbernness.
 [Tomer]: https://twitter.com/TomerStrolight/
 [Allen]: https://twitter.com/allenf32/
 [patreon]: https://www.patreon.com/dergigi
+
+---
+
+<small>
+Found a typo? Please help me [fix it].
+Are you building something that fits this vision, or want to help? Reach out to `vew@dergigi.com`
+</small>
+
+[fix it]: https://github.com/dergigi/dergigi.github.io/blob/master/collections/bitcoin/_posts/2022-12-18-a-vision-for-a-value-enabled-web.md
 
 ---
