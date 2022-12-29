@@ -2,7 +2,6 @@
 layout: post
 title: "Yesterday"
 redirect_from: /yesterday
-date: 2022-12-29
 date: 2022-12-28
 description: I'm not half the man I used to be.
 image: /assets/images/yesterday.jpg
