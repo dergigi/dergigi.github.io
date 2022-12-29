@@ -3,6 +3,7 @@ layout: post
 title: "Yesterday"
 redirect_from: /yesterday
 date: 2022-12-29
+date: 2022-12-28
 description: I'm not half the man I used to be.
 image: /assets/images/yesterday.jpg
 author: Gigi
@@ -22,13 +23,16 @@ if you could, you would probably be stuck in a different kind of hell. Groundhog
 Day and all.
 
 Most people reminisce about the past. Everything was better, brighter, bigger,
-cheaper. The data says otherwise, as Hans Rosling showed so beautifully. But
-feelings don't care about data. 
+cheaper. The data says otherwise, as [Hans
+Rosling](https://youtu.be/hVimVzgtD6w) showed so beautifully. But feelings don't
+care about data. 
 
 Some things were different, no doubt. The nominal price of a Hamburger was
 cheaper, no doubt. And yes, people weren't morbidly obese, or killing themselves
 with opioids, or horribly addicted to small screens in their pocket, and so on.
 See, now I'm doing it. Reminiscing about the past.
+
+{% include image.html name="mcdonalds.webp" %}
 
 I still haven't figured out what to do about days like these. Days when
 everything sucks. Days so dark that the brightness of yesterday seems borderline
