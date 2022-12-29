@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Displays"
+redirect_from: /displays
+date: 2022-12-30
+description: Attention is the currency. Now stare at me.
+image: /assets/images/displays.jpg
+author: Gigi
+category: photography
+tags:
+  - Photography
+---
+
+Displays rule our world. They dictate our lives, replace our jobs, facilitate
+our interactions, and filter our world.
+
+One day, many years ago, I went to a shopping mall, which is something I usually
+don't do. I still remember this day because it was the first time I'd seen large
+touchscreen displays where McDonald's cashiers should've been. I knew that this
+day would come, obviously. As a technologist, I knew about these touchscreen
+terminals. Knew that they would come. Knew that they would replace the people
+that would stand behind the counter to take your order. I knew all this, and
+still, it took me by surprise.
+
+Today, this is normal, of course. Like it is normal to see a group of people
+sitting at a table, staring at their individual displays, trapped in their
+individual bubbles.
+
+{% include image.html name="newspapers.jpg" %}
+{% include image.html name="newspapers2.jpg" %}
+
+I'm guilty of that too, of course. I'm staring at a display as I'm writing these
+words because I tell myself that it's more efficient than writing by hand would
+be.
+
+I'm not hating on efficiency. Or automation, or capitalism, for that matter. Far
+from it. I'm also not hating on humanity and our urge to make things easier. 
+
+I love humanity.  We're smart, powerful, and have awesome technological
+capabilities.  In fact, I believe that we're too smart, too powerful, and too
+technologically capable.
+
+Maybe some things shouldn't be made to be easy. Maybe some things are meant to
+be hard. Maybe knowing the difference between those two is wisdom. 
+
+That's what we're lacking, isn't it. Wisdom. It was never easier to attain
+knowledge. It was never easier to look up "facts." And yet, it was never harder
+to attain wisdom. Or at least it isn't easier now than it used to be. 
+
+Maybe it was always like that.  Maybe that's how it will be, always, for all
+eternity.  But I can't shake the feeling that it's harder to find wisdom when
+it's hidden behind displays.
+
+{% include image.html name="eye.jpg" caption="Who is watching whom?" %}
