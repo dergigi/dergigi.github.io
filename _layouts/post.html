@@ -17,6 +17,11 @@ layout: default
           {{ page.date | date: '%-d %b %Y' }}
         {% endif %}
         </time>
+        {% if page.category == "photography" %}
+          <a href="{{ '/blog' | absolute_url }}"
+             title="Blog"
+             class="post__source">/blog</a>
+        {% endif %}
         {% if page.source %}
           {% capture sourceHost %}{{ page.source | remove_first: "https://" | split: "/" | first | remove_first: "www." }}{% endcapture %}
           {% unless sourceHost == "medium.com" %}
