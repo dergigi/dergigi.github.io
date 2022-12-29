@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Editing"
+redirect_from: /editing
+date: 2022-12-29
+description: To write is human, to edit is divine.
+image: /assets/images/editing.jpg
+author: Gigi
+category: photography
+tags:
+  - Photography
+---
+
+Editing is divine, or so the saying goes.
+
+A wise man once said that "the secret to life is send tweet." There is no place
+for editing in this philosophy, even though there is an edit button on Twitter
+now. Oh, what a strange world we are living in. Editing tweets? What the fuck?!
+What happened to simplicity? What happened to tradition?
+
+Maybe the right approach to editing has always been the ninja edit: glance over
+it, do a sanity check for ten seconds but don't overthink it. Fear is not the
+mind-killer. Overthinking is. And if your editor sucks, the mind-killer is
+editing. 
