@@ -46,7 +46,7 @@ deleted without an answer.
 
 [^fn-matrix]: I'm `@dergigi:matrix.org` on matrix.
 
-[^fn-nostr]: I'm also on nostr as `6b0d4c8d9dc59e110d380b0429a02891f1341a0fa2ba1b1cf83a3db4d47e3964` but it's very early days, so don't expect (a) nostr to work and (b) me to check my DMs there all too often. If your client supports the npub format the hex key above converts to this: `npub1dvx5ervack0pzrfcpvzzngpgj8cngxs052apk88c8g7mf4r789jqf2w0r9`
+[^fn-nostr]: I'm also on nostr as `npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc` but it's very early days, so don't expect (a) nostr to work and (b) me to check my DMs there all too often. If your client doesn't support the npub format the key above in hex is: `6e468422dfb74a5738702a8823b9b28168abab8655faacb6853cd0ee15deee93`
 
 [telegram]: https://t.me/dergigi
 
