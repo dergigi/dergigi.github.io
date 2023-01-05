@@ -5,6 +5,7 @@ description: "We forgot what money is. Bitcoin makes us remember."
 date: 2022-12-02
 blocktime: 765645
 image: /assets/images/cave-painting.jpg
+audio: /assets/audio/rediscovery.ogg
 redirect_from: /rediscovery
 author: Gigi
 category: bitcoin
