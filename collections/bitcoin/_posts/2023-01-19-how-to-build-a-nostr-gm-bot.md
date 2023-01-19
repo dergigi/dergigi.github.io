@@ -44,20 +44,15 @@ If you have a linux system running somewhere and know your way around the
 command line you're basically done already. If you are a normal person and
 don't have that, read on.
 
-We'll use Ubuntu Server, as it is widely available. You can install it on the
-dusty old machine in your closet, rent a VPS, run a virtual machine, whatever.
-Your bitcoin node (that you surely have running somewhere, right? Right?!) would
-make a nice home for your nostr bot too. But I'll assume that you have an Ubuntu
-Server set up somewhere and that you're in a terminal, logged in as a non-root
-user. If you're logged in as root, I assume that you know what you're doing (so
-you'll know to omit `sudo` and stuff).
+We'll use Ubuntu Server, as it is widely available.
 
-Let's begin.
 
-We're gonna do it all in 8 steps:
+8 steps to gm:
+
+[^fn-ubuntu]: You can install it on the dusty old machine in your closet, rent a VPS, run a virtual machine, whatever. Your bitcoin node (that you surely have running somewhere, right? Right?!) would make a nice home for your nostr bot too. You'll have to switch up some commands (depending on your distro) but essentially it should all work the same. But I'll assume that you have an Ubuntu Server set up somewhere and that you're in a terminal, logged in as a non-root user. If you're logged in as root, I assume that you know what you're doing (so you'll know to omit `sudo` and stuff).
 
 - [1) Create dedicated bot user](#1-create-dedicated-bot-user)
-- [2) Log in as bot user](#2-log-in-as-bot-user)
+- [2) Roleplay as the bot](#2-roleplay-as-the-bot)
 - [3) Install go](#3-install-go)
 - [4) Define go path](#4-define-go-path)
 - [5) Install noscl](#5-install-noscl)
@@ -67,16 +62,20 @@ We're gonna do it all in 8 steps:
 
 ## 1) Create dedicated bot user
 
-We will create a dedicated user on our system.
+We will create a dedicated user on our system that does nothing but post "gm" to nostr.
 Let's call him "gmbot".
-I'll let you pick the password.
 
 ```bash
 sudo useradd -d /home/gmbot -m gmbot
+```
+
+I'll let you pick the password.
+
+```bash
 sudo passwd gmbot
 ```
 
-We'll also want to add the user to the sudoers group:
+We'll also add this user to the sudoers group:
 
 ```bash
   sudo usermod -aG sudo gmbot
@@ -84,32 +83,35 @@ We'll also want to add the user to the sudoers group:
 
 Great, done. On to using the user!
 
-## 2) Log in as bot user
+## 2) Roleplay as the bot
+
+Let's drive stick shift before we switch to automatic. Switch to the gmbot user:
 
 ```bash
 su gmbot
 ```
 
-Go Home
-
-  gmbot$ cd ~
 
 ## 3) Install go
 
-```bash
-sudo snap install go  --classic
-```
-
-If you want to avoid snap, you can also install it [from source](https://www.digitalocean.com/community/tutorials/how-to-install-go-on-ubuntu-20-04) or via a [PPA](https://askubuntu.com/a/1377308).
-
-Whatever you use to install it, make sure that `go` works:
+The nostr client we're going to use is written in go, which is why we need to install go:
 
 ```bash
-$ go version
-go version go1.19.5 linux/amd64
+sudo snap install go --classic
 ```
 
-If you see a similar output for `go version` we can move on to the next step. Paths!
+If you want to avoid snap, you can also install go [from
+source](https://www.digitalocean.com/community/tutorials/how-to-install-go-on-ubuntu-20-04)
+or via a custom [PPA](https://askubuntu.com/a/1377308).
+
+Whatever installation method you use, make sure that `go` works:
+
+```bash
+go version
+```
+
+If you see an output that says `go version go1.19.5 linux/amd64` (or something
+along these lines) we can move on to the next step. Paths!
 
 ## 4) Define go path
 
@@ -119,7 +121,7 @@ Edit your `.bashrc` with the editor of your choice...
 vim ~/.bashrc
 ```
 
-... and set the go path by adding the following at the end of the file:
+...and set the go path by adding the following at the end of the file:
 
 ```bash
 # Set go path to user's home directly
@@ -135,26 +137,35 @@ source ~/.bashrc
 
 ## 5) Install noscl
 
-We're going to use fiatjaf's noscl client to post notes and stuff. Install it via
+As mentioned before, we're going to use fiatjaf's noscl client to post notes and other stuff. Install the latest version via `go install`:
 
 ```bash
 go install github.com/fiatjaf/noscl@latest
 ```
 
-Try it!
+This will install `noscl` for your "gmbot" user, as we've set the install path to the user's home directory. Neat!
+
+Now try it!
 
 ```bash
-$ noscl
-> can't open config file /home/gmbot/.config/nostr/config.json: open /home/gmbot/.config/nostr/config.json: no such file or directory
+noscl
 ```
 
-Uh-oh, that's not good. The config directory does not exist, so `noscl` can't create the config file it needs. Let's fix this by creating it!
+Here's what it will spit out:
+
+> can't open config file /home/gmbot/.config/nostr/config.json: open
+> /home/gmbot/.config/nostr/config.json: no such file or directory
+
+Uh-oh, that's not good. 
+
+The config directory does not exist, so `noscl` can't create the config file it needs. 
+Creating the directory fixes this!
 
 ```bash
 mkdir -p ~/.config/nostr
 ```
 
-Now noscl should work. Run
+Now noscl should work. Run it again...
 
 ```bash
 noscl
@@ -171,7 +182,10 @@ Usage:
  ...
 ```
 
-We're going to do a `noscl setprivate` next, which will put the private key of our bot into the config file, effectively creating the bot account on the nostr protocol. (Side note: if an account is created in the woods, but never publishes a note, does it even exist?)
+We're going to do a `noscl setprivate` next, which will put the private key of
+our bot into the config file, effectively creating the bot account on the nostr
+protocol. (Side note: if an account is created in the woods, but never publishes
+a note, does it even exist?)
 
 ## 6) Create the bot
 
