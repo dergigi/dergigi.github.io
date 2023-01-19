@@ -173,7 +173,7 @@ noscl
 
 ...and you should see a "usage" text as follows:
 
-```bash
+```text
 Usage:
   noscl home
   noscl setprivate <key>
@@ -193,7 +193,9 @@ Every nostr account needs a private key. No key, no message signing, no posting
 "good morning." Simple as that.
 
 You can create the keys of your bot by rolling some dice. Don't have any dice
-handy?  Well, that sucks. Luckily, `noscl` can generate keys too. So let's use
+handy?  Well, that sucks. 
+
+Luckily, `noscl` can generate keys too. So let's use
 that to generate the private key for your bot.
 
 ```bash
@@ -202,7 +204,7 @@ noscl key-gen
 
 It will produce an output like this:
 
-```bash
+```text
 seed: armed birth test cargo ... orchard autumn
 private key: fc4b95d1....c5b98bd
 ```
@@ -210,12 +212,12 @@ private key: fc4b95d1....c5b98bd
 Copy-paste the private key and set it via `noscl setprivate`. Unless you hate
 yourself. If you hate yourself, type it in by hand.
 
-```
-noscl setprivate <THE_PRIVATE_KEY_YOU_GENERATED_ABOVE>
+```bash
+noscl setprivate <KEY_GENERATED_ABOVE>
 ```
 
 You'll have to use your actual private key, not
-`<THE_PRIVATE_KEY_YOU_GENERATED_ABOVE>`. Easy mistake to make! Also make sure to
+`<KEY_GENERATED_ABOVE>`. Easy mistake to make! Also make sure to
 keep your bot's private key _private_. "Not your keys, not your notes" and all
 that.
 
@@ -223,43 +225,49 @@ that.
 
 Let's pretend it's 6:15 am. Time to say "good morning."
 
-You could try to scream "good morning" into the void, but `noscl` will scream at you, telling you that you have zero relays set up. No relays, no party. We need to add at least one relay to talk to the nostrverse, so let's add everyone's favourite relay: your mom.
+You could try to scream "good morning" into the void, but `noscl` will scream
+right back at you, telling you that you have zero relays set up. No relays, no
+party. We need to add at least one relay to talk to the nostrverse, so let's add
+everyone's favorite relay: your mom.
 
-```
+```bash
 noscl relay add wss://nostr.mom
 ```
 
-If successful, you'll see something like
+If successful, you'll see something like:
 
-```
+```text
 > Added relay wss://nostr.mom.
 ```
 
-You don't have to use this exact relay, and you're free to add multiple relays. Consult [nostr.watch](https://nostr.watch/relays/find#public) for a list of public relays.
+You don't have to use this exact relay, and you're free to add multiple relays.
+Consult [nostr.watch](https://nostr.watch/relays/find#public) for a list of
+public relays.
 
 Time to publish our first "good morning!"
 
-```
+```bash
 noscl publish "Good morning!"
 ```
 
-If successful, you should see something like:
+_Ta-daa!_ Your bot is alive! You should see something like this:
 
-```
+```text
 > Sent event 4869429dcc20bd87567e3370c577793aac58f66bb07d130562738285dee6569f to 'wss://nostr.mom'.
 ```
 
-You can use a "nostr explorer" like [nostr.guru](https://www.nostr.guru/e/4869429dcc20bd87567e3370c577793aac58f66bb07d130562738285dee6569f) to look up the event, i.e. the note you just published. It might take a minute to show up, but if everything worked, you should see it staring back at you:
+You can use a "nostr explorer" like
+[nostr.guru](https://www.nostr.guru/e/4869429dcc20bd87567e3370c577793aac58f66bb07d130562738285dee6569f)
+to look up the event, i.e. the note you just published. It might take a minute
+to show up, but if everything worked, you should see it staring back at you:
 
-TODO Insert image
-
-<https://www.nostr.guru/e/4869429dcc20bd87567e3370c577793aac58f66bb07d130562738285dee6569f>
+{% include image.html name="event.png" caption="Be <a href='https://github.com/nostr-protocol/nips/blob/master/01.md#basic-event-kinds' target='_blank'>kind 1</a>, for everyone you meet is fighting a hard battle." link="https://www.nostr.guru/e/4869429dcc20bd87567e3370c577793aac58f66bb07d130562738285dee6569f"%}
 
 ## 8) Automate with crontab
 
 Still logged in as the `gmbot` user, edit the user-level crontab with
 
-```
+```bash
 crontab -e
 ```
 
@@ -274,21 +282,25 @@ crontab -e
 Save the file & exit, and crontab should tell you that it is installing a new
 crontab. Very kind of crontab, but also very redundant.
 
-```bash
+```text
 crontab: installing new crontab
 ```
 
 That's it!
 
 Now every morning—as long as the server that you used to set all this up is
-running—the bot you created will great the world with an censorship-resistant
+running—the bot you created will great the world with a censorship-resistant
 "Good morning!"
 
 You can use the private key of your bot to update the profile metadata, i.e. set
 a name, description, profile picture, banner, and so on. You can even give your
-bot a lightning address, just like I did! `gmbot@ts.dergigi.com`
+bot a lightning address, just like I did!
 
-`gmbot` is live as `npub1gmgmj6punek0gjp6s26e0d5nfumghmszeg33vgqzs6vhn0x0vq3q5mdaxm`
+You can follow the bot on nostr:
+
+```text
+npub1gmgmj6punek0gjp6s26e0d5nfumghmszeg33vgqzs6vhn0x0vq3q5mdaxm
+```
 
 GM 🌅🤙
 
