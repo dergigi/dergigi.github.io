@@ -293,12 +293,19 @@ You can use the private key of your bot to update the profile metadata, i.e. set
 a name, description, profile picture, banner, and so on. You can even give your
 bot a lightning address, just like I did!
 
-You can follow the bot on nostr:
+If you found this little tutorial valuable, feel free to give value back by throwing some sats at the bot: `⚡gmbot@ts.dergigi.com` 
+
+Follow the bot on nostr:
 
 ```plaintext
 npub1gmgmj6punek0gjp6s26e0d5nfumghmszeg33vgqzs6vhn0x0vq3q5mdaxm
 ```
 
+As always, feel free to remix, improve, and translate this guide. It is
+published under a [permissive license][license], as is all my other stuff.
+
 GM 🌅🤙
 
 ---
+
+[license]: {{ '/license' | absolute_url }}
