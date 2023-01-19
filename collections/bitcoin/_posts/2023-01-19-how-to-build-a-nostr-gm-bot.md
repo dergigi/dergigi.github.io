@@ -9,7 +9,7 @@ image: /assets/images/gmbot.jpg
 redirect_from: /gmbot
 author: Gigi
 category: bitcoin
-favorite: true
+favorite: false
 tags:
  - Bitcoin
  - Writing
