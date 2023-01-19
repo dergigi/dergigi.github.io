@@ -78,7 +78,7 @@ sudo passwd gmbot
 We'll also add this user to the sudoers group:
 
 ```bash
-  sudo usermod -aG sudo gmbot
+sudo usermod -aG sudo gmbot
 ```
 
 Great, done. On to using the user!
@@ -123,7 +123,7 @@ vim ~/.bashrc
 
 ...and set the go path by adding the following at the end of the file:
 
-```bash
+```shell
 # Set go path to user's home directly
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
@@ -153,8 +153,10 @@ noscl
 
 Here's what it will spit out:
 
-> can't open config file /home/gmbot/.config/nostr/config.json: open
-> /home/gmbot/.config/nostr/config.json: no such file or directory
+```shell
+> can't open config file /home/gmbot/.config/nostr/config.json: 
+> open /home/gmbot/.config/nostr/config.json: no such file or directory
+```
 
 Uh-oh, that's not good. 
 
@@ -173,7 +175,7 @@ noscl
 
 ...and you should see a "usage" text as follows:
 
-```text
+```shell
 Usage:
   noscl home
   noscl setprivate <key>
@@ -204,9 +206,9 @@ noscl key-gen
 
 It will produce an output like this:
 
-```text
-seed: armed birth test cargo ... orchard autumn
-private key: fc4b95d1....c5b98bd
+```shell
+> seed: armed birth test cargo ... orchard autumn
+> private key: fc4b95d1....c5b98bd
 ```
 
 Copy-paste the private key and set it via `noscl setprivate`. Unless you hate
@@ -236,7 +238,7 @@ noscl relay add wss://nostr.mom
 
 If successful, you'll see something like:
 
-```text
+```shell
 > Added relay wss://nostr.mom.
 ```
 
@@ -252,7 +254,7 @@ noscl publish "Good morning!"
 
 _Ta-daa!_ Your bot is alive! You should see something like this:
 
-```text
+```shell
 > Sent event 4869429dcc20bd87567e3370c577793aac58f66bb07d130562738285dee6569f to 'wss://nostr.mom'.
 ```
 
@@ -271,19 +273,19 @@ Still logged in as the `gmbot` user, edit the user-level crontab with
 crontab -e
 ```
 
-...and add the following line:[^fn-crontab]
+...and add the following line at the end of the file:[^fn-crontab]
 
 [^fn-crontab]: If you're having trouble making sense of the crontab syntax, [crontab.guru](https://crontab.guru/#15_6_*_*_*) is a useful tool.
 
-```bash
+```shell
 15 6 * * * /home/gmbot/go/bin/noscl publish "Good morning!"
 ```
 
 Save the file & exit, and crontab should tell you that it is installing a new
 crontab. Very kind of crontab, but also very redundant.
 
-```text
-crontab: installing new crontab
+```shell
+> crontab: installing new crontab
 ```
 
 That's it!
@@ -298,7 +300,7 @@ bot a lightning address, just like I did!
 
 You can follow the bot on nostr:
 
-```text
+```plaintext
 npub1gmgmj6punek0gjp6s26e0d5nfumghmszeg33vgqzs6vhn0x0vq3q5mdaxm
 ```
 
