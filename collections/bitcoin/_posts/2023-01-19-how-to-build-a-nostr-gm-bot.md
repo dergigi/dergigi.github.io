@@ -31,6 +31,17 @@ Here's what we're going to do, in short:
 
 We'll use Ubuntu Server, as it is widely available. I assume that you are logged in as a non-root user. If you're logged in as root, I assume that you know what you're doing (so you'll know to omit `sudo` and stuff).
 
+We're gonna do it all in 8 steps:
+
+- [1) Create dedicated bot user](#1-create-dedicated-bot-user)
+- [2) Log in as bot user](#2-log-in-as-bot-user)
+- [3) Install go](#3-install-go)
+- [4) Define go path](#4-define-go-path)
+- [5) Install noscl](#5-install-noscl)
+- [6) Create the bot](#6-create-the-bot)
+- [7) Say "Good morning!"](#7-say-good-morning)
+- [8) Automate with crontab](#8-automate-with-crontab)
+
 ## 1) Create dedicated bot user
 
 We will create a dedicated user on our system.
