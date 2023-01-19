@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to build a nostr gm bot"
+subtitle: "(without writing any code)"
 description: "(without writing any code)"
 date: 2023-01-19
 blocktime: TODO
@@ -25,18 +26,33 @@ to poke around and ~~break~~ build things. How else would you explore and learn?
 So, after porting my
 [two](https://www.nostr.guru/p/npub1satst5p5jcacfpagy3jxscf2s48d9dd0v6lfxms7frp9e6t2w5xstmsfjp)
 [bots](https://www.nostr.guru/p/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu)
-to nostr, I thought why not write a little guide that shows how the sausage is
-made.
+to nostr, I thought why not write a little guide that ~~helps to spark the bot
+revolution~~ shows how the sausage is made. 
 
-Here's what we're going to do, in short:
+While there is a little bit of plumbing involved, creating a bot that does nothing but
+post stuff is incredibly straightforward. And best of all,
+_we don't even have to write a single line of code!_
+
+Alright, let's break it down.
 
 - **The goal:** build a bot that says "gm" every morning.
 - **The approach:** run [noscl](https://github.com/fiatjaf/noscl) in a cron job that's set to 6:15 am
-- **The prerequisites:** a linux system and knowing your way around the command line a bit.
 
-We'll use Ubuntu Server, as it is widely available. I assume that you are logged
-in as a non-root user. If you're logged in as root, I assume that you know what
-you're doing (so you'll know to omit `sudo` and stuff).
+That's it. Simple.
+
+If you have a linux system running somewhere and know your way around the
+command line you're basically done already. If you are a normal person and
+don't have that, read on.
+
+We'll use Ubuntu Server, as it is widely available. You can install it on the
+dusty old machine in your closet, rent a VPS, run a virtual machine, whatever.
+Your bitcoin node (that you surely have running somewhere, right? Right?!) would
+make a nice home for your nostr bot too. But I'll assume that you have an Ubuntu
+Server set up somewhere and that you're in a terminal, logged in as a non-root
+user. If you're logged in as root, I assume that you know what you're doing (so
+you'll know to omit `sudo` and stuff).
+
+Let's begin.
 
 We're gonna do it all in 8 steps:
 
@@ -159,7 +175,12 @@ We're going to do a `noscl setprivate` next, which will put the private key of o
 
 ## 6) Create the bot
 
-You can create your key by rolling some dice. If you don't have any dice handy, you can also use `noscl key-gen` to generate the private key for your bot.
+Every nostr account needs a private key. No key, no message signing, no posting
+"good morning." Simple as that.
+
+You can create the keys of your bot by rolling some dice. Don't have any dice
+handy?  Well, that sucks. Luckily, `noscl` can generate keys too. So let's use
+that to generate the private key for your bot.
 
 ```bash
 noscl key-gen
@@ -172,13 +193,17 @@ seed: armed birth test cargo ... orchard autumn
 private key: fc4b95d1....c5b98bd
 ```
 
-Copy-paste the private key and set it via `noscl setprivate`. Unless you hate yourself. If you hate yourself, type it in by hand.
+Copy-paste the private key and set it via `noscl setprivate`. Unless you hate
+yourself. If you hate yourself, type it in by hand.
 
 ```
 noscl setprivate <THE_PRIVATE_KEY_YOU_GENERATED_ABOVE>
 ```
 
-You'll have to use your actual private key, not `<THE_PRIVATE_KEY_YOU_GENERATED_ABOVE>`. Easy mistake to make!
+You'll have to use your actual private key, not
+`<THE_PRIVATE_KEY_YOU_GENERATED_ABOVE>`. Easy mistake to make! Also make sure to
+keep your bot's private key _private_. "Not your keys, not your notes" and all
+that.
 
 ## 7) Say "Good morning!"
 
