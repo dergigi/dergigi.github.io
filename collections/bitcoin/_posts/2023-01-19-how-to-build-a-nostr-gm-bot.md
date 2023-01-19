@@ -16,12 +16,17 @@ tags:
  - nostr
 ---
 
+I've been [bullish on
+nostr](https://twitter.com/dergigi/status/1485029933969809419?s=20) for a while
+now, but even I am surprised by how swift the ecosystem around this open
+protocol has been growing. Yes, it's still early days. But it's the perfect time
+to poke around and ~~break~~ build things. How else would you explore and learn?
 
-
-
-I've been bullish on nostr for a while now, but even I am surprised by how swift the ecosystem around this open protocol has been growing. Yes, it's still early days. But it's the perfect time to poke around and ~~break~~ build things. How else would you explore and learn?
-
-So, after porting my [two](https://www.nostr.guru/p/npub1satst5p5jcacfpagy3jxscf2s48d9dd0v6lfxms7frp9e6t2w5xstmsfjp) [bots](https://www.nostr.guru/p/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu) to nostr, I thought why not write a little guide that shows how the sausage is made.
+So, after porting my
+[two](https://www.nostr.guru/p/npub1satst5p5jcacfpagy3jxscf2s48d9dd0v6lfxms7frp9e6t2w5xstmsfjp)
+[bots](https://www.nostr.guru/p/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu)
+to nostr, I thought why not write a little guide that shows how the sausage is
+made.
 
 Here's what we're going to do, in short:
 
@@ -29,7 +34,9 @@ Here's what we're going to do, in short:
 - **The approach:** run [noscl](https://github.com/fiatjaf/noscl) in a cron job that's set to 6:15 am
 - **The prerequisites:** a linux system and knowing your way around the command line a bit.
 
-We'll use Ubuntu Server, as it is widely available. I assume that you are logged in as a non-root user. If you're logged in as root, I assume that you know what you're doing (so you'll know to omit `sudo` and stuff).
+We'll use Ubuntu Server, as it is widely available. I assume that you are logged
+in as a non-root user. If you're logged in as root, I assume that you know what
+you're doing (so you'll know to omit `sudo` and stuff).
 
 We're gonna do it all in 8 steps:
 
