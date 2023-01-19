@@ -46,19 +46,17 @@ don't have that, read on.
 
 We'll use Ubuntu Server, as it is widely available.
 
-
-8 steps to gm:
+7 steps to gm:
 
 [^fn-ubuntu]: You can install it on the dusty old machine in your closet, rent a VPS, run a virtual machine, whatever. Your bitcoin node (that you surely have running somewhere, right? Right?!) would make a nice home for your nostr bot too. You'll have to switch up some commands (depending on your distro) but essentially it should all work the same. But I'll assume that you have an Ubuntu Server set up somewhere and that you're in a terminal, logged in as a non-root user. If you're logged in as root, I assume that you know what you're doing (so you'll know to omit `sudo` and stuff).
 
 - [1) Create dedicated bot user](#1-create-dedicated-bot-user)
-- [2) Roleplay as the bot](#2-roleplay-as-the-bot)
-- [3) Install go](#3-install-go)
-- [4) Define go path](#4-define-go-path)
-- [5) Install noscl](#5-install-noscl)
-- [6) Create the bot](#6-create-the-bot)
-- [7) Say "Good morning!"](#7-say-good-morning)
-- [8) Automate with crontab](#8-automate-with-crontab)
+- [2) Roleplay as the bot and install go](#2-roleplay-as-the-bot-and-install-go)
+- [3) Set go path](#3-set-go-path)
+- [4) Install noscl](#4-install-noscl)
+- [5) Create the bot](#5-create-the-bot)
+- [6) Say "Good morning!"](#6-say-good-morning)
+- [7) Automate with crontab](#7-automate-with-crontab)
 
 ## 1) Create dedicated bot user
 
@@ -83,16 +81,13 @@ sudo usermod -aG sudo gmbot
 
 Great, done. On to using the user!
 
-## 2) Roleplay as the bot
+## 2) Roleplay as the bot and install go
 
 Let's drive stick shift before we switch to automatic. Switch to the gmbot user:
 
 ```bash
 su gmbot
 ```
-
-
-## 3) Install go
 
 The nostr client we're going to use is written in go, which is why we need to install go:
 
@@ -113,7 +108,7 @@ go version
 If you see an output that says `go version go1.19.5 linux/amd64` (or something
 along these lines) we can move on to the next step. Paths!
 
-## 4) Define go path
+## 3) Set go path
 
 Edit your `.bashrc` with the editor of your choice...
 
@@ -135,7 +130,7 @@ Save, exit, and load it up:
 source ~/.bashrc
 ```
 
-## 5) Install noscl
+## 4) Install noscl
 
 As mentioned before, we're going to use fiatjaf's noscl client to post notes and other stuff. Install the latest version via `go install`:
 
@@ -189,7 +184,7 @@ our bot into the config file, effectively creating the bot account on the nostr
 protocol. (Side note: if an account is created in the woods, but never publishes
 a note, does it even exist?)
 
-## 6) Create the bot
+## 5) Create the bot
 
 Every nostr account needs a private key. No key, no message signing, no posting
 "good morning." Simple as that.
@@ -223,7 +218,7 @@ You'll have to use your actual private key, not
 keep your bot's private key _private_. "Not your keys, not your notes" and all
 that.
 
-## 7) Say "Good morning!"
+## 6) Say "Good morning!"
 
 Let's pretend it's 6:15 am. Time to say "good morning."
 
@@ -265,7 +260,7 @@ to show up, but if everything worked, you should see it staring back at you:
 
 {% include image.html name="event.png" caption="Be <a href='https://github.com/nostr-protocol/nips/blob/master/01.md#basic-event-kinds' target='_blank'>kind 1</a>, for everyone you meet is fighting a hard battle." link="https://www.nostr.guru/e/4869429dcc20bd87567e3370c577793aac58f66bb07d130562738285dee6569f"%}
 
-## 8) Automate with crontab
+## 7) Automate with crontab
 
 Still logged in as the `gmbot` user, edit the user-level crontab with
 
