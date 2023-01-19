@@ -50,3 +50,9 @@ pre {
 code {
   padding: 0.25em 0.5em;
 }
+
+.language-bash code {
+  &:before {
+    content: "$ ";
+  }
+}
