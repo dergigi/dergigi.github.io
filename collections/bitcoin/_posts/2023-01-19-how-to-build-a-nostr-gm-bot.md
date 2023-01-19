@@ -154,7 +154,7 @@ noscl
 Here's what it will spit out:
 
 ```shell
-> can't open config file /home/gmbot/.config/nostr/config.json: 
+> can’t open config file /home/gmbot/.config/nostr/config.json: 
 > open /home/gmbot/.config/nostr/config.json: no such file or directory
 ```
 
@@ -175,7 +175,7 @@ noscl
 
 ...and you should see a "usage" text as follows:
 
-```shell
+```io
 Usage:
   noscl home
   noscl setprivate <key>
