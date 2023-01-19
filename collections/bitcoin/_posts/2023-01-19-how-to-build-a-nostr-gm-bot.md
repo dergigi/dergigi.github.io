@@ -4,7 +4,7 @@ title: "How to build a nostr gm bot"
 subtitle: "(without writing any code)"
 description: "(without writing any code)"
 date: 2023-01-19
-blocktime: TODO
+blocktime: 772729
 image: /assets/images/gmbot.jpg
 redirect_from: /gmbot
 author: Gigi
