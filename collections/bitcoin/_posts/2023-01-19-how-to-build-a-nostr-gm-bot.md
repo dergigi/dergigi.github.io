@@ -132,7 +132,9 @@ source ~/.bashrc
 
 ## 4) Install noscl
 
-As mentioned before, we're going to use fiatjaf's noscl client to post notes and other stuff. Install the latest version via `go install`:
+As mentioned before, we're going to use fiatjaf's [noscl] client to post notes and other stuff. Install the latest version via `go install`:
+
+[noscl]: https://github.com/fiatjaf/noscl
 
 ```bash
 go install github.com/fiatjaf/noscl@latest
