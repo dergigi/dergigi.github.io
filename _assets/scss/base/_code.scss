@@ -10,9 +10,6 @@ samp {
 
 pre,
 code {
-  color: $color-darkgrey;
-  background: $color-darkergrey;
-
   word-wrap: breaks;
   overflow-wrap: anywhere;
 }
@@ -52,4 +49,10 @@ pre {
 
 code {
   padding: 0.25em 0.5em;
+}
+
+.language-bash code {
+  &:before {
+    content: "$ ";
+  }
 }

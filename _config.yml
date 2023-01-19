@@ -53,6 +53,7 @@ author:
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
