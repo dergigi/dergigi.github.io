@@ -3,6 +3,7 @@ layout: page
 title: Support
 subtitle: Ways to Support Me
 image: /assets/images/bitcoin/value4value.png
+redirect_from: /support
 ---
 
 First of all: thank you for your support. It is because of people like you why I
