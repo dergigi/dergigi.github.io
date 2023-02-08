@@ -17,11 +17,12 @@ provided on a value for value basis.
   </div>
 </div>
 
+If you can not or do not want to part with your sats there are [other ways to support me][support].
+
 ### Time, Talent, Treasure
 
 While treasure in the form of sats is very welcome, *time* and *talent* is very
-much appreciated too!  If you can't part with your hard-earned sats, there are
-[other ways to support me][support]. You can [remix or translate][translations]
+much appreciated too!  You can [remix or translate][translations]
 my work, create an audio or video version, or simply take some time to send it
 to a friend. You can also take some time to [review] my book, which helps to
 feed the algorithmic gods of our present reality.
@@ -30,6 +31,7 @@ For my long-form thoughts on value-for-value see the following:
 
 - [Dear Netizen][netizen]
 - [The Freedom of Value][busking]
+- [A Vision for a Value-Enabled Web][vew]
 - [Value4Value.info][v4v-info]
 
 **TL;DR** Give as much as you think it's worth. Thank you. 🙏🧡
@@ -40,6 +42,7 @@ For my long-form thoughts on value-for-value see the following:
 [license]: {{ '/license' | absolute_url }}
 [support]: {{ '/support' | absolute_url }}
 [busking]: {{ '/busking' | absolute_url }}
+[vew]: {{ '/vew' | absolute_url }}
 [v4v-info]: https://value4value.info
 [translations]: {{ '/translations' | absolute_url }}
 [netizen]: {{ '/dear-netizen' | absolute_url }}
