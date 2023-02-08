@@ -9,6 +9,21 @@ First of all: thank you for your support. It is because of people like you why I
 am able to do what I do. All my work is released for free under an [open and
 permissive license][license] and provided on a [value for value][value] basis.
 
+### Recurring Support
+
+Recurring support to pay the monthly bills is highly appreciated. Unfortunately,
+there is no good way to do recurring payments with bitcoin yet. Which is why I
+still have to use fiat platforms.[^fn-oak]
+
+<div class="action-buttons">
+  <div class="button button-black button-medium">
+    <a href="https://patreon.com/dergigi" style="background-color: #ff5a60;"><i class="fab fa-patreon"></i> &nbsp; Become a Patron</a>
+    <a href="https://github.com/sponsors/dergigi"><i class="fab fa-github"></i> &nbsp; Sponsor me on GitHub</a>
+  </div>
+</div>
+
+[^fn-oak]: There are some promising developments, such as [Oak Node](https://oak-node.net/doc/trunk/README.md) and [Bolt12](https://bootstrap.bolt12.org/examples) recurring payments.
+
 ### Direct Support
 
 The idea is simple: information is provided free of charge, directly, without
@@ -49,19 +64,6 @@ the movies? 🍿 It's a weird and unusual concept, but somehow it works. And
 there's more to it than just money.
 
 <a id="recurring"></a>
-
-### Recurring Support
-
-Recurring support to pay the monthly bills is highly appreciated. Unfortunately,
-there is no good way to do recurring payments with bitcoin yet. Which is why I
-still have to use fiat platforms.
-
-<div class="action-buttons">
-  <div class="button button-black button-medium">
-    <a href="https://patreon.com/dergigi" style="background-color: #ff5a60;"><i class="fab fa-patreon"></i> &nbsp; Become a Patron</a>
-    <a href="https://github.com/sponsors/dergigi"><i class="fab fa-github"></i> &nbsp; Sponsor me on GitHub</a>
-  </div>
-</div>
 
 ### Meatspace Support
 
