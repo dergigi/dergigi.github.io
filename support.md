@@ -61,7 +61,7 @@ completely up to you.
 
 How much value did you get out of it? Pack of chewing gum? Good meal? Night at
 the movies? 🍿 It's a weird and unusual concept, but somehow it works. And
-there's more to it than just money.
+there's more to it than just money. It's about [time, talent, and treasure][value].
 
 <a id="recurring"></a>
 
@@ -113,6 +113,7 @@ My paynym[^paynym] is [+gentlepond791][paynym]. It's a green robot. How fitting!
 [license]: {{ '/license' | absolute_url }}
 [words]: {{ '/bitcoin' | absolute_url }}
 [busking]: {{ '/busking' | absolute_url }}
+[value]: {{ '/value' | absolute_url }}
 [21lessons]: https://21Lessons.com
 
 [^ln-addr]: A [Lightning Address](https://lightningaddress.com/) allows you to receive bitcoin payments using an e-mail style address format. Try it out yourself by signing up to [Stacker News](https://stacker.news) or by using one of these Telegram bots: [LNTXBOT](https://telegram.me/lntxbot), [LightningTipBot](https://t.me/LightningTipBot). My lightning addresses: [s@ts.dergigi.com][sats], [dergigi@ln.tips][lntips], [dergigi@lntxbot.com][lntxbot], [dergigi@stacker.news][sn]
