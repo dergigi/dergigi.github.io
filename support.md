@@ -72,14 +72,15 @@ atoms that exist because of me, buying [my book][21lessons] is a good option.
 
 <div class="action-buttons">
   <div class="button button-orange button-medium">
-    <a href="https://amzn.to/2Wa4qJo">Buy my book</a>
+    <a href="https://amzn.to/2Wa4qJo">Buy my book on Amazon</a>
   </div>
   <small>
-  (also available in
+  (available in
     <a href="https://amzn.to/2AtlfWZ">German</a>,
     <a href="https://amzn.to/3DUxs1O">French</a>,
-    <a href="https://konsensus.network/product/21-lessen/">Dutch</a>, and
-    <a href="https://amzn.to/2WYYkKL">Finnish</a>)
+    <a href="https://amzn.to/2WYYkKL">Finnish</a>, and 
+    <a href="https://21lessons.com/translations">other languages</a>
+    )
   </small>
 </div>
 
