@@ -1,17 +1,19 @@
 ---
 layout: page
-title: Value for Value
+title: Support
 subtitle: Ways to Support Me
 image: /assets/images/bitcoin/value4value.png
 ---
 
 First of all: thank you for your support. It is because of people like you why I
-am able to do what I do. All my work is released for free under a [cc-by-sa
-license][license] and provided on a [value for value][value] basis.
+am able to do what I do. All my work is released for free under an [open and
+permissive license][license] and provided on a [value for value][value] basis.
 
-The idea of value for value is simple: information is provided free of charge,
-directly, without any paywalls or middlemen. If the information was valuable to
-you, you are encouraged to give value back.
+### Direct Support
+
+The idea is simple: information is provided free of charge, directly, without
+any paywalls or middlemen. If the information was valuable to you, you are
+encouraged to give value back.
 
 [value]: {{ '/value' | absolute_url }}
 
@@ -29,32 +31,22 @@ you, you are encouraged to give value back.
     <a href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-210&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD&price=210">
       $210
     </a>
-  </div>
-</div>
-
-Some give 10 sats, some give 21 EUR, some give [$100 USD][100] or more. It's
-completely up to you.
-
-[100]: https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-100&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD&price=100
-
-<div class="action-buttons">
-  <div class="button button-blue button-large">
     <a style="background-color: #46B00C;" href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD">
       Custom amount
     </a>
   </div>
 </div>
 
+Some give 10 sats, some give 21 EUR, some give [$100 USD][100], [1 BTC][1btc], or more. It's
+completely up to you.
+
+[100]: https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-100&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD&price=100
+
+[1btc]: https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-1BTC&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=BTC&price=1
 
 How much value did you get out of it? Pack of chewing gum? Good meal? Night at
 the movies? 🍿 It's a weird and unusual concept, but somehow it works. And
 there's more to it than just money.
-
-### Time, Talent, Treasure
-
-If you can't part with your hard-earned sats, consider giving back with your
-time or talent instead.  For example, you can share one of my [articles][words]
-or work on a [translation][translations].
 
 <a id="recurring"></a>
 
