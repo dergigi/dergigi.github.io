@@ -52,16 +52,16 @@ encouraged to give value back.
   </div>
 </div>
 
+How much value did you get out of it? Pack of chewing gum? Good meal? Night at
+the movies? 🍿 It's a weird and unusual concept, but somehow it works. And
+there's more to it than just money. It's about [time, talent, and treasure][value].
+
 Some give 10 sats, some give 21 EUR, some give [$100 USD][100], [1 BTC][1btc], or more. It's
 completely up to you.
 
 [100]: https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-100&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD&price=100
 
 [1btc]: https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-1BTC&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=BTC&price=1
-
-How much value did you get out of it? Pack of chewing gum? Good meal? Night at
-the movies? 🍿 It's a weird and unusual concept, but somehow it works. And
-there's more to it than just money. It's about [time, talent, and treasure][value].
 
 <a id="recurring"></a>
 
