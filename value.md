@@ -3,6 +3,7 @@ layout: page
 title: Value for Value
 subtitle: Time, Talent, and Treasure
 image: /assets/images/bitcoin/value4value.png
+redirect_from: /value
 ---
 
 If you find my work valuable, consider giving value back as you see
@@ -11,8 +12,8 @@ provided on a value for value basis.
 
 <div class="action-buttons">
   <div class="button button-blue button-medium">
-    <a style="background-color: #46B00C;" href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=value&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD">
-      Give value back 💸
+    <a style="background-color: #46B00C;" href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-value&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD">
+      Give Value Back 💸
     </a>
   </div>
 </div>
@@ -36,8 +37,15 @@ For my long-form thoughts on value-for-value see the following:
 
 **TL;DR** Give as much as you think it's worth. Thank you. 🙏🧡
 
-![Bitcoin is Love](/assets/images/bitcoin/bitcoin-is-love.png)
+<div class="action-buttons">
+  <div class="button button-blue button-medium">
+    <a style="background-color: #46B00C;" href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-value&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD">
+      Give Value Back 💸
+    </a>
+  </div>
+</div>
 
+![Bitcoin is Love](/assets/images/bitcoin/bitcoin-is-love.png)
 
 [license]: {{ '/license' | absolute_url }}
 [support]: {{ '/support' | absolute_url }}
