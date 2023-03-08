@@ -1,7 +1,7 @@
 {% capture name %}{{ page.redirect_from | replace: '/', '' }}{% endcapture %}
 
 <center>
-<h3 id="value4value"><a href="{{ '/support' | absolute_url }}" title="Value4Value">🧡</a></h3>
+<h3 id="value4value"><a href="{{ '/support' | absolute_url }}" title="Value4Value">{% include heart.html %}</a></h3>
   <small>
     Found this valuable? <a href="{{ '/support' | absolute_url }}"><i class="fa-solid fa-circle-info"></i></a>
   </small>
