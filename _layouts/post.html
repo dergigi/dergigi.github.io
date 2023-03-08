@@ -63,9 +63,7 @@ layout: default
             <a href="#value4value" class="post__source"
                title="Give value back #Value4Value"
             >
-            {% if page.tags contains "photography" %}💙
-            {% elsif page.tags contains "nostr" %}💜
-            {% else %}🧡{% endif %}
+            {% include heart.html %}
           </a>
         {% endif %}
       </div>
