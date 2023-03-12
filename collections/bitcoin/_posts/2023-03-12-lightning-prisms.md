@@ -32,12 +32,9 @@ Here is the idea:
 {% include image.html name="lightning-prism.png" %}
 
 All credit to [Mr. Kukks](https://nostr.directory/p/MrKukks), who is now
-officially out of time to implement it himself. (I promised him not to
-talk about it for a couple of weeks so he could go ahead and implement
-it, but he was preoccupied with [improving everyone's
-privacy](https://nitter.at/MrKukks/status/1630221270246719489), which is
-very important, too, of course! In any case, I'm sorry, Kukks, but your
-time is up! 😅)
+officially out of time[^fn-time-up] to implement it himself.
+
+[^fn-time-up]: I promised Kukks not to talk about it for a couple of weeks so he could go ahead and implement it, but he was preoccupied with [improving everyone's privacy](https://nitter.at/MrKukks/status/1630221270246719489), which is very important, too, of course! In any case, I'm sorry, Kukks, but your time is up!
 
 ### Lightning Prisms
 
@@ -46,7 +43,7 @@ value split workflows," to quote the originator.
 
 Here's the gist of it:
 
-- A prism is identified by a lightning address
+- A prism is identified by a lightning address (or similar)
 - A prism has one or multiple recipients
 - Another prism can be one of the recipients
 - Splits are defined programmatically
