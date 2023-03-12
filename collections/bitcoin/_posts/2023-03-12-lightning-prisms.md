@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Lightning Prisms"
-subtitle: "TODO"
-description: "TODO"
+description: "Thoughts on the automatic splitting of sat flows."
 date: 2023-03-12
-blocktime: TODO
+blocktime: 780463
 image: /assets/images/prism.png
 redirect_from: /prism
 author: Gigi
@@ -13,7 +12,6 @@ favorite: false
 tags:
  - Bitcoin
  - Writing
- - Tutorial
  - nostr
 ---
 
