@@ -148,13 +148,14 @@ are provided by our [BTCPay Server](https://btcpayserver.org/) instances.
 
 [blogpost]: lightning:blogpost@satprism.com
 
-[^fn-more]: All other examples shown in the images of this post work too. [dergigi-platobot@satprism.com][plato] is a split between the robot and myself, and [nostr-devs-eat-handsomely@satprism.com][nostr-devs] does an equal split to all devs mentioned in the note by Quiet Warrior. I also took the liberty to create [rhr@satprism.com][rhr], which does a split for Marty and Matt, and there's also [einundzwanzig@satprism.com][euzz] for the German-speaking crew!
+[^fn-more]: All prisms shown in this post are working examples: [nostr-devs-eat-handsomely@satprism.com][nostr-devs] does an equal split to all devs mentioned in the note by Quiet Warrior, and [dergigi-platobot@satprism.com][plato] is a split between the robot and myself. I also took the liberty to create [rhr@satprism.com][rhr], which does a split for Marty and Matt, and there's also [einundzwanzig@satprism.com][euzz] for the German-speaking crew.
+
+[^fn-interface]: I created the example prisms manually, so I'm afraid until someone builds a nice interface that allows users to create these themselves, there won't be an explosion of prisms. I like creating a gazillion lnbits wallets as much as the next guy, but clicking all the buttons to create the actual splits and forwards gets tiresome after a while.
 
 [rhr]: lightning:rhr@satprism.com
 [euzz]: lightning:einundzwanzig@satprism.com
 [plato]: lightning:dergigi-platobot@satprism.com
 [nostr-devs]: lightning:nostr-devs-eat-handsomely@satprism.com
-
 
 I imagine multiple services being created that implement this properly,
 charging a small fee for providing said service. (As mentioned above,
@@ -169,7 +170,7 @@ have these things natively integrated at the protocol level, but I see
 no reason why we shouldn't do a little experimentation with what we
 have today, even if the solutions are imperfect. Until
 [Bolt12](http://bolt12.org/) and similar are widespread, hacking
-something together that just works is probably not the worst idea.
+something together that just works is probably not the worst idea.[^fn-interface]
 
 ### Final Thoughts
 
@@ -184,7 +185,7 @@ popping up left and right.
 
 What's still missing is attaching payment information to individual
 events (as opposed to user profiles) in order for each long-form content
-to have its own lightning address. Maybe it's as easy as extending the
+to have its own payment information. Maybe it's as easy as extending the
 [NIP-23](https://github.com/nostr-protocol/nips/blob/master/23.md)
 metadata, or maybe it would make sense to have this kind of metadata for
 other event kinds too.
