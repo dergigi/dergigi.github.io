@@ -145,11 +145,19 @@ probably not the most stable or elegant solution, but it kinda works,
 and it can be used today.
 
 The [blogpost@satprism.com][blogpost] address that is shown above is a working
-example. It will split any payments 50/50 to Kukks and myself, forwarding the
-splits to our respective self-sovereign lightning addresses (provided by our
-[BTCPay Server](https://btcpayserver.org/) instances).
+example.[^fn-more] It will split any payments 50/50 to Kukks and myself,
+forwarding the splits to our respective self-sovereign lightning addresses which
+are provided by our [BTCPay Server](https://btcpayserver.org/) instances.
 
 [blogpost]: lightning:blogpost@satprism.com
+
+[^fn-more]: All other examples shown in the images of this post work too. [dergigi-platobot@satprism.com][plato] is a split between the robot and myself, and [nostr-devs-eat-handsomely@satprism.com][nostr-devs] does an equal split to all devs mentioned in the note by Quiet Warrior. I also took the liberty to create [rhr@satprism.com][rhr], which does a split for Marty and Matt, and there's also [einundzwanzig@satprism.com][euzz] for the German-speaking crew!
+
+[rhr]: lightning:rhr@satprism.com
+[euzz]: lightning:einundzwanzig@satprism.com
+[plato]: lightning:dergigi-platobot@satprism.com
+[nostr-devs]: lightning:nostr-devs-eat-handsomely@satprism.com
+
 
 I imagine multiple services being created that implement this properly,
 charging a small fee for providing said service. (As mentioned above,
@@ -188,5 +196,6 @@ We'll figure it out, and by "we," I actually mean you guys: the
 developers that sit down to spec out and implement stuff. I'll be
 cheering you on while I [shitpost on nostr][derggg].
 
+---
 
 [derggg]: nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc
