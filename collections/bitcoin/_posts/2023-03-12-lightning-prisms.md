@@ -189,8 +189,11 @@ metadata, or maybe it would make sense to have this kind of metadata for
 other event kinds too.
 
 We'll figure it out, and by "we," I actually mean you guys: the
-developers that sit down to spec out and implement stuff. I'll be
-cheering you on while I [shitpost on nostr][derggg].
+developers that sit down to spec out and build stuff.
+
+I'll be cheering you on while I [shitpost on nostr][derggg].
+
+{% include image.html name="free-the-bird.png" link="https://nostr-resources.com/" %}
 
 ---
 
