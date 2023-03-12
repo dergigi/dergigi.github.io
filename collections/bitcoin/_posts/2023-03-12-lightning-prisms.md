@@ -39,7 +39,7 @@ privacy](https://nitter.at/MrKukks/status/1630221270246719489), which is
 very important, too, of course! In any case, I'm sorry, Kukks, but your
 time is up! 😅)
 
-### Lightning Prisms {#Lightning-Prisms}
+### Lightning Prisms
 
 A Lightning Prism is a construct that allows for "lightning address
 value split workflows," to quote the originator.
@@ -80,7 +80,7 @@ This can be useful for organizations and individuals alike, as your
 payment identifier remains the same even if your underlying
 infrastructure or wallet provider changes.
 
-### Issues & Improvements {#Issues-&amp;-Improvements}
+### Issues & Improvements
 
 There are two main issues: fees and privacy. One has to account for fees
 to pay for the splitting and forwarding, but there's also the issue
@@ -126,7 +126,7 @@ I'm sure there are more issues and plenty of other improvements to be
 had. But as always, perfect is the enemy of the good, so let's talk
 about practical solutions that can be implemented and used right now.
 
-### Implementation {#Implementation}
+### Implementation
 
 Prisms based on lightning addresses can be built today without much
 effort. You can even build this yourself without any programming
@@ -165,7 +165,7 @@ have today, even if the solutions are imperfect. Until
 [Bolt12](http://bolt12.org/) and similar are widespread, hacking
 something together that just works is probably not the worst idea.
 
-### Final Thoughts {#Final-Thoughts}
+### Final Thoughts
 
 I expect this idea to find widespread adoption among writers and other
 content creators, just like the idea of "streaming sats"---and the
