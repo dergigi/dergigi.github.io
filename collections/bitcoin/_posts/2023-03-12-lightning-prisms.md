@@ -94,7 +94,7 @@ In the end, we don\'t want to send sats to addresses, but to people. If
 nostr continues to catch on, it might turn itself into the global
 address book for these kinds of things, i.e., the go-to place to look up
 payment information of people, organizations, and other entities. In the
-future, a prism might have multiple \`nprofile\` or \`npub\` identifiers
+future, a prism might have multiple `nprofile` or `npub` identifiers
 as targets, behind which the actual payment information lies. 
 
 {% include image.html name="lightning-prism-nostr-npubs.png" caption="" %}
@@ -144,9 +144,9 @@ it\") just to play around with the idea. Granted, it\'s a bit hacky and
 probably not the most stable or elegant solution, but it kinda works,
 and it can be used today.
 
-The \`blogpost@satprism.com\` address that is shown above is a working
+The `blogpost@satprism.com` address that is shown above is a working
 example. It will split any payments 50/50 and forward the splits to
-\`kukks@kukks.org\` and \`s@ts.dergigi.com\`, which are self-sovereign
+`kukks@kukks.org` and `s@ts.dergigi.com`, which are self-sovereign
 lightning addresses running on our [BTCPay
 Server](https://btcpayserver.org/) instances.
 
