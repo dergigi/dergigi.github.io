@@ -95,7 +95,7 @@ nostr continues to catch on, it might turn itself into the global
 address book for these kinds of things, i.e., the go-to place to look up
 payment information of people, organizations, and other entities. In the
 future, a prism might have multiple `nprofile` or `npub` identifiers
-as targets, behind which the actual payment information lies. 
+as targets, behind which the actual payment information lies.
 
 {% include image.html name="lightning-prism-nostr-npubs.png" caption="" %}
 
@@ -111,7 +111,7 @@ Why can't the wallet automatically send all excess sats to my fully
 self-sovereign lightning address once it's more than a dinner's worth
 of sats? Or do a loop-out once a month to move the sats to cold storage?
 
-Anyway, I digress. 
+Anyway, I digress.
 
 One improvement I'd love to see is to provide a way to make Lightning
 Prisms transparent. In the best case, users should have a way to see how
@@ -174,14 +174,14 @@ splits of these value streams---found wide adoption among podcasters.
 Special-purpose nostr clients for various content types are already in
 the works, with SubStack- and Medium-like interfaces like
 [BlogStack](https://blogstack.io/) and [Habla](https://habla.news/)
-popping up left and right. 
+popping up left and right.
 
 What's still missing is attaching payment information to individual
 events (as opposed to user profiles) in order for each long-form content
 to have its own lightning address. Maybe it's as easy as extending the
 [NIP-23](https://github.com/nostr-protocol/nips/blob/master/23.md)
 metadata, or maybe it would make sense to have this kind of metadata for
-other event kinds too. 
+other event kinds too.
 
 We'll figure it out, and by "we," I actually mean you guys: the
 developers that sit down to spec out and implement stuff. I'll be
