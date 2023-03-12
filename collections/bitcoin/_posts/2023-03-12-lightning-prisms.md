@@ -4,7 +4,7 @@ title: "Lightning Prisms"
 description: "Thoughts on the automatic splitting of sat flows."
 date: 2023-03-12
 blocktime: 780463
-image: /assets/images/prism.png
+image: /assets/images/prism.jpg
 redirect_from: /prism
 author: Gigi
 category: bitcoin
@@ -193,7 +193,7 @@ developers that sit down to spec out and build stuff.
 
 I'll be cheering you on while I [shitpost on nostr][derggg].
 
-{% include image.html name="free-the-bird.png" link="https://nostr-resources.com/" %}
+{% include image.html name="free-the-bird.jpg" link="https://nostr-resources.com/" %}
 
 ---
 
