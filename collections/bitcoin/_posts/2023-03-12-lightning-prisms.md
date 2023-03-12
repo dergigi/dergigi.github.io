@@ -3,7 +3,7 @@ layout: post
 title: "Lightning Prisms"
 description: "Thoughts on the automatic splitting of sat flows."
 date: 2023-03-12
-blocktime: 780463
+blocktime: 780464
 image: /assets/images/prism.jpg
 redirect_from: /prism
 author: Gigi
