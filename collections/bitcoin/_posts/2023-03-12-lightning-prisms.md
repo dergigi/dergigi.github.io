@@ -22,7 +22,7 @@ of Bitcoin. While simple things like scheduled payments and automated
 payment splits do exist, we are undoubtedly still trapped in
 conventional thinking when it comes to the flow of sats.
 
-I\'d like to share a simple idea that was shared with me a couple of
+I'd like to share a simple idea that was shared with me a couple of
 months ago in the hopes that it will spread far and wide and, in the
 best case, that someone will just go ahead and implement it. (Or a
 better version of it.)
@@ -34,22 +34,22 @@ Here is the idea:
 All credit to [Mr. Kukks](https://nostr.directory/p/MrKukks), who is now
 officially out of time to implement it himself. (I promised him not to
 talk about it for a couple of weeks so he could go ahead and implement
-it, but he was preoccupied with [improving everyone\'s
+it, but he was preoccupied with [improving everyone's
 privacy](https://nitter.at/MrKukks/status/1630221270246719489), which is
-very important, too, of course! In any case, I\'m sorry, Kukks, but your
+very important, too, of course! In any case, I'm sorry, Kukks, but your
 time is up! 😅)
 
 ### Lightning Prisms {#Lightning-Prisms}
 
-A Lightning Prism is a construct that allows for \"lightning address
-value split workflows,\" to quote the originator.
+A Lightning Prism is a construct that allows for "lightning address
+value split workflows," to quote the originator.
 
-Here\'s the gist of it:
+Here's the gist of it:
 
--   A prism is identified by a lightning address
--   A prism has one or multiple recipients
--   Another prism can be one of the recipients
--   Splits are defined programmatically
+- A prism is identified by a lightning address
+- A prism has one or multiple recipients
+- Another prism can be one of the recipients
+- Splits are defined programmatically
 
 This simple construct allows for all kinds of use cases and can be
 implemented on the application layer without any changes to Bitcoin or
@@ -68,9 +68,9 @@ evolution of these payment splits, as it is easier to reason about them
 and chain them together.
 
 Another obvious use case is the splitting of nostr zaps. Imagine that
-every \"quote-tweet\" that gets zapped results in an automated payment
+every "quote-tweet" that gets zapped results in an automated payment
 split, passing on 50% (or whatever the user has configured) to the
-original note. Or imagine a prism that\'s created on-the-fly, splitting
+original note. Or imagine a prism that's created on-the-fly, splitting
 zaps equally for everyone tagged in a note.
 
 {% include image.html name="lightning-prism-nostr-sat-splits.png" caption="" %}
@@ -83,14 +83,14 @@ infrastructure or wallet provider changes.
 ### Issues & Improvements {#Issues-&amp;-Improvements}
 
 There are two main issues: fees and privacy. One has to account for fees
-to pay for the splitting and forwarding, but there\'s also the issue
+to pay for the splitting and forwarding, but there's also the issue
 that lightning addresses are IP-based, which has certain privacy
 implications. We could do [LNURL over
 nostr](https://github.com/lnurl/luds/pull/203)---again, shout-out to
 Kukks---which brings up the following question: Are Lightning Addresses
 the right level of abstraction for Lightning Prisms?
 
-In the end, we don\'t want to send sats to addresses, but to people. If
+In the end, we don't want to send sats to addresses, but to people. If
 nostr continues to catch on, it might turn itself into the global
 address book for these kinds of things, i.e., the go-to place to look up
 payment information of people, organizations, and other entities. In the
@@ -99,21 +99,21 @@ as targets, behind which the actual payment information lies. 
 
 {% include image.html name="lightning-prism-nostr-npubs.png" caption="" %}
 
-In any case, at this point in time, I\'m not too terribly concerned
-about implementation details. I\'m concerned with a lack of imagination,
+In any case, at this point in time, I'm not too terribly concerned
+about implementation details. I'm concerned with a lack of imagination,
 which is what this post is supposed to address.
 
-Speaking of imagination: why don\'t we have any spending wallets that
+Speaking of imagination: why don't we have any spending wallets that
 automatically move sats to a different wallet above a certain threshold?
-I\'m more than happy to have some lunch money in a custodial wallet, but
-once it\'s worth three months of rent, I\'m not as comfortable anymore.
-Why can\'t the wallet automatically send all excess sats to my fully
-self-sovereign lightning address once it\'s more than a dinner\'s worth
+I'm more than happy to have some lunch money in a custodial wallet, but
+once it's worth three months of rent, I'm not as comfortable anymore.
+Why can't the wallet automatically send all excess sats to my fully
+self-sovereign lightning address once it's more than a dinner's worth
 of sats? Or do a loop-out once a month to move the sats to cold storage?
 
 Anyway, I digress. 
 
-One improvement I\'d love to see is to provide a way to make Lightning
+One improvement I'd love to see is to provide a way to make Lightning
 Prisms transparent. In the best case, users should have a way to see how
 payments are split that is both easy to understand and verify. One
 possibility would be to broadcast a
@@ -122,8 +122,8 @@ parameterized replaceable event every time a prism is created or
 updated. Of course, depending on the use case, it might make sense to
 keep the final destination(s) hidden from public view.
 
-I\'m sure there are more issues and plenty of other improvements to be
-had. But as always, perfect is the enemy of the good, so let\'s talk
+I'm sure there are more issues and plenty of other improvements to be
+had. But as always, perfect is the enemy of the good, so let's talk
 about practical solutions that can be implemented and used right now.
 
 ### Implementation {#Implementation}
@@ -134,13 +134,13 @@ experience using two [LNbits](https://lnbits.com/) extensions:
 [scrub](https://github.com/lnbits/scrub) &
 [split](https://github.com/lnbits/splitpayments). Add
 [satdress](https://github.com/nbd-wtf/satdress) on top of it all to give
-every wallet its own lightning address, and voilà, you\'ve got yourself
+every wallet its own lightning address, and voilà, you've got yourself
 a Lightning Prism! You can even build a nice interface as a wrapper
 around it, as all of the above can be created programmatically with
 simple API calls.
 
-I did all that (minus the \"build a nice interface as a wrapper around
-it\") just to play around with the idea. Granted, it\'s a bit hacky and
+I did all that (minus the "build a nice interface as a wrapper around
+it") just to play around with the idea. Granted, it's a bit hacky and
 probably not the most stable or elegant solution, but it kinda works,
 and it can be used today.
 
@@ -160,7 +160,7 @@ prevalent as [zaps](https://nostr-resources.com/#receiving-zaps) and
 similar [V4V](https://value4value.info/) payments---as well as Lightning
 in general---become more prevalent. Of course, in the best case, we will
 have these things natively integrated at the protocol level, but I see
-no reason why we shouldn\'t do a little experimentation with what we
+no reason why we shouldn't do a little experimentation with what we
 have today, even if the solutions are imperfect. Until
 [Bolt12](http://bolt12.org/) and similar are widespread, hacking
 something together that just works is probably not the worst idea.
@@ -168,7 +168,7 @@ something together that just works is probably not the worst idea.
 ### Final Thoughts {#Final-Thoughts}
 
 I expect this idea to find widespread adoption among writers and other
-content creators, just like the idea of \"streaming sats\"---and the
+content creators, just like the idea of "streaming sats"---and the
 splits of these value streams---found wide adoption among podcasters.
 
 Special-purpose nostr clients for various content types are already in
@@ -176,13 +176,13 @@ the works, with SubStack- and Medium-like interfaces like
 [BlogStack](https://blogstack.io/) and [Habla](https://habla.news/)
 popping up left and right. 
 
-What\'s still missing is attaching payment information to individual
+What's still missing is attaching payment information to individual
 events (as opposed to user profiles) in order for each long-form content
-to have its own lightning address. Maybe it\'s as easy as extending the
+to have its own lightning address. Maybe it's as easy as extending the
 [NIP-23](https://github.com/nostr-protocol/nips/blob/master/23.md)
 metadata, or maybe it would make sense to have this kind of metadata for
 other event kinds too. 
 
-We\'ll figure it out, and by \"we,\" I actually mean you guys: the
+We'll figure it out, and by "we," I actually mean you guys: the
 developers that sit down to spec out and implement stuff. I'll be
 cheering you on while I shitpost on nostr.
