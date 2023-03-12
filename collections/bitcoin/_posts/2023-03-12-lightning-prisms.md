@@ -29,7 +29,7 @@ better version of it.)
 
 Here is the idea:
 
-![image](https://lh6.googleusercontent.com/QCC3_Sk24g00SkCwHrPCTt4-srOvLkwRsDbGls_Ebzi3bmYNzBGcUvQwjn8DyYy6vd7l_nVT-uNj356xYq7zFZHxpQJ0n2meRoEtp3StwL7WW759Y0l58i5jKLwngXoNyO87zxIqYlSyxvk7b0TszZU)
+{% include image.html name="lightning-prism.png" caption="" %}
 
 All credit to [Mr. Kukks](https://nostr.directory/p/MrKukks), who is now
 officially out of time to implement it himself. (I promised him not to
@@ -73,7 +73,7 @@ split, passing on 50% (or whatever the user has configured) to the
 original note. Or imagine a prism that\'s created on-the-fly, splitting
 zaps equally for everyone tagged in a note.
 
-![image](https://lh5.googleusercontent.com/iBb0g55NJkEocfZg8BlErMUke0BVwWyaZM1VepiiPHC-XQUBNVZo5-ItQrlsUa2u1AdAYho2jFgxaOM4InY4Ucbfw59KMD0a5rshXY8WqWmwR-0rK1Fko-Yo08z8NQPvs-pjmtlS0RC4UeggK6Dq68s)
+{% include image.html name="lightning-prism-nostr-sat-splits.png" caption="" %}
 
 Because payments are forwarded, every prism acts as a proxy of sorts.
 This can be useful for organizations and individuals alike, as your
@@ -97,7 +97,7 @@ payment information of people, organizations, and other entities. In the
 future, a prism might have multiple \`nprofile\` or \`npub\` identifiers
 as targets, behind which the actual payment information lies. 
 
-![image](https://lh4.googleusercontent.com/psXxRAilkGtqQvG_NQSWwI45XQhRkFDQwWG3ctbWh7LQNt07a6GcPsmRia3UD-ngFxYWdN3y43c2EK1hqDHSr2I1iBKcMKxQntYk6Req4bhlzQfbHzdwjB6rLicHX6hC5JP9sVBWcZ0CwU2cHLCQ6QQ)
+{% include image.html name="lightning-prism-nostr-npubs.png" caption="" %}
 
 In any case, at this point in time, I\'m not too terribly concerned
 about implementation details. I\'m concerned with a lack of imagination,
