@@ -29,7 +29,7 @@ better version of it.)
 
 Here is the idea:
 
-{% include image.html name="lightning-prism.png" caption="" %}
+{% include image.html name="lightning-prism.png" %}
 
 All credit to [Mr. Kukks](https://nostr.directory/p/MrKukks), who is now
 officially out of time to implement it himself. (I promised him not to
@@ -73,7 +73,7 @@ split, passing on 50% (or whatever the user has configured) to the
 original note. Or imagine a prism that's created on-the-fly, splitting
 zaps equally for everyone tagged in a note.
 
-{% include image.html name="lightning-prism-nostr-sat-splits.png" caption="" %}
+{% include image.html name="lightning-prism-nostr-sat-splits.png" caption="Sat splits for nostr! What's not to like?" %}
 
 Because payments are forwarded, every prism acts as a proxy of sorts.
 This can be useful for organizations and individuals alike, as your
@@ -97,7 +97,7 @@ payment information of people, organizations, and other entities. In the
 future, a prism might have multiple `nprofile` or `npub` identifiers
 as targets, behind which the actual payment information lies.
 
-{% include image.html name="lightning-prism-nostr-npubs.png" caption="" %}
+{% include image.html name="lightning-prism-nostr-npubs.png" caption="Identifiers don't necessarily have to be lightning addresses. Npubs or similar would work too!" %}
 
 In any case, at this point in time, I'm not too terribly concerned
 about implementation details. I'm concerned with a lack of imagination,
@@ -185,4 +185,7 @@ other event kinds too.
 
 We'll figure it out, and by "we," I actually mean you guys: the
 developers that sit down to spec out and implement stuff. I'll be
-cheering you on while I shitpost on nostr.
+cheering you on while I [shitpost on nostr][derggg].
+
+
+[derggg]: nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc
