@@ -144,11 +144,12 @@ it") just to play around with the idea. Granted, it's a bit hacky and
 probably not the most stable or elegant solution, but it kinda works,
 and it can be used today.
 
-The `blogpost@satprism.com` address that is shown above is a working
-example. It will split any payments 50/50 and forward the splits to
-`kukks@kukks.org` and `s@ts.dergigi.com`, which are self-sovereign
-lightning addresses running on our [BTCPay
-Server](https://btcpayserver.org/) instances.
+The [blogpost@satprism.com][blogpost] address that is shown above is a working
+example. It will split any payments 50/50 to Kukks and myself, forwarding the
+splits to our respective self-sovereign lightning addresses (provided by our
+[BTCPay Server](https://btcpayserver.org/) instances).
+
+[blogpost]: lightning:blogpost@satprism.com
 
 I imagine multiple services being created that implement this properly,
 charging a small fee for providing said service. (As mentioned above,
