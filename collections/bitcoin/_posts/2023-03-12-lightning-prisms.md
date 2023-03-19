@@ -5,6 +5,7 @@ description: "Thoughts on the automatic splitting of sat flows."
 date: 2023-03-12
 blocktime: 780464
 image: /assets/images/prism.jpg
+audio: /assets/audio/prism.ogg
 redirect_from: /prism
 author: Gigi
 category: bitcoin
