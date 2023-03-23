@@ -55,7 +55,9 @@ term, memes only propagate if they benefit the organism-environment.
 > around by the organism. The relationship between them is, to use John
 > Dewey’s word, transactional.
 >
-><cite>Alan Watts</cite>
+><cite>[Alan Watts]</cite>
+
+[Alan Watts]: https://alanwatts.org/transcripts/the-tao-of-philosophy/
 
 What does that have to do with Bitcoin? Well, you\'ll have to ask
 yourself how the Bitcoin network comes into existence, and once you do
@@ -63,12 +65,14 @@ that, you\'ll realize that Bitcoin isn\'t too different from the memes
 and genes discussed above. Bitcoin is instantiated computer code, a
 digital organism that pays humanity to keep it alive, as Ralph Merkle so
 aptly put it. The cumulative work embedded in Bitcoin\'s
-[timechain](https://21-ways.com/2/) is what makes Bitcoin real and what
+[timechain][time] is what makes Bitcoin real and what
 makes it different from ordinary information. And ordinary computer
 programs, for that matter. Just like there\'s a difference between you
 and a print-out of your DNA, there\'s a difference between the Bitcoin
 code--- the memes that it implements--- and the real-world
 instantiation of Bitcoin.
+
+[time]: {{ '/time' | absolute_url }}
 
 The Bitcoin network instantiates and validates itself every 10 minutes,
 block by block, like clockwork. It is these blocks that are the unit of
@@ -165,20 +169,22 @@ shape our environment, which, of course, shapes us as well. Culture is a
 result of this mutual shaping, and what is culture but a multitude of
 memes?
 
-In Bitcoin, we are dealing with an incredible opinionated tool, one that
-is intimately wrapped up with us. A tool that creates an environment
-that is ridiculously hard to change. I would even go as far as saying
-that some aspects of this strange [meme-tool-organism-environment
-loop](https://dergigi.com/2019/05/01/bitcoins-gravity/#loop) are
-impossible to change, as it would destroy the identity of Bitcoin and
-bitcoiners alike.
+In Bitcoin, we are dealing with an incredible opinionated tool, one that is
+intimately wrapped up with us. A tool that creates an environment that is
+ridiculously hard to change. I would even go as far as saying that some aspects
+of this strange [meme-tool-organism-environment loop][loop] are impossible to
+change, as it would destroy the identity of Bitcoin and bitcoiners alike.
+
+[loop]: {{ '/2022/04/03/inalienable-property-rights/#loop' | absolute_url }}
 
 To me, Bitcoin will always be defined by
-[twentyoneism](https://dergigi.com/2020/11/05/what-is-21ism/), even if
+[twentyoneism][21ism], even if
 I\'m the last one who believes this meme. I\'d rather die on the hill of
 21 million--- alone and in poverty, node in hand, twelve words in my
 head--- than agree to raise the bitcoin supply by 1%.
 ([Mandibles.](https://bitcoin-resources.com/books/the-mandibles))
+
+[21ism]: {{ '/21ism' | absolute_url }}
 
 There are those who accept this unchanging environment and those who
 reject it, which, naturally, leads to a split in culture.
@@ -253,11 +259,12 @@ this](https://bitcoin-resources.com/series/gradually-then-suddenly/).
 
 {% include image.html name="silicon-valley-bank.jpg" %}
 
-There is a certain ethic embedded in Bitcoin, and it is this ethic that
-forms the cornerstone of the memes we see emerge and propagate. If I had
-to sum it up in one phrase, it would be this one: \"[You shall not
-steal.](https://dergigi.com/cryptography)\" If I had to sum it up in one
-number, it would be, of course, 21 million.
+There is a certain ethic embedded in Bitcoin, and it is this ethic that forms
+the cornerstone of the memes we see emerge and propagate. If I had to sum it up
+in one phrase, it would be this one: \"[You shall not steal.][cryptography]" If
+I had to sum it up in one number, it would be, of course, 21 million.
+
+[cryptography]: {{ '/cryptography' | absolute_url }}
 
 The motivation behind the creation of Bitcoin is undoubtedly political,
 as \"chancellor on brink of second bailout for banks\" and various
