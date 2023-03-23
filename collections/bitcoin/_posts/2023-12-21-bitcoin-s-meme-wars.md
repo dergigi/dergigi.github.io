@@ -573,7 +573,7 @@ outlook on life.\"
 
 Yes. What a Chad.
 
-{% include image.html name="yes-chad-network.png" %}
+{% include image.html name="yes-chad-network.png" caption="That's literally how Bitcoin works." %}
 
 ### **Fiat Mind vs. Bitcoin Mind**
 
