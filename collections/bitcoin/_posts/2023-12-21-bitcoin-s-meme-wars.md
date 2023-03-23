@@ -3,7 +3,7 @@ layout: post
 title: "Bitcoin's Meme Wars"
 description: "Not only does the line between good and evil run through everyone’s heart, but the line between fiat and bitcoin runs through everyone’s heart too."
 date: 2023-03-21
-blocktime: TODO
+blocktime: 781847
 image: /assets/images/meme-wars.png
 redirect_from: /memes
 source: https://www.citadel21.com/bitcoins-meme-wars
