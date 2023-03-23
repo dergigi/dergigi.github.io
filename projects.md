@@ -5,7 +5,7 @@ subtitle: Words and Code for Bitcoin
 ---
 
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
-* Education: [Bitcoin Resources](#bitcoin-resources), [Bitcoin Quotes](#bitcoin-quotes)
+* Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes)
 * Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
 * Code: [Jam](#jam), [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
 * Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop)
@@ -64,6 +64,18 @@ selecting and curating content.
 * Source: [GitHub](https://github.com/bitcoin-resources/bitcoin-resources.github.io)
 
 [bitcoin-resources]: https://bitcoin-resources.com/
+
+### Nostr Resources
+
+TODO
+
+{% include image.html path="/assets/images/bitcoin/projects/nostr-resources.png" link="https://nostr-resources.com" %}
+
+* Website: [nostr-resources.com][nostr-resources]
+* Contribute: [GitHub](https://github.com/nostr-resources/nostr-resources.github.io/blob/master/CONTRIBUTING.md)
+* Source: [GitHub](https://github.com/nostr-resources/nostr-resources.github.io)
+
+[nostr-resources]: https://nostr-resources.com/
 
 ### Bitcoin Quotes
 
