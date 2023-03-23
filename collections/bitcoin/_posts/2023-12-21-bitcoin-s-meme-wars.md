@@ -4,7 +4,7 @@ title: "Bitcoin's Meme Wars"
 description: "TODO"
 date: 2023-03-21
 blocktime: TODO
-image: /assets/images/memewars.jpg
+image: /assets/images/meme-wars.png
 redirect_from: /memes
 source: https://www.citadel21.com/bitcoins-meme-wars
 author: Gigi
@@ -15,23 +15,11 @@ tags:
  - Writing
 ---
 
-<figure>
-<div data-animation-role="image">
-<p><img
-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/48470afa-7cab-47cb-863d-88c0721a7de6/cover+copy.png"
-data-type="image" data-image-id="6418c2c32675fb7937d0ac46"
-data-load="false" data-image-focal-point="0.5,0.5"
-data-image-dimensions="1736x1224"
-data-image="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/48470afa-7cab-47cb-863d-88c0721a7de6/cover+copy.png"
-data-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/48470afa-7cab-47cb-863d-88c0721a7de6/cover+copy.png" /></p>
-
-</figure>
-
 Someone whose star continues to rise once said that \"Bitcoin isn\'t
 just memes.\" I disagree. It\'s all memes, all the way down. Let me
 explain.
 
-### **What\'s in a meme?**
+### What\'s in a meme?
 
 Before we get into the weeds of the matter, let\'s take a closer look at
 the words we are dealing with. According to the American Heritage
@@ -57,20 +45,17 @@ gradual changes in the environment or collapsing suddenly due to
 destructive feedback loops they bring about. Like genes, in the long
 term, memes only propagate if they benefit the organism-environment.
 
-<figure>
-<blockquote>
-<span>“</span>In the science of ecology, one learns that a human being
-is not an organism in an environment, but is an organism-environment.
-That is to say, a unified field of behavior. If you describe carefully
-the behavior of any organism, you cannot do so without at the same time
-describing the behavior of the environment… [...] The organism is not
-the puppet of the environment, being pushed around by it. Nor on the
-other hand, is the environment the puppet of the organism, being pushed
-around by the organism. The relationship between them is, to use John
-Dewey’s word, transactional.<span>”</span>
-</blockquote>
-<figcaption>— Alan Watts</figcaption>
-</figure>
+> In the science of ecology, one learns that a human being
+> is not an organism in an environment, but is an organism-environment.
+> That is to say, a unified field of behavior. If you describe carefully
+> the behavior of any organism, you cannot do so without at the same time
+> describing the behavior of the environment… [...] The organism is not
+> the puppet of the environment, being pushed around by it. Nor on the
+> other hand, is the environment the puppet of the organism, being pushed
+> around by the organism. The relationship between them is, to use John
+> Dewey’s word, transactional.
+>
+><cite>Alan Watts</cite>
 
 What does that have to do with Bitcoin? Well, you\'ll have to ask
 yourself how the Bitcoin network comes into existence, and once you do
@@ -99,7 +84,7 @@ with us. If you\'ve heard of Bitcoin, if you are aware of the \"21
 million\" meme, Bitcoin transacted with you. Way before you made your
 first bitcoin transaction.
 
-### **Memes and their Environment**
+### Memes and their Environment
 
 Bitcoin is people, when it comes down to it. Yes, it\'s software, but
 people have to run the software and, more importantly, decide for
@@ -153,18 +138,6 @@ million,\" or what you\'ve got on your hands is not bitcoin, but a
 shitcoin. Running bitcoin means acting out Bitcoin, which in turn means
 holding your own keys, running your own node, and agreeing to the core
 consensus parameters that make bitcoin bitcoin.
-
-<figure>
-<div data-animation-role="image">
-<p><img
-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/a89fc856-0d6b-4720-8d37-89b79a6ac773/bitcoin-zen+copy.png"
-data-type="image" data-image-id="6418c4df854742289f85e300"
-data-load="false" data-image-focal-point="0.5,0.5"
-data-image-dimensions="1957x1261"
-data-image="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/a89fc856-0d6b-4720-8d37-89b79a6ac773/bitcoin-zen+copy.png"
-data-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/a89fc856-0d6b-4720-8d37-89b79a6ac773/bitcoin-zen+copy.png" /></p>
-
-</figure>
 
 Over time, a horizontal meme transfer will take place. Bitcoin will rub
 off on you. Not only will you be exposed to the ideas that are embedded
@@ -291,17 +264,7 @@ and no, this is not an exaggeration.
 Here\'s the good news, however: [Bitcoin fixes
 this](https://bitcoin-resources.com/series/gradually-then-suddenly/).
 
-<figure>
-<div data-animation-role="image">
-<p><img
-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/2bd1710b-cea0-46e2-aab7-938b8b2b09d7/silicon-valley-bank+copy+2.png"
-data-type="image" data-image-id="6418c81e86e79009b8545f07"
-data-load="false" data-image-focal-point="0.5,0.5"
-data-image-dimensions="1153x890"
-data-image="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/2bd1710b-cea0-46e2-aab7-938b8b2b09d7/silicon-valley-bank+copy+2.png"
-data-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/2bd1710b-cea0-46e2-aab7-938b8b2b09d7/silicon-valley-bank+copy+2.png" /></p>
-
-</figure>
+{% include image.html name="silicon-valley-bank.jpg" %}
 
 There is a certain ethic embedded in Bitcoin, and it is this ethic that
 forms the cornerstone of the memes we see emerge and propagate. If I had
