@@ -622,17 +622,8 @@ crazy-eyed as he is, go in front of a camera to perpetuate the meme that
 \"there is infinite cash in the federal reserve,\" hoping that this
 statement would instill confidence in the failing fiat system?
 
-<figure>
-<div data-animation-role="image">
-<p><img
-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/332be363-c0a3-4615-a464-be2537f85ebe/infinite-amount+copy.png"
-data-type="image" data-image-id="6418c9c43676852e7528c140"
-data-load="false" data-image-focal-point="0.5,0.5"
-data-image-dimensions="900x577"
-data-image="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/332be363-c0a3-4615-a464-be2537f85ebe/infinite-amount+copy.png"
-data-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/332be363-c0a3-4615-a464-be2537f85ebe/infinite-amount+copy.png" /></p>
-
-</figure>
+{% capture absoluteVideoURL %}{{ 'assets/video/infinite-cash-meme.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=absoluteVideoURL %}
 
 It\'s almost impossible to watch these interviews without shaking one\'s
 head. Do these people truly believe what they are saying? Is it malice,
@@ -648,7 +639,7 @@ says, \"anyone should have access to the monetary system.\" Its design
 says, \"we see what you\'ve been doing, fiat people, and we will put a
 stop to it.\"
 
-### "Bitcoin's existence is offensive to the fiat mind."
+> Bitcoin's existence is offensive to the fiat mind.
 
 It is ironic that what most fiat people see at first are the battle
 cries of bitcoiners, screaming \"HODL!\" and shouting \"we will make you
@@ -665,7 +656,7 @@ dismiss. The deeply technical, economic, and game-theoretical organism
 that brings about the 21 million, not so much. Both are growing. Both
 are intertwined. One can not exist without the other.
 
-###  **Fiat Self vs. Bitcoin Self**
+### Fiat Self vs. Bitcoin Self
 
 Upon first contact, Bitcoin is dismissed by most. In a world ruled by
 [The Fiat
@@ -676,17 +667,12 @@ stumble upon it. I think it\'s safe to say that most bitcoiners didn\'t
 
 Many a bitcoiner\'s journey can be summed up as follows:
 
-1.  What the fuck is this?
-
-2.  What the fuck is that?
-
-3.  What the fuck?
-
-4.  The fuck?
-
-5.  Fuck\...
-
-6.  All in.
+1. What the fuck is this?
+2. What the fuck is that?
+3. What the fuck?
+4. The fuck?
+5. Fuck\...
+6. All in.
 
 The process of understanding and adopting bitcoin is the process of
 leaving your fiat self behind. You have to get the fiat memes out of
@@ -700,14 +686,11 @@ present, of fake money and short-term thinking. By participating in the
 bitcoin system, you reinforce the meme of sound money, inelastic supply,
 long-term thinking, responsibility, and inalienable property rights.
 
-<figure>
-<blockquote>
-<span>“</span>You cannot buy the revolution. You cannot make the
-revolution. You can only be the revolution. It is in your spirit, or it
-is nowhere.<span>”</span>
-</blockquote>
-<figcaption>— Ursula K. Le Guin</figcaption>
-</figure>
+> You cannot buy the revolution. You cannot make the
+> revolution. You can only be the revolution. It is in your spirit, or it
+> is nowhere.
+>
+><cite>Ursula K. Le Guin</cite>
 
 Don\'t get me wrong. There is nothing wrong with working in the fiat
 mines and humbly stacking sats. It\'s one of the most important things
@@ -731,17 +714,7 @@ There\'s a fork in the road. The sign on the one side says: \"you\'ll
 own nothing and you\'ll be happy.\" The sign on the other side says:
 \"You\'ll own bitcoin, and you\'ll be the best version of yourself.\"
 
-<figure>
-<div data-animation-role="image">
-<p><img
-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/b15c3f98-87c8-4b04-afcd-40dbe5bd9f20/split-stack-sats-vs-debt-slavery+copy.png"
-data-type="image" data-image-id="6418ca4f959b7b4d98ea97e7"
-data-load="false" data-image-focal-point="0.5,0.5"
-data-image-dimensions="500x600"
-data-image="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/b15c3f98-87c8-4b04-afcd-40dbe5bd9f20/split-stack-sats-vs-debt-slavery+copy.png"
-data-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/b15c3f98-87c8-4b04-afcd-40dbe5bd9f20/split-stack-sats-vs-debt-slavery+copy.png" /></p>
-
-</figure>
+{% include image.html name="split-stack-sats-vs-debt-slavery.png" %}
 
 Bitcoin has the power to bring out the best version of yourself because
 the incentives of Bitcoin are set up in favor of mutual improvement. On
@@ -760,14 +733,11 @@ to do that, you will quickly find yourself out of bitcoin. Nature will
 force you to part with your sats, because everyone --- including you ---
 has to eat.
 
-<figure>
-<blockquote>
-<span>“</span>Get busy with life’s purpose, toss aside empty hopes, get
-active in your own rescue-if you care for yourself at all—and do it
-while you can.<span>”</span>
-</blockquote>
-<figcaption>— Marcus Aurelius</figcaption>
-</figure>
+> Get busy with life’s purpose, toss aside empty hopes, get
+> active in your own rescue-if you care for yourself at all—and do it
+> while you can.
+>
+><cite>Marcus Aurelius</cite>
 
 The Bitcoin path is not an easy path, but a fulfilling one. It is
 fulfilling because you know the rules, you know the consequences, and
