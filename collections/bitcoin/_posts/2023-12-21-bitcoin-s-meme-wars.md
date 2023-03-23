@@ -432,25 +432,11 @@ slogan: \"You\'ll own nothing and you\'ll be happy.\"
 saying. Someone decided that happiness is the ultimate goal to be
 achieved, and they (and only they) know how to achieve it for you.
 
-<figure>
-<div data-animation-role="image">
-<p><img
-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/d4e820d5-cb2f-47db-a87e-4a8f885150be/omg-let-people-enjoy-things.jpg"
-data-type="image" data-image-id="6418c122a0166c2349a94664"
-data-load="false" data-image-focal-point="0.5,0.5"
-data-image-dimensions="662x654"
-data-image="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/d4e820d5-cb2f-47db-a87e-4a8f885150be/omg-let-people-enjoy-things.jpg"
-data-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/d4e820d5-cb2f-47db-a87e-4a8f885150be/omg-let-people-enjoy-things.jpg" /></p>
+{% include image.html name="omg-let-people-enjoy-things.jpg" %} 
 
-</figure>
-
-<figure>
-<blockquote>
-<span>“</span>Every man is happy until happiness is suddenly a
-goal.<span>”</span>
-</blockquote>
-<figcaption>— Tame Impala</figcaption>
-</figure>
+> Every man is happy until happiness is suddenly a goal.
+>
+><cite>Tame Impala</cite>
 
 Or what about the statement by Lagarde that \"we should be happier to
 have a job than to have our savings protected?\" That\'s an expression
@@ -460,17 +446,7 @@ wealth. Even worse: it suggests that it\'s perfectly fine to steal what
 regular people managed to save, diligently working over the course of
 their lives.
 
-<figure>
-<div data-animation-role="image">
-<p><img
-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/c06a744b-7a3b-462d-a271-ac2f4c35407c/lagarde-jobs+copy.png"
-data-type="image" data-image-id="6418c7414e24147a04dcb9bd"
-data-load="false" data-image-focal-point="0.5,0.5"
-data-image-dimensions="1340x690"
-data-image="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/c06a744b-7a3b-462d-a271-ac2f4c35407c/lagarde-jobs+copy.png"
-data-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/c06a744b-7a3b-462d-a271-ac2f4c35407c/lagarde-jobs+copy.png" /></p>
-
-</figure>
+{% include image.html name="lagarde-jobs.jpg" %} 
 
 There is a reason why we speak of \"the rat race\" and why this part of
 our culture is so heavily criticized in art and film. To quote Tyler
@@ -526,34 +502,21 @@ them to do something meaningless. Change the rules arbitrarily. That\'s
 what really demoralizes people: being imprisoned in a system of
 arbitrary rule changes. No hope for stability and no way out.
 
-<figure>
-<div data-animation-role="image">
-<p><img
-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/9c28ce89-f95d-46a2-9fd3-b54e606bcb18/ww3+copy.png"
-data-type="image" data-image-id="6418c8a58c753a709ebcde54"
-data-load="false" data-image-focal-point="0.5,0.5"
-data-image-dimensions="928x921"
-data-image="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/9c28ce89-f95d-46a2-9fd3-b54e606bcb18/ww3+copy.png"
-data-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/9c28ce89-f95d-46a2-9fd3-b54e606bcb18/ww3+copy.png" /></p>
+{% include image.html name="ww3.jpg" %}
 
-</figure>
-
-<figure>
-<blockquote>
-<span>“</span>You know, now I finally get it. About the difference
-between actual war, and global Guerilla war. Because what we’ve got now
-is not conventional shooting war. With military honor, military ranks,
-military activity... This is culture war. We’ve got the troubles. We’ve
-got the disorder. And now I really know how that works. You know, when
-the disorder is over, you don’t get to say: ‘I proudly served.’ It
-doesn’t matter which side you’re on. Because the disorder is a war on
-the pride. It’s a war on the people’s morale. You don’t get to confront
-the enemy as an equal. Everybody lives in shadow. It’s always covert.
-It’s always fake. It’s always trumped up. And no history can be written
-of it, because it’s all been compartmentalized.<span>”</span>
-</blockquote>
-<figcaption>— Bruce Sterling</figcaption>
-</figure>
+> You know, now I finally get it. About the difference
+> between actual war, and global Guerilla war. Because what we’ve got now
+> is not conventional shooting war. With military honor, military ranks,
+> military activity... This is culture war. We’ve got the troubles. We’ve
+> got the disorder. And now I really know how that works. You know, when
+> the disorder is over, you don’t get to say: ‘I proudly served.’ It
+> doesn’t matter which side you’re on. Because the disorder is a war on
+> the pride. It’s a war on the people’s morale. You don’t get to confront
+> the enemy as an equal. Everybody lives in shadow. It’s always covert.
+> It’s always fake. It’s always trumped up. And no history can be written
+> of it, because it’s all been compartmentalized.
+>
+><cite>Bruce Sterling</cite>
 
 When it comes to monetary policy, the fiat system has no rules. \"The
 rules are made up and the points don\'t matter,\" to paraphrase Drew
@@ -607,17 +570,7 @@ outlook on life.\"
 
 Yes. What a Chad.
 
-<figure>
-<div data-animation-role="image">
-<p><img
-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/6cab2ab5-fbf8-4eba-9545-6a89d6fa592b/yes-chad-network.png"
-data-type="image" data-image-id="64186489e53fc4001a909746"
-data-load="false" data-image-focal-point="0.5,0.5"
-data-image-dimensions="680x680"
-data-image="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/6cab2ab5-fbf8-4eba-9545-6a89d6fa592b/yes-chad-network.png"
-data-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/6cab2ab5-fbf8-4eba-9545-6a89d6fa592b/yes-chad-network.png" /></p>
-
-</figure>
+{% include image.html name="yes-chad-network.png" %}
 
 ### **Fiat Mind vs. Bitcoin Mind**
 
@@ -631,17 +584,7 @@ a last-ditch attempt to avoid the unavoidable.
 \"Our great war is a spiritual war,\" as Tyler Durden so aptly put it.
 And we are right in the thick of it.
 
-<figure>
-<div data-animation-role="image">
-<p><img
-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/f7be526a-75f5-44a9-8f00-84855293d6b1/pigs-combined+%281%29+copy.png"
-data-type="image" data-image-id="6418c9277f16c5236917a9cd"
-data-load="false" data-image-focal-point="0.5,0.5"
-data-image-dimensions="1920x774"
-data-image="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/f7be526a-75f5-44a9-8f00-84855293d6b1/pigs-combined+%281%29+copy.png"
-data-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/f7be526a-75f5-44a9-8f00-84855293d6b1/pigs-combined+%281%29+copy.png" /></p>
-
-</figure>
+![Pigs](/assets/images/bitcoin/2023-03-21-bitcoin-s-meme-wars/pigs-combined.webp#full)
 
 With each passing day, it\'s becoming more and more obvious that this is
 a spiritual war. A clash of ideas, a battle of differing worldviews.
