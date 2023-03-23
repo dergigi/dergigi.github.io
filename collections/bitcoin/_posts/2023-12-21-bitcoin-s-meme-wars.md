@@ -69,7 +69,7 @@ aptly put it. The cumulative work embedded in Bitcoin\'s
 makes it different from ordinary information. And ordinary computer
 programs, for that matter. Just like there\'s a difference between you
 and a print-out of your DNA, there\'s a difference between the Bitcoin
-code--- the memes that it implements--- and the real-world
+code---the memes that it implements---and the real-world
 instantiation of Bitcoin.
 
 [time]: {{ '/time' | absolute_url }}
@@ -127,7 +127,7 @@ The meme \"21 million\" comes first, and after our brains have been
 sufficiently infected by the idea, we\'ll run the software that brings
 the 21 million into existence.
 
-Of course, some people--- most people, I believe--- come to bitcoin in
+Of course, some people---most people, I believe---come to bitcoin in
 a roundabout way. They think it\'s a speculative asset, something that
 exists to make more dollars, which is to say to make more fiat. Or they
 discover it via online gambling or other avenues, and this is how their
@@ -152,15 +152,15 @@ Or you won\'t. If you disagree with the ideas embedded in Bitcoin\'s
 consensus parameters, you have two choices: fork off, or suffer from
 Bitcoin Derangement Syndrome. You could also, of course, adapt to the
 environment and live in symbiosis with it, which is to come to terms
-with the memetic material embedded in Bitcoin--- accepting it, and
+with the memetic material embedded in Bitcoin---accepting it, and
 slowly agreeing with it.
 
 Using the ecological lens sketched out before, Bitcoin and bitcoiners
 form the organism-environment, influencing each other in 10-minute
 intervals. The tricky thing is that Bitcoin is both organism and
 environment, as are we. The Bitcoin meme lives in our brains and our
-idea of what Bitcoin is--- and what it should be--- changes over time.
-The economic extension of us--- our sats--- live in the environment
+idea of what Bitcoin is---and what it should be---changes over time.
+The economic extension of us---our sats---live in the environment
 that is Bitcoin, an environment that we bring about, individually and
 collectively.
 
@@ -180,8 +180,8 @@ change, as it would destroy the identity of Bitcoin and bitcoiners alike.
 To me, Bitcoin will always be defined by
 [twentyoneism][21ism], even if
 I\'m the last one who believes this meme. I\'d rather die on the hill of
-21 million--- alone and in poverty, node in hand, twelve words in my
-head--- than agree to raise the bitcoin supply by 1%.
+21 million---alone and in poverty, node in hand, twelve words in my
+head---than agree to raise the bitcoin supply by 1%.
 ([Mandibles.](https://bitcoin-resources.com/books/the-mandibles))
 
 [21ism]: {{ '/21ism' | absolute_url }}
@@ -201,8 +201,8 @@ mess is related to a decline in religious belief, a result of the
 Nietzschean assassination of God.
 
 All of these reasons might be valid or partly valid, but for me, as a
-bitcoiner--- as someone who has marveled at the graphs of \"[WTF
-happened in 1971](https://wtfhappenedin1971.com/)\" many times--- it is
+bitcoiner---as someone who has marveled at the graphs of \"[WTF
+happened in 1971](https://wtfhappenedin1971.com/)\" many times---it is
 hard to point to anything other than the emergency of fiat money as the
 main underlying reason for the chaos we are living through. To me, it
 seems obvious that these crazy times are a result of the fiat monetary
@@ -217,7 +217,7 @@ line of society is best summarized as \"bitcoin vs. fiat.\"
 We are now 50 years into acting out the idea of fiat money. The meme
 that the nature of base money doesn\'t matter, the stubborn conviction
 that \"we owe it to ourselves.\" We seem to think that our collective
-future is a magical golden pot--- seemingly without a bottom--- that
+future is a magical golden pot---seemingly without a bottom---that
 we can borrow from over and over and over again.
 
 I believe that we are in the final stages of the great fiat experiment.
@@ -243,12 +243,12 @@ of fiat money itself.**
 ### **Printing Money vs. Fixing The Money**
 
 Realizing the importance of money, as well as the moral and cultural
-implications of the nature of money--- and [the ethics of money
+implications of the nature of money---and [the ethics of money
 production](https://bitcoin-resources.com/books/the-ethics-of-money-production)
---- has altered my worldview irreversibly. Once I realized that money
+---has altered my worldview irreversibly. Once I realized that money
 printing is simply wealth redistribution and that centrally planned
-wealth redistribution is an impossible task--- not only
-computationally, but morally--- it dawned on me that confiscation by
+wealth redistribution is an impossible task---not only
+computationally, but morally---it dawned on me that confiscation by
 inflation and other forms of involuntary redistribution is nothing more
 than roundabout stealing. The fiat system is a system of
 [slavery](https://bitcoin-resources.com/articles/mastersand-slavesof-money/),
@@ -289,7 +289,7 @@ quality memes.
 Contrast the ethic embedded in Bitcoin (fixed supply, no forced
 redistribution, no free lunch, no bailouts) to the ethic of fiat money
 (endless supply, centrally planned redistribution, bailouts for friends,
-everything is made up)--- or, even more drastically, the \"ethic\" of
+everything is made up)---or, even more drastically, the \"ethic\" of
 shitcoins, which is just fiat money on steroids (everyone can print
 their own money, nothing matters, rug-pulls are funny and dickbutts are
 basically the Mona Lisa).
@@ -303,8 +303,8 @@ organism-environments?
 
 {% include image.html name="own-nothing-no-privacy-be-happy.png" %}
 
-Translated to plain language, the meme of fiat money--- the idea that
-we can and should create money from thin air--- is simply saying, \"I
+Translated to plain language, the meme of fiat money---the idea that
+we can and should create money from thin air---is simply saying, \"I
 know better than the market how to allocate money\", which is to say to
 know better than everyone else what is good and what is bad, what is
 valuable and what isn\'t, what is necessary and what is superfluous.
@@ -321,7 +321,7 @@ and anyone can access it. No exceptions.
 These are two very different ideas, two very different memes. One is
 implemented in the fiat system; the other is implemented in the Bitcoin
 system. One is breaking at the seams; the other is chugging along,
-growing economically, computationally, and memetically--- every 10
+growing economically, computationally, and memetically---every 10
 minutes.
 
 ### Bitcoin vs. Gold
@@ -615,8 +615,8 @@ necessary to state that a battle has been won?
 
 If we wouldn\'t be in the midst of a spiritual war, why would [Christine
 Lagarde](https://www.youtube.com/watch?v=wrkxkBSvOUg), a person that was
-convicted of negligence and misuse of public funds--- a person who is
-now the President of the European Central Bank--- state publicly that
+convicted of negligence and misuse of public funds---a person who is
+now the President of the European Central Bank---state publicly that
 we have to regulate Bitcoin at a global level, because, \"if there is an
 escape, that escape will be used\"?
 
