@@ -594,14 +594,11 @@ Bitcoin](https://twitter.com/dergigi/status/1275800659447746562?s=20),
 Augustin Carstens, knows that this is a war. Why else would he, the
 embodiment of the fiat standard, appear on TV, stating the following?
 
-<figure>
-<blockquote>
-<span>“</span>A few years ago, cryptocurrencies were put as an
-alternative to fiat money. I think that battle has been won. A
-technology doesn’t make for trusted money.<span>”</span>
-</blockquote>
-<figcaption>— Augustin Carstens</figcaption>
-</figure>
+> A few years ago, cryptocurrencies were put as an
+> alternative to fiat money. I think that battle has been won. A
+> technology doesn’t make for trusted money.
+>
+><cite>Augustin Carstens</cite>
 
 If we wouldn\'t be wound up in memetic warfare, why would it be
 necessary to state that a battle has been won?
@@ -612,6 +609,9 @@ convicted of negligence and misuse of public funds --- a person who is
 now the President of the European Central Bank --- state publicly that
 we have to regulate Bitcoin at a global level, because, \"if there is an
 escape, that escape will be used\"?
+
+{% capture absoluteVideoURL %}{{ 'assets/video/lagarde-escape.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=absoluteVideoURL %}
 
 Why would Stephen Lynch assert that bitcoin will \"go to zero when we
 come up with a CBDC that has the full faith and credit of the United
@@ -773,17 +773,7 @@ It is a long walk, a daily struggle. And nobody can do the walking but
 you. I would love to tell you that I'll meet you at the top, but I\'m
 afraid there is no top. I'll meet you on the road instead.
 
-<figure>
-<div data-animation-role="image">
-<p><img
-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/008825a0-c472-452b-beb6-ea02b655d1b4/PATH+copy.png"
-data-type="image" data-image-id="6418c39234d6632c79be03b3"
-data-load="false" data-image-focal-point="0.5,0.5"
-data-image-dimensions="1836x1224"
-data-image="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/008825a0-c472-452b-beb6-ea02b655d1b4/PATH+copy.png"
-data-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/008825a0-c472-452b-beb6-ea02b655d1b4/PATH+copy.png" /></p>
-
-</figure>
+![The Bitcoin Path](/assets/images/bitcoin/2023-03-21-bitcoin-s-meme-wars/path.webp#full)
 
 ---
 
