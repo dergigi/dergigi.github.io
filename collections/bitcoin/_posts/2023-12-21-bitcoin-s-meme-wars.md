@@ -682,8 +682,6 @@ says, "anyone should have access to the monetary system." Its design
 says, "we see what you've been doing, fiat people, and we will put a
 stop to it."
 
-> Bitcoin's existence is offensive to the fiat mind.
-
 It is ironic that what most fiat people see at first are the battle
 cries of bitcoiners, screaming "HODL!" and shouting "we will make you
 obsolete" from the rooftops. They fail to see the deeper truth of these
@@ -709,14 +707,18 @@ people are unable to comprehend the orange coin when they initially
 stumble upon it. I think it's safe to say that most bitcoiners didn't
 "get it" immediately. I certainly didn't get it at first.
 
-Many a bitcoiner's journey can be summed up as follows:
+Many a bitcoiner's [journey] can be summed up as follows:
 
-1. What the fuck is this?
+1. What the fuck is this?[^fn-tweet]
 2. What the fuck is that?
 3. What the fuck?
 4. The fuck?
 5. Fuck\...
 6. All in.
+
+[journey]: {{ '/journey' | absolute_url }}
+[^fn-tweet]: h/t to [Stephen Chow][sc-tweet]
+[sc-tweet]: https://twitter.com/chowcollection/status/1418456490827042817?s=20
 
 The process of understanding and adopting bitcoin is the process of
 leaving your fiat self behind. You have to get the fiat memes out of
