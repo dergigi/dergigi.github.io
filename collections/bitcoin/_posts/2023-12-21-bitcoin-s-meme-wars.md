@@ -366,8 +366,8 @@ suddenly](https://bitcoin-resources.com/series/gradually-then-suddenly/).
 
 Let\'s return to the assertion that \"you will not find a solution to
 political problems in cryptography.\" I mentioned before that I
-disagree, and here\'s why. **Politics is downstream from culture, and
-cryptography in general (and Bitcoin in particular) changes culture.**
+disagree, and here\'s why. Politics is downstream from culture, and
+cryptography in general (and Bitcoin in particular) changes culture.
 
 This should be clear as day to anyone but the most blind observer of the
 Bitcoin space. The culture around bitcoin is steeped in responsibility
@@ -488,6 +488,7 @@ know that\'s just the way of the world. But for me, to think that I have
 another 15 years of basically wasting my life, waiting for the weekends.
 Just the mundane torture of it all\...\"
 
+Watch [the clip] if you have the chance. 
 It\'s one thing to theorize about the meme of the rat race; it\'s
 another thing to watch a grown man break down crying after reflecting on
 his life, the system he is embedded in, and the future that this system
@@ -495,6 +496,8 @@ has in store for him. After wiping away his tears, he goes on to
 speculate what the reason for his depressive outlook might be: \"This
 place I know the rules. It\'s life outside of this place that makes me
 wanna cry.\"
+
+[the clip]: https://bitcointv.com/w/m93jXXQz8iq3CF3rFtsrn7
 
 That\'s it, isn\'t it? Rules and rule changes. If you want to deeply and
 utterly depress someone, change the rules, and change them often. Force
