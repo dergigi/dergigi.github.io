@@ -179,7 +179,7 @@ ridiculously hard to change. I would even go as far as saying that some aspects
 of this strange [meme-tool-organism-environment loop][loop] are impossible to
 change, as it would destroy the identity of Bitcoin and bitcoiners alike.
 
-[loop]: {{ '/2022/04/03/inalienable-property-rights/#loop' | absolute_url }}
+[loop]: {{ '/2019/05/01/bitcoins-gravity/#loop' | absolute_url }}
 
 To me, Bitcoin will always be defined by
 [twentyoneism][21ism], even if
