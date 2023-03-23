@@ -234,7 +234,9 @@ that is not in accordance with it. Be it ideas or otherwise.
 > bread, for why should we die in your presence? For the money has
 > failed.
 >
-><cite>Genesis 47:15</cite>
+><cite>[Genesis 47:15][god]</cite>
+
+[god]: https://bitcoin-resources.com/books/thank-god-for-bitcoin
 
 This time around, however, the fiat experiment is not locally contained.
 It's not the money of a single country that is failing but the meme
@@ -257,7 +259,7 @@ and no, this is not an exaggeration.
 Here's the good news, however: [Bitcoin fixes
 this](https://bitcoin-resources.com/series/gradually-then-suddenly/).
 
-{% include image.html name="silicon-valley-bank.jpg" %}
+{% include image.html name="silicon-valley-bank.jpg" caption="This is our <a href='https://dergigi.com/memeworld'>meme world</a>, everyone else is just living in it." %}
 
 There is a certain ethic embedded in Bitcoin, and it is this ethic that forms
 the cornerstone of the memes we see emerge and propagate. If I had to sum it up
@@ -382,9 +384,12 @@ and self-ownership ("hold your own keys" & "not your keys, not your
 coins"), verification and reasoning from first principles ("[don't
 trust, verify](https://21lessons.com/16/)"), long-term thinking and
 saving for the future ("[stay humble, stack
-sats](https://dergigi.com/2020/04/27/dear-family-dear-friends/)"), as
+sats][family]"), as
 well as a focus on hard work, integrity, truth, and visible outcomes
-("[proof-of-work](https://dergigi.com/pow)").
+("[proof-of-work][pow]").
+
+[family]: {{ '/family' | absolute_url }}
+[pow]: {{ '/pow' | absolute_url }}
 
 Satoshi, in true cypherpunk fashion, realized that memes have to be
 implemented to be most efficiently spread, which is why he sat down and
@@ -401,7 +406,9 @@ against reality.
 
 > Don’t let your memes be dreams.
 >
-><cite>Satoshi (paraphrased)</cite>
+><cite>[Satoshi][code] (paraphrased)</cite>
+
+[code]: https://satoshi.nakamotoinstitute.org/emails/cryptography/6/
 
 Is it any surprise that bitcoin is spreading into the "sound food,"
 "sound farming," free speech, and human rights communities? That
