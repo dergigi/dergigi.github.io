@@ -452,7 +452,7 @@ slogan: "You'll own nothing and you'll be happy."
 saying. Someone decided that happiness is the ultimate goal to be
 achieved, and they (and only they) know how to achieve it for you.
 
-{% include image.html name="omg-let-people-enjoy-things.jpg" %}
+{% include image.html name="omg-let-people-enjoy-things.jpg" caption="``Happiness''"%}
 
 As if happiness was the ultimate goal in the first place, the end-all and
 be-all, the reason for our existence. What about the pursuit of something
@@ -758,9 +758,11 @@ environments, but we are also bound to each other via the equally real
 economic environments we choose to participate in. And by each dollar
 spent and every satoshi saved, we birth our future.
 
-There's a fork in the road. The sign on the one side says: "you'll
-own nothing and you'll be happy." The sign on the other side says:
-"You'll own bitcoin, and you'll be the best version of yourself."
+There's a fork in the road.
+
+The sign on the one side says: "you'll own nothing and you'll be happy."
+The sign on the other side says: "You'll own bitcoin, and you'll be the best
+version of yourself."
 
 {% include image.html name="split-stack-sats-vs-debt-slavery.png" caption="The choice is yours." %}
 
