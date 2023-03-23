@@ -363,6 +363,8 @@ of sats are settled, finally and electronically, which is to say at the
 speed of light. Real, physical settlement. Global and instant, without
 much cost or friction. Every 10 minutes.
 
+{% include image.html name="bitcoin-vs-gold.jpg" %}
+
 The gold meme will still spread for a while, and that's okay. People
 are nostalgic, especially if they are set in their ways. As with
 scientific revolutions, the monetary revolution that is currently
