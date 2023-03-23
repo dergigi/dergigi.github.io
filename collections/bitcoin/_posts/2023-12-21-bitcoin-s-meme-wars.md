@@ -189,7 +189,7 @@ head---than agree to raise the bitcoin supply by 1%.
 There are those who accept this unchanging environment and those who
 reject it, which, naturally, leads to a split in culture.
 
-### **Cultural Splits**
+### Cultural Splits
 
 We are undoubtedly living through a Culture War of sorts. Left vs.
 Right, Red vs. Blue, Based vs. Woke, Blue Bird vs. Purple Bird, and
@@ -237,10 +237,10 @@ that is not in accordance with it. Be it ideas or otherwise.
 ><cite>Genesis 47:15</cite>
 
 This time around, however, the fiat experiment is not locally contained.
-**It's not the money of a single country that is failing but the meme
-of fiat money itself.**
+It's not the money of a single country that is failing but the meme
+of fiat money itself.
 
-### **Printing Money vs. Fixing The Money**
+### Printing Money vs. Fixing The Money
 
 Realizing the importance of money, as well as the moral and cultural
 implications of the nature of money---and [the ethics of money
@@ -551,7 +551,7 @@ nihilism.
 
 There is a reason why people say that Bitcoin is hope.
 
-###  **Black Pill vs. Orange Pill**
+### Black Pill vs. Orange Pill
 
 Bitcoin is hope because Bitcoin's rules are known and stable. The
 Bitcoin system is insanely reliable, operating like clockwork, with
@@ -582,7 +582,7 @@ Yes. What a Chad.
 
 {% include image.html name="yes-chad-network.png" caption="That's literally how Bitcoin works." %}
 
-### **Fiat Mind vs. Bitcoin Mind**
+### Fiat Mind vs. Bitcoin Mind
 
 The fiat system will not fade away easily, nor will it disappear
 quietly. Too many people are still infected with the meme of easy money,
