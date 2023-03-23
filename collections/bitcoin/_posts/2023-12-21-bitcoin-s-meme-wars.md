@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bitcoin's Meme Wars"
-description: "TODO"
+description: "Not only does the line between good and evil run through everyone’s heart, but the line between fiat and bitcoin runs through everyone’s heart too."
 date: 2023-03-21
 blocktime: TODO
 image: /assets/images/meme-wars.png
