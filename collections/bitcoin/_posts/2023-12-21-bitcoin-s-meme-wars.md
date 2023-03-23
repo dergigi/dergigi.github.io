@@ -148,6 +148,8 @@ off on you. Not only will you be exposed to the ideas that are embedded
 in Bitcoin; no, you will be part of it all, living the meme by holding
 the corn, day-to-day, block-to-block.
 
+{% include image.html name="bitcoin-zen.jpg" caption="Bitcoin Zen" %}
+
 Or you won't. If you disagree with the ideas embedded in Bitcoin's
 consensus parameters, you have two choices: fork off, or suffer from
 Bitcoin Derangement Syndrome. You could also, of course, adapt to the
@@ -446,7 +448,7 @@ slogan: "You'll own nothing and you'll be happy."
 saying. Someone decided that happiness is the ultimate goal to be
 achieved, and they (and only they) know how to achieve it for you.
 
-{% include image.html name="omg-let-people-enjoy-things.jpg" %} 
+{% include image.html name="omg-let-people-enjoy-things.jpg" %}
 
 As if happiness was the ultimate goal in the first place, the end-all and
 be-all, the reason for our existence. What about the pursuit of something
