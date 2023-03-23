@@ -206,17 +206,7 @@ artificial and highly political environment that, whether we realize it
 or not, is the economic operating system of our world. To me, the fault
 line of society is best summarized as \"bitcoin vs. fiat.\"
 
-<figure>
-<div data-animation-role="image">
-<p><img
-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/cbf47c12-317e-4b22-93e5-266fdf268d31/bitcoiner-political-compass+copy.png"
-data-type="image" data-image-id="6418c55424fe120625e2058c"
-data-load="false" data-image-focal-point="0.5,0.5"
-data-image-dimensions="1299x875"
-data-image="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/cbf47c12-317e-4b22-93e5-266fdf268d31/bitcoiner-political-compass+copy.png"
-data-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/cbf47c12-317e-4b22-93e5-266fdf268d31/bitcoiner-political-compass+copy.png" /></p>
-
-</figure>
+{% include image.html name="bitcoiner-political-compass.jpg" %}
 
 We are now 50 years into acting out the idea of fiat money. The meme
 that the nature of base money doesn\'t matter, the stubborn conviction
@@ -233,15 +223,12 @@ in Egypt, Rome, and in many other cultures before ours. And, once more,
 nature will reassert itself by wreaking havoc and killing off everything
 that is not in accordance with it. Be it ideas or otherwise.
 
-<figure>
-<blockquote>
-<span>“</span>So when the money failed in the land of Egypt and in the
-land of Canaan, all the Egyptians came to Joseph and said, ‘Give us
-bread, for why should we die in your presence? For the money has
-failed.<span>”</span>
-</blockquote>
-<figcaption>— Genesis 47:15</figcaption>
-</figure>
+> So when the money failed in the land of Egypt and in the
+> land of Canaan, all the Egyptians came to Joseph and said, ‘Give us
+> bread, for why should we die in your presence? For the money has
+> failed.
+>
+><cite>Genesis 47:15</cite>
 
 This time around, however, the fiat experiment is not locally contained.
 **It\'s not the money of a single country that is failing but the meme
@@ -307,17 +294,7 @@ difference between bitcoiners and shitcoiners a natural result of the
 memes embedded in and brought about by the different
 organism-environments?
 
-<figure>
-<div data-animation-role="image">
-<p><img
-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/957e9d59-3c41-4092-8186-43ba185cdb5b/own-nothing-combined+copy.png"
-data-type="image" data-image-id="6418c64fe703551b9d5bdcd4"
-data-load="false" data-image-focal-point="0.5,0.5"
-data-image-dimensions="1661x612"
-data-image="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/957e9d59-3c41-4092-8186-43ba185cdb5b/own-nothing-combined+copy.png"
-data-src="https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/957e9d59-3c41-4092-8186-43ba185cdb5b/own-nothing-combined+copy.png" /></p>
-
-</figure>
+{% include image.html name="own-nothing-no-privacy-be-happy.png" %}
 
 Translated to plain language, the meme of fiat money --- the idea that
 we can and should create money from thin air --- is simply saying, \"I
@@ -340,7 +317,7 @@ system. One is breaking at the seams; the other is chugging along,
 growing economically, computationally, and memetically --- every 10
 minutes.
 
-### **Bitcoin vs. Gold**
+### Bitcoin vs. Gold
 
 When it comes to identifying the root cause of many of our ills, gold
 bugs had the right idea (for the most part). But they had no way to
@@ -415,12 +392,9 @@ the ideas you have in mind, the memes you want to see propagate in this
 world, but implementing them. Which is to say: putting them to the test
 against reality.
 
-<figure>
-<blockquote>
-<span>“</span>Don’t let your memes be dreams.<span>”</span>
-</blockquote>
-<figcaption>— Satoshi (paraphrased)</figcaption>
-</figure>
+> Don’t let your memes be dreams.
+>
+><cite>Satoshi (paraphrased)</cite>
 
 Is it any surprise that bitcoin is spreading into the \"sound food,\"
 \"sound farming,\" free speech, and human rights communities? That
