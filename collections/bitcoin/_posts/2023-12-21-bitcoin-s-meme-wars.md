@@ -118,10 +118,12 @@ That's how bitcoin works, and that's how it will always work, which is
 why memes are important and why it actually is memes all the way down.
 
 You voluntarily have to opt-in to use Bitcoin. You have to be convinced
-of the idea first, the idea of accepting sats, of dropping fiat and
+of [the idea][idea] first, the idea of accepting sats, of dropping fiat and
 acquiring corn. Only after you've convinced yourself that electronic
 cash with a fixed supply might be useful will you start accepting it or
 start saving in it.
+
+[idea]: {{ '/idea' | absolute_url }}
 
 The meme "21 million" comes first, and after our brains have been
 sufficiently infected by the idea, we'll run the software that brings
