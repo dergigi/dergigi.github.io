@@ -67,7 +67,12 @@ selecting and curating content.
 
 ### Nostr Resources
 
-TODO
+The awesome thing about [nostr][nostr] is that it is a protcol, not a platform.
+It's a bit strange, and messy, and imperfect, and a little bit like Bitcoin, which is why I love it.
+This project evolved out of [a
+gist](https://gist.github.com/dergigi/1ee8dc7e3da4b6572ed785ab24bc9907/revisions)
+that was quite hastily put together. Its purpose was to help people wrap their
+heads around nostr, and I guess this is the purpose still.
 
 {% include image.html path="/assets/images/bitcoin/projects/nostr-resources.png" link="https://nostr-resources.com" %}
 
@@ -76,6 +81,7 @@ TODO
 * Source: [GitHub](https://github.com/nostr-resources/nostr-resources.github.io)
 
 [nostr-resources]: https://nostr-resources.com/
+[nostr]: {{ '/nostr' | absolute_url }}
 
 ### Bitcoin Quotes
 
