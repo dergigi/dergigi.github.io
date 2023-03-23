@@ -448,9 +448,16 @@ achieved, and they (and only they) know how to achieve it for you.
 
 {% include image.html name="omg-let-people-enjoy-things.jpg" %} 
 
+As if happiness was the ultimate goal in the first place, the end-all and
+be-all, the reason for our existence. What about the pursuit of something
+meaningful, something that is hard, something that requires sacrifice, which
+implies pain and suffering?
+
 > Every man is happy until happiness is suddenly a goal.
 >
-><cite>Tame Impala</cite>
+><cite>[Tame Impala][impala]</cite>
+
+[impala]: https://youtu.be/sBEfo73lOvk
 
 Or what about the statement by Lagarde that "we should be happier to
 have a job than to have our savings protected?" That's an expression
@@ -479,11 +486,13 @@ they are hopeless and have accepted their position in the system---be it
 consciously or unconsciously.
 
 Nothing shows the drudgery of the fiat rat race better than the short
-animated movie "Happiness" which is a visual journey of man's
+animated movie "[Happiness]" which is a visual journey of man's
 unrelenting quest for fulfillment in the modern world. It puts into
 pictures what many people fail to put into words. Helplessness,
 addiction, hopelessness. A crisis of self, a crisis of meaning. A lack
 of a hopeful vision for the future.
+
+[Happiness]: https://youtu.be/e9dZQelULDk
 
 "Quite frankly, it gets quite depressing," to quote a 44-year-old
 working-class man who is stuck in the woods alone. "I've been trying
@@ -519,7 +528,12 @@ them to do something meaningless. Change the rules arbitrarily. That's
 what really demoralizes people: being imprisoned in a system of
 arbitrary rule changes. No hope for stability and no way out.
 
-{% include image.html name="ww3.jpg" %}
+> World War III will be a guerilla information war,
+> with no division between military and civilian participation.
+>
+><cite>Marshall McLuhan</cite>
+
+{% include image.html name="ww3.jpg" caption="The meme is the message." %}
 
 > You know, now I finally get it. About the difference
 > between actual war, and global Guerilla war. Because what we’ve got now
@@ -533,7 +547,9 @@ arbitrary rule changes. No hope for stability and no way out.
 > It’s always fake. It’s always trumped up. And no history can be written
 > of it, because it’s all been compartmentalized.
 >
-><cite>Bruce Sterling</cite>
+><cite>[Bruce Sterling][bruce]</cite>
+
+[bruce]: https://archive.org/details/BruceSterlingSxswKeynoteSpeechTheStateOfTheWorld
 
 When it comes to monetary policy, the fiat system has no rules. "The
 rules are made up and the points don't matter," to paraphrase Drew
@@ -556,7 +572,9 @@ Without Bitcoin, the prospect of our future is bleak. Without bitcoin,
 you have two options: the black pill of pessimism or the Soma of
 nihilism.
 
-There is a reason why people say that Bitcoin is hope.
+There is a reason why people say that [Bitcoin is hope][hope].
+
+[hope]: https://hope.com
 
 ### Black Pill vs. Orange Pill
 
@@ -615,7 +633,9 @@ embodiment of the fiat standard, appear on TV, stating the following?
 > alternative to fiat money. I think that battle has been won. A
 > technology doesn’t make for trusted money.
 >
-><cite>Augustin Carstens</cite>
+><cite>[Augustin Carstens][fatso]</cite>
+
+[fatso]: https://youtu.be/9mvSsM1uqGo
 
 If we wouldn't be wound up in memetic warfare, why would it be
 necessary to state that a battle has been won?
@@ -664,9 +684,10 @@ obsolete" from the rooftops. They fail to see the deeper truth of these
 memes, the fact that these memes come from a deep conviction that a
 mathematically and thermodynamically sound system is preferential to a
 political one. They don't hear the humming of the ASICs, nor do they
-pay attention to the valid blocks that are coming in without fail. Every
-10 minutes, whispering quietly: "[You shall not
-steal.](https://dergigi.com/cryptography)"
+pay attention to the valid blocks that are coming in without fail.
+Every 10 minutes, whispering quietly:
+
+[<center>"You shall not steal."</center>][cryptography]
 
 The loud and boastful surface phenomenon is easy to ridicule and
 dismiss. The deeply technical, economic, and game-theoretical organism
@@ -707,7 +728,9 @@ long-term thinking, responsibility, and inalienable property rights.
 > revolution. You can only be the revolution. It is in your spirit, or it
 > is nowhere.
 >
-><cite>Ursula K. Le Guin</cite>
+><cite>[Ursula K. Le Guin][dispo]</cite>
+
+[dispo]: https://bitcoin-resources.com/books/the-dispossessed
 
 Don't get me wrong. There is nothing wrong with working in the fiat
 mines and humbly stacking sats. It's one of the most important things
@@ -731,7 +754,7 @@ There's a fork in the road. The sign on the one side says: "you'll
 own nothing and you'll be happy." The sign on the other side says:
 "You'll own bitcoin, and you'll be the best version of yourself."
 
-{% include image.html name="split-stack-sats-vs-debt-slavery.png" %}
+{% include image.html name="split-stack-sats-vs-debt-slavery.png" caption="The choice is yours." %}
 
 Bitcoin has the power to bring out the best version of yourself because
 the incentives of Bitcoin are set up in favor of mutual improvement. On
@@ -754,7 +777,9 @@ has to eat.
 > active in your own rescue-if you care for yourself at all—and do it
 > while you can.
 >
-><cite>Marcus Aurelius</cite>
+><cite>[Marcus Aurelius][marcus]</cite>
+
+[marcus]: https://www.bitcoin-quotes.com/
 
 The Bitcoin path is not an easy path, but a fulfilling one. It is
 fulfilling because you know the rules, you know the consequences, and
@@ -784,11 +809,15 @@ path, but it's a beautiful path. A path that teaches patience,
 responsibility, and discipline. A path that will humble you. A
 meaningful path. A path that is worth walking.
 
-It used to be a lonely path, but it is not anymore. It used to be a
-crazy path. Today, walking down the path of more fiat is the crazy path.
+It used to be a lonely path, but it is not anymore.\\
+It used to be a crazy path.
+
+Today, walking down the path of more fiat is the crazy path.
 It is a long walk, a daily struggle. And nobody can do the walking but
 you. I would love to tell you that I'll meet you at the top, but I'm
-afraid there is no top. I'll meet you on the road instead.
+afraid there is no top.
+
+I'll meet you on the road instead.
 
 ![The Bitcoin Path](/assets/images/bitcoin/2023-03-21-bitcoin-s-meme-wars/path.webp#full)
 
