@@ -627,6 +627,10 @@ And we are right in the thick of it.
 
 ![Pigs](/assets/images/bitcoin/2023-03-21-bitcoin-s-meme-wars/pigs-combined.webp#full)
 
+<center><small>Piggies by <a href="https://artdesignbysf.com/" target="_blank">artdesignbysf</a></small></center>
+
+---
+
 With each passing day, it's becoming more and more obvious that this is
 a spiritual war. A clash of ideas, a battle of differing worldviews.
 
