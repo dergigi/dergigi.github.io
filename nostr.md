@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Twitter
-redirect_to: "nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc"
+title: Nostr
+redirect_to: https://nostr-resources.com
 ---
 
-`npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc`
+Redirecting you to [nostr-resources.com](https://nostr-resources.com)...
