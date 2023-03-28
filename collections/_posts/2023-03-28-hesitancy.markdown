@@ -18,3 +18,5 @@ Sometimes---at the best of times---immediate action is all there is. That's what
 Don't get me wrong, I am not against deep thought and contemplation. Contemplating things is desired and necessary, it is what sets us apart. But contemplation is not all there is. There's also gut feeling, excitement, the fact that sometimes you _know_ that you have to do a thing, even though all rational thought speaks against it. And sometimes the most rational of decisions doesn't feel right, and you don't know why. But you know it. You feel it.
 
 That's hesitancy.
+
+{% include image.html name="ghosts-of-distant-pasts.jpg" caption="Contemplating ghosts of distant pasts." %}
