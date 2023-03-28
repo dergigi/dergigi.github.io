@@ -5,6 +5,7 @@ description: "Not only does the line between good and evil run through everyoneâ
 date: 2023-03-21
 blocktime: 781847
 image: /assets/images/meme-wars.png
+audio: /assets/audio/meme-wars.ogg
 redirect_from: /memes
 source: https://www.citadel21.com/bitcoins-meme-wars
 author: Gigi
