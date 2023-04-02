@@ -240,8 +240,7 @@ bright as ever. We just have a lot of building to do.
 
 ---
 
-[^1]: Paywalls work against this nature, which is why I consider them
-misguided at best and incredibly retarded at worst.
+[^1]: Paywalls work against this nature, which is why I consider them misguided at best and incredibly retarded at worst.
 
 [^2]: Fiat doesn't work for the value-enabled web, as fiat rails can never be open and permissionless. Digital fiat is never money. It is---and always will be---credit.
 
