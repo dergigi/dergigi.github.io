@@ -16,8 +16,9 @@ tags:
 ---
 
 
-Not too long ago, I tried to paint a picture of what a vision for a
-value-enabled web could look like. Now, only a couple of months later,
+Not too long ago, I tried to paint a picture of what
+a [vision for a value-enabled web][vew]
+could look like. Now, only a couple of months later,
 all this stuff is being built. On nostr, and on lightning. Orange and
 purple, a match made in heaven. It goes without saying that I'm beyond
 delighted. What a time to be alive!
@@ -115,7 +116,7 @@ slog through the information jungle to share and highlight the best
 stuff (which is a form of curation, of course).
 
 Zaps make nostr a defacto address book of payment information, which is
-to say lightning addresses, as of now. Thanks to wallet connect (among
+to say lightning addresses, as of now. Thanks to [nostr wallet connect][nwc] (among
 other developments), sending sats ~~will soon be~~ is already as
 frictionless as leaving a like.
 
@@ -234,15 +235,20 @@ a renaissance of the written word, especially if we manage to move away
 from an economy built around attention, towards an economy built upon
 value and insight.
 
-The orange future now has a purple hue, and I believe that it will be as
+The orange future now has a [purple hue], and I believe that it will be as
 bright as ever. We just have a lot of building to do.
 
 ---
 
 [^1]: Paywalls work against this nature, which is why I consider them misguided at best and incredibly retarded at worst.
 
-[^2]: Fiat doesn't work for the value-enabled web, as fiat rails can never be open and permissionless. Digital fiat is never money. It is---and always will be---credit.
+[^2]: Fiat doesn't work for the [value-enabled web][vew], as fiat rails can never be open and permissionless. Digital fiat is never money. It is---and always will be---[credit][rediscovery].
 
 [^3]: Whether the recipient is a text-to-speech service provider or a human narrator doesn't even matter too much, sats will flow just the same.
 
 [^5]: Use a URI as the discussion base (instead of a highlight), and you got yourself a Disqus in purple feathers!
+
+[purple hue]: https://nostr-resources.com
+[nwc]: https://nwc.getalby.com/
+[vew]: { '/vew' | absolute_url }
+[rediscovery]: { '/rediscovery' | absolute_url }
