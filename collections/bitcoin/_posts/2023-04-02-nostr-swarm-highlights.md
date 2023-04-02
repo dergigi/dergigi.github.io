@@ -117,7 +117,7 @@ stuff (which is a form of curation, of course).
 
 Zaps make nostr a defacto address book of payment information, which is
 to say lightning addresses, as of now. Thanks to wallet connect (among
-other developments), sending sats \~\~will soon be\~\~ is already as
+other developments), sending sats ~~will soon be~~ is already as
 frictionless as leaving a like.
 
 Value-for-value and participatory payment flows are something that
@@ -209,7 +209,7 @@ I'm confident that we'll figure it out.
 
 ### Value
 
-I believe that in the open \~\~attention\~\~ information economy we find
+I believe that in the open ~~attention~~ information economy we find
 ourselves in, value will mostly derive from effective curation,
 dissemination, and transmission of information, not the exclusive
 ownership of it.
