@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Swarm Highlights"
+title: "nostr Swarm Highlights"
 description: "How nostr can benefit readers and writers."
 date: 2023-04-02
 blocktime: TODO
 image: /assets/images/swarm.jpg
-audio: /assets/audio/swarm.ogg
 redirect_from: /swarm
 author: Gigi
 category: bitcoin
@@ -36,7 +35,7 @@ against it.[^1] That's what's beautiful about the orange coin and
 the purple ostrich: both manage to work with the peculiarities of
 information, not against them.
 
-### Reading & Writing 
+### Reading & Writing
 
 I'm constantly surprised that, even though most people do read a lot
 online, very few people seem to have a reading workflow or reading
@@ -50,7 +49,7 @@ site, use another app, or bind yourself to another closed platform?
 That's a fair point, but the success of Medium and Substack shows that
 there is an appetite for clean reading and writing, as well as providing
 avenues for authors to get paid for their writing (and a willingness of
-readers to support said authors, just because). 
+readers to support said authors, just because).
 
 The problem is, of course, that all of these platforms are *platforms*,
 which is to say, walled gardens that imprison readers and writers alike.
@@ -60,13 +59,13 @@ outright impossible.[^2]
 
 Nostr fixes this.
 
-### A nostr Reader 
+### A nostr Reader
 
 The beauty of nostr is that it is not a platform. It's a protocol,
 which means that you don't have to sign up for it\-\--you can create an
 identity yourself. You don't have to ask for permission; you just do,
 without having to rely on the benevolence of whatever dictator is in
-charge of the platform right now. 
+charge of the platform right now.
 
 Nostr is *not* a platform, and yet, powerful tools and services can be
 built and monetized on top of it. This is good for users, good for
@@ -85,9 +84,9 @@ PDF, shows these items in an orderly fashion (which is to say
 searchable, sortable, filterable, and displayed without distractions).
 Voilà, you have yourself a reading app. That's, in essence, how Pocket
 and Readwise work. But all these apps are walled gardens without much
-interoperability and without direct monetization. 
+interoperability and without direct monetization.
 
-Bitcoin fixes the direct monetization part. 
+Bitcoin fixes the direct monetization part.
 
 Nostr fixes the interoperability part.
 
@@ -159,7 +158,7 @@ In this case, the reading case, the users are mostly "consumers" of
 content. What changes from the producing perspective, the perspective of
 the writer?
 
-### Writing 
+### Writing
 
 Back to the one thing that nostr got right: information is easy to
 spread but hard to stifle. In addition to that, digital information can
@@ -203,7 +202,7 @@ published on nostr first. Nostr-based publishing tools allow for
 OpenTimestamp attestations thanks
 to [NIP-03](https://github.com/nostr-protocol/nips/blob/master/03.md),
 which in turn allows for plagiarism detection based on "first seen"
-lookups. 
+lookups.
 
 That's just one way to deal with the problem, of course. In any case,
 I'm confident that we'll figure it out.
@@ -255,9 +254,7 @@ same.
 [^5]: Use a URI as the discussion base (instead of a highlight), and
 you got yourself a Disqus in purple feathers!
 
-
 {% include image.html name="free-the-bird.jpg" link="https://nostr-resources.com/" %}
 
 ---
 
-[derggg]: nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc
