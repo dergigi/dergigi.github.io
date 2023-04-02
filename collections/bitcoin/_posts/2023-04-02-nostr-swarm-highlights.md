@@ -86,8 +86,7 @@ Voilà, you have yourself a reading app. That's, in essence, how Pocket
 and Readwise work. But all these apps are walled gardens without much
 interoperability and without direct monetization.
 
-Bitcoin fixes the direct monetization part.
-
+Bitcoin fixes the direct monetization part. \\
 Nostr fixes the interoperability part.
 
 Alright, we got ourselves a boring reading app. Great. Now, imagine that
