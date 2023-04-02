@@ -235,7 +235,7 @@ a renaissance of the written word, especially if we manage to move away
 from an economy built around attention, towards an economy built upon
 value and insight.
 
-The orange future now has a [purple hue], and I believe that it will be as
+The orange future now has a [purple hue][nr], and I believe that it will be as
 bright as ever. We just have a lot of building to do.
 
 ---
@@ -246,9 +246,11 @@ bright as ever. We just have a lot of building to do.
 
 [^3]: Whether the recipient is a text-to-speech service provider or a human narrator doesn't even matter too much, sats will flow just the same.
 
+[^4]: [BlogStack](https://blogstack.io/) and [Habla](https://habla.news/) being two of them.
+
 [^5]: Use a URI as the discussion base (instead of a highlight), and you got yourself a Disqus in purple feathers!
 
-[purple hue]: https://nostr-resources.com
+[nr]: https://nostr-resources.com
 [nwc]: https://nwc.getalby.com/
-[vew]: { '/vew' | absolute_url }
-[rediscovery]: { '/rediscovery' | absolute_url }
+[vew]: {{ '/vew' | absolute_url }}
+[rediscovery]: {{ '/rediscovery' | absolute_url }}
