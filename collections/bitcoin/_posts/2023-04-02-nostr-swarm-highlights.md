@@ -248,8 +248,3 @@ misguided at best and incredibly retarded at worst.
 [^3]: Whether the recipient is a text-to-speech service provider or a human narrator doesn't even matter too much, sats will flow just the same.
 
 [^5]: Use a URI as the discussion base (instead of a highlight), and you got yourself a Disqus in purple feathers!
-
-{% include image.html name="free-the-bird.jpg" link="https://nostr-resources.com/" %}
-
----
-
