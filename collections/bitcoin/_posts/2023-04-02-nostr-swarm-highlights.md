@@ -62,7 +62,7 @@ Nostr fixes this.
 ### A nostr Reader
 
 The beauty of nostr is that it is not a platform. It's a protocol,
-which means that you don't have to sign up for it\-\--you can create an
+which means that you don't have to sign up for it---you can create an
 identity yourself. You don't have to ask for permission; you just do,
 without having to rely on the benevolence of whatever dictator is in
 charge of the platform right now.
@@ -126,7 +126,7 @@ Readwise, or the simple reading mode that is part of every browser.
 
 A neat side-effect of a more structured way to share passages of text is
 that it enables semi-structured discussions around said
-passages\-\--which could be another useful overlay inside
+passages---which could be another useful overlay inside
 special-purpose clients, providing context and further insights.[^5]
 
 Further, imagine the option of seamlessly switching from text-on-screen
@@ -142,7 +142,7 @@ You get the idea.
 I'm sure that the various implementation details will be hashed out,
 but as I see it, 90% of the stuff is already there. Maybe we'll need
 another NIP or two, but I don't see a reason why this can't be
-built\-\--and, more importantly: I don't see a reason why it wouldn't
+built---and, more importantly: I don't see a reason why it wouldn't
 be sustainable for everyone involved.
 
 Most puzzle pieces are already there, and the rest of them can probably
@@ -179,13 +179,13 @@ This is already true (or mostly true) on the regular web. Whether you
 read the internet archive version of an article or the version that is
 published by an online magazine, the version on the author's website,
 or the version read by some guy that has read more about Bitcoin than
-anyone else you know\-\--it's all the same, essentially. What matters
+anyone else you know---it's all the same, essentially. What matters
 is the information itself.
 
-Practically speaking, the source of truth in the nostr world is\-\--you
-guessed it\-\--an event. An event signed by the author, which allows for
+Practically speaking, the source of truth in the nostr world is---you
+guessed it---an event. An event signed by the author, which allows for
 the information to be wrapped in a tamper-proof manner, which in turn
-allows the information to spread far and wide\-\--without it being
+allows the information to spread far and wide---without it being
 hosted in one place.
 
 The first clients that focus on long-form content already exist, and I
@@ -222,7 +222,7 @@ willingness to send sats increases as friction decreases.
 
 The ingenious thing about boostagrams and zaps is that they are direct
 and visible, which is to say, public and interactive. They are neither
-regular transactions nor simple donations\-\--they are something else
+regular transactions nor simple donations---they are something else
 entirely. A value signal, a special form of gratitude and appreciation.
 
 Contrast that with a link to Paypal or Patreon: impersonal, slow,
@@ -238,21 +238,16 @@ value and insight.
 The orange future now has a purple hue, and I believe that it will be as
 bright as ever. We just have a lot of building to do.
 
-\-\--
+---
 
 [^1]: Paywalls work against this nature, which is why I consider them
 misguided at best and incredibly retarded at worst.
 
-[^2]: Fiat doesn't work for the value-enabled web, as fiat rails can
-never be open and permissionless. Digital fiat is never money. It
-is\-\--and always will be\-\--credit.
+[^2]: Fiat doesn't work for the value-enabled web, as fiat rails can never be open and permissionless. Digital fiat is never money. It is---and always will be---credit.
 
-[^3]: Whether the recipient is a text-to-speech service provider or a
-human narrator doesn't even matter too much, sats will flow just the
-same.
+[^3]: Whether the recipient is a text-to-speech service provider or a human narrator doesn't even matter too much, sats will flow just the same.
 
-[^5]: Use a URI as the discussion base (instead of a highlight), and
-you got yourself a Disqus in purple feathers!
+[^5]: Use a URI as the discussion base (instead of a highlight), and you got yourself a Disqus in purple feathers!
 
 {% include image.html name="free-the-bird.jpg" link="https://nostr-resources.com/" %}
 
