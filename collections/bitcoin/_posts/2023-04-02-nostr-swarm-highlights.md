@@ -79,13 +79,15 @@ Allow me to paint a (rough) picture of what I have in mind. Nostr
 already supports private and public bookmarks, so let's start from
 there.
 
-Imagine a special-purpose client that scans all your bookmarks for URLs,
+Imagine a special-purpose client that scans all your bookmarks for URLs,[^fn-urls]
 and if the URL points to something readable, such as an article or a
 PDF, shows these items in an orderly fashion (which is to say
 searchable, sortable, filterable, and displayed without distractions).
-Voilà, you have yourself a reading app. That's, in essence, how Pocket
-and Readwise work. But all these apps are walled gardens without much
-interoperability and without direct monetization.
+Voilà, you have yourself a reading app. That's, in essence, how Pocket,
+Readwise, and other reading apps work. But all these apps are walled gardens
+without much interoperability and without direct monetization.
+
+[^fn-urls]: Of course, a bookmark can also be a NIP-23 event TODO
 
 Bitcoin fixes the direct monetization part. \\
 Nostr fixes the interoperability part.
@@ -168,7 +170,7 @@ published in the first place.
 Allow me to repeat this point in all caps, for emphasis: **IT SHOULD NOT
 MATTER WHERE INFORMATION IS PUBLISHED**, and, maybe even more
 importantly, it shouldn't matter if it is published in a hundred
-different places at once.
+different places at once.[^fn-torrents]
 
 What matters is trust and accuracy, which is to say, digital signatures
 and reputation. To translate this to nostr speak: because every event is
@@ -190,7 +192,7 @@ hosted in one place.
 
 The first clients that focus on long-form content already exist, and I
 expect more clients to pop up over time.[^4] One could also imagine
-prism-like value splits seamlessly integrated into these clients,
+[prism-like value splits][prism] seamlessly integrated into these clients,
 splitting zaps automatically to compensate writers, editors,
 proofreaders, and illustrators in a V4V fashion.
 
@@ -220,7 +222,7 @@ Although it is still early days,
 the [statistics](https://stats.podcastindex.org/v4v) around Podcasting
 2.0 and [nostr zaps](https://zaplife.lol/) clearly show that (a) people
 are willing to monetarily reward content they care about, and (b) the
-willingness to send sats increases as friction decreases.
+willingness to send sats *increases* as friction *decreases*.
 
 The ingenious thing about boostagrams and zaps is that they are direct
 and visible, which is to say, public and interactive. They are neither
@@ -252,7 +254,11 @@ bright as ever. We just have a lot of building to do.
 
 [^5]: Use a URI as the discussion base (instead of a highlight), and you got yourself a Disqus in purple feathers!
 
+[^fn-torrents]: That's what torrents got right, and [ipfs] for that matter.
+
 [nr]: https://nostr-resources.com
 [nwc]: https://nwc.getalby.com/
 [vew]: {{ '/vew' | absolute_url }}
 [rediscovery]: {{ '/rediscovery' | absolute_url }}
+[prism]: {{ '/prism' | absolute_url }}
+[ipfs]: https://fiatjaf.com/d5031e5b.html
