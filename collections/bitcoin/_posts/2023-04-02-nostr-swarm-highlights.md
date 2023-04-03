@@ -194,6 +194,8 @@ prism-like value splits seamlessly integrated into these clients,
 splitting zaps automatically to compensate writers, editors,
 proofreaders, and illustrators in a V4V fashion.
 
+{% include image.html name="nostr-reader-and-writer.png" %}
+
 Plagiarism is one issue that needs to be dealt with, of course. Humans
 are greedy, and some humans are assholes. Neither bitcoin nor nostr
 fixes this. However, while plagiarism detection is not necessarily
