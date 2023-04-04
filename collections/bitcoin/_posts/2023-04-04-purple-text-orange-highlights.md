@@ -136,8 +136,6 @@ Nostr fixes the interoperability part.
 
 [^fn-v4v]: ...because Bitcoin makes [V4V][busking] practical. (Paywalls are not the way.)
 
-[busking]: {{ '/busking' | absolute_url }}
-
 Alright, we got ourselves a boring reading app. Great. Now, imagine that
 users are able to highlight passages. These highlights, just like
 bookmarks now, could be private or public. When shared publicly,
@@ -313,6 +311,7 @@ bright as ever. We just have a lot of building to do.
 ### NIPs and Resources
 
 - [Nostr Resources][nr]
+- [value4value.info](https://value4value.info/)
 - [nips.be](https://nips.be/)
 - [NIP-23: Long-form content](https://github.com/nostr-protocol/nips/blob/master/23.md)
 - [NIP-57: Event-specific zap markers](https://github.com/nostr-protocol/nips/blob/master/57.md)
