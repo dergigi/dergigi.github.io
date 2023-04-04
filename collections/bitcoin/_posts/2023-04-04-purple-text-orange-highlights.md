@@ -5,7 +5,7 @@ subtitle: "How nostr can benefit readers and writers."
 description: "Using nostr as a base layer to create, consume, and monetize long-form content."
 date: 2023-04-04
 blocktime: TODO
-image: /assets/images/reader.jpg
+image: /assets/images/reader.png
 redirect_from: /reader
 author: Gigi
 category: bitcoin
@@ -288,12 +288,13 @@ bright as ever. We just have a lot of building to do.
 
 [prism]: {{ '/prism' | absolute_url }}
 
-### Links and Resources
+### NIPs and Resources
 
 - [Nostr Resources][nr]
 - [nips.be](https://nips.be/)
 - [NIP-23: Long-form content](https://github.com/nostr-protocol/nips/blob/master/23.md)
 - [NIP-57: Event-specific zap markers](https://github.com/nostr-protocol/nips/blob/master/57.md)
+- [NIP-47: Nostr Wallet Connect](https://github.com/getAlby/nips/blob/master/47.md)
 - [NIP-03: OpenTimestamps attestations for events](https://github.com/nostr-protocol/nips/blob/master/03.md)
 
 ---
