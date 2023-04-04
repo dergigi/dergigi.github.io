@@ -4,8 +4,8 @@ title: "Purple Text, Orange Highlights"
 subtitle: "How nostr can benefit readers and writers."
 description: "Using nostr as a base layer to create, consume, and monetize long-form content."
 date: 2023-04-04
-blocktime: TODO
-image: /assets/images/reader.png
+blocktime: 783891
+image: /assets/images/reader.jpg
 redirect_from: /reader
 author: Gigi
 category: bitcoin
@@ -101,7 +101,7 @@ outright impossible.[^2]
 
 Nostr fixes this.
 
-{% include image.html name="nostrich-reading-a-newspaper.png" %}
+{% include image.html name="nostrich-reading-a-newspaper.jpg" %}
 
 The beauty of nostr is that it is not a platform. It's a protocol,
 which means that you don't have to sign up for it---you can create an
