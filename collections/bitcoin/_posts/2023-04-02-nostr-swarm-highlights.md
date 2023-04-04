@@ -141,7 +141,7 @@ with one click, automatically tagging the highlighter(s)---as well as the
 author, of course---so that eventual sat-flows can be split and forwarded
 automatically.
 
-{% include image.html name="sat-flows.png" %}
+{% include image.html name="sat-flows.png" caption="Value-splits could be realized with <a href='https://dergigi.com/prism'>Lightning Prisms</a>"%}
 
 Voilà, you have a system that allows for value to flow back to those who
 provide it, be it authors, editors, curators, or readers that willingly
