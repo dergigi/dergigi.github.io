@@ -302,11 +302,12 @@ bright as ever. We just have a lot of building to do.
 
 - [A Vision for a Value-Enabled Web][vew]
 - [The Freedom of Value][busking]
-- [Lightning Prisms][prism]
-- [Who Owns The Future](https://www.goodreads.com/book/show/15802693) by Jaron Lanier
+- [The Rediscovery of Money][prism]
+- [Lightning Prisms][rediscovery]
 
 [vew]: {{ '/vew' | absolute_url }}
 [prism]: {{ '/prism' | absolute_url }}
+[rediscovery]: {{ '/rediscovery' | absolute_url }}
 [busking]: {{ '/busking' | absolute_url }}
 
 ### NIPs and Resources
