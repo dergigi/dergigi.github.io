@@ -34,7 +34,35 @@ Easy to spread, hard to stifle. That's the base reality of the nature
 of information. As always, the smart thing is to work with nature, not
 against it.[^1] That's what's beautiful about the orange coin and
 the purple ostrich: both manage to work with the peculiarities of
-information, not against them.
+information, not against them. Both realize that information can and should be
+copied, as it can be perfectly read and easily spread, always. Both understand
+that resistance to censorship comes from writing to many places, making the cost
+of deletion prohibitive.
+
+> Information does not just want to be free,
+> it longs to be free. Information expands to fill the available
+> storage space. Information is Rumor's younger, stronger cousin;
+> Information is fleeter of foot, has more eyes, knows more, and
+> understands less than Rumor.
+>
+> <cite>Eric Hughes, [A Cypherpunk's Manifesto][manifesto]</cite>
+
+[manifesto]: https://nakamotoinstitute.org/static/docs/cypherpunk-manifesto.txt
+
+Nostr is quickly establishing itself as a base layer for information exchange,
+one that is identity-native and value-enabled. It is distinctly different from
+systems that came before it, just like Bitcoin is distinctly different from
+monies that came before it.
+
+As of today, the focus of nostr is mostly on short text notes, the so-called
+`type 1` events more commonly known as "tweets." However, as you should be aware
+by now, nostr is way more than just an alternative to twitter. It is a new
+paradigm. Change the note kind from `1` to `30023` and you don't have an
+alternative to Twitter, but a replacement for Medium, Substack, and all the
+other long-form platforms.
+
+[kinds]: https://github.com/nostr-protocol/nips#event-kinds
+[nip23]: https://github.com/nostr-protocol/nips/blob/master/23.md
 
 ### Reading & Writing
 
