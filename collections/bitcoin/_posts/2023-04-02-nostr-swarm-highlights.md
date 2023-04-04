@@ -91,7 +91,7 @@ outright impossible.[^2]
 
 Nostr fixes this.
 
-TODO: Insert image of an ostrich reading a newspaper.
+{% include image.html name="nostrich-reading-a-newspaper.png" %}
 
 The beauty of nostr is that it is not a platform. It's a protocol,
 which means that you don't have to sign up for it---you can create an
