@@ -246,7 +246,7 @@ I'm confident that we'll figure it out.
 
 I believe that in the open ~~attention~~ information economy we find
 ourselves in, value will mostly derive from effective curation,
-dissemination, and transmission of information, not the exclusive
+dissemination, and transmission of information, *not* the exclusive
 ownership of it.
 
 Although it is still early days,
