@@ -53,7 +53,6 @@ deleted without an answer.
 [^fn-telegram]: My Telegram handle is my twitter handle.
 
 [nr]: https://nostr-resources.com
-[npub]: nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc
 
 ---
 
@@ -88,7 +87,8 @@ Gigi
 ## Links
 
 * [/blog][photography]: random thoughts and photographs
-* [/nostr][npub]: shitposting, always
+* [/npub][npub]: my current npub
+* [/nostr][nostr]: shitposting, always
 * [/twitter][twitter]: doomscrolling, sometimes
 * [/threads][threads]: archived twitter threads
 * [/patreon][patreon]: close and personal chats, early drafts of my work
@@ -104,3 +104,6 @@ Gigi
 [photography]: {{ 'blog' | absolute_url }}
 [gnu]: https://www.gnu.org/philosophy/free-sw.html
 [true-names]: {% post_url /bitcoin/2020-07-21-true-names-not-required %}
+
+[npub]: nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc
+[nostr]: {{ '/nostr' | absolute_url }}

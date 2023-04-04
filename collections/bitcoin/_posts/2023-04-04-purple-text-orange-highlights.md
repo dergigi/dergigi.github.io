@@ -9,7 +9,7 @@ image: /assets/images/reader.jpg
 redirect_from: /reader
 updated_version: https://habla.news/a/naddr1qqxnzd3cxqmrzv3exgmr2wfeqy08wumn8ghj7mn0wd68yttsw43zuam9d3kx7unyv4ezumn9wshszyrhwden5te0dehhxarj9ekk7mf0qy88wumn8ghj7mn0wvhxcmmv9uq3zamnwvaz7tmwdaehgu3wwa5kuef0qy2hwumn8ghj7un9d3shjtnwdaehgu3wvfnj7q3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsxpqqqp65wy2vhhv
 author: Gigi
-category: bitcoin
+category: nostr
 favorite: false
 tags:
  - Bitcoin
