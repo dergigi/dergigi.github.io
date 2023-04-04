@@ -61,10 +61,13 @@ paradigm. Change the note kind from `1` to `30023` and you don't have an
 alternative to Twitter, but a replacement for Medium, Substack, and all the
 other long-form platforms.
 
+But not only publishing, our online reading experience might get a new plumage
+as well. Purple-colored, of course.
+
 [kinds]: https://github.com/nostr-protocol/nips#event-kinds
 [nip23]: https://github.com/nostr-protocol/nips/blob/master/23.md
 
-### Reading & Writing
+### Reading
 
 I'm constantly surprised that, even though most people do read a lot
 online, very few people seem to have a reading workflow or reading
@@ -88,7 +91,7 @@ outright impossible.[^2]
 
 Nostr fixes this.
 
-### A nostr Reader
+TODO: Insert image of an ostrich reading a newspaper.
 
 The beauty of nostr is that it is not a platform. It's a protocol,
 which means that you don't have to sign up for it---you can create an
@@ -107,15 +110,16 @@ Allow me to paint a (rough) picture of what I have in mind. Nostr
 already supports private and public bookmarks, so let's start from
 there.
 
-Imagine a special-purpose client that scans all your bookmarks for URLs,[^fn-urls]
-and if the URL points to something readable, such as an article or a
-PDF, shows these items in an orderly fashion (which is to say
-searchable, sortable, filterable, and displayed without distractions).
-Voilà, you have yourself a reading app. That's, in essence, how Pocket,
-Readwise, and other reading apps work. But all these apps are walled gardens
-without much interoperability and without direct monetization.
+Imagine a special-purpose client that scans all your bookmarks for long-form
+content.[^fn-urls] Everything that you marked to be read later is shown in an orderly
+fashion, which is to say searchable, sortable, filterable, and displayed without
+distractions.  Voilà, you have yourself a reading app. That's, in essence, how
+Pocket, Readwise, and other reading apps work. But all these apps are walled
+gardens without much interoperability and without direct monetization.
 
-[^fn-urls]: Of course, a bookmark can also be a NIP-23 event TODO
+[^fn-urls]: In the nostr world long-form content is simply markdown as defined in [NIP-23][nip23], but it could also be a link to an article or PDF, which in turn could get [converted into markdown][readability] and posted as an event to a special relay.
+
+[readability]: https://github.com/mozilla/readability
 
 Bitcoin fixes the direct monetization part. \\
 Nostr fixes the interoperability part.
@@ -132,11 +136,10 @@ funny, etc.
 
 {% include image.html name="highlights.png" %}
 
-Further, imagine the possibility of sharing these highlights as a [type
-1](https://github.com/nostr-protocol/nips/blob/master/01.md) event with
-one click, automatically tagging the highlighter(s)---as well as the
-author, of course---so that eventual sat-flows can be split and
-forwarded automatically.
+Further, imagine the possibility of sharing these highlights as a `type 1` event
+with one click, automatically tagging the highlighter(s)---as well as the
+author, of course---so that eventual sat-flows can be split and forwarded
+automatically.
 
 {% include image.html name="sat-flows.png" %}
 
