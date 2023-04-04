@@ -21,15 +21,18 @@ Not too long ago, I tried to paint a picture of what
 a [vision for a value-enabled web][vew]
 could look like. Now, only a couple of months later,
 all this stuff is being built. On nostr, and on lightning. Orange and
-purple, a match made in heaven. It goes without saying that I'm beyond
-delighted. What a time to be alive!
+purple, a match made in heaven. 
+
+It goes without saying that I'm beyond delighted. What a time to be alive!
 
 ### nostr
 
 Here's the thing that nostr got right, and it's the same thing that
-Bitcoin got right: information is easy to spread and hard to stifle.
+Bitcoin got right: information is easy to spread and hard to stifle.[^fn-stifle]
 Information can be copied quickly and perfectly, which is, I believe,
 the underlying reason for its desire to be free.
+
+[^fn-stifle]: That's a Satoshi quote, of course: TODO
 
 Easy to spread, hard to stifle. That's the base reality of the nature
 of information. As always, the smart thing is to work with nature, not
@@ -56,7 +59,7 @@ systems that came before it, just like Bitcoin is distinctly different from
 monies that came before it.
 
 As of today, the focus of nostr is mostly on short text notes, the so-called
-`type 1` events more commonly known as "tweets."[^fn-kinds] However, as you should be aware
+"type 1" events more commonly known as *tweets*.[^fn-kinds] However, as you should be aware
 by now, nostr is way more than just an alternative to twitter. It is a new
 paradigm. Change the note kind from `1` to `30023` and you don't have an
 alternative to Twitter, but a replacement for Medium, Substack, and all the
@@ -100,7 +103,7 @@ Nostr fixes this.
 
 The beauty of nostr is that it is not a platform. It's a protocol,
 which means that you don't have to sign up for it---you can create an
-identity yourself. You don't have to ask for permission; you just do,
+identity yourself. You don't have to ask for permission; you just *do*,
 without having to rely on the benevolence of whatever dictator is in
 charge of the platform right now.
 
@@ -126,8 +129,12 @@ gardens without much interoperability and without direct monetization.
 
 [readability]: https://github.com/mozilla/readability
 
-Bitcoin fixes the direct monetization part. \\
+Bitcoin fixes the direct monetization part.[^fn-v4v] \\
 Nostr fixes the interoperability part.
+
+[^fn-v4v]: ...because Bitcoin makes [V4V][busking] practical. (Paywalls are not the way.)
+
+[busking]: {{ '/busking' | absolute_url }}
 
 Alright, we got ourselves a boring reading app. Great. Now, imagine that
 users are able to highlight passages. These highlights, just like
@@ -141,7 +148,7 @@ funny, etc.
 
 {% include image.html name="highlights.png" %}
 
-Further, imagine the possibility of sharing these highlights as a `type 1` event
+Further, imagine the possibility of sharing these highlights as a "type 1" event
 with one click, automatically tagging the highlighter(s)---as well as the
 author, of course---so that eventual sat-flows can be split and forwarded
 automatically.
@@ -266,7 +273,8 @@ willingness to send sats *increases* as friction *decreases*.
 The ingenious thing about boostagrams and zaps is that they are direct
 and visible, which is to say, public and interactive. They are neither
 regular transactions nor simple donations---they are something else
-entirely. A value signal, a special form of gratitude and appreciation.
+entirely. An unforgable value signal, a special form of gratitude and
+appreciation.
 
 Contrast that with a link to Paypal or Patreon: impersonal, slow,
 indirect, and friction-laden. It's the opposite of a super-charged
@@ -283,10 +291,14 @@ bright as ever. We just have a lot of building to do.
 
 ### Further Reading
 
+- [A Vision for a Value-Enabled Web][vew]
+- [The Freedom of Value][busking]
 - [Lightning Prisms][prism]
 - [Who Owns The Future](https://www.goodreads.com/book/show/15802693) by Jaron Lanier
 
+[vew]: {{ '/vew' | absolute_url }}
 [prism]: {{ '/prism' | absolute_url }}
+[busking]: {{ '/busking' | absolute_url }}
 
 ### NIPs and Resources
 
