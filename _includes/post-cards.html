@@ -1,0 +1,13 @@
+
+<div class="posts">
+  <div class="grid-xlarge">
+    <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
+      {% for post in include.posts %}
+        {% include post-card.html %}
+      {% endfor %}
+    </div>
+  </div>
+  {% if include.list? %}
+    {% include article-list.html posts=include.posts %}
+  {% endif %}
+</div>

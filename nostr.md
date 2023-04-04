@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Nostr
-redirect_to: https://nostr-resources.com
+subtitle: The bird app is dead, long live the bird app!
 ---
 
-Redirecting you to [nostr-resources.com](https://nostr-resources.com)...
+{% assign posts = site.categories.nostr %}
+{% include post-cards.html posts=posts %}
