@@ -21,7 +21,7 @@ Not too long ago, I tried to paint a picture of what
 a [vision for a value-enabled web][vew]
 could look like. Now, only a couple of months later,
 all this stuff is being built. On nostr, and on lightning. Orange and
-purple, a match made in heaven. 
+purple, a match made in heaven.
 
 It goes without saying that I'm beyond delighted. What a time to be alive!
 
@@ -334,7 +334,4 @@ bright as ever. We just have a lot of building to do.
 
 [nr]: https://nostr-resources.com
 [nwc]: https://nwc.getalby.com/
-[vew]: {{ '/vew' | absolute_url }}
-[rediscovery]: {{ '/rediscovery' | absolute_url }}
-[prism]: {{ '/prism' | absolute_url }}
 [ipfs]: https://fiatjaf.com/d5031e5b.html
