@@ -2,7 +2,7 @@
 layout: post
 title: "nostr Swarm Highlights"
 description: "How nostr can benefit readers and writers."
-date: 2023-04-02
+date: 2023-04-04
 blocktime: TODO
 image: /assets/images/swarm.jpg
 redirect_from: /swarm
@@ -55,7 +55,7 @@ systems that came before it, just like Bitcoin is distinctly different from
 monies that came before it.
 
 As of today, the focus of nostr is mostly on short text notes, the so-called
-`type 1` events more commonly known as "tweets." However, as you should be aware
+`type 1` events more commonly known as "tweets."[^fn-kinds] However, as you should be aware
 by now, nostr is way more than just an alternative to twitter. It is a new
 paradigm. Change the note kind from `1` to `30023` and you don't have an
 alternative to Twitter, but a replacement for Medium, Substack, and all the
@@ -65,6 +65,8 @@ emergence of special-purpose platforms in the Web 2.0 era. This time, however,
 the network effects are cumulative, not separate. A new paradigm.
 
 Let me now turn to one such special-purpose client, a nostr-based reading app.
+
+[^fn-kinds]: Refer to the various NIPs to discover the multitude of [event kinds][kinds] defined by the protocol.
 
 [kinds]: https://github.com/nostr-protocol/nips#event-kinds
 [nip23]: https://github.com/nostr-protocol/nips/blob/master/23.md
@@ -214,10 +216,13 @@ This is already true (or mostly true) on the regular web. Whether you
 read the internet archive version of an article or the version that is
 published by an online magazine, the version on the author's website,
 or the version read by some guy that has read more about Bitcoin than
-anyone else you know---it's all the same, essentially. What matters
+anyone else you know[^fn-guy]---it's all the same, essentially. What matters
 is the information itself.
 
-Practically speaking, the source of truth in the nostr world is---you
+[^fn-guy]: There is only one such guy, as we all know, and it's [this Guy][guy].
+[guy]: nostr:npub1h8nk2346qezka5cpm8jjh3yl5j88pf4ly2ptu7s6uu55wcfqy0wq36rpev
+
+Practically speaking, the source of truth in a hypernostrized world is---you
 guessed it---an event. An event signed by the author, which allows for
 the information to be wrapped in a tamper-proof manner, which in turn
 allows the information to spread far and wide---without it being
@@ -272,8 +277,22 @@ a renaissance of the written word, especially if we manage to move away
 from an economy built around attention, towards an economy built upon
 value and insight.
 
-The orange future now has a [purple hue][nr], and I believe that it will be as
+The orange future now has a purple hue, and I believe that it will be as
 bright as ever. We just have a lot of building to do.
+
+### Further Reading
+
+- [Lightning Prisms][prism]
+- [Who Owns The Future](https://www.goodreads.com/book/show/15802693) by Jaron Lanier
+
+[prism]: {{ '/prism' | absolute_url }}
+
+### Links and Resources
+
+- [Nostr Resources][nr]
+- [nips.be](https://nips.be/)
+- [NIP-23: Long-form content](https://github.com/nostr-protocol/nips/blob/master/23.md)
+- [NIP-57: Event-specific zap markers](https://github.com/nostr-protocol/nips/blob/master/57.md)
 
 ---
 
