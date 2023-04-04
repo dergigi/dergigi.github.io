@@ -1,0 +1,23 @@
+---
+layout: default
+title: Nostr
+subtitle: The bird app is dead, long live the bird app!
+---
+{% assign nostrposts = site.categories.nostr %}
+<div class="post__content section-padding">
+  <div id="markdown" class="grid">
+    <p>
+      Don't know what nostr is? Have a look at <a href="https://nostr-resources.com" target="_blank">nostr-resources.com</a>
+    </p>
+  </div>
+  <div class="posts">
+    <div class="grid-xlarge">
+      <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
+        {% for post in nostrposts %}
+          {% include post-card.html %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% include article-list.html posts=nostrposts %}
+</div>
