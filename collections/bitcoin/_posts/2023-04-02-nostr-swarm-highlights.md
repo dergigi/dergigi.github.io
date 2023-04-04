@@ -59,10 +59,12 @@ As of today, the focus of nostr is mostly on short text notes, the so-called
 by now, nostr is way more than just an alternative to twitter. It is a new
 paradigm. Change the note kind from `1` to `30023` and you don't have an
 alternative to Twitter, but a replacement for Medium, Substack, and all the
-other long-form platforms.
+other long-form platforms. I believe that special-purpose clients that focus on
+certain content types will emerge over time, just like we have seen the
+emergence of special-purpose platforms in the Web 2.0 era. This time, however,
+the network effects are cumulative, not separate. A new paradigm.
 
-But not only publishing, our online reading experience might get a new plumage
-as well. Purple-colored, of course.
+Let me now turn to one such special-purpose client, a nostr-based reading app.
 
 [kinds]: https://github.com/nostr-protocol/nips#event-kinds
 [nip23]: https://github.com/nostr-protocol/nips/blob/master/23.md
