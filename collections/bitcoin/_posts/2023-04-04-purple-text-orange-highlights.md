@@ -32,7 +32,9 @@ Bitcoin got right: information is easy to spread and hard to stifle.[^fn-stifle]
 Information can be copied quickly and perfectly, which is, I believe,
 the underlying reason for its desire to be free.
 
-[^fn-stifle]: That's a Satoshi quote, of course: TODO
+[^fn-stifle]: That's a [Satoshi quote][stifle], of course: "Bitcoin's solution is to use a peer-to-peer network to check for double-spending. In a nutshell, the network works like a distributed timestamp server, stamping the first transaction to spend a coin. It takes advantage of the nature of information being easy to spread but hard to stifle."
+
+[stifle]: https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/
 
 Easy to spread, hard to stifle. That's the base reality of the nature
 of information. As always, the smart thing is to work with nature, not
@@ -319,7 +321,7 @@ bright as ever. We just have a lot of building to do.
 
 [^4]: [BlogStack](https://blogstack.io/) and [Habla](https://habla.news/) being two of them.
 
-[^5]: Use a URI as the discussion base (instead of a highlight), and you got yourself a Disqus in purple feathers!
+[^5]: Use a URI as the discussion base (instead of a highlight), and you got yourself a [Disqus](https://disqus.com/) in purple feathers!
 
 [^fn-torrents]: That's what torrents got right, and [ipfs] for that matter.
 
