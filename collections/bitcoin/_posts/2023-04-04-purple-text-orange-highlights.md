@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nostr Swarm Highlights"
+title: "Purple Text, Orange Highlights"
 description: "How nostr can benefit readers and writers."
 date: 2023-04-04
 blocktime: TODO
