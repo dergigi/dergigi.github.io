@@ -142,7 +142,7 @@ Alright, we got ourselves a boring reading app. Great. Now, imagine that
 users are able to highlight passages. These highlights, just like
 bookmarks now, could be private or public. When shared publicly,
 something interesting emerges: an overlay on existing content, a lens on
-the written Web. In other words: **swarm highlights**.
+the written Web. In other words: *swarm highlights*.
 
 Imagine a visual overlay of all public highlights, automatically shining
 a light on what the swarm of readers found most useful, insightful,
@@ -162,10 +162,12 @@ provide it, be it authors, editors, curators, or readers that willingly
 slog through the information jungle to share and highlight the best
 stuff (which is a form of curation, of course).
 
-Zaps make nostr a defacto address book of payment information, which is
+Zaps make nostr a defacto address book[^fn-pp] of payment information, which is
 to say lightning addresses, as of now. Thanks to [nostr wallet connect][nwc] (among
 other developments), sending sats ~~will soon be~~ is already as
 frictionless as leaving a like.
+
+[^fn-pp]: The Yellow Pages are dead, long live [The Purple Pages](http://purplepag.es/)!
 
 Value-for-value and participatory payment flows are something that
 traditional reading apps desperately lack, be it Pocket, Instapaper,
@@ -238,11 +240,16 @@ the information to be wrapped in a tamper-proof manner, which in turn
 allows the information to spread far and wide---without it being
 hosted in one place.
 
-The first clients that focus on long-form content already exist, and I
-expect more clients to pop up over time.[^4] One could also imagine
-[prism-like value splits][prism] seamlessly integrated into these clients,
-splitting zaps automatically to compensate writers, editors,
-proofreaders, and illustrators in a V4V fashion.
+The first clients that focus on long-form content already exist, and I expect
+more clients to pop up over time.[^4] As mentioned before, one could easily
+imagine [prism-like value splits][prism] seamlessly integrated into these
+clients, splitting zaps automatically to compensate writers, editors,
+proofreaders, and illustrators in a V4V fashion. Further, one could imagine
+various compute-intensive services built into these special-purpose clients,
+such as GPT Ghostwriters, or writing aids such as Grammarly and the like. All
+these services could be seamlessly paid for in sats, without the requirement of
+any sign-ups or the gathering of any user data. That's the beauty of [money
+proper][rediscovery].
 
 {% include image.html name="nostr-reader-and-writer.png" %}
 
