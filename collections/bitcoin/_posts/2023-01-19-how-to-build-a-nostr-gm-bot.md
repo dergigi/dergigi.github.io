@@ -8,7 +8,7 @@ blocktime: 772729
 image: /assets/images/gmbot.jpg
 redirect_from: /gmbot
 author: Gigi
-category: bitcoin
+category: nostr
 favorite: false
 tags:
  - Bitcoin
