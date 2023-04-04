@@ -4,8 +4,8 @@ title: "nostr Swarm Highlights"
 description: "How nostr can benefit readers and writers."
 date: 2023-04-04
 blocktime: TODO
-image: /assets/images/swarm.jpg
-redirect_from: /swarm
+image: /assets/images/reader.jpg
+redirect_from: /reader
 author: Gigi
 category: bitcoin
 favorite: false
