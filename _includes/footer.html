@@ -18,6 +18,7 @@
       <p class="sister_projects">
         <small>
           {% for proj in site.data.projects %}
+          {% if site.code == proj.code %}{% continue %}{% endif %}
           {% if proj.fav %}<a href="{{ proj.link }}">{{ proj.name }}</a> ·{% endif %}
           {% endfor %}
           <a href="https://dergigi.com/projects">…more</a>
