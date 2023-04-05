@@ -16,8 +16,6 @@ default_img: /assets/images/avatar.jpg
 social:
   - name: nostr
     url: nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc
-  - name: mastodon
-    url: https://bitcoinhackers.org/@dergigi
   - name: github
     url: https://github.com/dergigi
   - name: bitcoin
