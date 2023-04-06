@@ -1,12 +1,5 @@
 [
     {
-        "name": "dergigi.com",
-        "code": "DG",
-        "order": 0,
-        "fav": true,
-        "link": "https://dergigi.com/"
-    },
-    {
         "name": "21 Lessons",
         "code": "21L",
         "order": 10,
@@ -47,5 +40,12 @@
         "order": 60,
         "fav": false,
         "link": "https://opsecswag.com/"
+    },
+    {
+        "name": "twentyone.world",
+        "code": "TW",
+        "order": 70,
+        "fav": true,
+        "link": "https://twentyone.world/"
     }
 ]
