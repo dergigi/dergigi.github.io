@@ -15,8 +15,10 @@ subtitle: The bird app is dead, long live the bird app!
   <div class="posts">
     <div class="grid-xlarge">
       <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
-        {% for post in nostrposts %}
-          {% include post-card.html %}
+        {% for post in site.posts %}
+          {% if post.tags contains "nostr" %}
+            {% include post-card.html %}
+          {% endif %}
         {% endfor %}
       </div>
     </div>
