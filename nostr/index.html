@@ -3,7 +3,12 @@ layout: default
 title: Nostr
 subtitle: The bird app is dead, long live the bird app!
 ---
-{% assign nostrposts = site.categories.nostr %}
+{% assign nostrposts = "" | split: "," %}
+{% for post in site.posts %}
+  {% if post.tags contains "nostr" %}
+    {% assign nostrposts = nostrposts | push: post %}
+  {% endif %}
+{% endfor %}
 <div class="post__content section-padding">
   <div id="markdown" class="grid">
     <p>
@@ -15,10 +20,8 @@ subtitle: The bird app is dead, long live the bird app!
   <div class="posts">
     <div class="grid-xlarge">
       <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
-        {% for post in site.posts %}
-          {% if post.tags contains "nostr" %}
-            {% include post-card.html %}
-          {% endif %}
+        {% for post in nostrposts %}
+          {% include post-card.html %}
         {% endfor %}
       </div>
     </div>
