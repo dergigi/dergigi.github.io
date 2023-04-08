@@ -12,6 +12,7 @@ favorite: true
 tags:
  - Bitcoin
  - Writing
+ - nostr
 ---
 
 We all know that the Web is broken in more ways than one. Clickbait,
