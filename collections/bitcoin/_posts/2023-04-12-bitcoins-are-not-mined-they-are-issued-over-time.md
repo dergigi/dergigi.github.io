@@ -76,11 +76,13 @@ resistance to hostile alteration. If you are cheering for a reduction in
 hashrate you are cheering for centralization and ease of corruption.
 
 Saying that you hate Bitcoin because it uses energy is like saying that you hate
-turtles because they grow shells. "Wouldn't it be great if all the turtles go
-naked, so that any predator could easily swoop down and swallow them whole?"
+turtles because they grow shells.
+
+"*Wouldn't it be great if all the turtles go naked, so that any predator could easily swoop down and swallow them whole?*"
+
 That's you.
 
-If you think that Bitcoin is useless, any energy that Bitcoin uses will seem
+If you think that Bitcoin is useless, *any* energy that Bitcoin uses will seem
 like a waste. If you think that Bitcoin is useful, the question as to how much
 energy it should use is as unanswerable as how many Christmas lights or tumble
 dryers are enough. You can't answer such a question; only the distributed
@@ -96,16 +98,17 @@ going forward:
 that Bitcoin uses a certain amount of energy, always and forever, into the
 future:
 
-Exactly the right amount.
+...exactly the right amount.
 
 ---
 
-[^fn-step4]: Step four is to start stacking sats or to cry exponentially harder. The [choice is yours][memes].
+[^fn-step4]: Step four is to [start stacking sats][family] or to cry exponentially harder. The [choice is yours][memes].
 
-[^fn-fi]: But hey, maybe that's exactly what you want?
+[^fn-si]: But hey, maybe that's exactly what you want?
 
 [pow]: {{ '/pow' | absolute_url }}
 [memes]: {{ '/memes' | absolute_url }}
+[family]: {{ '/family' | absolute_url }}
 [time]: {{ '/time' | absolute_url }}
 [cryptography]: {{ '/cryptography' | absolute_url }}
 [cyfp]: https://bitcoin-resources.com/books/check-your-financial-privilege
