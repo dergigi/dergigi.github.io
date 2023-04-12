@@ -18,8 +18,8 @@ Out of all the misconceptions when it comes to Bitcoin, the misconception that
 "miners" are creating "bitcoins" is probably the most asinine one.
 
 No, miners are not creating bitcoins. Miners are trying to create valid blocks
-and are rewarded by the Bitcoin network with newly issued sats (during the
-network's bootstrapping phase).
+and are rewarded by the Bitcoin network with newly issued sats if they succeed.
+This reward is only paid during the network's bootstrapping phase.
 
 Why is this differentiation important? It is important because Bitcoin's
 issuance schedule is completely unrelated to its energy use. It is related to
