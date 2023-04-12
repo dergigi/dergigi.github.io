@@ -79,10 +79,10 @@ future: exactly the right amount.[^fn-step4]
 
 ---
 
-[^fn-step4]: Step four is to start stacking sats or to cry exponentially harder.
-The choice is yours.
+[^fn-step4]: Step four is to start stacking sats or to cry exponentially harder. The [choice is yours][memes].
 
 [pow]: {{ '/pow' | absolute_url }}
+[memes]: {{ '/memes' | absolute_url }}
 [time]: {{ '/time' | absolute_url }}
 [cryptography]: {{ '/cryptography' | absolute_url }}
 [cyfp]: https://bitcoin-resources.com/books/check-your-financial-privilege
