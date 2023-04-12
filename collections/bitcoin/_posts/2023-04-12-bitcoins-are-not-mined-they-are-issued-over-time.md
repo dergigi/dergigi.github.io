@@ -26,7 +26,7 @@ issuance schedule is completely unrelated to its energy use. It is related to
 [time] and time only.
 
 It doesn't matter how many machines "mine" bitcoin; the same amount of bitcoin
-will be issued over time.
+will be issued over time.[^fn-wiki]
 
 {% include image.html name="supply-schedule.png" %}
 
@@ -101,6 +101,8 @@ future:
 ...exactly the right amount.
 
 ---
+
+[^fn-wiki]: All charts are (CC0) by the [Bitcoin Wiki](https://en.bitcoin.it/wiki/Controlled_supply) and published under a Universal Public Domain Dedication license.
 
 [^fn-step4]: Step four is to [start stacking sats][family] or to cry exponentially harder. The [choice is yours][memes].
 
