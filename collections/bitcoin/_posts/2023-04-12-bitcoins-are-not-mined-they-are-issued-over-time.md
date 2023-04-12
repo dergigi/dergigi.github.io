@@ -33,9 +33,12 @@ will be "mined" over time.
 Bitcoin's energy use is related to security and fair distribution of coins, not
 creating more coins. The same amount of coins would be issued over the same
 amount of time, even if Satoshi Nakamoto had remained the only person interested
-in mining bitcoin.
-**21 million** coins---issued in [10-minute intervals][cryptography]---over
-the course of 131 years.
+in mining bitcoin:
+
+**21 million** coins, issued in [10-minute intervals][cryptography], over
+the course of ~131 years.
+
+{% include image.html name="timeline-estimation.png" %}
 
 If the interest for an open, borderless, transparent, limited, weightless,
 divisible, digitally native, and easily verifiable electronic cash would've
@@ -57,13 +60,14 @@ coins are issued over time, independent of energy use.
 
 {% include image.html name="block-rewards.png" %}
 
-If you are offended by Bitcoin's energy use because you hate bitcoin, I have bad
-news for you: the same amount of bitcoins would be issued over the same amount
-of time, even if Bitcoin's kilowatt-hours would be close to zero. The same
-amount of sats would exist, and surprisingly, the network could be used by the
-same amount of people as it is today. It would just be centralized, insecure,
-easily influenced, easily altered, prone to censorship, prone to corruption, and
-catering to special interests.
+If you are offended by Bitcoin's energy use because you hate the little orange
+coins that are supposedly being mined, I have bad news for you: the same amount
+of bitcoins would be issued over the same amount of time, even if Bitcoin's
+kilowatt-hours would be close to zero. The same amount of sats would exist, and
+surprisingly, the network could be used by the same amount of people as it is
+today. It would just be centralized, insecure, easily influenced, easily
+altered, prone to censorship, prone to corruption, and catering to special
+interests.[^fn-si]
 
 Saying that you want the Bitcoin network to use less energy exposes you as
 either naively uninformed, dangerously authoritarian, or both. A decrease in
@@ -97,6 +101,8 @@ Exactly the right amount.
 ---
 
 [^fn-step4]: Step four is to start stacking sats or to cry exponentially harder. The [choice is yours][memes].
+
+[^fn-fi]: But hey, maybe that's exactly what you want?
 
 [pow]: {{ '/pow' | absolute_url }}
 [memes]: {{ '/memes' | absolute_url }}
