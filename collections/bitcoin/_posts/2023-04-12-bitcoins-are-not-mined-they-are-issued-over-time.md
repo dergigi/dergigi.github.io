@@ -25,8 +25,8 @@ Why is this differentiation important? It is important because Bitcoin's
 issuance schedule is completely unrelated to its energy use. It is related to
 [time] and time only.
 
-It doesn't matter how many machines mine bitcoin; the same amount of bitcoin
-will be "mined" over time.
+It doesn't matter how many machines "mine" bitcoin; the same amount of bitcoin
+will be issued over time.
 
 {% include image.html name="supply-schedule.png" %}
 
@@ -83,7 +83,7 @@ turtles because they grow shells.
 That's you.
 
 If you think that Bitcoin is useless, *any* energy that Bitcoin uses will seem
-like a waste. If you think that Bitcoin is useful, the question as to how much
+like a waste. If you think that Bitcoin is [useful][energy], the question as to how much
 energy it should use is as unanswerable as how many Christmas lights or tumble
 dryers are enough. You can't answer such a question; only the distributed
 cognition of the market can answer that question.
@@ -108,6 +108,7 @@ future:
 
 [pow]: {{ '/pow' | absolute_url }}
 [memes]: {{ '/memes' | absolute_url }}
+[energy]: {{ '/energy' | absolute_url }}
 [family]: {{ '/family' | absolute_url }}
 [time]: {{ '/time' | absolute_url }}
 [cryptography]: {{ '/cryptography' | absolute_url }}
