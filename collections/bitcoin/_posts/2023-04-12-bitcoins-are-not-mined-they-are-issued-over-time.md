@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Bitcoins Are Not Mined, They Are Issued over Time "
-description: "TODO"
+description: "It's time we clear up a common misconception."
 date: 2023-04-12
-blocktime: TODO
+blocktime: 785142
 image: /assets/images/coal-miners-btc.jpg
 redirect_from: /mined
 author: Gigi
