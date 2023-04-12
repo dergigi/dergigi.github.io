@@ -28,6 +28,8 @@ issuance schedule is completely unrelated to its energy use. It is related to
 It doesn't matter how many machines mine bitcoin; the same amount of bitcoin
 will be "mined" over time.
 
+{% include image.html name="supply-schedule.png" %}
+
 Bitcoin's energy use is related to fair distribution, not creating more bitcoin.
 The same amount of bitcoin would be issued over the same amount of time, even if
 Satoshi Nakamoto had remained the only person running a mining rig. **21 million**
@@ -38,8 +40,14 @@ divisible, digitally native, and easily verifiable electronic cash would've
 stayed with Satoshi and Satoshi only, the energy use of the Bitcoin network
 would be the energy use of a single CPU.
 
-Bitcoin's energy use is a measure of interest and fair distribution, not a
-measure of how many of the supposedly useless coins are being produced.
+Bitcoin's energy use is a measure of interest; its reward mechanism is a
+distribution mechanism. When it comes to issuance, the higher Bitcoin's energy
+use, the fairer the initial distribution of coins. Bitcoin's energy use is *not*
+a measure of how many of the supposedly useless coins are being produced. The
+amount of new coins being issued was fixed from the beginning. Coins are issued
+over time, independent of energy use.
+
+{% include image.html name="block-rewards.png" %}
 
 If you are offended by Bitcoin's energy use because you hate bitcoin, I have bad
 news for you: the same amount of bitcoins would be issued over the same amount
@@ -69,11 +77,9 @@ With all that being said, allow me to present a three-step program that will
 allow you, dear reader, to get less triggered regarding Bitcoin's energy use
 going forward:
 
-Step 1: [Check your financial privilege][cyfp];
-
-Step 2: Understand the necessity of [proof-of-work][pow];
-
-Step 3: Understand the genius that is the difficulty adjustment, which ensures
+- **Step 1:** [Check your financial privilege][cyfp]
+- **Step 2:** Understand the necessity of [proof-of-work][pow];
+- **Step 3:** Understand the genius that is the difficulty adjustment, which ensures
 that Bitcoin uses a certain amount of energy, always and forever, into the
 future: exactly the right amount.[^fn-step4]
 
