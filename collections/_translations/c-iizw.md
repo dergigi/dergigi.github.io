@@ -1,6 +1,6 @@
 ---
 layout: page
-code: blocks
+code: zero
 language: Russian
 author: Tony
 author_url: https://twitter.com/TonyCrusoe
