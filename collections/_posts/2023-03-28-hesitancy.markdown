@@ -3,7 +3,7 @@ layout: post
 title: "Hesitancy"
 redirect_from: /hesitancy
 date: 2023-03-28
-description: TODO
+description: Hesitancy tells you something.
 image: /assets/images/hesitancy.jpg
 author: Gigi
 category: photography
