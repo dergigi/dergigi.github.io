@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Writing"
+redirect_from: /writing
+date: 2023-05-04
+description: TODO
+image: /assets/images/writing.jpg
+author: Gigi
+category: photography
+tags:
+  - Photography
+---
+
+Writing, for some reason, is one of the most powerful things you can do.
+
+I wrote a personal mission statement a couple years ago. They say you should
+write things down. They say the pen is mightier than the sword. They say that
+[the Logos][speech] is sacred. They say "ask, and you shall receive." They are all right.
+Today, I received.[^fn-block]
+
+I guess I'll continue writing.[^fn-book]
+
+---
+
+[speech]: {{ '/speech' | absolute_url }}
+[^fn-block]: [788,258](https://www.nostr.guru/e/69130a21b29d65dd73b4b07480714e84395ac55f463620e2ca7d6310fcede896)
+[^fn-book]: [6/21](https://21-ways.com/)
