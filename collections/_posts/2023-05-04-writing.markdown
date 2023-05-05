@@ -3,8 +3,8 @@ layout: post
 title: "Writing"
 redirect_from: /writing
 date: 2023-05-04
-description: TODO
-image: /assets/images/writing.jpg
+description: Writing is one of the most powerful things you can do.
+image: /assets/images/pen.jpg
 author: Gigi
 category: photography
 tags:
