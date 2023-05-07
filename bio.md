@@ -15,9 +15,9 @@ multi-faceted understanding of Bitcoin.  In 2019 he launched the German-speaking
 Bitcoin podcast \"[Einundzwanzig](https://einundzwanzig.space/)\" with one of
 his co-hosts which turned into a community movement that now spans [multiple
 countries](https://twentyone.world/). He is passionate about privacy, human
-rights, and freedom technology. As the head of strategy and operations
-of [OpenSats](https://opensats.org/), he spends most of his day thinking about
-how to best support the development of free and open-source software as we
+rights, and freedom technology. As the head of strategy and operations at
+[OpenSats](https://opensats.org/), he spends most of his day thinking about how
+to best support the development of free and open-source software as we
 transition towards an increasingly bitcoinized world.
 
 ---
