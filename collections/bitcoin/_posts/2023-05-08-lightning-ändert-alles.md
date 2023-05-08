@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Lightning ändert alles"
-description: "TODO"
-date: 2022-11-26
+description: "Nichts kann rarer sein als Bitcoin. Nichts kann schneller sein als Lightning."
+date: 2023-05-08
 blocktime: TODO
 image: /assets/images/lichtgeschwindigkeit.jpg
 redirect_from: /lichtgeschwindigkeit
