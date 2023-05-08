@@ -3,7 +3,7 @@ layout: post
 title: "Lightning ändert alles"
 description: "Nichts kann rarer sein als Bitcoin. Nichts kann schneller sein als Lightning."
 date: 2023-05-08
-blocktime: TODO
+blocktime: 788761
 image: /assets/images/lichtgeschwindigkeit.jpg
 redirect_from: /lichtgeschwindigkeit
 source: https://einundzwanzig.shop/p/einundzwanzig-magazin-lightning/
@@ -267,7 +267,7 @@ unmanipuliert und mit Lichtgeschwindigkeit. Und das ändert alles.
 
 <small>
 This text was written at
-[TODO](https://www.mempool.space/block/TODO) and published
+[778,663](https://www.mempool.space/block/778663) and published
 originally in print for the second issue of the
 [EINUNDZWANZIG](https://twitter.com/einundzwanzig_m) magazine. You can buy a
 copy at
