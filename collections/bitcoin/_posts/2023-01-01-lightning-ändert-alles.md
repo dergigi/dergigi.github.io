@@ -22,7 +22,7 @@ Lightning ist Bitcoin und setzt Bitcoin frei. Lightning lässt Sats
 fließen, ermöglicht Lichtgeschwindigkeit ohne Kredit. Es bringt gesundes
 Geld in Meat- und Cyberspace. Und das ändert alles.
 
-### Geld und Kredit {#Geld-und-Kredit}
+### Geld und Kredit
 
 Bitcoin ist die Antwort auf eine Frage. Was Geld ist, was Geld war, und
 was Geld sein kann. Bitcoin ist kein Kredit, kein Schuldschein für ein
@@ -38,7 +38,7 @@ Rohstoffes---ein Block, alle 10 Minuten.
 Es sind diese 10 Minuten welche den Rohstoff Bitcoin in Umlauf bringen.
 Alle 10 Minuten werden Sats gefunden---nicht erzeugt, gefunden. Alle 2.1
 Quadrillionen Sats existieren seit Beginn von Bitcoin. Diejenigen, die
-wir \"Miner\" nennen, graben sie aus. Sie werden von dem Netzwerk für
+wir "Miner" nennen, graben sie aus. Sie werden von dem Netzwerk für
 ihren Aufwand, gültige Blöcke zu finden, belohnt. Sats erzeugen diese
 Miner allerdings nicht. Alle Sats existieren bereits; die Zeit setzt sie
 frei, diese wunderbaren Sats, und die Miner helfen ihr dabei. Die
@@ -57,7 +57,7 @@ Aber die Protokolle Lightning und Bitcoin, kurz LNP/BP, werden
 wahrscheinlich ähnlich wichtig für den Werteaustausch werden wie TCP/IP
 für den Datenaustausch bereits ist.
 
-### TCP/IP und LNP/BP {#TCP/IP-und-LNP/BP}
+### TCP/IP und LNP/BP
 
 Wir leben im Zeitalter der Information. Die Teleportation von
 Information hat sowohl die Welt als auch unser aller Leben verändert.
@@ -78,7 +78,7 @@ und zwar perfekt. Das Wunderbare an LNP/BP ist das Regelwerk, welches
 ungültige Kopien wertlos macht. Es ist dieses Regelwerk, welches
 Information zu Geld werden lässt.
 
-### Information und Geld {#Information-und-Geld}
+### Information und Geld
 
 Geld war und ist immer Information. Die Suche des Menschen nach gutem
 Geld ist die Suche nach einem Rohstoff, welcher diese Information am
@@ -106,7 +106,7 @@ dieser Wert nun---ohne Gegenparteirisiko und mit
 Lichtgeschwindigkeit---direkt übertragen werden kann. Nichts kann rarer
 sein als Bitcoin. Nichts kann schneller sein als Lightning.
 
-### Gegenwart und Zukunft {#Gegenwart-und-Zukunft}
+### Gegenwart und Zukunft
 
 Vor nicht allzu langer Zeit war Lightning noch #reckless. Heute, um
 Block 777.777 herum, kommt mir Lightning nicht mehr sehr reckless vor,
@@ -134,13 +134,13 @@ die Kanäle ausbalanciert, und trotzdem ging jedes zweite Payment schief.
 Heute funktioniert es einfach. In Zukunft wird es noch besser
 funktionieren.
 
-### Strand und Dschungel {#Strand-und-Dschungel}
+### Strand und Dschungel
 
 Ganze Länder verwenden inzwischen Lightning. Klar, es ist nicht alles
 perfekt in El Salvador, aber trotzdem ist es unglaublich, dass ein
 ganzes Land auf Bitcoin gewechselt ist, wenn auch nur teilweise.
 Kinderkrankheiten und Wachstumsschmerzen sind zu erwarten. Early Adopter
-sind per Definition \"zu früh.\" Dies gilt für Menschen, Firmen und
+sind per Definition "zu früh." Dies gilt für Menschen, Firmen und
 Länder gleichermaßen. Die Ersten sind immer zu früh, die breite Masse
 kommt immer dann, wenn die scharfen Kanten glatt gebügelt sind, und die
 Nachzügler verwenden das neue Ding erst dann, wenn das neue Ding nicht
@@ -155,12 +155,12 @@ Internet verbindet. Trotzdem haben wir kein Problem damit, diese Dinge
 zu verwenden, ja sogar so weit unser aller Leben mit diesen Dingen zu
 verschränken, dass wir ohne diese Technologien kaum mehr leben können.
 
-Ist Lightning ausgereift? \"Noch nicht, aber bald\" wäre meine Antwort.
+Ist Lightning ausgereift? "Noch nicht, aber bald" wäre meine Antwort.
 Bald wird man keinen Unterschied mehr zwischen den jetzt gängigen EC
 Karten und Lightning spüren. Dank Apple- und Google-Pay ist es ganz
 normal, per Handy oder Uhr zu bezahlen. Lightning kann das auch. Die
 ersten Bier- und sonstigen Automaten der Bastler und Hacker zeigen es
-vor. Eine Integration in \"normale\" Point-of-Sale Terminals
+vor. Eine Integration in "normale" Point-of-Sale Terminals
 unausweichlich. Der Unterschied zu Google- und Apple-Pay ist kaum
 merkbar, und doch ist er riesengroß. Sats, nicht Fiat. Gesundes Geld,
 nicht Kredit.
@@ -179,8 +179,8 @@ Ausnahme. Zumindest im Dschungel.
 
 Bitcoin Beach war natürlich das erste Gebiet, welches großflächig auf
 Lightning aufgesprungen ist. Man darf nicht vergessen, dass, auch wenn
-El Salvador gerne als \"top-down\" Adoption gesehen wird, die
-ursprüngliche Bewegung \"bottom-up\" war, und zu einem gewissen Teil
+El Salvador gerne als "top-down" Adoption gesehen wird, die
+ursprüngliche Bewegung "bottom-up" war, und zu einem gewissen Teil
 auch immer noch ist. Ich glaube, Bitcoin-Adoption kann nur bottom-up
 funktionieren. Jemandem Bitcoin aufzuzwingen funktioniert nicht, wie
 viele Bitcoiner aus eigener Erfahrung mit ihren Liebsten bestätigen
@@ -188,13 +188,13 @@ können.
 
 Es muss wohl so weitergehen wie bisher: Strand für Strand, Dschungel für
 Dschungel, See für See, Mensch für Mensch. Mit der Zeit wird es viele
-verschiedene \"Bitcoin Beaches\" geben, und auch viele verschiedene
-\"Bitcoin Jungle\", und auch mehrere \"Bitcoin Lakes\". Die drei
+verschiedene "Bitcoin Beaches" geben, und auch viele verschiedene
+"Bitcoin Jungle", und auch mehrere "Bitcoin Lakes". Die drei
 bekannten werden für immer die Ersten sein. Alle weiteren werden eines
 gemeinsam haben: gesundes Geld, und ein globales Netzwerk, welches sie
 alle verbindet.
 
-### Meatspace und Cyberspace {#Meatspace-und-Cyberspace}
+### Meatspace und Cyberspace
 
 Die größte Veränderung, die Lightning mit sich bringen wird, wird
 allerdings nicht in Bitcoin Beach oder Bitcoin Jungle sein. Die größte
@@ -233,8 +233,8 @@ Kreditkartenbetrugs. Fiat-Geld löst dieses Problem nicht. Fiat-Geld ist
 nur ein Eintrag in einem Schuldbuch, somit ist der beschriebene Konflikt
 vorprogrammiert.
 
-Bitcoin löst dieses Problem, denn Bitcoin ist ein \"digital bearer
-asset\": ein digitales Gut, welches man selbst \"halten\" kann. Der Wert
+Bitcoin löst dieses Problem, denn Bitcoin ist ein "digital bearer
+asset": ein digitales Gut, welches man selbst "halten" kann. Der Wert
 steckt in der Information selbst. Die 12 Wörter deiner Seedphrase sind
 nicht ein Passwort zu einem Account, nein, diese 12 magischen Wörter
 sind der Wert an sich.
@@ -267,7 +267,7 @@ unmanipuliert und mit Lichtgeschwindigkeit. Und das ändert alles.
 
 <small>
 This text was written at
-[TODO](https://www.blockstream.info/block-height/TODO) and published
+[TODO](https://www.mempool.space/block/TODO) and published
 originally in print for the second issue of the
 [EINUNDZWANZIG](https://twitter.com/einundzwanzig_m) magazine. You can buy a
 copy at
