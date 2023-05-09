@@ -1,7 +1,7 @@
 ---
 layout: page
 code: momo
-language: German
+language: English
 author: Der Geier
 author_url: https://twitter.com/DerGeier21
 link: https://telegra.ph/Bitcoin-is-11-28
