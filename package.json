@@ -29,9 +29,9 @@
     "salvattore": "^1.0.9"
   },
   "devDependencies": {
-    "@babel/cli": "^7.21.5",
-    "@babel/core": "^7.22.1",
-    "@babel/preset-env": "^7.22.4",
+    "@babel/cli": "^7.22.5",
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
     "eslint": "^8.42.0",
@@ -45,7 +45,7 @@
     "gulp-uglify": "^3.0.2",
     "gulp-zip": "^5.1.0",
     "s3-website": "^3.3.1",
-    "sass": "^1.62.1",
+    "sass": "^1.63.4",
     "stylelint": "^15.7.0",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0"
