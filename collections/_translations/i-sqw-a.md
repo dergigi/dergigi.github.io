@@ -5,7 +5,7 @@ language: Turkish
 author: Kemal
 author_url: https://twitter.com/_pretyflaco
 link: https://www.yirmibir.org/blog/sevgili-ailem-sevgili-dostlarim
-archive: https://archive.is/ISqwA
+archive: https://archive.ph/ISqwA
 type: text
 part: 
 ---
