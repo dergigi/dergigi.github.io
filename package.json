@@ -24,14 +24,14 @@
     "aos": "^2.3.4",
     "gulp": "^4.0.2",
     "jekyll-infinite-scroll": "^1.0.5",
-    "jquery": "^3.7.0",
+    "jquery": "^3.7.1",
     "node-sass": "^9.0.0",
     "salvattore": "^1.0.9"
   },
   "devDependencies": {
     "@babel/cli": "^7.22.10",
     "@babel/core": "^7.22.11",
-    "@babel/preset-env": "^7.22.10",
+    "@babel/preset-env": "^7.22.14",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
     "eslint": "^8.48.0",
