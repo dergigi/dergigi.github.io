@@ -29,12 +29,12 @@
     "salvattore": "^1.0.9"
   },
   "devDependencies": {
-    "@babel/cli": "^7.22.15",
-    "@babel/core": "^7.22.20",
+    "@babel/cli": "^7.23.0",
+    "@babel/core": "^7.23.0",
     "@babel/preset-env": "^7.22.20",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
-    "eslint": "^8.49.0",
+    "eslint": "^8.50.0",
     "eslint-config-eslint": "^9.0.0",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
