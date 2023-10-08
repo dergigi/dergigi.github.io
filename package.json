@@ -34,7 +34,7 @@
     "@babel/preset-env": "^7.22.20",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
-    "eslint": "^8.50.0",
+    "eslint": "^8.51.0",
     "eslint-config-eslint": "^9.0.0",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
