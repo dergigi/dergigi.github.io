@@ -53,7 +53,7 @@ translations:
    author: Dea Rezkitha
    author_url: https://twitter.com/dearezkitha
  - language: Arabic
-   url: https://bit.ly/3gifbRV
+   url: https://w3.do/4cAnt6oE
    author: Ahmad Hamdan
    author_url: https://twitter.com/AhmadHamdan309
  - language: Chinese
