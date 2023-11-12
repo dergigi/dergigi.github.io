@@ -195,7 +195,7 @@ well. The reason why change is inevitable is Bitcoin's block reward
 function which ensures a controlled, limited supply.
 
 The block reward is halving every 210.000 blocks and will eventually
-reach zero, [after 64 halvings]. After the last of these halvings,
+reach zero, [after 34 halvings]. After the last of these halvings,
 miners will be left with transaction fees as the only financial reward
 for mining a new block.
 
@@ -367,7 +367,7 @@ economy. In the case of Bitcoin, this resource is energy.
 [difficulty]: https://en.bitcoin.it/wiki/Difficulty
 [why running a full node is important]: https://www.youtube.com/watch?v=oX0Yrv-6jVs
 [block reward]: https://en.bitcoin.it/wiki/Mining#Reward
-[after 64 halvings]: https://github.com/bitcoin/bitcoin/blob/7f4db9a7c3549a36e45d70fc3c159367aa1e99a4/src/validation.cpp#L1190
+[after 34 halvings]: https://en.bitcoin.it/wiki/Controlled_supply#Projected_Bitcoins_Long_Term
 [controlled supply]: https://en.bitcoin.it/wiki/Controlled_supply
 [Hugo Nguyen]: https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667
 [Jörg Bittner Unna]: https://commons.wikimedia.org/wiki/File:%27David%27_by_Michelangelo_JBU0001.JPG
