@@ -46,7 +46,7 @@
     "gulp-zip": "^6.0.0",
     "s3-website": "^3.3.1",
     "sass": "^1.69.5",
-    "stylelint": "^16.0.2",
+    "stylelint": "^16.1.0",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0"
   }
