@@ -3,7 +3,7 @@ layout: post
 title: "Lethargy"
 redirect_from: /lethargy
 date: 2024-02-03
-description: TODO
+description: "'If you’re not having fun in the bitcoin space you’re doing it wrong.'"
 image: /assets/images/lethargy.jpg
 author: Gigi
 category: photography
@@ -160,8 +160,8 @@ thoughts that have me doubt everything, including my decision to start writing
 in the first place.
 
 I’m incredibly grateful for everything, I truly am. I’m grateful for everyone
-who supported me on my writing journey. You are all amazing, and I feel
-devastated to let you down like this.
+who supported me on my writing journey. [You are all amazing](/patreon), and I
+feel devastated to let you down like this.
 
 I want to write more, I really do. It’s just not in the cards at this moment. I
 finally have to be humble enough to admit to myself that I can’t.
