@@ -38,15 +38,20 @@ ago](https://dergigi.com/2022/11/19/dear-crypto-fiat-bros/).
 Granted, I’ve written [a lot of blog posts](https://opensats.org/blog) in the
 recent months and I’m proud of many of them, but that’s not the writing I should
 be doing. At least that’s what my subconscious has been telling me, or what I’m
-telling myself right now, at this moment. In any case, I’ve been doing it wrong
+telling myself right now, at this moment.[^fn-past] In any case, I’ve been doing it wrong
 for a while now. And today—yesterday, actually—that became obvious to me.
+
+[^fn-past]: "This moment" was about [a month ago](https://mempool.space/block/824555), which is, of course, exactly the problem I'm trying to solve.
 
 ### Breaking
 
-I still have the picture on my wall that I mentioned a couple years ago, and it
-still says the following: "You liter­ally ought to be asking yourself all the
-time what is the most impor­tant thing in the world I could be working on right
-now, and if you are not working on that why aren't you?"
+I still have the picture on my wall that I mentioned in an old blog
+post[^fn-swan], and it still says the following: "You liter­ally ought to be
+asking yourself all the time what is the most impor­tant thing in the world
+I could be working on right now, and if you are not working on that why aren't
+you?"
+
+[^fn-swan]: [2020](/swan) was ages ago, wow.
 
 {% include image.html name="most-important-thing.png" %}
 
@@ -162,7 +167,12 @@ I want to write more, I really do. It’s just not in the cards at this moment. 
 finally have to be humble enough to admit to myself that I can’t.
 
 What remains is hope. Hope that it will all be fine in the end. Hope that others
-will say what I’ve left unsaid, that they’ll write some of the things I’ve
-always wanted to write. Hope that you’ll forgive me, or that at least I’ll be
-able to forgive myself. And last but not least, hope that admittance will bring
-betterment eventually, or, at a minimum, subdue the lethargy.
+will say what I’ve left unsaid,[^fn-silence] that they’ll write some of the
+things I’ve always wanted to write. Hope that you’ll forgive me, or that at
+least I’ll be able to forgive myself. And last but not least, hope that
+admittance will bring betterment eventually, or, at a minimum, subdue the
+lethargy.
+
+---
+
+[^fn-silence]: "I wonder... How much [love](/peace) in this world hides behind silence?"
