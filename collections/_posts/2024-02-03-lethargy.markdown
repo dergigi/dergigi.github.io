@@ -1,0 +1,168 @@
+---
+layout: post
+title: "Lethargy"
+redirect_from: /lethargy
+date: 2024-02-03
+description: TODO
+image: /assets/images/lethargy.jpg
+author: Gigi
+category: photography
+tags:
+  - Photography
+---
+
+Lethargy. A state of comatose torpor. Oh, what beautiful words. Oh, what a
+horrible condition of relentless agony.
+
+I’m not sure if there’s a way to do this right. I wanted to say what I’m going
+to say for a long while now, but I never mustered the courage to do so.
+
+### Doing it Wrong
+
+“If you’re not having fun in the bitcoin space you’re doing it wrong,” is
+something I’ve said a long time ago. I used to have an incredible amount of fun
+while doing an incredible amount of work. It still feels like I’m doing a
+significant amount of work most of the time, but it’s been a while since I’ve
+had the fun I used to have. I’m not sure why that is. It might be because, as of
+this writing, most of the work I do is unseen or unpublished. So it oftentimes
+feels like I’m actually doing nothing—or not enough. Not fun.
+
+The most “nothing” happens of course in the one area that you (and myself) care
+most about, which is writing. I’ve done [zero](https://21-ways.com/zero) writing
+in the last 12 months. Maybe even 18, I’m not sure. I’d have to go back and look
+at my records. By writing I mean meaningful writing, obviously. Deep work.
+Insights worth sharing. Insights like [this](https://21-ways.com/2/), or
+[this](https://21-ways.com/6/), or even rants like the one I wrote [two years
+ago](https://dergigi.com/2022/11/19/dear-crypto-fiat-bros/).
+
+Granted, I’ve written [a lot of blog posts](https://opensats.org/blog) in the
+recent months and I’m proud of many of them, but that’s not the writing I should
+be doing. At least that’s what my subconscious has been telling me, or what I’m
+telling myself right now, at this moment. In any case, I’ve been doing it wrong
+for a while now. And today—yesterday, actually—that became obvious to me.
+
+### Breaking
+
+I still have the picture on my wall that I mentioned a couple years ago, and it
+still says the following: "You liter­ally ought to be asking yourself all the
+time what is the most impor­tant thing in the world I could be working on right
+now, and if you are not working on that why aren't you?"
+
+{% include image.html name="most-important-thing.png" %}
+
+It’s a mantra shared by [Aaron
+Swartz](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz),
+one of the very few people that I’d consider to be a hero of mine. I’ve lived by
+this mantra for almost 10 years now, which led me to work on bitcoin full-time
+for the last 7 or so. I still live by this mantra, and the answer is still
+bitcoin. But for the last 7 years, I’ve purposefully ignored all side-quests,
+one of which is “take care of yourself.”
+
+### Care
+
+I care deeply about Bitcoin, and I care deeply about bitcoiners. More than I
+care about myself, which became obvious about two weeks ago.
+
+“I think I’ve reached a breaking point,” is what I’ve told a close friend of
+mine. “How do you know?” is what he answered. “It took me 45 minutes to get out
+of my car, 45 minutes to get out of the garage, and another 45 minutes until the
+flow of tears stopped.”
+
+“Oh, wow,” is what he said. “Yeah, wow” is what I answered.
+
+### Change
+
+I never took a day off. “It’s too important,” is what I’ve been telling myself.
+Yes, it’s important. But not burning yourself to a crisp is important too.
+
+“Nodes are free to leave and re-join the network.” True for nodes, true for
+people. That’s what I’ve been telling others that have reached similar breaking
+points in the past. That’s what I’ll keep telling everyone who is at the edge of
+burning out: “Please take a break. Please take care of yourself and your loved
+ones. Bitcoin isn’t going anywhere. You’re free to re-join at any time. Or not!
+That’s fine too. But please take care of yourself and your health. Nothing else
+matters if you’re miserable.”
+
+I’ve been telling the above to many people over many years, and I hope that many
+of them took my advice. I’ve never told it to myself, so I’ll do it now: “you’ve
+done quite a bit, it’s okay if you don’t publish a chapter every week. Please
+take care of yourself. And whatever you do, please don’t burn out.”
+
+Thanks. I’ll try.
+
+### Shutdown
+
+The internet is a fantastic thing. I still love it, as I do
+[bitcoin](https://bitcoin-resources.com/) (and
+[nostr](https://nostr-resources.com/), for that matter). I love it because it
+opens up possibilities; it removes distance.
+
+My personal policy was always to say yes and make time for people. My DMs were
+always open, and I tried my best to be reachable, responsive, and helpful. I’m
+afraid that I’ll have to sunset that policy. It’s not workable anymore. I’ve
+been drowning in DMs and emails for a long time now, and there’s simply no way
+I’m ever going to read, let alone respond to, everything.
+
+Don’t get me wrong. I’m incredibly grateful that so many people reach out to me.
+It warms my heart, and I’m often moved to tears by the stories they share or the
+opportunities they offer. But it’s also overwhelming, and I’ve been overwhelmed
+for longer than I’d care to admit.
+
+It’s obvious that I have to change something. It has been obvious for a while.
+So I’m going to change it. I promise.
+
+### Promises
+
+Promises are part of the problem, so I’m going to fix it once and for all with
+this last one: No more promises.
+
+I promised to finish [the book](https://21-ways.com/) in X months, and I broke
+that promise. I promised to write about Y “soon” ™, and I broke that promise
+too. I promised [the people who support me](https://dergigi.com/support/) to be
+available for periodic chats and questions, and I broke that promise as well,
+multiple times.
+
+No more.
+
+Breaking promises is a surefire way to misery, so I won’t do it anymore. No more
+promises. After all, the easiest way to avoid breaking a promise is by not
+making one in the first place.
+
+If I feel like writing something, I’m going to write it. And I’m going to do my
+best to publish it. But I won’t promise any more Q&As, or any more updates, or
+anything of that sort. I can’t. It’s too much for me. I’m sorry.
+
+Just writing the few paragraphs you’re reading right now took me a couple of
+weeks, and, ironically, I promised myself that I would get it done before the
+first Sunday of the month. Which is tomorrow. In two hours, more precisely.
+
+So here I am, sitting in my car once more, unable to move once more, tears and
+all once more, about to break a promise once more.
+
+Something has to change, and it’s obviously me. Me and the endless promises I
+make to myself and others.
+
+I still want to finish the book. One day, eventually. I still want to return to
+doing interviews and other things. One day, eventually. But right now I have to
+focus. On my health, my family, and [the one project that is too important to
+drop](https://opensats.org/). But I’ll drop [everything
+else](http://toomanyprojects.xyz) for now. I have to.
+
+And now, as I’m writing this, the same old thoughts come up again. Thoughts that
+try everything they can to bully me into doing more. Thoughts that discourage me
+from posting this; thoughts that call me whiney, weak, ungrateful, and worse;
+thoughts that have me doubt everything, including my decision to start writing
+in the first place.
+
+I’m incredibly grateful for everything, I truly am. I’m grateful for everyone
+who supported me on my writing journey. You are all amazing, and I feel
+devastated to let you down like this.
+
+I want to write more, I really do. It’s just not in the cards at this moment. I
+finally have to be humble enough to admit to myself that I can’t.
+
+What remains is hope. Hope that it will all be fine in the end. Hope that others
+will say what I’ve left unsaid, that they’ll write some of the things I’ve
+always wanted to write. Hope that you’ll forgive me, or that at least I’ll be
+able to forgive myself. And last but not least, hope that admittance will bring
+betterment eventually, or, at a minimum, subdue the lethargy.
