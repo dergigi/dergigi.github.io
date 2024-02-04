@@ -3,7 +3,7 @@ layout: post
 title: "Reality"
 redirect_from: /reality
 date: 2024-02-04
-description: "We are obsessed with escapism because our souls weren't made for this world."
+description: "And life went on. It was not the same, but it went on."
 image: /assets/images/reality.jpg
 author: Gigi
 category: photography
@@ -37,6 +37,8 @@ I think that's what happened. I think that's why I'm sitting here now, writing
 these words. I think that's what always happens when one's reality shifts. You
 escape, enter into a different universe; and, if you're lucky, [a little part of
 this universe](https://youtu.be/ootQs7sVulY) stays with you.
+
+> We are obsessed with escapism because our souls weren't made for this world.
 
 You wake up from the dream; you know it wasn't real, and yet you're still
 glowing. You know that you can't go back; and most importantly, you can't go
