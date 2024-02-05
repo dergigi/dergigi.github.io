@@ -4,9 +4,12 @@ title: Contact
 subtitle: Der Who?
 ---
 
-I am currently working on [my new book][21ways], so I will be harder to reach
+~~I am currently working on [my new book][21ways], so I will be harder to reach
 than usual. I check my mail about once a week, and my DMs not much more often
-than that.
+than that.~~
+
+I have to focus on [my health](/lethargy), so the likelihood of me reading (or
+replying to) any DMs or emails is very very (very) low.
 
 [21ways]: https://21-ways.com
 [patreon]: https://www.patreon.com/dergigi
@@ -26,7 +29,7 @@ than that.
 </div>
 
 <center>
-<small>(Twitter DMs are terrible & now closed. Please use nostr if you can.)</small>
+<small>(I probably won't reply, see above.)</small>
 <br/>
 <a href="{{ 'pgp' | absolute_url }}">PGP</a>
 </center>
