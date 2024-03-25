@@ -166,7 +166,7 @@ Nobody can make this decision for you.  It starts and ends with [you](https://no
 ---
 
 [^1]: No information can travel faster than the [speed of light](https://en.wikipedia.org/wiki/Speed_of_light#Upper_limit_on_speeds). Consequently, all information systems will run into [physical constraints](/threads/physical-limits) when it comes to synchronization and information propagation.
-[^2]: Cryptography works and will [continue](https://en.wikipedia.org/wiki/P_versus_NP_problem#P_%E2%89%A0_NP) to work. "[...] somehow [the universe smiles on encryption](https://bitcoin-resources.com/books/cypherpunks).
-[^3]: Existence is [Real and Good](https://www.goodreads.com/book/show/40311194). Neither Nihilism nor Solipsism are desirable. "... and it was [good](https://en.wikipedia.org/wiki/Life_Is_Worth_Living)."
+[^2]: Cryptography works and will [continue](https://en.wikipedia.org/wiki/P_versus_NP_problem#P_%E2%89%A0_NP) to work. "[...] somehow [the universe smiles on encryption](https://bitcoin-resources.com/books/cypherpunks)."
+[^3]: Existence is [Real and Good](https://www.goodreads.com/book/show/40311194). Neither Nihilism nor Solipsism are desirable. "[...] and it was [good](https://en.wikipedia.org/wiki/Life_Is_Worth_Living)."
 [^4]: We can't have [something for nothing](https://en.wikipedia.org/wiki/First_law_of_thermodynamics). Freedom requires [responsibility](https://archive.is/U6iJ4); electronic cash requires [time](/time); time requires [heat](/threads/time-requires-heat).
 [^5]: [Freedom of speech](https://en.wikipedia.org/wiki/Freedom_of_speech) is desirable because freedom is preferrable to tyranny, and the first step of any tyrant is to [restrict speech](https://bitcoin-resources.com/books/nineteen-eighty-four1984), silence dissidents, and [burn books](https://bitcoin-resources.com/books/fahrenheit451). The second step is genocide.
