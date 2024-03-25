@@ -29,13 +29,14 @@ stuff out without having to get killed in the process all the time. A less
 violent form of evolution, if you will.
 
 The Ancients placed a great deal of emphasis on attention. Attention is plagued
-by a meta-problem too, which is, of course, "_what to pay attention to?"_
-Figuring this one out is what separates the smart people from the wise people,
-as it requires paying attention to what you're paying attention to. Which brings
-me to one of the things I'm currently worried about. Civilizationally speaking,
-we are very bad at paying attention to what we're paying attention to, at least
-right now. And I'm afraid that both the [broken incentives](/vew) that plague
-the internet, as well as our [broken
+by a meta-problem too, which is, of course, _what to pay attention to?_
+Answering this question requires paying attention to what you're paying
+attention to, which is what a smart person from a wise one.
+
+Which brings me to one of the things I'm currently worried about.
+Civilizationally speaking, we are very bad at paying attention to what we're
+paying attention to, at least right now. And I'm afraid that both the [broken
+incentives](/vew) that plague the internet, as well as our [broken
 money](https://bitcoin-resources.com/books/broken-money), are to blame. At least
 in part.
 
