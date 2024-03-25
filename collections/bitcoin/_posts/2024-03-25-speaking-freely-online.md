@@ -105,6 +105,11 @@ platforms, you might land in jail for political speech. Not even proverbially.[^
 
 [^jail]: See cases in the [UK](https://archive.is/OQ1LC), [Saudi Arabia](https://archive.is/co19A), etc.
 
+> Give me six lines written by the hand of the most honest man, I would find
+> something in them to have him hanged.
+>
+><cite>Cardinal Richelieu</cite>
+
 If someone has the power to de-platform someone else, this power will inevitably
 be used and abused. A large enough scandal or controversy will be found or
 manufactured and _*poof*_, the "problematic" user is gone. Unpersoned, at the
