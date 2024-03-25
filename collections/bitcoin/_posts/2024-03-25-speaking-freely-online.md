@@ -34,13 +34,11 @@ Answering this question requires paying attention to what you're paying
 attention to, which is what separates a smart person from a wise one.
 
 Which brings me to one of the things I'm currently worried about.
-Civilizationally speaking, we are very bad at paying attention to what we're
-paying attention to, at least right now. And I'm afraid that both the [broken
-incentives](/vew) that plague the internet, as well as our [broken
-money](https://bitcoin-resources.com/books/broken-money), are to blame. At least
-in part.
-
-In short: We are very smart but not very wise.
+Civilizationally speaking, we are very smart but not very wise.  We are very bad
+at paying attention to what we're paying attention to, at least right now. And
+I'm afraid that both the [broken incentives](/vew) that plague the internet, as
+well as our [broken money](https://bitcoin-resources.com/books/broken-money),
+are to blame. At least in part.
 
 ## Assumptions [n=0]
 
