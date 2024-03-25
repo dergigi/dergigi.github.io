@@ -31,7 +31,7 @@ violent form of evolution, if you will.
 The Ancients placed a great deal of emphasis on attention. Attention is plagued
 by a meta-problem too, which is, of course, _what to pay attention to?_
 Answering this question requires paying attention to what you're paying
-attention to, which is what a smart person from a wise one.
+attention to, which is what separates a smart person from a wise one.
 
 Which brings me to one of the things I'm currently worried about.
 Civilizationally speaking, we are very bad at paying attention to what we're
