@@ -82,7 +82,9 @@ all stupid. There is no such thing as an unbiased opinion, just like there is no
 such thing as a viewpoint without a blind spot. The best we can do is be aware
 of and try to counteract our biases and blind spots. But we can't do it
 individually; we have to do it collectively, and more importantly: in a
-distributed fashion.
+distributed fashion.[^podcasts]
+
+[^podcasts]: It is great to see a proliferation of long-form dialog in the form of podcasts. However, the benefit of these conversations is lost if they are hosted by a central party, which is why an [open podcast ecosystem](https://newpodcastapps.com) is so important.
 
 Building a Tower of Babel is a bad idea.
 
