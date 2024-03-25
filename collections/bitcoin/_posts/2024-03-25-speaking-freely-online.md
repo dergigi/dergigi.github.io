@@ -2,12 +2,11 @@
 layout: post
 title: "Speaking Freely"
 subtitle: "On the Oxymoron of Free Speech Platforms"
-description: "TODO"
+description: "Speaking freely is more important than ever, offline and online."
 date: 2024-03-25
-blocktime: 783891
+blocktime: 836245
 image: /assets/images/speaking.jpg
 redirect_from: /speaking
-updated_version: TODO
 author: Gigi
 category: nostr
 favorite: false
