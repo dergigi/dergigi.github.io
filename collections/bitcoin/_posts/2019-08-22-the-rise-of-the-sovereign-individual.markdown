@@ -54,7 +54,7 @@ What the cypherpunks understood 30 years ago is starting to play out
 right before our eyes: the tools of our information age have the
 potential to empower individuals like never before.
 
-<iframe width="560" height="800" src="https://www.youtube.com/embed/JvO9YVlvXVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="800" src="https://www.youtube.com/embed/RErdSr0iAcs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### The Freedom to Transact
 
