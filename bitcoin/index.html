@@ -3,6 +3,11 @@ layout: default
 ---
 {% assign bitcoinposts = site.categories.bitcoin %}
 <div class="post__content section-padding">
+  <div id="markdown" class="grid">
+    <p>
+      Don't know what bitcoin is? Have a look at <a href="https://bitcoin-resources.com" target="_blank">bitcoin-resources.com</a>
+    </p>
+  </div>
   <div class="posts">
     <div class="grid-xlarge">
       <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
@@ -14,6 +19,7 @@ layout: default
   </div>
   {% include article-list.html posts=bitcoinposts %}
   <div id="markdown" class="grid">
+    <hr/>
     <p>
       Proud host of the <a href="../bitcoin.pdf">Bitcoin Whitepaper</a>.
     </p>
