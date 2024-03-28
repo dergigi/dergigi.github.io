@@ -37,8 +37,7 @@ results in a better future. I believe that [freedom][gnu] and a move
 away from centralized control are paramount for empowering individuals
 and building a future worth having.
 
-If you want to talk about these things, feel free to reach out to me. Or just [follow
-along][nostr] for the ride. That's perfectly fine too.
+These days you can [find me on nostr][nostr].
 
 Hope to see you around, \\
 Gigi
@@ -48,11 +47,14 @@ Gigi
 ## Links
 
 * [/blog][photography]: random thoughts and photographs
-* [/npub][npub]: my current npub
+* [/bitcoin](/bitcoin): bitcoin stuff
 * [/nostr][nostr]: shitposting, always
+* [/npub][npub]: my current npub
 * ~~[/twitter][twitter]: doomscrolling, sometimes~~
 * [/threads][threads]: archived twitter threads
-* [/patreon][patreon]: early drafts of my work, maybe
+* [/patreon](/patreon): recurring support
+* [/github](/github): code
+* [/support](/support): ways to support me
 
 ---
 
@@ -65,7 +67,6 @@ Gigi
 [photography]: {{ 'blog' | absolute_url }}
 [gnu]: https://www.gnu.org/philosophy/free-sw.html
 [true-names]: {% post_url /bitcoin/2020-07-21-true-names-not-required %}
-[patreon]: https://patreon.com/dergigi
 
 [npub]: nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc
 [nostr]: {{ '/nostr' | absolute_url }}
