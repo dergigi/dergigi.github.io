@@ -5,57 +5,15 @@ subtitle: Der Who?
 ---
 
 ~~I am currently working on [my new book][21ways], so I will be harder to reach
-than usual. I check my mail about once a week, and my DMs not much more often
+than usual. I check my mail about once a month, and my DMs not much more often
 than that.~~
 
-I have to focus on [my health](/lethargy), so the likelihood of me reading (or
-replying to) any DMs or emails is very very (very) low.
+I don't do DMs or emails. If you want to reach me, tagging me on [nostr](/nostr)
+is probably your best bet. I have to focus on [my health](/lethargy) and sanity,
+so the likelihood of me reading (or replying to) any messages is very very
+(very) low.
 
 [21ways]: https://21-ways.com
-[patreon]: https://www.patreon.com/dergigi
-[golden-bull]: https://youtu.be/nJeddv1QbeQ
-
----
-
-<div style="position: relative;">
-  <img src="/assets/images/dergigi-contact.png">
-  <a href="https://twitter.com/dergigi" title="telegram/twitter" style="position:
-  absolute; left: 19.87%; top: 8.24%; width: 45.79%; height: 58.79%; z-index:
-  2;"></a><a href="mailto:hi@dergigi.com" title="email" style="position:
-  absolute; left: 9.61%; top: 8.52%; width: 9.94%; height: 58.79%; z-index:
-  2;"></a><a href="mailto:hi@dergigi.com" title="email" style="position:
-  absolute; left: 9.61%; top: 67.86%; width: 80.89%; height: 26.37%; z-index:
-  2;"></a>
-</div>
-
-<center>
-<small>(I probably won't reply, see above.)</small>
-<br/>
-<a href="{{ 'pgp' | absolute_url }}">PGP</a>
-</center>
-
----
-
-If you want to reach me, nostr[^fn-nostr] is probably your best bet. You can
-also try the email above, or twitter, or Telegram.[^fn-telegram] That being said, Twitter is
-~~absolutely terrible when it comes to DMs, and I recently had to close my DMs
-because the spam became unbearable~~ getting more terrible every day. Telegram
-is alright but it is neither private nor trustworthy, so, again, nostr is
-probably your best bet.[^fn-matrix]
-
-I will do my best to reply in 3-5 days. If I don't please ping me
-again. Note that I will probably not respond if I can't make out what you're up
-to. A simple "hi" or "hey" without any context will be ignored. Also, I'm not
-interested in trading or shitcoinery, so anything along these lines will be
-deleted without an answer.
-
-[^fn-matrix]: I'm also on matrix as `@dergigi:matrix.org` --- but it didn't live up to the high promises I had for it.
-
-[^fn-nostr]: If you don't know anything about nostr, have a look at [nostr-resources.com][nr]. My current pubkey is [`npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc`][npub]
-
-[^fn-telegram]: My Telegram handle is my twitter handle.
-
-[nr]: https://nostr-resources.com
 
 ---
 
@@ -92,9 +50,9 @@ Gigi
 * [/blog][photography]: random thoughts and photographs
 * [/npub][npub]: my current npub
 * [/nostr][nostr]: shitposting, always
-* [/twitter][twitter]: doomscrolling, sometimes
+* ~~[/twitter][twitter]: doomscrolling, sometimes~~
 * [/threads][threads]: archived twitter threads
-* [/patreon][patreon]: close and personal chats, early drafts of my work
+* [/patreon][patreon]: early drafts of my work, maybe
 
 ---
 
@@ -107,6 +65,7 @@ Gigi
 [photography]: {{ 'blog' | absolute_url }}
 [gnu]: https://www.gnu.org/philosophy/free-sw.html
 [true-names]: {% post_url /bitcoin/2020-07-21-true-names-not-required %}
+[patreon]: https://patreon.com/dergigi
 
 [npub]: nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc
 [nostr]: {{ '/nostr' | absolute_url }}
