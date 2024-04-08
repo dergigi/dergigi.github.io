@@ -14,6 +14,7 @@ favorite: true
 tags:
  - Bitcoin
  - Writing
+ - nostr
 translations:
  - language: Spanish
    url: https://armantheparman.com/la-libertad-de-valor/
