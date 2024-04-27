@@ -108,14 +108,14 @@ how small, is a step in the right direction.
 The following are action­able steps you can take to increase
 your privacy:
 
--   Self-custody your coins
--   Do not reuse addresses
--   Minimize exposure to KYC (Know Your Customer)
--   Minimize exposure to third parties
--   Run your own node
--   Use the Light­ning Network for small transactions
--   Do not use public block explorers
--   CoinJoin early and often
+- Self-custody your coins
+- Do not reuse addresses
+- Minimize exposure to KYC (Know Your Customer)
+- Minimize exposure to third parties
+- Run your own node
+- Use the Light­ning Network for small transactions
+- Do not use public block explorers
+- CoinJoin early and often
 
 **Self-custody your coins:** Not your keys, not your bitcoin. If someone
 else is holding your bitcoin for you, they know every­thing there is to
@@ -174,8 +174,7 @@ trans­ac­tional best practices such as collab­o­ra­tive CoinJoin
 trans­ac­tions will ensure that your privacy is protected going forward.
 While CoinJoin trans­ac­tions are nuanced, user-friendly software exists
 to help you create and automate these kinds of trans­ac­tions.
-Samourai's [Whirlpool](https://samouraiwallet.com/whirlpool) is a great
-solution for Android users, for example. There is also JoinMarket, 
+There is JoinMarket, 
 which, thanks to projects like 
 [JoininBox](https://github.com/openoms/joininbox), can be set up quite
 easily on your own node. Note that Swan offers the ability to
@@ -213,16 +212,8 @@ not --- must not be a crime.
 
 ## Further Resources
 
--   [This Month in Bitcoin
-    Privacy](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/)
-    by Janine
--   [Hodl Privacy FAQ](https://6102bitcoin.com/faq-hodl-privacy/)
-    by 6102
--   [Digital Privacy](https://6102bitcoin.com/blog/digital-privacy/)
-    by 6102
--   [UseWhirlpool.com](http://usewhirlpool.com/) by Bitcoin Q+A
--   [Bitcoin Privacy Guide](https://bitcoiner.guide/privacy/) by Bitcoin
-    Q+A
+- [This Month in Bitcoin Privacy](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/) by Janine
+- [Bitcoin Privacy Guide](https://bitcoiner.guide/privacy/) by Bitcoin Q+A
 
 ------------------------------------------------------------------------
 
