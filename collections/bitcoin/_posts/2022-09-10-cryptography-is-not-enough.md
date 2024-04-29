@@ -53,7 +53,7 @@ This talk was [originally given][orig] in Riga at [#BH2022][bh2022].
 [bitcoinTV]: https://bitcointv.com/w/wRfZmtNwWqDGJ2eE3TZaCS
 [pdf]: {{ site.url }}/assets/files/Riga2022.pdf
 [images]: {{ '/slides/2022-riga/images' | absolute_url }}
-[images]: {{ '/slides/2022-riga/images/slides' | absolute_url }}
+[pngs]: {{ '/slides/2022-riga/images/slides' | absolute_url }}
 
 ---
 
