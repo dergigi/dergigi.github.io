@@ -1,6 +1,6 @@
 ---
 layout: page
-code: elsalvador
+code: digital
 language: Spanish
 author: Dr. Jones
 author_url: https://twitter.com/drjonesklaus
