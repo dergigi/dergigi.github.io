@@ -79,7 +79,7 @@ atoms that exist because of me, buying [my book][21lessons] is a good option.
   (available in
     <a href="https://amzn.to/2AtlfWZ">German</a>,
     <a href="https://amzn.to/3DUxs1O">French</a>,
-    <a href="https://amzn.to/2WYYkKL">Finnish</a>, and 
+    <a href="https://amzn.to/2WYYkKL">Finnish</a>, and
     <a href="https://21lessons.com/translations">other languages</a>
     )
   </small>
@@ -94,11 +94,6 @@ my other lightning addresses.[^ln-addr] My articles have lightning addresses
 too, so if you want to send some sats to a specific article---you can!
 
 [sats]: lightning:s@ts.dergigi.com
-[lntips]: lightning:dergigi@ln.tips
-[lntxbot]: lightning:dergigi@lntxbot.com
-[sn]: lightning:dergigi@stacker.news
-
-<a id="paynym"></a>
 
 ### Supporting Others
 
@@ -120,4 +115,4 @@ freedom tech, you can support others who are doing great work via:
 [value]: {{ '/value' | absolute_url }}
 [21lessons]: https://21Lessons.com
 
-[^ln-addr]: A [Lightning Address](https://lightningaddress.com/) allows you to receive bitcoin payments using an e-mail style address format. 
+[^ln-addr]: A [Lightning Address](https://lightningaddress.com/) allows you to receive bitcoin payments using an e-mail style address format.
