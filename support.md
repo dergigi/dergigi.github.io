@@ -23,7 +23,7 @@ still have to use fiat platforms.[^fn-oak]
   </div>
 </div>
 
-[^fn-oak]: There are some promising developments, such as [Oak Node](https://oak-node.net/doc/trunk/README.md) and [Bolt12](https://bootstrap.bolt12.org/examples) recurring payments.
+[^fn-oak]: There are some promising developments, such as [Oak Node](https://oak-node.net/doc/trunk/README.md) and [Bolt12](https://bolt12.org/ux-design#reusable-payment-requests) recurring payments.
 
 ### Direct Support
 
