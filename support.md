@@ -23,7 +23,7 @@ still have to use fiat platforms.[^fn-oak]
   </div>
 </div>
 
-[^fn-oak]: There are some promising developments, such as [Oak Node](https://oak-node.net/doc/trunk/README.md) and [Bolt12](https://bootstrap.bolt12.org/examples) recurring payments.
+[^fn-oak]: There are some promising developments, such as [Oak Node](https://oak-node.net/doc/trunk/README.md) and [Bolt12](https://bolt12.org/ux-design#reusable-payment-requests) recurring payments.
 
 ### Direct Support
 
@@ -79,7 +79,7 @@ atoms that exist because of me, buying [my book][21lessons] is a good option.
   (available in
     <a href="https://amzn.to/2AtlfWZ">German</a>,
     <a href="https://amzn.to/3DUxs1O">French</a>,
-    <a href="https://amzn.to/2WYYkKL">Finnish</a>, and 
+    <a href="https://amzn.to/2WYYkKL">Finnish</a>, and
     <a href="https://21lessons.com/translations">other languages</a>
     )
   </small>
@@ -90,15 +90,19 @@ atoms that exist because of me, buying [my book][21lessons] is a good option.
 ### Lightning Support
 
 You can send an arbitrary amount of sats to [s@ts.dergigi.com][sats] or one of
-my other lightning addresses.[^ln-addr] My articles have lightning addresses
-too, so if you want to send some sats to a specific article---you can!
+my other lightning addresses.[^ln-addr] If you have a wallet that supports
+Bolt12,[^ln-bolt12] you can use the following reusable payment request:
+
+{% include image.html path="/assets/images/bitcoin/bolt12.png" link="https://21ism.com" width="50%" %}
+
+```
+lno1zrxq8pjw7qjlm68mtp7e3yvxee4y5xrgjhhyf2fxhlphpckrvevh50u0qfdq0py8fu308448hm6eqvc5d8p82fg077wgs45zd64qx6gplv66uqsz2j4zmyh3akkv5p2upsru9spjmk52kflevpuawzjzg7qp27apqdxqqvewrayeh06nj3t8ymq4l97ef2cf670j7sw0kffhf6vrjzqr7u823tvkv246cn6czjtdkzsp6j6d5u8a7fwpqg2v3ed96cv2jftsg08waexw2pwycp8fyny59mtgvdnvepss5l2egqqs628487l8dskakc9sfunelwvwr5
+```
+
+My articles have lightning addresses too, so if you want to send some sats to a
+specific article---you can!
 
 [sats]: lightning:s@ts.dergigi.com
-[lntips]: lightning:dergigi@ln.tips
-[lntxbot]: lightning:dergigi@lntxbot.com
-[sn]: lightning:dergigi@stacker.news
-
-<a id="paynym"></a>
 
 ### Supporting Others
 
@@ -120,4 +124,5 @@ freedom tech, you can support others who are doing great work via:
 [value]: {{ '/value' | absolute_url }}
 [21lessons]: https://21Lessons.com
 
-[^ln-addr]: A [Lightning Address](https://lightningaddress.com/) allows you to receive bitcoin payments using an e-mail style address format. 
+[^ln-addr]: A [Lightning Address](https://lightningaddress.com/) allows you to receive bitcoin payments using an e-mail style address format.
+[^ln-bolt12]: Learn more at [bolt12.org](https://bolt12.org/)
