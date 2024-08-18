@@ -93,7 +93,7 @@ You can send an arbitrary amount of sats to [s@ts.dergigi.com][sats] or one of
 my other lightning addresses.[^ln-addr] If you have a wallet that supports
 Bolt12,[^ln-bolt12] you can use the following reusable payment request:
 
-{% include image.html path="/assets/images/bitcoin/bolt12.png" link="https://21ism.com" width="50%" %}
+{% include image.html path="/assets/images/bitcoin/bolt12.png" link="lightning:lno1zrxq8pjw7qjlm68mtp7e3yvxee4y5xrgjhhyf2fxhlphpckrvevh50u0qfdq0py8fu308448hm6eqvc5d8p82fg077wgs45zd64qx6gplv66uqsz2j4zmyh3akkv5p2upsru9spjmk52kflevpuawzjzg7qp27apqdxqqvewrayeh06nj3t8ymq4l97ef2cf670j7sw0kffhf6vrjzqr7u823tvkv246cn6czjtdkzsp6j6d5u8a7fwpqg2v3ed96cv2jftsg08waexw2pwycp8fyny59mtgvdnvepss5l2egqqs628487l8dskakc9sfunelwvwr5" width="50%" %}
 
 ```
 lno1zrxq8pjw7qjlm68mtp7e3yvxee4y5xrgjhhyf2fxhlphpckrvevh50u0qfdq0py8fu308448hm6eqvc5d8p82fg077wgs45zd64qx6gplv66uqsz2j4zmyh3akkv5p2upsru9spjmk52kflevpuawzjzg7qp27apqdxqqvewrayeh06nj3t8ymq4l97ef2cf670j7sw0kffhf6vrjzqr7u823tvkv246cn6czjtdkzsp6j6d5u8a7fwpqg2v3ed96cv2jftsg08waexw2pwycp8fyny59mtgvdnvepss5l2egqqs628487l8dskakc9sfunelwvwr5
