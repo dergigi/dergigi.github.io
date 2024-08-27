@@ -24,9 +24,9 @@ Aber schon alleine dieses Wort, Energieverschwendung, sollte uns zu denken geben
 
 Verschwendung, Verbrauch und Aufwand sind nicht synonym. Ersteres ist wertebehaftet und somit von Haus aus ideologisch. Zweiteres ist konsumorientiert und vernachlässigt das Grundgesetz der Energie: dass sie nicht verbraucht, sondern nur umgewandelt werden kann. Nur der dritte Terminus, der Energieaufwand, erlaubt ein klareres Verständnis von Bitcoin und Energie.
 
-Lasst uns, lieber Leser, zuerst jedoch bei der Verschwendung bleiben. 
+Lasst uns, lieber Leser, zuerst jedoch bei der Verschwendung bleiben.
 
-Energieverschwendung 
+Energieverschwendung
 Was Verschwendung ist und was nicht liegt, wie auch bei der Schönheit (und der Hässlichkeit), im Auge des Betrachters. Es ist egal, ob es sich dabei um Energie- oder Zeitverschwendung handelt. Nur der Mensch kennt Verschwendung; die Natur kennt diese nicht. Und je nach Wertehierarchie ist das, was für den einen wertlose Verschwendung sein mag, für den anderen nicht nur wertvoll, sondern lohnend.
 
 Was ist essentiell, was Luxus, was Exzess, und was Verschwendung? Und wer entscheidet das?
@@ -52,14 +52,12 @@ Besitz und Geld, Geld und Besitz: zwei Seiten der gleichen Medaille, und die Ene
 
 Bezüglich dem Geld und der Energie lernen wir immer und immer wieder, dass Geld nur dann gutes Geld ist, wenn es nicht einfach aus dem Nichts erschaffen werden kann. Sobald Geld aus dem Nichts erschaffen werden kann, z.B. ohne Aufwand von Energie und Zeit gedruckt wird, ist der natürliche Schutz des Geldes aufgehoben, und die Aufgabe, welche das Geld an sich der Gesellschaft gegenüber hat, bricht zusammen. Handel, Vorsorge, Langzeitplanung, Finanzierung, ökonomische Kalkulation und Koordination werden unmöglich. Die Geschichtsbücher lehren uns, dass, sobald Geld und Energieaufwand entkoppelt sind—wie z.B. in China während der Song Dynastie, als Papiergeld das erste Mal erfunden und bis zum geht-nicht-mehr gedruckt wurde; oder gegen Ende des römischen Reiches, von Nero zu Diokletian, als der silberne Denarius von 90% Silberanteil auf nahezu 0% Silberanteil entwertet wurde; oder während der Hyperinflation in Weimar und Simbabwe, als die Geldscheine schneller gedruckt wurden als die Bevölkerung jene mit Schubkarren und Müllsäcken abtransportieren konnte—das Geld schnell seine Wirkung verliert. Das Resultat ist immer das Gleiche: Armut und Krieg.
 
-
-
 Es ist kein Zufall, dass der Untergang eines Reiches so gut wie immer mit dem Untergang des Geldes einhergeht. Es ist auch kein Zufall, dass auf Geldentwertung Krieg folgt, und dass auf Krieg Geldentwertung folgt. Steuern sind generell unbeliebt; eine Kriegssteuer ist doppelt unbeliebt. Es ist doch viel einfacher, die ökonomische Energie welche für die Kriegsführung benötigt wird, direkt aus der Währung zu entnehmen. Einfacher, unauffälliger, und auch mit weniger Aufwand verbunden.
 
 Energieaufwand
 So kommen wir nun, über die Verschwendung und den Verbrauch, zum Aufwand. Damit etwas passiert, muss man Energie aufwenden. Dies ist ein grundlegendes Gesetz unseres Universums, auch wenn gewisse Fiat-Jünger uns stets vom Gegenteil überzeugen wollen.
 
-Nun stellt sich die Frage: Was passiert in Bitcoin, und warum muss es Energie aufwänden? 
+Nun stellt sich die Frage: Was passiert in Bitcoin, und warum muss es Energie aufwänden?
 
 Bitcoin braucht Energie, weil wir ohne Energieaufwand wieder beim Versprechen wären. Fiat ist Versprechen. Fiat lux, es werde Licht. Ich—als Gott, Autoritätsperson, Staat—spreche, und dann ist es so. Unabhängig von physikalischer Realität.
 
@@ -73,8 +71,6 @@ Wir haben über viele Jahrtausende gelernt, dass niemand der Macht der Gelddruck
 
 Doch die physikalität von Gold ist seine Schwäche, denn Gold hält das oben genannte Versprechen nur für Inflation, nicht für Beschlagnahmung. Ich kann dein Gold stehlen, und der Staat kann es auch. Und weder du noch der Staat kann Gold teleportieren, warum wir erst Schuld- und dann Geldscheine erfunden haben. Papiergold ist ein technologischer Fortschritt; Papier-bitcoin ein Rückschritt.
 
-
-
 Bitcoin ist somit eine Rückkehr zur Physik, aber Bitcoin ist nur über Umwege physikalisch. Bitcoin ist elektronisches Geld, nicht physikalisches Geld. Bitcoin ist Information, kein physikalisches Ding, aber in dieser Information steckt tatsächlich Energie, über den Umweg der Elektrizität.
 
 Energie und Elektrizität sind übrigens auch nicht synonym, was die meisten Bitcoin-Kritiker ebenso gekonnt beiseite lassen. Energie kann nicht verbraucht werden, Elektrizität schon. Energie kann gespeichert werden, Elektrizität nicht. Energie ist im Überfluss vorhanden, Elektrizität, welche von Menschen für menschliche Zwecke verwendet werden kann, muss produziert, generiert und sofort verbraucht werden. Darum ist Bitcoin als Puzzlestück in der Elektrizitätsproduktion auch so wichtig, da es einzigartige Verbrauchereigenschaften hat. Ob Netzstabilisierung oder Produktionsanreiz, Bitcoin ist der "buyer of last resort" und nimmt jedes Elektron gerne für sich auf.
@@ -82,8 +78,6 @@ Energie und Elektrizität sind übrigens auch nicht synonym, was die meisten Bit
 Es steckt schon im Titel des Whitepapers: "electronic" cash, elektronisches Bargeld. Bitcoin ist nicht digital, sondern elektrisch. Ich frage mich also, liebe Kritiker, warum elektrische Autos so gut sein sollen, und elektrisches Geld so schlecht?
 
 Bitcoins Energieaufwand bietet Schutz und Stabilität. Nicht Preisstabilität, sondern Systemstabilität: Alle 10 Minuten kommt ein neuer Block. Alle 10 Minuten, dies ist das Naturgesetz von Bitcoin. Diese Blockproduktion braucht Energie, das Schürfen von Bitcoin nicht. Ohne Energie kein Naturgesetz, ohne Naturgesetz kein unpolitisches Geld.
-
-
 
 Bitcoins Naturgesetz erlaubt, dass seine elektronischen Münzen nicht durch Energieaufwand geschürft, sondern über die Zeit unpolitisch und fair ausgegeben werden. Bitcoins Münzprägung ist somit nicht an den Energieaufwand gebunden, sondern an die Zeit. Darum wissen wir auch, dass bis zum Jahr 2140 neue Münzen in Umlauf kommen werden, und wie viele. Die Münzproduktion ist unabhängig vom Energieaufwand. Bitcoin's Energieaufwand ist ein Messwert von Interesse und fairer Verteilung, nicht ein Messwert der Produktion durch Schürfung, wie es bei Gold der Fall ist.
 
