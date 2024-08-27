@@ -163,11 +163,11 @@ wären. Fiat ist Versprechen. Fiat lux, es werde Licht. Ich—als Gott,
 Autoritätsperson, Staat—spreche, und dann ist es so. Unabhängig von
 physikalischer Realität.
 
-Und was wird in Bitcoin versprochen? Ganz einfach: Bitcoin verspricht dich nicht
-zu bestehlen. Weder durch Beschlagnahmung, noch durch Inflation. Wenn man dem
-steten Blockgeflüster zuhören könnte, würde man wohl folgenden Satz hören:
-"...du sollst nicht stehlen...du sollst nicht stehlen...du sollst nicht
-stehlen..." Alle 10 Minuten.
+Und was wird in Bitcoin versprochen? Ganz einfach: [Bitcoin verspricht dich
+nicht zu bestehlen](/cryptography). Weder durch Beschlagnahmung, noch durch
+Inflation. Wenn man dem steten Blockgeflüster zuhören könnte, würde man wohl
+folgenden Satz hören: "...du sollst nicht stehlen...du sollst nicht stehlen...du
+sollst nicht stehlen..." Alle 10 Minuten.
 
 Dieses Versprechen—dass dein Besitz dein ist, und nur dein—ist die Essenz von
 Bitcoin. Und damit dieses Versprechen nicht nur ein Versprechen ist, sondern
@@ -193,8 +193,9 @@ ein-für-alle-mal gelöst.
 Doch die physikalität von Gold ist seine Schwäche, denn Gold hält das oben
 genannte Versprechen nur für Inflation, nicht für Beschlagnahmung. Ich kann dein
 Gold stehlen, und der Staat kann es auch. Und weder du noch der Staat kann Gold
-teleportieren, warum wir erst Schuld- und dann Geldscheine erfunden haben.
-Papiergold ist ein technologischer Fortschritt; Papier-bitcoin ein Rückschritt.
+[teleportieren](/magic), warum wir erst Schuld- und dann Geldscheine erfunden
+haben. Papiergold ist ein technologischer Fortschritt; Papier-bitcoin ein
+Rückschritt.
 
 {% include image.html name="supply.png" %}
 
@@ -228,13 +229,13 @@ Naturgesetz kein unpolitisches Geld.
 {% include image.html name="10min.png" %}
 
 Bitcoins Naturgesetz erlaubt, dass seine elektronischen Münzen nicht durch
-Energieaufwand geschürft, sondern über die Zeit unpolitisch und fair ausgegeben
-werden. Bitcoins Münzprägung ist somit nicht an den Energieaufwand gebunden,
-sondern an die Zeit. Darum wissen wir auch, dass bis zum Jahr 2140 neue Münzen
-in Umlauf kommen werden, und wie viele. Die Münzproduktion ist unabhängig vom
-Energieaufwand. Bitcoin's Energieaufwand ist ein Messwert von Interesse und
-fairer Verteilung, nicht ein Messwert der Produktion durch Schürfung, wie es bei
-Gold der Fall ist.
+Energieaufwand geschürft, sondern [über die Zeit unpolitisch und fair](/time)
+ausgegeben werden. Bitcoins Münzprägung ist somit nicht an den Energieaufwand
+gebunden, sondern an die Zeit. Darum wissen wir auch, dass bis zum Jahr 2140
+neue Münzen in Umlauf kommen werden, und wie viele. Die [Münzproduktion ist
+unabhängig vom Energieaufwand](/mined). Bitcoin's Energieaufwand ist ein
+Messwert von Interesse und fairer Verteilung, nicht ein Messwert der Produktion
+durch Schürfung, wie es bei Gold der Fall ist.
 
 Wenn das Interesse für Bitcoin bei Satoshi Nakamoto geblieben wäre, dann würde
 sich der heutige Energieaufwand von Bitcoin nach-wie-vor auf ca. 100 Watt pro
@@ -249,7 +250,7 @@ Fix the money, fix the world. Zu Deutsch: Energieaufwand macht das Geld gesund,
 und gesundes Geld macht die Welt gesund. Digitales Geld ist schlechtes Geld, da
 es von Natur aus Fiat-Geld ist. Die Ausnahme ist Bitcoin, da sich hinter den
 Nullen und Einsen Physik versteckt. Nur elektronisches Geld kann gutes Geld
-sein. Nur Proof-of-Work erlaubt Datenintegrität ohne Geheimnisse.
+sein. Nur Proof-of-Work erlaubt [Datenintegrität ohne Geheimnisse](/cryptography).
 
 Die eigentliche Frage ist somit: Wie viele Kilowattstunden ist sie uns wert, die
 gesunde Welt? Eine Antwort bleibt aus, da dies jedes Individuum für sich
