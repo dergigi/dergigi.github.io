@@ -101,14 +101,14 @@ Wertevorstellungen ändern sich, und somit ändert sich auch unsere Vorstellung
 davon, was Verschwendung ist und was nicht.
 
 Auch ich war der Meinung, dass Bitcoin Energie verschwendet. Vor vielen Jahren.
-Inzwischen hat sich meine Perspektive jedoch so weit verändert, dass mir bewusst
+Inzwischen hat sich [meine Perspektive](/energy) jedoch so weit verändert, dass mir bewusst
 wurde, dass Bitcoin nicht nur Energie verbrauchen muss, sondern dass dieser
 Verbrauch essentiell ist. Elektronisches Bargeld kann nur durch Energieverbrauch
 natürliche Knappheit erlangen. Ohne Energieverbrauch wird jegliche Knappheit
 immer politisch bleiben.
 
 ### Energieverbrauch
-Bitcoin ist eine Antwort auf die moralische Frage des Besitzes.
+Bitcoin ist eine Antwort auf [die moralische Frage des Besitzes](/speech).
 Wer darf Besitz haben, und wer darf enteignet werden? In anderen Worten: Darf
 jemand Geld drucken, und wenn ja, wer? Wer darf Geld ausgeben, wer darf es
 empfangen? Wie viel Geld ist genug? Dürfen Sparer durch Inflation bestohlen
@@ -123,7 +123,7 @@ aufgewandt wird, desto besser ist unser Eigentum beschützt.
 Bezüglich dem Geld und der Energie lernen wir immer und immer wieder, dass Geld
 nur dann gutes Geld ist, wenn es nicht einfach aus dem Nichts erschaffen werden
 kann. Sobald Geld aus dem Nichts erschaffen werden kann, z.B. ohne Aufwand von
-Energie und Zeit gedruckt wird, ist der natürliche Schutz des Geldes aufgehoben,
+[Energie und Zeit](/time) gedruckt wird, ist der natürliche Schutz des Geldes aufgehoben,
 und die Aufgabe, welche das Geld an sich der Gesellschaft gegenüber hat, bricht
 zusammen. Handel, Vorsorge, Langzeitplanung, Finanzierung, ökonomische
 Kalkulation und Koordination werden unmöglich. Die Geschichtsbücher lehren uns,
@@ -131,10 +131,13 @@ dass, sobald Geld und Energieaufwand entkoppelt sind—wie z.B. in China währen
 der Song Dynastie, als Papiergeld das erste Mal erfunden und bis zum
 geht-nicht-mehr gedruckt wurde; oder gegen Ende des römischen Reiches, von Nero
 zu Diokletian, als der silberne Denarius von 90% Silberanteil auf nahezu 0%
-Silberanteil entwertet wurde; oder während der Hyperinflation in Weimar und
-Simbabwe, als die Geldscheine schneller gedruckt wurden als die Bevölkerung jene
+Silberanteil entwertet wurde; oder während der Hyperinflation in [Weimar] und
+[Simbabwe], als die Geldscheine schneller gedruckt wurden als die Bevölkerung jene
 mit Schubkarren und Müllsäcken abtransportieren konnte—das Geld schnell seine
 Wirkung verliert. Das Resultat ist immer das Gleiche: Armut und Krieg.
+
+[Weimar]: https://bitcoin-resources.com/books/when-money-dies
+[Simbabwe]: https://bitcoin-resources.com/books/hard-boiled-egg-index
 
 {% include image.html name="denarius.png" %}
 
