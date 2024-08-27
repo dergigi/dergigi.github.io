@@ -134,6 +134,8 @@ Simbabwe, als die Geldscheine schneller gedruckt wurden als die Bevölkerung jen
 mit Schubkarren und Müllsäcken abtransportieren konnte—das Geld schnell seine
 Wirkung verliert. Das Resultat ist immer das Gleiche: Armut und Krieg.
 
+{% include image.html name="denarius.png" %}
+
 Es ist kein Zufall, dass der Untergang eines Reiches so gut wie immer mit dem
 Untergang des Geldes einhergeht. Es ist auch kein Zufall, dass auf
 Geldentwertung Krieg folgt, und dass auf Krieg Geldentwertung folgt. Steuern
@@ -189,6 +191,8 @@ Gold stehlen, und der Staat kann es auch. Und weder du noch der Staat kann Gold
 teleportieren, warum wir erst Schuld- und dann Geldscheine erfunden haben.
 Papiergold ist ein technologischer Fortschritt; Papier-bitcoin ein Rückschritt.
 
+{% include image.html name="supply.png" %}
+
 Bitcoin ist somit eine Rückkehr zur Physik, aber Bitcoin ist nur über Umwege
 physikalisch. Bitcoin ist elektronisches Geld, nicht physikalisches Geld.
 Bitcoin ist Information, kein physikalisches Ding, aber in dieser Information
@@ -215,6 +219,8 @@ sondern Systemstabilität: Alle 10 Minuten kommt ein neuer Block. Alle 10
 Minuten, dies ist das Naturgesetz von Bitcoin. Diese Blockproduktion braucht
 Energie, das Schürfen von Bitcoin nicht. Ohne Energie kein Naturgesetz, ohne
 Naturgesetz kein unpolitisches Geld.
+
+{% include image.html name="10min.png" %}
 
 Bitcoins Naturgesetz erlaubt, dass seine elektronischen Münzen nicht durch
 Energieaufwand geschürft, sondern über die Zeit unpolitisch und fair ausgegeben
