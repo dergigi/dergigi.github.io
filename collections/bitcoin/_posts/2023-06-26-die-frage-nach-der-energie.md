@@ -77,6 +77,8 @@ Musik essentiell, oder nicht? Ist sie effizient? Darf man noch Tanzen, wenn man
 am Ende des Tanzes wieder am gleichen Punkt ankommt? Wäre es nicht besser den
 Tanz aus Gründen der Ineffizienz zu verbieten?
 
+{% include image.html name="trockner.gif" %}
+
 Diverse Urvölker krümmen sich vor Lachen, wenn die Menschen aus dem Westen
 versuchen, ihnen das Prinzip des "Joggens" näherzubringen. Warum fünfmal um den
 Häuserblock laufen? Noch dazu ohne Aussicht auf Beute? Die Diskussion um
