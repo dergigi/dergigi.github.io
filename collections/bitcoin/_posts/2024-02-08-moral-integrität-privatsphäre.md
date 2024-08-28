@@ -136,6 +136,9 @@ es uns ernst wurde. Und möglicherweise brauchen wir für das HTTPS von Bitcoin
 ähnliche Enthüllungen, aber es muss und wird kommen. Und es wird auch zunehmend
 ernst werden, denn CBDCs sind unausweichlich.
 
+{% capture absoluteVideoURL %}{{ 'assets/video/jabba-the-hut.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=absoluteVideoURL %}
+
 In den nächsten Jahren, ja vielleicht schon in den nächsten Monaten, werden die
 ersten CBDCs aktiv werden, und mit ihnen totale Überwachung und Kontrolle. "Mit
 CBDCs werden die Zentralbanken die vollständige Kontrolle über die Regeln und
@@ -162,6 +165,9 @@ denn wenn es eine Fluchtmöglichkeit gibt, wird diese Fluchtmöglichkeit genutzt
 werden."
 
 [CL]: https://njump.me/nevent1qqsq0fdasnlcfvh22lzm4cu4uzcj452pwksgzutgz3vhd6jmlrpu78qzyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxhlmna4
+
+{% capture absoluteVideoURL %}{{ 'assets/video/convicted-criminal.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=absoluteVideoURL %}
 
 Das muss man sich einmal auf der Zunge zergehen lassen: Das Oberhaupt der "Bank
 der Zentralbanken" will Bargeld verschlimmbessern und verlangt die totale
