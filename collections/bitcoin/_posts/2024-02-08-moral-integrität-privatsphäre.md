@@ -19,19 +19,20 @@ tags:
 Bitcoin ist nun 14 Jahre alt, und wie fast alle Teenager ist die orange Münze
 meist un- und missverstanden.
 
-Bitcoin ist digitales Geld, Bitcoin ist elektronisches Gold, Bitcoin ist nur für
-Verbrecher, Bitcoin ist schlecht für die Umwelt, Bitcoin ist dies, Bitcoin ist
-jenes.
+Bitcoin ist [digitales Geld](/digital), Bitcoin ist elektronisches Gold, Bitcoin
+ist nur für Verbrecher, Bitcoin ist schlecht für die Umwelt, Bitcoin ist dies,
+Bitcoin ist jenes.
 
 Manche sind schon einen Schritt weiter. Sie haben akzeptiert, dass Bitcoin ist,
 und nun fragen sie sich, warum Bitcoin so ist, und nicht anders?
 
-Warum sind es 21 Millionen, und nicht 42? Warum 10 Minuten, und nicht eine?
-Warum braucht es Energie, und warum ist es nicht perfektestens privat?
+Warum sind es 21 Millionen, und nicht 42? Warum [10 Minuten](/cryptography), und
+nicht eine?  Warum braucht es Energie, und warum ist es nicht perfektestens
+privat?
 
-All diese Fragen sind legitim, aber da Raum und Zeit begrenzt sind - sowohl
-hier, als auch in Bitcoin - werde ich mich ausschließlich auf die letzte Frage
-konzentrieren: die Frage der Privatsphäre. Oder umgekehrt: die Frage der
+All diese Fragen sind legitim, aber da [Raum und Zeit](/time) begrenzt sind -
+sowohl hier, als auch in Bitcoin - werde ich mich ausschließlich auf die letzte
+Frage konzentrieren: die Frage der Privatsphäre. Oder umgekehrt: die Frage der
 Transparenz.
 
 Warum ist Bitcoin transparent? Und muss es das sein? Um dies zu beantworten,
@@ -39,7 +40,7 @@ müssen wir uns zuerst eine andere Frage stellen: Was ist der Sinn von Bitcoin?
 Und warum gibt es Bitcoin überhaupt?
 
 Wenn mich jemand zwingen würde, diese Frage in einem Wort zu beantworten, dann
-wäre meine Antwort folgende: Integrität.
+wäre meine Antwort folgende: _Integrität_.
 
 Die ersten Nachrichten von
 [Satoshi](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/) machen
@@ -61,11 +62,11 @@ moralischen Ebene ist Integrität synonym mit Lauterkeit, Rechtschaffenheit und
 Unbescholtenheit. In der Informatik und in Bezug auf Daten versteht man unter
 Integrität Richtigkeit, Vollständigkeit und Konsistenz.
 
-Bitcoin ist ein Informationskonstrukt welches letzteres—Informatik (und
-Physik)—verwendet um ersteres—Vollständigkeit, Unversehrtheit und Ganzheit—auf
-einer monetären Ebene wiederherzustellen. Und durch diese Wiederherstellung
-erlaubt es auch eine Rückkehr zu einer höheren Moral: Lauterkeit,
-Rechtschaffenheit, und Unbescholtenheit.
+Bitcoin ist ein [Informationskonstrukt](/digital) welches letzteres—Informatik
+(und Physik)—verwendet um ersteres—Vollständigkeit, Unversehrtheit und
+Ganzheit—auf einer monetären Ebene wiederherzustellen. Und durch diese
+Wiederherstellung erlaubt es auch eine [Rückkehr](/rediscovery) zu einer höheren
+[Moral](/speech): Lauterkeit, Rechtschaffenheit, und Unbescholtenheit.
 
 Warum dieses ganze Geschwafel über Moral? Und was hat dies alles mit Transparenz
 und Privatsphäre zu tun?
@@ -81,10 +82,10 @@ Transparenz ist die Kehrseite der Überprüfbarkeit, und es ist diese
 Überprüfbarkeit, die es uns erlaubt, ein Geld zu besitzen, ohne anderen
 vertrauen zu müssen.
 
-Datenintegrität ohne Privatschlüssel, ohne Geheimnisse. Das ist das was Bitcoin
-bringt, und darum braucht es auch Energie, da Energie offensichtlich ist. Ohne
-Energie keine öffentliche Datenintegrität; ohne öffentliche Datenintegrität kein
-Vertrauen.
+[Datenintegrität ohne Privatschlüssel](/cryptography), ohne Geheimnisse. Das ist
+das was Bitcoin bringt, und darum braucht es auch Energie, da Energie
+offensichtlich ist. Ohne Energie keine öffentliche Datenintegrität; ohne
+öffentliche Datenintegrität kein Vertrauen.
 
 "Aber was ist mit XY," höre ich dich aus den hinteren Rängen schreien. Dein
 liebes XY, egal ob Shitcoin oder CBDC, benötigt spezielle private Schlüssel um
@@ -107,8 +108,9 @@ Wenn alles absolut privat wäre, wäre es sehr schwierig die Integrität des gan
 Systems zu überprüfen, zumindest auf eine einfache und für jeden ersichtliche
 Art und Weise. Wie viel Bitcoinium ist im Umlauf, und hat auch wirklich niemand
 geschummelt? Hat jemand etwas zu viel Bitcoinium aus dem Hut gezaubert, oder
-jemanden anderen hintergangen? War jegliche Ausschüttung von neuem Bitcoinium
-legitim und fair? Und ist das was ausgeschüttet wurde auch noch vorhanden?
+jemanden anderen hintergangen? War jegliche [Ausschüttung](/mined) von neuem
+Bitcoinium legitim und fair? Und ist das was ausgeschüttet wurde auch noch
+vorhanden?
 
 Dank Bitcoin's Transparenz können wir ohne Zweifel nachweisen, dass der einzige
 Satoshi, der jemals verschwunden ist, Satoshi Nakamoto war. Alle anderen
@@ -180,8 +182,8 @@ Ich bin nach-wie-vor der Meinung, dass Agustín Carstens der
 [Endboss](https://njump.me/note1hz4vam9gy06t474a34vywsuxzn5jfc572m43hm4a6yeyg3agjzfqfj2y0k)
 von Bitcoin ist, da er das Oberhaupt der "Bank der Zentralbanken" darstellt. Die
 BIZ, die Bank für Internationalen Zahlungsausgleich, macht in der Fiat-Welt das,
-was Bitcoin automatisch alle 10 Minuten macht: sie gleicht Zahlungen aus, sie
-ist für das "Settlement" zuständig.
+was Bitcoin automatisch [alle 10 Minuten](/cryptography) macht: sie gleicht
+Zahlungen aus, sie ist für das "Settlement" zuständig.
 
 Bitcoin ist ein Settlement-Layer, und Bitcoinium ist das, was "gesettelt" wird.
 Eine der ersten Einsichten über Bitcoin war, dass es Bitcoin Banken geben wird,
