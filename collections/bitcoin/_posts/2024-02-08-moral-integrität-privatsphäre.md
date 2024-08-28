@@ -5,7 +5,7 @@ description: "Warum ist Bitcoin transparent? Und muss es das sein?"
 date: 2024-02-08
 blocktime: 829521
 image: /assets/images/cypherpunk.jpg
-redirect_from: /integrity
+redirect_from: /integrität
 source: https://einundzwanzig.shop/p/einundzwanzig-magazin-cypherpunk/
 author: Gigi
 category: bitcoin
