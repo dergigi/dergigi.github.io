@@ -150,6 +150,8 @@ der liebe Agustín, der dicke Kopf der Bank für Internationalen Zahlungsausglei
 in Basel, für dich und mich beantworten.  Zentral, autoritär, und
 unwiderruflich.
 
+{% include image.html name="der-fette-und-die-hexe.jpg" %}
+
 [AC]: https://njump.me/nevent1qqsguc5pcejjn28vrdaypz4xjp4cwtd9wh4z9x99hu0hmwg96czg9mszyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxfnjyd0
 
 Bitcoin stellt den Gegenpol dar und bietet Zuflucht. Und weil es Zuflucht
