@@ -239,7 +239,7 @@ Schlüssel.
 <small>
 This text was written at
 [795,921](https://mempool.space/block/829521) and published
-originally in print for the third issue of the
+originally in print for the fourth issue of the
 [EINUNDZWANZIG] magazine. You can buy a
 copy at
 [einundzwanzig.shop](https://einundzwanzig.shop/p/einundzwanzig-magazin-cypherpunk/)
