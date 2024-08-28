@@ -198,14 +198,18 @@ Eine der ersten Einsichten über Bitcoin war, dass es Bitcoin Banken geben wird,
 da das Protokoll niemals im Stande sein wird, alle Transaktionen dieser Erde zu
 bedienen. [Hal Finney][HF] hatte diese Einsicht im Dezember 2010:
 
+{% include image.html name="hal.jpg" link="https://bitcointalk.org/index.php?topic=2500.msg34211#msg34211" %}
+
 [HF]: https://njump.me/nevent1qqsvw5vegl3mau6munvyq3w9ygea5dvunqjne65hr6d7eeh7tdvwdxgppamhxue69uhkummnw3ezumt0d5q3gamnwvaz7tmjv4kxz7fwdehhxarj9e3xwq3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fswlmh4e
 
-"Tatsächlich gibt es einen sehr guten Grund für die Existenz von
-Bitcoin-gestützten Banken, die ihre eigene digitale Bargeldwährung herausgeben,
-die gegen Bitcoin eingelöst werden kann. Bitcoin selbst kann nicht so skaliert
-werden, dass jede einzelne Finanztransaktion auf der Welt an alle übertragen und
-in die Blockchain aufgenommen wird. Es muss eine sekundäre Ebene von
-Zahlungssystemen geben, die leichter und effizienter ist."
+> Tatsächlich gibt es einen sehr guten Grund für die Existenz von
+> Bitcoin-gestützten Banken, die ihre eigene digitale Bargeldwährung herausgeben,
+> die gegen Bitcoin eingelöst werden kann. Bitcoin selbst kann nicht so skaliert
+> werden, dass jede einzelne Finanztransaktion auf der Welt an alle übertragen und
+> in die Blockchain aufgenommen wird. Es muss eine sekundäre Ebene von
+> Zahlungssystemen geben, die leichter und effizienter ist.
+>
+> <cite>Hal Finney</cite>
 
 Leichter und effizienter. Das Lightning Netzwerk ist dies bereits, da ein
 lokaler Abgleich immer leichter und effizienter sein wird als ein globaler. Und
