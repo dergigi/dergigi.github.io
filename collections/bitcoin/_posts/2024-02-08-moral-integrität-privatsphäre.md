@@ -214,7 +214,7 @@ bedienen. [Hal Finney][HF] hatte diese Einsicht im Dezember 2010:
 Leichter und effizienter. Das Lightning Netzwerk ist dies bereits, da ein
 lokaler Abgleich immer leichter und effizienter sein wird als ein globaler. Und
 sehr bald wird es auch die Bitcoin-gestützten Banken geben, von denen Hal Finney
-sprach. Stichwort: FediMint. Leicht, effizient und von Haus aus privat. Perfekt
+sprach. Stichwort: (Fedi)Mint. Leicht, effizient und von Haus aus privat. Perfekt
 wird es allerdings wieder nicht sein, denn der Chaum'sche Traum von eCash bringt
 eben ein Haus mit sich: ein Konstrukt, welches die Bitcoin-gestützte Bank haust.
 Und den Hütern dieses Hauses muss man sehr wohl vertrauen, zumindest zu einem
