@@ -4,7 +4,7 @@ title: "Moral, Integrität und Privatsphäre"
 description: "Warum ist Bitcoin transparent? Und muss es das sein?"
 date: 2024-02-08
 blocktime: 829521
-image: /assets/images/integrity.jpg
+image: /assets/images/cypherpunk.jpg
 redirect_from: /integrity
 source: https://einundzwanzig.shop/p/einundzwanzig-magazin-cypherpunk/
 author: Gigi
