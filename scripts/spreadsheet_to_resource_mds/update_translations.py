@@ -28,6 +28,9 @@ for idx, row in enumerate(articles.get_all_values()):
     translation_part = row[7].lstrip().rstrip()
 
     md_file_name = translation_archive.replace("https://archive.ph/", "")
+    md_file_name = md_file_name.replace("https://web.archive.org/web/", "")
+    md_file_name = md_file_name.split("/", 1)[0]
+
     md_file_path = title_to_file_path(md_file_name, 'translations')
     if md_file_path == "":
         continue
