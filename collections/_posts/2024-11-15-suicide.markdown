@@ -139,7 +139,7 @@ mind," and rightfully pose comparative questions to try to make sense of it all.
 "If I had cancer, would you force me to live out the rest of my days in pain or
 would you help me find rest?"[^fn-yt]
 
-[^fn-yt]: One of the top comments under [this video](https://www.youtube.com/watch?v=2kTJ4wMm_vs)
+[^fn-yt]: Izzy Pfutzenreuter posed this question in a YouTube comment under [this video](https://www.youtube.com/watch?v=2kTJ4wMm_vs), after stating the following: "I’ve been in therapy for years, both with a psychiatrist and a clinical psychologist. I still don’t see a future for myself. I’m tired, I’m bankrupt, I can’t live normally and I just can’t get myself interested in anything these days."
 
 But depression isn't cancer, which is why we don't consider suicide a natural
 death. We don't help people to kill themselves when they are depressed—we try to
@@ -173,15 +173,19 @@ over what we think, what we do, and what we feel? How much agency can we exert
 when it comes to constructing meaning from experience, to say it in David Foster
 Wallace's words? How much control do we have over our thoughts?
 
--   "How frail the human heart must be — a mirrored pool of thought." —Sylvia
-Plath
+> How frail the human heart must be—a mirrored pool of thought.
+>
+> <cite>Sylvia Plath</cite>
 
 During the financial crisis of 2008, suicide rates increased by roughly 5% in
-Europe and America. More men killed themselves than women, as they always do.
-[0] [1] Who killed those men? What killed those men? Are they responsible for
+Europe and America.[^fn-0] More men killed themselves than women, as they always
+do.[^fn-1] Who killed those men? What killed those men? Are they responsible for
 their suicide? Did they truly kill themselves, or did the financial crisis kill
 them? Was it depression? And if it was depression, was it the psychological one
 or the economic one? Is there even a difference?
+
+[^fn-0]: "In the recent Global Financial Crisis (GFC) of 2008, [suicide rates increased by 4.2% in 27 European countries and by 6.4% in 18 American countries](https://www.nature.com/articles/s41380-020-00875-4), with more marked increases noted for men."
+[^fn-1]: "The suicide rate among males in 2022 was approximately [four times higher than the rate among females](https://www.cdc.gov/suicide/facts/data.html#:~:text=four%20times%20higher%20than%20the%20rate%20among%20females). Males make up 50% of the population but nearly 80% of suicides."
 
 Questions over questions... The reason why we assign blame in the first place is
 because of our steadfast conviction that it could've been different. We believe
@@ -509,3 +513,5 @@ spoken for a long time. Even if they are far away. Call them, and tell them that
 you love them. They might need to hear it. More than you can imagine.
 
 I love you dad. I miss you dearly. May you rest in peace.
+
+---
