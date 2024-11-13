@@ -2,7 +2,7 @@
 layout: post
 title: "He Hanged Himself in the Morning"
 redirect_from: /suicide
-date: 2024-11-15
+date: 2024-10-15
 description: "TODO"
 image: /assets/images/suicide.jpg
 author: Gigi
@@ -11,10 +11,12 @@ tags:
   - Photography
 ---
 
-"We may enjoy our room in the tower, with the painted walls and the commodious
-bookcases, but down in the garden there is a man digging who buried his father
-this morning, and it is he and his like who live the real life and speak the
-real language."
+> We may enjoy our room in the tower, with the painted walls and the commodious
+> bookcases, but down in the garden there is a man digging who buried his father
+> this morning, and it is he and his like who live the real life and speak the
+> real language.
+>
+><cite>Virginia Woolf</cite>
 
 ---
 
@@ -32,11 +34,13 @@ dying, but because of him killing himself.
 He was a good man. Imperfect, like all of us are, but with a good heart. He had
 a good mind too, and I'm afraid said mind is what killed him.
 
--   "Think of the old cliché about “the mind being an excellent servant but a
-terrible master.” This, like many clichés, so lame and unexciting on the
-surface, actually expresses a great and terrible truth. It is not the least bit
-coincidental that adults who commit suicide with firearms almost always shoot
-themselves in: the head. They shoot the terrible master." —David Foster Wallace
+> Think of the old cliché about “the mind being an excellent servant but a
+> terrible master.” This, like many clichés, so lame and unexciting on the
+> surface, actually expresses a great and terrible truth. It is not the least bit
+> coincidental that adults who commit suicide with firearms almost always shoot
+> themselves in: the head. They shoot the terrible master.
+>
+><cite>David Foster Wallace</cite>
 
 I'm trying my best not to judge or blame my father. I am well aware of the
 terrible master that is the mind, and am all too familiar with the bottomless
@@ -48,23 +52,25 @@ it's a miracle if you're still alive.
 And yet it is hard not to judge. Borderline impossible to accept his decision;
 to accept things as they are now.
 
--   "The so-called ‘psychotically depressed’ person who tries to kill herself
-doesn’t do so out of quote ‘hopelessness’ or any abstract conviction that life’s
-assets and debits do not square. And surely not because death seems suddenly
-appealing. The person in whom Its invisible agony reaches a certain unendurable
-level will kill herself the same way a trapped person will eventually jump from
-the window of a burning high-rise. Make no mistake about people who leap from
-burning windows. Their terror of falling from a great height is still just as
-great as it would be for you or me standing speculatively at the same window
-just checking out the view; i.e. the fear of falling remains a constant. The
-variable here is the other terror, the fire’s flames: when the flames get close
-enough, falling to death becomes the slightly less terrible of two terrors. It’s
-not desiring the fall; it’s terror of the flames. And yet nobody down on the
-sidewalk, looking up and yelling ‘Don’t!’ and ‘Hang on!’, can understand the
-jump. Not really. You’d have to have personally been trapped and felt flames to
-really understand a terror way beyond falling." —David Foster Wallace
+> The so-called ‘psychotically depressed’ person who tries to kill herself
+> doesn’t do so out of quote ‘hopelessness’ or any abstract conviction that life’s
+> assets and debits do not square. And surely not because death seems suddenly
+> appealing. The person in whom Its invisible agony reaches a certain unendurable
+> level will kill herself the same way a trapped person will eventually jump from
+> the window of a burning high-rise. Make no mistake about people who leap from
+> burning windows. Their terror of falling from a great height is still just as
+> great as it would be for you or me standing speculatively at the same window
+> just checking out the view; i.e. the fear of falling remains a constant. The
+> variable here is the other terror, the fire’s flames: when the flames get close
+> enough, falling to death becomes the slightly less terrible of two terrors. It’s
+> not desiring the fall; it’s terror of the flames. And yet nobody down on the
+> sidewalk, looking up and yelling ‘Don’t!’ and ‘Hang on!’, can understand the
+> jump. Not really. You’d have to have personally been trapped and felt flames to
+> really understand a terror way beyond falling.
+>
+><cite>David Foster Wallace</cite>
 
-## Invisible Agony
+### Invisible Agony
 
 I guess we'll never know what went through his head on the day of his death.
 What invisible agony tormented him. What kind of terror made him jump, what kind
@@ -131,7 +137,9 @@ to die. In some cases we even allow them to actively kill themselves, even
 assist them in doing so. We call anxiety and depression the "cancer of the
 mind," and rightfully pose comparative questions to try to make sense of it all.
 "If I had cancer, would you force me to live out the rest of my days in pain or
-would you help me find rest?" https://www.youtube.com/watch?v=2kTJ4wMm_vs
+would you help me find rest?"[^fn-yt]
+
+[^fn-yt]: One of the top comments under [this video](https://www.youtube.com/watch?v=2kTJ4wMm_vs)
 
 But depression isn't cancer, which is why we don't consider suicide a natural
 death. We don't help people to kill themselves when they are depressed—we try to
