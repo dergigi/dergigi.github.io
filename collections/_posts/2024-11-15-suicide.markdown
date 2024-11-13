@@ -119,9 +119,11 @@ reckless, and I guess I can be all of that as well.
 
 I have my father's mind and temperament, and I fight with it every day. I fight
 the monster that is the terrible master as best as I know how, trying to keep
-things at bay with sheer discipline and willpower (Footnote: I am aware of the
-irony; the mind trying to keep the mind at bay.). I know that he managed to do
-the same for many decades, but in the end the monster won. Or did it?
+things at bay with sheer discipline and willpower.[^fn-willpower] I know that he
+managed to do the same for many decades, but in the end the monster won. Or did
+it?
+
+[^fn-willpower]: I am aware of the irony; the mind trying to keep the mind at bay.
 
 Did my father struggle with depression, or did depression struggle with him? Did
 the monster kill my father, or did he kill it? Norm Macdonald once quipped that
@@ -216,9 +218,9 @@ that pull you away from it; away from the abyss.
 
 The story of humanity is the story of the mind trying to understand these
 forces. And one might say that the story art is the story of the _heart_ trying
-to understand these forces. (Footnote: And I'd even wager to say that the story
-of myth and religion is the story of civilizations trying to understand these
-forces.)
+to understand these forces.[^fn-myth]
+
+[^fn-myth]: And some would say that the story of myth and religion is the story of civilizations trying to understand these forces, and I would agree.
 
 We used to call them spirits. And we still use this word today, i.e. when
 talking about the spirit of a team, the elusive force that makes the members of
@@ -422,7 +424,7 @@ claimed. I understand that now.
 But understanding all that might not be enough. Picking up a pen, paintbrush,
 violin, guitar—or whatever you use to create something beautiful—might not be
 enough. The just quoted Virginia Woolf wrote many beautiful things, and yet she
-eventually killed herself. (Footnote: suicide note) As did Sylvia Plath, and
+eventually killed herself.[^fn-woolf] As did Sylvia Plath, and
 Vincent Van Gogh. Kurt Cobain killed himself too, most famously. And Hemingway
 as well, by shooting himself in—you guessed it—the head. Even David Foster
 Wallace, who so poignantly talked about the old cliché of “the mind being an
@@ -431,6 +433,8 @@ vividly painted the picture of a burning high-rise with you being trapped at the
 window—that very David Foster Wallace who gave one of the greatest commencement
 speeches of all time—killed himself. He hanged himself, just like my father did.
 Whether it was in the morning or not, I don't know.
+
+[^fn-woolf]: Even her [suicide note](https://en.wikisource.org/wiki/Virginia_Woolf_suicide_note) is beautifully written.
 
 ### Reasons
 
@@ -472,7 +476,9 @@ justified, and maybe in some cases, it is.
 But who can decide such a thing with any resemblance of authority? Who but that
 which we call God? What mortal soul has the audacity to define the threshold
 that puts a person into the "category of people that have permission to kill
-themselves?" (Footnote: The Bridge)
+themselves?"[^fn-bridge]
+
+[^fn-bridge]: Quote from [The Bridge](https://watchdocumentaries.com/the-bridge/), a 2006 documentary film spanning one year of filming at the Golden Gate Bridge, which is the world's most popular suicide destination.
 
 Maybe that's why religions are so absolutist when it comes to suicide. It's a
 threshold problem, just like the problem of free speech. What pain is
@@ -503,9 +509,11 @@ had a proper conversation. Not only son to father, but father to father, soul to
 soul, and tormented mind to tormented mind. I think I could've helped him. I
 wish he could've known that I was there too, in the burning building up top,
 about to leap out of the window. I wish I could've told him that the flames
-might be an illusion; that there is a chance they eventually subside. (Footnote:
-Gravity isn't; the concrete floor won't.) I wish I could've told him that there
-is hope; that there's a path to feeling better.
+might be an illusion; that there is a chance they eventually
+subside.[^fn-gravity] I wish I could've told him that there is hope; that
+there's a path to feeling better.
+
+[^fn-gravity]: Gravity isn't; the concrete floor won't.
 
 It pains me to know that my father was in such torment that he decided to end it
 all. I didn't know. Not really.
