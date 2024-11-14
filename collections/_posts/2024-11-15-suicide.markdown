@@ -128,9 +128,11 @@ it?
 Did my father struggle with depression, or did depression struggle with him? Did
 the monster kill my father, or did he kill it? Norm Macdonald once quipped that
 people don't lose their battle with cancer; if anything, it's a draw, because if
-the person dies the cancer dies too. It's all the more poignant because it was
+the person dies the cancer dies too.[^fn-norm] It's all the more poignant because it was
 cancer that killed him, the very cancer that he was already aware of when he
 made said quip.
+
+[^fn-norm]: https://youtu.be/kEzcO127O4c
 
 When it comes to cancer, especially late-stage cancer so advanced in its
 progression that all hope for betterment and remission is surely lost, most of
@@ -149,6 +151,8 @@ death. We don't help people to kill themselves when they are depressed—we try 
 help them get better. We try to help them get rid of the monster that is the
 terrible master, by any other means but death. And sometimes we fail. Often,
 really.
+
+<!-- TODO: Successful? -->
 
 I keep asking myself this question: When it comes to a successful suicide, does
 the terrible master shoot the person, or does the person shoot the terrible
@@ -215,7 +219,10 @@ part that is contemplating, that is afraid to jump, that wants to get better. A
 part that is glad that someone stopped you, that someone talked you off the
 ledge. A part of you that is open to being talked off the ledge in the first
 place. There are forces inside you that pull you in one direction and others
-that pull you away from it; away from the abyss.
+that pull you away from it; away from the abyss. The suicidal mind is possessed
+by the angel of death, a force that goes against life itself. But your heart is
+immune to this possessive force; the heart can't make the heart stop beating.
+Only the mind can make the mind stop thinking.
 
 The story of humanity is the story of the mind trying to understand these
 forces. And one might say that the story art is the story of the _heart_ trying
