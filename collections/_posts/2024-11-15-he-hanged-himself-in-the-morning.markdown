@@ -2,8 +2,8 @@
 layout: post
 title: "He Hanged Himself in the Morning"
 redirect_from: /suicide
-date: 2024-10-15
-description: "TODO"
+date: 2024-11-15
+description: "My dad killed himself today. He hanged himself in the morning."
 image: /assets/images/suicide.jpg
 author: Gigi
 category: photography
