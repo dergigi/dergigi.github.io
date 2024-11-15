@@ -557,6 +557,8 @@ you love them. They might need to hear it. More than you can imagine.
 
 I love you dad. I miss you dearly. May you rest in peace.
 
+{% include image.html name="love-you-dad.jpg" %}
+
 ---
 
 [If you are considering suicide or self harm, please get help now.](https://www.iasp.info/suicidalthoughts/)
