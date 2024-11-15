@@ -168,7 +168,7 @@ the whole point of killing oneself, and the conundrum of it all. The suicidal
 person tries to stop her mind from tormenting her being, and in the process
 stops her heart. But who exactly killed whom?
 
-[^fn-stats]: I learned this from [Dr. David Goldbloom](https://youtu.be/mG4y_JYdFVI), who made me look up the [number of people that kill themselves](https://ourworldindata.org/grapher/death-rate-from-suicides-gho?tab=chart&country=~OWID_WRL) as well as [the number of people that are killed by others](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=chart&country=~OWID_WRL). Both statistics are sad, but the fact that the number of suicides is so much higher was surprising to me. We seem to be living in relatively peaceful times when it comes to the external world, but when it comes to the internal world... not so much.
+[^fn-stats]: I learned this from [Dr. David Goldbloom](https://youtu.be/mG4y_JYdFVI), who made me look up the [number of people that kill themselves](https://ourworldindata.org/grapher/death-rate-from-suicides-gho?tab=chart&country=~OWID_WRL) as well as [the number of people that are killed by others](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=chart&country=~OWID_WRL). Both statistics are sad, but the fact that the number of suicides is so much higher was surprising to me. We seem to be living in relatively peaceful times when it comes to the external world, but when it comes to the internal world... not so much. I mean... suicide is [the biggest killer of men under 45](https://www.youtube.com/watch?v=qDiBDAyL_dQ). That stat alone should give you pause.
 
 It's precisely this paradoxical nature of suicide why we often speak of
 depression as a disease, as something that can and must be cured, like the flu
