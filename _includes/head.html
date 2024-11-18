@@ -14,7 +14,7 @@
   {% endif %}
 {% endcapture %}
 <title>{{ fullTitle }}</title>
-<meta name="description" content="{{ site.description }}">
+<meta name="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
 
 <meta itemprop="name" content="{{ site.name }}">
 <meta itemprop="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
@@ -38,11 +38,7 @@
 <meta name="twitter:title"   content="{{ fullTitle }}">
 <meta name="twitter:url"     content="{{ page.url | absolute_url }}">
 
-{% if page.description %}
-<meta name="twitter:description" content="{{ page.description | escape }}">
-{% else %}
-<meta name="twitter:description" content="{{ site.description }}">
-{% endif %}
+<meta property="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
 
 {% if page.image %}
 <meta name="twitter:card"  content="summary_large_image">
