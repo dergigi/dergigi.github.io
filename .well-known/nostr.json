@@ -6,6 +6,7 @@
     "bqbot": "875705d034963b8487a8246468612a854ed2b5af66be936e1e48c25ce96a750d",
     "gmbot": "46d1b9683c9e6cf4483a82b597b6934f368bee02ca23162002869979bccf6022",
     "platobot": "0ffab7d9247132f14bcd38378b0acedc30d35e2b2670d89b7ae8c2d2c306af99",
+    "socrates": "83f03ed3d1a40f8c3bc14b00b0d619cf97efd9237a1c34ded7827b6e1ac9a76f",
     "marky": "df476244bd2837d6939c317e3a942db922d6986d72f6d290b4f5899d6804e458"
   },
   "relays": {
@@ -39,6 +40,13 @@
       "wss://nos.lol"
     ],
     "0ffab7d9247132f14bcd38378b0acedc30d35e2b2670d89b7ae8c2d2c306af99": [
+      "wss://relay.dergigi.com",
+      "wss://nostr.einundzwanzig.space",
+      "wss://nostr.oxtr.dev",
+      "wss://relay.damus.io",
+      "wss://nos.lol"
+    ],
+    "83f03ed3d1a40f8c3bc14b00b0d619cf97efd9237a1c34ded7827b6e1ac9a76f": [
       "wss://relay.dergigi.com",
       "wss://nostr.einundzwanzig.space",
       "wss://nostr.oxtr.dev",
