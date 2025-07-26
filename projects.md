@@ -269,6 +269,7 @@ to start their own local—and localized—bitcoin-only community.
 {% include image.html path="/assets/images/bitcoin/projects/twentyone-world.png" link="https://twentyone.world" %}
 
 * Website: [twentyone.world](https://twentyone.world)
+* Nostr: [@twentyone.world](https://npub.world/npub1w0rldx5sdg960fw7lffu9r4tcec3nlu0ez2jzhdnl6x0tvdgpnkqf5v9xl)
 * Source: [GitHub](https://github.com/twentyone-world/)
 
 ### Fucking Shitcoins
