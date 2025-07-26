@@ -252,12 +252,16 @@ Seriously.
 
 The best way to build a better future is to, well, build it. [Sovereign Engineering](https://sovereignengineering.io/) was created to put the ideas of sovereign technology into practice. It started as an experiment: what happens if you bring 21 builders to Madeira for 6 weeks and let them focus on creating tools for a self-sovereign world? The result is an intense, in-person program focused on high-bandwidth collaboration and rapid shipping. No buzzwords, no bullshit. Just building cool shit on Bitcoin and nostr, with a demo day every Friday to hold everyone accountable.
 
+{% include image.html path="/assets/images/bitcoin/projects/sovereign-engineering.png" link="https://sovereignengineering.io" %}
+
 * Website: [sovereignengineering.io](https://sovereignengineering.io/)
 * Nostr: [sovereignengineering.io](https://npub.world/npub1s0veng2gvfwr62acrxhnqexq76sj6ldg3a5t935jy8e6w3shr5vsnwrmq5)
 
 ### No Solutions
 
 Some of the best ideas aren't born in front of a screen, but on a long walk. The [No Solutions](https://sovereignengineering.io/podcast) podcast was born out of the many walks that took place during Sovereign Engineering, based on the simple premise that there are no easy solutions, only trade-offs. In a series of walking dialogues, the podcast explores what it means to build a better internet, embracing the idea that freedom is an engineering practice. The philosophy is to start ugly, iterate publicly, and keep walking. It's a journey, not a destination, and this podcast is its travel log.
+
+{% include image.html path="/assets/images/bitcoin/projects/no-solutions.png" link="https://sovereignengineering.io/podcast" %}
 
 * Website: [sovereignengineering.io/podcast](https://sovereignengineering.io/podcast)
 * Nostr: [no-solutions@sovereignengineering.io](https://npub.world/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n)
