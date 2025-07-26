@@ -12,6 +12,10 @@ subtitle: Words and Code for Bitcoin
 * Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop), [No Solutions](#no-solutions)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr)
 
+As of right now, I'm not involved in any of the projects listed below, and all
+of my solo projects are currently on hold, as 100% of my time is focused on
+building out [OpenSats](https://opensats.org).
+
 ---
 
 ### 21 Ways
@@ -279,7 +283,14 @@ Seriously.
 
 ### Sovereign Engineering
 
-The best way to build a better future is to, well, build it. [Sovereign Engineering](https://sovereignengineering.io/) was created to put the ideas of sovereign technology into practice. It started as an experiment: what happens if you bring 21 builders to Madeira for 6 weeks and let them focus on creating tools for a self-sovereign world? The result is an intense, in-person program focused on high-bandwidth collaboration and rapid shipping. No buzzwords, no bullshit. Just building cool shit on Bitcoin and nostr, with a demo day every Friday to hold everyone accountable.
+The best way to build a better future is to, well, build it. [Sovereign
+Engineering](https://sovereignengineering.io/) was created to put the ideas of
+sovereign technology into practice. It started as an experiment: what happens if
+you bring 21 builders to Madeira for 6 weeks and let them focus on creating
+tools for a self-sovereign world? The result is an intense, in-person program
+focused on high-bandwidth collaboration and rapid shipping. No buzzwords, no
+bullshit. Just building cool shit on Bitcoin and nostr, with a demo day every
+Friday to hold everyone accountable.
 
 {% include image.html path="/assets/images/bitcoin/projects/sovereign-engineering.png" link="https://sovereignengineering.io" %}
 
@@ -288,7 +299,14 @@ The best way to build a better future is to, well, build it. [Sovereign Engineer
 
 ### No Solutions
 
-Some of the best ideas aren't born in front of a screen, but on a long walk. The [No Solutions](https://sovereignengineering.io/podcast) podcast was born out of the many walks that took place during Sovereign Engineering, based on the simple premise that there are no easy solutions, only trade-offs. In a series of walking dialogues, the podcast explores what it means to build a better internet, embracing the idea that freedom is an engineering practice. The philosophy is to start ugly, iterate publicly, and keep walking. It's a journey, not a destination, and this podcast is its travel log.
+Some of the best ideas aren't born in front of a screen, but on a long walk. The
+[No Solutions](https://sovereignengineering.io/podcast) podcast was born out of
+the many walks that took place during Sovereign Engineering, based on the simple
+premise that there are no easy solutions, only trade-offs. In a series of
+walking dialogues, the podcast explores what it means to build a better
+internet, embracing the idea that freedom is an engineering practice. The
+philosophy is to start ugly, iterate publicly, and keep walking. It's a journey,
+not a destination, and this podcast is its travel log.
 
 {% include image.html path="/assets/images/bitcoin/projects/no-solutions.png" link="https://sovereignengineering.io/podcast" %}
 
