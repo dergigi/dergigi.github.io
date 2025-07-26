@@ -8,7 +8,8 @@ subtitle: Words and Code for Bitcoin
 * Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes)
 * Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
 * Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
-* Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop)
+* Programs: [Sovereign Engineering](#sovereign-engineering)
+* Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop), [No Solutions](#no-solutions)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr)
 
 As of right now, I'm not involved in any of the projects listed below, and all of my solo projects are currently on hold, as 100% of my time is focused on building out [OpenSats](https://opensats.org).
@@ -246,6 +247,24 @@ Seriously.
 * Website: [fuckingshitcoins.com](https://fuckingshitcoins.com/)
 * Twitter: [#FuckingShitcoins](https://twitter.com/hashtag/FuckingShitcoins)
 * Source: [GitHub](https://github.com/fuckingshitcoins/fuckingshitcoins.github.io)
+
+### Sovereign Engineering
+
+[Sovereign Engineering](https://sovereignengineering.io/) is a 6-week program that brings together 21 participants in Madeira for in-person collaboration, ideation, and building. The program focuses on building applications and services for a self-sovereign future, powered by Bitcoin and nostr technologies. It operates on five core pillars: in-person intensity, weekly demo days, creative walks, rotating leadership, and a focus on shipping real, usable applications.
+
+The program has already produced notable projects including Blossom, Nutzaps, Wikifreedia, Nsite, TollGate, Zapstore, and more. Every Friday features a Demo Day where participants showcase what they've built, creating a rhythm of show → talk → build that drives momentum and rapid prototyping.
+
+* Website: [sovereignengineering.io](https://sovereignengineering.io/)
+* Twitter: [@SovEng](https://twitter.com/SovEng)
+
+### No Solutions
+
+[No Solutions](https://sovereignengineering.io/podcast) is a podcast that explores the intersection of freedom and engineering practice. Across walking dialogues, the crew circles around the north star that "freedom is an engineering practice." The philosophy is to start ugly, ship weekly, and invite the world's critique. Momentum replaces perfection, open protocols replace gate-keepers, and conversations on the trail turn wild ideas into code that empowers the individual.
+
+The podcast is available on various platforms including castr.me, Podcast Index, RSS, and nostr.
+
+* Website: [sovereignengineering.io/podcast](https://sovereignengineering.io/podcast)
+* Platforms: [castr.me](https://castr.me), [Podcast Index](https://podcastindex.org), [RSS](https://feeds.castr.com/sovereign-engineering), [nostr](https://nostr.com)
 
 ### Contribution: The Bitcoin Times
 
