@@ -96,7 +96,7 @@ collection of Bitcoin-related quotes. As of this writing, 300+ quotes have been 
 indexed, in both audio and written form. The source of each quote will be revealed upon
 paying ~2¢ in sats. I hope that these quotes will inform, inspire, and delight those who
 stumble upon them. There is also a rudimentary [API][API] if you want to integrate these
-random quotes into a project of yours. Follow the [twitter bot][btc_quotes] of this project
+random quotes into a project of yours. Follow the [nostr bot](https://npub.world/npub1satst5p5jcacfpagy3jxscf2s48d9dd0v6lfxms7frp9e6t2w5xstmsfjp) of this project
 to get random quotes in your timeline.
 
 {% capture time_seed %}{{ 'now' | date: "%s" }}{% endcapture %}
@@ -197,14 +197,14 @@ revised and adapted by myself.
 
 [paperback-de]: https://amzn.to/2AtlfWZ
 
-### Quotable Satoshi Twitter Bot
+### Quotable Satoshi Nostr Bot
 
-Building upon the great work of the Satoshi Nakamoto Institute, I wrote a twitter bot to
+Building upon the great work of the Satoshi Nakamoto Institute, I wrote a nostr bot to
 disseminate the most insightful and interesting quotes of Satoshi Nakamoto. Simply follow
-[@QuotableSatoshi][quotablesatoshi] on twitter to get historical quotes from the inventor of
+[@quotablesatoshi.com](https://npub.world/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu) on nostr to get historical quotes from the inventor of
 Bitcoin in your timeline.
 
-{% include image.html path="/assets/images/bitcoin/projects/quotablesatoshi.png" link="https://twitter.com/QuotableSatoshi" %}
+{% include image.html path="/assets/images/bitcoin/projects/quotablesatoshi.png" link="https://npub.world/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu" %}
 
 * Nostr: [@quotablesatoshi.com](https://npub.world/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu)
 * Source: [GitHub](https://github.com/dergigi/quotable-satoshi)
