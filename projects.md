@@ -201,7 +201,7 @@ revised and adapted by myself.
 
 Building upon the great work of the Satoshi Nakamoto Institute, I wrote a nostr bot to
 disseminate the most insightful and interesting quotes of Satoshi Nakamoto. Simply follow
-[@quotablesatoshi.com](https://npub.world/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu) on nostr to get historical quotes from the inventor of
+[Quotable Satoshi](https://npub.world/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu) on nostr to get historical quotes from the inventor of
 Bitcoin in your timeline.
 
 {% include image.html path="/assets/images/bitcoin/projects/quotablesatoshi.png" link="https://npub.world/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu" %}
