@@ -12,6 +12,8 @@ subtitle: Words and Code for Bitcoin
 * Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop), [No Solutions](#no-solutions)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr)
 
+As of right now, I'm not involved in any of the projects listed below, and all of my solo projects are currently on hold, as 100% of my time is focused on building out [OpenSats](https://opensats.org).
+
 ---
 
 ### 21 Ways
