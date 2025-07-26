@@ -7,11 +7,10 @@ subtitle: Words and Code for Bitcoin
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
 * Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes)
 * Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
-* Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
-* Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop)
+* Code: [Jam](#jam), [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
+* Programs: [Sovereign Engineering](#sovereign-engineering)
+* Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop), [No Solutions](#no-solutions)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr)
-
-As of right now, I'm not involved in any of the projects listed below, and all of my solo projects are currently on hold, as 100% of my time is focused on building out [OpenSats](https://opensats.org).
 
 ---
 
@@ -109,6 +108,22 @@ to get random quotes in your timeline.
 [btc_quotes]: https://twitter.com/btc_quotes
 [API]: https://www.bitcoin-quotes.com/quotes/random.json
 
+
+### Jam
+
+Jam is a Web UI for JoinMarket, one of the oldest and most established Bitcoin
+privacy tools that exist. It is a community-effort to make JoinMarket easier to
+install and use.
+
+{% include image.html path="/assets/images/bitcoin/projects/jam.jpg" link="https://github.com/joinmarket-webui" %}
+
+* Website: [jamapp.org](https://jamapp.org)
+* Twitter: [@jamapporg](https://twitter.com/jamapporg)
+* Documentation: [jamdocs.org](https://jamdocs.org)
+* Installation: via [RaspiBlitz, Umbrel, or Citadel](https://jamdocs.org/software/installation/)
+* Source: [GitHub](https://github.com/joinmarket-webui/jam)
+
+
 ### Lightning Login
 
 [Lightning Login][ll] is a site to showcase LNURL-auth, a lightweight authentication
@@ -121,6 +136,7 @@ privacy.
 * Source: [GitHub](https://github.com/seetee-io/lnurl-auth-demo)
 
 [ll]: https://lightninglogin.live
+
 
 ### Opsec Swag
 
@@ -204,6 +220,20 @@ boosts, including short messages if they choose to do so.
 * Website: [seetee.io/podcast](https://seetee.io/podcast)
 * Source: [GitHub](https://github.com/closing-the-loop/closing-the-loop.github.io)
 
+### Jam
+
+Jam is a Web UI for JoinMarket, one of the oldest and most established Bitcoin
+privacy tools that exist. It is a community-effort to make JoinMarket easier to
+install and use.
+
+{% include image.html path="/assets/images/bitcoin/projects/jam.jpg" link="https://github.com/joinmarket-webui" %}
+
+* Website: [jamapp.org](https://jamapp.org)
+* Twitter: [@jamapporg](https://twitter.com/jamapporg)
+* Documentation: [jamdocs.org](https://jamdocs.org)
+* Installation: via [RaspiBlitz, Umbrel, or Citadel](https://jamdocs.org/software/installation/)
+* Source: [GitHub](https://github.com/joinmarket-webui/jam)
+
 ### Secret Satsa
 
 Secret Satsa is an experiment in altruism. Imagine it's Christmas time and you
@@ -246,6 +276,25 @@ Seriously.
 * Website: [fuckingshitcoins.com](https://fuckingshitcoins.com/)
 * Twitter: [#FuckingShitcoins](https://twitter.com/hashtag/FuckingShitcoins)
 * Source: [GitHub](https://github.com/fuckingshitcoins/fuckingshitcoins.github.io)
+
+### Sovereign Engineering
+
+The best way to build a better future is to, well, build it. [Sovereign Engineering](https://sovereignengineering.io/) was created to put the ideas of sovereign technology into practice. It started as an experiment: what happens if you bring 21 builders to Madeira for 6 weeks and let them focus on creating tools for a self-sovereign world? The result is an intense, in-person program focused on high-bandwidth collaboration and rapid shipping. No buzzwords, no bullshit. Just building cool shit on Bitcoin and nostr, with a demo day every Friday to hold everyone accountable.
+
+{% include image.html path="/assets/images/bitcoin/projects/sovereign-engineering.png" link="https://sovereignengineering.io" %}
+
+* Website: [sovereignengineering.io](https://sovereignengineering.io/)
+* Nostr: [sovereignengineering.io](https://npub.world/npub1s0veng2gvfwr62acrxhnqexq76sj6ldg3a5t935jy8e6w3shr5vsnwrmq5)
+
+### No Solutions
+
+Some of the best ideas aren't born in front of a screen, but on a long walk. The [No Solutions](https://sovereignengineering.io/podcast) podcast was born out of the many walks that took place during Sovereign Engineering, based on the simple premise that there are no easy solutions, only trade-offs. In a series of walking dialogues, the podcast explores what it means to build a better internet, embracing the idea that freedom is an engineering practice. The philosophy is to start ugly, iterate publicly, and keep walking. It's a journey, not a destination, and this podcast is its travel log.
+
+{% include image.html path="/assets/images/bitcoin/projects/no-solutions.png" link="https://sovereignengineering.io/podcast" %}
+
+* Website: [sovereignengineering.io/podcast](https://sovereignengineering.io/podcast)
+* Nostr: [no-solutions@sovereignengineering.io](https://npub.world/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n)
+* Platforms: [castr.me](https://castr.me), [Podcast Index](https://podcastindex.org), [RSS](https://feeds.castr.com/sovereign-engineering)
 
 ### Contribution: The Bitcoin Times
 
@@ -316,23 +365,23 @@ which you can find [on twitter][rvrpics].
 
 ### Code Contributions
 
-When I'm not writing I try to contribute to open-source projects where I can.
-However, my coding days are mostly over, so my contributions are mostly trivial
-fixes and contributions. I also made some trivial corrections to [BIP 2], [BIP
-16], and [BIP 69].
-
-In the past I used to be part of the [Swan][joined-swan] engineering team,
-and I published a set of [extended public key tools][xpub-tools] as open-source
-software while I was there.
-
-Today I mostly resort to [writing](/words) and [other stuff](/nostr). Follow me on GitHub to see what I'm up to.
+When I'm not writing I try to contribute to open source projects where I can.
+Apart from trivial fixes and contributions in various projects, I've worked on
+adding [Tor] and [Dojo] support to Samourai Wallet's Sentinel app for iOS (see
+[video]). I also made some corrections to [BIP 2], [BIP 16], and [BIP 69]. I
+used to be part of the [Swan][joined-swan] engineering team and published a set of
+[extended public key tools][xpub-tools] as open source software. Follow me on
+GitHub to see what I'm up to.
 
 * GitHub: [github.com/dergigi](https://github.com/dergigi)
 
+[Tor]: https://github.com/Samourai-Wallet/Sentinel-iOS/pull/11
+[Dojo]: https://github.com/Samourai-Wallet/Sentinel-iOS/pull/14
+[video]: https://twitter.com/dergigi/status/1259397717144547328?s=20
 [BIP 2]: https://github.com/bitcoin/bips/blob/master/bip-0002.mediawiki
 [BIP 16]: https://github.com/bitcoin/bips/blob/master/bip-0016.mediawiki
 [BIP 69]: https://github.com/bitcoin/bips/blob/master/bip-0069.mediawiki
-[xpub-tools]: https://github.com/swan-bitcoin/xpub-tool
 [joined-swan]: {% post_url /bitcoin/2020-08-18-why-i-joined-swan-bitcoin %}
+[xpub-tools]: https://github.com/swan-bitcoin/xpub-tool
 
 [value4value]: {{ '/busking' | absolute_url }}
