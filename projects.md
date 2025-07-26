@@ -45,6 +45,7 @@ Lessons. And 21 Lessons turned a book.
 {% include image.html path="/assets/images/bitcoin/projects/21lessons.png" link="https://21lessons.com" %}
 
 * Website: [21lessons.com][21lessons]
+* Nostr: [@21lessons.com](https://npub.world/npub1c48eccpffjsgq65x7j65zzv0877l4ylrl7j754agqe25xlp5yjdq3rvunf)
 * Purchase: [Paperback][paperback], [Kindle](https://amzn.to/3bvM49P), [Audiobook](https://amzn.to/2ZeUsYX)
 * Source: [GitHub](https://github.com/21-lessons/21lessons-book)
 
@@ -64,7 +65,7 @@ selecting and curating content.
 {% include image.html path="/assets/images/bitcoin/projects/bitcoin-resources.png" link="https://bitcoin-resources.com" %}
 
 * Website: [bitcoin-resources.com][bitcoin-resources]
-* Twitter: [@BtcResources](https://twitter.com/BtcResources)
+* Nostr: [@bitcoin-resources.com](https://npub.world/npub1ressrcmqgvqz3xuxdtamxmmv9ve6rxcf99fd694s6hutntfvcmdqvn56zk)
 * Contribute: [GitHub](https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/CONTRIBUTING.md), [Telegram](https://t.me/BitcoinResourcesCom)
 * Source: [GitHub](https://github.com/bitcoin-resources/bitcoin-resources.github.io)
 
@@ -105,11 +106,11 @@ to get random quotes in your timeline.
 {% include image.html path=randompath link="https://bitcoin-quotes.com" %}
 
 * Website: [bitcoin-quotes.com][bitcoin-quotes]
-* Twitter: [@btc_quotes][btc_quotes]
+* Nostr: [@bitcoin-quotes.com](https://npub.world/npub1satst5p5jcacfpagy3jxscf2s48d9dd0v6lfxms7frp9e6t2w5xstmsfjp)
 * Source: [GitHub](https://github.com/dergigi/btc-quotes)
 
 [bitcoin-quotes]: https://www.bitcoin-quotes.com/
-[btc_quotes]: https://twitter.com/btc_quotes
+
 [API]: https://www.bitcoin-quotes.com/quotes/random.json
 
 
@@ -122,7 +123,7 @@ install and use.
 {% include image.html path="/assets/images/bitcoin/projects/jam.png" link="https://github.com/joinmarket-webui" %}
 
 * Website: [jamapp.org](https://jamapp.org)
-* Twitter: [@jamapporg](https://twitter.com/jamapporg)
+* Nostr: [@jamapp.org](https://npub.world/npub1jamj9l9vsrra9m58y6syyjvfcf85wvev7pm3vvwqkr0e8vzdyhsqvhw852)
 * Documentation: [jamdocs.org](https://jamdocs.org)
 * Installation: via [RaspiBlitz, Umbrel, or Citadel](https://jamdocs.org/software/installation/)
 * Source: [GitHub](https://github.com/joinmarket-webui/jam)
@@ -172,7 +173,7 @@ of German translations.
 * Hosts: [Daniel], [Dennis], [Fab], [Gigi], [Markus]
 * Website: [einundzwanzig.space](https://einundzwanzig.space/)
 * Podcast: [einundzwanzig.space/podcast][einundzwanzig]
-* Twitter: [@\_einundzwanzig\_](https://twitter.com/_einundzwanzig_)
+* Nostr: [@einundzwanzig.space](https://npub.world/npub1qv02xpsc3lhxxx5x7xswf88w3u7kykft9ea7t78tz7ywxf7mxs9qrxujnc)
 * Community: [t.me/einundzwanzigpodcast](https://t.me/einundzwanzigpodcast)
 
 [Daniel]: https://twitter.com/danielwingen
@@ -205,10 +206,10 @@ Bitcoin in your timeline.
 
 {% include image.html path="/assets/images/bitcoin/projects/quotablesatoshi.png" link="https://twitter.com/QuotableSatoshi" %}
 
-* Twitter: [@QuotableSatoshi][quotablesatoshi]
-* Source: [GitHub](https://twitter.com/quotablesatoshi)
+* Nostr: [@quotablesatoshi.com](https://npub.world/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu)
+* Source: [GitHub](https://github.com/dergigi/quotable-satoshi)
 
-[quotablesatoshi]: https://twitter.com/quotablesatoshi
+
 
 ### Closing the Loop
 
@@ -233,7 +234,7 @@ install and use.
 {% include image.html path="/assets/images/bitcoin/projects/jam.jpg" link="https://github.com/joinmarket-webui" %}
 
 * Website: [jamapp.org](https://jamapp.org)
-* Twitter: [@jamapporg](https://twitter.com/jamapporg)
+* Nostr: [@jamapp.org](https://npub.world/npub1jamj9l9vsrra9m58y6syyjvfcf85wvev7pm3vvwqkr0e8vzdyhsqvhw852)
 * Documentation: [jamdocs.org](https://jamdocs.org)
 * Installation: via [RaspiBlitz, Umbrel, or Citadel](https://jamdocs.org/software/installation/)
 * Source: [GitHub](https://github.com/joinmarket-webui/jam)
