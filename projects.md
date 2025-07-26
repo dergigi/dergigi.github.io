@@ -312,7 +312,7 @@ not a destination, and this podcast is its travel log.
 
 * Website: [sovereignengineering.io/podcast](https://sovereignengineering.io/podcast)
 * Nostr: [no-solutions@sovereignengineering.io](https://npub.world/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n)
-* Platforms: [castr.me](https://castr.me), [Podcast Index](https://podcastindex.org), [RSS](https://feeds.castr.com/sovereign-engineering)
+* Platforms: [castr.me](https://castr.me), [Podcast Index](https://podcastindex.org), [RSS](https://sovereignengineering.io/dialogues.xml)
 
 ### Contribution: The Bitcoin Times
 
