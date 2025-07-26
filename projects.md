@@ -255,7 +255,7 @@ Seriously.
 The program has already produced notable projects including Blossom, Nutzaps, Wikifreedia, Nsite, TollGate, Zapstore, and more. Every Friday features a Demo Day where participants showcase what they've built, creating a rhythm of show → talk → build that drives momentum and rapid prototyping.
 
 * Website: [sovereignengineering.io](https://sovereignengineering.io/)
-* Twitter: [@SovEng](https://twitter.com/SovEng)
+* Nostr: [sovereignengineering.io](https://npub.world/npub1s0veng2gvfwr62acrxhnqexq76sj6ldg3a5t935jy8e6w3shr5vsnwrmq5)
 
 ### No Solutions
 
@@ -264,7 +264,8 @@ The program has already produced notable projects including Blossom, Nutzaps, Wi
 The podcast is available on various platforms including castr.me, Podcast Index, RSS, and nostr.
 
 * Website: [sovereignengineering.io/podcast](https://sovereignengineering.io/podcast)
-* Platforms: [castr.me](https://castr.me), [Podcast Index](https://podcastindex.org), [RSS](https://feeds.castr.com/sovereign-engineering), [nostr](https://nostr.com)
+* Nostr: [no-solutions@sovereignengineering.io](https://npub.world/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n)
+* Platforms: [castr.me](https://castr.me), [Podcast Index](https://podcastindex.org), [RSS](https://feeds.castr.com/sovereign-engineering)
 
 ### Contribution: The Bitcoin Times
 
