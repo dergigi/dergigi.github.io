@@ -231,7 +231,7 @@ Jam is a Web UI for JoinMarket, one of the oldest and most established Bitcoin
 privacy tools that exist. It is a community-effort to make JoinMarket easier to
 install and use.
 
-{% include image.html path="/assets/images/bitcoin/projects/jam.jpg" link="https://github.com/joinmarket-webui" %}
+{% include image.html path="/assets/images/bitcoin/projects/jam.png" link="https://github.com/joinmarket-webui" %}
 
 * Website: [jamapp.org](https://jamapp.org)
 * Nostr: [@jamapp.org](https://npub.world/npub1jamj9l9vsrra9m58y6syyjvfcf85wvev7pm3vvwqkr0e8vzdyhsqvhw852)
