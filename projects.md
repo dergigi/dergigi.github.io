@@ -225,20 +225,6 @@ boosts, including short messages if they choose to do so.
 * Website: [seetee.io/podcast](https://seetee.io/podcast)
 * Source: [GitHub](https://github.com/closing-the-loop/closing-the-loop.github.io)
 
-### Jam
-
-Jam is a Web UI for JoinMarket, one of the oldest and most established Bitcoin
-privacy tools that exist. It is a community-effort to make JoinMarket easier to
-install and use.
-
-{% include image.html path="/assets/images/bitcoin/projects/jam.png" link="https://github.com/joinmarket-webui" %}
-
-* Website: [jamapp.org](https://jamapp.org)
-* Nostr: [@jamapp.org](https://npub.world/npub1jamj9l9vsrra9m58y6syyjvfcf85wvev7pm3vvwqkr0e8vzdyhsqvhw852)
-* Documentation: [jamdocs.org](https://jamdocs.org)
-* Installation: via [RaspiBlitz, Umbrel, or Citadel](https://jamdocs.org/software/installation/)
-* Source: [GitHub](https://github.com/joinmarket-webui/jam)
-
 ### Secret Satsa
 
 Secret Satsa is an experiment in altruism. Imagine it's Christmas time and you
