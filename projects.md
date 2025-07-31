@@ -5,12 +5,12 @@ subtitle: Words and Code for Bitcoin
 ---
 
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
-* Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes)
+* Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes), [Value4Value](#value4value)
 * Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
-* Code: [Jam](#jam), [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
-* Programs: [Sovereign Engineering](#sovereign-engineering)
+* Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
+* Programs: [Sovereign Engineering](#sovereign-engineering), [OpenSats](#opensats)
 * Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop), [No Solutions](#no-solutions)
-* Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr)
+* Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr), [Human B](#contribution-human-b)
 
 As of right now, I'm not involved in any of the projects listed below, and all
 of my solo projects are currently on hold, as 100% of my time is focused on
@@ -114,19 +114,16 @@ to get random quotes in your timeline.
 [API]: https://www.bitcoin-quotes.com/quotes/random.json
 
 
-### Jam
+### Value4Value
 
-Jam is a Web UI for JoinMarket, one of the oldest and most established Bitcoin
-privacy tools that exist. It is a community-effort to make JoinMarket easier to
-install and use.
+[Value4Value][value4value] is a comprehensive resource about the Value4Value model - a monetization model, content format, and way of life that emphasizes freedom, openness, connection, and free speech. The site explores how this model enables direct relationships between creators and audiences, leading to dynamic feedback loops of co-creation. It covers the philosophy behind V4V, practical guides for implementation, and showcases successful applications like Podcasting 2.0 and Nostr's zaps.
 
-{% include image.html path="/assets/images/bitcoin/projects/jam.png" link="https://github.com/joinmarket-webui" %}
+{% include image.html path="/assets/images/bitcoin/projects/value4value.png" link="https://value4value.info" %}
 
-* Website: [jamapp.org](https://jamapp.org)
-* Nostr: [@jamapp.org](https://npub.world/npub1jamj9l9vsrra9m58y6syyjvfcf85wvev7pm3vvwqkr0e8vzdyhsqvhw852)
-* Documentation: [jamdocs.org](https://jamdocs.org)
-* Installation: via [RaspiBlitz, Umbrel, or Citadel](https://jamdocs.org/software/installation/)
-* Source: [GitHub](https://github.com/joinmarket-webui/jam)
+* Website: [value4value.info][value4value]
+* Contribute: [GitHub](https://github.com/value4value/value4value.info)
+
+[value4value]: https://value4value.info/
 
 
 ### Lightning Login
@@ -285,6 +282,16 @@ Friday to hold everyone accountable.
 * Website: [sovereignengineering.io](https://sovereignengineering.io/)
 * Nostr: [sovereignengineering.io](https://npub.world/npub1s0veng2gvfwr62acrxhnqexq76sj6ldg3a5t935jy8e6w3shr5vsnwrmq5)
 
+### OpenSats
+
+OpenSats is a 501(c)(3) public charity dedicated to supporting the developers and contributors of free and open-source software and projects that help Bitcoin flourish. We provide sustainable funding for contributors working on freedom tech and believe that Bitcoin and FOSS are essential for the future of the internet. All of our funding decisions are made by a transparent, public-facing, and accountable nine-person board.
+
+{% include image.html path="/assets/images/bitcoin/projects/opensats.png" link="https://opensats.org" %}
+
+* Website: [opensats.org](https://opensats.org/)
+* Donate: [General Fund](https://opensats.org/donate), [Operations Budget](https://opensats.org/donate)
+* Social: [GitHub](https://github.com/opensats), [Twitter](https://twitter.com/opensats), [Nostr](https://npub.world/npub10pensatlcfwktnvjjw2dtem38n6rvw8g6fv73h84cuacxn4c28eqyfn34f)
+
 ### No Solutions
 
 Some of the best ideas aren't born in front of a screen, but on a long walk. The
@@ -368,6 +375,16 @@ which you can find [on twitter][rvrpics].
 
 [rvr]: https://www.recklessvr.com/
 [rvrpics]: https://twitter.com/search?q=from%3Adergigi%20%20vr&src=typed_query&f=image
+
+### Contribution: Human B
+
+"Human B" is a documentary about six people from different countries and their individual journey down the Bitcoin rabbit hole. The film evolves around the question "What is Bitcoin?". Directed by Aaron Mucke & Eva Mühlenbäumer, this 73-minute documentary explores Bitcoin through the personal stories of people from Germany, USA, and Mexico, featuring interviews in German, English, and Spanish. I appear as one of the featured subjects in this documentary alongside Alessandro Cecere, Marc Friedrich, and others.
+
+{% include image.html path="/assets/images/bitcoin/projects/human-b.png" link="https://www.aaronmucke.com/work/humanb" %}
+
+* Website: [aaronmucke.com/work/humanb](https://www.aaronmucke.com/work/humanb)
+* Video: [Vimeo](https://vimeo.com/658711759), [YouTube](https://youtu.be/RFSBWrAllzw)
+* IMDb: [tt19373464](https://www.imdb.com/title/tt19373464/)
 
 ### Code Contributions
 
