@@ -8,13 +8,13 @@ subtitle: Words and Code for Bitcoin
 * Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes), [Value4Value](#value4value)
 * Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
 * Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
-* Programs: [Sovereign Engineering](#sovereign-engineering), [OpenSats](#opensats)
+* Programs: [Sovereign Engineering](#sovereign-engineering)
 * Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop), [No Solutions](#no-solutions)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr), [Human B](#contribution-human-b)
 
 As of right now, I'm not involved in any of the projects listed below, and all
 of my solo projects are currently on hold, as 100% of my time is focused on
-building out [OpenSats](https://opensats.org).
+building out [OpenSats](#opensats).
 
 ---
 
