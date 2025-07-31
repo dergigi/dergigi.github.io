@@ -8,7 +8,7 @@ subtitle: Words and Code for Bitcoin
 * Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes), [Value4Value](#value4value)
 * Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
 * Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
-* Programs: [Sovereign Engineering](#sovereign-engineering)
+* Programs: [Sovereign Engineering](#sovereign-engineering), [OpenSats](#opensats)
 * Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop), [No Solutions](#no-solutions)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr), [Human B](#contribution-human-b)
 
@@ -281,6 +281,17 @@ Friday to hold everyone accountable.
 
 * Website: [sovereignengineering.io](https://sovereignengineering.io/)
 * Nostr: [sovereignengineering.io](https://npub.world/npub1s0veng2gvfwr62acrxhnqexq76sj6ldg3a5t935jy8e6w3shr5vsnwrmq5)
+
+### OpenSats
+
+[OpenSats](https://opensats.org/) is a 501(c)(3) public charity that provides sustainable funding for free and open-source contributors working on freedom tech and projects that help Bitcoin flourish. We believe that free and open-source software in general, and Bitcoin in particular, is essential to the future of the internet and the world. Our transparent, public-facing, and accountable nine-person board makes all organizational decisions, ensuring no single person has control over funding decisions. We rely on donations to fund our operations and the projects we support, with separate funding for operations to ensure 100% of project donations go directly to the funded projects.
+
+{% include image.html path="/assets/images/bitcoin/projects/opensats.png" link="https://opensats.org" %}
+
+* Website: [opensats.org](https://opensats.org/)
+* Apply: [Funding Application](https://opensats.org/apply)
+* Donate: [General Fund](https://opensats.org/donate), [Operations Budget](https://opensats.org/donate)
+* Social: [GitHub](https://github.com/opensats), [Twitter](https://twitter.com/opensats), [Nostr](https://npub.world/npub1opensats)
 
 ### No Solutions
 
