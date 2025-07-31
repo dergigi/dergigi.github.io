@@ -284,14 +284,13 @@ Friday to hold everyone accountable.
 
 ### OpenSats
 
-[OpenSats](https://opensats.org/) is a 501(c)(3) public charity that provides sustainable funding for free and open-source contributors working on freedom tech and projects that help Bitcoin flourish. We believe that free and open-source software in general, and Bitcoin in particular, is essential to the future of the internet and the world. Our transparent, public-facing, and accountable nine-person board makes all organizational decisions, ensuring no single person has control over funding decisions. We rely on donations to fund our operations and the projects we support, with separate funding for operations to ensure 100% of project donations go directly to the funded projects.
+OpenSats is a 501(c)(3) public charity that provides sustainable funding for free and open-source contributors working on freedom tech and projects that help Bitcoin flourish. We believe that free and open-source software in general, and Bitcoin in particular, is essential to the future of the internet and the world. Our transparent, public-facing, and accountable nine-person board makes all organizational decisions, ensuring no single person has control over funding decisions. We rely on donations to fund our operations and the projects we support, with separate funding for operations to ensure 100% of project donations go directly to the funded projects.
 
 {% include image.html path="/assets/images/bitcoin/projects/opensats.png" link="https://opensats.org" %}
 
 * Website: [opensats.org](https://opensats.org/)
-* Apply: [Funding Application](https://opensats.org/apply)
 * Donate: [General Fund](https://opensats.org/donate), [Operations Budget](https://opensats.org/donate)
-* Social: [GitHub](https://github.com/opensats), [Twitter](https://twitter.com/opensats), [Nostr](https://npub.world/npub1opensats)
+* Social: [GitHub](https://github.com/opensats), [Twitter](https://twitter.com/opensats), [Nostr](https://npub.world/npub10pensatlcfwktnvjjw2dtem38n6rvw8g6fv73h84cuacxn4c28eqyfn34f)
 
 ### No Solutions
 
