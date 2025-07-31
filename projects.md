@@ -5,7 +5,7 @@ subtitle: Words and Code for Bitcoin
 ---
 
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
-* Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes)
+* Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes), [Value4Value](#value4value)
 * Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
 * Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
 * Programs: [Sovereign Engineering](#sovereign-engineering)
@@ -113,6 +113,17 @@ to get random quotes in your timeline.
 
 [API]: https://www.bitcoin-quotes.com/quotes/random.json
 
+
+### Value4Value
+
+[Value4Value][value4value] is a comprehensive resource about the Value4Value model - a monetization model, content format, and way of life that emphasizes freedom, openness, connection, and free speech. The site explores how this model enables direct relationships between creators and audiences, leading to dynamic feedback loops of co-creation. It covers the philosophy behind V4V, practical guides for implementation, and showcases successful applications like Podcasting 2.0 and Nostr's zaps.
+
+{% include image.html path="/assets/images/bitcoin/projects/value4value.png" link="https://value4value.info" %}
+
+* Website: [value4value.info][value4value]
+* Contribute: [GitHub](https://github.com/value4value/value4value.info)
+
+[value4value]: https://value4value.info/
 
 
 ### Lightning Login
