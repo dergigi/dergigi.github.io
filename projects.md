@@ -10,7 +10,7 @@ subtitle: Words and Code for Bitcoin
 * Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
 * Programs: [Sovereign Engineering](#sovereign-engineering)
 * Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop), [No Solutions](#no-solutions)
-* Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr)
+* Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr), [Human B](#contribution-human-b)
 
 As of right now, I'm not involved in any of the projects listed below, and all
 of my solo projects are currently on hold, as 100% of my time is focused on
@@ -354,6 +354,16 @@ which you can find [on twitter][rvrpics].
 
 [rvr]: https://www.recklessvr.com/
 [rvrpics]: https://twitter.com/search?q=from%3Adergigi%20%20vr&src=typed_query&f=image
+
+### Contribution: Human B
+
+"Human B" is a documentary about six people from different countries and their individual journey down the Bitcoin rabbit hole. The film evolves around the question "What is Bitcoin?". Directed by Aaron Mucke & Eva Mühlenbäumer, this 73-minute documentary explores Bitcoin through the personal stories of people from Germany, USA, and Mexico, featuring interviews in German, English, and Spanish. I appear as one of the featured subjects in this documentary alongside Alessandro Cecere, Marc Friedrich, and others.
+
+{% include image.html path="/assets/images/bitcoin/projects/human-b.png" link="https://www.aaronmucke.com/work/humanb" %}
+
+* Website: [aaronmucke.com/work/humanb](https://www.aaronmucke.com/work/humanb)
+* Video: [Vimeo](https://vimeo.com/658711759), [YouTube](https://youtu.be/RFSBWrAllzw)
+* IMDb: [tt19373464](https://www.imdb.com/title/tt19373464/)
 
 ### Code Contributions
 
