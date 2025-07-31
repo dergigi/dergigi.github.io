@@ -7,7 +7,7 @@ subtitle: Words and Code for Bitcoin
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
 * Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes)
 * Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
-* Code: [Jam](#jam), [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
+* Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
 * Programs: [Sovereign Engineering](#sovereign-engineering)
 * Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop), [No Solutions](#no-solutions)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr)
@@ -113,20 +113,6 @@ to get random quotes in your timeline.
 
 [API]: https://www.bitcoin-quotes.com/quotes/random.json
 
-
-### Jam
-
-Jam is a Web UI for JoinMarket, one of the oldest and most established Bitcoin
-privacy tools that exist. It is a community-effort to make JoinMarket easier to
-install and use.
-
-{% include image.html path="/assets/images/bitcoin/projects/jam.png" link="https://github.com/joinmarket-webui" %}
-
-* Website: [jamapp.org](https://jamapp.org)
-* Nostr: [@jamapp.org](https://npub.world/npub1jamj9l9vsrra9m58y6syyjvfcf85wvev7pm3vvwqkr0e8vzdyhsqvhw852)
-* Documentation: [jamdocs.org](https://jamdocs.org)
-* Installation: via [RaspiBlitz, Umbrel, or Citadel](https://jamdocs.org/software/installation/)
-* Source: [GitHub](https://github.com/joinmarket-webui/jam)
 
 
 ### Lightning Login
