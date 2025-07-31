@@ -14,7 +14,7 @@ subtitle: Words and Code for Bitcoin
 
 As of right now, I'm not involved in any of the projects listed below, and all
 of my solo projects are currently on hold, as 100% of my time is focused on
-building out [OpenSats](https://opensats.org).
+building out [OpenSats](#opensats).
 
 ---
 
