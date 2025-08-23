@@ -63,7 +63,7 @@ systems that came before it, just like Bitcoin is distinctly different from
 monies that came before it.
 
 As of today, the focus of nostr is mostly on short text notes, the so-called
-"type 1" events more commonly known as *tweets*.[^fn-kinds] However, as you should be aware
+"kind 1" events more commonly known as *tweets*.[^fn-kinds] However, as you should be aware
 by now, nostr is way more than just an alternative to twitter. It is a new
 paradigm. Change the note kind from `1` to `30023` and you don't have an
 alternative to Twitter, but a replacement for Medium, Substack, and all the
