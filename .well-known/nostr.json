@@ -13,6 +13,7 @@
   },
   "relays": {
     "6e468422dfb74a5738702a8823b9b28168abab8655faacb6853cd0ee15deee93": [
+      "wss://wot.dergigi.com",
       "wss://relay.dergigi.com",
       "wss://nostr.einundzwanzig.space",
       "wss://relay.damus.io",
@@ -21,6 +22,7 @@
       "wss://eden.nostr.land"
     ],
     "87570647ca3b7549e66cb6c4bb8d197f5bc91de73b58eb1ade78c8ddd5fec7eb": [
+      "wss://wot.dergigi.com",
       "wss://relay.dergigi.com",
       "wss://nostr.einundzwanzig.space",
       "wss://nostr.oxtr.dev",
@@ -28,6 +30,7 @@
       "wss://nos.lol"
     ],
     "875705d034963b8487a8246468612a854ed2b5af66be936e1e48c25ce96a750d": [
+      "wss://wot.dergigi.com",
       "wss://relay.dergigi.com",
       "wss://nostr.einundzwanzig.space",
       "wss://nostr.oxtr.dev",
@@ -35,6 +38,7 @@
       "wss://nos.lol"
     ],
     "46d1b9683c9e6cf4483a82b597b6934f368bee02ca23162002869979bccf6022": [
+      "wss://wot.dergigi.com",
       "wss://relay.dergigi.com",
       "wss://nostr.einundzwanzig.space",
       "wss://nostr.oxtr.dev",
@@ -42,6 +46,7 @@
       "wss://nos.lol"
     ],
     "0ffab7d9247132f14bcd38378b0acedc30d35e2b2670d89b7ae8c2d2c306af99": [
+      "wss://wot.dergigi.com",
       "wss://relay.dergigi.com",
       "wss://nostr.einundzwanzig.space",
       "wss://nostr.oxtr.dev",
@@ -49,6 +54,7 @@
       "wss://nos.lol"
     ],
     "875198796c3377b5f0a8eb5677b6ca909d0f6bdf8bc7a34d6089529b8c2f22ff": [
+      "wss://wot.dergigi.com",
       "wss://relay.dergigi.com",
       "wss://nostr.einundzwanzig.space",
       "wss://nostr.oxtr.dev",
@@ -56,6 +62,15 @@
       "wss://nos.lol"
     ],
     "83f03ed3d1a40f8c3bc14b00b0d619cf97efd9237a1c34ded7827b6e1ac9a76f": [
+      "wss://wot.dergigi.com",
+      "wss://relay.dergigi.com",
+      "wss://nostr.einundzwanzig.space",
+      "wss://nostr.oxtr.dev",
+      "wss://relay.damus.io",
+      "wss://nos.lol"
+    ],
+    "2e80c77b8b941f89897f457ae714f9b03e58337ac55df66a1c479f3109fce48d": [
+      "wss://wot.dergigi.com",
       "wss://relay.dergigi.com",
       "wss://nostr.einundzwanzig.space",
       "wss://nostr.oxtr.dev",
