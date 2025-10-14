@@ -9,7 +9,8 @@
     "socrates": "83f03ed3d1a40f8c3bc14b00b0d619cf97efd9237a1c34ded7827b6e1ac9a76f",
     "wisdom": "875198796c3377b5f0a8eb5677b6ca909d0f6bdf8bc7a34d6089529b8c2f22ff",
     "marky": "df476244bd2837d6939c317e3a942db922d6986d72f6d290b4f5899d6804e458",
-    "castr": "2e80c77b8b941f89897f457ae714f9b03e58337ac55df66a1c479f3109fce48d"
+    "castr": "2e80c77b8b941f89897f457ae714f9b03e58337ac55df66a1c479f3109fce48d",
+    "boris": "29dea8672f44ed164bfc83db3da5bd472001af70307f42277674cbc64d33013e"
   },
   "relays": {
     "6e468422dfb74a5738702a8823b9b28168abab8655faacb6853cd0ee15deee93": [
@@ -70,6 +71,14 @@
       "wss://nos.lol"
     ],
     "2e80c77b8b941f89897f457ae714f9b03e58337ac55df66a1c479f3109fce48d": [
+      "wss://wot.dergigi.com",
+      "wss://relay.dergigi.com",
+      "wss://nostr.einundzwanzig.space",
+      "wss://nostr.oxtr.dev",
+      "wss://relay.damus.io",
+      "wss://nos.lol"
+    ],
+    "29dea8672f44ed164bfc83db3da5bd472001af70307f42277674cbc64d33013e": [
       "wss://wot.dergigi.com",
       "wss://relay.dergigi.com",
       "wss://nostr.einundzwanzig.space",
