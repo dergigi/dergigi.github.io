@@ -221,12 +221,16 @@ read -r -a RELAY_ARR <<< "${RELAYS:-}"
 
 # Publish with nak (--confirm prompts before sending)
 # Note: nak uses NOSTR_SECRET_KEY env var automatically, no need for --sec flag
+echo "Publishing..."
 if (( ${#RELAY_ARR[@]} > 0 )); then
-  nak event -k 30023 --confirm "${RELAY_ARR[@]}" < "$OUT_FILE"
+  NAK_OUTPUT=$(nak event -k 30023 --confirm "${RELAY_ARR[@]}" < "$OUT_FILE" 2>&1)
 else
-  nak event -k 30023 --confirm < "$OUT_FILE"
+  NAK_OUTPUT=$(nak event -k 30023 --confirm < "$OUT_FILE" 2>&1)
 fi
 
 echo ""
 echo "✓ Published to Nostr!"
+echo ""
+echo "nak output:"
+echo "$NAK_OUTPUT"
 
