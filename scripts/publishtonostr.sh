@@ -116,6 +116,9 @@ BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
   s|!\[([^\]]*)\]\((/[^)#]+)(#[^)]+)?\)|![\$1](${SITE_URL}\$2)|g
 ")"
 
+# Convert three consecutive dashes to em-dash
+BODY_RAW="$(echo "$BODY_RAW" | sed 's/---/—/g')"
+
 # Strip HTML tags from body (NIP-23: MUST NOT support adding HTML to Markdown)
 # Replace <cite> tags with em-dash, then strip remaining HTML tags
 BODY="$(echo "$BODY_RAW" | sed -E 's/<cite[^>]*>/—/g' | sed -E 's/<\/cite>//g' | sed -E 's/<\/?[a-zA-Z][^>]*>//g')"
