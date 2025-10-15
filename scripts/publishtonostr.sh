@@ -133,6 +133,9 @@ fi
 # Replace <cite> tags with em-dash, then strip remaining HTML tags
 BODY="$(echo "$BODY_RAW" | sed -E 's/<cite[^>]*>/—/g' | sed -E 's/<\/cite>//g' | sed -E 's/<\/?[a-zA-Z][^>]*>//g')"
 
+# Convert double backslashes (markdown line breaks) to actual newlines
+BODY="$(echo "$BODY" | sed 's/\\\\$//')"
+
 # Use date from front matter or filename
 DATE_STR="${DATE_RAW:-$YEAR-$MONTH-$DAY}"
 PUBLISHED_AT="$(ruby -e 'require "time"; puts Time.parse(ARGV[0]).to_i' "$DATE_STR" 2>/dev/null || echo "")"
