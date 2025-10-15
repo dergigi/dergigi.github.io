@@ -105,12 +105,9 @@ TITLE="$(jq -r '.front_matter.title // empty' <<<"$POST_JSON")"
 DESC="$(jq -r '.front_matter.description // empty' <<<"$POST_JSON")"
 IMAGE_RAW="$(jq -r '.front_matter.image // empty' <<<"$POST_JSON")"
 DATE_RAW="$(jq -r '.front_matter.date // empty' <<<"$POST_JSON")"
+CATEGORY="$(jq -r '.front_matter.category // empty' <<<"$POST_JSON")"
 TAGS_JSON="$(jq -c '(.front_matter.tags // []) | map(tostring)' <<<"$POST_JSON")"
 BODY_RAW="$(jq -r '.body' <<<"$POST_JSON")"
-
-# Strip HTML tags from body (NIP-23: MUST NOT support adding HTML to Markdown)
-# Replace <cite> tags with em-dash, then strip remaining HTML tags
-BODY="$(echo "$BODY_RAW" | sed -E 's/<cite[^>]*>/—/g' | sed -E 's/<\/cite>//g' | sed -E 's/<\/?[a-zA-Z][^>]*>//g')"
 
 # Parse filename: YYYY-MM-DD-slug.markdown
 BASENAME="$(basename "$POST_FILE")"
@@ -119,6 +116,22 @@ MONTH="${BASENAME:5:2}"
 DAY="${BASENAME:8:2}"
 SLUG_EXT="${BASENAME:11}"
 SLUG="${SLUG_EXT%.*}"
+
+# Build post identifier for image paths (YYYY-MM-DD-slug)
+POST_ID="${YEAR}-${MONTH}-${DAY}-${SLUG}"
+
+# Convert Jekyll image includes to Markdown
+# {% include image.html name="image.jpg" %} -> ![](absolute-url-to-image)
+# The Jekyll include builds path as: /assets/images/{category}/{post-id}/{name}
+if [[ -n "$CATEGORY" ]]; then
+  BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
+    s|{% include image\.html name=\"([^\"]+)\" %}|![](${SITE_URL}/assets/images/${CATEGORY}/${POST_ID}/\$1)|g
+  ")"
+fi
+
+# Strip HTML tags from body (NIP-23: MUST NOT support adding HTML to Markdown)
+# Replace <cite> tags with em-dash, then strip remaining HTML tags
+BODY="$(echo "$BODY_RAW" | sed -E 's/<cite[^>]*>/—/g' | sed -E 's/<\/cite>//g' | sed -E 's/<\/?[a-zA-Z][^>]*>//g')"
 
 # Use date from front matter or filename
 DATE_STR="${DATE_RAW:-$YEAR-$MONTH-$DAY}"
