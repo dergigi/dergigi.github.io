@@ -10,3 +10,6 @@ _site
 scripts/spreadsheet_to_resource_mds/client_secret.json
 scripts/spreadsheet_to_resource_mds/__pycache__
 *.jpg.xml
+
+# Nostr drafts
+tmp/
