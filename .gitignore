@@ -1,5 +1,6 @@
 env
 .env
+scripts/.env
 .DS_Store
 .s3-website.json
 node_modules/
@@ -10,3 +11,6 @@ _site
 scripts/spreadsheet_to_resource_mds/client_secret.json
 scripts/spreadsheet_to_resource_mds/__pycache__
 *.jpg.xml
+
+# Nostr drafts
+tmp/
