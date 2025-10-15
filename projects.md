@@ -4,6 +4,7 @@ title: Projects
 subtitle: Words and Code for Bitcoin
 ---
 
+* Apps: [Ants](#ants), [Boris](#boris)
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
 * Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes), [Value4Value](#value4value)
 * Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
@@ -15,6 +16,41 @@ subtitle: Words and Code for Bitcoin
 As of right now, I'm not involved in any of the projects listed below, and all
 of my solo projects are currently on hold, as 100% of my time is focused on
 building out [OpenSats](#opensats).
+
+---
+
+### Ants
+
+[Ants][ants] is an advanced notes and text search tool built for Nostr. It provides an
+opinionated search interface that makes it easy to find and discover content across the
+nostrverse. With support for complex search queries, profile lookups, and direct entity
+resolution, Ants helps you navigate the decentralized social network with ease. The project
+was birthed at [Sovereign Engineering](#sovereign-engineering) and uses [Vertex](https://vertexlab.io)
+for personalized profile lookups and search ranking.
+
+{% include image.html path="/assets/images/bitcoin/projects/ants.png" link="https://ants.sh" %}
+
+* Website: [ants.sh][ants]
+* Source: [GitHub](https://github.com/dergigi/ants)
+
+[ants]: https://ants.sh/
+
+### Boris
+
+[Boris][boris] is a Nostr-native reading and highlighting app that provides a distraction-free
+environment for consuming long-form content. With clean typography, offline reading support,
+and social highlights, Boris makes it easy to read, annotate, and share your favorite articles
+and blog posts. Built on Nostr, all your highlights, bookmarks, and reading metadata belong to
+you and remain under your control. The project emphasizes simplicity and user ownership,
+making reading on the web a more personal and sovereign experience.
+
+{% include image.html path="/assets/images/bitcoin/projects/boris.png" link="https://www.readwithboris.com" %}
+
+* Website: [readwithboris.com][boris]
+* App: [read.withboris.com](https://read.withboris.com)
+* Source: [GitHub](https://github.com/dergigi/boris)
+
+[boris]: https://www.readwithboris.com/
 
 ---
 
