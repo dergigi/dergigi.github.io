@@ -32,6 +32,7 @@
       "wss://nostr.oxtr.dev",
       "wss://relay.damus.io",
       "wss://nos.lol",
+      "wss://nostr.cercatrova.me",
       "ws://localhost:10547",
       "ws://localhost:4869"
     ],
@@ -42,6 +43,7 @@
       "wss://nostr.oxtr.dev",
       "wss://relay.damus.io",
       "wss://nos.lol",
+      "wss://nostr.cercatrova.me",
       "ws://localhost:10547",
       "ws://localhost:4869"
     ],
@@ -52,6 +54,7 @@
       "wss://nostr.oxtr.dev",
       "wss://relay.damus.io",
       "wss://nos.lol",
+      "wss://nostr.cercatrova.me",
       "ws://localhost:10547",
       "ws://localhost:4869"
     ],
@@ -62,6 +65,7 @@
       "wss://nostr.oxtr.dev",
       "wss://relay.damus.io",
       "wss://nos.lol",
+      "wss://nostr.cercatrova.me",
       "ws://localhost:10547",
       "ws://localhost:4869"
     ],
@@ -72,6 +76,7 @@
       "wss://nostr.oxtr.dev",
       "wss://relay.damus.io",
       "wss://nos.lol",
+      "wss://nostr.cercatrova.me",
       "ws://localhost:10547",
       "ws://localhost:4869"
     ],
@@ -82,6 +87,7 @@
       "wss://nostr.oxtr.dev",
       "wss://relay.damus.io",
       "wss://nos.lol",
+      "wss://nostr.cercatrova.me",
       "ws://localhost:10547",
       "ws://localhost:4869"
     ],
@@ -92,6 +98,7 @@
       "wss://nostr.oxtr.dev",
       "wss://relay.damus.io",
       "wss://nos.lol",
+      "wss://nostr.cercatrova.me",
       "ws://localhost:10547",
       "ws://localhost:4869"
     ],
@@ -102,6 +109,7 @@
       "wss://nostr.oxtr.dev",
       "wss://relay.damus.io",
       "wss://nos.lol",
+      "wss://nostr.cercatrova.me",
       "ws://localhost:10547",
       "ws://localhost:4869"
     ]
