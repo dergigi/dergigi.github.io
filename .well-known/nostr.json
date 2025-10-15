@@ -20,7 +20,8 @@
       "wss://relay.damus.io",
       "wss://relay.nostr.bg",
       "wss://nos.lol",
-      "wss://eden.nostr.land"
+      "wss://eden.nostr.land",
+      "wss://nostr.cercatrova.me"
     ],
     "87570647ca3b7549e66cb6c4bb8d197f5bc91de73b58eb1ade78c8ddd5fec7eb": [
       "wss://wot.dergigi.com",
