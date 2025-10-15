@@ -259,7 +259,7 @@ if [[ -n "$NADDR" ]]; then
   echo "Updating post front matter with Nostr link..."
   
   # Use Ruby to update the front matter
-  ruby -ryaml -e '
+  ruby -ryaml -rdate -e '
     path = ARGV[0]
     url = ARGV[1]
     lines = File.readlines(path)
