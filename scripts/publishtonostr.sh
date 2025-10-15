@@ -133,8 +133,8 @@ fi
 # Replace <cite> tags with em-dash, then strip remaining HTML tags
 BODY="$(echo "$BODY_RAW" | sed -E 's/<cite[^>]*>/—/g' | sed -E 's/<\/cite>//g' | sed -E 's/<\/?[a-zA-Z][^>]*>//g')"
 
-# Convert double backslashes (markdown line breaks) to actual newlines
-BODY="$(echo "$BODY" | sed 's/\\\\$//')"
+# Convert double backslashes (markdown line breaks) to double newlines
+BODY="$(echo "$BODY" | perl -pe 's/\\\\$/\n/')"
 
 # Use date from front matter or filename
 DATE_STR="${DATE_RAW:-$YEAR-$MONTH-$DAY}"
