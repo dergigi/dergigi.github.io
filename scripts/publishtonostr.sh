@@ -119,6 +119,14 @@ BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
 # Convert three consecutive dashes to em-dash
 BODY_RAW="$(echo "$BODY_RAW" | sed 's/---/—/g')"
 
+# Convert Jekyll absolute_url filter to actual absolute URLs
+# {{ '/path' | absolute_url }} -> https://site.com/path
+# {{ '2022/04/03/post/#anchor' | absolute_url }} -> https://site.com/2022/04/03/post/#anchor
+BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
+  s|{{ '/?([^']+)' \| absolute_url }}|${SITE_URL}/\$1|g;
+  s|{{ \"/?([^\"]+)\" \| absolute_url }}|${SITE_URL}/\$1|g;
+")"
+
 # Strip HTML tags from body (NIP-23: MUST NOT support adding HTML to Markdown)
 # Replace <cite> tags with em-dash, then strip remaining HTML tags
 BODY="$(echo "$BODY_RAW" | sed -E 's/<cite[^>]*>/—/g' | sed -E 's/<\/cite>//g' | sed -E 's/<\/?[a-zA-Z][^>]*>//g')"
