@@ -20,14 +20,14 @@ ruby --version
 
 **Generate JSON draft (no publish):**
 ```bash
-scripts/nostrdraft.sh collections/_posts/2024-11-15-he-hanged-himself-in-the-morning.markdown
-# Output: tmp/nostr-drafts/2024-11-15-he-hanged-himself-in-the-morning.json
+scripts/nostrdraft.sh collections/_posts/2020-06-23-dare.markdown
+# Output: tmp/nostr-drafts/2020-06-23-dare.json
 ```
 
 **Publish to Nostr with confirmation:**
 ```bash
 export NOSTR_SECRET_KEY="nsec1..."  # your nostr secret key
-scripts/nostrdraft.sh collections/_posts/2024-11-15-he-hanged-himself-in-the-morning.markdown
+scripts/nostrdraft.sh collections/_posts/2020-06-23-dare.markdown
 ```
 
 **Batch process all posts:**
@@ -39,7 +39,7 @@ find collections/_posts -name '*.markdown' -print0 | xargs -0 -n1 scripts/nostrd
 **Custom relays:**
 ```bash
 export RELAYS="wss://relay.dergigi.com wss://relay.damus.io wss://nos.lol"
-scripts/nostrdraft.sh collections/_posts/2024-11-15-he-hanged-himself-in-the-morning.markdown
+scripts/nostrdraft.sh collections/_posts/2020-06-23-dare.markdown
 ```
 
 ### How it works
