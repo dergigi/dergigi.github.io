@@ -252,3 +252,44 @@ fi
 echo ""
 echo "✓ Published to Nostr!"
 
+# Update the post file with the naddr link in front matter
+if [[ -n "$NADDR" ]]; then
+  BORIS_URL="https://read.withboris.com/a/$NADDR"
+  echo ""
+  echo "Updating post front matter with Nostr link..."
+  
+  # Use Ruby to update the front matter
+  ruby -ryaml -e '
+    path = ARGV[0]
+    url = ARGV[1]
+    lines = File.readlines(path)
+    
+    # Find front matter boundaries
+    i1 = lines.index { |l| l.strip == "---" }
+    i2 = i1 && lines[(i1+1)..-1].index { |l| l.strip == "---" }
+    
+    if i1 && i2
+      fm_lines = lines[(i1+1)..(i1+1+i2-1)]
+      body_lines = lines[(i1+1+i2+1)..-1] || []
+      
+      # Parse front matter
+      fm = YAML.safe_load(fm_lines.join, permitted_classes: [Date, Time], aliases: true) || {}
+      
+      # Update or add updated_version field
+      fm["updated_version"] = url
+      
+      # Write back to file
+      File.open(path, "w") do |f|
+        f.puts "---"
+        f.write YAML.dump(fm).sub(/^---\n/, "")
+        f.puts "---"
+        f.write body_lines.join
+      end
+      
+      puts "✓ Added updated_version: #{url}"
+    else
+      puts "Warning: Could not parse front matter"
+    end
+  ' "$POST_FILE" "$BORIS_URL"
+fi
+
