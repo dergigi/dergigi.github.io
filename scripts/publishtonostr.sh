@@ -110,6 +110,12 @@ if [[ -n "$CATEGORY" ]]; then
   ")"
 fi
 
+# Convert relative Markdown images to absolute URLs, stripping hash fragments
+# ![alt](/path/to/image.jpg#full) -> ![alt](https://site.com/path/to/image.jpg)
+BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
+  s|!\[([^\]]*)\]\((/[^)#]+)(#[^)]+)?\)|![\$1](${SITE_URL}\$2)|g
+")"
+
 # Strip HTML tags from body (NIP-23: MUST NOT support adding HTML to Markdown)
 # Replace <cite> tags with em-dash, then strip remaining HTML tags
 BODY="$(echo "$BODY_RAW" | sed -E 's/<cite[^>]*>/—/g' | sed -E 's/<\/cite>//g' | sed -E 's/<\/?[a-zA-Z][^>]*>//g')"
