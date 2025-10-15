@@ -4,7 +4,7 @@ Utility scripts for managing the site.
 
 ## Publishing to Nostr
 
-The `nostrdraft.sh` script converts Jekyll blog posts to [NIP-23](https://nips.nostr.com/23) long-form drafts (kind 30024) and publishes them to Nostr.
+The `publishtonostr.sh` script converts Jekyll blog posts to [NIP-23](https://nips.nostr.com/23) long-form content (kind 30023) and publishes them to Nostr.
 
 ### Prerequisites
 
@@ -28,37 +28,38 @@ RELAYS="wss://relay.dergigi.com wss://relay.damus.io wss://nos.lol"
 
 Then run the script:
 ```bash
-scripts/nostrdraft.sh collections/_posts/2020-06-23-dare.markdown
+scripts/publishtonostr.sh collections/_posts/2020-06-23-dare.markdown
 ```
 
 **Option 2: Set environment variables directly**
 
 ```bash
 export NOSTR_SECRET_KEY="nsec1..."
-scripts/nostrdraft.sh collections/_posts/2020-06-23-dare.markdown
+scripts/publishtonostr.sh collections/_posts/2020-06-23-dare.markdown
 ```
 
-**Generate JSON draft only (no publish):**
+**Generate JSON only (no publish):**
 ```bash
 # Without NOSTR_SECRET_KEY set, script only generates JSON
-scripts/nostrdraft.sh collections/_posts/2020-06-23-dare.markdown
-# Output: tmp/nostr-drafts/2020-06-23-dare.json
+scripts/publishtonostr.sh collections/_posts/2020-06-23-dare.markdown
+# Output: tmp/nostr-events/2020-06-23-dare.json
 ```
 
 **Batch process all posts:**
 ```bash
 # With .env file configured, simply:
-find collections/_posts -name '*.markdown' -print0 | xargs -0 -n1 scripts/nostrdraft.sh
+find collections/_posts -name '*.markdown' -print0 | xargs -0 -n1 scripts/publishtonostr.sh
 ```
 
 ### How it works
 
 The script:
 1. Parses Jekyll front matter (`title`, `description`, `image`, `tags`, `date`)
-2. Constructs a NIP-23 event with proper metadata tags
-3. Uses the canonical URL path as the `d` tag for edit tracking
-4. Saves JSON to `tmp/nostr-drafts/` for review
-5. Publishes to Nostr with `--confirm` (requires manual approval)
+2. Constructs a NIP-23 kind:30023 event with proper metadata tags
+3. Uses the kebab-case slug as the `d` tag for edit tracking
+4. Strips HTML tags and replaces `<cite>` with em-dashes
+5. Saves JSON to `tmp/nostr-events/` for review
+6. Publishes to Nostr with `--confirm` (requires manual approval)
 
 See [NIP-23](https://nips.nostr.com/23) for the long-form content specification.
 
@@ -66,5 +67,5 @@ See [NIP-23](https://nips.nostr.com/23) for the long-form content specification.
 
 - `NOSTR_SECRET_KEY` - Your nostr secret key (nsec1..., hex, or bunker://...). If unset, script only generates JSON without publishing.
 - `RELAYS` - Space-separated relay URLs (optional; defaults to nak's configured relays)
-- `OUT_DIR` - Directory for JSON drafts (default: tmp/nostr-drafts)
+- `OUT_DIR` - Directory for JSON events (default: tmp/nostr-events)
 

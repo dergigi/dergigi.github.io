@@ -1,35 +1,35 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# nostrdraft.sh - Publish Jekyll posts to Nostr as NIP-23 long-form drafts (kind 30024)
+# publishtonostr.sh - Publish Jekyll posts to Nostr as NIP-23 long-form content (kind 30023)
 #
 # Usage:
-#   scripts/nostrdraft.sh PATH_TO_POST.markdown
+#   scripts/publishtonostr.sh PATH_TO_POST.markdown
 #
 # Environment Variables:
 #   NOSTR_SECRET_KEY  Secret key for nak (nsec1..., hex, or bunker://...)
 #                     If unset, script will only generate JSON without publishing.
 #   RELAYS            Space-separated relay URLs (optional; defaults to nak's configured relays)
-#   OUT_DIR           Directory for JSON drafts (default: tmp/nostr-drafts)
+#   OUT_DIR           Directory for JSON events (default: tmp/nostr-events)
 #
 # Examples:
 #   # Generate JSON only (no publish)
-#   scripts/nostrdraft.sh collections/_posts/2024-11-15-he-hanged-himself-in-the-morning.markdown
+#   scripts/publishtonostr.sh collections/_posts/2020-06-23-dare.markdown
 #
-#   # Publish as draft with confirmation
+#   # Publish with confirmation
 #   export NOSTR_SECRET_KEY="nsec1..."
-#   scripts/nostrdraft.sh collections/_posts/2024-11-15-he-hanged-himself-in-the-morning.markdown
+#   scripts/publishtonostr.sh collections/_posts/2020-06-23-dare.markdown
 #
 #   # Batch process all posts
 #   export NOSTR_SECRET_KEY="nsec1..."
-#   find collections/_posts -name '*.markdown' -print0 | xargs -0 -n1 scripts/nostrdraft.sh
+#   find collections/_posts -name '*.markdown' -print0 | xargs -0 -n1 scripts/publishtonostr.sh
 #
 # Requirements: nak, jq, ruby
 
 REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 CONFIG_YML="$REPO_DIR/_config.yml"
-OUT_DIR="${OUT_DIR:-$REPO_DIR/tmp/nostr-drafts}"
+OUT_DIR="${OUT_DIR:-$REPO_DIR/tmp/nostr-events}"
 POST_FILE="${1:-}"
 
 # Source .env file if it exists in the scripts directory
@@ -171,12 +171,12 @@ EVENT_JSON="$(jq -n \
   }
 ')"
 
-# Save JSON draft
+# Save JSON event
 mkdir -p "$OUT_DIR"
 OUT_FILE="$OUT_DIR/${YEAR}-${MONTH}-${DAY}-${SLUG}.json"
 printf '%s\n' "$EVENT_JSON" > "$OUT_FILE"
 
-echo "✓ Draft JSON saved: $OUT_FILE"
+echo "✓ Event JSON saved: $OUT_FILE"
 echo "  Title: $TITLE"
 echo "  d-tag: $D_TAG"
 echo "  Canonical: $CANON_URL"
@@ -191,7 +191,7 @@ if [[ -z "${NOSTR_SECRET_KEY:-}" ]]; then
 fi
 
 echo ""
-echo "Publishing to Nostr as kind:30024 (draft) with confirmation..."
+echo "Publishing to Nostr as kind:30023 (long-form content) with confirmation..."
 
 # Build relay arguments
 read -r -a RELAY_ARR <<< "${RELAYS:-}"
@@ -199,11 +199,11 @@ read -r -a RELAY_ARR <<< "${RELAYS:-}"
 # Publish with nak (--confirm prompts before sending)
 # Note: nak uses NOSTR_SECRET_KEY env var automatically, no need for --sec flag
 if (( ${#RELAY_ARR[@]} > 0 )); then
-  nak event -k 30024 --confirm "${RELAY_ARR[@]}" < "$OUT_FILE"
+  nak event -k 30023 --confirm "${RELAY_ARR[@]}" < "$OUT_FILE"
 else
-  nak event -k 30024 --confirm < "$OUT_FILE"
+  nak event -k 30023 --confirm < "$OUT_FILE"
 fi
 
 echo ""
-echo "✓ Draft published to Nostr!"
+echo "✓ Published to Nostr!"
 
