@@ -214,34 +214,35 @@ if [[ -z "${NOSTR_SECRET_KEY:-}" ]]; then
 fi
 
 echo ""
-echo "Publishing to Nostr as kind:30023 (long-form content) with confirmation..."
+echo "Signing event..."
 
-# Build relay arguments
-read -r -a RELAY_ARR <<< "${RELAYS:-}"
-
-# First, sign the event to get the pubkey without publishing yet
-# This creates a signed event with pubkey included
+# First, sign the event to get the signed JSON with pubkey
 SIGNED_EVENT_FILE=$(mktemp)
 trap 'rm -f "$SIGNED_EVENT_FILE"' EXIT
 
-echo "Signing event..."
-nak event -k 30023 --sign-only < "$OUT_FILE" > "$SIGNED_EVENT_FILE"
+nak event -k 30023 < "$OUT_FILE" > "$SIGNED_EVENT_FILE" 2>&1
 
-# Extract pubkey from signed event
+# Extract pubkey from the signed event JSON
 PUBKEY=$(jq -r '.pubkey // empty' < "$SIGNED_EVENT_FILE")
 
 if [[ -n "$PUBKEY" ]]; then
   # Construct the naddr identifier
   NADDR=$(nak encode naddr --kind 30023 --pubkey "$PUBKEY" --identifier "$D_TAG" 2>/dev/null || echo "")
   if [[ -n "$NADDR" ]]; then
+    echo ""
+    echo "Event signed successfully!"
     echo "  naddr: $NADDR"
     echo "  Read on Nostr: https://read.withboris.com/a/$NADDR"
     echo ""
   fi
 fi
 
-# Now publish with confirmation
-# Publish with nak (--confirm prompts before sending)
+echo "Publishing to Nostr as kind:30023 (long-form content) with confirmation..."
+
+# Build relay arguments
+read -r -a RELAY_ARR <<< "${RELAYS:-}"
+
+# Publish the signed event with confirmation
 if (( ${#RELAY_ARR[@]} > 0 )); then
   nak event --confirm "${RELAY_ARR[@]}" < "$SIGNED_EVENT_FILE"
 else
