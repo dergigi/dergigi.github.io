@@ -79,26 +79,7 @@ if [[ -z "$SITE_URL" ]]; then
 fi
 
 # Parse Jekyll front matter and body into JSON
-POST_JSON="$(ruby -ryaml -rjson -rdate -e '
-path = ARGV[0]
-lines = File.readlines(path)
-
-# Find front matter boundaries (between --- markers)
-i1 = lines.index { |l| l.strip == "---" }
-i2 = i1 && lines[(i1+1)..-1].index { |l| l.strip == "---" }
-
-if i1 && i2
-  fm_lines = lines[(i1+1)..(i1+1+i2-1)]
-  body_lines = lines[(i1+1+i2+1)..-1] || []
-  fm = YAML.safe_load(fm_lines.join, permitted_classes: [Date, Time], aliases: true) || {}
-  body = body_lines.join.strip
-else
-  fm = {}
-  body = lines.join.strip
-end
-
-print({front_matter: fm, body: body}.to_json)
-' "$POST_FILE")"
+POST_JSON="$("$SCRIPT_DIR/jekyll_frontmatter.rb" read "$POST_FILE")"
 
 # Extract front matter fields
 TITLE="$(jq -r '.front_matter.title // empty' <<<"$POST_JSON")"
@@ -121,17 +102,37 @@ SLUG="${SLUG_EXT%.*}"
 POST_ID="${YEAR}-${MONTH}-${DAY}-${SLUG}"
 
 # Convert Jekyll image includes to Markdown
-# {% include image.html name="image.jpg" %} -> ![](absolute-url-to-image)
+# {% include image.html name="image.jpg" [caption="..."] %} -> ![](absolute-url-to-image)
 # The Jekyll include builds path as: /assets/images/{category}/{post-id}/{name}
 if [[ -n "$CATEGORY" ]]; then
   BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
-    s|{% include image\.html name=\"([^\"]+)\" %}|![](${SITE_URL}/assets/images/${CATEGORY}/${POST_ID}/\$1)|g
+    s|{% include image\.html name=\"([^\"]+)\"[^}]*%}|![](${SITE_URL}/assets/images/${CATEGORY}/${POST_ID}/\$1)|g
   ")"
 fi
+
+# Convert relative Markdown images to absolute URLs, stripping hash fragments
+# ![alt](/path/to/image.jpg#full) -> ![alt](https://site.com/path/to/image.jpg)
+BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
+  s|!\[([^\]]*)\]\((/[^)#]+)(#[^)]+)?\)|![\$1](${SITE_URL}\$2)|g
+")"
+
+# Convert three consecutive dashes to em-dash
+BODY_RAW="$(echo "$BODY_RAW" | sed 's/---/—/g')"
+
+# Convert Jekyll absolute_url filter to actual absolute URLs
+# {{ '/path' | absolute_url }} -> https://site.com/path
+# {{ '2022/04/03/post/#anchor' | absolute_url }} -> https://site.com/2022/04/03/post/#anchor
+BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
+  s|{{ '/?([^']+)' \| absolute_url }}|${SITE_URL}/\$1|g;
+  s|{{ \"/?([^\"]+)\" \| absolute_url }}|${SITE_URL}/\$1|g;
+")"
 
 # Strip HTML tags from body (NIP-23: MUST NOT support adding HTML to Markdown)
 # Replace <cite> tags with em-dash, then strip remaining HTML tags
 BODY="$(echo "$BODY_RAW" | sed -E 's/<cite[^>]*>/—/g' | sed -E 's/<\/cite>//g' | sed -E 's/<\/?[a-zA-Z][^>]*>//g')"
+
+# Convert double backslashes (markdown line breaks) to two spaces + newline
+BODY="$(echo "$BODY" | perl -pe 's/\\\\$/  /')"
 
 # Use date from front matter or filename
 DATE_STR="${DATE_RAW:-$YEAR-$MONTH-$DAY}"
@@ -145,6 +146,13 @@ fi
 # Build canonical path and URL
 CANON_PATH="/$YEAR/$MONTH/$DAY/$SLUG/"
 CANON_URL="${SITE_URL%/}${CANON_PATH}"
+
+# Append footer with link to original article
+BODY="${BODY}
+
+---
+
+This article first appeared on [dergigi.com](${CANON_URL})."
 
 # Resolve image to absolute URL
 if [[ -n "$IMAGE_RAW" ]]; then
@@ -204,19 +212,57 @@ if [[ -z "${NOSTR_SECRET_KEY:-}" ]]; then
 fi
 
 echo ""
+echo "Signing event..."
+
+# First, sign the event to get the signed JSON with pubkey
+SIGNED_EVENT_FILE=$(mktemp)
+trap 'rm -f "$SIGNED_EVENT_FILE"' EXIT
+
+nak event -k 30023 < "$OUT_FILE" > "$SIGNED_EVENT_FILE"
+
+# Extract pubkey from the signed event JSON
+PUBKEY=$(jq -r '.pubkey // empty' < "$SIGNED_EVENT_FILE")
+
+if [[ -n "$PUBKEY" ]]; then
+  # Construct the naddr identifier
+  NADDR=$(nak encode naddr --kind 30023 --pubkey "$PUBKEY" --identifier "$D_TAG" 2>/dev/null || echo "")
+  if [[ -n "$NADDR" ]]; then
+    echo ""
+    echo "Event signed successfully!"
+    echo "  naddr: $NADDR"
+    echo "  Read on Nostr: https://read.withboris.com/a/$NADDR"
+    echo ""
+  fi
+fi
+
 echo "Publishing to Nostr as kind:30023 (long-form content) with confirmation..."
 
 # Build relay arguments
 read -r -a RELAY_ARR <<< "${RELAYS:-}"
 
-# Publish with nak (--confirm prompts before sending)
-# Note: nak uses NOSTR_SECRET_KEY env var automatically, no need for --sec flag
+# Publish the signed event with confirmation
 if (( ${#RELAY_ARR[@]} > 0 )); then
-  nak event -k 30023 --confirm "${RELAY_ARR[@]}" < "$OUT_FILE"
+  nak event --confirm "${RELAY_ARR[@]}" < "$SIGNED_EVENT_FILE"
 else
-  nak event -k 30023 --confirm < "$OUT_FILE"
+  nak event --confirm < "$SIGNED_EVENT_FILE"
 fi
 
 echo ""
 echo "✓ Published to Nostr!"
+
+# Update the post file with the naddr link in front matter
+if [[ -n "$NADDR" ]]; then
+  BORIS_URL="https://read.withboris.com/a/$NADDR"
+  echo ""
+  echo "Updating post front matter with Nostr link..."
+  "$SCRIPT_DIR/jekyll_frontmatter.rb" update "$POST_FILE" "updated_version" "$BORIS_URL"
+  
+  # Commit the frontmatter change
+  echo ""
+  echo "Committing frontmatter update..."
+  git add "$POST_FILE"
+  git commit -m "chore: add Nostr reader link to $(basename "$POST_FILE")" \
+    -m "Added updated_version: $BORIS_URL"
+  echo "✓ Changes committed"
+fi
 

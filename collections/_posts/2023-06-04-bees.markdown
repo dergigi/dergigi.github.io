@@ -7,7 +7,7 @@ description: A note on the busyness of bees.
 image: /assets/images/bees.jpg
 author: Gigi
 category: photography
-source: https://habla.news/a/naddr1qqxnzd3cx5urjd35xg6rwwpeqgsxu35yyt0mwjjh8pcz4zprhxegz69t4wr9t74vk6zne58wzh0waycrqsqqqa28pqfh0e
+source: https://read.withboris.com/a/naddr1qqxnzd3cx5urjd35xg6rwwpeqgsxu35yyt0mwjjh8pcz4zprhxegz69t4wr9t74vk6zne58wzh0waycrqsqqqa28pqfh0e
 tags:
   - Photography
 ---
