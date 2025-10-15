@@ -221,16 +221,23 @@ read -r -a RELAY_ARR <<< "${RELAYS:-}"
 
 # Publish with nak (--confirm prompts before sending)
 # Note: nak uses NOSTR_SECRET_KEY env var automatically, no need for --sec flag
-echo "Publishing..."
 if (( ${#RELAY_ARR[@]} > 0 )); then
-  NAK_OUTPUT=$(nak event -k 30023 --confirm "${RELAY_ARR[@]}" < "$OUT_FILE" 2>&1)
+  nak event -k 30023 --confirm "${RELAY_ARR[@]}" < "$OUT_FILE"
 else
-  NAK_OUTPUT=$(nak event -k 30023 --confirm < "$OUT_FILE" 2>&1)
+  nak event -k 30023 --confirm < "$OUT_FILE"
 fi
 
 echo ""
 echo "✓ Published to Nostr!"
 echo ""
-echo "nak output:"
-echo "$NAK_OUTPUT"
+
+# Construct and display the naddr identifier
+PUBKEY=$(nak key public "$NOSTR_SECRET_KEY" 2>/dev/null || echo "")
+if [[ -n "$PUBKEY" ]]; then
+  NADDR=$(nak encode naddr --kind 30023 --pubkey "$PUBKEY" --identifier "$D_TAG" 2>/dev/null || echo "")
+  if [[ -n "$NADDR" ]]; then
+    echo "naddr: $NADDR"
+    echo "Read on Nostr: https://read.withboris.com/a/$NADDR"
+  fi
+fi
 
