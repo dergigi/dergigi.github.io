@@ -146,6 +146,13 @@ fi
 CANON_PATH="/$YEAR/$MONTH/$DAY/$SLUG/"
 CANON_URL="${SITE_URL%/}${CANON_PATH}"
 
+# Append footer with link to original article
+BODY="${BODY}
+
+---
+
+This article first appeared on [dergigi.com](${CANON_URL})."
+
 # Resolve image to absolute URL
 if [[ -n "$IMAGE_RAW" ]]; then
   if [[ "$IMAGE_RAW" =~ ^https?:// ]]; then
