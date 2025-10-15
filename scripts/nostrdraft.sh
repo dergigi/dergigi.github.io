@@ -1,0 +1,200 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# nostrdraft.sh - Publish Jekyll posts to Nostr as NIP-23 long-form drafts (kind 30024)
+#
+# Usage:
+#   scripts/nostrdraft.sh PATH_TO_POST.markdown
+#
+# Environment Variables:
+#   NOSTR_SECRET_KEY  Secret key for nak (nsec1..., hex, or bunker://...)
+#                     If unset, script will only generate JSON without publishing.
+#   RELAYS            Space-separated relay URLs (optional; defaults to nak's configured relays)
+#   OUT_DIR           Directory for JSON drafts (default: tmp/nostr-drafts)
+#
+# Examples:
+#   # Generate JSON only (no publish)
+#   scripts/nostrdraft.sh collections/_posts/2024-11-15-he-hanged-himself-in-the-morning.markdown
+#
+#   # Publish as draft with confirmation
+#   export NOSTR_SECRET_KEY="nsec1..."
+#   scripts/nostrdraft.sh collections/_posts/2024-11-15-he-hanged-himself-in-the-morning.markdown
+#
+#   # Batch process all posts
+#   export NOSTR_SECRET_KEY="nsec1..."
+#   find collections/_posts -name '*.markdown' -print0 | xargs -0 -n1 scripts/nostrdraft.sh
+#
+# Requirements: nak, jq, ruby
+
+REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+CONFIG_YML="$REPO_DIR/_config.yml"
+OUT_DIR="${OUT_DIR:-$REPO_DIR/tmp/nostr-drafts}"
+POST_FILE="${1:-}"
+
+# Validate arguments
+if [[ -z "$POST_FILE" ]]; then
+  echo "Usage: $0 PATH_TO_POST.markdown" >&2
+  echo "  Set NOSTR_SECRET_KEY env var to publish; otherwise only generates JSON." >&2
+  exit 1
+fi
+
+# Check dependencies
+if ! command -v jq >/dev/null 2>&1; then
+  echo "Error: jq not found. Install with: brew install jq" >&2
+  exit 1
+fi
+if ! command -v ruby >/dev/null 2>&1; then
+  echo "Error: ruby not found." >&2
+  exit 1
+fi
+if [[ -n "${NOSTR_SECRET_KEY:-}" ]] && ! command -v nak >/dev/null 2>&1; then
+  echo "Error: nak not found. Install from https://github.com/fiatjaf/nak" >&2
+  echo "  On macOS: brew install nak" >&2
+  exit 1
+fi
+
+# Validate files exist
+if [[ ! -f "$CONFIG_YML" ]]; then
+  echo "Error: Config not found: $CONFIG_YML" >&2
+  exit 1
+fi
+if [[ ! -f "$POST_FILE" ]]; then
+  echo "Error: Post not found: $POST_FILE" >&2
+  exit 1
+fi
+
+# Extract site URL from _config.yml
+SITE_URL="$(ruby -ryaml -e 'c=YAML.safe_load(File.read(ARGV[0])); puts(c["url"] || "")' "$CONFIG_YML")"
+if [[ -z "$SITE_URL" ]]; then
+  echo "Error: Could not read 'url' from _config.yml" >&2
+  exit 1
+fi
+
+# Parse Jekyll front matter and body into JSON
+POST_JSON="$(ruby -ryaml -rjson -e '
+path = ARGV[0]
+lines = File.readlines(path)
+
+# Find front matter boundaries (between --- markers)
+i1 = lines.index { |l| l.strip == "---" }
+i2 = i1 && lines[(i1+1)..-1].index { |l| l.strip == "---" }
+
+if i1 && i2
+  fm_lines = lines[(i1+1)..(i1+1+i2-1)]
+  body_lines = lines[(i1+1+i2+1)..-1] || []
+  fm = YAML.safe_load(fm_lines.join, permitted_classes: [Date, Time], aliases: true) || {}
+  body = body_lines.join
+else
+  fm = {}
+  body = lines.join
+end
+
+print({front_matter: fm, body: body}.to_json)
+' "$POST_FILE")"
+
+# Extract front matter fields
+TITLE="$(jq -r '.front_matter.title // empty' <<<"$POST_JSON")"
+DESC="$(jq -r '.front_matter.description // empty' <<<"$POST_JSON")"
+IMAGE_RAW="$(jq -r '.front_matter.image // empty' <<<"$POST_JSON")"
+DATE_RAW="$(jq -r '.front_matter.date // empty' <<<"$POST_JSON")"
+TAGS_JSON="$(jq -c '(.front_matter.tags // []) | map(tostring)' <<<"$POST_JSON")"
+BODY="$(jq -r '.body' <<<"$POST_JSON")"
+
+# Parse filename: YYYY-MM-DD-slug.markdown
+BASENAME="$(basename "$POST_FILE")"
+YEAR="${BASENAME:0:4}"
+MONTH="${BASENAME:5:2}"
+DAY="${BASENAME:8:2}"
+SLUG_EXT="${BASENAME:11}"
+SLUG="${SLUG_EXT%.*}"
+
+# Use date from front matter or filename
+DATE_STR="${DATE_RAW:-$YEAR-$MONTH-$DAY}"
+PUBLISHED_AT="$(ruby -e 'require "time"; puts Time.parse(ARGV[0]).to_i' "$DATE_STR" 2>/dev/null || echo "")"
+
+if [[ -z "$PUBLISHED_AT" ]]; then
+  echo "Error: Could not parse date from '$DATE_STR'" >&2
+  exit 1
+fi
+
+# Build canonical path and URL
+CANON_PATH="/$YEAR/$MONTH/$DAY/$SLUG/"
+CANON_URL="${SITE_URL%/}${CANON_PATH}"
+
+# Resolve image to absolute URL
+if [[ -n "$IMAGE_RAW" ]]; then
+  if [[ "$IMAGE_RAW" =~ ^https?:// ]]; then
+    IMAGE_ABS="$IMAGE_RAW"
+  else
+    IMAGE_ABS="${SITE_URL%/}/${IMAGE_RAW#'/'}"
+  fi
+else
+  IMAGE_ABS=""
+fi
+
+# d-tag: stable identifier for this article (using canonical path)
+D_TAG="$CANON_PATH"
+
+# Build NIP-23 event JSON
+EVENT_JSON="$(jq -n \
+  --arg content "$BODY" \
+  --arg d "$D_TAG" \
+  --arg title "$TITLE" \
+  --arg image "$IMAGE_ABS" \
+  --arg summary "$DESC" \
+  --arg published_at "$PUBLISHED_AT" \
+  --arg canonical "$CANON_URL" \
+  --argjson topics "$TAGS_JSON" '
+  # Helper to create tag only if value is non-empty
+  def opttag(k; v): (v|tostring|length) > 0 ? [[k, v]] : [];
+  
+  {
+    content: $content,
+    tags: (
+      [["d", $d]] +
+      opttag("title"; $title) +
+      opttag("image"; $image) +
+      opttag("summary"; $summary) +
+      opttag("published_at"; $published_at) +
+      opttag("r"; $canonical) +
+      ($topics | map(["t", .]))
+    )
+  }
+')"
+
+# Save JSON draft
+mkdir -p "$OUT_DIR"
+OUT_FILE="$OUT_DIR/${YEAR}-${MONTH}-${DAY}-${SLUG}.json"
+printf '%s\n' "$EVENT_JSON" > "$OUT_FILE"
+
+echo "✓ Draft JSON saved: $OUT_FILE"
+echo "  Title: $TITLE"
+echo "  d-tag: $D_TAG"
+echo "  Canonical: $CANON_URL"
+
+# Publish to Nostr if NOSTR_SECRET_KEY is set
+if [[ -z "${NOSTR_SECRET_KEY:-}" ]]; then
+  echo ""
+  echo "Note: NOSTR_SECRET_KEY not set. To publish, set NOSTR_SECRET_KEY and re-run:"
+  echo "  export NOSTR_SECRET_KEY='nsec1...'"
+  echo "  $0 $POST_FILE"
+  exit 0
+fi
+
+echo ""
+echo "Publishing to Nostr as kind:30024 (draft) with confirmation..."
+
+# Build relay arguments
+read -r -a RELAY_ARR <<< "${RELAYS:-}"
+
+# Publish with nak (--confirm prompts before sending)
+# Note: nak uses NOSTR_SECRET_KEY env var automatically, no need for --sec flag
+if (( ${#RELAY_ARR[@]} > 0 )); then
+  nak event -k 30024 --confirm "${RELAY_ARR[@]}" < "$OUT_FILE"
+else
+  nak event -k 30024 --confirm < "$OUT_FILE"
+fi
+
+echo ""
+echo "✓ Draft published to Nostr!"
+
