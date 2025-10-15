@@ -106,7 +106,10 @@ DESC="$(jq -r '.front_matter.description // empty' <<<"$POST_JSON")"
 IMAGE_RAW="$(jq -r '.front_matter.image // empty' <<<"$POST_JSON")"
 DATE_RAW="$(jq -r '.front_matter.date // empty' <<<"$POST_JSON")"
 TAGS_JSON="$(jq -c '(.front_matter.tags // []) | map(tostring)' <<<"$POST_JSON")"
-BODY="$(jq -r '.body' <<<"$POST_JSON")"
+BODY_RAW="$(jq -r '.body' <<<"$POST_JSON")"
+
+# Strip HTML tags from body (NIP-23: MUST NOT support adding HTML to Markdown)
+BODY="$(echo "$BODY_RAW" | sed -E 's/<\/?cite[^>]*>//g' | sed -E 's/<\/?[a-zA-Z][^>]*>//g')"
 
 # Parse filename: YYYY-MM-DD-slug.markdown
 BASENAME="$(basename "$POST_FILE")"
@@ -140,8 +143,8 @@ else
   IMAGE_ABS=""
 fi
 
-# d-tag: stable identifier for this article (using canonical path)
-D_TAG="$CANON_PATH"
+# d-tag: stable identifier for this article (using kebab-case slug from filename)
+D_TAG="$SLUG"
 
 # Build NIP-23 event JSON
 EVENT_JSON="$(jq -n \
