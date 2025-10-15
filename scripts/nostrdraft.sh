@@ -71,7 +71,7 @@ if [[ -z "$SITE_URL" ]]; then
 fi
 
 # Parse Jekyll front matter and body into JSON
-POST_JSON="$(ruby -ryaml -rjson -e '
+POST_JSON="$(ruby -ryaml -rjson -rdate -e '
 path = ARGV[0]
 lines = File.readlines(path)
 
@@ -145,18 +145,15 @@ EVENT_JSON="$(jq -n \
   --arg published_at "$PUBLISHED_AT" \
   --arg canonical "$CANON_URL" \
   --argjson topics "$TAGS_JSON" '
-  # Helper to create tag only if value is non-empty
-  def opttag(k; v): (v|tostring|length) > 0 ? [[k, v]] : [];
-  
   {
     content: $content,
     tags: (
       [["d", $d]] +
-      opttag("title"; $title) +
-      opttag("image"; $image) +
-      opttag("summary"; $summary) +
-      opttag("published_at"; $published_at) +
-      opttag("r"; $canonical) +
+      (if ($title | length) > 0 then [["title", $title]] else [] end) +
+      (if ($image | length) > 0 then [["image", $image]] else [] end) +
+      (if ($summary | length) > 0 then [["summary", $summary]] else [] end) +
+      (if ($published_at | length) > 0 then [["published_at", $published_at]] else [] end) +
+      (if ($canonical | length) > 0 then [["r", $canonical]] else [] end) +
       ($topics | map(["t", .]))
     )
   }
