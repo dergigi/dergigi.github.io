@@ -102,11 +102,11 @@ SLUG="${SLUG_EXT%.*}"
 POST_ID="${YEAR}-${MONTH}-${DAY}-${SLUG}"
 
 # Convert Jekyll image includes to Markdown
-# {% include image.html name="image.jpg" %} -> ![](absolute-url-to-image)
+# {% include image.html name="image.jpg" [caption="..."] %} -> ![](absolute-url-to-image)
 # The Jekyll include builds path as: /assets/images/{category}/{post-id}/{name}
 if [[ -n "$CATEGORY" ]]; then
   BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
-    s|{% include image\.html name=\"([^\"]+)\" %}|![](${SITE_URL}/assets/images/${CATEGORY}/${POST_ID}/\$1)|g
+    s|{% include image\.html name=\"([^\"]+)\"[^}]*%}|![](${SITE_URL}/assets/images/${CATEGORY}/${POST_ID}/\$1)|g
   ")"
 fi
 
