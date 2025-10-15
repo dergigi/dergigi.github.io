@@ -18,28 +18,37 @@ ruby --version
 
 ### Usage
 
-**Generate JSON draft (no publish):**
+**Option 1: Use a .env file (recommended)**
+
+Create a `scripts/.env` file with your secret key:
 ```bash
+NOSTR_SECRET_KEY=nsec1...
+RELAYS="wss://relay.dergigi.com wss://relay.damus.io wss://nos.lol"
+```
+
+Then run the script:
+```bash
+scripts/nostrdraft.sh collections/_posts/2020-06-23-dare.markdown
+```
+
+**Option 2: Set environment variables directly**
+
+```bash
+export NOSTR_SECRET_KEY="nsec1..."
+scripts/nostrdraft.sh collections/_posts/2020-06-23-dare.markdown
+```
+
+**Generate JSON draft only (no publish):**
+```bash
+# Without NOSTR_SECRET_KEY set, script only generates JSON
 scripts/nostrdraft.sh collections/_posts/2020-06-23-dare.markdown
 # Output: tmp/nostr-drafts/2020-06-23-dare.json
 ```
 
-**Publish to Nostr with confirmation:**
-```bash
-export NOSTR_SECRET_KEY="nsec1..."  # your nostr secret key
-scripts/nostrdraft.sh collections/_posts/2020-06-23-dare.markdown
-```
-
 **Batch process all posts:**
 ```bash
-export NOSTR_SECRET_KEY="nsec1..."
+# With .env file configured, simply:
 find collections/_posts -name '*.markdown' -print0 | xargs -0 -n1 scripts/nostrdraft.sh
-```
-
-**Custom relays:**
-```bash
-export RELAYS="wss://relay.dergigi.com wss://relay.damus.io wss://nos.lol"
-scripts/nostrdraft.sh collections/_posts/2020-06-23-dare.markdown
 ```
 
 ### How it works

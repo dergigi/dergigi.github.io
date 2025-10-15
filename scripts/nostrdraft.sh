@@ -27,9 +27,17 @@ set -euo pipefail
 # Requirements: nak, jq, ruby
 
 REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 CONFIG_YML="$REPO_DIR/_config.yml"
 OUT_DIR="${OUT_DIR:-$REPO_DIR/tmp/nostr-drafts}"
 POST_FILE="${1:-}"
+
+# Source .env file if it exists in the scripts directory
+if [[ -f "$SCRIPT_DIR/.env" ]]; then
+  set -a
+  source "$SCRIPT_DIR/.env"
+  set +a
+fi
 
 # Validate arguments
 if [[ -z "$POST_FILE" ]]; then
