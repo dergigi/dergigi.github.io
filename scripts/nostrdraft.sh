@@ -91,10 +91,10 @@ if i1 && i2
   fm_lines = lines[(i1+1)..(i1+1+i2-1)]
   body_lines = lines[(i1+1+i2+1)..-1] || []
   fm = YAML.safe_load(fm_lines.join, permitted_classes: [Date, Time], aliases: true) || {}
-  body = body_lines.join
+  body = body_lines.join.strip
 else
   fm = {}
-  body = lines.join
+  body = lines.join.strip
 end
 
 print({front_matter: fm, body: body}.to_json)
