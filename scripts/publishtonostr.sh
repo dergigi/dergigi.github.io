@@ -220,7 +220,7 @@ echo "Signing event..."
 SIGNED_EVENT_FILE=$(mktemp)
 trap 'rm -f "$SIGNED_EVENT_FILE"' EXIT
 
-nak event -k 30023 < "$OUT_FILE" > "$SIGNED_EVENT_FILE" 2>&1
+nak event -k 30023 < "$OUT_FILE" > "$SIGNED_EVENT_FILE"
 
 # Extract pubkey from the signed event JSON
 PUBKEY=$(jq -r '.pubkey // empty' < "$SIGNED_EVENT_FILE")
