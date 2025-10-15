@@ -1,18 +1,19 @@
 ---
 layout: post
-title: "A Vision for a Value-Enabled Web"
-description: "Gentlemen, we can rebuild it. We have the technology."
+title: A Vision for a Value-Enabled Web
+description: Gentlemen, we can rebuild it. We have the technology.
 date: 2022-12-18
 blocktime: 767992
-image: /assets/images/vew.jpg
-redirect_from: /vew
+image: "/assets/images/vew.jpg"
+redirect_from: "/vew"
 author: Gigi
 category: bitcoin
 favorite: true
 tags:
- - Bitcoin
- - Writing
- - nostr
+- Bitcoin
+- Writing
+- nostr
+updated_version: https://read.withboris.com/a/naddr1qqsxzttkd9ekjmmw94nx7u3dvykhvctvw4jj6etwv93xcety94mk2cszyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxqcyqqq823c59stcz
 ---
 
 We all know that the Web is broken in more ways than one. Clickbait,
