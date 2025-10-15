@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Idling"
-redirect_from: /idling
+title: Idling
+redirect_from: "/idling"
 date: 2019-01-05
 description:
-image: /assets/images/idling.jpg
+image: "/assets/images/idling.jpg"
 author: Gigi
 category: photography
 tags:
-  - Photography
-  - Travel
-  - Poem
+- Photography
+- Travel
+- Poem
+updated_version: https://read.withboris.com/a/naddr1qqrxjervd9hxwq3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsxpqqqp65wt4hvs8
 ---
 
 > So much to do,\\
