@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Ducks"
-redirect_from: /ducks
+title: Ducks
+redirect_from: "/ducks"
 date: 2019-02-19
 description:
-image: /assets/images/ducks.jpg
+image: "/assets/images/ducks.jpg"
 author: Gigi
 category: photography
 tags:
-  - Photography
-  - Travel
+- Photography
+- Travel
+updated_version: https://read.withboris.com/a/naddr1qqzkgatrddesygrwg6zz9hahfftnsup23q3mnv5pdz46hpj4l2ktdpfu6rhpthhwjvpsgqqqw4rslqyltq
 ---
 
 "Where are we heading?" \\
