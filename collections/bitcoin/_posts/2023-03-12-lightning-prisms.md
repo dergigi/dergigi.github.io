@@ -1,19 +1,20 @@
 ---
 layout: post
-title: "Lightning Prisms"
-description: "Thoughts on the automatic splitting of sat flows."
+title: Lightning Prisms
+description: Thoughts on the automatic splitting of sat flows.
 date: 2023-03-12
 blocktime: 780464
-image: /assets/images/prism.jpg
-audio: /assets/audio/prism.ogg
-redirect_from: /prism
+image: "/assets/images/prism.jpg"
+audio: "/assets/audio/prism.ogg"
+redirect_from: "/prism"
 author: Gigi
 category: bitcoin
 favorite: false
 tags:
- - Bitcoin
- - Writing
- - nostr
+- Bitcoin
+- Writing
+- nostr
+updated_version: https://read.withboris.com/a/naddr1qqgxc6t8dp6xu6twvukhqunfwdkhxq3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsxpqqqp65ws9gl6y
 ---
 
 One aspect that is still massively under-utilized is the programmability
