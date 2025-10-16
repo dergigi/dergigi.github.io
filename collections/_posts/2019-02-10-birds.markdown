@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Birds"
-redirect_from: /birds
+title: Birds
+redirect_from: "/birds"
 date: 2019-02-10
 description:
-image: /assets/images/birds.jpg
+image: "/assets/images/birds.jpg"
 author: Gigi
 category: photography
 tags:
-  - Photography
-  - Travel
+- Photography
+- Travel
+updated_version: https://read.withboris.com/a/naddr1qqzky6tjv3esygrwg6zz9hahfftnsup23q3mnv5pdz46hpj4l2ktdpfu6rhpthhwjvpsgqqqw4rsk58ltg
 ---
 
 > There are people who love birds so much they free them. There are others who love them so much they cage them.
