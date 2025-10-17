@@ -1,18 +1,19 @@
 ---
 layout: post
-title: "Speaking Freely"
-subtitle: "On the Oxymoron of Free Speech Platforms"
-description: "Speaking freely is more important than ever, offline and online."
+title: Speaking Freely
+subtitle: On the Oxymoron of Free Speech Platforms
+description: Speaking freely is more important than ever, offline and online.
 date: 2024-03-25
 blocktime: 836245
-image: /assets/images/speaking.jpg
-redirect_from: /speaking
+image: "/assets/images/speaking.jpg"
+redirect_from: "/speaking"
 author: Gigi
 category: nostr
 favorite: false
 tags:
- - Writing
- - nostr
+- Writing
+- nostr
+updated_version: https://read.withboris.com/a/naddr1qqt8xur9v94kjmn894n8yet9d3uj6mmwd35kuegzyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxqcyqqq823cdawm6v
 ---
 
 
