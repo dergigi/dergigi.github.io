@@ -1,19 +1,20 @@
 ---
 layout: post
-title: "People"
-redirect_from: /people
+title: People
+redirect_from: "/people"
 date: 2021-09-27
 description:
-image: /assets/images/people.jpg
+image: "/assets/images/people.jpg"
 author: Gigi
 category: photography
 tags:
-  - Photography
+- Photography
 translations:
- - language: German
-   url: https://telegra.ph/Menschen-01-05
-   author: DerGeier
-   author_url: https://twitter.com/DerGeier21
+- language: German
+  url: https://telegra.ph/Menschen-01-05
+  author: DerGeier
+  author_url: https://twitter.com/DerGeier21
+updated_version: https://read.withboris.com/a/naddr1qqr8qet0wpkx2q3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsxpqqqp65whj9nuy
 ---
 
 People are the most wonderful thing. Full of potential, full of joy, full of
