@@ -4,7 +4,7 @@ title: Projects
 subtitle: Words and Code for Bitcoin
 ---
 
-* Apps: [Ants](#ants), [Boris](#boris)
+* Apps: [Ants](#ants), [Boris](#boris), [castr.me](#castrme)
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
 * Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes), [Value4Value](#value4value)
 * Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
@@ -51,6 +51,17 @@ making reading on the web a more personal and sovereign experience.
 * Source: [GitHub](https://github.com/dergigi/boris)
 
 [boris]: https://www.readwithboris.com/
+
+### castr.me
+
+[castr.me][castrme] transforms Nostr feeds into beautiful podcast feeds, making it easy to listen to your favorite Nostr content on any podcast app. Built on Nostr's decentralized protocol, castr.me bridges the gap between Nostr and traditional podcast platforms, providing universal access to decentralized content through RSS feeds. The platform is completely open source and community-driven, allowing users to generate RSS feeds from any Nostr npub for seamless integration with podcast apps, news readers, and content aggregators.
+
+{% include image.html path="/assets/images/bitcoin/projects/castr-me.png" link="https://castr.me" %}
+
+* Website: [castr.me][castrme]
+* Source: [GitHub](https://github.com/dergigi/castr.me)
+
+[castrme]: https://castr.me/
 
 ---
 
