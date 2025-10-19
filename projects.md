@@ -54,7 +54,7 @@ making reading on the web a more personal and sovereign experience.
 
 ### castr.me
 
-[castr.me][castrme] transforms Nostr feeds into beautiful podcast feeds, making it easy to listen to your favorite Nostr content on any podcast app. Built on Nostr's decentralized protocol, castr.me bridges the gap between Nostr and traditional podcast platforms, providing universal access to decentralized content through RSS feeds. The platform is completely open source and community-driven, allowing users to generate RSS feeds from any Nostr npub for seamless integration with podcast apps, news readers, and content aggregators.
+[castr.me][castrme] is a service that automatically generates podcast feeds from Nostr profiles. It scans Nostr profiles for `kind1` events containing audio or video file links and converts them into valid Podcasting 2.0 RSS feeds that can be subscribed to in any podcast app. The service supports show notes via long-form content, zap splits for value distribution, and provides a simple interface for discovering and consuming Nostr-based audio content through traditional podcast applications.
 
 {% include image.html path="/assets/images/bitcoin/projects/castr-me.png" link="https://castr.me" %}
 
