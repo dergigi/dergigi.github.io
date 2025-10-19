@@ -19,9 +19,9 @@ building out [OpenSats](#opensats).
 
 ---
 
-### Ants
+### ants
 
-[Ants][ants] is an advanced notes and text search tool built for Nostr. It provides an
+[ants][ants] is an advanced notes and text search tool built for Nostr. It provides an
 opinionated search interface that makes it easy to find and discover content across the
 nostrverse. With support for complex search queries, profile lookups, and direct entity
 resolution, Ants helps you navigate the decentralized social network with ease. The project
@@ -35,9 +35,9 @@ for personalized profile lookups and search ranking.
 
 [ants]: https://ants.sh/
 
-### Boris
+### boris
 
-[Boris][boris] is a Nostr-native reading and highlighting app that provides a distraction-free
+[boris][boris] is a Nostr-native reading and highlighting app that provides a distraction-free
 environment for consuming long-form content. With clean typography, offline reading support,
 and social highlights, Boris makes it easy to read, annotate, and share your favorite articles
 and blog posts. Built on Nostr, all your highlights, bookmarks, and reading metadata belong to
