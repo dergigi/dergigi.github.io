@@ -1,54 +1,54 @@
 ---
 layout: post
-title: "The Freedom of Value"
-subtitle: "How Value-for-Value Fixes the Monetization of Information"
-description: "How #Bitcoin and #Value4Value fixes the monetization of information."
+title: The Freedom of Value
+subtitle: How Value-for-Value Fixes the Monetization of Information
+description: 'How #Bitcoin and #Value4Value fixes the monetization of information.'
 date: 2021-12-30
 blocktime: 716448
-image: /assets/images/busking.jpg
-audio: /assets/audio/busking.ogg
-redirect_from: /busking
+image: "/assets/images/busking.jpg"
+audio: "/assets/audio/busking.ogg"
+redirect_from: "/busking"
 author: Gigi
 category: bitcoin
 favorite: true
 tags:
- - Bitcoin
- - Writing
- - nostr
+- Bitcoin
+- Writing
+- nostr
 translations:
- - language: Spanish
-   url: https://armantheparman.com/la-libertad-de-valor/
-   author: Tink
-   author_url: https://twitter.com/bitcoinbabybee
- - language: German
-   url: https://aprycot.media/blog/der-wert-der-freiheit/
-   author: Jan-Paul
-   author_url: https://twitter.com/janpaul_f
- - language: German
-   url: https://telegra.ph/Der-Wert-der-Freiheit-von-Gigi-01-04
-   author: DerGeier
-   author_url: https://twitter.com/DerGeier21
- - language: German (Discussion)
-   url: https://pod.link/1601802816/episode/b5e283d48811cedef9b1de1e0e9a4789
-   author: Nodesignal
-   author_url: https://twitter.com/nodesignal
- - language: Italian
-   url: https://medium.com/@Bitcoin_ator/la-libert%C3%A0-del-valore-313025197cd1
-   author: Bitcoin Ator
-   author_url: https://twitter.com/Bitcoin_ator
- - language: Russian
-   url: https://arnitel.medium.com/%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0-%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8-9aeb4aa1d041
-   author: Ivan Telia
-   author_url: https://twitter.com/Arnitel
- - language: French
-   url: https://fanismichalakis.fr/fr/posts/the-freedom-of-value/
-   author: Fanis Michalakis
-   author_url: https://twitter.com/FanisMichalakis
- - language: English (reading & commentary)
-   url: https://pod.link/1359544516/episode/13637ef7c4f181f95e0f901ed9573812
-   author: Guy Swann
-   author_url: https://twitter.com/TheGuySwann
-
+- language: Spanish
+  url: https://armantheparman.com/la-libertad-de-valor/
+  author: Tink
+  author_url: https://twitter.com/bitcoinbabybee
+- language: German
+  url: https://aprycot.media/blog/der-wert-der-freiheit/
+  author: Jan-Paul
+  author_url: https://twitter.com/janpaul_f
+- language: German
+  url: https://telegra.ph/Der-Wert-der-Freiheit-von-Gigi-01-04
+  author: DerGeier
+  author_url: https://twitter.com/DerGeier21
+- language: German (Discussion)
+  url: https://pod.link/1601802816/episode/b5e283d48811cedef9b1de1e0e9a4789
+  author: Nodesignal
+  author_url: https://twitter.com/nodesignal
+- language: Italian
+  url: https://medium.com/@Bitcoin_ator/la-libert%C3%A0-del-valore-313025197cd1
+  author: Bitcoin Ator
+  author_url: https://twitter.com/Bitcoin_ator
+- language: Russian
+  url: https://arnitel.medium.com/%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0-%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8-9aeb4aa1d041
+  author: Ivan Telia
+  author_url: https://twitter.com/Arnitel
+- language: French
+  url: https://fanismichalakis.fr/fr/posts/the-freedom-of-value/
+  author: Fanis Michalakis
+  author_url: https://twitter.com/FanisMichalakis
+- language: English (reading & commentary)
+  url: https://pod.link/1359544516/episode/13637ef7c4f181f95e0f901ed9573812
+  author: Guy Swann
+  author_url: https://twitter.com/TheGuySwann
+updated_version: https://read.withboris.com/a/naddr1qq28g6r994n8yet9v3hk6tt0vckhvctvw4jsygrwg6zz9hahfftnsup23q3mnv5pdz46hpj4l2ktdpfu6rhpthhwjvpsgqqqw4rszalgc9
 ---
 
 The internet has a problem. Few people know that this problem exists,
