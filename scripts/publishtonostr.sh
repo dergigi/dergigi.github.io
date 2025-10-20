@@ -110,8 +110,40 @@ if [[ -n "$CATEGORY" ]]; then
   ")"
 fi
 
-# Convert relative Markdown images to absolute URLs, stripping hash fragments
+# Convert Jekyll capture blocks to variable assignments and extract video URLs
+# {% capture variableName %}{{ 'path/to/video.mp4' | absolute_url }}{% endcapture %} -> variableName=path/to/video.mp4
+BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
+  s|{% capture (\w+) %}\{\{ '([^']+)' \| absolute_url \}\}{% endcapture %}|\$1=\$2|g;
+")"
+
+# Convert Jekyll video includes to Markdown
+# {% include video.html file=variableName [caption="..."] %} -> ![](absolute-url-to-video)
+# {% include video.html file="path/to/video.mp4" [caption="..."] %} -> ![](absolute-url-to-video)
+# Handle both variable references and direct paths
+BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
+  # First, handle direct paths like file=\"path/to/video.mp4\"
+  s|{% include video\.html file=\"([^\"]+)\"[^}]*%}|![](\$1)|g;
+  # Then handle variable references like file=introVideo (where introVideo is captured from absolute_url)
+  s|{% include video\.html file=(\w+)[^}]*%}|![](\$1)|g;
+")"
+
+# Resolve variable references in the content
+# variableName -> actual content (for variables that contain URLs)
+BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
+  # Match variable assignments and resolve them in the content
+  if (/\$(\w+)=([^\n]+)/) {
+    \$var = \$1;
+    \$val = \$2;
+    # Remove the assignment line
+    s/\$var=\$val\n?//;
+    # Replace variable references with their values
+    s/\$var/\$val/g;
+  }
+")"
+
+# Convert relative Markdown images and videos to absolute URLs, stripping hash fragments
 # ![alt](/path/to/image.jpg#full) -> ![alt](https://site.com/path/to/image.jpg)
+# ![alt](/path/to/video.mp4#full) -> ![alt](https://site.com/path/to/video.mp4)
 BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
   s|!\[([^\]]*)\]\((/[^)#]+)(#[^)]+)?\)|![\$1](${SITE_URL}\$2)|g
 ")"
