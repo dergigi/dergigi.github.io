@@ -130,30 +130,33 @@ BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
 ")"
 
 # Resolve variable references in the content
-# First pass: collect variables and remove assignment lines
-BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
-  if (/\$(\w+)=([^\n]+)/) {
-    \$var = \$1;
-    \$val = \$2;
-    # Store the variable for later replacement
-    \$vars{\$var} = \$val;
-    # Remove the assignment line
-    s/\$var=\$val\n?//;
+# Use perl to collect variables and do all replacements in a single pass
+BODY_RAW="$(echo "$BODY_RAW" | perl -ne '
+  BEGIN { our %vars }
+  # Match variable assignment lines like: introVideo=assets/video/hayek.mp4
+  if (/^([a-zA-Z_]\w*)=(.+)$/) {
+    $vars{$1} = $2;
+    next;  # Skip this line
   }
-")"
-
-# Second pass: replace variable references with their values
-BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
-  # Replace variable references with their values
-  s/introVideo/assets\/video\/hayek.mp4/g;
-  s/absoluteVideoURL/assets\/video\/die-gedanken-sind-frei.mp4/g;
-")"
+  # Replace variable references in all other lines
+  for my $var (keys %vars) {
+    s/!\[\]\($var\)/![]($vars{$var})/g;
+  }
+  print;
+')"
 
 # Convert relative Markdown images and videos to absolute URLs, stripping hash fragments
 # ![alt](/path/to/image.jpg#full) -> ![alt](https://site.com/path/to/image.jpg)
 # ![alt](/path/to/video.mp4#full) -> ![alt](https://site.com/path/to/video.mp4)
 BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
   s|!\[([^\]]*)\]\((/[^)#]+)(#[^)]+)?\)|![\$1](${SITE_URL}\$2)|g
+")"
+
+# Convert relative paths in Markdown links (without leading slash) to absolute URLs
+# ![alt](path/to/image.jpg) -> ![alt](https://site.com/path/to/image.jpg)
+# ![alt](assets/video/file.mp4) -> ![alt](https://site.com/assets/video/file.mp4)
+BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
+  s|!\[([^\]]*)\]\(([^/:][^)#]*)(#[^)]+)?\)|![\$1](${SITE_URL}/\$2)|g
 ")"
 
 # Convert three consecutive dashes to em-dash
