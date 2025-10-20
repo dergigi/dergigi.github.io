@@ -1,27 +1,29 @@
 ---
 layout: post
-title: "Inalienable Property Rights"
-subtitle: "The Law, Language, Money, and Morality of Bitcoin"
-description: "If speech and the free exercise thereof is sacred, then Bitcoin is sacred, because all that Bitcoin requires of you is to think and to speak."
+title: Inalienable Property Rights
+subtitle: The Law, Language, Money, and Morality of Bitcoin
+description: If speech and the free exercise thereof is sacred, then Bitcoin is sacred,
+  because all that Bitcoin requires of you is to think and to speak.
 date: 2022-04-03
 blocktime: 730245
-image: /assets/images/jefferson-bastiat-hayek.jpg
-redirect_from: /speech
+image: "/assets/images/jefferson-bastiat-hayek.jpg"
+redirect_from: "/speech"
 author: Gigi
 favorite: true
 category: bitcoin
 tags:
- - Bitcoin
- - Writing
+- Bitcoin
+- Writing
 translations:
- - language: German
-   url: https://aprycot.media/blog/unveraeusserliche-eigentumsrechte-recht-sprache-geld-und-moral-von-bitcoin/
-   author: DerGeier & stfano
-   author_url: https://aprycot.media/content-plebs/
- - language: English (video version)
-   url: https://youtu.be/oBApGvwkdGs
-   author:  Till Musshoff
-   author_url: https://twitter.com/bPGTill
+- language: German
+  url: https://aprycot.media/blog/unveraeusserliche-eigentumsrechte-recht-sprache-geld-und-moral-von-bitcoin/
+  author: DerGeier & stfano
+  author_url: https://aprycot.media/content-plebs/
+- language: English (video version)
+  url: https://youtu.be/oBApGvwkdGs
+  author: Till Musshoff
+  author_url: https://twitter.com/bPGTill
+updated_version: https://read.withboris.com/a/naddr1qqdkjmnpd35k2mnpvfkx2ttswfhhqetjw3uj6unfva58guczyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxqcyqqq823c52c8nj
 ---
 
 {% capture introVideo %}{{ 'assets/video/hayek.mp4' | absolute_url }}{% endcapture %}
