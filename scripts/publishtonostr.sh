@@ -159,8 +159,19 @@ BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
   s|!\[([^\]]*)\]\(([^/:][^)#]*)(#[^)]+)?\)|![\$1](${SITE_URL}/\$2)|g
 ")"
 
-# Convert three consecutive dashes to em-dash
-BODY_RAW="$(echo "$BODY_RAW" | sed 's/---/—/g')"
+# Convert three consecutive dashes to em-dash (but NOT at the beginning of a line, which would be a separator)
+# "text---text" -> "text—text" (em-dash in the middle of content)
+# "---" alone on a line -> leave as-is (Markdown separator)
+BODY_RAW="$(echo "$BODY_RAW" | perl -ne '
+  # If line is just dashes (possibly with whitespace), dont convert
+  if (/^\s*---\s*$/) {
+    print;
+  } else {
+    # Convert --- to em-dash in all other lines
+    s/---/—/g;
+    print;
+  }
+')"
 
 # Convert Jekyll absolute_url filter to actual absolute URLs
 # {{ '/path' | absolute_url }} -> https://site.com/path
