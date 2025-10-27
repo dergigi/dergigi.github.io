@@ -173,6 +173,14 @@ BODY_RAW="$(echo "$BODY_RAW" | perl -ne '
   }
 ')"
 
+# Convert relative Markdown links to absolute URLs
+# [text](/path) -> [text](https://site.com/path)
+# [text](/path#anchor) -> [text](https://site.com/path#anchor)
+# Don't convert absolute links (http/https) or mailto links
+BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
+  s|\[([^\]]+)\]\((/[^)#\s]+)(#[^)]+)?\)|[\$1](${SITE_URL}\$2\$3)|g
+")"
+
 # Convert Jekyll absolute_url filter to actual absolute URLs
 # {{ '/path' | absolute_url }} -> https://site.com/path
 # {{ '2022/04/03/post/#anchor' | absolute_url }} -> https://site.com/2022/04/03/post/#anchor
