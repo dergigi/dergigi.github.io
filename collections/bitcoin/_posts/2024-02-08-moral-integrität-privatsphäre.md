@@ -1,19 +1,20 @@
 ---
 layout: post
-title: "Moral, Integrität und Privatsphäre"
-description: "Warum ist Bitcoin transparent? Und muss es das sein?"
+title: Moral, Integrität und Privatsphäre
+description: Warum ist Bitcoin transparent? Und muss es das sein?
 date: 2024-02-08
 blocktime: 829521
-image: /assets/images/cypherpunk.jpg
-redirect_from: /integritaet
+image: "/assets/images/cypherpunk.jpg"
+redirect_from: "/integritaet"
 source: https://einundzwanzig.shop/p/einundzwanzig-magazin-cypherpunk/
 author: Gigi
 category: bitcoin
 language: German
 favorite: false
 tags:
- - Bitcoin
- - Writing
+- Bitcoin
+- Writing
+updated_version: https://read.withboris.com/a/naddr1qq0k6mmjv9kz66tww3jkwunfwnp6gapdwpexjanpw3ehq6xr53ex2q3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsxpqqqp65w454cwx
 ---
 
 Bitcoin ist nun 14 Jahre alt, und wie fast alle Teenager ist die orange Münze
