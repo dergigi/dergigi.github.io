@@ -131,7 +131,7 @@ So, what to do about it? According to some people, it's best to threaten the mod
 
 If you know me just a little bit, you'll know that I'm a huge fan of [John Vervaeke](https://johnvervaeke.com/series/awakening-from-the-meaning-crisis/). He's a smart cookie, and lots of the things that he says make a ton of sense to me. One of those things is that *dialogue* is absolutely fundamental to our cognition and being (to existence itself, actually), and that dia-Logos and distributed cognition are more powerful than trying to have your way. The sum of the whole is larger than its parts and all that.
 
-So now my approach to vibe-coding is as follows: before I do anything, I enter into a dialogue with the LLM. It doesn't matter what it is. Whether I want to fix a bug, add a feature, document something, or start a new app from scratch. I always lead with a question. (Oh, how socratic![^fn-socrates])
+So now my approach to vibe-coding is as follows: before I do anything, I enter into a dialogue with the LLM. It doesn't matter what it is. Whether I want to fix a bug, add a feature, document something, or start a new app from scratch. I always lead with a question. (Oh, how Socratic![^fn-socrates])
 
 [^fn-socrates]: [Socrates](https://ants.sh/p/npub1s0cra5735s8ccw7pfvqtp4see7t7lkfr0gwrfhkhsfakuxkf5ahs83023h) was the goat frfr no cap
 
