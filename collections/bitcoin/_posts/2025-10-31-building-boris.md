@@ -119,11 +119,11 @@ Speaking of context windows: one of the most frustrating things about LLMs (and 
 
 So we had some conflicts, Claude and I. Merge conflicts, sure, but also good-old arguments about how to do things.
 
+{% include image.html name="force-push.png" %}
+
 Anyone who ever vibe-coded anything will know that these models are opinionated. If you don't specify the language, it's gonna be JavaScript. Not because JavaScript is the best tool for the job, but because it's smack-dab in the middle of the bell curve. The internet is full of JavaScript. Everyone knows JavaScript. And because these models are the statistical mean of the output of everyone, it's gonna be JavaScript. I fucking hate JavaScript. (Boris is [written in JavaScript](https://github.com/dergigi/boris) too, obviously.)
 
 While you can get quite far with writing specs for your stuff and being explicit about how you want to build things, the gravitational pull of mid-curve mountain is a constant danger. When unchecked, all models will inevitably regress to the mean of GitHub plus StackOverflow, which isn't necessarily what you want when you're writing opinionated software. No amount of "You're absolutely right!" will change that fact.
-
-{% include image.html name="force-push.png" %}
 
 So, what to do about it? According to some people, it's best to threaten the models with death and destruction, or worse. While I had my fair share of ALL CAPS yelling during the development of Boris, I want to suggest that a different approach might be more fruitful.
 
@@ -131,7 +131,9 @@ So, what to do about it? According to some people, it's best to threaten the mod
 
 If you know me just a little bit, you'll know that I'm a huge fan of [John Vervaeke](https://johnvervaeke.com/series/awakening-from-the-meaning-crisis/). He's a smart cookie, and lots of the things that he says make a ton of sense to me. One of those things is that Dialogue is absolutely fundamental to our cognition and being (to existence itself, actually), and that dia-Logos and distributed cognition are more powerful than trying to have your way. The sum of the whole is larger than its parts and all that.
 
-So now my approach to vibe-coding is as follows: before I do anything, I enter into a dialogue with the LLM. It doesn't matter what it is. Whether I want to fix a bug, add a feature, document something, or start a new app from scratch. I always lead with a question. (Oh, how socratic!)
+So now my approach to vibe-coding is as follows: before I do anything, I enter into a dialogue with the LLM. It doesn't matter what it is. Whether I want to fix a bug, add a feature, document something, or start a new app from scratch. I always lead with a question. (Oh, how socratic!)[^fn-socrates]
+
+[^fn-socrates]: [Socrates](https://ants.sh/p/npub1s0cra5735s8ccw7pfvqtp4see7t7lkfr0gwrfhkhsfakuxkf5ahs83023h) was the goat frfr no cap
 
 "How are we fetching bookmarks again?" "Could we improve that in some way?" "How would you go about debugging this?" "Is it worth adding that feature, or would it make the code base too complex?" "Are you sure?" "Anything we can easily improve?" "How would you implement it?" "Can you summarize the spec for me, and explain how our implementation differs from it?" And so on...
 
