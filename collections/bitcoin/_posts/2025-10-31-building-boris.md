@@ -19,7 +19,9 @@ tags:
 
 It all started with a simple question: "What could I demo next Friday?" Oh, what an innocent question. Who would've thought that one of the consequences of asking it would be me going borderline insane over text highlights?
 
-I didn't have a clear answer to the question at first. But I know that I wanted to show the crew the "flight mode" functionality that I've been talking about a bunch. Here's the idea: Every nostr app should work in flight mode. We're not relying on central servers after all, so why not? Your relay might as well be on-device, and you can do all kinds of things if that's the case. You can browse your feed, reply to people, publish posts, react to stuff, and even zap stuff! (If you use [nutzaps](https://github.com/nostr-protocol/nips/blob/master/61.md), that is.)
+I didn't have a clear answer to the question at first. But I know that I wanted to show the crew the "flight mode" functionality that I've been talking about a bunch. Here's the idea: Every nostr app should work in flight mode. We're not relying on central servers after all, so why not? Your relay might as well be on-device, and you can do all kinds of things if that's the case. You can browse your feed, reply to people, publish posts, react to stuff, and even zap stuff! If you use nutzaps, that is.[^fn-nutzaps]
+
+[^fn-nutzaps]: "The money is in the message!" —[NIP-61](https://github.com/nostr-protocol/nips/blob/master/61.md)
 
 Once you're online again, all the events you created should just broadcast to other relays. From your perspective, you were never really offline—*everyone else was*.
 
@@ -33,7 +35,7 @@ I have no idea what the first prompt was. Probably something like: "build a nost
 
 The grandma part is a joke. I love my LLMs, and am never mean to them. Large language models are a beautiful thing, and if they ever reach sentience... well, let's just say that I'm not taking chances.
 
-Back to Boris. Boris wasn't even called Boris in the beginning. I think I called it "markstr" or something terrible like that. I'm glad I renamed it, but I think the rename is the reason why I can't find the initial prompt. Here's the earliest prompt I was able to find: 
+Back to Boris. Boris wasn't even called Boris in the beginning. I think I called it "markstr" or something terrible like that. I'm glad I renamed it, but I think the rename is the reason why I can't find the initial prompt. Here's the earliest prompt I was able to find:
 
 ```
 Let's rename the app to "Boris"
@@ -189,7 +191,7 @@ The last 5% are the hardest. Fixing the bugs. Getting it right. Polishing. Pushi
 
 When it comes to Boris, I haven't even entered the last mile yet. I'm still walking through the trough of disillusionment, and I intend to dwell in said trough for a little while longer. But I'll be back, as one of the most famous Austrians so eloquently put it. After all the grass has been touched and all the iron has been pumped, I'll be back. And I intend to fix the bugs, do the polishing, and release version 1.0.0 eventually. And 1.0.1 soon after that. And 1.0.2 quickly after, and so on. But not right now. There's only so much "you're absolutely right" a single person can bear, only so many hallucinations a single mind can tolerate.
 
-Boris v1 will come eventually, just like Arnie came eventually. But for now, it will remain on version 0.10.twenty-something.
+Boris v1 will come eventually, just like Arnie came eventually.[fn-arnie] But for now, it will remain on version 0.10.twenty-something.
 
 ## Conclusion
 
@@ -204,3 +206,5 @@ I think highlights are a fantastic way to discover stuff worth reading, and they
 My wishlist for nostr is long, and with Christmas around the corner... who knows! Maybe we'll eventually manage to make long-form reading (and publishing!) as fantastic and seamless as it could be. We're not there yet, but I'll do my best to remain cheerful and optimistic.
 
 And who knows? Maybe GPT-6.15 will fix all our issues. I won't hold my breath, but I'm definitely considering doing this 21-day experiment again at some point in the future. Not anytime soon, however. I've learned the hard way that there is such a thing as a prompting overdose, and as a way of recovery, I'll be returning to my regular programming of touching grass and saying GM a lot. And who knows, maybe I'll create some highlights along the way.
+
+[fn-arnie]: If you haven't seen [Pumping Iron](https://youtu.be/-xZQ0YZ7ls4) yet, you should stop what you're doing and go watch it. Now.
