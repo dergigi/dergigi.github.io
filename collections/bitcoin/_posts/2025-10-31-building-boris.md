@@ -2,7 +2,7 @@
 layout: post
 title: Building Boris
 subtitle: Highlights From My 21 Days of Insanity
-description: TODO
+description: A story of purple text, orange highlights, and plenty of hallucinations.
 date: 2025-10-31
 blocktime: 921649
 image: "/assets/images/boris.jpg"
