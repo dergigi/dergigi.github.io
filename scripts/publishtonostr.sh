@@ -148,15 +148,17 @@ BODY_RAW="$(echo "$BODY_RAW" | perl -ne '
 # Convert relative Markdown images and videos to absolute URLs, stripping hash fragments
 # ![alt](/path/to/image.jpg#full) -> ![alt](https://site.com/path/to/image.jpg)
 # ![alt](/path/to/video.mp4#full) -> ![alt](https://site.com/path/to/video.mp4)
+# Skip URLs that are already absolute (start with http:// or https://)
 BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
-  s|!\[([^\]]*)\]\((/[^)#]+)(#[^)]+)?\)|![\$1](${SITE_URL}\$2)|g
+  s|!\[([^\]]*)\]\(((?![hH][tT][tT][pP][sS]?://)[/][^)#]+)(#[^)]+)?\)|![\$1](${SITE_URL}\$2\$3)|g
 ")"
 
 # Convert relative paths in Markdown links (without leading slash) to absolute URLs
 # ![alt](path/to/image.jpg) -> ![alt](https://site.com/path/to/image.jpg)
 # ![alt](assets/video/file.mp4) -> ![alt](https://site.com/assets/video/file.mp4)
+# Skip URLs that are already absolute (start with http:// or https://)
 BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
-  s|!\[([^\]]*)\]\(([^/:][^)#]*)(#[^)]+)?\)|![\$1](${SITE_URL}/\$2)|g
+  s|!\[([^\]]*)\]\(((?![hH][tT][tT][pP][sS]?://)[^/:][^)#]*)(#[^)]+)?\)|![\$1](${SITE_URL}/\$2\$3)|g
 ")"
 
 # Convert three consecutive dashes to em-dash (but NOT at the beginning of a line, which would be a separator)
@@ -178,7 +180,7 @@ BODY_RAW="$(echo "$BODY_RAW" | perl -ne '
 # [text](/path#anchor) -> [text](https://site.com/path#anchor)
 # Don't convert absolute links (http/https) or mailto links
 BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
-  s|\[([^\]]+)\]\((/[^)#\s]+)(#[^)]+)?\)|[\$1](${SITE_URL}\$2\$3)|g
+  s|\[([^\]]+)\]\(((?![hH][tT][tT][pP][sS]?://|[mM][aA][iI][lL][tT][oO]:)[/][^)#\s]+)(#[^)]+)?\)|[\$1](${SITE_URL}\$2\$3)|g
 ")"
 
 # Convert Jekyll absolute_url filter to actual absolute URLs
