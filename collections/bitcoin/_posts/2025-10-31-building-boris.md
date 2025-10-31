@@ -215,12 +215,14 @@ Boris was 50% experiment, 50% necessity, and 50% therapy.[^fn-therapy] I enjoy c
 
 Maybe some of the features—even the broken ones; especially the broken ones?—will inspire others. I think swarm highlights are really neat. Maybe some of the stuff will get integrated into other clients, who knows.
 
-I think highlights are a fantastic way to discover stuff worth reading, and they're a fantastic way to rediscover things that you've read in the past. I think zap-splits are a no-brainer. I think nostr is a fantastic substrate for long-form content. I am convinced that nostr apps can be beautiful, snappy, and incredibly functional. I would love for all nostr apps to work in flight mode.
+I think highlights are a fantastic way to [discover stuff worth reading](https://ants.sh/?q=is%3Ahighlight), and they're a fantastic way to rediscover things that you've read in the past. I think zap-splits are a no-brainer. I think nostr is a fantastic substrate for long-form content. I am convinced that nostr apps can be beautiful, snappy, and incredibly functional. I would love for all nostr apps to work in flight mode.
 
 My wishlist for nostr is long, and with Christmas around the corner... who knows! Maybe we'll eventually manage to make long-form reading (and publishing!) as fantastic and seamless as it could be. We're not there yet, but I'll do my best to remain cheerful and optimistic.
 
-And who knows? Maybe GPT-6.15 will fix all our issues. I won't hold my breath, but I'm definitely considering doing this 21-day experiment again at some point in the future. Not anytime soon, however. I've learned the hard way that there is such a thing as a prompting overdose, and as a way of recovery, I'll be returning to my regular programming of touching grass and [saying GM a lot](https://ants.sh/?q=GM+by%3Adergigi). And who knows, maybe I'll create some highlights along the way.
+And who knows? Maybe GPT-6.15 will fix all our issues. I won't hold my breath, but I'm definitely considering doing this 21-day experiment again at some point in the future. Not anytime soon, however. I've learned the hard way that there is such a thing as a prompting overdose,[^fn-overdose] and as a way of recovery, I'll be returning to my regular programming of touching grass and [saying GM a lot](https://ants.sh/?q=GM+by%3Adergigi). And who knows, maybe I'll create some highlights along the way.
 
 ---
 
 [^fn-arnie]: If you haven't seen [Pumping Iron](https://youtu.be/-xZQ0YZ7ls4) yet, you should stop what you're doing and go watch it. Now.
+
+[^fn-overdose]: Turns out I'm not the only one who has to [take a break from vibe-coding](https://youtu.be/rgiuaJbyUyU) for sanity-preservation reasons!
