@@ -203,6 +203,8 @@ Of course I'm right, and I should've known better. I should've spec'd it out bet
 
 Alas, it is what it is. My hope was that I would be able to produce something that isn't  half broken, but now, reflecting back on it, I realize that I've just added to the AI slop and made everything worse.
 
+{% include image.html name="screenshot-dark.png" link="https://www.readwithboris.com/" %}
+
 ...or have I?
 
 ## The Last Mile
