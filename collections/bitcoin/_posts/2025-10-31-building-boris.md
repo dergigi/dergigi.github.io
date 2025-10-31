@@ -19,9 +19,9 @@ tags:
 
 It all started with a simple question: "What could I demo next Friday?" Oh, what an innocent question. Who would've thought that one of the consequences of asking it would be me going borderline insane over text highlights?
 
-I didn't have a clear answer to the question at first. But I know that I wanted to show the crew the "flight mode" functionality that I've been talking about a bunch. Here's the idea: Every nostr app should work in flight mode. We're not relying on central servers after all, so why not? Your relay might as well be on-device, and you can do all kinds of things if that's the case. You can browse your feed, reply to people, publish posts, react to stuff, and even zap stuff! (If you use nutzaps, that is.)
+I didn't have a clear answer to the question at first. But I know that I wanted to show the crew the "flight mode" functionality that I've been talking about a bunch. Here's the idea: Every nostr app should work in flight mode. We're not relying on central servers after all, so why not? Your relay might as well be on-device, and you can do all kinds of things if that's the case. You can browse your feed, reply to people, publish posts, react to stuff, and even zap stuff! (If you use [nutzaps](https://github.com/nostr-protocol/nips/blob/master/61.md), that is.)
 
-Once you're online again, all the events you created should just broadcast to other relays. From your perspective, you were never really offline—everyone else was.
+Once you're online again, all the events you created should just broadcast to other relays. From your perspective, you were never really offline—*everyone else was*.
 
 How hard can it be? It's probably just a prompt or two, and we're off to the races.
 
