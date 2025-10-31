@@ -145,21 +145,14 @@ BODY_RAW="$(echo "$BODY_RAW" | perl -ne '
   print;
 ')"
 
-# Convert relative Markdown images and videos to absolute URLs, stripping hash fragments
+# Convert relative Markdown images and videos to absolute URLs
 # ![alt](/path/to/image.jpg#full) -> ![alt](https://site.com/path/to/image.jpg)
 # ![alt](/path/to/video.mp4#full) -> ![alt](https://site.com/path/to/video.mp4)
 # Skip URLs that are already absolute (start with http:// or https://)
-BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
-  s|!\[([^\]]*)\]\(((?![hH][tT][tT][pP][sS]?://)[/][^)#]+)(#[^)]+)?\)|![\$1](${SITE_URL}\$2\$3)|g
-")"
-
-# Convert relative paths in Markdown links (without leading slash) to absolute URLs
-# ![alt](path/to/image.jpg) -> ![alt](https://site.com/path/to/image.jpg)
-# ![alt](assets/video/file.mp4) -> ![alt](https://site.com/assets/video/file.mp4)
-# Skip URLs that are already absolute (start with http:// or https://)
-BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
-  s|!\[([^\]]*)\]\(((?![hH][tT][tT][pP][sS]?://)[^/:][^)#]*)(#[^)]+)?\)|![\$1](${SITE_URL}/\$2\$3)|g
-")"
+BODY_RAW="$(SITE_URL="$SITE_URL" echo "$BODY_RAW" | perl -pe '
+  BEGIN { $site = $ENV{SITE_URL}; }
+  s|!\[([^\]]*)\]\(([^)]+)\)|sprintf("![%s](%s)", $1, ($2 =~ m{^https?://}) ? $2 : ((substr($2, 0, 1) eq "/") ? $site . $2 : $site . "/" . $2))|ge
+')"
 
 # Convert three consecutive dashes to em-dash (but NOT at the beginning of a line, which would be a separator)
 # "text---text" -> "text—text" (em-dash in the middle of content)
@@ -178,10 +171,11 @@ BODY_RAW="$(echo "$BODY_RAW" | perl -ne '
 # Convert relative Markdown links to absolute URLs
 # [text](/path) -> [text](https://site.com/path)
 # [text](/path#anchor) -> [text](https://site.com/path#anchor)
-# Don't convert absolute links (http/https) or mailto links
-BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
-  s|\[([^\]]+)\]\(((?![hH][tT][tT][pP][sS]?://|[mM][aA][iI][lL][tT][oO]:)[/][^)#\s]+)(#[^)]+)?\)|[\$1](${SITE_URL}\$2\$3)|g
-")"
+# Don't convert absolute links (http/https)
+BODY_RAW="$(SITE_URL="$SITE_URL" echo "$BODY_RAW" | perl -pe '
+  BEGIN { $site = $ENV{SITE_URL}; }
+  s|\[([^\]]+)\]\(([^)]+)\)|sprintf("[%s](%s)", $1, ($2 =~ m{^https?://}) ? $2 : (substr($2, 0, 1) eq "/" ? $site . $2 : $site . "/" . $2))|ge
+')"
 
 # Convert Jekyll absolute_url filter to actual absolute URLs
 # {{ '/path' | absolute_url }} -> https://site.com/path
