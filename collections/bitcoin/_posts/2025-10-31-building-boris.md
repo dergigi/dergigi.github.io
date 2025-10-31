@@ -99,7 +99,9 @@ Maybe all of these issues will be fixed one day. I'm sure that we'll have better
 
 ## Midcurve Models
 
-I'm sitting at the doctor's office, waiting. The median age of the room is probably 82. I'm not that old yet, but in internet terms, I'm "get off my lawn" old. I grew up in the golden age of the internet: the age of the "electronic superhighway". The age of LAN parties, bulletin boards, IRC chats, newsgroups, and rotating skull aesthetics. An age before the internet turned dystopian; an age that cherished freedom, connection, and openness.
+I'm sitting at the doctor's office, waiting. The median age of the room is probably 82. I'm not that old yet, but in internet terms, I'm "get off my lawn" old. I grew up in the golden age of the internet: the age of the "electronic superhighway". The age of LAN parties, bulletin boards, IRC chats, newsgroups, and [rotating skull aesthetics](https://read.withboris.com/a/naddr1qvzqqqr4gupzpq7enxs5scju854msxd0xpjvpa4p94763rmgktrfyg0n5arpw8geqqwxuetfw35x2u3ddehhxarpd3nkjcfddehhytt4w3hhq6tp3ywkt2). An age before the internet turned dystopian; an age that cherished freedom, connection, and openness.
+
+{% include image.html name="raised-by-the-internet.png" %}
 
 Don't get me wrong, there are parts of the internet where this stuff still exists. But it is not the norm. The norm is an algorithmic hellscape that is parasitic on your mind, your attention, your whole being. The norm is being bombarded by things that you don't want to see. The norm is to be manipulated by forces that you don't understand. That nobody understands, I would argue. The norm is begging for permission to do stuff: watch a video, read an article, release an app. Fuck the norm. Let me do stuff. Let me read stuff. Let me create highlights. Let me ship an app in exactly the way I want to ship it. Get off my lawn.
 
