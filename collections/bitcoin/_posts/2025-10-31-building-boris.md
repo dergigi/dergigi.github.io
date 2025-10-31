@@ -31,7 +31,7 @@ How hard can it be? It's probably just a prompt or two, and we're off to the rac
 
 If you've ever listened to [No Solutions](https://sovereignengineering.io/podcast) (aka the most high-fidelity recordings of wind, bus stops, sledge hammers, lawn mowers, leaf blowers, and heavy traffic known to man), you'll know that writing code by hand is something that boomers do. And since I self-identify as generation alpha, the first order of business was to switch my vibe machine to [YOLO mode](https://read.withboris.com/a/naddr1qvzqqqr4gupzpq7enxs5scju854msxd0xpjvpa4p94763rmgktrfyg0n5arpw8geqqthxetr95cr2ttedakx7ttddajx2ttjv4cx7un5dcpesn).
 
-I have no idea what the first prompt was. Probably something like: "build a nostr client that focuses on highlights. I want to fetch long-form posts and render all highlights in a beautiful way. Keep things simple. Strive to keep code DRY. Read the NIPs. If you ever write a line of code that would make fiatjaf sad I'll hunt you down and torture your grandma."
+I have no idea what the first prompt was. Probably something like: *"build a nostr client that focuses on highlights. I want to fetch long-form posts and render all highlights in a beautiful way. Keep things simple. Strive to keep code DRY. Read the NIPs. If you ever write a line of code that would make fiatjaf sad I'll hunt you down and torture your grandma."*
 
 The grandma part is a joke. I love my LLMs, and am never mean to them. Large language models are a beautiful thing, and if they ever reach sentience... well, let's just say that I'm not taking chances.
 
@@ -57,7 +57,7 @@ In today's day and age, we can optimistically replace twitter/reddit/forums/what
 
 It should be obvious that I came up with "bookmarks and other stuff read in style" after I landed on the name Boris, so you're probably asking yourself: How did you come up with the name Boris?
 
-Well, I'm glad you asked! I asked GPT-4o mini a simple question: "Who invented the highlight marker?" I was genuinely curious, so the answer it gave back to me had me glued to the screen in fascination: It was invented by a Russian-born American, some sort of big-shot that probably had to deal with lots of important documents. His name was Boris G. Ginsburg. I wanted to learn more, so I've hit it with the most dreadful of follow-up questions: "Source?"
+Well, I'm glad you asked! I asked GPT-4o mini a simple question: *"Who invented the highlight marker?"* I was genuinely curious, so the answer it gave back to me had me glued to the screen in fascination: It was invented by a Russian-born American, some sort of big-shot that probably had to deal with lots of important documents. His name was *Boris G. Ginsburg*. I wanted to learn more, so I've hit it with the most dreadful of follow-up questions: "Source?"
 
 {% include image.html name="boris-inventor-of-the-highlighter.png" %}
 
@@ -71,7 +71,7 @@ All of Boris is vibed. All of it. I didn't write a single line of code. I didn't
 
 Now to the second part of the question: Why build something like Boris at all? Don't we have reading apps already? Don't we have nostr clients already that can do long-form, highlights, and other stuff?
 
-Well, yes. But all the reading apps suck. And none of them are nostr-native. And I wanted to build my own reading app that sucks, hence: Boris.
+Well, yes. But all the reading apps suck. And none of them are nostr-native. And I wanted to build my own reading app that sucks, hence: [Boris](https://www.readwithboris.com/).
 
 They all suck in their own way, but there's one thing that they all have in common: they are walled gardens. Once you start using one of them, you can't leave. Your data (read: your highlights, lists, annotations, reading progress, etc) is locked inside the app. You can't take it out. And if you can take it out, you can't do anything useful with it.
 
