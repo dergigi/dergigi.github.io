@@ -151,7 +151,7 @@ BODY_RAW="$(echo "$BODY_RAW" | perl -ne '
 # Skip URLs that are already absolute (start with http:// or https://)
 BODY_RAW="$(SITE_URL="$SITE_URL" echo "$BODY_RAW" | perl -pe '
   BEGIN { $site = $ENV{SITE_URL}; }
-  s|!\[([^\]]*)\]\(([^)]+)\)|sprintf("![%s](%s)", $1, ($2 =~ m{^https?://}) ? $2 : ((substr($2, 0, 1) eq "/") ? $site . $2 : $site . "/" . $2))|ge
+  s|!\[([^\]]*)\]\(([^)]+)\)|do { my ($alt, $url) = ($1, $2); sprintf("![%s](%s)", $alt, ($url =~ m{^https?://}) ? $url : ((substr($url, 0, 1) eq "/") ? $site . $url : $site . "/" . $url)); }|ge
 ')"
 
 # Convert three consecutive dashes to em-dash (but NOT at the beginning of a line, which would be a separator)
@@ -174,7 +174,7 @@ BODY_RAW="$(echo "$BODY_RAW" | perl -ne '
 # Don't convert absolute links (http/https)
 BODY_RAW="$(SITE_URL="$SITE_URL" echo "$BODY_RAW" | perl -pe '
   BEGIN { $site = $ENV{SITE_URL}; }
-  s|\[([^\]]+)\]\(([^)]+)\)|sprintf("[%s](%s)", $1, ($2 =~ m{^https?://}) ? $2 : (substr($2, 0, 1) eq "/" ? $site . $2 : $site . "/" . $2))|ge
+  s|\[([^\]]+)\]\(([^)]+)\)|do { my ($text, $url) = ($1, $2); sprintf("[%s](%s)", $text, ($url =~ m{^https?://}) ? $url : (substr($url, 0, 1) eq "/" ? $site . $url : $site . "/" . $url)); }|ge
 ')"
 
 # Convert Jekyll absolute_url filter to actual absolute URLs
