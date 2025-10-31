@@ -123,7 +123,7 @@ So we had some conflicts, Claude and I. Merge conflicts, sure, but also good-old
 
 Anyone who ever vibe-coded anything will know that these models are opinionated. If you don't specify the language, it's gonna be JavaScript. Not because JavaScript is the best tool for the job, but because it's smack-dab in the middle of the bell curve. The internet is full of JavaScript. Everyone knows JavaScript. And because these models are the statistical mean of the output of everyone, it's gonna be JavaScript. I fucking hate JavaScript. (Boris is [written in JavaScript](https://github.com/dergigi/boris) too, obviously.)
 
-While you can get quite far with writing specs for your stuff and being explicit about how you want to build things, the gravitational pull of mid-curve mountain is a constant danger. When unchecked, all models will inevitably regress to the mean of GitHub plus StackOverflow, which isn't necessarily what you want when you're writing opinionated software. No amount of "You're absolutely right!" will change that fact.
+While you can get quite far with writing specs for your stuff and being explicit about how you want to build things, the gravitational pull of mid-curve mountain is a constant danger. When unchecked, all models will inevitably regress to the mean of Reddit plus GitHub plus StackOverflow, which isn't necessarily what you want when you're writing opinionated software. No amount of "You're absolutely right!" will change that fact.
 
 So, what to do about it? According to some people, it's best to threaten the models with death and destruction, or worse. While I had my fair share of ALL CAPS yelling during the development of Boris, I want to suggest that a different approach might be more fruitful.
 
@@ -155,7 +155,7 @@ Surprisingly, there's another thing I learned: How to prompt, when to prompt, an
 
 ## Always Be Prompting
 
-In my opening talk for the YOLO Mode cohort, I encouraged everyone to stop thinking in terms of the traditional MVP (minimum viable product) metric and start thinking in terms of what is easily vibe-able, i.e., what is just a prompt or two away. Minimum vibeable product.
+In my opening talk for the [YOLO Mode](https://primal.net/soveng/sec-05-yolo-mode-report) cohort, I encouraged everyone to stop thinking in terms of the traditional MVP (minimum viable product) metric and start thinking in terms of what is easily vibe-able, i.e., what is just a prompt or two away. *Minimum vibeable product.*
 
 LLMs are fantastic at reading specs and translating one thing into another. [Castr.me](https://castr.me/), for example, was basically created in one prompt. All it took was to feed it the Podcasting 2.0 spec, and tell it to build a thing that translates a nostr feed into a Podcasting 2.0 compatible RSS feed. That's it. Incredibly vibe-able.
 
@@ -187,7 +187,7 @@ Eugh. Brutal. However, the beautiful thing about this screenshot is not the UI, 
 
 One of my default prompts is: "Add debug logs to debug this. Prefix the debug logs with something meaningful." I have about two dozen of these default prompts (mapped to macros so that I don't have to type them), and they've proven to be incredibly useful for specific things like writing changelogs, making releases, and yes, debugging.
 
-A picture is worth a thousand words, and if the picture contains a thousand lines of useful debug logs, all the better.
+A picture is worth a thousand words, and if the picture contains a couple lines of useful debug logs, all the better.
 
 ## Overdoing It
 
