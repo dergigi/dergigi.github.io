@@ -209,7 +209,7 @@ Alas, it is what it is. My hope was that I would be able to produce something th
 
 The last 5% are the hardest. Fixing the bugs. Getting it right. Polishing. Pushing it over the line. That's true for software development, it's true for writing, it's true for art. It's true for anything, really.
 
-When it comes to Boris, I haven't even entered the last mile yet. I'm still walking through the trough of disillusionment, and I intend to dwell in said trough for a little while longer. But I'll be back, as one of the most famous Austrians so eloquently put it. After all the grass has been touched and all the iron has been pumped, I'll be back. And I intend to fix the bugs, do the polishing, and release version 1.0.0 eventually. And 1.0.1 soon after that. And 1.0.2 quickly after, and so on. But not right now. There's only so much "you're absolutely right" a single person can bear, only so many hallucinations a single mind can tolerate.
+When it comes to Boris, I haven't even entered the last mile yet. I'm still walking through the trough of disillusionment, and I intend to dwell in said trough for a little while longer. But I'll be back, as one of the most famous Austrians so eloquently put it. After all the grass has been touched and all the iron has been pumped, I'll be back. And I intend to fix the bugs, do the polishing, and release version `1.0.0` eventually. And `1.0.1` soon after that. And `1.0.2` quickly after, and so on. But not right now. There's only so much "you're absolutely right" a single person can bear, only so many hallucinations a single mind can tolerate.
 
 Boris v1 will come eventually, just like Arnie came eventually.[^fn-arnie] But for now, it will remain on version [0.10.twenty-something](https://github.com/dergigi/boris/tags).
 
@@ -219,7 +219,7 @@ Boris is a thing now. 21 days ago, it wasn't a thing.[^fn-timeline] Is it a perf
 
 [^fn-timeline]: I made [the first commits](https://github.com/dergigi/boris/commits/master/?since=2025-10-01&until=2025-10-02&after=ab0972dd296a3bf11cef09338b515f954831c39b+104) on Oct 2, wrote the first draft of this on Oct 21, and am now writing this footnote on Oct 31.
 
-Boris was 50% experiment, 50% necessity, and 50% therapy.[^fn-therapy] I enjoy creating things, and for a little while, Boris was my outlet. I created an app, imperfect as it may be. I created a draft for a NIP, as horrible as it may be. I had some ideas and I tried to vibe them into reality, and while I mostly failed, I think that some neat things came out of it.
+Boris was 50% experiment, 50% necessity, and 50% therapy.[^fn-therapy] I enjoy creating things, and for a little while, Boris was my outlet. I created an app, imperfect as it may be. I created a [draft for a NIP](https://github.com/dergigi/boris/blob/master/public/md/NIP-85.md), as horrible as it may be. I had some ideas and I tried to vibe them into reality, and while I mostly failed, I think that some neat things came out of it.
 
 [^fn-therapy]: "You're absolutely right! These numbers [don't add up to 100%](https://youtu.be/thHWvoYfNyo)."
 
