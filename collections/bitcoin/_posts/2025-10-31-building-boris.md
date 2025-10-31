@@ -199,13 +199,15 @@ The last 5% are the hardest. Fixing the bugs. Getting it right. Polishing. Pushi
 
 When it comes to Boris, I haven't even entered the last mile yet. I'm still walking through the trough of disillusionment, and I intend to dwell in said trough for a little while longer. But I'll be back, as one of the most famous Austrians so eloquently put it. After all the grass has been touched and all the iron has been pumped, I'll be back. And I intend to fix the bugs, do the polishing, and release version 1.0.0 eventually. And 1.0.1 soon after that. And 1.0.2 quickly after, and so on. But not right now. There's only so much "you're absolutely right" a single person can bear, only so many hallucinations a single mind can tolerate.
 
-Boris v1 will come eventually, just like Arnie came eventually.[fn-arnie] But for now, it will remain on version 0.10.twenty-something.
+Boris v1 will come eventually, just like Arnie came eventually.[^fn-arnie] But for now, it will remain on version 0.10.twenty-something.
 
 ## Conclusion
 
-Boris is a thing now. 21 days ago, it wasn't a thing. Is it a perfect thing? Obviously not. Is it a useful thing? Maybe, to some people. Will I continue to work on it? Maybe, sometimes. It depends.
+Boris is a thing now. 21 days ago, it wasn't a thing.[^fn-timeline] Is it a perfect thing? Obviously not. Is it a useful thing? Maybe, to some people. Will I continue to work on it? Maybe, sometimes. It depends.
 
-Boris was 50% experiment, 50% necessity, and 50% therapy. I enjoy creating things, and for a little while, Boris was my outlet. I created an app, imperfect as it may be. I created a draft for a NIP, as horrible as it may be. I had some ideas and I tried to vibe them into reality, and while I mostly failed, I think that some neat things came out of it.
+[^fn-timeline]: I made [the first commits](https://github.com/dergigi/boris/commits/master/?since=2025-10-01&until=2025-10-02&after=ab0972dd296a3bf11cef09338b515f954831c39b+104) on Oct 2, wrote the first draft of this on Oct 21, and am now writing this footnote on Oct 31. 
+
+Boris was 50% experiment, 50% necessity, and 50% therapy.[fn-] I enjoy creating things, and for a little while, Boris was my outlet. I created an app, imperfect as it may be. I created a draft for a NIP, as horrible as it may be. I had some ideas and I tried to vibe them into reality, and while I mostly failed, I think that some neat things came out of it.
 
 Maybe some of the features—even the broken ones; especially the broken ones?—will inspire others. I think swarm highlights are really neat. Maybe some of the stuff will get integrated into other clients, who knows.
 
@@ -215,4 +217,6 @@ My wishlist for nostr is long, and with Christmas around the corner... who knows
 
 And who knows? Maybe GPT-6.15 will fix all our issues. I won't hold my breath, but I'm definitely considering doing this 21-day experiment again at some point in the future. Not anytime soon, however. I've learned the hard way that there is such a thing as a prompting overdose, and as a way of recovery, I'll be returning to my regular programming of touching grass and saying GM a lot. And who knows, maybe I'll create some highlights along the way.
 
-[fn-arnie]: If you haven't seen [Pumping Iron](https://youtu.be/-xZQ0YZ7ls4) yet, you should stop what you're doing and go watch it. Now.
+---
+
+[^fn-arnie]: If you haven't seen [Pumping Iron](https://youtu.be/-xZQ0YZ7ls4) yet, you should stop what you're doing and go watch it. Now.
