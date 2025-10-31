@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building Boris
-subtitle: Highlights From 21 Days of Insanity
+subtitle: Highlights From My 21 Days of Insanity
 description: TODO
 date: 2025-10-31
 blocktime: 921649
