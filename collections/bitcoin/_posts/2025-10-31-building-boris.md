@@ -177,7 +177,7 @@ One of the most difficult things in life is to know when to stop. To know when t
 
 I regret many a prompt when it comes to Boris. Some things worked beautifully in the past, and now they don't work as beautifully anymore. Some things don't work at all anymore, and the reason for them not working anymore is me overdoing it. Staying up until 3 am, locked in, convinced that my "just one more prompt bro" story arc will bear fruit eventually, adding complexity upon complexity, confusing both Claude and myself.
 
-[INSERT CLAUDE YOU'RE ABSOLUTELY RIGHT MEME]
+{% include image.html name="vibecoding.png" %}
 
 Of course I'm right, and I should've known better. I should've spec'd it out better, I should've reduced the scope better, I should've tested things better (or at all).
 
