@@ -219,7 +219,7 @@ I think highlights are a fantastic way to discover stuff worth reading, and they
 
 My wishlist for nostr is long, and with Christmas around the corner... who knows! Maybe we'll eventually manage to make long-form reading (and publishing!) as fantastic and seamless as it could be. We're not there yet, but I'll do my best to remain cheerful and optimistic.
 
-And who knows? Maybe GPT-6.15 will fix all our issues. I won't hold my breath, but I'm definitely considering doing this 21-day experiment again at some point in the future. Not anytime soon, however. I've learned the hard way that there is such a thing as a prompting overdose, and as a way of recovery, I'll be returning to my regular programming of touching grass and saying GM a lot. And who knows, maybe I'll create some highlights along the way.
+And who knows? Maybe GPT-6.15 will fix all our issues. I won't hold my breath, but I'm definitely considering doing this 21-day experiment again at some point in the future. Not anytime soon, however. I've learned the hard way that there is such a thing as a prompting overdose, and as a way of recovery, I'll be returning to my regular programming of touching grass and [saying GM a lot](https://ants.sh/?q=GM+by%3Adergigi). And who knows, maybe I'll create some highlights along the way.
 
 ---
 
