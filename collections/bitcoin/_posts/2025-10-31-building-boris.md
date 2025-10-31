@@ -59,7 +59,7 @@ It should be obvious that I came up with "bookmarks and other stuff read in styl
 
 Well, I'm glad you asked! I asked GPT-4o mini a simple question: "Who invented the highlight marker?" I was genuinely curious, so the answer it gave back to me had me glued to the screen in fascination: It was invented by a Russian-born American, some sort of big-shot that probably had to deal with lots of important documents. His name was Boris G. Ginsburg. I wanted to learn more, so I've hit it with the most dreadful of follow-up questions: "Source?"
 
-[INSERT SCREENSHOT]
+{% include image.html name="boris-inventor-of-the-highlighter.png" %}
 
 Turns out it was a complete lie! A hallucination, as the cool kids would call it. It wasn't invented by Boris at all! What a sham!
 
@@ -163,7 +163,7 @@ Speaking of multi-modality: one thing that we aren't doing enough of yet is feed
 
 I took hundreds of screenshots during the development of Boris. Here's one of the first ones, before the rename:
 
-[INSERT SCREENSHOT "markr"]
+{% include image.html name="markr-screenshot.png" %}
 
 Eugh. Brutal. However, the beautiful thing about this screenshot is not the UI, or the lack of functionality, or the background tabs, or the "Relaunch to update" notice that I'm ignoring. It's the debug output that's shown in the console.
 
