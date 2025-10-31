@@ -17,7 +17,7 @@ tags:
 ---
 
 
-It all started with a simple question: "What could I demo next Friday?" Oh, what an innocent question. Who would've thought that one of the consequences of asking it would be me going borderline insane over text highlights?
+It all started with a simple question: *"What could I demo next Friday?"* Oh, what an innocent question. Who would've thought that one of the consequences of asking it would be me going borderline insane over text highlights?
 
 I didn't have a clear answer to the question at first. But I know that I wanted to show the crew the "flight mode" functionality that I've been talking about a bunch. Here's the idea: Every nostr app should work in flight mode. We're not relying on central servers after all, so why not? Your relay might as well be on-device, and you can do all kinds of things if that's the case. You can browse your feed, reply to people, publish posts, react to stuff, and even zap stuff! If you use nutzaps, that is.[^fn-nutzaps]
 
@@ -65,7 +65,9 @@ Turns out it was a complete lie! A hallucination, as the cool kids would call it
 
 After laughing my ass off for 5 minutes, I decided to stick with Boris, since it encapsulates the nature of this little experiment so perfectly.
 
-All of Boris is vibed. All of it. I didn't write a single line of code. I didn't even read a single line of code, except by accident. There are plenty of hallucinations in the code, and potentially in the UI too. Don't expect all the things to work. Don't expect things to be done in the most perfect or correct way. Like all LLM output, it is hopefully somewhat useful, somewhat entertaining, and somewhat coherent. But it should be taken with a large grain of salt.
+All of Boris is vibed. *All of it.*[^fn-commits] I didn't write a single line of code. I didn't even read a single line of code, except by accident. There are plenty of hallucinations in the code, and potentially in the UI too. Don't expect all the things to work. Don't expect things to be done in the most perfect or correct way. Like all LLM output, it is hopefully somewhat useful, somewhat entertaining, and somewhat coherent. But it should be taken with a large grain of salt.
+
+[^fn-commits]: This includes any and [all commits](https://github.com/dergigi/boris/commits). I didn't write a single one of those either.
 
 ## Why Build It?
 
@@ -85,7 +87,7 @@ What started as a [Demo Day](https://sovereignengineering.io/loop#friday-demo-da
 
 I quickly realized that I have a problem and what I'm doing is incredibly unhealthy, so I did what any sensible person would do: I doubled down. I neglected sleep, I neglected food, I neglected social relationships (read: scrolling my nostr feed), pursuing one thing and one thing only: building a reading app that I would actually use.
 
-I gave myself two weeks. And after the two weeks had passed, I gave myself one more. I became the personified "just one more prompt" bro. In hindsight, a timespan of 21 days was the perfect timespan for this experiment.
+I gave myself two weeks. And after the two weeks had passed, I gave myself one more. I became the personified *"just one more prompt"* bro. In hindsight, a timespan of 21 days was the perfect timespan for this experiment.
 
 ## Just one more prompt, bro
 
