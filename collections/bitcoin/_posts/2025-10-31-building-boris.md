@@ -215,7 +215,7 @@ Boris was 50% experiment, 50% necessity, and 50% therapy.[^fn-therapy] I enjoy c
 
 Maybe some of the features—even the broken ones; especially the broken ones?—will inspire others. I think swarm highlights are really neat. Maybe some of the stuff will get integrated into other clients, who knows.
 
-I think highlights are a fantastic way to [discover stuff worth reading](https://ants.sh/?q=is%3Ahighlight), and they're a fantastic way to rediscover things that you've read in the past. I think zap-splits are a no-brainer. I think nostr is a fantastic substrate for long-form content. I am convinced that nostr apps can be beautiful, snappy, and incredibly functional. I would love for all nostr apps to work in flight mode.
+I think highlights are a fantastic way to [discover stuff worth reading](https://ants.sh/?q=is%3Ahighlight), and they're a fantastic way to rediscover things that you've read in the past. I think [zap splits](https://read.withboris.com/a/naddr1qvzqqqr4gupzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqqgxc6t8dp6xu6twvukhqunfwdkhx9800nj) are a no-brainer. I think nostr is a fantastic substrate for long-form content. I am convinced that nostr apps can be beautiful, snappy, and incredibly functional. I would love for all nostr apps to work in flight mode.
 
 My wishlist for nostr is long, and with Christmas around the corner... who knows! Maybe we'll eventually manage to make long-form reading (and publishing!) as fantastic and seamless as it could be. We're not there yet, but I'll do my best to remain cheerful and optimistic.
 
