@@ -103,7 +103,7 @@ Maybe all of these issues will be fixed one day. I'm sure that we'll have better
 
 ## Midcurve Models
 
-I'm sitting at the doctor's office, waiting. The median age of the room is probably 82. I'm not that old yet, but in internet terms, I'm "get off my lawn" old. I grew up in the golden age of the internet: the age of the "electronic superhighway". The age of LAN parties, bulletin boards, IRC chats, newsgroups, and [rotating skull aesthetics](https://read.withboris.com/a/naddr1qvzqqqr4gupzpq7enxs5scju854msxd0xpjvpa4p94763rmgktrfyg0n5arpw8geqqwxuetfw35x2u3ddehhxarpd3nkjcfddehhytt4w3hhq6tp3ywkt2). An age before the internet turned dystopian; an age that cherished freedom, connection, and openness.
+I'm sitting at the doctor's office, waiting. The median age of the room is probably 82. I'm not that old yet, but in internet terms, I'm "get off my lawn" old. I [grew up](/names) in the golden age of the internet: the age of the "electronic superhighway". The age of LAN parties, bulletin boards, IRC chats, newsgroups, and [rotating skull aesthetics](https://read.withboris.com/a/naddr1qvzqqqr4gupzpq7enxs5scju854msxd0xpjvpa4p94763rmgktrfyg0n5arpw8geqqwxuetfw35x2u3ddehhxarpd3nkjcfddehhytt4w3hhq6tp3ywkt2). An age before the internet turned dystopian; an age that cherished freedom, connection, and openness.
 
 {% include image.html name="raised-by-the-internet.png" %}
 
