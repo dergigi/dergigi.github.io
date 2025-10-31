@@ -121,7 +121,7 @@ So we had some conflicts, Claude and I. Merge conflicts, sure, but also good-old
 
 {% include image.html name="force-push.png" %}
 
-Anyone who ever vibe-coded anything will know that these models are opinionated. If you don't specify the language, it's gonna be JavaScript. Not because JavaScript is the best tool for the job, but because it's smack-dab in the middle of the bell curve. The internet is full of JavaScript. Everyone knows JavaScript. And because these models are the statistical mean of the output of everyone, it's gonna be JavaScript. I fucking hate JavaScript. (Boris is [written in JavaScript](https://github.com/dergigi/boris) too, obviously.)
+Anyone who ever vibe-coded anything will know that these models are opinionated. If you don't specify the language, it's gonna be JavaScript. Not because JavaScript is the best tool for the job, but because it's smack-dab in the middle of the bell curve. The internet is full of JavaScript. Everyone knows JavaScript. And because these models are the statistical mean of the output of everyone, it's gonna be JavaScript. I fucking hate JavaScript. (Boris is [written in JavaScript](https://github.com/dergigi/boris) too, of course.)
 
 While you can get quite far with writing specs for your stuff and being explicit about how you want to build things, the gravitational pull of mid-curve mountain is a constant danger. When unchecked, all models will inevitably regress to the mean of Reddit plus GitHub plus StackOverflow, which isn't necessarily what you want when you're writing opinionated software. No amount of "You're absolutely right!" will change that fact.
 
