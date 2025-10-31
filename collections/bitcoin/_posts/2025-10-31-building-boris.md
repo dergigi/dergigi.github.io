@@ -95,7 +95,9 @@ LLMs are amazing. Coding is actually fun again! You think of something, you prom
 
 As an eternal perfectionist, I've always struggled with shipping stuff. Whether it's software or essays, there's always one more thing to fix, one more thing to improve, one more thing to re-do so it's just a little better. I got stuck in the "just one more prompt" loop of doom for longer than I'd like to admit. Way past midnight, trying to convince myself that this one prompt will finally fix it.
 
-So while LLMs are amazing, they're also hell. For me, at least—or I guess for any perfectionist, for that matter. LLMs are great if you just go with the flow and run with whatever they put out.  But if you want to have it perfect—_exactly_ the way you want it—you're gonna have a bad time.
+{% include image.html name="one-more-prompt-bro.png" %}
+
+So while LLMs are amazing, they're also hell. For me, at least—or I guess for any perfectionist, for that matter. LLMs are great if you just go with the flow and run with whatever they put out.  But if you want to have it perfect—*exactly* the way you want it—you're gonna have a bad time.
 
 Maybe all of these issues will be fixed one day. I'm sure that we'll have better models, larger context windows, better long-term memory, and a myriad of other improvements very soon. And maybe we can just point one of these giga-brain models to our old code bases and simply go *abracadabra*, please fix everything, and it will. Maybe. Or maybe not. Whatever the case may be, LLMs are amazing tools—if you know how to use them. They allow you to do things, and do them quickly.
 
