@@ -101,12 +101,18 @@ SLUG="${SLUG_EXT%.*}"
 # Build post identifier for image paths (YYYY-MM-DD-slug)
 POST_ID="${YEAR}-${MONTH}-${DAY}-${SLUG}"
 
+# Map category for image paths (nostr -> bitcoin)
+IMAGE_CATEGORY="$CATEGORY"
+if [[ "$CATEGORY" == "nostr" ]]; then
+  IMAGE_CATEGORY="bitcoin"
+fi
+
 # Convert Jekyll image includes to Markdown
 # {% include image.html name="image.jpg" [caption="..."] %} -> ![](absolute-url-to-image)
 # The Jekyll include builds path as: /assets/images/{category}/{post-id}/{name}
-if [[ -n "$CATEGORY" ]]; then
+if [[ -n "$IMAGE_CATEGORY" ]]; then
   BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
-    s|{% include image\.html name=\"([^\"]+)\"[^}]*%}|![](${SITE_URL}/assets/images/${CATEGORY}/${POST_ID}/\$1)|g
+    s|{% include image\.html name=\"([^\"]+)\"[^}]*%}|![](${SITE_URL}/assets/images/${IMAGE_CATEGORY}/${POST_ID}/\$1)|g
   ")"
 fi
 
