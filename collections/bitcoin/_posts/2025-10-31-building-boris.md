@@ -47,11 +47,9 @@ There are two parts to this question, and I'll start with the easier one: Why is
 
 Well, I'm glad you asked! Boris stands for "bookmarks and other stuff read in style". This should tell you one thing right from the get-go: in addition to highlights, Boris focuses on bookmarks. Not on creating them, but on consuming them. The idea is simple, and it stems from the reading workflow I've had for the last two decades:
 
-- Use something like twitter/reddit/forums/whatever to discover stuff
-
-- Bookmark it, or add it to a "read it later" list or app
-
-- Use a dedicated reading app to actually read the stuff later on, making highlights and stuff
+1. Use something like twitter/reddit/forums/whatever to discover stuff
+2. Bookmark it, or add it to a "read it later" list or app
+3. Use a dedicated reading app to actually read the stuff later on, making highlights and stuff
 
 In today's day and age, we can optimistically replace twitter/reddit/forums/whatever with nostr, of course. And it should go without saying that Boris is the dedicated reading app.
 
