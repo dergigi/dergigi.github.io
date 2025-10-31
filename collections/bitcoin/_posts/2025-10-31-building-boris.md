@@ -119,6 +119,8 @@ Anyone who ever vibe-coded anything will know that these models are opinionated.
 
 While you can get quite far with writing specs for your stuff and being explicit about how you want to build things, the gravitational pull of mid-curve mountain is a constant danger. When unchecked, all models will inevitably regress to the mean of GitHub plus StackOverflow, which isn't necessarily what you want when you're writing opinionated software. No amount of "You're absolutely right!" will change that fact.
 
+{% include image.html name="force-push.png" %}
+
 So, what to do about it? According to some people, it's best to threaten the models with death and destruction, or worse. While I had my fair share of ALL CAPS yelling during the development of Boris, I want to suggest that a different approach might be more fruitful.
 
 ## Dialogical Development
