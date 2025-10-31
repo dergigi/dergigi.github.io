@@ -197,6 +197,8 @@ I regret many a prompt when it comes to Boris. Some things worked beautifully in
 
 {% include image.html name="vibecoding.png" %}
 
+"I think I overdid it," I whisper into the prompt window. Bloodshot eyes, cigarette in hand, seriously contemplating making the drive to the gas station to get a bottle of vodka. "You're absolutely right," Claude responds.
+
 Of course I'm right, and I should've known better. I should've spec'd it out better, I should've reduced the scope better, I should've tested things better (or at all).
 
 Alas, it is what it is. My hope was that I would be able to produce something that isn't  half broken, but now, reflecting back on it, I realize that I've just added to the AI slop and made everything worse.
