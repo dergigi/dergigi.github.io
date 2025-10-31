@@ -141,7 +141,7 @@ Vibe-coding might remove you from writing code, but it doesn't remove you from t
 
 [^fn-ants]: [ants](https://ants.sh/) is the search engine that I built before I started working on boris. I tried to explain my motivation for building it in [this video](https://ants.sh/e/nevent1qqstgekdlmaeu3n6gf3ss7nnlq4f0hfx3nm3nmy0pf84xs7e98wyt2ssw5p34).
 
-Surprisingly, there's another thing I learned: How to prompt, when to prompt, and learning the difference between what is viable and what is vibe-able.
+Surprisingly, there's another thing I learned: How to prompt, when to prompt, and learning the difference between what is viable and what is *vibe-able*.
 
 ## Always Be Prompting
 
@@ -161,7 +161,7 @@ The idea is simple: I want to be away from the computer as much as possible, whi
 
 Imagine the following: you walk along the beach, speaking into your phone, as if to a friend. You explain in a long-winded and rambling way an idea for an app that you had in the back of your mind for a long while. Maybe your friend responds sometimes, asking questions, pulling the idea out of you, refining it further. You sleep on it and return to a summary of the dialogue the next day. In addition to the summary, a prototype of the app is deployed, which you can try on your phone. You play around with it for a couple of minutes, and while some things are as you imagined them to be, a lot of the other parts still need work. You finish your coffee, go out for a walk, and talk to your friend again. You explain what the prototype got right and what still needs work, and as you're chatting, changes to the app are deployed live, in a way that allows you to immediately review and react to said changes. After a couple of days of throwing out ideas, iterating on what works, and throwing away what doesn't work, you're happy with the result, and you share it with your friends and the world. The feedback from your trusted circle is automatically being picked up and leads to the next iteration of the app, and so on. Dialogical Development. A beautiful thing.
 
-We're obviously doing all that right now, but it's not very streamlined and accessible yet. However, the scenario I'm describing is far from science fiction. It is how I developed Boris in large parts, and efforts like Wingman will make what I've been doing even easier. Add an automated way to feed screenshots, videos, and selective log output back into the multi-modal coding agents, and we have a beautiful iterative loop going. All while walking on the beach.
+We're obviously doing all that right now, but it's not very streamlined and accessible yet. However, the scenario I'm describing is far from science fiction. It is how I developed Boris in large parts, and efforts like [Wingman](https://ants.sh/p/npub1jss47s4fvv6usl7tn6yp5zamv2u60923ncgfea0e6thkza5p7c3q0afmzy?q=wingman) will make what I've been doing even easier. Add an automated way to feed screenshots, videos, and selective log output back into the multi-modal coding agents, and we have a beautiful iterative loop going. All while walking on the beach.
 
 ## Screenshots and Logs
 
