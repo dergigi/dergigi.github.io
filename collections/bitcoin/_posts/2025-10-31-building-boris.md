@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building Boris
-subtitle: Highlights From My 21 Days of Insanity
+subtitle: Highlights From 21 Days of Insanity
 description: TODO
 date: 2025-10-31
 blocktime: 921649
@@ -29,7 +29,7 @@ How hard can it be? It's probably just a prompt or two, and we're off to the rac
 
 ## YOLO Mode
 
-If you've ever listened to [No Solutions](https://sovereignengineering.io/podcast) (aka the most high-fidelity recordings of wind, bus stops, sledge hammers, lawn mowers, leaf blowers, and heavy traffic known to man), you'll know that writing code by hand is something that boomers do. And since I self-identify as generation alpha, the first order of business was to switch my vibe machine to YOLO mode.
+If you've ever listened to [No Solutions](https://sovereignengineering.io/podcast) (aka the most high-fidelity recordings of wind, bus stops, sledge hammers, lawn mowers, leaf blowers, and heavy traffic known to man), you'll know that writing code by hand is something that boomers do. And since I self-identify as generation alpha, the first order of business was to switch my vibe machine to [YOLO mode](https://read.withboris.com/a/naddr1qvzqqqr4gupzpq7enxs5scju854msxd0xpjvpa4p94763rmgktrfyg0n5arpw8geqqthxetr95cr2ttedakx7ttddajx2ttjv4cx7un5dcpesn).
 
 I have no idea what the first prompt was. Probably something like: "build a nostr client that focuses on highlights. I want to fetch long-form posts and render all highlights in a beautiful way. Keep things simple. Strive to keep code DRY. Read the NIPs. If you ever write a line of code that would make fiatjaf sad I'll hunt you down and torture your grandma."
 
@@ -103,7 +103,7 @@ I'm sitting at the doctor's office, waiting. The median age of the room is proba
 
 Don't get me wrong, there are parts of the internet where this stuff still exists. But it is not the norm. The norm is an algorithmic hellscape that is parasitic on your mind, your attention, your whole being. The norm is being bombarded by things that you don't want to see. The norm is to be manipulated by forces that you don't understand. That nobody understands, I would argue. The norm is begging for permission to do stuff: watch a video, read an article, release an app. Fuck the norm. Let me do stuff. Let me read stuff. Let me create highlights. Let me ship an app in exactly the way I want to ship it. Get off my lawn.
 
-Back to Boris: Building it was a joy, most of the time. I had a lot of fun adding little features here and there. Features that I always wanted to have in a reading app. Features such as swarm highlights, TTS, reading position, and so on.
+Back to Boris: Building it was a joy, most of the time. I had a lot of fun adding little features here and there. Features that I always wanted to have in a reading app. Features such as swarm highlights, TTS, reading position, and so on. It was also fun to read stuff and to create [highlights](https://ants.sh/?q=highlights+by%3Adergigi). Oh, [so many highlights](https://ants.sh/?q=is%3Ahighlight+by%3Adergigi)!
 
 On the other hand, and to my previous point, I wish I hadn't added so many features. Stuff gets worse when it gets bigger, and that's doubly true for code bases vibed by LLMs. Small and simple is the way to go, so that stuff remains understandable, for both you and contextwindow-brain.
 
