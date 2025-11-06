@@ -11,6 +11,7 @@ subtitle: Words and Code for Bitcoin
 * Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
 * Programs: [Sovereign Engineering](#sovereign-engineering)
 * Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop), [No Solutions](#no-solutions)
+* Nonprofit: [OpenSats](#opensats)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr), [Human B](#contribution-human-b)
 
 As of right now, I'm not involved in any of the projects listed below, and all
