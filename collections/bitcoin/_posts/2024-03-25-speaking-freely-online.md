@@ -121,7 +121,7 @@ push of a button. No matter how powerful you are.[^trump]
 That's why Free Speech
 [platforms](https://twitter.com/dergigi/status/1508217667768963075) cannot
 exist. Only Free Speech
-[protocols](https://njump.me/nevent1qqsz9fgdac7yvs7z07sx92zf2rkldgnfav2rkce03gdm95efzyfgg4szyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxt5xvet)
+[protocols](https://njump.to/nevent1qqsz9fgdac7yvs7z07sx92zf2rkldgnfav2rkce03gdm95efzyfgg4szyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxt5xvet)
 can exist.
 
 The difference is as subtle as it is important: when using a protocol, you're
