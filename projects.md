@@ -4,18 +4,16 @@ title: Projects
 subtitle: Words and Code for Bitcoin
 ---
 
-* Apps: [Ants](#ants), [Boris](#boris), [castr.me](#castrme)
+* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr)
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
-* Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes), [Value4Value](#value4value)
-* Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
 * Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
-* Programs: [Sovereign Engineering](#sovereign-engineering)
-* Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop), [No Solutions](#no-solutions)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr), [Human B](#contribution-human-b)
+* Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes), [Value4Value](#value4value)
+* Nonprofit: [OpenSats](#opensats), [Sovereign Engineering](#sovereign-engineering)
+* Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop), [No Solutions](#no-solutions)
+* Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
 
-As of right now, I'm not involved in any of the projects listed below, and all
-of my solo projects are currently on hold, as 100% of my time is focused on
-building out [OpenSats](#opensats).
+If you want to stay in touch and keep an eye on what I'm working on, find me on [nostr][nostr] as [@dergigi.com](https://njump.me/dergigi.com)—that's where I'm most active and responsive.
 
 ---
 
@@ -62,6 +60,17 @@ making reading on the web a more personal and sovereign experience.
 * Source: [GitHub](https://github.com/dergigi/castr.me)
 
 [castrme]: https://castr.me/
+
+### Dear Nostr
+
+[Dear Nostr][dearnostr] is a clean, minimal Nostr client dedicated to "Dear Nostr" posts. It provides extension-based authentication using Nostr extensions like Alby or nos2x, automatically prepends "Dear Nostr" to your messages, and appends the [#DearNostr](http://ants.sh/t/DearNostr) hashtag. With a [real-time feed](https://www.dearnostr.com/feed) displaying all Dear Nostr posts from configured relays, it offers a simple and focused way to participate in this unique corner of the nostrverse.
+
+{% include image.html path="/assets/images/bitcoin/projects/dear-nostr.png" link="https://www.dearnostr.com" %}
+
+* Website: [dearnostr.com][dearnostr]
+* Source: [GitHub](https://github.com/dergigi/dearnostr)
+
+[dearnostr]: https://www.dearnostr.com/
 
 ---
 
@@ -283,7 +292,6 @@ other strangers pay them, just because they can.
 {% include image.html path="/assets/images/bitcoin/projects/secretsatsa.png" link="https://secretsatsa.com" %}
 
 * Website: [secretsatsa.com](https://secretsatsa.com/)
-* Twitter: [#SecretSatsa](https://twitter.com/hashtag/SecretSatsa)
 * Source: [GitHub](https://github.com/secretsatsa/secretsatsa.github.io)
 
 ### Twentyone World
@@ -441,9 +449,10 @@ adding [Tor] and [Dojo] support to Samourai Wallet's Sentinel app for iOS (see
 [video]). I also made some corrections to [BIP 2], [BIP 16], and [BIP 69]. I
 used to be part of the [Swan][joined-swan] engineering team and published a set of
 [extended public key tools][xpub-tools] as open source software. Follow me on
-GitHub to see what I'm up to.
+GitHub and nostr to see what I'm up to.
 
 * GitHub: [github.com/dergigi](https://github.com/dergigi)
+* nostr: [@dergigi.com](https://njump.me/dergigi.com)
 
 [Tor]: https://github.com/Samourai-Wallet/Sentinel-iOS/pull/11
 [Dojo]: https://github.com/Samourai-Wallet/Sentinel-iOS/pull/14
