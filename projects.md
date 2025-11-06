@@ -4,7 +4,7 @@ title: Projects
 subtitle: Words and Code for Bitcoin
 ---
 
-* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr), [njump.to](#njump-to)
+* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr), [njump.to](#njumpto)
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
 * Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr), [Human B](#contribution-human-b)
