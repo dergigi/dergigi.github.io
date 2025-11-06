@@ -325,6 +325,8 @@ Seriously.
 
 [njump.to][njump-to] is a fast redirect service that provides a single URL to automatically forward users to a random njump mirror instance. The service randomly selects from multiple njump mirrors (njump.me, nostr.at, nostr.eu, nostr.ae, nostr.com), preserving all paths and query parameters. This eliminates the need to remember or choose between multiple instances, making it easier to access Nostr profiles, events, and other entities through a single memorable URL.
 
+{% include image.html path="/assets/images/bitcoin/projects/njump-to.png" link="https://njump.to" %}
+
 * Website: [njump.to][njump-to]
 * Source: [GitHub](https://github.com/dergigi/njump-to)
 
