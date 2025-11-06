@@ -101,7 +101,7 @@ Lessons. And 21 Lessons turned a book.
 {% include image.html path="/assets/images/bitcoin/projects/21lessons.png" link="https://21lessons.com" %}
 
 * Website: [21lessons.com][21lessons]
-* Nostr: [@21lessons.com](https://npub.world/npub1c48eccpffjsgq65x7j65zzv0877l4ylrl7j754agqe25xlp5yjdq3rvunf)
+* Nostr: [@21lessons.com](https://njump.to/npub1c48eccpffjsgq65x7j65zzv0877l4ylrl7j754agqe25xlp5yjdq3rvunf)
 * Purchase: [Paperback][paperback], [Kindle](https://amzn.to/3bvM49P), [Audiobook](https://amzn.to/2ZeUsYX)
 * Source: [GitHub](https://github.com/21-lessons/21lessons-book)
 
@@ -121,7 +121,7 @@ selecting and curating content.
 {% include image.html path="/assets/images/bitcoin/projects/bitcoin-resources.png" link="https://bitcoin-resources.com" %}
 
 * Website: [bitcoin-resources.com][bitcoin-resources]
-* Nostr: [@bitcoin-resources.com](https://npub.world/npub1ressrcmqgvqz3xuxdtamxmmv9ve6rxcf99fd694s6hutntfvcmdqvn56zk)
+* Nostr: [@bitcoin-resources.com](https://njump.to/npub1ressrcmqgvqz3xuxdtamxmmv9ve6rxcf99fd694s6hutntfvcmdqvn56zk)
 * Contribute: [GitHub](https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/CONTRIBUTING.md), [Telegram](https://t.me/BitcoinResourcesCom)
 * Source: [GitHub](https://github.com/bitcoin-resources/bitcoin-resources.github.io)
 
@@ -152,7 +152,7 @@ collection of Bitcoin-related quotes. As of this writing, 300+ quotes have been 
 indexed, in both audio and written form. The source of each quote will be revealed upon
 paying ~2¢ in sats. I hope that these quotes will inform, inspire, and delight those who
 stumble upon them. There is also a rudimentary [API][API] if you want to integrate these
-random quotes into a project of yours. Follow the [nostr bot](https://npub.world/npub1satst5p5jcacfpagy3jxscf2s48d9dd0v6lfxms7frp9e6t2w5xstmsfjp) of this project
+random quotes into a project of yours. Follow the [nostr bot](https://njump.to/npub1satst5p5jcacfpagy3jxscf2s48d9dd0v6lfxms7frp9e6t2w5xstmsfjp) of this project
 to get random quotes in your timeline.
 
 {% capture time_seed %}{{ 'now' | date: "%s" }}{% endcapture %}
@@ -162,7 +162,7 @@ to get random quotes in your timeline.
 {% include image.html path=randompath link="https://bitcoin-quotes.com" %}
 
 * Website: [bitcoin-quotes.com][bitcoin-quotes]
-* Nostr: [@bitcoin-quotes.com](https://npub.world/npub1satst5p5jcacfpagy3jxscf2s48d9dd0v6lfxms7frp9e6t2w5xstmsfjp)
+* Nostr: [@bitcoin-quotes.com](https://njump.to/npub1satst5p5jcacfpagy3jxscf2s48d9dd0v6lfxms7frp9e6t2w5xstmsfjp)
 * Source: [GitHub](https://github.com/dergigi/btc-quotes)
 
 [bitcoin-quotes]: https://www.bitcoin-quotes.com/
@@ -226,7 +226,7 @@ of German translations.
 * Hosts: [Daniel], [Dennis], [Fab], [Gigi], [Markus]
 * Website: [einundzwanzig.space](https://einundzwanzig.space/)
 * Podcast: [einundzwanzig.space/podcast][einundzwanzig]
-* Nostr: [@einundzwanzig.space](https://npub.world/npub1qv02xpsc3lhxxx5x7xswf88w3u7kykft9ea7t78tz7ywxf7mxs9qrxujnc)
+* Nostr: [@einundzwanzig.space](https://njump.to/npub1qv02xpsc3lhxxx5x7xswf88w3u7kykft9ea7t78tz7ywxf7mxs9qrxujnc)
 * Community: [t.me/einundzwanzigpodcast](https://t.me/einundzwanzigpodcast)
 
 [Daniel]: https://twitter.com/danielwingen
@@ -254,12 +254,12 @@ revised and adapted by myself.
 
 Building upon the great work of the Satoshi Nakamoto Institute, I wrote a nostr bot to
 disseminate the most insightful and interesting quotes of Satoshi Nakamoto. Simply follow
-[Quotable Satoshi](https://npub.world/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu) on nostr to get historical quotes from the inventor of
+[Quotable Satoshi](https://njump.to/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu) on nostr to get historical quotes from the inventor of
 Bitcoin in your timeline.
 
-{% include image.html path="/assets/images/bitcoin/projects/quotablesatoshi.png" link="https://npub.world/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu" %}
+{% include image.html path="/assets/images/bitcoin/projects/quotablesatoshi.png" link="https://njump.to/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu" %}
 
-* Nostr: [@quotablesatoshi.com](https://npub.world/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu)
+* Nostr: [@quotablesatoshi.com](https://njump.to/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu)
 * Source: [GitHub](https://github.com/dergigi/quotable-satoshi)
 
 
@@ -307,7 +307,7 @@ to start their own local—and localized—bitcoin-only community.
 {% include image.html path="/assets/images/bitcoin/projects/twentyone-world.png" link="https://twentyone.world" %}
 
 * Website: [twentyone.world](https://twentyone.world)
-* Nostr: [@twentyone.world](https://npub.world/npub1w0rldx5sdg960fw7lffu9r4tcec3nlu0ez2jzhdnl6x0tvdgpnkqf5v9xl)
+* Nostr: [@twentyone.world](https://njump.to/npub1w0rldx5sdg960fw7lffu9r4tcec3nlu0ez2jzhdnl6x0tvdgpnkqf5v9xl)
 * Source: [GitHub](https://github.com/twentyone-world/)
 
 ### Fucking Shitcoins
@@ -335,7 +335,7 @@ Friday to hold everyone accountable.
 {% include image.html path="/assets/images/bitcoin/projects/sovereign-engineering.png" link="https://sovereignengineering.io" %}
 
 * Website: [sovereignengineering.io](https://sovereignengineering.io/)
-* Nostr: [sovereignengineering.io](https://npub.world/npub1s0veng2gvfwr62acrxhnqexq76sj6ldg3a5t935jy8e6w3shr5vsnwrmq5)
+* Nostr: [sovereignengineering.io](https://njump.to/npub1s0veng2gvfwr62acrxhnqexq76sj6ldg3a5t935jy8e6w3shr5vsnwrmq5)
 
 ### OpenSats
 
@@ -345,7 +345,7 @@ OpenSats is a 501(c)(3) public charity dedicated to supporting the developers an
 
 * Website: [opensats.org](https://opensats.org/)
 * Donate: [General Fund](https://opensats.org/donate), [Operations Budget](https://opensats.org/donate)
-* Social: [GitHub](https://github.com/opensats), [Twitter](https://twitter.com/opensats), [Nostr](https://npub.world/npub10pensatlcfwktnvjjw2dtem38n6rvw8g6fv73h84cuacxn4c28eqyfn34f)
+* Social: [GitHub](https://github.com/opensats), [Twitter](https://twitter.com/opensats), [Nostr](https://njump.to/npub10pensatlcfwktnvjjw2dtem38n6rvw8g6fv73h84cuacxn4c28eqyfn34f)
 
 ### No Solutions
 
@@ -361,7 +361,7 @@ not a destination, and this podcast is its travel log.
 {% include image.html path="/assets/images/bitcoin/projects/no-solutions.png" link="https://sovereignengineering.io/podcast" %}
 
 * Website: [sovereignengineering.io/podcast](https://sovereignengineering.io/podcast)
-* Nostr: [no-solutions@sovereignengineering.io](https://npub.world/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n)
+* Nostr: [no-solutions@sovereignengineering.io](https://njump.to/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n)
 * Platforms: [castr.me](https://castr.me), [Podcast Index](https://podcastindex.org), [RSS](https://sovereignengineering.io/dialogues.xml)
 
 ### Contribution: The Bitcoin Times
