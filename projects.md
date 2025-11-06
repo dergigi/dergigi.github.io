@@ -447,9 +447,10 @@ adding [Tor] and [Dojo] support to Samourai Wallet's Sentinel app for iOS (see
 [video]). I also made some corrections to [BIP 2], [BIP 16], and [BIP 69]. I
 used to be part of the [Swan][joined-swan] engineering team and published a set of
 [extended public key tools][xpub-tools] as open source software. Follow me on
-GitHub to see what I'm up to.
+GitHub and nostr to see what I'm up to.
 
 * GitHub: [github.com/dergigi](https://github.com/dergigi)
+* nostr: [@dergigi.com](https://njump.me/dergigi.com)
 
 [Tor]: https://github.com/Samourai-Wallet/Sentinel-iOS/pull/11
 [Dojo]: https://github.com/Samourai-Wallet/Sentinel-iOS/pull/14
