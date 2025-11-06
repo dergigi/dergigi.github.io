@@ -13,6 +13,8 @@ subtitle: Words and Code for Bitcoin
 * Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop), [No Solutions](#no-solutions)
 * Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
 
+The best way to stay in touch with me and reach out is on [Nostr](https://njump.me/dergigi.com). Follow [@dergigi.com](https://njump.me/dergigi.com) to keep up with my latest work, thoughts, and updates.
+
 ---
 
 ### ants
