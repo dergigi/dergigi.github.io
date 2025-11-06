@@ -65,7 +65,7 @@ making reading on the web a more personal and sovereign experience.
 
 ### Dear Nostr
 
-[Dear Nostr][dearnostr] is a clean, minimal Nostr client dedicated to "Dear Nostr" posts. It provides extension-based authentication using Nostr extensions like Alby or nos2x, automatically prepends "Dear Nostr" to your messages, and appends the #DearNostr hashtag. With a [real-time feed](https://www.dearnostr.com/feed) displaying all Dear Nostr posts from configured relays, it offers a simple and focused way to participate in this unique corner of the nostrverse.
+[Dear Nostr][dearnostr] is a clean, minimal Nostr client dedicated to "Dear Nostr" posts. It provides extension-based authentication using Nostr extensions like Alby or nos2x, automatically prepends "Dear Nostr" to your messages, and appends the [#DearNostr](http://ants.sh/t/DearNostr) hashtag. With a [real-time feed](https://www.dearnostr.com/feed) displaying all Dear Nostr posts from configured relays, it offers a simple and focused way to participate in this unique corner of the nostrverse.
 
 {% include image.html path="/assets/images/bitcoin/projects/dear-nostr.png" link="https://www.dearnostr.com" %}
 
