@@ -13,7 +13,7 @@ subtitle: Words and Code for Bitcoin
 * Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop), [No Solutions](#no-solutions)
 * Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
 
-If you want to stay in touch and keep an eye on what I'm working on, find me on nostr as [@dergigi.com](https://ants.sh/p/dergigi.com)—that's where I'm most active and responsive.
+If you want to stay in touch and keep an eye on what I'm working on, find me on [nostr][nostr] as [@dergigi.com](https://njump.me/dergigi.com)—that's where I'm most active and responsive.
 
 ---
 
@@ -452,7 +452,7 @@ used to be part of the [Swan][joined-swan] engineering team and published a set 
 GitHub and nostr to see what I'm up to.
 
 * GitHub: [github.com/dergigi](https://github.com/dergigi)
-* nostr: [@dergigi.com](https://ants.sh/p/dergigi.com)
+* nostr: [@dergigi.com](https://njump.me/dergigi.com)
 
 [Tor]: https://github.com/Samourai-Wallet/Sentinel-iOS/pull/11
 [Dojo]: https://github.com/Samourai-Wallet/Sentinel-iOS/pull/14
