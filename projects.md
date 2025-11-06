@@ -4,7 +4,7 @@ title: Projects
 subtitle: Words and Code for Bitcoin
 ---
 
-* Apps: [Ants](#ants), [Boris](#boris), [castr.me](#castrme)
+* Apps: [Ants](#ants), [Boris](#boris), [castr.me](#castrme), [Dear Nostr](#dear-nostr)
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
 * Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes), [Value4Value](#value4value)
 * Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
@@ -62,6 +62,17 @@ making reading on the web a more personal and sovereign experience.
 * Source: [GitHub](https://github.com/dergigi/castr.me)
 
 [castrme]: https://castr.me/
+
+### dear-nostr
+
+[Dear Nostr][dearnostr] is a clean, minimal Nostr client dedicated to "Dear Nostr" posts. It provides extension-based authentication using Nostr extensions like Alby or nos2x, automatically prepends "Dear Nostr" to your messages, and appends the `#DearNostr` hashtag. With a real-time feed displaying all Dear Nostr posts from configured relays, it offers a simple and focused way to participate in this unique corner of the nostrverse.
+
+{% include image.html path="/assets/images/bitcoin/projects/dear-nostr.png" link="https://www.dearnostr.com" %}
+
+* Website: [dearnostr.com][dearnostr]
+* Source: [GitHub](https://github.com/dergigi/dearnostr)
+
+[dearnostr]: https://www.dearnostr.com/
 
 ---
 
