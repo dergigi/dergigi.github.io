@@ -4,7 +4,7 @@ title: Projects
 subtitle: Words and Code for Bitcoin
 ---
 
-* Apps: [Ants](#ants), [Boris](#boris), [castr.me](#castrme), [Dear Nostr](#dear-nostr)
+* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr)
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
 * Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes), [Value4Value](#value4value)
 * Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
