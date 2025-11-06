@@ -294,7 +294,6 @@ other strangers pay them, just because they can.
 {% include image.html path="/assets/images/bitcoin/projects/secretsatsa.png" link="https://secretsatsa.com" %}
 
 * Website: [secretsatsa.com](https://secretsatsa.com/)
-* Twitter: [#SecretSatsa](https://twitter.com/hashtag/SecretSatsa)
 * Source: [GitHub](https://github.com/secretsatsa/secretsatsa.github.io)
 
 ### Twentyone World
