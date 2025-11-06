@@ -269,4 +269,4 @@ copy at
 
 ---
 
-[EINUNDZWANZIG]: https://njump.me/npub1qv02xpsc3lhxxx5x7xswf88w3u7kykft9ea7t78tz7ywxf7mxs9qrxujnc
+[EINUNDZWANZIG]: https://njump.to/npub1qv02xpsc3lhxxx5x7xswf88w3u7kykft9ea7t78tz7ywxf7mxs9qrxujnc

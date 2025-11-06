@@ -156,7 +156,7 @@ unwiderruflich.
 
 {% include image.html name="der-fette-und-die-hexe.jpg" %}
 
-[AC]: https://njump.me/nevent1qqsguc5pcejjn28vrdaypz4xjp4cwtd9wh4z9x99hu0hmwg96czg9mszyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxfnjyd0
+[AC]: https://njump.to/nevent1qqsguc5pcejjn28vrdaypz4xjp4cwtd9wh4z9x99hu0hmwg96czg9mszyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxfnjyd0
 
 Bitcoin stellt den Gegenpol dar und bietet Zuflucht. Und weil es Zuflucht
 bietet, wird es auch reguliert und verboten werden. „Es muss Regulierung geben,"
@@ -165,7 +165,7 @@ so [Christine Lagarde][CL], Chefin der Europäischen Zentralbank. "Diese
 denn wenn es eine Fluchtmöglichkeit gibt, wird diese Fluchtmöglichkeit genutzt
 werden."
 
-[CL]: https://njump.me/nevent1qqsq0fdasnlcfvh22lzm4cu4uzcj452pwksgzutgz3vhd6jmlrpu78qzyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxhlmna4
+[CL]: https://njump.to/nevent1qqsq0fdasnlcfvh22lzm4cu4uzcj452pwksgzutgz3vhd6jmlrpu78qzyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxhlmna4
 
 {% capture absoluteVideoURL %}{{ 'assets/video/convicted-criminal.mp4' | absolute_url }}{% endcapture %}
 {% include video.html file=absoluteVideoURL %}
@@ -188,7 +188,7 @@ die Geschwindigkeit als auch die Privatsphäre betrifft. Und höhere (oder ander
 Layer werden noch besser sein.
 
 Ich bin nach-wie-vor der Meinung, dass Agustín Carstens der
-[Endboss](https://njump.me/note1hz4vam9gy06t474a34vywsuxzn5jfc572m43hm4a6yeyg3agjzfqfj2y0k)
+[Endboss](https://njump.to/note1hz4vam9gy06t474a34vywsuxzn5jfc572m43hm4a6yeyg3agjzfqfj2y0k)
 von Bitcoin ist, da er das Oberhaupt der "Bank der Zentralbanken" darstellt. Die
 BIZ, die Bank für Internationalen Zahlungsausgleich, macht in der Fiat-Welt das,
 was Bitcoin automatisch [alle 10 Minuten](/cryptography) macht: sie gleicht
@@ -201,7 +201,7 @@ bedienen. [Hal Finney][HF] hatte diese Einsicht im Dezember 2010:
 
 {% include image.html name="hal.jpg" link="https://bitcointalk.org/index.php?topic=2500.msg34211#msg34211" %}
 
-[HF]: https://njump.me/nevent1qqsvw5vegl3mau6munvyq3w9ygea5dvunqjne65hr6d7eeh7tdvwdxgppamhxue69uhkummnw3ezumt0d5q3gamnwvaz7tmjv4kxz7fwdehhxarj9e3xwq3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fswlmh4e
+[HF]: https://njump.to/nevent1qqsvw5vegl3mau6munvyq3w9ygea5dvunqjne65hr6d7eeh7tdvwdxgppamhxue69uhkummnw3ezumt0d5q3gamnwvaz7tmjv4kxz7fwdehhxarj9e3xwq3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fswlmh4e
 
 > Tatsächlich gibt es einen sehr guten Grund für die Existenz von
 > Bitcoin-gestützten Banken, die ihre eigene digitale Bargeldwährung herausgeben,
@@ -248,4 +248,4 @@ copy at
 
 ---
 
-[EINUNDZWANZIG]: https://njump.me/npub1qv02xpsc3lhxxx5x7xswf88w3u7kykft9ea7t78tz7ywxf7mxs9qrxujnc
+[EINUNDZWANZIG]: https://njump.to/npub1qv02xpsc3lhxxx5x7xswf88w3u7kykft9ea7t78tz7ywxf7mxs9qrxujnc
