@@ -4,14 +4,14 @@ title: Projects
 subtitle: Words and Code for Bitcoin
 ---
 
-* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr)
+* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr), [njump.to](#njump-to)
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
 * Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr), [Human B](#contribution-human-b)
 * Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes), [Value4Value](#value4value)
 * Nonprofit: [OpenSats](#opensats), [Sovereign Engineering](#sovereign-engineering)
 * Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop), [No Solutions](#no-solutions)
-* Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins), [njump.to](#njump-to)
+* Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
 
 If you want to stay in touch and keep an eye on what I'm working on, find me on [nostr][nostr] as [@dergigi.com](https://njump.to/dergigi.com)—that's where I'm most active and responsive.
 
@@ -71,6 +71,17 @@ making reading on the web a more personal and sovereign experience.
 * Source: [GitHub](https://github.com/dergigi/dearnostr)
 
 [dearnostr]: https://www.dearnostr.com/
+
+### njump.to
+
+[njump.to][njump-to] is a fast redirect service that provides a single URL to automatically forward users to a random njump mirror instance. The service randomly selects from multiple njump mirrors (njump.me, nostr.at, nostr.eu, nostr.ae, nostr.com), preserving all paths and query parameters. This eliminates the need to remember or choose between multiple instances, making it easier to access Nostr profiles, events, and other entities through a single memorable URL.
+
+{% include image.html path="/assets/images/bitcoin/projects/njump-to.png" link="https://njump.to" %}
+
+* Website: [njump.to][njump-to]
+* Source: [GitHub](https://github.com/dergigi/njump-to)
+
+[njump-to]: https://njump.to/
 
 ---
 
@@ -320,17 +331,6 @@ Seriously.
 * Website: [fuckingshitcoins.com](https://fuckingshitcoins.com/)
 * Twitter: [#FuckingShitcoins](https://twitter.com/hashtag/FuckingShitcoins)
 * Source: [GitHub](https://github.com/fuckingshitcoins/fuckingshitcoins.github.io)
-
-### njump.to
-
-[njump.to][njump-to] is a fast redirect service that provides a single URL to automatically forward users to a random njump mirror instance. The service randomly selects from multiple njump mirrors (njump.me, nostr.at, nostr.eu, nostr.ae, nostr.com), preserving all paths and query parameters. This eliminates the need to remember or choose between multiple instances, making it easier to access Nostr profiles, events, and other entities through a single memorable URL.
-
-{% include image.html path="/assets/images/bitcoin/projects/njump-to.png" link="https://njump.to" %}
-
-* Website: [njump.to][njump-to]
-* Source: [GitHub](https://github.com/dergigi/njump-to)
-
-[njump-to]: https://njump.to/
 
 ### Sovereign Engineering
 
