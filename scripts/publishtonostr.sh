@@ -188,13 +188,13 @@ BODY_RAW="$(echo "$BODY_RAW" | perl -ne '
   # If line is just dashes (possibly with whitespace), dont convert
   if (/^\s*---\s*$/) {
     print;
-  # If line contains |, it's likely a table - preserve all dashes
+  # If line contains |, it is likely a table - preserve all dashes
   } elsif (/\|/) {
     print;
   } else {
     # Convert exactly three dashes (not 4+) to em-dash, but only when surrounded by spaces or word boundaries
-    # This preserves things like "---" at start of line or in other contexts
-    s/(?<!-)---(?!-)/—/g;
+    # This preserves things like three dashes at start of line or in other contexts
+    s/(?<!-)---(?!-)/\x{2014}/g;
     print;
   }
 ')"
