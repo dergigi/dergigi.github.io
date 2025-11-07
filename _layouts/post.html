@@ -22,12 +22,6 @@ layout: default
              title="Personal blog entry"
              class="post__source">/blog</a>
         {% endif %}
-        {% if page.source %}
-          {% capture sourceHost %}{{ page.source | remove_first: "https://" | split: "/" | first | remove_first: "www." }}{% endcapture %}
-          {% unless sourceHost == "medium.com" %}
-          <a href="{{ page.source }}" title="Also published on {{ sourceHost }}" target="_blank" class="post__source" itemprop="isBasedOn">{{ sourceHost }}</a>
-          {% endunless %}
-        {% endif %}
         {% assign conversations = site.episodes | where: "code", code %}
         {% assign numConvs = conversations | size %}
         {% if numConvs > 0 %}
@@ -52,9 +46,15 @@ layout: default
         {% endif %}
         {% if page.updated_version %}
           <a href="{{ page.updated_version }}"
-             title="Updated version"
+             title="This article is part of 21 Ways"
              target="_blank"
              class="post__source">{{ page.updated_version | remove: "https://" | truncate: 21 }}</a>
+        {% endif %}
+        {% if page.boris_link %}
+          <a href="{{ page.boris_link }}"
+             title="Read with Boris"
+             target="_blank"
+             class="post__source">📖</a>
         {% endif %}
         {% if page.language == "German" %}
           <a href="https://einundzwanzig.space/" target="_blank" class="post__source">🇩🇪</a>

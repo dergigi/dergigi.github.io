@@ -13,7 +13,7 @@ favorite: false
 tags:
 - Writing
 - nostr
-updated_version: https://read.withboris.com/a/naddr1qqt8xur9v94kjmn894n8yet9d3uj6mmwd35kuegzyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxqcyqqq823cdawm6v
+boris_link: https://read.withboris.com/a/naddr1qqt8xur9v94kjmn894n8yet9d3uj6mmwd35kuegzyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxqcyqqq823cdawm6v
 ---
 
 

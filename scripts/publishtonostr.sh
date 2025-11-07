@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+# Ensure Perl one-liners handle UTF-8 on STDIN/STDOUT/STDERR to avoid
+# "Wide character in print" warnings when processing Unicode content.
+export PERL_UNICODE=S
+
 # publishtonostr.sh - Publish Jekyll posts to Nostr as NIP-23 long-form content (kind 30023)
 #
 # Usage:
@@ -90,6 +94,19 @@ CATEGORY="$(jq -r '.front_matter.category // empty' <<<"$POST_JSON")"
 TAGS_JSON="$(jq -c '(.front_matter.tags // []) | map(tostring)' <<<"$POST_JSON")"
 BODY_RAW="$(jq -r '.body' <<<"$POST_JSON")"
 
+# Convert Jekyll way includes to their content using Ruby
+# {% include way/02.md %} -> (content of _includes/way/02.md)
+BODY_RAW="$(ruby -e '
+  includes_dir = ARGV[0]
+  body = STDIN.read
+  body = body.gsub(/\{\%\s*include\s+way\/(\d+)\.md\s*\%\}/) do |m|
+    num  = "%02d" % $1.to_i
+    file = File.join(includes_dir, "way", "#{num}.md")
+    File.exist?(file) ? File.read(file) : m
+  end
+  print body
+' "$REPO_DIR/_includes" <<< "$BODY_RAW")"
+
 # Parse filename: YYYY-MM-DD-slug.markdown
 BASENAME="$(basename "$POST_FILE")"
 YEAR="${BASENAME:0:4}"
@@ -135,6 +152,12 @@ BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
   s|{% include video\.html file=(\w+)[^}]*%}|![](\$1)|g;
 ")"
 
+# Strip any remaining unprocessed Jekyll includes
+# Removes site-specific includes like v4v-21w.html, conversations.html, etc.
+# that don't make sense in Nostr content context
+# Note: way/, image.html, and video.html includes are already processed above
+BODY_RAW="$(echo "$BODY_RAW" | perl -pe 's/\{\%\s*include\s+[^%]+\s*\%\}//g')"
+
 # Resolve variable references in the content
 # Use perl to collect variables and do all replacements in a single pass
 BODY_RAW="$(echo "$BODY_RAW" | perl -ne '
@@ -160,16 +183,22 @@ BODY_RAW="$(SITE_URL="$SITE_URL" echo "$BODY_RAW" | perl -pe '
   s|!\[([^\]]*)\]\(([^)]+)\)|do { my ($alt, $url) = ($1, $2); sprintf("![%s](%s)", $alt, ($url =~ m{^https?://}) ? $url : ((substr($url, 0, 1) eq "/") ? $site . $url : $site . "/" . $url)); }|ge
 ')"
 
-# Convert three consecutive dashes to em-dash (but NOT at the beginning of a line, which would be a separator)
+# Convert three consecutive dashes to em-dash, but preserve in tables and separators
 # "text---text" -> "text—text" (em-dash in the middle of content)
 # "---" alone on a line -> leave as-is (Markdown separator)
+# "| --- |" in tables -> leave as-is (Markdown table separator)
+# "--------" (4+ dashes) -> leave as-is (table separators with more dashes)
 BODY_RAW="$(echo "$BODY_RAW" | perl -ne '
   # If line is just dashes (possibly with whitespace), dont convert
   if (/^\s*---\s*$/) {
     print;
+  # If line contains |, it is likely a table - preserve all dashes
+  } elsif (/\|/) {
+    print;
   } else {
-    # Convert --- to em-dash in all other lines
-    s/---/—/g;
+    # Convert exactly three dashes (not 4+) to em-dash, but only when surrounded by spaces or word boundaries
+    # This preserves things like three dashes at start of line or in other contexts
+    s/(?<!-)---(?!-)/\x{2014}/g;
     print;
   }
 ')"
@@ -319,14 +348,14 @@ if [[ -n "$NADDR" ]]; then
   BORIS_URL="https://read.withboris.com/a/$NADDR"
   echo ""
   echo "Updating post front matter with Nostr link..."
-  "$SCRIPT_DIR/jekyll_frontmatter.rb" update "$POST_FILE" "updated_version" "$BORIS_URL"
+  "$SCRIPT_DIR/jekyll_frontmatter.rb" update "$POST_FILE" "boris_link" "$BORIS_URL"
   
   # Commit the frontmatter change
   echo ""
   echo "Committing frontmatter update..."
   git add "$POST_FILE"
   git commit -m "chore: add Nostr reader link to $(basename "$POST_FILE")" \
-    -m "Added updated_version: $BORIS_URL"
+    -m "Added boris_link: $BORIS_URL"
   echo "✓ Changes committed"
 fi
 

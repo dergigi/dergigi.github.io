@@ -14,7 +14,7 @@ tags:
 - Bitcoin
 - Writing
 - nostr
-updated_version: https://read.withboris.com/a/naddr1qqgxc6t8dp6xu6twvukhqunfwdkhxq3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsxpqqqp65ws9gl6y
+boris_link: https://read.withboris.com/a/naddr1qqgxc6t8dp6xu6twvukhqunfwdkhxq3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsxpqqqp65ws9gl6y
 ---
 
 One aspect that is still massively under-utilized is the programmability

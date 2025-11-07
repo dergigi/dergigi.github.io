@@ -48,7 +48,7 @@ translations:
   url: https://pod.link/1359544516/episode/13637ef7c4f181f95e0f901ed9573812
   author: Guy Swann
   author_url: https://twitter.com/TheGuySwann
-updated_version: https://read.withboris.com/a/naddr1qq28g6r994n8yet9v3hk6tt0vckhvctvw4jsygrwg6zz9hahfftnsup23q3mnv5pdz46hpj4l2ktdpfu6rhpthhwjvpsgqqqw4rszalgc9
+boris_link: https://read.withboris.com/a/naddr1qq28g6r994n8yet9v3hk6tt0vckhvctvw4jsygrwg6zz9hahfftnsup23q3mnv5pdz46hpj4l2ktdpfu6rhpthhwjvpsgqqqw4rszalgc9
 ---
 
 The internet has a problem. Few people know that this problem exists,

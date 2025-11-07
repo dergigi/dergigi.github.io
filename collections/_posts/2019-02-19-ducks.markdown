@@ -10,7 +10,7 @@ category: photography
 tags:
 - Photography
 - Travel
-updated_version: https://read.withboris.com/a/naddr1qqzkgatrddesygrwg6zz9hahfftnsup23q3mnv5pdz46hpj4l2ktdpfu6rhpthhwjvpsgqqqw4rslqyltq
+boris_link: https://read.withboris.com/a/naddr1qqzkgatrddesygrwg6zz9hahfftnsup23q3mnv5pdz46hpj4l2ktdpfu6rhpthhwjvpsgqqqw4rslqyltq
 ---
 
 "Where are we heading?" \\

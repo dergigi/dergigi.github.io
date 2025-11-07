@@ -14,7 +14,7 @@ favorite: false
 tags:
 - Bitcoin
 - Writing
-updated_version: https://read.withboris.com/a/naddr1qq0k6mmjv9kz66tww3jkwunfwnp6gapdwpexjanpw3ehq6xr53ex2q3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsxpqqqp65w454cwx
+boris_link: https://read.withboris.com/a/naddr1qq0k6mmjv9kz66tww3jkwunfwnp6gapdwpexjanpw3ehq6xr53ex2q3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsxpqqqp65w454cwx
 ---
 
 Bitcoin ist nun 14 Jahre alt, und wie fast alle Teenager ist die orange Münze

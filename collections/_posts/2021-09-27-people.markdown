@@ -14,7 +14,7 @@ translations:
   url: https://telegra.ph/Menschen-01-05
   author: DerGeier
   author_url: https://twitter.com/DerGeier21
-updated_version: https://read.withboris.com/a/naddr1qqr8qet0wpkx2q3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsxpqqqp65whj9nuy
+boris_link: https://read.withboris.com/a/naddr1qqr8qet0wpkx2q3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsxpqqqp65whj9nuy
 ---
 
 People are the most wonderful thing. Full of potential, full of joy, full of

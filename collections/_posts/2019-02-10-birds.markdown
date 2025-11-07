@@ -10,7 +10,7 @@ category: photography
 tags:
 - Photography
 - Travel
-updated_version: https://read.withboris.com/a/naddr1qqzky6tjv3esygrwg6zz9hahfftnsup23q3mnv5pdz46hpj4l2ktdpfu6rhpthhwjvpsgqqqw4rsk58ltg
+boris_link: https://read.withboris.com/a/naddr1qqzky6tjv3esygrwg6zz9hahfftnsup23q3mnv5pdz46hpj4l2ktdpfu6rhpthhwjvpsgqqqw4rsk58ltg
 ---
 
 > There are people who love birds so much they free them. There are others who love them so much they cage them.
