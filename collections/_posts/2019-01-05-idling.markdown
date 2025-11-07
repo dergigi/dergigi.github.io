@@ -11,7 +11,7 @@ tags:
 - Photography
 - Travel
 - Poem
-updated_version: https://read.withboris.com/a/naddr1qqrxjervd9hxwq3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsxpqqqp65wt4hvs8
+boris_link: https://read.withboris.com/a/naddr1qqrxjervd9hxwq3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsxpqqqp65wt4hvs8
 ---
 
 > So much to do,\\

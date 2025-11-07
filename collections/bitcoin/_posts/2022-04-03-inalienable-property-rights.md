@@ -23,7 +23,7 @@ translations:
   url: https://youtu.be/oBApGvwkdGs
   author: Till Musshoff
   author_url: https://twitter.com/bPGTill
-updated_version: https://read.withboris.com/a/naddr1qqdkjmnpd35k2mnpvfkx2ttswfhhqetjw3uj6unfva58guczyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxqcyqqq823c52c8nj
+boris_link: https://read.withboris.com/a/naddr1qqdkjmnpd35k2mnpvfkx2ttswfhhqetjw3uj6unfva58guczyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxqcyqqq823c52c8nj
 ---
 
 {% capture introVideo %}{{ 'assets/video/hayek.mp4' | absolute_url }}{% endcapture %}
