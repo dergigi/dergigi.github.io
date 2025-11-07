@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+# Ensure Perl one-liners handle UTF-8 on STDIN/STDOUT/STDERR to avoid
+# "Wide character in print" warnings when processing Unicode content.
+export PERL_UNICODE=S
+
 # publishtonostr.sh - Publish Jekyll posts to Nostr as NIP-23 long-form content (kind 30023)
 #
 # Usage:
@@ -179,25 +183,10 @@ BODY_RAW="$(SITE_URL="$SITE_URL" echo "$BODY_RAW" | perl -pe '
   s|!\[([^\]]*)\]\(([^)]+)\)|do { my ($alt, $url) = ($1, $2); sprintf("![%s](%s)", $alt, ($url =~ m{^https?://}) ? $url : ((substr($url, 0, 1) eq "/") ? $site . $url : $site . "/" . $url)); }|ge
 ')"
 
-# Convert three consecutive dashes to em-dash, but preserve in tables and separators
-# "text---text" -> "text—text" (em-dash in the middle of content)
-# "---" alone on a line -> leave as-is (Markdown separator)
-# "| --- |" in tables -> leave as-is (Markdown table separator)
-# "--------" (4+ dashes) -> leave as-is (table separators with more dashes)
-BODY_RAW="$(echo "$BODY_RAW" | perl -ne '
-  # If line is just dashes (possibly with whitespace), dont convert
-  if (/^\s*---\s*$/) {
-    print;
-  # If line contains |, it is likely a table - preserve all dashes
-  } elsif (/\|/) {
-    print;
-  } else {
-    # Convert exactly three dashes (not 4+) to em-dash, but only when surrounded by spaces or word boundaries
-    # This preserves things like three dashes at start of line or in other contexts
-    s/(?<!-)---(?!-)/\x{2014}/g;
-    print;
-  }
-')"
+# NOTE: We intentionally do not auto-convert three dashes (---) to em-dash (—)
+# here to avoid interfering with Markdown table separators and other syntax.
+# If typographic conversion is desired, author em-dashes explicitly in source
+# or handle punctuation in a separate, dedicated step.
 
 # Convert relative Markdown links to absolute URLs
 # [text](/path) -> [text](https://site.com/path)
