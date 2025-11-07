@@ -148,6 +148,12 @@ BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
   s|{% include video\.html file=(\w+)[^}]*%}|![](\$1)|g;
 ")"
 
+# Strip any remaining unprocessed Jekyll includes
+# Removes site-specific includes like v4v-21w.html, conversations.html, etc.
+# that don't make sense in Nostr content context
+# Note: way/, image.html, and video.html includes are already processed above
+BODY_RAW="$(echo "$BODY_RAW" | perl -pe 's/\{\%\s*include\s+[^%]+\s*\%\}//g')"
+
 # Resolve variable references in the content
 # Use perl to collect variables and do all replacements in a single pass
 BODY_RAW="$(echo "$BODY_RAW" | perl -ne '

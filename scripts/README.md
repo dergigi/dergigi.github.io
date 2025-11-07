@@ -55,11 +55,17 @@ find collections/_posts -name '*.markdown' -print0 | xargs -0 -n1 scripts/publis
 
 The script:
 1. Parses Jekyll front matter (`title`, `description`, `image`, `tags`, `date`)
-2. Constructs a NIP-23 kind:30023 event with proper metadata tags
-3. Uses the kebab-case slug as the `d` tag for edit tracking
-4. Strips HTML tags and replaces `<cite>` with em-dashes
-5. Saves JSON to `tmp/nostr-events/` for review
-6. Publishes to Nostr with `--confirm` (requires manual approval)
+2. Processes Jekyll includes:
+   - `way/N.md` includes are inlined (content is inserted)
+   - `image.html` includes are converted to Markdown image syntax
+   - `video.html` includes are converted to Markdown image syntax
+   - All other includes (e.g., `v4v-21w.html`) are stripped
+3. Converts relative URLs to absolute URLs
+4. Constructs a NIP-23 kind:30023 event with proper metadata tags
+5. Uses the kebab-case slug as the `d` tag for edit tracking
+6. Strips HTML tags and replaces `<cite>` with em-dashes
+7. Saves JSON to `tmp/nostr-events/` for review
+8. Publishes to Nostr with `--confirm` (requires manual approval)
 
 See [NIP-23](https://nips.nostr.com/23) for the long-form content specification.
 
