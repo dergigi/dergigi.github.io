@@ -9,7 +9,7 @@ author: Gigi
 category: bitcoin
 audio: /assets/audio/bitcoin-is-an-idea.ogg
 redirect_from: /idea
-updated_version: https://21-ways.com/1
+ways_version: https://21-ways.com/1
 favorite: true
 tags:
  - Bitcoin

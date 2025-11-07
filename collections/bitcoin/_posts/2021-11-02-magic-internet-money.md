@@ -7,7 +7,7 @@ date: 2021-11-02
 blocktime: 707909
 image: /assets/images/magic-internet-money.jpg
 redirect_from: /magic
-updated_version: https://21-ways.com/3
+ways_version: https://21-ways.com/3
 author: Gigi
 category: bitcoin
 favorite: true

@@ -7,7 +7,7 @@ blocktime: 756744
 image: /assets/images/goldmaedchen.jpg
 audio: /assets/audio/digital-scarcity.ogg
 redirect_from: /digital
-updated_version: https://21-ways.com/6
+ways_version: https://21-ways.com/6
 author: Gigi
 category: bitcoin
 favorite: true
