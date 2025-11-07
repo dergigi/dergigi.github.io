@@ -8,7 +8,7 @@ blocktime: 666053
 image: "/assets/images/bitcoin-is-time.jpg"
 source: https://www.swanbitcoin.com/bitcoin-is-time/
 redirect_from: "/time"
-ways_version: https://21-ways.com/2
+updated_version: https://21-ways.com/2
 boris_link: https://read.withboris.com/a/naddr1qq8ky6t5vdhkjm3dd9ej6arfd4jsygrwg6zz9hahfftnsup23q3mnv5pdz46hpj4l2ktdpfu6rhpthhwjvpsgqqqw4rsdan6ej
 author: Gigi
 category: bitcoin

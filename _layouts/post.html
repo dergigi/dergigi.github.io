@@ -44,11 +44,11 @@ layout: default
             {% endif %}
           </a>
         {% endif %}
-        {% if page.ways_version %}
-          <a href="{{ page.ways_version }}"
+        {% if page.updated_version %}
+          <a href="{{ page.updated_version }}"
              title="This article is part of 21 Ways"
              target="_blank"
-             class="post__source">{{ page.ways_version | remove: "https://" | truncate: 21 }}</a>
+             class="post__source">{{ page.updated_version | remove: "https://" | truncate: 21 }}</a>
         {% endif %}
         {% if page.updated_version %}
           <a href="{{ page.updated_version }}"
