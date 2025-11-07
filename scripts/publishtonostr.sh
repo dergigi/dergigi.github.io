@@ -332,14 +332,14 @@ if [[ -n "$NADDR" ]]; then
   BORIS_URL="https://read.withboris.com/a/$NADDR"
   echo ""
   echo "Updating post front matter with Nostr link..."
-  "$SCRIPT_DIR/jekyll_frontmatter.rb" update "$POST_FILE" "updated_version" "$BORIS_URL"
+  "$SCRIPT_DIR/jekyll_frontmatter.rb" update "$POST_FILE" "boris_link" "$BORIS_URL"
   
   # Commit the frontmatter change
   echo ""
   echo "Committing frontmatter update..."
   git add "$POST_FILE"
   git commit -m "chore: add Nostr reader link to $(basename "$POST_FILE")" \
-    -m "Added updated_version: $BORIS_URL"
+    -m "Added boris_link: $BORIS_URL"
   echo "✓ Changes committed"
 fi
 
