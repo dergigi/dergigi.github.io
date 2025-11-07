@@ -90,6 +90,19 @@ CATEGORY="$(jq -r '.front_matter.category // empty' <<<"$POST_JSON")"
 TAGS_JSON="$(jq -c '(.front_matter.tags // []) | map(tostring)' <<<"$POST_JSON")"
 BODY_RAW="$(jq -r '.body' <<<"$POST_JSON")"
 
+# Convert Jekyll way includes to their content using Ruby
+# {% include way/02.md %} -> (content of _includes/way/02.md)
+BODY_RAW="$(ruby -e '
+  includes_dir = ARGV[0]
+  body = STDIN.read
+  body = body.gsub(/\{\%\s*include\s+way\/(\d+)\.md\s*\%\}/) do |m|
+    num  = "%02d" % $1.to_i
+    file = File.join(includes_dir, "way", "#{num}.md")
+    File.exist?(file) ? File.read(file) : m
+  end
+  print body
+' "$REPO_DIR/_includes" <<< "$BODY_RAW")"
+
 # Parse filename: YYYY-MM-DD-slug.markdown
 BASENAME="$(basename "$POST_FILE")"
 YEAR="${BASENAME:0:4}"
