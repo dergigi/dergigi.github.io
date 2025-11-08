@@ -8,7 +8,8 @@ Gigi is the author of [21 Lessons](https://21lessons.com/), a popular book abou
 lessons learned from falling down the Bitcoin rabbit hole. His current
 work-in-progress book, [21 Ways](https://21-ways.com/), tries to illuminate
 Bitcoin from multiple angles, using metaphors from biology, physics,
-engineering, and other disciplines.
+engineering, and other disciplines. In addition to writing books he launched
+and contributed to [various projects][projects] over the years.
 
 He is the creator and maintainer
 of [bitcoin-resources.com](https://bitcoin-resources.com/) and
