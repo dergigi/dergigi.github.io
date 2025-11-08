@@ -9,7 +9,7 @@ lessons learned from falling down the Bitcoin rabbit hole. His current
 work-in-progress book, [21 Ways](https://21-ways.com/), tries to illuminate
 Bitcoin from multiple angles, using metaphors from biology, physics,
 engineering, and other disciplines. In addition to writing books he launched
-and contributed to [various projects][projects] over the years.
+and contributed to [various projects](https://dergigi.com/projects) over the years.
 
 He is the creator and maintainer
 of [bitcoin-resources.com](https://bitcoin-resources.com/) and
@@ -20,9 +20,11 @@ multi-faceted understanding of Bitcoin & nostr.
 In 2019 he launched the German-speaking Bitcoin podcast
 \"[Einundzwanzig](https://einundzwanzig.space/)\" with one of his co-hosts which
 turned into a community movement that now spans [multiple
-countries](https://twentyone.world/). He is passionate about privacy, human
-rights, and freedom technology.  He likes to [meander](https://plebwalks.com/)
-and is involved in [toomanyprojects.xyz](http://toomanyprojects.xyz/).
+countries](https://twentyone.world/). In 2023 he launched [Sovereign
+Engineering](https://sovereignengineering.io/), a program for freedom tech
+builders that is dedicated to high-bandwidth collaboration, in-person
+communication, and iterative experimentation. He is passionate about privacy,
+human rights, and freedom technology.
 
 As the head of strategy and operations at [OpenSats](https://opensats.org/), he
 spends most of his day thinking about how to best support the development of
