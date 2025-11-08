@@ -8,7 +8,7 @@ Gigi is the author of [21 Lessons](https://21lessons.com/), a popular book abou
 lessons learned from falling down the Bitcoin rabbit hole. His current
 work-in-progress book, [21 Ways](https://21-ways.com/), tries to illuminate
 Bitcoin from multiple angles, using metaphors from biology, physics,
-engineering, and other disciplines. In addition to writing books he launched
+engineering, and other disciplines. In addition to writing books, he launched
 and contributed to [various projects](https://dergigi.com/projects) over the years.
 
 He is the creator and maintainer
@@ -26,7 +26,7 @@ builders that is dedicated to high-bandwidth collaboration, in-person
 communication, and iterative experimentation. He is passionate about privacy,
 human rights, and freedom technology.
 
-As the president & executive director of [OpenSats](https://opensats.org/), he
+As the president and executive director of [OpenSats](https://opensats.org/), he
 spends most of his day thinking about how to best support the development of
 free and open-source software as we transition towards an increasingly
 bitcoinized world.
