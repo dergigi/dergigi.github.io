@@ -63,9 +63,13 @@ const PageTransition = (() => {
     },
 
     firefox() {
-      s.window.unload(() => {
-        s.window.unbind('unload');
-      });
+      // jQuery 3 removed the `.unload()`/`.unbind()` shorthand methods.
+      // Use the modern `.on()`/`.off()` API instead and guard for safety.
+      if (s && s.window && typeof s.window.on === 'function') {
+        s.window.on('unload', () => {
+          s.window.off('unload');
+        });
+      }
     },
 
     safari() {
