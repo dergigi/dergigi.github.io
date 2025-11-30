@@ -21,12 +21,11 @@
     "theme"
   ],
   "dependencies": {
-    "aos": "^2.3.4",
-    "gulp": "^5.0.0",
-    "jekyll-infinite-scroll": "^1.0.5",
-    "jquery": "^3.7.1",
-    "node-sass": "^9.0.0",
-    "salvattore": "^1.0.9"
+  "aos": "^2.3.4",
+  "gulp": "^5.0.0",
+  "jekyll-infinite-scroll": "^1.0.5",
+  "jquery": "^3.7.1",
+  "salvattore": "^1.0.9"
   },
   "devDependencies": {
     "@babel/cli": "^7.24.8",
