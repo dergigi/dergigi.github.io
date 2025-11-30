@@ -70,3 +70,9 @@
     ga('send', 'pageview');
   </script>
 {% endif %}
+
+{% if jekyll.environment == "production" %}
+<!-- Fathom - beautiful, simple website analytics -->
+<script src="https://cdn.usefathom.com/script.js" data-site="QHRSVQMF" defer></script>
+<!-- / Fathom -->
+{% endif %}
