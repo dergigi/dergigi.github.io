@@ -10,4 +10,11 @@ Thank you 🙏🧡.
 
 ---
 
+## License
+
+- **Code**: MIT (see [LICENSE](LICENSE))
+- **Words/content**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (see [LICENSE-CC-BY-SA.md](LICENSE-CC-BY-SA.md))
+
+---
+
 [![tippin.me](https://badgen.net/badge/⚡/s@ts.dergigi.com/f7931a)](https://dergigi.com/support)
