@@ -74,7 +74,7 @@ making reading on the web a more personal and sovereign experience.
 
 ### lookmarks
 
-[Lookmarks][lookmarks] helps you find what's catching people's eyes on Nostr: events with 👀 reactions, replies, or quotes. A lookmark is when someone reacts to a post with 👀 — it's like a bookmark, but less official. It's a little note that says "save this", "check this out", or "I'll have a closer look later". The app collects those signals and shows you the posts people are pointing at: crowd-sourced bookmarks. The project was birthed at [Sovereign Engineering](#sovereign-engineering).
+[Lookmarks][lookmarks] helps you find what's catching people's eyes on Nostr: events with 👀 reactions, replies, or quotes. A lookmark is when someone reacts to a post with 👀 — it's like a bookmark, but less official. It's a little note that says "save this", "check this out", or "I'll have a closer look later". The app collects those signals and shows you the posts people are pointing at: crowd-sourced bookmarks.
 
 {% include image.html path="/assets/images/bitcoin/projects/lookmarks.png" link="https://lookmarks.dergigi.com" %}
 
