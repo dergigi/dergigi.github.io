@@ -47,12 +47,5 @@
         "order": 70,
         "fav": true,
         "link": "https://twentyone.world/"
-    },
-    {
-        "name": "Lookmarks",
-        "code": "LM",
-        "order": 80,
-        "fav": true,
-        "link": "https://lookmarks.dergigi.com/"
     }
 ]
