@@ -4,7 +4,7 @@ title: Projects
 subtitle: Words and Code for Bitcoin
 ---
 
-* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr), [njump.to](#njumpto)
+* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr), [Lookmarks](#lookmarks), [njump.to](#njumpto)
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
 * Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr), [Human B](#contribution-human-b)
@@ -71,6 +71,17 @@ making reading on the web a more personal and sovereign experience.
 * Source: [GitHub](https://github.com/dergigi/dearnostr)
 
 [dearnostr]: https://www.dearnostr.com/
+
+### lookmarks
+
+[Lookmarks][lookmarks] helps you find what's catching people's eyes on Nostr: events with 👀 reactions, replies, or quotes. A lookmark is when someone reacts to a post with 👀 — it's like a bookmark, but less official. It's a little note that says "save this", "check this out", or "I'll have a closer look later". The app collects those signals and shows you the posts people are pointing at: crowd-sourced bookmarks. The project was birthed at [Sovereign Engineering](#sovereign-engineering).
+
+{% include image.html path="/assets/images/bitcoin/projects/lookmarks.png" link="https://lookmarks.dergigi.com" %}
+
+* Website: [lookmarks.dergigi.com][lookmarks]
+* Source: [GitHub](https://github.com/dergigi/lookmarks)
+
+[lookmarks]: https://lookmarks.dergigi.com/
 
 ### njump.to
 
