@@ -104,6 +104,10 @@ specific article---you can!
 
 [sats]: lightning:s@ts.dergigi.com
 
+### Nostr
+
+[Give Value Back With Zaps](https://zapper.fun/zap?id=npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc)
+
 ### Supporting Others
 
 If you don't want to support me but still want to support Bitcoin and related
