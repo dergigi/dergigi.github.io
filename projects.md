@@ -4,7 +4,7 @@ title: Projects
 subtitle: Words and Code for Bitcoin
 ---
 
-* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr), [Lookmarks](#lookmarks), [njump.to](#njumpto)
+* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr), [Lookmarks](#lookmarks), [njump.to](#njumpto), [Unicorn vs Snakes](#unicorn-vs-snakes)
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
 * Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr), [Human B](#contribution-human-b)
@@ -93,6 +93,16 @@ making reading on the web a more personal and sovereign experience.
 * Source: [GitHub](https://github.com/dergigi/njump-to)
 
 [njump-to]: https://njump.to/
+
+### Unicorn vs Snakes
+
+[Unicorn vs Snakes][uvs] is a kid-friendly pixel sidescroller built with Phaser 3 and TypeScript. Guide a brave unicorn through four levels — forest, lava, and castle — collecting sparkles to re-light the sky, dodging snakes and bats, and ultimately defeating the wicked witch who stole the Rainbow Kingdom's light. The game features a Nostr-powered leaderboard where players can publish their speedrun times as nostr events and compete with others. Built together with my daughter.
+
+{% include image.html path="/assets/images/bitcoin/projects/unicorn-vs-snakes.png" link="https://github.com/dergigi/unicorn-vs-snakes" %}
+
+* Source: [GitHub](https://github.com/dergigi/unicorn-vs-snakes)
+
+[uvs]: https://github.com/dergigi/unicorn-vs-snakes
 
 ---
 
