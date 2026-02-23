@@ -98,11 +98,12 @@ making reading on the web a more personal and sovereign experience.
 
 [Unicorn vs Snakes][uvs] is a kid-friendly pixel sidescroller built with Phaser 3 and TypeScript. Guide a brave unicorn through four levels — forest, lava, and castle — collecting sparkles to re-light the sky, dodging snakes and bats, and ultimately defeating the wicked witch who stole the Rainbow Kingdom's light. The game features a Nostr-powered leaderboard where players can publish their speedrun times as nostr events and compete with others. Built together with my daughter.
 
-{% include image.html path="/assets/images/bitcoin/projects/unicorn-vs-snakes.png" link="https://github.com/dergigi/unicorn-vs-snakes" %}
+{% include image.html path="/assets/images/bitcoin/projects/unicorn-vs-snakes.png" link="https://unicorn.dergigi.com" %}
 
+* Website: [unicorn.dergigi.com][uvs]
 * Source: [GitHub](https://github.com/dergigi/unicorn-vs-snakes)
 
-[uvs]: https://github.com/dergigi/unicorn-vs-snakes
+[uvs]: https://unicorn.dergigi.com/
 
 ---
 
