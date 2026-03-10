@@ -4,7 +4,7 @@ title: Projects
 subtitle: Words and Code for Bitcoin
 ---
 
-* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr), [Lookmarks](#lookmarks), [njump.to](#njumpto)
+* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr), [Lookmarks](#lookmarks), [njump.to](#njumpto), [Unicorn vs Snakes](#unicorn-vs-snakes), [VibeLine](#vibeline)
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
 * Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr), [Human B](#contribution-human-b)
@@ -93,6 +93,28 @@ making reading on the web a more personal and sovereign experience.
 * Source: [GitHub](https://github.com/dergigi/njump-to)
 
 [njump-to]: https://njump.to/
+
+### Unicorn vs Snakes
+
+[Unicorn vs Snakes][uvs] is a kid-friendly pixel sidescroller built with Phaser 3 and TypeScript. Guide a brave unicorn through four levels — forest, lava, and castle — collecting sparkles to re-light the sky, dodging snakes and bats, and ultimately defeating the wicked witch who stole the Rainbow Kingdom's light. The game features a Nostr-powered leaderboard where players can publish their speedrun times as nostr events and compete with others. Built together with my daughter.
+
+{% include image.html path="/assets/images/bitcoin/projects/unicorn-vs-snakes.png" link="https://unicorn.dergigi.com" %}
+
+* Website: [unicorn.dergigi.com][uvs]
+* Source: [GitHub](https://github.com/dergigi/unicorn-vs-snakes)
+
+[uvs]: https://unicorn.dergigi.com/
+
+### VibeLine
+
+[VibeLine][vibeline] is a voice memo processing system that uses AI to extract meaningful content from your recordings. The idea is simple: speak into your phone, touch grass, and let the computer do the computer work. VibeLine transcribes your voice memos and uses a flexible plugin system to generate summaries, blog posts, app ideas, action items, and more. There's also a separate [web UI](https://github.com/dergigi/vibeline-ui) for browsing and managing your processed memos.
+
+{% include image.html path="/assets/images/bitcoin/projects/vibeline.png" link="https://github.com/dergigi/vibeline" %}
+
+* Source: [GitHub](https://github.com/dergigi/vibeline)
+* UI: [GitHub](https://github.com/dergigi/vibeline-ui)
+
+[vibeline]: https://github.com/dergigi/vibeline
 
 ---
 
