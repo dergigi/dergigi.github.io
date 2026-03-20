@@ -24,7 +24,7 @@ And now come the agents. The fact that I had to preface this with "hey, trust me
 
 # From Slot-machines to Slop-machines
 
-I [wrote] and [talked](https://youtu.be/4usXBGvufKg) about at length as to why the internet was basically forced to turn itself into a slot machine to monetize itself. I'm not going to repeat this argument here, and I guess that everyone reading that far (you are the 1%! or more accurately, the 4%, if statistics are to be believed) _knows_ that there's a military-industrial surveillance complex that is farming your eyeballs and brain cycles.
+I [wrote] and [talked] about at length as to why the internet was basically forced to turn itself into a slot machine to monetize itself. I'm not going to repeat this argument here, and I guess that everyone reading that far (you are the 1%! or more accurately, the 4%, if statistics are to be believed) _knows_ that there's a military-industrial surveillance complex that is farming your eyeballs and brain cycles.
 
 Everything is a slot machine. Everything is designed to be maximally addicting. Which means maximally targeted. Which means maximally surveilled. Which means if you're a pseudonymous internet person behind a VPN like me, you're fucked. Completely fucked. Without reproach.
 
@@ -48,8 +48,14 @@ I think we're gonna make it, fam. It's gonna be different, but it's going to be 
 
 Is the attention span of everyone rekt? Yes. Is content on the "internet" gonna get worse? Absolutely. Are you going to have to scan your eyeballs, or your sphincter, or provide some other insane biometric info or government ID to use any mainstream internet service whatsoever going forward? Also yes, unfortunately.
 
-But it's going to be okay. And you can also exit. Join the Amish, or generate a keypair and join [another weird cult](https://nstart.me). Touching grass helps too. Talking to real humans, in real life, about real things. With your own weird idiosyncrasies and weights and hallucinations.
+But it's going to be okay. And you can also exit. Join the Amish, or generate a keypair and join [another weird cult]. Touching grass helps too. Talking to real humans, in real life, about real things. With your own weird idiosyncrasies and weights and hallucinations.
 
 I'm bullish on humanity, and maybe the overabundance of LLM slop will bring out the best in us. The most authentic. The most human. The most real. But am I bullish on the internet, as it once was, and as it currently is? Not so much. And yet there's hope, and new things are born every day.
 
 The internet is dead. Long live the internet.
+
+[me]: /names
+[wrote]: /vew
+[talked]: https://youtu.be/4usXBGvufKg
+[nihao]: https://clawhub.ai/dergigi/nihao
+[another weird cult]: https://nstart.me
