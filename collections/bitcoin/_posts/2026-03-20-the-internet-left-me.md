@@ -47,6 +47,8 @@ If you're a writer, it's quite obvious in writing. If you're a designer, it's qu
 
 I think we're gonna make it, fam. It's gonna be different, but it's going to be okay. The dog of wisdom told me as much in a meme.
 
+{% include image.html name="internet-dog-of-wisdom.jpg" %}
+
 Is the attention span of everyone rekt? Yes. Is content on the "internet" gonna get worse? Absolutely. Are you going to have to scan your eyeballs, or your sphincter, or provide some other insane biometric info or government ID to use any mainstream internet service whatsoever going forward? Also yes, unfortunately.
 
 But it's going to be okay. And you can also exit. Join the Amish, or generate a keypair and join [another weird cult]. Touching grass helps too. Talking to real humans, in real life, about real things. With your own weird idiosyncrasies and weights and hallucinations.
