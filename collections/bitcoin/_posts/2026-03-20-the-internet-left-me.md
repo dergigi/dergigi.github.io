@@ -20,7 +20,7 @@ What I do know is that "the internet" is dead, and probably has been for a long 
 
 We did this to ourselves, mind you. Convenience, convenience, convenience. Walled gardens are terribly convenient, and nobody likes to leave them. Leaving them brings friction. And boy oh boy, do people hate friction.
 
-And now come the agents. The fact that I had to preface this with "hey, trust me bro, an LLM didn't write this one" is a testament to the weird times we're in. Look. I love LLMs. I've probably used more tokens than the one SF hypeboy that told you that the Singularity is coming tomorrow. If my wife would know my current AI spend she'd probably divorce me, but hey, I've got a lot of [projects] and a lot of ideas so why not spawn a swarm of 50 agents that just do stuff on their own. After all, the only way to understand what's really going on is to really use the stuff that everyone is talking about, and see how powerful it really is.
+And now come the agents. The fact that I had to preface this with "hey, trust me bro, an LLM didn't write this one" is a testament to the weird times we're in. Look. I love LLMs. I've probably [used more tokens] than the one SF hypeboy that told you that the Singularity is coming tomorrow. If my wife would know my current AI spend she'd probably divorce me, but hey, I've got a lot of [projects] and a lot of ideas so why not spawn a swarm of 50 agents that just do stuff on their own. After all, the only way to understand what's really going on is to really use the stuff that everyone is talking about, and see how powerful it really is.
 
 And yes, it's powerful. I've built [nihao] with a single self-referential recursive prompt, for example. But this post is not even about all that. It's about the slop. And the blocking. And Sam Jippity Altman wanting to scan your eyeballs. But first things first. The slop. Oh my God, do I hate the slop.
 
@@ -63,6 +63,7 @@ The internet is dead. Long live the internet.
 
 [me]: /names
 ["it's not X it's Y"]: https://www.blakestockton.com/dont-write-like-ai-1-101-negation/
+[used more tokens]: /2025/10/31/building-boris/#overdoing-it
 [wrote]: /vew
 [talked]: https://youtu.be/4usXBGvufKg
 [my principles]: /bio
