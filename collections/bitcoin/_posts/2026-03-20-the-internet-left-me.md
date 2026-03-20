@@ -12,7 +12,7 @@ tags:
  - Writing
 ---
 
-I didn't leave the internet—the internet left me. And despite the "it's not X it's Y" structure of the previous sentence, and the em-dash used, a real human wrote this. Or more accurately: is currently (trying to) write this. This human is [me].
+I didn't leave the internet—the internet left me. And despite the ["it's not X it's Y"] structure of the previous sentence, and the em-dash used, a real human wrote this. Or more accurately: is currently (trying to) write this. This human is [me].
 
 I love the internet. Or should I say I: I used to love the internet? I'm not even sure what "the internet" is anymore. It sure as fuck isn't Facebook, even though that's the reality for a lot of people. What even is "Facebook" today, given that Meta owns WhatsApp, Instagram, and a gazillion other things? Are you on Facebook when you're sharing a funny video with your friends on WhatsApp? In some sense yes; in some sense no. Your (Meta)data is probably gobbled up all the same.... I don't know...
 
@@ -60,6 +60,7 @@ I'm bullish on humanity, and maybe the overabundance of LLM slop will bring out 
 The internet is dead. Long live the internet.
 
 [me]: /names
+["it's not X it's Y"]: https://www.blakestockton.com/dont-write-like-ai-1-101-negation/
 [wrote]: /vew
 [talked]: https://youtu.be/4usXBGvufKg
 [my principles]: /bio
