@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "I didn't leave the internet. The internet left me."
-description: ""
+title: "What's left of the internet?"
+description: "I didn't leave the internet. The internet left me."
 date: 2026-03-20
 blocktime: 941439
 image: /assets/images/the-internet-left-me.jpg
@@ -12,7 +12,7 @@ tags:
  - Writing
 ---
 
-Despite the "it's not X it's Y" structure of the headline, a real human wrote this. Or more accurately: is currently (trying to) write this. This human is [me].
+I didn't leave the internet—the internet left me. And despite the "it's not X it's Y" structure of the previous sentence, and the em-dash used, a real human wrote this. Or more accurately: is currently (trying to) write this. This human is [me].
 
 I love the internet. Or should I say I: I used to love the internet? I'm not even sure what "the internet" is anymore. It sure as fuck isn't Facebook, even though that's the reality for a lot of people. What even is "Facebook" today, given that Meta owns WhatsApp, Instagram, and a gazillion other things? Are you on Facebook when you're sharing a funny video with your friends on WhatsApp? In some sense yes; in some sense no. Your [meta]data is probably gobbled up all the same.... I don't know...
 
