@@ -9,6 +9,7 @@ author: Gigi
 category: bitcoin
 tags:
  - Nostr
+ - AI
  - Writing
 ---
 
