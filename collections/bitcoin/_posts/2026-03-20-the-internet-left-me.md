@@ -30,7 +30,8 @@ Everything is a slot machine. Everything is designed to be maximally addicting. 
 
 I can't use the internet anymore, whatever "the internet" is in its current state. I refuse to comply, and it's virtually impossible to use the internet without complying. And things will only get worse from hereon out.
 
-[insert exwife-of-frankenstein feature (I have it in Primal folder)]
+{% capture internetVideo %}{{ 'assets/video/internet.mp4' | absolute_url }}{% endcapture %}
+{% include video.html file=internetVideo %}
 
 Here's the thing though: I didn't leave. All I did was stay true to my principles, and the internet left me. What a sad state of affairs.
 
