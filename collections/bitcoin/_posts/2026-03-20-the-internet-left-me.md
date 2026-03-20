@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "What's left of the internet?"
-description: "I didn't leave the internet. The internet left me."
+title: What's left of the internet?
+description: I didn't leave the internet. The internet left me.
 date: 2026-03-20
 blocktime: 941444
-image: /assets/images/the-internet-left-me.jpg
+image: "/assets/images/the-internet-left-me.jpg"
 author: Gigi
 category: bitcoin
 tags:
- - Nostr
- - AI
- - Writing
+- Nostr
+- AI
+- Writing
+boris_link: https://read.withboris.com/a/naddr1qq28g6r9945kuar9wfhx2apdd3jkvapdd4jsygrwg6zz9hahfftnsup23q3mnv5pdz46hpj4l2ktdpfu6rhpthhwjvpsgqqqw4rsenast8
 ---
 
 I didn't leave the internet—the internet left me. And despite the ["it's not X it's Y"] structure of the previous sentence, and the em-dash used, a real human wrote this. Or more accurately: is currently (trying to) write this. This human is [me].
