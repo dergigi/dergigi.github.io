@@ -33,9 +33,11 @@ I can't use the internet anymore, whatever "the internet" is in its current stat
 {% capture internetVideo %}{{ 'assets/video/internet.mp4' | absolute_url }}{% endcapture %}
 {% include video.html file=internetVideo %}
 
+---
+
 Here's the thing though: I didn't leave. All I did was stay true to my principles, and the internet left me. What a sad state of affairs.
 
-# ~~Web 3.0~~ Web 4.0
+# ~~Web 1.0~~ ~~Web 2.0~~ ~~Web 3.0~~ Web 4.0
 
 Just writing the headline above brings me back to the Web 2.0 days, which I hated too. Everything had the same look, the same style, the same design, the same _smell_. Round corners. Everything glossy. Colors that would led you to believe that you had a stroke. Flickr, twittr (yes, without "e", I kid you not), tumblr, and a million other things ending in "rrr" that I can't remember anymore. Don't want to remember, probably.
 
