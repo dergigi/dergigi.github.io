@@ -35,7 +35,7 @@ I can't use the internet anymore, whatever "the internet" is in its current stat
 
 ---
 
-Here's the thing though: I didn't leave. All I did was stay true to my principles, and the internet left me. What a sad state of affairs.
+Here's the thing though: I didn't leave. All I did was stay true to [my principles], and the internet left me. What a sad state of affairs.
 
 # ~~Web 1.0~~ ~~Web 2.0~~ ~~Web 3.0~~ Web 4.0
 
@@ -62,6 +62,7 @@ The internet is dead. Long live the internet.
 [me]: /names
 [wrote]: /vew
 [talked]: https://youtu.be/4usXBGvufKg
+[my principles]: /bio
 [projects]: /projects
 [nihao]: https://clawhub.ai/dergigi/nihao
 [another weird cult]: https://nstart.me
