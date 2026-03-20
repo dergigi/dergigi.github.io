@@ -18,7 +18,7 @@ boris_link: https://read.withboris.com/a/naddr1qq8xyatfd3jxjmn8943x7unfwvpzqmjxs
 ---
 
 
-It all started with a simple question: *"What could I demo next Friday?"* Oh, what an innocent question. Who would've thought that one of the consequences of asking it would be me going borderline insane over text highlights?
+It all started with a simple question: *"What could I [demo next Friday](https://sovereignengineering.io/concept#demo-day)?"* Oh, what an innocent question. Who would've thought that one of the consequences of asking it would be me going borderline insane over text highlights?
 
 I didn't have a clear answer to the question at first. But I know that I wanted to show the crew the "flight mode" functionality that I've been talking about a bunch. Here's the idea: Every nostr app should work in flight mode. We're not relying on central servers after all, so why not? Your relay might as well be on-device, and you can do all kinds of things if that's the case. You can browse your feed, reply to people, publish posts, react to stuff, and even zap stuff! If you use nutzaps, that is.[^fn-nutzaps]
 
