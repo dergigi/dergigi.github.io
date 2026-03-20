@@ -55,7 +55,7 @@ Is the attention span of everyone rekt? Yes. Is content on the "internet" gonna 
 
 But it's going to be okay. And you can also exit. Join the Amish, or generate a keypair and join [another weird cult]. Touching grass helps too. Talking to real humans, in real life, about real things. With your own weird idiosyncrasies and weights and hallucinations.
 
-I'm bullish on humanity, and maybe the overabundance of LLM slop will bring out the best in us. The most authentic. The most human. The most real. But am I bullish on the internet, as it once was, and as it currently is? Not so much. And yet there's hope, and new things are born every day.
+I'm bullish on humanity, and maybe the overabundance of LLM slop will bring out the best in us. The most authentic. The most human. The most real. But am I bullish on the internet, as it once was, and as it currently is? Not so much. And yet there's hope, and [new things] are born every day.
 
 The internet is dead. Long live the internet.
 
@@ -65,4 +65,5 @@ The internet is dead. Long live the internet.
 [my principles]: /bio
 [projects]: /projects
 [nihao]: https://clawhub.ai/dergigi/nihao
+[new things]: https://sovereignengineering.io/
 [another weird cult]: https://nstart.me
