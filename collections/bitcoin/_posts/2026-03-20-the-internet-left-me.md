@@ -3,7 +3,7 @@ layout: post
 title: "What's left of the internet?"
 description: "I didn't leave the internet. The internet left me."
 date: 2026-03-20
-blocktime: 941439
+blocktime: 941444
 image: /assets/images/the-internet-left-me.jpg
 author: Gigi
 category: bitcoin
