@@ -9,6 +9,7 @@ author: Gigi
 category: photography
 tags:
   - Photography
+  - AI
 ---
 
 Creativity is a mystery. It is creation, inspiration, and—of
