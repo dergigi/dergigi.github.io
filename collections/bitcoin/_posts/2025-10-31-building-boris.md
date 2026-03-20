@@ -13,6 +13,7 @@ favorite: false
 tags:
 - Writing
 - Vibing
+- AI
 - nostr
 boris_link: https://read.withboris.com/a/naddr1qq8xyatfd3jxjmn8943x7unfwvpzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqvzqqqr4gul0rszl
 ---
