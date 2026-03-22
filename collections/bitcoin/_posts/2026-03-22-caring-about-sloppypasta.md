@@ -24,7 +24,7 @@ Here's what LLMs can't do, and unless we give them bodies (and true pain, and re
 
 That's why your eyes will glance over anything that has LLM smell. Be it text, or images, or infographics, or posters, or stock "photography", or tweets, or videos, or whatever. Humans are pattern matching machines, and the pattern you've identified is a lack of caring. Prompt goes in, slop comes out. Zero effort. Zero care. _Sloppypasta._
 
-That's also why open-source maintainers are locking down their repos, straight up blocking outside contributions. It's so easy right now to create a drive-by PR for a project, fixing a supposed "issue" (that might not even be in an issue in the first place, but you wouldn't know because you don't *care* enough to dig into the project to truly understand what's going on, and why things are built in the way they are built) that maintainers are flooded with supposed "fixes" and other vibed things. 
+That's also why open-source maintainers are locking down their repos, straight up [blocking outside contributions]. It's so easy right now to create a drive-by PR for a project, fixing a supposed "issue" (that might not even be in an issue in the first place, but you wouldn't know because you don't *care* enough to dig into the project to truly understand what's going on, and why things are built in the way they are built) that maintainers are flooded with supposed "fixes" and other vibed things. 
 
 Don't get me wrong. I'm not a Luddite. Far from it. If you've ever listened to the wind (read: Pablo and myself talking about this and other stuff) you'd know that I've been vibing from Day 1. It's how I've built [Boris], it's how I've built [ants], it's how I've built [Castr], it's how I've built anything in the last 18 months or so. Including [UvS]. Vibe-coding is what brought me back to programming, precisely because it's fun and easy and painless and quick. It's low-effort. It can be done on the side. 
 
@@ -39,6 +39,7 @@ LLMs are smart,[^fn-smart] no doubt about it. But they lack wisdom, deliberation
 ![Vibe coding][vibecoding]
 
 [Awakening from the Meaning Crisis]: https://johnvervaeke.com/series/awakening-from-the-meaning-crisis/
+[blocking outside contributions]: https://github.com/tldraw/tldraw/issues/7695
 [John Vervaeke]: https://johnvervaeke.com/
 [Sloppypasta]: https://stopsloppypasta.ai/
 [Boris]: https://www.readwithboris.com/
