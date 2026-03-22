@@ -38,7 +38,7 @@ LLMs are smart,[^fn-smart] no doubt about it. But they lack wisdom, deliberation
 
 [^fn-smart]: There's a reason why there's such a thing as a "smart"-ass. And there's a reason why a person can be PhD-level smart but still incredibly stupid in other ways (COVID, anyone?) - or incredibly knowledgable and still an uncaring asshole. LLMs are even worse, because they're insufferable without being an asshole. ("You're absolutely right! I'll keep that in mind from now on.")
 
-![You're absolutely right][youre-absolutely-right]
+{% include image.html name="youre-absolutely-right.png" alt="You're absolutely right" %}
 
 [Awakening from the Meaning Crisis]: https://johnvervaeke.com/series/awakening-from-the-meaning-crisis/
 [blocking outside contributions]: https://github.com/tldraw/tldraw/issues/7695
@@ -50,4 +50,3 @@ LLMs are smart,[^fn-smart] no doubt about it. But they lack wisdom, deliberation
 [Castr]: https://castr.me/
 [UvS]: https://unicorn.dergigi.com/
 [the wind]: http://sovereignengineering.io/podcast
-[youre-absolutely-right]: /assets/images/youre-absolutely-right.png
