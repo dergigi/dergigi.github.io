@@ -49,7 +49,7 @@ LLMs are smart,[^fn-smart] no doubt about it. But they lack wisdom, deliberation
 [LLM smell]: /internet
 [Sloppypasta]: https://stopsloppypasta.ai/
 [tastes and values]: https://ants.sh/?q=taste+by%3Adergigi.com
-[Boris]: https://www.readwithboris.com/
+[Boris]: /boris
 [ants]: https://ants.sh/
 [coming thresholds]: https://www.youtube.com/watch?v=A-_RdKiDbz4
 [Castr]: https://castr.me/
