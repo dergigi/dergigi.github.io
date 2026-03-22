@@ -16,9 +16,9 @@ tags:
 
 Things are insane right now, and maybe I'm too. Be that as it may, I feel like I've been a broken record for the last 18 months. Maybe longer. Some nights I wake up at 3am, startled, sweaty, and I hear myself screaming "*VERVAEKE!*" before I cry myself back to sleep.
 
-He's right about everything, you know, this [John Vervaeke](https://johnvervaeke.com/). Well, maybe not everything. But most things. I believe he's right about the AI stuff and the coming thresholds we must take. (I've shared this video so many times with so many people now, it's not even funny; I think I've shared it almost as often as his Awakening from the Meaning Crisis. You should watch both. And yes, the 2nd one is ~50h long. You should watch it twice. Maybe even three times, like I did.)
+He's right about everything, you know, this [John Vervaeke]. Well, maybe not everything. But most things. I believe he's right about the AI stuff and the coming thresholds we must take. (I've shared this video so many times with so many people now, it's not even funny; I think I've shared it almost as often as his Awakening from the Meaning Crisis. You should watch both. And yes, the 2nd one is ~50h long. You should watch it twice. Maybe even three times, like I did.)
 
-The reason why I'm tempted to produce this stream-of-conscious that you're reading right now is that I stumbled upon a new word today: [Sloppypasta](https://stopsloppypasta.ai/). It's perfect. Chefs-kiss perfect. 
+The reason why I'm tempted to produce this stream-of-conscious that you're reading right now is that I stumbled upon a new word today: [Sloppypasta]. It's perfect. Chefs-kiss perfect. 
 
 Here's what LLMs can't do, and unless we give them bodies (and true pain, and real suffering, and proper death) it's a thing they'll never be able to do: care. And that's also the reason why people hate Sloppypasta: it's done without care.
 
@@ -26,7 +26,7 @@ That's why your eyes will glance over anything that has LLM smell. Be it text, o
 
 That's also why open-source maintainers are locking down their repos, straight up blocking outside contributions. It's so easy right now to create a drive-by PR for a project, fixing a supposed "issue" (that might not even be in an issue in the first place, but you wouldn't know because you don't *care* enough to dig into the project to truly understand what's going on, and why things are built in the way they are built) that maintainers are flooded with supposed "fixes" and other vibed things. 
 
-Don't get me wrong. I'm not a Luddite. Far from it. If you've ever listened to the wind (read: Pablo and myself talking about this and other stuff) you'd know that I've been vibing from Day 1. It's how I've built [Boris](https://www.readwithboris.com/), it's how I've built [ants](https://ants.sh/), it's how I've built [Castr](https://castr.me/), it's how I've built anything in the last 18 months or so. Including [UvS](https://unicorn.dergigi.com/). Vibe-coding is what brought me back to programming, precisely because it's fun and easy and painless and quick. It's low-effort. It can be done on the side. 
+Don't get me wrong. I'm not a Luddite. Far from it. If you've ever listened to the wind (read: Pablo and myself talking about this and other stuff) you'd know that I've been vibing from Day 1. It's how I've built [Boris], it's how I've built [ants], it's how I've built [Castr], it's how I've built anything in the last 18 months or so. Including [UvS]. Vibe-coding is what brought me back to programming, precisely because it's fun and easy and painless and quick. It's low-effort. It can be done on the side. 
 
 However, if you _do_ do it on the side, it's *by definition* done without care. All the projects that are worth anything took thousands upon thousands of iterations, vibe-coded or not. Lots of thought. Lots of care. Human thought. Human care.
 
@@ -36,4 +36,12 @@ LLMs are smart,[^fn-smart] no doubt about it. But they lack wisdom, deliberation
 
 [^fn-smart]: There's a reason why there's such a thing as a "smart"-ass. And there's a reason why a person can be PhD-level smart but still incredibly stupid in other ways (COVID, anyone?) - or incredibly knowledgable and still an uncaring asshole. LLMs are even worse, because they're insufferable without being an asshole. ("You're absolutely right! I'll keep that in mind from now on.")
 
-![Vibe coding](/assets/images/bitcoin/2025-10-31-building-boris/vibecoding.png)
+![Vibe coding][vibecoding]
+
+[John Vervaeke]: https://johnvervaeke.com/
+[Sloppypasta]: https://stopsloppypasta.ai/
+[Boris]: https://www.readwithboris.com/
+[ants]: https://ants.sh/
+[Castr]: https://castr.me/
+[UvS]: https://unicorn.dergigi.com/
+[vibecoding]: /assets/images/bitcoin/2025-10-31-building-boris/vibecoding.png
