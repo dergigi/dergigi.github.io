@@ -46,6 +46,7 @@ LLMs are smart,[^fn-smart] no doubt about it. But they lack wisdom, deliberation
 [blocking outside contributions]: https://github.com/tldraw/tldraw/issues/7695
 [John Vervaeke]: https://johnvervaeke.com/
 [Sloppypasta]: https://stopsloppypasta.ai/
+[tastes and values]: https://ants.sh/?q=taste+by%3Adergigi.com
 [Boris]: https://www.readwithboris.com/
 [ants]: https://ants.sh/
 [coming thresholds]: https://www.youtube.com/watch?v=A-_RdKiDbz4
