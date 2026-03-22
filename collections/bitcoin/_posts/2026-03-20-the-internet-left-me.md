@@ -5,6 +5,7 @@ description: I didn't leave the internet. The internet left me.
 date: 2026-03-20
 blocktime: 941444
 image: "/assets/images/the-internet-left-me.jpg"
+redirect_from: "/internet"
 author: Gigi
 category: bitcoin
 tags:
