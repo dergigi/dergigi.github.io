@@ -18,7 +18,7 @@ Things are insane right now, and maybe I'm too. Be that as it may, I feel like I
 
 He's right about everything, you know, this John Vervaeke. Well, maybe not everything. But most things. I believe he's right about the AI stuff and the coming thresholds we must take. (I've shared this video so many times with so many people now, it's not even funny; I think I've shared it almost as often as his Awakening from the Meaning Crisis. You should watch both. And yes, the 2nd one is ~50h long. You should watch it twice. Maybe even three times, like I did.)
 
-The reason why I'm tempted to produce this stream-of-conscious that you're reading right now is that I stumbled upon a new word today: [Sloppypasta]. It's perfect. Chefs-kiss perfect. 
+The reason why I'm tempted to produce this stream-of-conscious that you're reading right now is that I stumbled upon a new word today: [Sloppypasta](https://stopsloppypasta.ai/). It's perfect. Chefs-kiss perfect. 
 
 Here's what LLMs can't do, and unless we give them bodies (and true pain, and real suffering, and proper death) it's a thing they'll never be able to do: care. And that's also the reason why people hate Sloppypasta: it's done without care.
 
