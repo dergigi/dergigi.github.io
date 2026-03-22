@@ -47,4 +47,4 @@ LLMs are smart,[^fn-smart] no doubt about it. But they lack wisdom, deliberation
 [coming thresholds]: https://www.youtube.com/watch?v=A-_RdKiDbz4
 [Castr]: https://castr.me/
 [UvS]: https://unicorn.dergigi.com/
-[youre-absolutely-right]: /assets/images/bitcoin/2025-10-31-building-boris/youre-absolutely-right.png
+[youre-absolutely-right]: /assets/images/youre-absolutely-right.png
