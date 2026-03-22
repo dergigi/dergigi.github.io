@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Caring about Sloppypasta
-description: LLMs can't care. That's the problem with Sloppypasta.
+description: Prompt goes in, slop comes out. Vervaeke cries.
 date: 2026-03-22
 blocktime: 941699
 image: "/assets/images/caring-about-sloppypasta.jpg"
