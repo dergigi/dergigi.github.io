@@ -6,7 +6,10 @@ date: 2026-03-22
 image: "/assets/images/caring-about-sloppypasta.jpg"
 author: Gigi
 category: bitcoin
-tags: []
+tags:
+- Nostr
+- AI
+- Writing
 ---
 
 
