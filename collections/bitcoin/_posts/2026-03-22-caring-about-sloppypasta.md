@@ -35,3 +35,5 @@ That's what LLMs can't do yet, unless we turn them into humans. With human bodie
 LLMs are smart,[^fn-smart] no doubt about it. But they lack wisdom, deliberation, and care. The *right amount* of caring. The thing that can't be put into an algorithm. The thing that isn't a statistical average. The thing that makes us human.
 
 [^fn-smart]: There's a reason why there's such a thing as a "smart"-ass. And there's a reason why a person can be PhD-level smart but still incredibly stupid in other ways (COVID, anyone?) - or incredibly knowledgable and still an uncaring asshole. LLMs are even worse, because they're insufferable without being an asshole. ("You're absolutely right! I'll keep that in mind from now on.")
+
+![Vibe coding](/assets/images/bitcoin/2025-10-31-building-boris/vibecoding.png)
