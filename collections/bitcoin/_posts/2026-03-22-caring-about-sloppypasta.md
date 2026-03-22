@@ -3,6 +3,7 @@ layout: post
 title: Caring about Sloppypasta
 description: One-line summary for previews and social cards.
 date: 2026-03-22
+blocktime: 941699
 image: "/assets/images/caring-about-sloppypasta.jpg"
 redirect_from: "/sloppypasta"
 author: Gigi
