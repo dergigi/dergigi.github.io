@@ -16,7 +16,7 @@ tags:
 
 Things are insane right now, and maybe I'm too. Be that as it may, I feel like I've been a broken record for the last 18 months. Maybe longer. Some nights I wake up at 3am, startled, sweaty, and I hear myself screaming "*VERVAEKE!*" before I cry myself back to sleep.
 
-He's right about everything, you know, this [John Vervaeke]. Well, maybe not everything. But most things. I believe he's right about the AI stuff and the coming thresholds and the paths we must take. (I've shared this video so many times with so many people now, it's not even funny; I think I've shared it almost as often as his Awakening from the Meaning Crisis. You should watch both. And yes, the 2nd one is ~50h long. You should watch it twice. Maybe even three times, like I did.)
+He's right about everything, you know, this [John Vervaeke]. Well, maybe not everything. But most things. I believe he's right about the AI stuff and the [coming thresholds] and the paths we must take. (I've shared this video so many times with so many people now, it's not even funny; I think I've shared it almost as often as his Awakening from the Meaning Crisis. You should watch both. And yes, the 2nd one is ~50h long. You should watch it twice. Maybe even three times, like I did.)
 
 The reason why I'm tempted to produce this stream-of-conscious that you're reading right now is that I stumbled upon a new word today: [Sloppypasta]. It's perfect. Chefs-kiss perfect. 
 
@@ -42,6 +42,7 @@ LLMs are smart,[^fn-smart] no doubt about it. But they lack wisdom, deliberation
 [Sloppypasta]: https://stopsloppypasta.ai/
 [Boris]: https://www.readwithboris.com/
 [ants]: https://ants.sh/
+[coming thresholds]: https://www.youtube.com/watch?v=A-_RdKiDbz4
 [Castr]: https://castr.me/
 [UvS]: https://unicorn.dergigi.com/
 [vibecoding]: /assets/images/bitcoin/2025-10-31-building-boris/vibecoding.png
