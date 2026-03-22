@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Caring about sloppypasta
+title: Caring about Sloppypasta
 description: One-line summary for previews and social cards.
 date: 2026-03-22
 image: "/assets/images/caring-about-sloppypasta.jpg"
