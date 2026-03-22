@@ -26,7 +26,9 @@ That's why your eyes will glance over anything that has LLM smell. Be it text, o
 
 That's also why open-source maintainers are locking down their repos, straight up [blocking outside contributions]. It's so easy right now to create a drive-by PR for a project, fixing a supposed "issue" (that might not even be in an issue in the first place, but you wouldn't know because you don't *care* enough to dig into the project to truly understand what's going on, and why things are built in the way they are built) that maintainers are flooded with supposed "fixes" and other vibed things.
 
-Don't get me wrong. I'm not a Luddite. Far from it. If you've ever listened to the wind (read: Pablo and myself talking about this and other stuff) you'd know that I've been vibing from Day 1. It's how I've built [Boris], it's how I've built [ants], it's how I've built [Castr], it's how I've built anything in the last 18 months or so. Including [UvS]. Vibe-coding is what brought me back to programming, precisely because it's fun and easy and painless and quick. It's low-effort. It can be done on the side.
+Don't get me wrong. I'm not a Luddite. Far from it. If you've ever listened to the wind (read: Pablo and myself talking about this and other stuff) you'd know that I've been vibing from Day 1. It's how I've built [Boris], it's how I've built [ants], it's how I've built [Castr], it's how I've built anything in the last 18 months or so. Including [UvS].
+
+Vibe-coding is what brought me back to programming, precisely because it's fun and easy and painless and quick. It's low-effort. It can be done on the side.
 
 However, if you _do_ do it on the side, it's *by definition* done without care. All the projects that are worth anything took thousands upon thousands of iterations, vibe-coded or not. Lots of thought. Lots of care. Human thought. Human care.
 
