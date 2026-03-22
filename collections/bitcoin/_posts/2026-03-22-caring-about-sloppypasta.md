@@ -20,6 +20,8 @@ He's right about everything, you know, this [John Vervaeke]. Well, maybe not eve
 
 The reason why I'm tempted to produce this stream-of-consciousness that you're reading right now is that I stumbled upon a new word today: [Sloppypasta]. It's perfect. Chefs-kiss perfect.
 
+{% include image.html name="sloppypasta-definition.png" alt="Definition of sloppypasta" %}
+
 Here's what LLMs can't do, and unless we give them bodies (and true pain, and real suffering, and proper death) it's a thing they'll never be able to do: care. And that's also the reason why people hate Sloppypasta: it's done without care.
 
 That's why your eyes will glance over anything that has LLM smell. Be it text, or images, or infographics, or posters, or stock "photography", or tweets, or videos, or whatever. Humans are pattern matching machines, and the pattern you've identified is a lack of caring. Prompt goes in, slop comes out. Zero effort. Zero care. *Sloppypasta.*
