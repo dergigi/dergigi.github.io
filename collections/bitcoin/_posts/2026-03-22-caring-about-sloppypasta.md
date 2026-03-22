@@ -35,7 +35,7 @@ Vibe-coding is what brought me back to programming, precisely because it's fun a
 
 However, if you _do_ do it on the side, it's *by definition* done without care. All the projects that are worth anything took thousands upon thousands of iterations, vibe-coded or not. Lots of thought. Lots of care. Human thought. Human care.
 
-That's what LLMs can't do yet, unless we turn them into humans. With human bodies, human problems, human desires, and human [tastes and values]. That's what Vervaeke is talking about.
+That's what LLMs can't do yet, unless we turn them into humans. With human bodies, human problems, human desires, and human [tastes and values]. That's what Vervaeke is talking about. Deriving an ought from an is.
 
 LLMs are smart,[^fn-smart] no doubt about it. But they lack wisdom, deliberation, and care. The *right amount* of care. The thing that can't be put into an algorithm. The thing that isn't a statistical average. The thing that makes us human.
 
