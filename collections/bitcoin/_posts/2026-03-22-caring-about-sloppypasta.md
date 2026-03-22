@@ -12,6 +12,7 @@ tags:
 - Nostr
 - AI
 - Writing
+boris_link: https://read.withboris.com/a/naddr1qqvxxctjd9hxwttpvfhh2apdwdkx7urs09cxzum5vypzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqvzqqqr4guh8g5l0
 ---
 
 
