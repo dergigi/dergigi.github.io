@@ -2,16 +2,5 @@
 layout: default
 redirect_from: photography
 ---
-<!-- The main content area -->
 {% assign blogposts = site.categories.photography %}
-<div class="posts">
-  <div class="grid-xlarge">
-    <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
-
-      {% for post in blogposts %}
-        {% include post-card.html %}
-      {% endfor %}
-    </div>
-  </div>
-  {% include article-list.html posts=blogposts %}
-</div>
+{% include posts-grid.html posts=blogposts %}

@@ -10,6 +10,7 @@ category: photography
 tags:
   - Photography
   - Travel
+  - Writing
 ---
 
 Words have to be one of the greatest inventions of mankind. Granted, it's a

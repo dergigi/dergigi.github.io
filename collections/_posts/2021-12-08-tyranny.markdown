@@ -9,6 +9,7 @@ author: Gigi
 category: photography
 tags:
   - Photography
+  - Writing
 translations:
  - language: German
    url: https://telegra.ph/Tyrannei-01-05

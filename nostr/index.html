@@ -5,12 +5,7 @@ subtitle: The bird app is dead, long live the bird app!
 tags:
 - nostr
 ---
-{% assign nostrposts = "" | split: "," %}
-{% for post in site.posts %}
-  {% if post.tags contains "nostr" %}
-    {% assign nostrposts = nostrposts | push: post %}
-  {% endif %}
-{% endfor %}
+{% assign nostrposts = site.posts | where_exp: "p", "p.tags contains 'nostr'" %}
 <div class="post__content section-padding">
   <div id="markdown" class="grid">
     <p>
@@ -37,14 +32,5 @@ tags:
       </pre>
     </p>
   </div>
-  <div class="posts">
-    <div class="grid-xlarge">
-      <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
-        {% for post in nostrposts %}
-          {% include post-card.html %}
-        {% endfor %}
-      </div>
-    </div>
-  </div>
-  {% include article-list.html posts=nostrposts %}
+  {% include posts-grid.html posts=nostrposts %}
 </div>

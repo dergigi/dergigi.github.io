@@ -9,8 +9,8 @@ redirect_from: "/internet"
 author: Gigi
 category: bitcoin
 tags:
-- Nostr
-- AI
+- nostr
+- ai
 - Writing
 boris_link: https://read.withboris.com/a/naddr1qq28g6r9945kuar9wfhx2apdd3jkvapdd4jsygrwg6zz9hahfftnsup23q3mnv5pdz46hpj4l2ktdpfu6rhpthhwjvpsgqqqw4rsenast8
 ---

@@ -1,0 +1,11 @@
+---
+layout: default
+title: AI
+subtitle: On machines that write.
+tags:
+- ai
+---
+{% assign aiposts = site.posts | where_exp: "p", "p.tags contains 'ai'" %}
+<div class="post__content section-padding">
+  {% include posts-grid.html posts=aiposts %}
+</div>
