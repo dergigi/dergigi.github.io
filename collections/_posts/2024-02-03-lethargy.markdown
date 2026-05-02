@@ -9,6 +9,7 @@ author: Gigi
 category: photography
 tags:
   - Photography
+  - Writing
 ---
 
 Lethargy. A state of comatose torpor. Oh, what beautiful words. Oh, what a

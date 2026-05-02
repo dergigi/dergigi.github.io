@@ -9,6 +9,7 @@ author: Gigi
 category: photography
 tags:
   - Photography
+  - Writing
 ---
 
 Reality is that which, when you stop believing in it, doesn't go away. At least

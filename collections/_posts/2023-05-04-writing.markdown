@@ -9,6 +9,7 @@ author: Gigi
 category: photography
 tags:
   - Photography
+  - Writing
 ---
 
 Writing, for some reason, is one of the most powerful things you can do.

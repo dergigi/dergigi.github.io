@@ -9,6 +9,7 @@ author: Gigi
 category: photography
 tags:
   - Photography
+  - Writing
 ---
 
 Hesitancy tells you something. I'm not sure what it is, exactly, but it is something. If there wouldn't be something there would be no hesitancy, all there would be is "fuck yes," followed by immediate action.
