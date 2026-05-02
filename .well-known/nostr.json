@@ -2,6 +2,7 @@
   "names": {
     "_": "6e468422dfb74a5738702a8823b9b28168abab8655faacb6853cd0ee15deee93",
     "dergigi": "6e468422dfb74a5738702a8823b9b28168abab8655faacb6853cd0ee15deee93",
+    "blog": "082a5adf91c5db0b07a6725cd0d8c0014fd3c18aefc070122ab4d78d5d527a9e",
     "qsbot": "87570647ca3b7549e66cb6c4bb8d197f5bc91de73b58eb1ade78c8ddd5fec7eb",
     "bqbot": "875705d034963b8487a8246468612a854ed2b5af66be936e1e48c25ce96a750d",
     "gmbot": "46d1b9683c9e6cf4483a82b597b6934f368bee02ca23162002869979bccf6022",
@@ -139,6 +140,12 @@
       "wss://wot.siamstr.com",
       "ws://localhost:10547",
       "ws://localhost:4869"
+    ],
+    "082a5adf91c5db0b07a6725cd0d8c0014fd3c18aefc070122ab4d78d5d527a9e": [
+      "wss://wot.dergigi.com",
+      "wss://relay.damus.io",
+      "wss://nos.lol",
+      "wss://relay.primal.net"
     ]
   }
 }
