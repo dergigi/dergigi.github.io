@@ -8,16 +8,7 @@ layout: default
       Don't know what bitcoin is? Have a look at <a href="https://bitcoin-resources.com" target="_blank">bitcoin-resources.com</a>
     </p>
   </div>
-  <div class="posts">
-    <div class="grid-xlarge">
-      <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
-        {% for post in bitcoinposts %}
-          {% include post-card.html %}
-        {% endfor %}
-      </div>
-    </div>
-  </div>
-  {% include article-list.html posts=bitcoinposts %}
+  {% include posts-grid.html posts=bitcoinposts %}
   <div id="markdown" class="grid">
     <hr/>
     <p>
