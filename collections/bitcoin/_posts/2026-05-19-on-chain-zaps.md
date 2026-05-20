@@ -41,7 +41,7 @@ arguments as I understand them. In short:
 As I've mentioned in the long back-and-forth thread with Vitor, I am not against
 the *spirit* of the idea. I think that every npub should be able to send and
 receive money with as little friction as possible, and have always been an
-advocate for things like npub.cash & nutzaps (NIP-60/61). 
+advocate for things like npub.cash & nutzaps (NIP-60/61).
 
 What I want to speak out against is the proposed *implementation* of the idea,
 which encourages bad practices and has the potential to actively harm users in
@@ -81,7 +81,7 @@ Let's get into it.
 
 Yes, they are. Zaps are public. The balance of my lightning wallet is not
 public, however. The history of the sats I received isn't public either, nor is
-the future of said sats. 
+the future of said sats.
 
 I tried to make this point by posing the following questions: "All the zaps that
 I have received so far, what did I spend them on? Can you tell? Did I even move
@@ -89,7 +89,7 @@ those sats at all? Where did the sats go after I’ve received them?"
 
 Further, I could claim that I've lost access to my wallet, and there wouldn't be
 a way to prove that this isn't true. This type of plausible deniability
-completely flies out the window in an on-chain world. 
+completely flies out the window in an on-chain world.
 
 ## Revealing more than necessary
 
@@ -97,7 +97,7 @@ Tying bitcoin addresses to identities is what chainalysis companies do. And even
 though their assumptions are based in heuristical witchcraft and should be taken
 with a huge grain of salt, the unfortunate reality is that the legal system
 takes said witchcraft seriously. We should make the job of chainalysis (read:
-spying on users) harder, not 100x easier. 
+spying on users) harder, not 100x easier.
 
 "But zaps are public anyway!" Yes, they are, as I've admitted above. But you can
 choose to opt out, you can choose to zap privately, and your future financial
@@ -115,7 +115,7 @@ I'll just go ahead and quote Lola, since she hit the nail on the head:
 She goes on to say, correctly, that right now, thanks to Lightning, "[zaps]
 don't dox you and everyone else you interact with for the rest of eternity." And
 as we've already established above, "when I cash out my zaps, nobody knows where
-that money went to." 
+that money went to."
 
 "Privacy is the power to selectively reveal oneself to the world," to quote the
 Cypherpunk Manifesto. Tying your identity to on-chain addresses not only nerfs
@@ -138,7 +138,7 @@ unspent outputs—surprise, surprise—unspent transaction outputs, or [UTXOs].
 Conceptually, if bitcoin would be a physical thing like gold is, you could think
 of them as lumps of material (or "coins") of various sizes.[^fn-bitcoinium] All
 we have is this unidirectional graph of transactions, and some neat cryptography
-(and [proof-of-work][pow]) to link them together. That's it. 
+(and [proof-of-work][pow]) to link them together. That's it.
 
 The lack of identity in bitcoin is a feature, not a bug. Bitcoin is a
 _pseudonymous_ system by design, which means that it can be used privately if
@@ -179,7 +179,7 @@ On-chain zaps not only allow this, but it makes it trivial.
 
 ### Bad for the Receiver
 
-You just got zapped. Great. It was an on-chain zap. Not so great. 
+You just got zapped. Great. It was an on-chain zap. Not so great.
 
 What now? Well, the two basic options are "do nothing" and "do something." Both
 are problematic, and here's why.
@@ -199,13 +199,13 @@ a [merchant] directly, or maybe you want to send the money to a friend who
 isn't on nostr yet. Whatever you decide to do, absolutely everyone in the world
 can follow the trail that these UTXOs leave behind. And some of the onlookers
 might have the means _and_ the motivation to figure out what you did with your
-money, and use it against you. 
+money, and use it against you.
 
 None of the above is theoretical. For over a decade people have been robbed,
 extorted, kidnapped, or worse, just because other people thought (or knew) they
 had bitcoin. I encourage you to read through the list of [known physical bitcoin
 attacks][lopp]. But I also know that people don't read, much less click links,
-so here's some highlights from the last ~18 months: 
+so here's some highlights from the last ~18 months:
 
 - Three attackers invaded a home, tied up family, and made several [bitcoin] transfers.
 - A 38-year-old Chinese businessman was killed and found buried in the ground with his hands and feet bound with packing tape.
@@ -218,7 +218,7 @@ so here's some highlights from the last ~18 months:
 There's actually a third category, namely _wanting to do something but not being
 able to_. Depending on output size and the current fee environment you might
 find yourself in a situation in which it's literally impossible to get rid of
-the money. 
+the money.
 
 It's not hard to imagine a scenario that makes this problematic. Imagine a mafia
 boss coming to your house, giving you money that was made via illicit means. He
@@ -256,7 +256,7 @@ Bad.
 ## Removing Choice and Agency
 
 So now let's get to the final point. "We have already built it and it works, so
-why not give users the option?" 
+why not give users the option?"
 
 It used to be that _curiosity killed the cat_, but in the internet age it might
 be more accurate to say that _convenience_ killed the cat. And in today's day
@@ -268,7 +268,7 @@ things" mentality. Always have been. But there's a fine line between just doing
 things and just doing damage to things. I hate to see unsuspecting users get
 rekt, and if something insane like
 static-address-reuse-onchain-zaps-derived-from-npub ever gets widespread
-adoption[^fn-adoption], we'd be in a bad place. 
+adoption[^fn-adoption], we'd be in a bad place.
 
 As things are now, users are actively advertising how they can get zapped by
 putting a lightning address in their profile. What address to use is a
@@ -278,7 +278,7 @@ address that is not under their control, and some users do, to either support
 someone else, or someone else's project, or a charity, etc.
 
 This type of choice is removed entirely if clients make a deterministically
-derived address the default. 
+derived address the default.
 
 I feel like a broken record when I keep saying that [money and identity aren't
 the same thing][money-identity]. "The whole point of money is to not know your
