@@ -6,7 +6,7 @@ description: TODO
 date: 2026-05-19
 blocktime: 950064
 image: "/assets/images/on-chain-zaps.jpg"
-redirect_from: "/on-chain-zaps"
+redirect_from: "/icarus"
 author: Gigi
 category: nostr
 tags:
