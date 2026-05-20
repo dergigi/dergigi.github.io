@@ -304,6 +304,11 @@ biometrics are _public_, not private. They are usernames, not passwords. You
 can't change them. Imagine someone scans your face and has deep insight into all
 your finances. That's a problem, since changing your face is ... difficult.
 
+## Silver Linings
+
+My hope is that something positive will come from all of this. Tim is working on
+an implementation that uses silent payments, which is the "proper" way to do any of this, as I've mentioned over and over and over again.
+
 ## TL;DR
 
 On-chain zaps are bad, because:
