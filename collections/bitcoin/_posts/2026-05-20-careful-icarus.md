@@ -274,17 +274,17 @@ and the current fee environment you might find yourself in a situation in which
 it's literally impossible to get rid of the money (because the UTXO you received
 is below the [dust limit][dust-limit]).
 
-It's not hard to imagine a scenario that makes this problematic. Imagine a mafia
-boss coming to your house, giving you money that was made via illicit means. He
-vanishes instantly after, but not before leaving a trail that leads directly to
-you. A trail that's very easy to pick up by the police as well as other mafia
-people. To make things worse, you had no option to refuse the money because the
-mafia boss is also a witch, and a spell was cast that deposited the money
-directly into your soul. And even worse than _that_, he cast the _[Pulvis
-Assaultus]_ spell on top. Now the only way to rid your soul from the mafia
-witch dust is to throw more money at it.
+There are scenarios that make this problematic. Let's pick a ridiculous one, just
+for fun. Imagine a mafia boss coming to your house, giving you money that was
+made via illicit means. He vanishes instantly after, but not before leaving a
+trail that leads directly to you. A trail that's very easy to pick up by the
+police as well as other mafia people. To make things worse, you had no option to
+refuse the money because the mafia boss is also a witch, and a spell was cast
+that deposited the money directly into your soul. And even worse than _that_, he
+cast the _[Pulvis Assaultus]_ spell on top. Now the only way to rid your soul
+from the mafia witch dust is to throw more money at it.
 
-Granted, a disappearing mafia witch might not be the best example. A more
+Yes, a disappearing mafia witch is a ridiculous example, but I'm trying to make a point. A more
 realistic example would be someone sending money to you as well as to one (or
 multiple) addresses on the [OFAC list], suggesting to law enforcement that you
 are part of a criminal network. Or publicly announcing that any money you
