@@ -361,7 +361,17 @@ He also has a good point about the unintended dust attack issue:
 
 At least there's some sanity to be found. The [discussion is ongoing][ants].
 
-Silent payments aren't a panacea either, mind you. They are [meant to be non-interactive][non-interactive], as Calle pointed out. And on top of that they will create on-chain transactions just the same, bringing fee pressure and bloating the UTXO set just the same.
+Silent payments aren't a panacea either, mind you. They are [meant to be
+non-interactive][non-interactive], as Calle pointed out. And on top of that they
+will create on-chain transactions just the same, bringing fee pressure and
+bloating the UTXO set just the same.
+
+One last thing: zaps and numerology go hand-in-hand. 21 sats here, 69,420 sats
+there, palindrome zaps, etc. We can't do any of that if we hit the chain
+directly because broadcasting the exact amount would make it trivial for an
+attacker to identify the actual transaction. Which means any sane proposal would
+have to use blinded or otherwise obfuscated amounts, destroying a large part of
+what makes zaps interesting.
 
 Long story short: zaps shouldn't touch the chain, and I should go touch grass. [Good night.][good-night]
 
