@@ -309,7 +309,7 @@ your finances. That's a problem, since changing your face is ... difficult.
 My hope is that something positive will come from all of this. Tim is working on
 an implementation that uses silent payments, which is the "proper" way to do any of this, as I've mentioned [over][silent-over-1] and [over][silent-over-2] and [over][silent-over-3] again.
 
-Will, aka jb55, aka the guy who brought zaps to nostr in the first place, seems to agree:
+Will, aka [jb55][jb55], aka the guy who brought zaps to nostr in the first place, seems to agree:
 
 > onchain zaps don’t need to be tied to an npub. You can do onchain zaps via
 > silent payments (this is the proper way to do it, not the retarded current spec)
@@ -367,3 +367,4 @@ On-chain zaps are bad, because:
 [silent-over-1]: https://njump.to/nevent1qqsd78wku5u3zts6dxncuupghrwn4hcyfrw8ksf3r24kv90e092dt7qxc37e0
 [silent-over-2]: https://njump.to/nevent1qqsyj4yfnfvuf99za5t5sznvvpvf028azp7gjdzfgfg0j3rztczf99cuckc9m
 [silent-over-3]: https://njump.to/nevent1qqsyk4dputscupm9l6k2y9hm9ytp0738dazenhrhvucw637w8k79hwceasw8p
+[jb55]: https://njump.to/nevent1qqsqxep0pgs27mdk9r7pq8adz0kmfzkm8y3w7myd3djaxl80z5r2qdc5zkf62
