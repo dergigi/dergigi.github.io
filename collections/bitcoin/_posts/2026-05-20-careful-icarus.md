@@ -236,12 +236,10 @@ course). A couple of days later I get such an alert. **Jackpot.** Generational
 wealth. I rub my hands as I browse nostr for the latest posts of my unsuspecting
 victim. Between memes and casual shitposts I find a link to a concert as well as
 an image they took on a stroll. There's a mountain range in the background. I
-paste the image into a geolocation engine. It matches the concert location
+paste the image into a [geolocation] engine. It matches the concert location
 almost perfectly. I scroll further down and find multiple selfies and a photo of
 their dog. I now know where they live, what they look like, what their dog looks
-like, and where they usually go to take their dog on a walk.
-
-{% include image.html name="geolocation.png" link="https://openaccess.thecvf.com/content_ECCV_2018/papers/Eric_Muller-Budack_Geolocation_Estimation_of_ECCV_2018_paper.pdf" %}
+like, and where they usually go to take their dog on a walk.[^fn-geolocation]
 
 Do you get it now? Do you finally understand why associating on-chain activity
 with (nostr) identities is problematic? Do you understand why all of the above
@@ -413,6 +411,7 @@ On-chain zaps are bad, because:
 [^fn-anal]: They even admit that chainalysis is [“more of an art than a science.”](https://bitcoinmagazine.com/technical/chainalysis-investigations-lead-is-unaware-of-scientific-evidence)
 [^fn-adoption]: I'm not saying that it will. Nostr doesn't have widespread adoption in the first place, and I doubt that educated users would ever use this. But then again: [how many users are educated on these esoteric topics?][educated-topics] And to make the point once more: the educated users can't even opt out of the receiving end of things.
 [^fn-quantum]: Listen to [Aaron and Sjors discuss address reuse](https://bitcoinmagazine.com/technical/for-better-security-do-not-reuse-bitcoin-addresses) to learn more. Quote: "reusing Bitcoin addresses is a bad idea is because it opens up the possibility of some niche attacks. In certain cases, attackers could extract private keys from signatures after coins are first spent from an address — though this does require that a wallet implemented the signing algorithm incorrectly in the first place. There are also some potential future scenarios where quantum computers could extract private keys from signatures if addresses are reused. [...] attackers can potentially derive a private key from a wallet by closely monitoring how the computer that hosts the wallet behaves when signing a transaction. This attack is more plausible if addresses are reused."
+[^fn-geolocation]: Computers are really good at figuring out where a photo was taken, and have been for many years. I encourage you to [read some papers](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=geolocation+photos) like the one linked in the text, or simply look at [this image][geolocation-image].
 
 [terrible-idea]: https://njump.to/nevent1qqs23jpquykrlg2psqhyhhxzn06nmf3dr6yejwvgws0733x8d9vgnugqfuqeq
 [vitor-thread]: https://njump.to/nevent1qqstjywhdd3kt2pwxlnpd3yyd2hflkn7xqtm8lqrkqe0fv7k5dt4wwcyxsyns
@@ -445,6 +444,8 @@ On-chain zaps are bad, because:
 [mt-stupid]: https://njump.to/nevent1qqsf4mvtz8vc523esz99w367ejtwcx0uvn9g07tfux6szafk0s6qv6g74h3h5
 [OFAC list]: https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses
 [why-worry]: https://github.com/nostr-protocol/nips/pull/2332#issuecomment-4409095253
+[geolocation]: https://openaccess.thecvf.com/content_ECCV_2018/papers/Eric_Muller-Budack_Geolocation_Estimation_of_ECCV_2018_paper.pdf
+[geolocation-image]: /assets/images/bitcoin/2026-05-20-careful-icarus/geolocation.png
 
 [slop]: /sloppypasta
 [sane-default]: https://njump.to/nevent1qqsy77qjawrvj4u7kn9fqz2jpjx4us4yatfv5x94exzl2kjj30zshvqx0qg9k
