@@ -21,7 +21,7 @@ sort. It was something worse: having an argument online.
 
 Back when twitter was still called twitter I found myself getting into many an
 argument. Not because I wanted to, but because—at least back in those days—the
-algorithm encouraged it. A constant back-and-forth between two stubborn people
+[the algorithm encouraged it][algorithm]. A constant back-and-forth between two stubborn people
 is off-the-charts on all engagement metrics, so naturally it's what people want
 to see and do online, right? Anyway, I promised myself that I would never get
 into a twitter argument ever again, and resorted to shitposting instead. Bliss.
@@ -323,6 +323,7 @@ On-chain zaps are bad, because:
 [npub-cash]: https://npub.cash/
 [nip-60]: https://github.com/nostr-protocol/nips/blob/master/60.md
 [nip-61]: https://github.com/nostr-protocol/nips/blob/master/61.md
+[algorithm]: https://youtu.be/4usXBGvufKg
 [argument]: https://youtu.be/ohDB5gbtaEQ
 [shit]: https://youtu.be/nnun8y7r8_U
 [UTXOs]: https://opensats.org/topics/utxo
