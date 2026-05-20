@@ -355,14 +355,14 @@ biometrics are _public_, not private. They are usernames, not passwords. You
 can't change them. Imagine someone scans your face and has deep insight into all
 your finances. That's a problem, since changing your face is ... difficult.
 
-I agree with Will that people who write software should abide to something like
+I agree with Will that people who write software should abide by something like
 the Hippocratic oath. ["Primum non nocere."][hippocratic] First, do no harm.
 
 I tried to make this point with a ridiculous ["surprise button"][surprise]
 example. I won't re-iterate it here.
 
-But no, I don't think we should ship a reckless feature to thousands and
-thousands of people just "because we can." That's ridiculous.[^fn-choice]
+But no, I don't think we should ship an extremely reckless feature to thousands
+and thousands of people just "because we can." That's ridiculous.[^fn-choice]
 
 ## Silver Linings
 
