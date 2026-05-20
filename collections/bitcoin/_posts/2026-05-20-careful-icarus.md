@@ -4,7 +4,7 @@ title: Careful, Icarus
 subtitle: Why "on-chain zaps" are a terrible idea
 description: "I climbed Mt. Stupid with some other nerds and lived to tell the tale."
 date: 2026-05-20
-blocktime: 950269
+blocktime: 950273
 image: "/assets/images/on-chain-zaps.jpg"
 redirect_from: "/icarus"
 author: Gigi
