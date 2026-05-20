@@ -259,9 +259,11 @@ have to warn them that they can't plausibly deny this fact because of the
 
 I've said it before, and I'll say it again: [plausible deniability matters.][deniability]
 
-The fact that multiple nostr developers don't seem to get this point had me
-question my sanity. It also made me question said developers' intentions (as
-well as their bitcoin expertise).
+The fact that multiple nostr developers don't seem to get this point has me
+question my sanity. It also makes me question the supposed bitcoin expertise of
+some of the people involved. I won't go as far as others to question the
+intentions behind this supposed "feature" in the first place, but if this
+nonsense doesn't stop soon I'd be willing to go there.
 
 But wait, there's more.
 
