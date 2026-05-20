@@ -123,8 +123,8 @@ don't dox you and everyone else you interact with for the rest of eternity." And
 as we've already established above, "when I cash out my zaps, nobody knows where
 that money went to."
 
-"Privacy is the power to selectively reveal oneself to the world," to quote the
-[Cypherpunk Manifesto][cypherpunk-manifesto]. Tying your identity to on-chain addresses not only nerfs
+"Privacy is the power to selectively reveal oneself to the world," to quote
+[a Cypherpunk's Manifesto][cypherpunk-manifesto]. Tying your identity to on-chain addresses not only nerfs
 that power, but takes it away from the individual permanently.
 
 In short: using on-chain addresses for zaps is a terrible idea _precisely
