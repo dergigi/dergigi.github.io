@@ -98,7 +98,7 @@ completely flies out the window in an on-chain world.
 ## Revealing more than necessary
 
 Tying bitcoin addresses to identities is what chainalysis companies do. And even
-though their assumptions are based in heuristical witchcraft and should be taken
+though their assumptions are based on heuristical witchcraft and should be taken
 with a huge grain of salt, the unfortunate reality is that the legal system
 takes said witchcraft seriously. We should make the job of chainalysis (read:
 spying on users) harder, not 100x easier.
@@ -139,7 +139,7 @@ understanding like "my private key is my bank account" and related inaccuracies.
 
 There is no "bank account" in the first place, and there's no "balance" either.
 There's also no "bitcoins" and there's no identity associated with transactions.
-There's inputs and outputs, and some of the outputs are unspent. We call these
+There are inputs and outputs, and some of the outputs are unspent. We call these
 unspent outputs—surprise, surprise—unspent transaction outputs, or [UTXOs].
 Conceptually, if bitcoin would be a physical thing like gold is, you could think
 of them as lumps of material (or "coins") of various sizes.[^fn-bitcoinium] All
@@ -158,7 +158,7 @@ and motivation, you might be able to unravel the whole fabric of my past
 transactions. In other words: unless the sender is an educated bitcoin user who
 is well versed in bitcoin fundamentals and is adamant about UTXO hygiene and
 [privacy best practices], the person who is sending funds via an "on-chain zap"
-will reveal _way more_ than they intended via the deceivingly simple act of
+will reveal _way more_ than they intended via the deceptively simple act of
 "zapping" someone on-chain.
 
 And that's only half of the story. We only talked about unraveling the past, and
@@ -192,7 +192,7 @@ are problematic, and here's why.
 
 **Do nothing:** If you don't move the money, everyone will see how much money
 you have to your name, as was promptly demonstrated by "[wrenchstr]", [rich list][rich-list], and other
-vibe-coded projects. You might not even know about the money, but you using
+vibe-coded projects. You might not even know about the money, but by using
 your nsec to sign messages (read: you simply using nostr, logging in to
 something, or pressing a like button here and there) proves without a shadow of
 a doubt that you are still in control of your keys, i.e. the keys that can move
@@ -211,7 +211,7 @@ None of the above is theoretical. For over a decade people have been robbed,
 extorted, kidnapped, or worse, just because other people thought (or knew) they
 had bitcoin. I encourage you to read through the list of [known physical bitcoin
 attacks][lopp]. But I also know that people don't read, much less click links,
-so here's three highlights from the last ~18 months:
+so here are three highlights from the last ~18 months:
 
 - A couple and their 20-year-old daughter were violently held captive by a group of criminals searching for bitcoins.
 - Three attackers invaded a home, tied up family, and made several bitcoin transfers.
@@ -224,7 +224,7 @@ are, but let me paint you a picture: Let's say I'm a criminal, and I "on-chain
 zap" everyone on nostr. Some of my targets will inevitably move their UTXOs to
 cold storage, potentially combining what I've sent (and what I'm now tracking)
 with their main stash. I have a script running that notifies me of this (only if
-it's above a certain amount, of course). A couple days later I get such an
+it's above a certain amount, of course). A couple of days later I get such an
 alert. Jackpot. Generational wealth. I rub my hands as I browse nostr for the
 latest posts of my unsuspecting victim. Between memes and casual shitposts I
 find a link to a concert as well as an image they took on a stroll. There's a
@@ -247,7 +247,7 @@ incredibly dangerous, because warning the users properly (explaining the risk
 properly) is borderline impossible.
 
 The fact that multiple nostr developers don't seem to get this point had me
-question my sanity. It also made me question said developers intentions (as well
+question my sanity. It also made me question said developers' intentions (as well
 as their competence, to some degree).
 
 But wait, there's more.
@@ -275,7 +275,7 @@ single entity that uses the bitcoin network is negatively affected by address
 re-use. Everyone.
 
 Remember the UTXO model that we discussed above? The fact that there's actually
-no "coins" in bitcoin, but only input and outputs? One of the consequences of
+no "coins" in bitcoin, but only inputs and outputs? One of the consequences of
 this model is that, given that the ledger is public, the only way to have _any_
 privacy is to hide in the crowd.
 
