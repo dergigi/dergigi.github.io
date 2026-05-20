@@ -317,7 +317,7 @@ On-chain zaps are bad, because:
 [^fn-bitcoinium]: I called this hypothetical material "[bitcoinium](https://www.youtube.com/watch?v=hq391_Vmq_E)" a very long time ago.
 [^fn-adoption]: I'm not saying that it will. Nostr doesn't have widespread adoption in the first place, and I doubt that educated users would ever use this. But then again: [how many users are educated on these esoteric topics?][educated-topics] And to make the point once more: the educated users can't even opt out of the receiving end of things.
 
-[vitor-thread]: https://njump.to/nevent1qqs23jpquykrlg2psqhyhhxzn06nmf3dr6yejwvgws0733x8d9vgnugqfuqeq
+[vitor-thread]: https://njump.to/nevent1qqstjywhdd3kt2pwxlnpd3yyd2hflkn7xqtm8lqrkqe0fv7k5dt4wwcyxsyns
 [zap-questions]: https://njump.to/nevent1qqsfjeexuf2fctl2xsquvt4sts0zfdaml67tkemsw9x9znagz2zrslswh3ng2
 [educated-topics]: https://njump.to/nevent1qqspgfn5rf7d3q6k3dx9rlfxdag37nxq0gt4y6xa6kyrsm6unhhlyxscnd33h
 [cypherpunk-manifesto]: https://nakamotoinstitute.org/library/cypherpunk-manifesto/
