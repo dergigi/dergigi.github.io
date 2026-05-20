@@ -309,7 +309,7 @@ your finances. That's a problem, since changing your face is ... difficult.
 My hope is that something positive will come from all of this. Tim is working on
 an [implementation that uses silent payments][tim-silent-payments], which is the
 "proper" way to do any of this, as I've mentioned [over][silent-over-1] and
-[over][silent-over-2] and [over][silent-over-3] again. Nostr and Silent Payments are a match made in heaven, and there is quite a bit of prior work to marry them.
+[over][silent-over-2] and [over][silent-over-3] again. Nostr and Silent Payments are a match made in heaven, and there is quite a bit of [prior work][prior-work] to marry them.
 
 Will, aka [jb55][jb55], aka the guy who brought zaps to nostr in the first place, seems to agree:
 
@@ -371,3 +371,4 @@ On-chain zaps are bad, because:
 [silent-over-3]: https://njump.to/nevent1qqsyk4dputscupm9l6k2y9hm9ytp0738dazenhrhvucw637w8k79hwceasw8p
 [jb55]: https://njump.to/nevent1qqsqxep0pgs27mdk9r7pq8adz0kmfzkm8y3w7myd3djaxl80z5r2qdc5zkf62
 [tim-silent-payments]: https://njump.to/nevent1qqs9g38wpxsxj25axpgqevd8xkf4mnmkx5w5ftjvuh8rr5kas9r62csa48x96
+[prior-work]: https://njump.to/nevent1qqsdqs3ymew7sr29tfv2ya3srd05kahu40dqs3hgvmyfqnlgxl7jyrgth0eku
