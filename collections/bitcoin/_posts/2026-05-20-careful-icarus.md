@@ -176,6 +176,8 @@ and was discussed on the [bitcointalk] forums way over a decade ago:
 > from your paycheck, and thieves see your latest purchases and how wealthy you
 > are which helps them target and scam you. Poor privacy in Bitcoin can be a major
 > practical disadvantage for both individuals and businesses.
+>
+> <cite>[Greg Maxwell][bitcointalk]</cite>
 
 Yes, zaps are public, and that's the point. But what preceded a zap and what
 follows it is _not_ public, and shouldn't be. It isn't public right now because
