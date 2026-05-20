@@ -307,7 +307,7 @@ your finances. That's a problem, since changing your face is ... difficult.
 ## Silver Linings
 
 My hope is that something positive will come from all of this. Tim is working on
-an implementation that uses silent payments, which is the "proper" way to do any of this, as I've mentioned over and over and over again.
+an implementation that uses silent payments, which is the "proper" way to do any of this, as I've mentioned [over][silent-over-1] and [over][silent-over-2] and [over][silent-over-3] again.
 
 ## TL;DR
 
@@ -352,3 +352,6 @@ On-chain zaps are bad, because:
 [Silberengel]: https://njump.to/nevent1qqspewuufmdq0qurwdmn6d2egz2jrspvzzg0lekke44wrmsx505ls2c0a3pwy
 [wrenchstr]: https://njump.to/nevent1qqsg3g529nmvwd82s0a2gn08t4j7t8cj0mcrk3u0encrf28u3fv2k3gqpl0uq
 [lola]: https://njump.to/nevent1qqspwvnz2vg6dgctp8p55x2qxqgtendk6l0tlhxqspd9gxz3khhj5us65qv6e
+[silent-over-1]: https://njump.to/nevent1qqsd78wku5u3zts6dxncuupghrwn4hcyfrw8ksf3r24kv90e092dt7qxc37e0
+[silent-over-2]: https://njump.to/nevent1qqsyj4yfnfvuf99za5t5sznvvpvf028azp7gjdzfgfg0j3rztczf99cuckc9m
+[silent-over-3]: https://njump.to/nevent1qqsyk4dputscupm9l6k2y9hm9ytp0738dazenhrhvucw637w8k79hwceasw8p
