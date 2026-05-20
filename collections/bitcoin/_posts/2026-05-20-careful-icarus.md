@@ -211,20 +211,46 @@ None of the above is theoretical. For over a decade people have been robbed,
 extorted, kidnapped, or worse, just because other people thought (or knew) they
 had bitcoin. I encourage you to read through the list of [known physical bitcoin
 attacks][lopp]. But I also know that people don't read, much less click links,
-so here's some highlights from the last ~18 months:
+so here's three highlights from the last ~18 months:
 
-- A 25-year-old woman was kidnapped and held hostage by two men.
 - A couple and their 20-year-old daughter were violently held captive by a group of criminals searching for bitcoins.
-- 3 men posing as police rob €900,000 in bitcoin from a couple during violent homejacking.
 - Three attackers invaded a home, tied up family, and made several bitcoin transfers.
 - A 38-year-old Chinese businessman was killed and found buried in the ground with his hands and feet bound with packing tape.
 
 The list is very long. The above aren't the worst examples. I trust that you get the point.
 
-There's actually a third category, namely _wanting to do something but not being
-able to_. Depending on output size and the current fee environment you might
-find yourself in a situation in which it's literally impossible to get rid of
-the money (because the UTXO you received is below the [dust limit][dust-limit]).
+_"But all zaps are public anyway!!!"_ I hear you shouting in protest. Yes, they
+are, but let me paint you a picture: Let's say I'm a criminal, and I "on-chain
+zap" everyone on nostr. Some of my targets will inevitably move their UTXOs to
+cold storage, potentially combining what I've sent (and what I'm now tracking)
+with their main stash. I have a script running that notifies me of this (only if
+it's above a certain amount, of course). A couple days later I get such an
+alert. Jackpot. Generational wealth. I rub my hands as I browse nostr for the
+latest posts of my unsuspecting victim. Between memes and casual shitposts I
+find a link to a concert as well as an image they took on a stroll. There's a
+mountain range in the background. I paste the image into a geolocation engine.
+It matches the concert location almost perfectly. I scroll further down and find
+multiple selfies and a photo of their dog. I now know where they live, what they
+look like, what their dog looks like, and where they usually go to take their
+dog on a walk.
+
+Do you get it now? Do you finally understand why associating on-chain activity
+with (nostr) identites is problematic? Do you understand why all of the above
+isn't an issue when using Lightning?
+
+TODO: insert crazy pills gif https://giphy.com/gifs/trump-president-donald-CKrlUi30dn44w
+
+The fact that multiple nostr developers don't seem to get this point had me
+question my sanity. It also made me question said developers intentions (as well
+as their competence, to some degree).
+
+But wait, there's more.
+
+There's actually a third category, in addition to doing nothing or something,
+namely _wanting to do something but not being able to_. Depending on output size
+and the current fee environment you might find yourself in a situation in which
+it's literally impossible to get rid of the money (because the UTXO you received
+is below the [dust limit][dust-limit]).
 
 It's not hard to imagine a scenario that makes this problematic. Imagine a mafia
 boss coming to your house, giving you money that was made via illicit means. He
