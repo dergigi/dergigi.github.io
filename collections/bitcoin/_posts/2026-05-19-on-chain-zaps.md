@@ -43,7 +43,7 @@ arguments as I understand them. In short:
 As I've mentioned in the long back-and-forth thread with Vitor, I am not against
 the *spirit* of the idea. I think that every npub should be able to send and
 receive money with as little friction as possible, and have always been an
-advocate for things like npub.cash & nutzaps (NIP-60/61).
+advocate for things like [npub.cash][npub-cash] & nutzaps (NIP-60/61).
 
 What I want to speak out against is the proposed *implementation* of the idea,
 which encourages bad practices and has the potential to actively harm users in
@@ -320,6 +320,7 @@ On-chain zaps are bad, because:
 [zap-questions]: https://njump.to/nevent1qqsfjeexuf2fctl2xsquvt4sts0zfdaml67tkemsw9x9znagz2zrslswh3ng2
 [educated-topics]: https://njump.to/nevent1qqspgfn5rf7d3q6k3dx9rlfxdag37nxq0gt4y6xa6kyrsm6unhhlyxscnd33h
 [cypherpunk-manifesto]: https://nakamotoinstitute.org/library/cypherpunk-manifesto/
+[npub-cash]: https://npub.cash/
 [argument]: https://youtu.be/ohDB5gbtaEQ
 [shit]: https://youtu.be/nnun8y7r8_U
 [UTXOs]: https://opensats.org/topics/utxo
