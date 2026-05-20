@@ -191,7 +191,7 @@ What now? Well, the two basic options are "do nothing" and "do something." Both
 are problematic, and here's why.
 
 **Do nothing:** If you don't move the money, everyone will see how much money
-you have to your name, as was promptly demonstrated by "[wrenchstr]" and other
+you have to your name, as was promptly demonstrated by "[wrenchstr]", rich list, and other
 vibe-coded projects. You might not even know about the money, but you using
 your nsec to sign messages (read: you simply using nostr, logging in to
 something, or pressing a like button here and there) proves without a shadow of
