@@ -225,7 +225,7 @@ zap" everyone on nostr. Some of my targets will inevitably move their UTXOs to
 cold storage, potentially combining what I've sent (and what I'm now tracking)
 with their main stash. I have a script running that notifies me of this (only if
 it's above a certain amount, of course). A couple of days later I get such an
-alert. Jackpot. Generational wealth. I rub my hands as I browse nostr for the
+alert. **Jackpot.** Generational wealth. I rub my hands as I browse nostr for the
 latest posts of my unsuspecting victim. Between memes and casual shitposts I
 find a link to a concert as well as an image they took on a stroll. There's a
 mountain range in the background. I paste the image into a geolocation engine.
