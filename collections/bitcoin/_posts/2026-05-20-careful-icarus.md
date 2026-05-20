@@ -430,7 +430,7 @@ On-chain zaps are bad, because:
 [pow]: /pow
 [privacy best practices]: https://jamdocs.org/privacy/02-best-practices/
 [bitcointalk]: https://bitcointalk.org/?topic=279249
-[Pulvis Assaultus]: http://opensats.org/topics/dust-attack
+[Pulvis Assaultus]: https://opensats.org/topics/dust-attack
 [dust-limit]: https://bitcoinops.org/en/topics/uneconomical-outputs/
 [merchant]: https://btcmap.org/
 [lopp]: https://github.com/jlopp/physical-bitcoin-attacks
