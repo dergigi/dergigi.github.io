@@ -351,7 +351,7 @@ customer," to quote the [Italian comedian][italian-comedian] once more.
 {% include image.html name="gigi-ln-address.png" caption="The yellow `s@ts.dergigi.com` is one of my many lightning addresses." link="https://ants.sh/p/dergigi.com" %}
 
 That said, I think it's fine to publicly state "this is how you can send me
-money" - which is, in part, what the current spec does. With the proposed
+money" - which is, in part, what Lightning zaps do. With the proposed
 on-chain zap spec this transforms into something like "this is my identity-bound
 payment info and _on top of that_ here are all my bank statements—past, present, and
 future—feel free to spy on all my financial activity forever."
