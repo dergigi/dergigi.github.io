@@ -234,6 +234,8 @@ almost perfectly. I scroll further down and find multiple selfies and a photo of
 their dog. I now know where they live, what they look like, what their dog looks
 like, and where they usually go to take their dog on a walk.
 
+{% include image.html name="geolocation.png" link="https://openaccess.thecvf.com/content_ECCV_2018/papers/Eric_Muller-Budack_Geolocation_Estimation_of_ECCV_2018_paper.pdf" %}
+
 Do you get it now? Do you finally understand why associating on-chain activity
 with (nostr) identities is problematic? Do you understand why all of the above
 isn't an issue when using Lightning?
