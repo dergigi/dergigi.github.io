@@ -100,7 +100,7 @@ Further, I could claim that I've lost access to my wallet, and there wouldn't be
 a way to prove that this isn't true. This type of plausible deniability
 completely flies out the window in an on-chain world.
 
-## Revealing more than necessary
+## Revealing More Than Necessary
 
 Tying bitcoin addresses to identities is what chainalysis companies do. And even
 though their assumptions are based on heuristical witchcraft and should be taken
