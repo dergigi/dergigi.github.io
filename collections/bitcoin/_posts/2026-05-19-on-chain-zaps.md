@@ -17,7 +17,7 @@ tags:
 ---
 
 Yesterday I relapsed. Not alcohol, or drugs, or gambling, or anything of that
-sort. It was something worse: trying to have an argument online.
+sort. It was something worse: having an argument online.
 
 Back when twitter was still called twitter I found myself getting into many an
 argument. Not because I wanted to, but because—at least back in those days—the
