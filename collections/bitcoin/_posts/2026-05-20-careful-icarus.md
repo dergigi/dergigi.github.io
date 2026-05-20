@@ -138,7 +138,7 @@ how bitcoin works. And I mean how it _actually_ works. Not just a superficial
 understanding like "my private key is my bank account" and related inaccuracies.
 
 There is no "bank account" in the first place, and there's no "balance" either.
-There's also no "bitcoins" and there's no identity associated with transactions.
+There are also no "bitcoins" and there's no identity associated with transactions.
 There's inputs and outputs, and some of the outputs are unspent. We call these
 unspent outputs—surprise, surprise—unspent transaction outputs, or [UTXOs].
 Conceptually, if bitcoin would be a physical thing like gold is, you could think
