@@ -91,9 +91,9 @@ Yes, they are. Zaps are public. The balance of my lightning wallet is not
 public, however. The history of the sats I received isn't public either, nor is
 the future of said sats.
 
-I tried to make this point by posing the [following questions][zap-questions]: "All the zaps that
+I tried to make this point by posing the following questions: ["All the zaps that
 I have received so far, what did I spend them on? Can you tell? Did I even move
-those sats at all? Where did the sats go after I’ve received them?"
+those sats at all? Where did the sats go after I’ve received them?"][zap-questions]
 
 Further, I could claim that I've lost access to my wallet, and there wouldn't be
 a way to prove that this isn't true. This type of plausible deniability
