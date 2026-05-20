@@ -58,8 +58,8 @@ the fuck not" I guess.
 
 My initial reaction to seeing the proposal was
 ["careful, Icarus"][careful-icarus] followed by ["oh, that's a terrible idea"][terrible-idea]
-right after - and it's my reaction still. Just because we can do something
-doesn't mean we _should_ do something, as Jurassic Park was trying to teach us.
+right after - and it's my reaction still. Just because we can build something
+doesn't mean we _should_ build something, as Jurassic Park was trying to teach us.
 
 > Yeah, yeah, but your scientists were so preoccupied with whether or not they
 > could that they didn't stop to think if they should.
@@ -194,7 +194,7 @@ Using on-chain addresses for zaps not only allows this, but it makes it trivial.
 
 You just got zapped. Great. It was an on-chain zap. Not so great.
 
-What now? Well, the two basic options are "do nothing" and "build something." Both
+What now? Well, the two basic options are "do nothing" and "do something." Both
 are problematic, and here's why.
 
 **Do nothing:** If you don't move the money, everyone will see how much money
@@ -205,7 +205,7 @@ something, or pressing a like button here and there) proves without a shadow of
 a doubt that you are still in control of your keys, i.e. the keys that can move
 the money. Bad for users. Fantastic for criminals. A wet dream for prying eyes.
 
-**Build something:** You decide to move the money, which is to say: move the UTXOs
+**Do something:** You decide to move the money, which is to say: move the UTXOs
 that are now associated with your nostr identity. Maybe you want to move them
 to your cold storage, or maybe you want to buy something online, or spend it at
 a [merchant] directly, or maybe you want to send the money to a friend who
@@ -264,8 +264,8 @@ as their competence, to some degree).
 
 But wait, there's more.
 
-There's actually a third category, in addition to doing nothing or building something,
-namely _wanting to build something but not being able to_. Depending on output size
+There's actually a third category, in addition to doing nothing or something,
+namely _wanting to do something but not being able to_. Depending on output size
 and the current fee environment you might find yourself in a situation in which
 it's literally impossible to get rid of the money (because the UTXO you received
 is below the [dust limit][dust-limit]).
