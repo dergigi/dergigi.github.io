@@ -325,7 +325,7 @@ things" mentality. Always have been. But *there's a fine line between just doing
 things and just doing damage to things*. I hate to see unsuspecting users get
 rekt, and if something insane like
 static-address-reuse-onchain-zaps-derived-from-npub ever gets widespread
-adoption[^fn-adoption], we'd be in a bad place.
+adoption,[^fn-adoption] we'd be in a bad place.
 
 As things are now, users are actively advertising how they can get zapped by
 putting a lightning address in their profile. What address to use is a
@@ -339,7 +339,7 @@ derived address the default.
 
 I feel like a broken record when I keep saying that [money and identity aren't
 the same thing][money-identity]. "The whole point of money is to not know your
-customer," to quote the Italian comedian once more.
+customer," to quote the [Italian comedian][italian-comedian] once more.
 
 {% include image.html name="gigi-ln-address.png" caption="The yellow `s@ts.dergigi.com` is one of my many lightning addresses." link="https://ants.sh/p/dergigi.com" %}
 
@@ -427,6 +427,7 @@ On-chain zaps are bad, because:
 [onchain-zaps-proposal]: https://github.com/nostr-protocol/nips/pull/2332
 [algorithm]: https://youtu.be/4usXBGvufKg
 [argument]: https://youtu.be/ohDB5gbtaEQ
+[italian-comedian]: https://www.youtube.com/watch?v=zp1B_i4JlXc&t=1401s
 [shit]: https://youtu.be/nnun8y7r8_U
 [UTXOs]: https://opensats.org/topics/utxo
 [pow]: /pow
