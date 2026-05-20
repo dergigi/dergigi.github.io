@@ -56,9 +56,10 @@ the fuck not" I guess.
 
 ## Careful, Icarus
 
-My initial reaction to seeing [the proposal][onchain-zaps-proposal] was ["oh, that's a terrible idea"][terrible-idea] -
-and it's my reaction still. Just because we can do something doesn't mean we
-_should_ do something, as Jurassic Park was trying to teach us.
+My initial reaction to seeing the proposal was
+"careful, icarus" followed by ["oh, that's a terrible idea"][terrible-idea]
+right after - and it's my reaction still. Just because we can do something
+doesn't mean we _should_ do something, as Jurassic Park was trying to teach us.
 
 > Yeah, yeah, but your scientists were so preoccupied with whether or not they
 > could that they didn't stop to think if they should.
@@ -342,7 +343,7 @@ customer," to quote the Italian comedian once more.
 
 That said, I think it's fine to publicly state "this is how you can send me
 money" - which is, in part, what the current spec does. With the proposed
-[on-chain zap spec][onchain-zaps-proposal] this transforms into something like "this is my identity-bound
+on-chain zap spec this transforms into something like "this is my identity-bound
 payment info and _on top of that_ here are all my bank statements—past, present, and
 future—feel free to spy on all my financial activity forever."
 
