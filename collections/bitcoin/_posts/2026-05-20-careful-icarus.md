@@ -25,7 +25,7 @@ is off-the-charts on all engagement metrics, so naturally it's what people want
 to see and do online, right? Anyway, I promised myself that I would never get
 into a twitter argument ever again, and resorted to shitposting instead. [Bliss.][bliss]
 
-{% include image.html name="me-before-onchain-zaps.jpg" caption="me before on-chain zaps" link="https://i.kym-cdn.com/photos/images/original/002/210/781/82b.jpg" %}
+{% include image.html name="me-before-onchain-zaps.jpg" caption="me before on-chain zaps" link="http://ants.sh/p/dergigi.com?q=mood" %}
 
 But yesterday I broke that promise, [getting into an argument][argument] with Vitor on the
 topic of ["on-chain zaps"][onchain-zaps-proposal]. I consider Vitor a friend, and I appreciate that he is
@@ -341,7 +341,7 @@ I feel like a broken record when I keep saying that [money and identity aren't
 the same thing][money-identity]. "The whole point of money is to not know your
 customer," to quote the Italian comedian once more.
 
-{% include image.html name="gigi-ln-address.png" caption="The yellow `s@ts.dergigi.com` is one of my many lightning addresses." %}
+{% include image.html name="gigi-ln-address.png" caption="The yellow `s@ts.dergigi.com` is one of my many lightning addresses." link="https://ants.sh/p/dergigi.com" %}
 
 That said, I think it's fine to publicly state "this is how you can send me
 money" - which is, in part, what the current spec does. With the proposed
