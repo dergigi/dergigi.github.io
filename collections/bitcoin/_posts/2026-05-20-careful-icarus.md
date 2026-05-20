@@ -217,7 +217,7 @@ money, and use it against you.
 None of the above is theoretical. For over a decade people have been robbed,
 extorted, kidnapped, or worse, just because other people thought (or knew) they
 had bitcoin. I encourage you to read through the list of [known physical bitcoin
-attacks][lopp]. But I also know that people don't read, much less click links,
+attacks][lopp]. And since I'm aware that people don't read, much less click links,
 so here are three highlights from the last ~18 months:
 
 - A couple and their 20-year-old daughter were violently held captive by a group of criminals searching for bitcoins.
