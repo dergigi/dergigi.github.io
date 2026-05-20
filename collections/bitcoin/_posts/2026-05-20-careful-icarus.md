@@ -238,7 +238,10 @@ Do you get it now? Do you finally understand why associating on-chain activity
 with (nostr) identities is problematic? Do you understand why all of the above
 isn't an issue when using Lightning?
 
-{% include image.html name="crazy-pills.gif" %}
+{% include image.html name="crazy-pills.gif" link="https://njump.to/nevent1qqs29673f86rdyc28cvczyudrt6guas3a5m5ujv7sxk0px5dq206hgsyfkxwk" %}
+
+Yes, zaps are supposed to be public thing (it is worth pointing out that private zaps do exist, however).
+But switching to on-chain ... TODO
 
 The fact that multiple nostr developers don't seem to get this point had me
 question my sanity. It also made me question said developers intentions (as well
