@@ -220,9 +220,9 @@ had bitcoin. I encourage you to read through the list of [known physical bitcoin
 attacks][lopp]. And since I'm aware that people don't read, much less click links,
 here are three highlights from the last ~18 months:
 
-- A couple and their 20-year-old daughter were violently held captive by a group of criminals searching for bitcoins. [source](https://www.rtl.fr/actu/justice-faits-divers/info-rtl-cryptomonnaies-une-nouvelle-famille-sequestree-en-seine-et-marne-7900599500)
-- Three attackers invaded a home, tied up family, and made several bitcoin transfers. [source](https://www.leparisien.fr/faits-divers/un-investisseur-en-cryptomonnaie-et-sa-compagne-sequestres-a-leur-domicile-de-la-rochelle-des-virements-effectues-par-les-ravisseurs-18-12-2025-KN6YFKOQ2NCCPEGXLZP2ZTYX4A.php)
-- A 38-year-old Chinese businessman was killed and found buried in the ground with his hands and feet bound with packing tape. [source](https://en.haberler.com/pure-chinese-torture-what-they-did-to-the-19596022/)
+- A couple and their 20-year-old daughter were violently held captive by a group of criminals searching for bitcoins. [source][attack-seine-et-marne]
+- Three attackers invaded a home, tied up family, and made several bitcoin transfers. [source][attack-la-rochelle]
+- A 38-year-old Chinese businessman was killed and found buried in the ground with his hands and feet bound with packing tape. [source][attack-istanbul]
 
 The list is very long. The above aren't the worst examples. I trust that you get the point.
 
@@ -434,6 +434,9 @@ On-chain zaps are bad, because:
 [dust-limit]: https://bitcoinops.org/en/topics/uneconomical-outputs/
 [merchant]: https://btcmap.org/
 [lopp]: https://github.com/jlopp/physical-bitcoin-attacks
+[attack-seine-et-marne]: https://www.rtl.fr/actu/justice-faits-divers/info-rtl-cryptomonnaies-une-nouvelle-famille-sequestree-en-seine-et-marne-7900599500
+[attack-la-rochelle]: https://www.leparisien.fr/faits-divers/un-investisseur-en-cryptomonnaie-et-sa-compagne-sequestres-a-leur-domicile-de-la-rochelle-des-virements-effectues-par-les-ravisseurs-18-12-2025-KN6YFKOQ2NCCPEGXLZP2ZTYX4A.php
+[attack-istanbul]: https://en.haberler.com/pure-chinese-torture-what-they-did-to-the-19596022/
 [money-identity]: /2022/12/02/bitcoin-is-the-rediscovery-of-money/#:~:text=Money%20doesn%27t%20require%20identity
 [bitcoin wiki]: https://en.bitcoin.it/wiki/Address_reuse#:~:text=The%20relationship%20graph%20in%20a%20re%2Dused%20address%20is%20powerfully%2Dlinked%20in%20that%20all%20of%20the%20inputs%20to%20that%20address%20are%20necessarily%20joined%20(via%20the%20spending%20authority%20of%20your%20private%20key)%20to%20all%20of%20its%20outputs.
 [ants]: https://ants.sh/?q=%22onchain+zaps%22+OR+%22on-chain+zaps%22
