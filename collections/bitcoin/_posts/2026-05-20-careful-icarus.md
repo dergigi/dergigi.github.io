@@ -226,7 +226,7 @@ here are three highlights from the last ~18 months:
 
 The list is very long. The above aren't the worst examples. I trust that you get the point.
 
-_"[But zaps are already public! What are you worried about?][why-worry]"_
+_["But zaps are already public! What are you worried about?"][why-worry]_
 I hear you shouting in protest. Yes, they are, but let me paint you a picture:
 Let's say I'm a criminal, and I "on-chain zap" everyone on nostr. Some of my
 targets will inevitably move their UTXOs to cold storage, potentially combining
