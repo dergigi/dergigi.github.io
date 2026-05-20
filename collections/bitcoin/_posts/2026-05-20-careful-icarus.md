@@ -21,7 +21,7 @@ sort. It was something worse: having an argument online.
 
 Back when twitter was still called twitter I found myself getting into many an
 argument. Not because I wanted to, but because—at least back in those days—the
-[the algorithm encouraged it][algorithm]. A constant back-and-forth between two stubborn people
+[algorithm encouraged it][algorithm]. A constant back-and-forth between two stubborn people
 is off-the-charts on all engagement metrics, so naturally it's what people want
 to see and do online, right? Anyway, I promised myself that I would never get
 into a twitter argument ever again, and resorted to shitposting instead. Bliss.
@@ -138,7 +138,7 @@ how bitcoin works. And I mean how it _actually_ works. Not just a superficial
 understanding like "my private key is my bank account" and related inaccuracies.
 
 There is no "bank account" in the first place, and there's no "balance" either.
-There are also no "bitcoins" and there's no identity associated with transactions.
+There's also no "bitcoins" and there's no identity associated with transactions.
 There's inputs and outputs, and some of the outputs are unspent. We call these
 unspent outputs—surprise, surprise—unspent transaction outputs, or [UTXOs].
 Conceptually, if bitcoin would be a physical thing like gold is, you could think
@@ -172,7 +172,7 @@ and was discussed on the [bitcointalk] forums way over a decade ago:
 > are which helps them target and scam you. Poor privacy in Bitcoin can be a major
 > practical disadvantage for both individuals and businesses.
 
-Yes, zaps are public, and that's the point. But what proceeded a zap and what
+Yes, zaps are public, and that's the point. But what preceded a zap and what
 follows it is _not_ public, and shouldn't be. It isn't public right now because
 zaps use the Lightning Network, which has certain privacy characteristics that
 on-chain transactions do not and will never have.
@@ -181,7 +181,7 @@ So when I said that ["Lightning is a sane default for zaps"][sane-default]
 that's what I meant. Lightning does _not_ allow you to spy on the financial
 activity of the sender (or the receiver) in perpetuity.
 
-Using on-chain addresses for zaps not only allow this, but it makes it trivial.
+Using on-chain addresses for zaps not only allows this, but it makes it trivial.
 
 ### Bad for the Receiver
 
@@ -194,7 +194,7 @@ are problematic, and here's why.
 you have to your name, as was promptly demonstrated by "[wrenchstr]" and other
 vibe-coded projects. You might not even know about the money, but you using
 your nsec to sign messages (read: you simply using nostr, logging in to
-something, or pressing a like button here and there) proofs without a shadow of
+something, or pressing a like button here and there) proves without a shadow of
 a doubt that you are still in control of your keys, i.e. the keys that can move
 the money. Bad for users. Fantastic for criminals. A wet dream for prying eyes.
 
@@ -295,14 +295,14 @@ customer," to quote the Italian comedian once more.
 That said, I think it's fine to publicly state "this is how you can send me
 money" - which is, in part, what the current spec does. With the proposed
 on-chain zap spec this transforms into something like "this is my identity-bound
-payment info and _on top of that_ here all my bank statements—past, present, and
+payment info and _on top of that_ here are all my bank statements—past, present, and
 future—feel free to spy on all my financial activity forever."
 
 In some sense this move is similar to relying _purely_ on biometrics as
 identification, as opposed to passwords (or other secrets). Convenient, yes, but
 biometrics are _public_, not private. They are usernames, not passwords. You
 can't change them. Imagine someone scans your face and has deep insight into all
-your financial. That's a problem, since changing your face is ... difficult.
+your finances. That's a problem, since changing your face is ... difficult.
 
 ## TL;DR
 
