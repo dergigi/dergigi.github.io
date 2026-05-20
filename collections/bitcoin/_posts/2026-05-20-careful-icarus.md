@@ -35,7 +35,7 @@ to associate on-chain activity with their online identity is misguided at best,
 and actively harmful at worst.
 
 Before I get into the "why it's bad" part of it all I'll try to steelman Vitor's
-arguments as I understand them. In short:
+arguments[^fn-gleason] as I understand them. In short:
 
 - Zaps are public anyway
 - Lightning setup is complicated
@@ -402,6 +402,7 @@ On-chain zaps are bad, because:
 ---
 
 [^fn-yd]: By now it isn't yesterday anymore, because it actually took me a couple of days to write this rant.
+[^fn-gleason]: The proposal is being pushed by Vitor and Alex, who are the lead developers of [Amethyst](https://opensats.org/projects/amethyst) and [Soapbox/Ditto/Shakespear](https://opensats.org/projects/soapbox), respectively.
 [^fn-prismatic]: [Identity is prismatic](/names), and always will be.
 [^fn-bitcoinium]: I called this hypothetical material "[bitcoinium](https://www.youtube.com/watch?v=hq391_Vmq_E)" a very long time ago.
 [^fn-adoption]: I'm not saying that it will. Nostr doesn't have widespread adoption in the first place, and I doubt that educated users would ever use this. But then again: [how many users are educated on these esoteric topics?][educated-topics] And to make the point once more: the educated users can't even opt out of the receiving end of things.
