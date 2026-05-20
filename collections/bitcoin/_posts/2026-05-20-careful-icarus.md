@@ -323,7 +323,7 @@ He also has a good point about the unintended dust attack issue:
 > We can discourage people using dust amounts by automatically choosing lightning
 > zaps for small amounts and onchain zaps over a certain limit.
 
-So there is some sanity to be found.
+The [discussion is ongoing][ants], but at least there's some sanity to be found.
 
 ## TL;DR
 
@@ -362,6 +362,7 @@ On-chain zaps are bad, because:
 [lopp]: https://github.com/jlopp/physical-bitcoin-attacks
 [money-identity]: /2022/12/02/bitcoin-is-the-rediscovery-of-money/#:~:text=Money%20doesn%27t%20require%20identity
 [bitcoin wiki]: https://en.bitcoin.it/wiki/Address_reuse#:~:text=The%20relationship%20graph%20in%20a%20re%2Dused%20address%20is%20powerfully%2Dlinked%20in%20that%20all%20of%20the%20inputs%20to%20that%20address%20are%20necessarily%20joined%20(via%20the%20spending%20authority%20of%20your%20private%20key)%20to%20all%20of%20its%20outputs.
+[ants]: https://ants.sh/?q=%22onchain+zaps%22+OR+%22on-chain+zaps%22
 
 [slop]: /sloppypasta
 [sane-default]: https://njump.to/nevent1qqsy77qjawrvj4u7kn9fqz2jpjx4us4yatfv5x94exzl2kjj30zshvqx0qg9k
