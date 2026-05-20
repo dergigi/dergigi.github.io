@@ -309,7 +309,9 @@ your finances. That's a problem, since changing your face is ... difficult.
 My hope is that something positive will come from all of this. Tim is working on
 an [implementation that uses silent payments][tim-silent-payments], which is the
 "proper" way to do any of this, as I've mentioned [over][silent-over-1] and
-[over][silent-over-2] and [over][silent-over-3] again. Nostr and Silent Payments are a match made in heaven, and there is quite a bit of [prior work][prior-work] to marry them.
+[over][silent-over-2] and [over][silent-over-3] again. Nostr and Silent Payments
+are a match made in heaven, and there is quite a bit of [prior work][prior-work]
+to marry them.
 
 Will, aka [jb55][jb55], aka the guy who brought zaps to nostr in the first place, seems to agree:
 
