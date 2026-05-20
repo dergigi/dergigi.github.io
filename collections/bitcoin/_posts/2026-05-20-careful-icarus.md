@@ -381,7 +381,7 @@ non-interactive][non-interactive], as Calle pointed out. And on top of that they
 will create on-chain transactions just the same, bringing fee pressure and
 bloating the UTXO set just the same.
 
-One last thing: zaps and numerology go hand-in-hand. 21 sats here, 69,420 sats
+One last thing: zaps and numerology go hand-in-hand. `21` sats here, `69,420` sats
 there, palindrome zaps, etc. We can't do any of that if we hit the chain
 directly because broadcasting the exact amount would make it trivial for an
 attacker to identify the actual transaction. Which means any sane proposal would
