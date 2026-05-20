@@ -363,7 +363,7 @@ At least there's some sanity to be found. The [discussion is ongoing][ants].
 
 Silent payments aren't a panacea either, mind you. They are [meant to be non-interactive][non-interactive], as Calle pointed out. And on top of that they will create on-chain transactions just the same, bringing fee pressure and bloating the UTXO set just the same.
 
-Long story short: zaps shouldn't touch the chain, and I should go touch grass. Good night.
+Long story short: zaps shouldn't touch the chain, and I should go touch grass. [Good night.][good-night]
 
 ## TL;DR
 
@@ -404,6 +404,7 @@ On-chain zaps are bad, because:
 [money-identity]: /2022/12/02/bitcoin-is-the-rediscovery-of-money/#:~:text=Money%20doesn%27t%20require%20identity
 [bitcoin wiki]: https://en.bitcoin.it/wiki/Address_reuse#:~:text=The%20relationship%20graph%20in%20a%20re%2Dused%20address%20is%20powerfully%2Dlinked%20in%20that%20all%20of%20the%20inputs%20to%20that%20address%20are%20necessarily%20joined%20(via%20the%20spending%20authority%20of%20your%20private%20key)%20to%20all%20of%20its%20outputs.
 [ants]: https://ants.sh/?q=%22onchain+zaps%22+OR+%22on-chain+zaps%22
+[good-night]: https://ants.sh/?q=GN+by%3Adergigi.com
 [OFAC list]: https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses
 
 [slop]: /sloppypasta
