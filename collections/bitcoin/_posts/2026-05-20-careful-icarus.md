@@ -392,7 +392,7 @@ Long story short: zaps shouldn't touch the chain, and I should finally climb
 down from [Mt. Stupid][mt-stupid] and go touch some grass. It was a nice
 excursion. [Good night.][good-night]
 
-{% include image.html name="mt-stupid.png" link="https://njump.to/nevent1qqsf4mvtz8vc523esz99w367ejtwcx0uvn9g07tfux6szafk0s6qv6g74h3h5" %}
+{% include image.html name="mt-stupid.png" link="https://duckduckgo.com/?q=dunning+kruger&ia=images&iax=images" %}
 
 ## TL;DR
 
