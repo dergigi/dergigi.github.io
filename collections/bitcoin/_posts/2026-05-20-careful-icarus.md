@@ -213,13 +213,13 @@ had bitcoin. I encourage you to read through the list of [known physical bitcoin
 attacks][lopp]. But I also know that people don't read, much less click links,
 so here's some highlights from the last ~18 months:
 
-- Three attackers invaded a home, tied up family, and made several [bitcoin] transfers.
-- A 38-year-old Chinese businessman was killed and found buried in the ground with his hands and feet bound with packing tape.
+- A 25-year-old woman was kidnapped and held hostage by two men.
 - A couple and their 20-year-old daughter were violently held captive by a group of criminals searching for bitcoins.
-- Several individuals posing as police officers attempted to break into a home, hoping to get cryptocurrency.
 - 3 men posing as police rob €900,000 in bitcoin from a couple during violent homejacking.
-- Violent kidnapping resulting in the transfer of €68,000
-- A 25-year-old woman was kidnapped and held hostage by two men for cryptocurrency
+- Three attackers invaded a home, tied up family, and made several bitcoin transfers.
+- A 38-year-old Chinese businessman was killed and found buried in the ground with his hands and feet bound with packing tape.
+
+The list is very long. The above aren't the worst examples. I trust that you get the point.
 
 There's actually a third category, namely _wanting to do something but not being
 able to_. Depending on output size and the current fee environment you might
