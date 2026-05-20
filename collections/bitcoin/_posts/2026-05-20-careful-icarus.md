@@ -375,7 +375,8 @@ attacker to identify the actual transaction. Which means any sane proposal would
 have to use blinded or otherwise obfuscated amounts, destroying a large part of
 what makes zaps interesting.
 
-Long story short: zaps shouldn't touch the chain, and I should go touch grass. [Good night.][good-night]
+Long story short: zaps shouldn't touch the chain, and I should finally climb
+down from Mt. Stupid and go touch some grass. [Good night.][good-night]
 
 ## TL;DR
 
