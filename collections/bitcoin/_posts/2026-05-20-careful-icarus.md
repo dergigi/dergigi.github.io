@@ -13,7 +13,6 @@ tags:
 - nostr
 - lightning
 - Writing
-# boris_link:
 ---
 
 Yesterday I relapsed.[^fn-yd] Not alcohol, or drugs, or gambling, or anything of
