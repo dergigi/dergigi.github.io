@@ -235,7 +235,7 @@ mafia boss is also a witch, and a spell was cast that deposited the money
 directly into your soul. The spell is called _[Pulvis Assaultus]_ and the only
 way to rid your soul from the mafia witch dust is to throw more money at it.
 
-### Bad for everyone else
+### Bad for Everyone Else
 
 This is probably the worst thing about this whole "on-chain zap" idea. Not only
 is it bad for the sender and the receiver, but also for everyone else. Every
