@@ -155,7 +155,7 @@ _pseudonymous_ system by design, which means that it can be used privately if
 you are careful about keeping your "on-chain identity" separate from your other
 identities (yes, plural[^fn-prismatic]).
 
-The consequence of all that is the following: if I send on-chain bitcoin to you,
+The consequence of all that is the following: if I send onchain bitcoin to you in a naive way,
 you can very easily "spy" on me by following the trail of transactions. It's
 like a loose string that you can pull on, and depending on your time, resources,
 and motivation, you might be able to unravel the whole fabric of my past
@@ -286,10 +286,10 @@ incriminating the sender (as well as yourself).
 
 ### Bad for Everyone Else
 
-The worst thing about a naive implementation of this "on-chain zap" idea is
-address reuse. Not only is it bad for the sender and the receiver, but also for
-everyone else. Every single entity that uses the bitcoin network is negatively
-affected by address reuse. Everyone.
+The thing that triggered me most when I first saw this proposal implemented is
+the fact that it's _mandating_ address reuse (by deriving a static address from
+an npub). Not only is this bad for the sender and the receiver, but also for
+other users that aren't involved in the transaction at all!
 
 Remember the UTXO model that we discussed above? The fact that there's actually
 no "coins" in bitcoin, but only inputs and outputs? One of the consequences of
