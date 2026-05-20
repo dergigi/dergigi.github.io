@@ -2,7 +2,7 @@
 layout: post
 title: Careful, Icarus
 subtitle: Why "on-chain zaps" are a terrible idea
-description: "My adventure of climbing Mt. Stupid with some other nerds. Or: flying too close to the sun."
+description: "I climbed Mt. Stupid with some other nerds and lived to tell the tale."
 date: 2026-05-20
 blocktime: 950269
 image: "/assets/images/on-chain-zaps.jpg"
