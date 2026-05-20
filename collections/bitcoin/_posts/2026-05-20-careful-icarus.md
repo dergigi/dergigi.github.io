@@ -289,7 +289,7 @@ realistic example would be someone sending money to you as well as to one (or
 multiple) addresses on the [OFAC list], suggesting to law enforcement that you
 are part of a criminal network. Or publicly announcing that any money you
 receive will be forwarded to every address on this list, possibly
-incriminating the sender (as well as yourself).
+incriminating any sender (as well as yourself).
 
 ### Bad for Everyone Else
 
