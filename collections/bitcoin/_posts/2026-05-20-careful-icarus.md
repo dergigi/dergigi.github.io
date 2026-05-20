@@ -220,9 +220,9 @@ had bitcoin. I encourage you to read through the list of [known physical bitcoin
 attacks][lopp]. And since I'm aware that people don't read, much less click links,
 here are three highlights from the last ~18 months:
 
-- A couple and their 20-year-old daughter were violently held captive by a group of criminals searching for bitcoins. [source][attack-seine-et-marne]
-- Three attackers invaded a home, tied up family, and made several bitcoin transfers. [source][attack-la-rochelle]
-- A 38-year-old Chinese businessman was killed and found buried in the ground with his hands and feet bound with packing tape. [source][attack-istanbul]
+- A couple and their 20-year-old daughter were violently held captive by a group of criminals searching for bitcoins. ([source][attack-seine-et-marne])
+- Three attackers invaded a home, tied up family, and made several bitcoin transfers. ([source][attack-la-rochelle])
+- A 38-year-old Chinese businessman was killed and found buried in the ground with his hands and feet bound with packing tape. ([source][attack-istanbul])
 
 The list is very long. The above aren't the worst examples. I trust that you get the point.
 
