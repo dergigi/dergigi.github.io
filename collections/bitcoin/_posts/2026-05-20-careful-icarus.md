@@ -118,7 +118,7 @@ I'll just go ahead and quote Lola, since she hit the nail on the head:
 >
 > <cite>[L0la L33tz][lola]</cite>
 
-She goes on to say, correctly, that right now, thanks to Lightning, "[zaps]
+She goes on to say, correctly, that right now, thanks to the Lightning Network, "[zaps]
 don't dox you and everyone else you interact with for the rest of eternity." And
 as we've already established above, "when I cash out my zaps, nobody knows where
 that money went to."
