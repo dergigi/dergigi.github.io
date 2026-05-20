@@ -240,8 +240,7 @@ isn't an issue when using Lightning?
 
 {% include image.html name="crazy-pills.gif" link="https://njump.to/nevent1qqs29673f86rdyc28cvczyudrt6guas3a5m5ujv7sxk0px5dq206hgsyfkxwk" %}
 
-Yes, zaps are supposed to be public thing (it is worth pointing out that private
-zaps do exist, however). But using on-chain is so, so much worse. Offering it
+Yes, zaps are supposed to be public thing (it is worth pointing out that [private zaps][private-zaps] do exist, however). But using on-chain is so, so much worse. Offering it
 as an option to users is incredibly dangerous, because warning the users
 properly (explaining the risk properly) is borderline impossible.
 
@@ -408,3 +407,4 @@ On-chain zaps are bad, because:
 [jb55]: https://njump.to/nevent1qqsqxep0pgs27mdk9r7pq8adz0kmfzkm8y3w7myd3djaxl80z5r2qdc5zkf62
 [tim-silent-payments]: https://njump.to/nevent1qqs9g38wpxsxj25axpgqevd8xkf4mnmkx5w5ftjvuh8rr5kas9r62csa48x96
 [prior-work]: https://njump.to/nevent1qqsdqs3ymew7sr29tfv2ya3srd05kahu40dqs3hgvmyfqnlgxl7jyrgth0eku
+[private-zaps]: https://njump.to/nevent1qqs88g2aj6jrg4xpk9mpm66rklxvmh3u9hjx3mymnyr6udnw9upflsqjvw388
