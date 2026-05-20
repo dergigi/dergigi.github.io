@@ -219,20 +219,20 @@ so here are three highlights from the last ~18 months:
 
 The list is very long. The above aren't the worst examples. I trust that you get the point.
 
-_"But all zaps are public anyway!!!"_ I hear you shouting in protest. Yes, they
-are, but let me paint you a picture: Let's say I'm a criminal, and I "on-chain
-zap" everyone on nostr. Some of my targets will inevitably move their UTXOs to
-cold storage, potentially combining what I've sent (and what I'm now tracking)
-with their main stash. I have a script running that notifies me of this (only if
-it's above a certain amount, of course). A couple of days later I get such an
-alert. **Jackpot.** Generational wealth. I rub my hands as I browse nostr for the
-latest posts of my unsuspecting victim. Between memes and casual shitposts I
-find a link to a concert as well as an image they took on a stroll. There's a
-mountain range in the background. I paste the image into a geolocation engine.
-It matches the concert location almost perfectly. I scroll further down and find
-multiple selfies and a photo of their dog. I now know where they live, what they
-look like, what their dog looks like, and where they usually go to take their
-dog on a walk.
+_"[Zaps are already public! What are you worried about?][why-worry]"_
+I hear you shouting in protest. Yes, they are, but let me paint you a picture:
+Let's say I'm a criminal, and I "on-chain zap" everyone on nostr. Some of my
+targets will inevitably move their UTXOs to cold storage, potentially combining
+what I've sent (and what I'm now tracking) with their main stash. I have a
+script running that notifies me of this (only if it's above a certain amount, of
+course). A couple of days later I get such an alert. **Jackpot.** Generational
+wealth. I rub my hands as I browse nostr for the latest posts of my unsuspecting
+victim. Between memes and casual shitposts I find a link to a concert as well as
+an image they took on a stroll. There's a mountain range in the background. I
+paste the image into a geolocation engine. It matches the concert location
+almost perfectly. I scroll further down and find multiple selfies and a photo of
+their dog. I now know where they live, what they look like, what their dog looks
+like, and where they usually go to take their dog on a walk.
 
 Do you get it now? Do you finally understand why associating on-chain activity
 with (nostr) identities is problematic? Do you understand why all of the above
@@ -417,6 +417,7 @@ On-chain zaps are bad, because:
 [ants]: https://ants.sh/?q=%22onchain+zaps%22+OR+%22on-chain+zaps%22
 [good-night]: https://ants.sh/?q=GN+by%3Adergigi.com
 [OFAC list]: https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses
+[why-worry]: https://github.com/nostr-protocol/nips/pull/2332#issuecomment-4409095253
 
 [slop]: /sloppypasta
 [sane-default]: https://njump.to/nevent1qqsy77qjawrvj4u7kn9fqz2jpjx4us4yatfv5x94exzl2kjj30zshvqx0qg9k
