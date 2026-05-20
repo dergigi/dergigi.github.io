@@ -26,6 +26,8 @@ is off-the-charts on all engagement metrics, so naturally it's what people want
 to see and do online, right? Anyway, I promised myself that I would never get
 into a twitter argument ever again, and resorted to shitposting instead. Bliss.
 
+{% include image.html name="me-before-onchain-zaps.jpg" caption="me before on-chain zaps" link="https://i.kym-cdn.com/photos/images/original/002/210/781/82b.jpg" %}
+
 But yesterday I broke that promise, [getting into an argument][argument] with Vitor on the
 topic of ["on-chain zaps"][onchain-zaps-proposal]. I consider Vitor a friend, and I appreciate that he is
 pushing the boundary, as he always does. However, I think that encouraging users
