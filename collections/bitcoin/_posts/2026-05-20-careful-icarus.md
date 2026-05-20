@@ -15,8 +15,8 @@ tags:
 - Writing
 ---
 
-Yesterday I relapsed.[^fn-yd] Not alcohol, or drugs, or gambling, or anything of
-that sort. It was something worse: having an argument online.
+Yesterday I relapsed. Not alcohol, or drugs, or gambling, or anything of that
+sort. It was something worse: having an argument online.
 
 Back when twitter was still called twitter I found myself getting into many an
 argument. Not because I wanted to, but because—at least back in those days—the
@@ -27,11 +27,11 @@ into a twitter argument ever again, and resorted to shitposting instead. [Bliss.
 
 {% include image.html name="me-before-onchain-zaps.jpg" caption="me before on-chain zaps" link="http://ants.sh/p/dergigi.com?q=mood" %}
 
-But yesterday I broke that promise, [getting into an argument][argument] with Vitor on the
-topic of ["on-chain zaps"][onchain-zaps-proposal]. I consider Vitor a friend, and I appreciate that he is
-pushing the boundary, as he always does. However, I think that encouraging users
-to associate on-chain activity with their online identity is misguided at best,
-and actively harmful at worst.
+But yesterday[^fn-yd] I broke that promise, [getting into an argument][argument]
+with Vitor on the topic of ["on-chain zaps"][onchain-zaps-proposal]. I consider
+Vitor a friend, and I appreciate that he is pushing the boundary, as he always
+does. However, I think that encouraging users to associate on-chain activity
+with their online identity is misguided at best, and actively harmful at worst.
 
 Before I get into the "why it's bad" part of it all I'll try to steelman Vitor's
 arguments[^fn-gleason] as I understand them. In short:
