@@ -191,7 +191,7 @@ What now? Well, the two basic options are "do nothing" and "do something." Both
 are problematic, and here's why.
 
 **Do nothing:** If you don't move the money, everyone will see how much money
-you have to your name, as was promptly demonstrated by "[wrenchstr]", rich list, and other
+you have to your name, as was promptly demonstrated by "[wrenchstr]", [rich list][rich-list], and other
 vibe-coded projects. You might not even know about the money, but you using
 your nsec to sign messages (read: you simply using nostr, logging in to
 something, or pressing a like button here and there) proves without a shadow of
@@ -368,6 +368,7 @@ On-chain zaps are bad, because:
 [sane-default]: https://njump.to/nevent1qqsy77qjawrvj4u7kn9fqz2jpjx4us4yatfv5x94exzl2kjj30zshvqx0qg9k
 [Silberengel]: https://njump.to/nevent1qqspewuufmdq0qurwdmn6d2egz2jrspvzzg0lekke44wrmsx505ls2c0a3pwy
 [wrenchstr]: https://njump.to/nevent1qqsg3g529nmvwd82s0a2gn08t4j7t8cj0mcrk3u0encrf28u3fv2k3gqpl0uq
+[rich-list]: https://richlist.jskitty.cat/
 [lola]: https://njump.to/nevent1qqspwvnz2vg6dgctp8p55x2qxqgtendk6l0tlhxqspd9gxz3khhj5us65qv6e
 [silent-over-1]: https://njump.to/nevent1qqsd78wku5u3zts6dxncuupghrwn4hcyfrw8ksf3r24kv90e092dt7qxc37e0
 [silent-over-2]: https://njump.to/nevent1qqsyj4yfnfvuf99za5t5sznvvpvf028azp7gjdzfgfg0j3rztczf99cuckc9m
