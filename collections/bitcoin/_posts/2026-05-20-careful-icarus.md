@@ -361,10 +361,13 @@ Will, aka [jb55][jb55], aka the guy who brought zaps to nostr in the first place
 > onchain zaps don’t need to be tied to an npub. You can do onchain zaps via
 > silent payments (this is the proper way to do it, not the retarded current spec)
 
-He also has a good point about the unintended dust attack issue:
+He also has a point about dust amounts:
 
 > We can discourage people using dust amounts by automatically choosing lightning
 > zaps for small amounts and onchain zaps over a certain limit.
+
+That would get rid of unintended dusting, which is at least something. But it
+won't get rid of malicious dust attacks.
 
 At least there's some sanity to be found. The [discussion is ongoing][ants].
 
