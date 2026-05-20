@@ -246,7 +246,10 @@ Yes, zaps are supposed to be a public gesture (it is worth pointing out that
 [private zaps][private-zaps] do exist, however). But using on-chain for this
 public gesture is so, so much worse. Offering it as an option to users is
 incredibly dangerous, because warning the users properly (explaining the risk
-properly) is borderline impossible.
+properly) is borderline impossible. Potential attackers have undeniable,
+_cryptographic proof_ that the target is in possession of sats.
+
+[Plausible deniability matters.][deniability]
 
 The fact that multiple nostr developers don't seem to get this point had me
 question my sanity. It also made me question said developers' intentions (as well
@@ -440,3 +443,4 @@ On-chain zaps are bad, because:
 [prior-work]: https://njump.to/nevent1qqsdqs3ymew7sr29tfv2ya3srd05kahu40dqs3hgvmyfqnlgxl7jyrgth0eku
 [private-zaps]: https://njump.to/nevent1qqs88g2aj6jrg4xpk9mpm66rklxvmh3u9hjx3mymnyr6udnw9upflsqjvw388
 [non-interactive]: https://njump.to/nevent1qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshsz9nhwden5te0dp5hxapwdehhxarj9ekxzmny9uqsuamnwvaz7tmwdaejumr0dshsz8nhwden5te0dehhxarj94c82c3wwajkcmr0wfjx2u3wdejhgtcppemhxue69uhhjctzw5hx6ef0qyg8wumn8ghj7mn0wd68ytnddakj7qpqntkckywe3g4rnqy22ar4anykasvlcex2slukncd4q96nvlp5qe5se7u5st
+[deniability]: https://njump.to/nevent1qqsd78wku5u3zts6dxncuupghrwn4hcyfrw8ksf3r24kv90e092dt7qxc37e0
