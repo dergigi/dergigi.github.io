@@ -50,11 +50,6 @@ which encourages bad practices and has the potential to actively harm users in
 the long run, for the sake of short-term "convenience" and "we can do it so why
 the fuck not" I guess.
 
-> Yeah, yeah, but your scientists were so preoccupied with whether or not they
-> could that they didn't stop to think if they should.
->
-> <cite>[Dr. Ian Malcolm][shit]</cite>
-
 {% include image.html name="jp-poop.jpeg" caption="Looking at the big pile of poop that is the 'on-chain zap' proposal." %}
 
 ## Careful, Icarus
@@ -63,10 +58,15 @@ My initial reaction to seeing the proposal was ["oh, that's a terrible idea"][te
 and it's my reaction still. Just because we can do something doesn't mean we
 _should_ do something, as Jurassic Park was trying to teach us.
 
+> Yeah, yeah, but your scientists were so preoccupied with whether or not they
+> could that they didn't stop to think if they should.
+>
+> <cite>[Dr. Ian Malcolm][shit]</cite>
+
 But why? Why did the alarm bells of my intuition go off so hard? Why can't I
 shut up about it and let Vitor and Alex have some fun to build this and play
-around with it? Because I'm pretty sure that people will end up using it and get
-terribly rekt, that's why.
+around with it? Because **I'm pretty sure that people will end up using it and get
+terribly rekt**, that's why.
 
 > I was immediately like Ummm... wtf?!! but I couldn't clearly articulate why it was so disturbing.
 >
@@ -115,6 +115,8 @@ I'll just go ahead and quote Lola, since she hit the nail on the head:
 > without hurting the privacy of people you interact with you‘d need to jump
 > through so many hoops that it defies the entire purpose of this legendary „ux
 > upgrade“ in the first place.
+>
+> <cite>[L0la L33tz][lola]</cite>
 
 She goes on to say, correctly, that right now, thanks to Lightning, "[zaps]
 don't dox you and everyone else you interact with for the rest of eternity." And
@@ -313,6 +315,8 @@ On-chain zaps are bad, because:
 - They encourage horrible privacy practices for sender and receiver
 - They have negative effects on EVERYONE ELSE on the bitcoin network
 
+---
+
 [^fn-prismatic]: [Identity is prismatic](/names), and always will be.
 [^fn-bitcoinium]: I called this hypothetical material "[bitcoinium](https://www.youtube.com/watch?v=hq391_Vmq_E)" a very long time ago.
 [^fn-adoption]: I'm not saying that it will. Nostr doesn't have widespread adoption in the first place, and I doubt that educated users would ever use this. But then again: [how many users are educated on these esoteric topics?][educated-topics] And to make the point once more: the educated users can't even opt out of the receiving end of things.
@@ -342,3 +346,4 @@ On-chain zaps are bad, because:
 [sane-default]: https://njump.to/nevent1qqsy77qjawrvj4u7kn9fqz2jpjx4us4yatfv5x94exzl2kjj30zshvqx0qg9k
 [Silberengel]: https://njump.to/nevent1qqspewuufmdq0qurwdmn6d2egz2jrspvzzg0lekke44wrmsx505ls2c0a3pwy
 [wrenchstr]: https://njump.to/nevent1qqsg3g529nmvwd82s0a2gn08t4j7t8cj0mcrk3u0encrf28u3fv2k3gqpl0uq
+[lola]: https://njump.to/nevent1qqspwvnz2vg6dgctp8p55x2qxqgtendk6l0tlhxqspd9gxz3khhj5us65qv6e
