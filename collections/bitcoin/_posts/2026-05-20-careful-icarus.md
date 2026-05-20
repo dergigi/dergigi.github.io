@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Careful, Icarus
-subtitle: Why "on-chain zaps" are a terrible fucking idea
+subtitle: Why "on-chain zaps" are a terrible idea
 description: TODO
-date: 2026-05-19
+date: 2026-05-20
 blocktime: 950064
 image: "/assets/images/on-chain-zaps.jpg"
 redirect_from: "/icarus"
