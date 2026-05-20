@@ -309,7 +309,7 @@ On-chain zaps are bad, because:
 - They remove any and all plausible deniability
 - They provide full insight into a user's finances forever
 - They can't be disabled, revoked, denied, or redirected (dust)
-- They 
+- They encourage horrible privacy practices for sender and receiver
 - They have negative effects on EVERYONE ELSE on the bitcoin network
 
 [^fn-prismatic]: [Identity is prismatic](/names), and always will be.
