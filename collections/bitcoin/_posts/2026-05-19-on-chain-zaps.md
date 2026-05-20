@@ -282,7 +282,9 @@ derived address the default.
 
 I feel like a broken record when I keep saying that [money and identity aren't
 the same thing][money-identity]. "The whole point of money is to not know your
-customer," to quote the Italian comedian once more. 
+customer," to quote the Italian comedian once more.
+
+{% include image.html name="gigi-ln-address.png" caption="The yellow `s@ts.dergigi.com` is one of my many lightning addresses." %}
 
 That said, I think it's fine to publicly state "this is how you can send me
 money" - which is, in part, what the current spec does. With the proposed
