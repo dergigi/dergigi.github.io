@@ -346,13 +346,10 @@ your finances. That's a problem, since changing your face is ... difficult.
 ## Silver Linings
 
 My hope is that something positive will come from all of this. Tim is working on
-an [implementation that uses silent payments][tim-silent-payments], which is the
-"proper" way to do any of this, as I've mentioned [over][silent-over-1] and
-[over][silent-over-2] and [over][silent-over-3] again. Nostr and Silent Payments
-are a match made in heaven, and there is quite a bit of [prior work][prior-work]
-to marry them.
+an [implementation that uses silent payments][tim-silent-payments], which would be a way to do this that isn't entirely insane, as I've mentioned [over][silent-over-1] and
+[over][silent-over-2] and [over][silent-over-3] again. There's quite a bit of [prior work][prior-work] when it comes to nostr and silent payments, although the motivation and use-case for said prior work was a different one.
 
-Will, aka [jb55][jb55], aka the guy who brought zaps to nostr in the first place, seems to agree:
+Will, aka [jb55][jb55], aka the guy who brought zaps to nostr in the first place, made a similar point:
 
 > onchain zaps don’t need to be tied to an npub. You can do onchain zaps via
 > silent payments (this is the proper way to do it, not the retarded current spec)
@@ -363,6 +360,10 @@ He also has a good point about the unintended dust attack issue:
 > zaps for small amounts and onchain zaps over a certain limit.
 
 At least there's some sanity to be found. The [discussion is ongoing][ants].
+
+Silent payments aren't a panacea either, mind you. They are [meant to be non-interactive][non-interactive], as Calle pointed out. And on top of that they will create on-chain transactions just the same, bringing fee pressure and bloating the UTXO set just the same.
+
+Long story short: zaps shouldn't touch the chain, and I should go touch grass. Good night.
 
 ## TL;DR
 
@@ -418,3 +419,4 @@ On-chain zaps are bad, because:
 [tim-silent-payments]: https://njump.to/nevent1qqs9g38wpxsxj25axpgqevd8xkf4mnmkx5w5ftjvuh8rr5kas9r62csa48x96
 [prior-work]: https://njump.to/nevent1qqsdqs3ymew7sr29tfv2ya3srd05kahu40dqs3hgvmyfqnlgxl7jyrgth0eku
 [private-zaps]: https://njump.to/nevent1qqs88g2aj6jrg4xpk9mpm66rklxvmh3u9hjx3mymnyr6udnw9upflsqjvw388
+[non-interactive]: https://njump.to/nevent1qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshsz9nhwden5te0dp5hxapwdehhxarj9ekxzmny9uqsuamnwvaz7tmwdaejumr0dshsz8nhwden5te0dehhxarj94c82c3wwajkcmr0wfjx2u3wdejhgtcppemhxue69uhhjctzw5hx6ef0qyg8wumn8ghj7mn0wd68ytnddakj7qpqntkckywe3g4rnqy22ar4anykasvlcex2slukncd4q96nvlp5qe5se7u5st
