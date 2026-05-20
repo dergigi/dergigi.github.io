@@ -360,7 +360,7 @@ In some sense this move is similar to relying _purely_ on biometrics as
 identification, as opposed to passwords (or other secrets). Convenient, yes, but
 biometrics are _public_, not private. They are usernames, not passwords. You
 can't change them. Imagine someone scans your face and has deep insight into all
-your finances. That's a problem, since changing your face is ... difficult.
+your finances. That's a problem, since changing your face is ... difficult.[^fn-ccc]
 
 I agree with Will that people who write software should abide by something like
 the Hippocratic oath. ["Primum non nocere."][hippocratic] First, do no harm.
@@ -431,6 +431,7 @@ On-chain zaps are bad, because:
 [^fn-quantum]: Listen to [Aaron and Sjors discuss address reuse](https://bitcoinmagazine.com/technical/for-better-security-do-not-reuse-bitcoin-addresses) to learn more. Quote: "reusing Bitcoin addresses is a bad idea is because it opens up the possibility of some niche attacks. In certain cases, attackers could extract private keys from signatures after coins are first spent from an address — though this does require that a wallet implemented the signing algorithm incorrectly in the first place. There are also some potential future scenarios where quantum computers could extract private keys from signatures if addresses are reused. [...] attackers can potentially derive a private key from a wallet by closely monitoring how the computer that hosts the wallet behaves when signing a transaction. This attack is more plausible if addresses are reused."
 [^fn-geolocation]: Computers are really good at figuring out where a photo was taken, and have been for many years. I encourage you to [read some papers](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=geolocation+photos) like the one linked in the text, or simply look at [this image](/assets/images/bitcoin/2026-05-20-careful-icarus/geolocation.png).
 [^fn-choice]: And don't hide behind the "user choice" argument. It should be clear by now that onchain privacy is a rather esoteric topic with 2nd and 3rd order effects that aren't exactly easy to grasp, so how confident can we be that users would be able to make an educated choice in the first place? Would we be willing to give users the choice to switch back to plain http for everything, just because it's "faster" and "more convenient"?
+[^fn-ccc]: The CCC showed this clearly a long time ago, by [reconstructing a fingerprint from a photograph](https://www.macrumors.com/2014/12/29/ccc-reproduce-fingerprints-public-photos/). In short: politician waves at camera, highres photo is taken, finger can be 3d-printed. (I'm simplifying, but you get the idea.)
 
 [terrible-idea]: https://njump.to/nevent1qqs23jpquykrlg2psqhyhhxzn06nmf3dr6yejwvgws0733x8d9vgnugqfuqeq
 [vitor-thread]: https://njump.to/nevent1qqstjywhdd3kt2pwxlnpd3yyd2hflkn7xqtm8lqrkqe0fv7k5dt4wwcyxsyns
