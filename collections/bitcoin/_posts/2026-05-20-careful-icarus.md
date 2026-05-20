@@ -296,6 +296,8 @@ the [bitcoin wiki] for over a decade. It goes on to say that, consequently,
 "address reuse harms the privacy of not only yourself, but also others -
 including many not related to the transaction."
 
+It also weakens the cryptography of the associated private key.[^fn-quantum]
+
 Bad.
 
 ## Removing Choice and Agency
@@ -391,6 +393,7 @@ On-chain zaps are bad, because:
 [^fn-prismatic]: [Identity is prismatic](/names), and always will be.
 [^fn-bitcoinium]: I called this hypothetical material "[bitcoinium](https://www.youtube.com/watch?v=hq391_Vmq_E)" a very long time ago.
 [^fn-adoption]: I'm not saying that it will. Nostr doesn't have widespread adoption in the first place, and I doubt that educated users would ever use this. But then again: [how many users are educated on these esoteric topics?][educated-topics] And to make the point once more: the educated users can't even opt out of the receiving end of things.
+[^fn-quantum]: Listen to [Aaron and Sjors discuss address reuse](https://bitcoinmagazine.com/technical/for-better-security-do-not-reuse-bitcoin-addresses) to learn more. Quote: "reusing Bitcoin addresses is a bad idea is because it opens up the possibility of some niche attacks. In certain cases, attackers could extract private keys from signatures after coins are first spent from an address — though this does require that a wallet implemented the signing algorithm incorrectly in the first place. There are also some potential future scenarios where quantum computers could extract private keys from signatures if addresses are reused. [...] attackers can potentially derive a private key from a wallet by closely monitoring how the computer that hosts the wallet behaves when signing a transaction. This attack is more plausible if addresses are reused."
 
 [terrible-idea]: https://njump.to/nevent1qqs23jpquykrlg2psqhyhhxzn06nmf3dr6yejwvgws0733x8d9vgnugqfuqeq
 [vitor-thread]: https://njump.to/nevent1qqstjywhdd3kt2pwxlnpd3yyd2hflkn7xqtm8lqrkqe0fv7k5dt4wwcyxsyns
