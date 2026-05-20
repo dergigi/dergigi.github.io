@@ -355,6 +355,15 @@ biometrics are _public_, not private. They are usernames, not passwords. You
 can't change them. Imagine someone scans your face and has deep insight into all
 your finances. That's a problem, since changing your face is ... difficult.
 
+I agree with Will that people who write software should abide to something like
+the Hippocratic oath. ["Primum non nocere."][hippocratic] First, do no harm.
+
+I tried to make this point with a ridiculous ["surprise button"][surprise]
+example. I won't re-iterate it here.
+
+But no, I don't think we should ship a reckless feature to thousands and
+thousands of people just "because we can." That's ridiculous.[^fn-choice]
+
 ## Silver Linings
 
 My hope is that something positive will come from all of this. Tim is working on
@@ -415,6 +424,7 @@ On-chain zaps are bad, because:
 [^fn-adoption]: I'm not saying that it will. Nostr doesn't have widespread adoption in the first place, and I doubt that educated users would ever use this. But then again: [how many users are educated on these esoteric topics?][educated-topics] And to make the point once more: the educated users can't even opt out of the receiving end of things.
 [^fn-quantum]: Listen to [Aaron and Sjors discuss address reuse](https://bitcoinmagazine.com/technical/for-better-security-do-not-reuse-bitcoin-addresses) to learn more. Quote: "reusing Bitcoin addresses is a bad idea is because it opens up the possibility of some niche attacks. In certain cases, attackers could extract private keys from signatures after coins are first spent from an address — though this does require that a wallet implemented the signing algorithm incorrectly in the first place. There are also some potential future scenarios where quantum computers could extract private keys from signatures if addresses are reused. [...] attackers can potentially derive a private key from a wallet by closely monitoring how the computer that hosts the wallet behaves when signing a transaction. This attack is more plausible if addresses are reused."
 [^fn-geolocation]: Computers are really good at figuring out where a photo was taken, and have been for many years. I encourage you to [read some papers](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=geolocation+photos) like the one linked in the text, or simply look at [this image](/assets/images/bitcoin/2026-05-20-careful-icarus/geolocation.png).
+[^fn-choice]: And don't hide behind the "user choice" argument. It should be clear by now that onchain privacy is a rather esoteric topic with 2nd and 3rd order effects that aren't exactly easy to grasp, so how confident can we be that users would be able to make an educated choice in the first place? Would we be willing to give users the choice to switch back to plain http for everything, just because it's "faster" and "more convenient"?
 
 [terrible-idea]: https://njump.to/nevent1qqs23jpquykrlg2psqhyhhxzn06nmf3dr6yejwvgws0733x8d9vgnugqfuqeq
 [vitor-thread]: https://njump.to/nevent1qqstjywhdd3kt2pwxlnpd3yyd2hflkn7xqtm8lqrkqe0fv7k5dt4wwcyxsyns
@@ -467,3 +477,5 @@ On-chain zaps are bad, because:
 [non-interactive]: https://njump.to/nevent1qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshsz9nhwden5te0dp5hxapwdehhxarj9ekxzmny9uqsuamnwvaz7tmwdaejumr0dshsz8nhwden5te0dehhxarj94c82c3wwajkcmr0wfjx2u3wdejhgtcppemhxue69uhhjctzw5hx6ef0qyg8wumn8ghj7mn0wd68ytnddakj7qpqntkckywe3g4rnqy22ar4anykasvlcex2slukncd4q96nvlp5qe5se7u5st
 [deniability]: https://njump.to/nevent1qqsd78wku5u3zts6dxncuupghrwn4hcyfrw8ksf3r24kv90e092dt7qxc37e0
 [careful-icarus]: https://njump.to/nevent1qqsxyj06e8rjht0ncyhnnk97dh2x604vldd9lsjrfje9j64nfzn208spz9mhxue69uhkummnw3ezuamfdejj7q3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsxpqqqqqqzv62aje
+[hippocratic]: https://njump.to/nevent1qqsfp2wrgxp3uf7c0vumlyynqtpzarrswdps43ed0y0tfk7dgnaphcch48299
+[surprise]: https://njump.to/nevent1qqsfaf7sfcpvduckuypgta2cyhr5zwum2k0rezkvtjeldnmgfm7thvswl6ujz
