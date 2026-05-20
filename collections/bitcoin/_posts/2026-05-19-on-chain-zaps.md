@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On-Chain Zaps
+title: Why "On-Chain Zaps" are a Terrible Idea
 description: TODO
 date: 2026-05-19
 blocktime: 950064
@@ -303,7 +303,14 @@ your financial. That's a problem, since changing your face is ... difficult.
 
 ## TL;DR
 
-TODO
+On-chain zaps are bad, because:
+
+- They strongly link identity and money
+- They remove any and all plausible deniability
+- They provide full insight into a user's finances forever
+- They can't be disabled, revoked, denied, or redirected (dust)
+- They 
+- They have negative effects on EVERYONE ELSE on the bitcoin network
 
 [^fn-prismatic]: [Identity is prismatic](/names), and always will be.
 [^fn-bitcoinium]: I called this hypothetical material "[bitcoinium](https://www.youtube.com/watch?v=hq391_Vmq_E)" a very long time ago.
