@@ -261,11 +261,12 @@ I've said it before, and I'll say it again: [plausible deniability matters.][den
 
 The fact that multiple nostr developers don't seem to get this point has me
 question my sanity. It also makes me question the supposed bitcoin expertise of
-some of the people involved. I won't go as far as others to question the
-intentions behind this supposed "feature" in the first place, but if this
-nonsense doesn't stop soon I'd be willing to go there.
+some of the people involved. I saw that some nostr users are even starting to
+question the intentions behind this supposed "feature" in the first place, and I
+can't blame them. I won't go there (yet), but if this nonsense doesn't stop soon
+I might be willing to.
 
-But wait, there's more.
+Anyway... There's more.
 
 There's actually a third category, in addition to doing nothing or something,
 namely _wanting to do something but not being able to_. Depending on output size
