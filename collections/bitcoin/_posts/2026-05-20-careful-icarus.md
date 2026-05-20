@@ -235,10 +235,10 @@ look like, what their dog looks like, and where they usually go to take their
 dog on a walk.
 
 Do you get it now? Do you finally understand why associating on-chain activity
-with (nostr) identites is problematic? Do you understand why all of the above
+with (nostr) identities is problematic? Do you understand why all of the above
 isn't an issue when using Lightning?
 
-TODO: insert crazy pills gif https://giphy.com/gifs/trump-president-donald-CKrlUi30dn44w
+{% include image.html name="crazy-pills.gif" %}
 
 The fact that multiple nostr developers don't seem to get this point had me
 question my sanity. It also made me question said developers intentions (as well
