@@ -309,6 +309,18 @@ your finances. That's a problem, since changing your face is ... difficult.
 My hope is that something positive will come from all of this. Tim is working on
 an implementation that uses silent payments, which is the "proper" way to do any of this, as I've mentioned [over][silent-over-1] and [over][silent-over-2] and [over][silent-over-3] again.
 
+Will, aka jb55, aka the guy who brought zaps to nostr in the first place, seems to agree:
+
+> onchain zaps don’t need to be tied to an npub. You can do onchain zaps via
+> silent payments (this is the proper way to do it, not the retarded current spec)
+
+He also has a good point about the unintended dust attack issue:
+
+> We can discourage people using dust amounts by automatically choosing lightning
+> zaps for small amounts and onchain zaps over a certain limit.
+
+So there is some sanity to be found.
+
 ## TL;DR
 
 On-chain zaps are bad, because:
