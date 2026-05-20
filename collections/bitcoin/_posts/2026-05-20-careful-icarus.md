@@ -2,7 +2,7 @@
 layout: post
 title: Careful, Icarus
 subtitle: Why "on-chain zaps" are a terrible idea
-description: "Reacting to the stupidest idea I've ever heard in the bitcoin space."
+description: "My adventure of climbing Mt. Stupid with some other nerds. Or: flying too close to the sun."
 date: 2026-05-20
 blocktime: 950064
 image: "/assets/images/on-chain-zaps.jpg"
