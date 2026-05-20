@@ -26,7 +26,7 @@ to see and do online, right? Anyway, I promised myself that I would never get
 into a twitter argument ever again, and resorted to shitposting instead. Bliss.
 
 But yesterday I broke that promise, getting into an argument with Vitor on the
-topic of on-chain zaps. I consider Vitor a friend, and I appreciate that he is
+topic of "on-chain zaps." I consider Vitor a friend, and I appreciate that he is
 pushing the boundary, as he always does. However, I think that encouraging users
 to associate on-chain activity with their online identity is misguided at best,
 and actively harmful at worst.
@@ -54,11 +54,11 @@ the fuck not" I guess.
 >
 > <cite>[Dr. Ian Malcolm][shit]</cite>
 
-{% include image.html name="jp-poop.jpeg" caption="Looking at the big pile of poop that is the on-chain zap proposal." %}
+{% include image.html name="jp-poop.jpeg" caption="Looking at the big pile of poop that is the 'on-chain zap' proposal." %}
 
 ## Careful, Icarus
 
-My initial reaction to seeing on-chain zaps was "oh, that's a terrible idea" -
+My initial reaction to seeing the proposal was "oh, that's a terrible idea" -
 and it's my reaction still. Just because we can do something doesn't mean we
 _should_ do something, as Jurassic Park was trying to teach us.
 
@@ -130,7 +130,7 @@ automatically makes this oversharing permanent.
 
 ### Bad for the Sender
 
-To understand why on-chain zaps are such a terrible idea you have to understand
+To understand why "on-chain zaps" are such a terrible idea you have to understand
 how bitcoin works. And I mean how it _actually_ works. Not just a superficial
 understanding like "my private key is my bank account" and related inaccuracies.
 
@@ -178,7 +178,7 @@ So when I said that ["Lightning is a sane default for zaps"][sane-default]
 that's what I meant. Lightning does _not_ allow you to spy on the financial
 activity of the sender (or the receiver) in perpetuity.
 
-On-chain zaps not only allow this, but it makes it trivial.
+Using on-chain addresses for zaps not only allow this, but it makes it trivial.
 
 ### Bad for the Receiver
 
