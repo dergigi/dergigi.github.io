@@ -27,7 +27,7 @@ to see and do online, right? Anyway, I promised myself that I would never get
 into a twitter argument ever again, and resorted to shitposting instead. Bliss.
 
 But yesterday I broke that promise, [getting into an argument][argument] with Vitor on the
-topic of "on-chain zaps." I consider Vitor a friend, and I appreciate that he is
+topic of ["on-chain zaps"][onchain-zaps-proposal]. I consider Vitor a friend, and I appreciate that he is
 pushing the boundary, as he always does. However, I think that encouraging users
 to associate on-chain activity with their online identity is misguided at best,
 and actively harmful at worst.
@@ -54,7 +54,7 @@ the fuck not" I guess.
 
 ## Careful, Icarus
 
-My initial reaction to seeing the proposal was ["oh, that's a terrible idea"][terrible-idea] -
+My initial reaction to seeing [the proposal][onchain-zaps-proposal] was ["oh, that's a terrible idea"][terrible-idea] -
 and it's my reaction still. Just because we can do something doesn't mean we
 _should_ do something, as Jurassic Park was trying to teach us.
 
@@ -333,7 +333,7 @@ customer," to quote the Italian comedian once more.
 
 That said, I think it's fine to publicly state "this is how you can send me
 money" - which is, in part, what the current spec does. With the proposed
-on-chain zap spec this transforms into something like "this is my identity-bound
+[on-chain zap spec][onchain-zaps-proposal] this transforms into something like "this is my identity-bound
 payment info and _on top of that_ here are all my bank statements—past, present, and
 future—feel free to spy on all my financial activity forever."
 
@@ -400,6 +400,7 @@ On-chain zaps are bad, because:
 [npub-cash]: https://npub.cash/
 [nip-60]: https://github.com/nostr-protocol/nips/blob/master/60.md
 [nip-61]: https://github.com/nostr-protocol/nips/blob/master/61.md
+[onchain-zaps-proposal]: https://github.com/nostr-protocol/nips/pull/2332
 [algorithm]: https://youtu.be/4usXBGvufKg
 [argument]: https://youtu.be/ohDB5gbtaEQ
 [shit]: https://youtu.be/nnun8y7r8_U
