@@ -296,7 +296,7 @@ no "coins" in bitcoin, but only inputs and outputs? One of the consequences of
 this model is that, given that the ledger is public, the only way to have _any_
 privacy is to hide in the crowd.
 
-Address-reuse shrinks the crowd you can reasonably hide in.
+Address reuse shrinks the crowd you can reasonably hide in.
 
 This is bad. Really, really, really, bad. Or, to say it in a more fanciful way:
 "The relationship graph in a re-used address is powerfully-linked in that
