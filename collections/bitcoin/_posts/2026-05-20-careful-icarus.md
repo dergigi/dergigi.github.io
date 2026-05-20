@@ -356,6 +356,8 @@ on-chain zap spec this transforms into something like "this is my identity-bound
 payment info and _on top of that_ here are all my bank statements—past, present, and
 future—feel free to spy on all my financial activity forever."
 
+## First, Do No Harm
+
 In some sense this move is similar to relying _purely_ on biometrics as
 identification, as opposed to passwords (or other secrets). Convenient, yes, but
 biometrics are _public_, not private. They are usernames, not passwords. You
