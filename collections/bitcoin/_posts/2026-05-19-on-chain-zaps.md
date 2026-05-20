@@ -40,7 +40,7 @@ arguments as I understand them. In short:
 - No setup required for on-chain, less friction for users
 - We have already built it and it works, so why not give users the option
 
-As I've mentioned in the long back-and-forth thread with Vitor, I am not against
+As I've mentioned in the [long back-and-forth thread][vitor-thread] with Vitor, I am not against
 the *spirit* of the idea. I think that every npub should be able to send and
 receive money with as little friction as possible, and have always been an
 advocate for things like [npub.cash][npub-cash] & nutzaps ([NIP-60][nip-60]/[NIP-61][nip-61]).
@@ -317,6 +317,7 @@ On-chain zaps are bad, because:
 [^fn-bitcoinium]: I called this hypothetical material "[bitcoinium](https://www.youtube.com/watch?v=hq391_Vmq_E)" a very long time ago.
 [^fn-adoption]: I'm not saying that it will. Nostr doesn't have widespread adoption in the first place, and I doubt that educated users would ever use this. But then again: [how many users are educated on these esoteric topics?][educated-topics] And to make the point once more: the educated users can't even opt out of the receiving end of things.
 
+[vitor-thread]: https://njump.to/nevent1qqs23jpquykrlg2psqhyhhxzn06nmf3dr6yejwvgws0733x8d9vgnugqfuqeq
 [zap-questions]: https://njump.to/nevent1qqsfjeexuf2fctl2xsquvt4sts0zfdaml67tkemsw9x9znagz2zrslswh3ng2
 [educated-topics]: https://njump.to/nevent1qqspgfn5rf7d3q6k3dx9rlfxdag37nxq0gt4y6xa6kyrsm6unhhlyxscnd33h
 [cypherpunk-manifesto]: https://nakamotoinstitute.org/library/cypherpunk-manifesto/
