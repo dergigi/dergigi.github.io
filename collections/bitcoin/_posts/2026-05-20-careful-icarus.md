@@ -57,7 +57,7 @@ the fuck not" I guess.
 ## Careful, Icarus
 
 My initial reaction to seeing the proposal was
-"careful, icarus" followed by ["oh, that's a terrible idea"][terrible-idea]
+["careful, Icarus"][careful-icarus] followed by ["oh, that's a terrible idea"][terrible-idea]
 right after - and it's my reaction still. Just because we can do something
 doesn't mean we _should_ do something, as Jurassic Park was trying to teach us.
 
@@ -453,3 +453,4 @@ On-chain zaps are bad, because:
 [private-zaps]: https://njump.to/nevent1qqs88g2aj6jrg4xpk9mpm66rklxvmh3u9hjx3mymnyr6udnw9upflsqjvw388
 [non-interactive]: https://njump.to/nevent1qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshsz9nhwden5te0dp5hxapwdehhxarj9ekxzmny9uqsuamnwvaz7tmwdaejumr0dshsz8nhwden5te0dehhxarj94c82c3wwajkcmr0wfjx2u3wdejhgtcppemhxue69uhhjctzw5hx6ef0qyg8wumn8ghj7mn0wd68ytnddakj7qpqntkckywe3g4rnqy22ar4anykasvlcex2slukncd4q96nvlp5qe5se7u5st
 [deniability]: https://njump.to/nevent1qqsd78wku5u3zts6dxncuupghrwn4hcyfrw8ksf3r24kv90e092dt7qxc37e0
+[careful-icarus]: https://njump.to/nevent1qqsxyj06e8rjht0ncyhnnk97dh2x604vldd9lsjrfje9j64nfzn208spz9mhxue69uhkummnw3ezuamfdejj7q3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsxpqqqqqqzv62aje
