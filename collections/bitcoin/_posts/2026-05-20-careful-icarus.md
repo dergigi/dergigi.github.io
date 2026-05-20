@@ -103,7 +103,7 @@ completely flies out the window in an on-chain world.
 ## Revealing More Than Necessary
 
 Tying bitcoin addresses to identities is what chainalysis companies do. And even
-though their assumptions are based on heuristical witchcraft and should be taken
+though their assumptions are based on heuristical witchcraft[^fn-anal] and should be taken
 with a huge grain of salt, the unfortunate reality is that the legal system
 takes said witchcraft seriously. We should make the job of chainalysis (read:
 spying on users) harder, not 100x easier.
@@ -408,6 +408,7 @@ On-chain zaps are bad, because:
 [^fn-gleason]: The proposal is being pushed by Vitor and Alex, who are the lead developers of [Amethyst](https://opensats.org/projects/amethyst) and [Soapbox/Ditto/Shakespear](https://opensats.org/projects/soapbox), respectively.
 [^fn-prismatic]: [Identity is prismatic](/names), and always will be.
 [^fn-bitcoinium]: I called this hypothetical material "[bitcoinium](https://www.youtube.com/watch?v=hq391_Vmq_E)" a very long time ago.
+[^fn-anal]: They even admit that chainalysis is [“more of an art than a science.”](https://bitcoinmagazine.com/technical/chainalysis-investigations-lead-is-unaware-of-scientific-evidence)
 [^fn-adoption]: I'm not saying that it will. Nostr doesn't have widespread adoption in the first place, and I doubt that educated users would ever use this. But then again: [how many users are educated on these esoteric topics?][educated-topics] And to make the point once more: the educated users can't even opt out of the receiving end of things.
 [^fn-quantum]: Listen to [Aaron and Sjors discuss address reuse](https://bitcoinmagazine.com/technical/for-better-security-do-not-reuse-bitcoin-addresses) to learn more. Quote: "reusing Bitcoin addresses is a bad idea is because it opens up the possibility of some niche attacks. In certain cases, attackers could extract private keys from signatures after coins are first spent from an address — though this does require that a wallet implemented the signing algorithm incorrectly in the first place. There are also some potential future scenarios where quantum computers could extract private keys from signatures if addresses are reused. [...] attackers can potentially derive a private key from a wallet by closely monitoring how the computer that hosts the wallet behaves when signing a transaction. This attack is more plausible if addresses are reused."
 
