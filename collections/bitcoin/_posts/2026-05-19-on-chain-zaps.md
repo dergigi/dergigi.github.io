@@ -307,8 +307,9 @@ TODO
 
 [^fn-prismatic]: [Identity is prismatic](/names), and always will be.
 [^fn-bitcoinium]: I called this hypothetical material "[bitcoinium](https://www.youtube.com/watch?v=hq391_Vmq_E)" a very long time ago.
-[^fn-adoption]: I'm not saying that it will. Nostr doesn't have widespread adoption in the first place, and I doubt that educated users would ever use this. But then again: how many users are educated on these esoteric topics? And to make the point once more: the educated users can't even opt out of the receiving end of things.
+[^fn-adoption]: I'm not saying that it will. Nostr doesn't have widespread adoption in the first place, and I doubt that educated users would ever use this. But then again: [how many users are educated on these esoteric topics?][educated-topics] And to make the point once more: the educated users can't even opt out of the receiving end of things.
 
+[educated-topics]: https://njump.to/nevent1qqspgfn5rf7d3q6k3dx9rlfxdag37nxq0gt4y6xa6kyrsm6unhhlyxscnd33h
 [cypherpunk-manifesto]: https://nakamotoinstitute.org/library/cypherpunk-manifesto/
 [shit]: https://youtu.be/nnun8y7r8_U
 [UTXOs]: https://opensats.org/topics/utxo
