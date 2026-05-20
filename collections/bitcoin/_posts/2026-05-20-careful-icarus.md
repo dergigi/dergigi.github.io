@@ -250,10 +250,14 @@ Yes, zaps are supposed to be a public gesture (it is worth pointing out that
 [private zaps][private-zaps] do exist, however). But using on-chain for this
 public gesture is so, so much worse. Offering it as an option to users is
 incredibly dangerous, because warning the users properly (explaining the risk
-properly) is borderline impossible. Potential attackers have undeniable,
-_cryptographic proof_ that the target is in possession of sats.
+properly) is borderline impossible. You'd have to warn them about the past.
+You'd have to warn them about the present. You'd have to warn them about the
+future. You'd have to warn them that any potential attacker has undeniable,
+_cryptographic proof_ that they, the target, are in possession of sats. You'd
+have to warn them that they can't plausibly deny this fact because of the
+[non-repudiation][nonrep] of digital signatures.
 
-[Plausible deniability matters.][deniability]
+I've said it before, and I'll say it again: [plausible deniability matters.][deniability]
 
 The fact that multiple nostr developers don't seem to get this point had me
 question my sanity. It also made me question said developers' intentions (as
@@ -459,6 +463,7 @@ On-chain zaps are bad, because:
 [why-worry]: https://github.com/nostr-protocol/nips/pull/2332#issuecomment-4409095253
 [geolocation]: https://openaccess.thecvf.com/content_ECCV_2018/papers/Eric_Muller-Budack_Geolocation_Estimation_of_ECCV_2018_paper.pdf
 [pd]: https://ants.sh/p/dergigi.com?q=plausible%20deniability
+[nonrep]: https://en.wikipedia.org/wiki/Non-repudiation
 
 [slop]: /sloppypasta
 [sane-default]: https://njump.to/nevent1qqsy77qjawrvj4u7kn9fqz2jpjx4us4yatfv5x94exzl2kjj30zshvqx0qg9k
