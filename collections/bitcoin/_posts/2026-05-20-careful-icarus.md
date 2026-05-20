@@ -240,8 +240,10 @@ isn't an issue when using Lightning?
 
 {% include image.html name="crazy-pills.gif" link="https://njump.to/nevent1qqs29673f86rdyc28cvczyudrt6guas3a5m5ujv7sxk0px5dq206hgsyfkxwk" %}
 
-Yes, zaps are supposed to be public thing (it is worth pointing out that private zaps do exist, however).
-But switching to on-chain ... TODO
+Yes, zaps are supposed to be public thing (it is worth pointing out that private
+zaps do exist, however). But using on-chain is so, so much worse. Offering it
+as an option to users is incredibly dangerous, because warning the users
+properly (explaining the risk properly) is borderline impossible.
 
 The fact that multiple nostr developers don't seem to get this point had me
 question my sanity. It also made me question said developers intentions (as well
