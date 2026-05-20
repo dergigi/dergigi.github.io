@@ -364,6 +364,7 @@ your finances. That's a problem, since changing your face is ... difficult.[^fn-
 
 I agree with Will that people who write software should abide by something like
 the Hippocratic oath. ["Primum non nocere."][hippocratic] First, do no harm.
+
 I tried to make this point with a ridiculous ["surprise button"][surprise]
 example. I won't re-iterate it here.
 
