@@ -121,7 +121,7 @@ as we've already established above, "when I cash out my zaps, nobody knows where
 that money went to."
 
 "Privacy is the power to selectively reveal oneself to the world," to quote the
-Cypherpunk Manifesto. Tying your identity to on-chain addresses not only nerfs
+[Cypherpunk Manifesto][cypherpunk-manifesto]. Tying your identity to on-chain addresses not only nerfs
 that power, but takes it away from the individual permanently.
 
 In short: using on-chain addresses for zaps is a terrible idea _precisely
@@ -309,6 +309,7 @@ TODO
 [^fn-bitcoinium]: I called this hypothetical material "[bitcoinium](https://www.youtube.com/watch?v=hq391_Vmq_E)" a very long time ago.
 [^fn-adoption]: I'm not saying that it will. Nostr doesn't have widespread adoption in the first place, and I doubt that educated users would ever use this. But then again: how many users are educated on these esoteric topics? And to make the point once more: the educated users can't even opt out of the receiving end of things.
 
+[cypherpunk-manifesto]: https://nakamotoinstitute.org/library/cypherpunk-manifesto/
 [shit]: https://youtu.be/nnun8y7r8_U
 [UTXOs]: https://opensats.org/topics/utxo
 [pow]: /pow
