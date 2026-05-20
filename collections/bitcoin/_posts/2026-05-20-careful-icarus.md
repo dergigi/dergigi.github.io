@@ -274,8 +274,9 @@ vanishes instantly after, but not before leaving a trail that leads directly to
 you. A trail that's very easy to pick up by the police as well as other mafia
 people. To make things worse, you had no option to refuse the money because the
 mafia boss is also a witch, and a spell was cast that deposited the money
-directly into your soul. The spell is called _[Pulvis Assaultus]_ and the only
-way to rid your soul from the mafia witch dust is to throw more money at it.
+directly into your soul. And even worse than _that_, he cast the _[Pulvis
+Assaultus]_ spell on top.  Now the only way to rid your soul from the mafia
+witch dust is to throw more money at it.
 
 Granted, a disappearing mafia witch might not be the best example. A more
 realistic example would be someone sending money to you as well as to one (or
