@@ -79,7 +79,7 @@ Same for me. I was incredibly disturbed, and couldn't readily articulate why
 this supposed "feature" made me so uneasy. So I am sitting down now in an
 attempt to write about it, which usually helps to structure my thoughts. And who
 knows, maybe some of the younglings will read it, or maybe some of the nostr
-devs who don't know too much about bitcoin can learn a thing or two about UTXOs
+devs who don't know too much about bitcoin can learn a thing or two about [UTXOs][UTXOs]
 and stuff.
 
 Let's get into it.
