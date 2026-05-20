@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Why "On-Chain Zaps" are a Terrible Idea
+title: Careful, Icarus
+subtitle: Why "on-chain zaps" are a terrible fucking idea
 description: TODO
 date: 2026-05-19
 blocktime: 950064
