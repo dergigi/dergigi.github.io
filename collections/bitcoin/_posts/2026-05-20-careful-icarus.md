@@ -323,7 +323,7 @@ He also has a good point about the unintended dust attack issue:
 > We can discourage people using dust amounts by automatically choosing lightning
 > zaps for small amounts and onchain zaps over a certain limit.
 
-The [discussion is ongoing][ants], but at least there's some sanity to be found.
+At least there's some sanity to be found. The [discussion is ongoing][ants].
 
 ## TL;DR
 
