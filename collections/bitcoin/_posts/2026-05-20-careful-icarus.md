@@ -321,8 +321,8 @@ and age of vibe-coded slop (well, [slopified everything][slop], to be frank) it
 might be more accurate to say that _velocity_ killed the cat.
 
 Don't get me wrong, I'm a fan of high-agency activity and the "you can just do
-things" mentality. Always have been. But there's a fine line between just doing
-things and just doing damage to things. I hate to see unsuspecting users get
+things" mentality. Always have been. But *there's a fine line between just doing
+things and just doing damage to things*. I hate to see unsuspecting users get
 rekt, and if something insane like
 static-address-reuse-onchain-zaps-derived-from-npub ever gets widespread
 adoption[^fn-adoption], we'd be in a bad place.
