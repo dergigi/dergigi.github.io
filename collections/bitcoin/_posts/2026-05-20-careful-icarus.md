@@ -289,7 +289,7 @@ incriminating the sender (as well as yourself).
 The thing that triggered me most when I first saw this proposal implemented is
 the fact that it's _mandating_ address reuse (by deriving a static address from
 an npub). Not only is this bad for the sender and the receiver, but also for
-other users that aren't involved in the transaction at all!
+other users that aren't even involved in this particular onchain transaction!
 
 Remember the UTXO model that we discussed above? The fact that there's actually
 no "coins" in bitcoin, but only inputs and outputs? One of the consequences of
