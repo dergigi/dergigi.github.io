@@ -26,7 +26,7 @@ is off-the-charts on all engagement metrics, so naturally it's what people want
 to see and do online, right? Anyway, I promised myself that I would never get
 into a twitter argument ever again, and resorted to shitposting instead. Bliss.
 
-But yesterday I broke that promise, getting into an argument with Vitor on the
+But yesterday I broke that promise, [getting into an argument][argument] with Vitor on the
 topic of "on-chain zaps." I consider Vitor a friend, and I appreciate that he is
 pushing the boundary, as he always does. However, I think that encouraging users
 to associate on-chain activity with their online identity is misguided at best,
@@ -320,6 +320,7 @@ On-chain zaps are bad, because:
 [zap-questions]: https://njump.to/nevent1qqsfjeexuf2fctl2xsquvt4sts0zfdaml67tkemsw9x9znagz2zrslswh3ng2
 [educated-topics]: https://njump.to/nevent1qqspgfn5rf7d3q6k3dx9rlfxdag37nxq0gt4y6xa6kyrsm6unhhlyxscnd33h
 [cypherpunk-manifesto]: https://nakamotoinstitute.org/library/cypherpunk-manifesto/
+[argument]: https://youtu.be/ohDB5gbtaEQ
 [shit]: https://youtu.be/nnun8y7r8_U
 [UTXOs]: https://opensats.org/topics/utxo
 [pow]: /pow
