@@ -96,7 +96,7 @@ I have received so far, what did I spend them on? Can you tell? Did I even move
 those sats at all? Where did the sats go after I’ve received them?"][zap-questions]
 
 Further, I could claim that I've lost access to my wallet, and there wouldn't be
-a way to prove that this isn't true. This type of plausible deniability
+a way to prove that this isn't true. This type of [plausible deniability][pd]
 completely flies out the window in an on-chain world.
 
 ## Revealing More Than Necessary
@@ -448,6 +448,7 @@ On-chain zaps are bad, because:
 [OFAC list]: https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses
 [why-worry]: https://github.com/nostr-protocol/nips/pull/2332#issuecomment-4409095253
 [geolocation]: https://openaccess.thecvf.com/content_ECCV_2018/papers/Eric_Muller-Budack_Geolocation_Estimation_of_ECCV_2018_paper.pdf
+[pd]: https://ants.sh/p/dergigi.com?q=plausible%20deniability
 
 [slop]: /sloppypasta
 [sane-default]: https://njump.to/nevent1qqsy77qjawrvj4u7kn9fqz2jpjx4us4yatfv5x94exzl2kjj30zshvqx0qg9k
