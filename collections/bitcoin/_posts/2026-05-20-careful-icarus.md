@@ -24,7 +24,7 @@ argument. Not because I wanted to, but because—at least back in those days—t
 [algorithm encouraged it][algorithm]. A constant back-and-forth between two stubborn people
 is off-the-charts on all engagement metrics, so naturally it's what people want
 to see and do online, right? Anyway, I promised myself that I would never get
-into a twitter argument ever again, and resorted to shitposting instead. Bliss.
+into a twitter argument ever again, and resorted to shitposting instead. [Bliss.][bliss]
 
 {% include image.html name="me-before-onchain-zaps.jpg" caption="me before on-chain zaps" link="https://i.kym-cdn.com/photos/images/original/002/210/781/82b.jpg" %}
 
@@ -431,6 +431,7 @@ On-chain zaps are bad, because:
 [bitcoin wiki]: https://en.bitcoin.it/wiki/Address_reuse#:~:text=The%20relationship%20graph%20in%20a%20re%2Dused%20address%20is%20powerfully%2Dlinked%20in%20that%20all%20of%20the%20inputs%20to%20that%20address%20are%20necessarily%20joined%20(via%20the%20spending%20authority%20of%20your%20private%20key)%20to%20all%20of%20its%20outputs.
 [ants]: https://ants.sh/?q=%22onchain+zaps%22+OR+%22on-chain+zaps%22
 [good-night]: https://ants.sh/?q=GN+by%3Adergigi.com
+[bliss]: https://ants.sh/?q=%23yestr+by%3Adergigi.com
 [mt-stupid]: https://njump.to/nevent1qqsf4mvtz8vc523esz99w367ejtwcx0uvn9g07tfux6szafk0s6qv6g74h3h5
 [OFAC list]: https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses
 [why-worry]: https://github.com/nostr-protocol/nips/pull/2332#issuecomment-4409095253
