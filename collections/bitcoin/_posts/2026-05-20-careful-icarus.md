@@ -25,7 +25,7 @@ is off-the-charts on all engagement metrics, so naturally it's what people want
 to see and do online, right? Anyway, I promised myself that I would never get
 into a twitter argument ever again, and resorted to shitposting instead. [Bliss.][bliss]
 
-{% include image.html name="me-before-onchain-zaps.jpg" caption="me before on-chain zaps" link="http://ants.sh/p/dergigi.com?q=mood" %}
+{% include image.html name="me-before-onchain-zaps.jpg" caption="me before on-chain zaps" link="https://ants.sh/p/dergigi.com?q=mood" %}
 
 But yesterday[^fn-yd] I broke that promise, [getting into an argument][argument]
 with Vitor on the topic of ["on-chain zaps"][onchain-zaps-proposal]. I consider
@@ -355,8 +355,6 @@ money" - which is, in part, what Lightning zaps do. With the proposed
 on-chain zap spec this transforms into something like "this is my identity-bound
 payment info and _on top of that_ here are all my bank statements—past, present, and
 future—feel free to spy on all my financial activity forever."
-
-## First, Do No Harm
 
 In some sense this move is similar to relying _purely_ on biometrics as
 identification, as opposed to passwords (or other secrets). Convenient, yes, but
