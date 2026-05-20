@@ -257,8 +257,8 @@ _cryptographic proof_ that the target is in possession of sats.
 [Plausible deniability matters.][deniability]
 
 The fact that multiple nostr developers don't seem to get this point had me
-question my sanity. It also made me question said developers' intentions (as well
-as their competence, to some degree).
+question my sanity. It also made me question said developers' intentions (as
+well as their bitcoin expertise).
 
 But wait, there's more.
 
