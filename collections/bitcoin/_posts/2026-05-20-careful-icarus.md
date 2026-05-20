@@ -181,7 +181,7 @@ and was discussed on the [bitcointalk] forums way over a decade ago:
 Yes, zaps are public, and that's the point. But what preceded a zap and what
 follows it is _not_ public, and shouldn't be. It isn't public right now because
 zaps use the Lightning Network, which has certain privacy characteristics that
-on-chain transactions do not and will never have.
+on-chain transactions do not (and will probably never) have.
 
 So when I said that ["Lightning is a sane default for zaps"][sane-default]
 that's what I meant. Lightning does _not_ allow you to spy on the financial
@@ -357,7 +357,6 @@ your finances. That's a problem, since changing your face is ... difficult.
 
 I agree with Will that people who write software should abide by something like
 the Hippocratic oath. ["Primum non nocere."][hippocratic] First, do no harm.
-
 I tried to make this point with a ridiculous ["surprise button"][surprise]
 example. I won't re-iterate it here.
 
