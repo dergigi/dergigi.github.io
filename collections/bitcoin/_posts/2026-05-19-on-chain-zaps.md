@@ -51,9 +51,7 @@ the fuck not" I guess.
 > Yeah, yeah, but your scientists were so preoccupied with whether or not they
 > could that they didn't stop to think if they should.
 
-TODO: insert image https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpncVBtzn_kf7STwajpqIZDhB0M36Q6-mmgmWOkkUSN0Ha8JK-2tM0CVUlUA4311iYrU9Q5tOvpgVDD4fALyedQoqIU3MdvYE_C_RQVRGo3EI-vsh1soUPIUzTTIxrxfuvoKEgsp1BP2XDAmkx2fuzE7KJtEWXMANj3P5InJsBAbuPwqDWcfdH9Gfi9Q/s740/JP%201%20Poop.jpeg
-
-Caption: Looking at the big pile of poop that is the on-chain zap proposal.
+{% include image.html name="jp-poop.jpeg" caption="Looking at the big pile of poop that is the on-chain zap proposal." %}
 
 ## Careful, Icarus
 
