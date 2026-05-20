@@ -376,7 +376,7 @@ have to use blinded or otherwise obfuscated amounts, destroying a large part of
 what makes zaps interesting.
 
 Long story short: zaps shouldn't touch the chain, and I should finally climb
-down from Mt. Stupid and go touch some grass. [Good night.][good-night]
+down from [Mt. Stupid][mt-stupid] and go touch some grass. [Good night.][good-night]
 
 ## TL;DR
 
@@ -420,6 +420,7 @@ On-chain zaps are bad, because:
 [bitcoin wiki]: https://en.bitcoin.it/wiki/Address_reuse#:~:text=The%20relationship%20graph%20in%20a%20re%2Dused%20address%20is%20powerfully%2Dlinked%20in%20that%20all%20of%20the%20inputs%20to%20that%20address%20are%20necessarily%20joined%20(via%20the%20spending%20authority%20of%20your%20private%20key)%20to%20all%20of%20its%20outputs.
 [ants]: https://ants.sh/?q=%22onchain+zaps%22+OR+%22on-chain+zaps%22
 [good-night]: https://ants.sh/?q=GN+by%3Adergigi.com
+[mt-stupid]: https://njump.to/nevent1qqsf4mvtz8vc523esz99w367ejtwcx0uvn9g07tfux6szafk0s6qv6g74h3h5
 [OFAC list]: https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses
 [why-worry]: https://github.com/nostr-protocol/nips/pull/2332#issuecomment-4409095253
 
