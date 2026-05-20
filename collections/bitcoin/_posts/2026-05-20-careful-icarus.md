@@ -282,15 +282,15 @@ Granted, a disappearing mafia witch might not be the best example. A more
 realistic example would be someone sending money to you as well as to one (or
 multiple) addresses on the [OFAC list], suggesting to law enforcement that you
 are part of a criminal network. Or publicly announcing that any money you
-receive will be forwarded to every address on the OFAC list, possibly
+receive will be forwarded to every address on this list, possibly
 incriminating the sender (as well as yourself).
 
 ### Bad for Everyone Else
 
-This is probably the worst thing about this whole "on-chain zap" idea. Not only
-is it bad for the sender and the receiver, but also for everyone else. Every
-single entity that uses the bitcoin network is negatively affected by address
-re-use. Everyone.
+The worst thing about a naive implementation of this "on-chain zap" idea is
+address reuse. Not only is it bad for the sender and the receiver, but also for
+everyone else. Every single entity that uses the bitcoin network is negatively
+affected by address reuse. Everyone.
 
 Remember the UTXO model that we discussed above? The fact that there's actually
 no "coins" in bitcoin, but only inputs and outputs? One of the consequences of
