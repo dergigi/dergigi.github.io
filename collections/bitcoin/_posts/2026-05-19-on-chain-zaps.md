@@ -7,7 +7,7 @@ blocktime: 950064
 image: "/assets/images/on-chain-zaps.jpg"
 redirect_from: "/on-chain-zaps"
 author: Gigi
-category: bitcoin
+category: nostr
 tags:
 - nostr
 - lightning
