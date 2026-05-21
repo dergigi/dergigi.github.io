@@ -37,7 +37,7 @@ Before I get into the "why it's bad" part of it all I'll try to steelman Vitor's
 arguments[^fn-gleason] as I understand them. In short:
 
 - Zaps are public anyway[^fn-zaps-public]
-- Lightning setup is complicated
+- Lightning setup is complicated[^fn-npub-cash]
 - No setup required for on-chain, less friction for users
 - We have already built it and it works, so why not give users the option
 
@@ -434,6 +434,7 @@ On-chain zaps are bad, because:
 [^fn-choice]: And don't hide behind the "user choice" argument. It should be clear by now that onchain privacy is a rather esoteric topic with 2nd and 3rd order effects that aren't exactly easy to grasp, so how confident can we be that users would be able to make an educated choice in the first place? Would we be willing to give users the choice to switch back to plain http for everything, just because it's "faster" and "more convenient"?
 [^fn-ccc]: The CCC showed this clearly a long time ago, by [reconstructing a fingerprint from a photograph](https://www.macrumors.com/2014/12/29/ccc-reproduce-fingerprints-public-photos/). In short: politician waves at camera, highres photo is taken, finger can be 3d-printed. (I'm simplifying, but you get the idea.)
 [^fn-zaps-public]: Vitor and Alex made this point multiple times, both on [nostr](https://ants.sh/p/npub1gcxzte5zlkncx26j68ez60fzkvtkm9e0vrwdcvsjakxf9mu9qewqlfnj5z?q=zaps+public) and on [github](https://github.com/nostr-protocol/nips/pull/2332#issuecomment-4409095253).
+[^fn-npub-cash]: Setting yourself up with a Lightning wallet isn't that complicated. I won't argue against this point because I don't agree with the premise. Users are free to set their lightning address to `<user-npub>@npub.cash` for example, which makes them zappable instantly, as [pointed out](https://njump.to/nevent1qqs8njmr5jjcpgejzxv88pglsqps8amrfygc8t2x6zdfhzxmkfmhwzc20g899) by Calle and others.
 
 [terrible-idea]: https://njump.to/nevent1qqs23jpquykrlg2psqhyhhxzn06nmf3dr6yejwvgws0733x8d9vgnugqfuqeq
 [vitor-thread]: https://njump.to/nevent1qqstjywhdd3kt2pwxlnpd3yyd2hflkn7xqtm8lqrkqe0fv7k5dt4wwcyxsyns
