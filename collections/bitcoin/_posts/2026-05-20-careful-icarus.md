@@ -2,7 +2,7 @@
 layout: post
 title: Careful, Icarus
 subtitle: Why "on-chain zaps" are a terrible idea
-description: "I climbed Mt. Stupid with some other nerds and lived to tell the tale."
+description: "Tying identity to onchain activity is problematic in more ways than one."
 date: 2026-05-20
 blocktime: 950285
 image: "/assets/images/on-chain-zaps.jpg"
@@ -36,9 +36,9 @@ with their online identity is misguided at best, and actively harmful at worst.
 Before I get into the "why it's bad" part of it all I'll try to steelman Vitor's
 arguments[^fn-gleason] as I understand them. In short:
 
-- Zaps are public anyway
-- Lightning setup is complicated
-- No setup required for on-chain, less friction for users
+- Zaps are public anyway[^fn-zaps-public]
+- Lightning setup is complicated[^fn-npub-cash]
+- No setup required for on-chain, less friction for users[^fn-friction]
 - We have already built it and it works, so why not give users the option
 
 As I've mentioned in the [long back-and-forth thread][vitor-thread] with Vitor, I am not against
@@ -433,6 +433,9 @@ On-chain zaps are bad, because:
 [^fn-geolocation]: Computers are really good at figuring out where a photo was taken, and have been for many years. I encourage you to [read some papers](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=geolocation+photos) like the one linked in the text, or simply look at [this image](/assets/images/bitcoin/2026-05-20-careful-icarus/geolocation.png).
 [^fn-choice]: And don't hide behind the "user choice" argument. It should be clear by now that onchain privacy is a rather esoteric topic with 2nd and 3rd order effects that aren't exactly easy to grasp, so how confident can we be that users would be able to make an educated choice in the first place? Would we be willing to give users the choice to switch back to plain http for everything, just because it's "faster" and "more convenient"?
 [^fn-ccc]: The CCC showed this clearly a long time ago, by [reconstructing a fingerprint from a photograph](https://www.macrumors.com/2014/12/29/ccc-reproduce-fingerprints-public-photos/). In short: politician waves at camera, highres photo is taken, finger can be 3d-printed. (I'm simplifying, but you get the idea.)
+[^fn-zaps-public]: Vitor and Alex made this point multiple times, both on [nostr](https://ants.sh/p/npub1gcxzte5zlkncx26j68ez60fzkvtkm9e0vrwdcvsjakxf9mu9qewqlfnj5z?q=zaps+public) and on [github](https://github.com/nostr-protocol/nips/pull/2332#issuecomment-4409095253).
+[^fn-npub-cash]: Setting yourself up with a Lightning wallet isn't that complicated. I won't defend this point; I reject the premise. Users are free to set their lightning address to `<user-npub>@npub.cash` for example, which makes them zappable instantly, as [pointed out](https://njump.to/nevent1qqs8njmr5jjcpgejzxv88pglsqps8amrfygc8t2x6zdfhzxmkfmhwzc20g899) by Calle and others.
+[^fn-friction]: As evidenced by this [response to one of my comments](https://github.com/nostr-protocol/nips/pull/2332#issuecomment-4506775013), the supposed friction that this proposal tries to reduce is added tenfold at the end of the journey, i.e. once users want to spend (or move) their on-chain funds.
 
 [terrible-idea]: https://njump.to/nevent1qqs23jpquykrlg2psqhyhhxzn06nmf3dr6yejwvgws0733x8d9vgnugqfuqeq
 [vitor-thread]: https://njump.to/nevent1qqstjywhdd3kt2pwxlnpd3yyd2hflkn7xqtm8lqrkqe0fv7k5dt4wwcyxsyns
