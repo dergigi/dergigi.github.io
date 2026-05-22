@@ -2,7 +2,7 @@
 layout: post
 title: Careful, Icarus
 subtitle: Why "on-chain zaps" are a terrible idea
-description: "Tying identity to onchain activity is problematic in more ways than one."
+description: Tying identity to onchain activity is problematic in more ways than one.
 date: 2026-05-20
 blocktime: 950285
 image: "/assets/images/on-chain-zaps.jpg"
@@ -13,6 +13,7 @@ tags:
 - nostr
 - lightning
 - Writing
+boris_link: https://read.withboris.com/a/naddr1qq8xxctjv4n82mpdd93kzun4wvpzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqvzqqqr4gukkfv2a
 ---
 
 Yesterday I relapsed. Not alcohol, or drugs, or gambling, or anything of that
