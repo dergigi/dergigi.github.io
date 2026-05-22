@@ -52,6 +52,7 @@ If you are more on the academic side of things, here are some papers:
 
 Some recent failures include:
 
+- **2023-01-02** - [Binance Chain breaks every 24 hours][binance-restart], relying on a [state recover tool][binance-state-recover] to reset node state and continue from a chosen height
 - **2022-05-27** [Solana's blockchain clock loses track of time][sol-clock], now running 30 minutes behind (see [Lesson 17][L17] and [Bitcoin is Time][time])
 - **2022-06-19** - Solana: [1 vote][sol-vote-img], making up 90% of total votes, [decided the fate][sol-vote] of ~$270m in users assets
 - **2020-03-18** - [STEEM][steem-details]: adversarial takeover by Justin Sun, resulting in [a hard fork][steem-hf] that is now Hive ([timeline][steem-timeline], [details][steem-details]).
@@ -60,6 +61,8 @@ For some not-so-recent failures, see [this thread by Alex B][bergealex].
 
 [L17]: https://21lessons.com/17/
 
+[binance-restart]: https://medium.com/chainargos/binance-built-a-blockchain-except-it-didnt-5759224ba7aa
+[binance-state-recover]: https://github.com/bnb-chain/node/blob/master/networks/tools/state_recover/state_recover.go
 [sol-clock]: https://archive.ph/jlVn4
 [sol-vote]: https://archive.ph/f3boB
 [sol-vote-img]: {{ site.url }}/assets/images/shitcoins/sol-vote.jpg
