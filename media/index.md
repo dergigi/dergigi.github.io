@@ -87,9 +87,12 @@ Some of my writing and speech was [remixed][license] as videos and memes and VR 
 
 ### Twitter Threads
 
-I use twitter to share and distill my thoughts, which sometimes leads to
-long-form twitter threads in which I try to flesh out certain ideas in a more
-public format. Here are some threads that resonated most:
+I used twitter to share and distill my thoughts, which sometimes led to
+long-form twitter threads in which I tried to flesh out certain ideas in a more
+public format. These days I post on [nostr][nostr] instead. Here are some
+threads that resonated most:
+
+[nostr]: {{ '/nostr' | absolute_url }}
 
 - **2021-12-12** - ["Why shitcoins are a waste of your time"][tw-shitcoins-waste-time] - A thread on the winner-takes-all dynamics of Bitcoin.
 - **2021-11-06** - ["Money is a network"][tw-money-network] - A thread on network effects and the design space of money.
