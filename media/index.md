@@ -9,6 +9,10 @@ redirect_from: /interviews
 Note: I won't do any more interviews or other shenanigans until [my 2nd
 book](https://21-ways.com) is done.
 
+These days I host [No Solutions](https://sovereignengineering.io/podcast), a
+podcast about freedom tech, open protocols, and the trade-offs of building in
+the open.
+
 ---
 
 **✨ Recent** | [🧹 All][all] | [⭐ Best][favs] | [🇺🇸 English][en] | [🇩🇪 German][de]
@@ -40,10 +44,20 @@ a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 
 ### Talks
 
+- **2025-06-22** - [You Wouldn't Zap a Car Crash][zap-car-crash], a Tuesday Talk at the 4th [Sovereign Engineering][sov-eng] cohort ([discussion][zap-car-crash-sn])
+- **2023-05-11** - [Twentyone.World: A Blueprint for Localized Bitcoin Communities][21world-talk] ([twentyone.world][21world-site])
+- **2022-09-03** - [Cryptography is Not Enough][crypto-not-enough] at Baltic Honeybadger in Riga ([transcript][crypto-slides])
 - **2021-07-15** - [🇩🇪 Presentation and Panel Discussion][frankfurt-school] at the Frankfurt School Blockchain Center
 - **2020-06-02** - [Keynote: The Bitcoin Journey][vob-bitcoin-journey] at the Value of Bitcoin Conference Digital Europe
 - **2020-05-11** - [Keynote: Competing With Free][vob-competing-with-free] at the Value of Bitcoin Conference Digital America
 
+[zap-car-crash]: https://youtu.be/4usXBGvufKg
+[zap-car-crash-sn]: https://stacker.news/items/927206
+[sov-eng]: https://sovereignengineering.io/
+[crypto-not-enough]: https://youtu.be/C7ynm0Zkwfk
+[crypto-slides]: {{ '/cryptography' | absolute_url }}
+[21world-talk]: https://youtu.be/iOWvL9-4k4A
+[21world-site]: https://twentyone.world/
 [vob-bitcoin-journey]: https://youtu.be/qVuFX0LkNDQ
 [vob-competing-with-free]: https://youtu.be/JtzwTd9Ur5c
 [frankfurt-school]: https://youtu.be/fx7qftuxyn8
@@ -74,9 +88,12 @@ Some of my writing and speech was [remixed][license] as videos and memes and VR 
 
 ### Twitter Threads
 
-I use twitter to share and distill my thoughts, which sometimes leads to
-long-form twitter threads in which I try to flesh out certain ideas in a more
-public format. Here are some threads that resonated most:
+I used twitter to share and distill my thoughts, which sometimes led to
+long-form twitter threads in which I tried to flesh out certain ideas in a more
+public format. These days I post on [nostr][nostr] instead. Here are some
+threads that resonated most:
+
+[nostr]: {{ '/nostr' | absolute_url }}
 
 - **2021-12-12** - ["Why shitcoins are a waste of your time"][tw-shitcoins-waste-time] - A thread on the winner-takes-all dynamics of Bitcoin.
 - **2021-11-06** - ["Money is a network"][tw-money-network] - A thread on network effects and the design space of money.
