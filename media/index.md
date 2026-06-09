@@ -45,6 +45,7 @@ a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 ### Talks
 
 - **2025-06-22** - [You Wouldn't Zap a Car Crash][zap-car-crash], a Tuesday Talk at the 4th Sovereign Engineering cohort ([discussion][zap-car-crash-sn])
+- **2023-05-11** - [Twentyone.World: A Blueprint for Localized Bitcoin Communities][21world-talk] ([twentyone.world][21world-site])
 - **2022-09-03** - [Cryptography is Not Enough][crypto-not-enough] at Baltic Honeybadger in Riga ([transcript][crypto-slides])
 - **2021-07-15** - [🇩🇪 Presentation and Panel Discussion][frankfurt-school] at the Frankfurt School Blockchain Center
 - **2020-06-02** - [Keynote: The Bitcoin Journey][vob-bitcoin-journey] at the Value of Bitcoin Conference Digital Europe
@@ -54,6 +55,8 @@ a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 [zap-car-crash-sn]: https://stacker.news/items/927206
 [crypto-not-enough]: https://youtu.be/C7ynm0Zkwfk
 [crypto-slides]: {{ '/cryptography' | absolute_url }}
+[21world-talk]: https://youtu.be/iOWvL9-4k4A
+[21world-site]: https://twentyone.world/
 [vob-bitcoin-journey]: https://youtu.be/qVuFX0LkNDQ
 [vob-competing-with-free]: https://youtu.be/JtzwTd9Ur5c
 [frankfurt-school]: https://youtu.be/fx7qftuxyn8
