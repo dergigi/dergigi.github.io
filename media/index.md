@@ -35,6 +35,8 @@ book](https://21-ways.com) is done.
 In [2019](https://www.blockstream.info/block-height/591121) a couple of
 bitcoiners and I launched [🇩🇪 EINUNDZWANZIG](https://einundzwanzig.space/),
 a German-speaking bitcoin podcast that I am still co-hosting from time to time.
+I also host [No Solutions](https://sovereignengineering.io/podcast), a podcast
+about freedom tech, open protocols, and the trade-offs of building in the open.
 
 ---
 
