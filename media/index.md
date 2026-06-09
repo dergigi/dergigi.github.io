@@ -44,10 +44,12 @@ a German-speaking bitcoin podcast that I am still co-hosting from time to time.
 
 ### Talks
 
+- **2025-06-22** - [You Wouldn't Zap a Car Crash][zap-car-crash], a Tuesday Talk at the 4th Sovereign Engineering cohort
 - **2021-07-15** - [🇩🇪 Presentation and Panel Discussion][frankfurt-school] at the Frankfurt School Blockchain Center
 - **2020-06-02** - [Keynote: The Bitcoin Journey][vob-bitcoin-journey] at the Value of Bitcoin Conference Digital Europe
 - **2020-05-11** - [Keynote: Competing With Free][vob-competing-with-free] at the Value of Bitcoin Conference Digital America
 
+[zap-car-crash]: https://youtu.be/4usXBGvufKg
 [vob-bitcoin-journey]: https://youtu.be/qVuFX0LkNDQ
 [vob-competing-with-free]: https://youtu.be/JtzwTd9Ur5c
 [frankfurt-school]: https://youtu.be/fx7qftuxyn8
