@@ -63,14 +63,14 @@ let alone to _think_. Hence my hiatus from thinkboyism.
 
 I'm not even sure if I want to expand on the root causes of said instability.
 Maybe one day. Maybe it's something I should do. Maybe it's something I have to
-do. Who knows. 
+do. Who knows.
 
 Someone came up to me recently and out of all the things I ever wrote they
 thanked me for writing about my father, which is strange, since it's a personal
 piece I wrote to process his death. I wrote it for myself. I'm not even sure why
 I published it, but I did. I guess most decisions are like that: we barely
 understand why we do something, but we do it anyway. And we try to rationalize
-it after the fact. 
+it after the fact.
 
 "Remembering that I'll be dead soon is the most important tool I've ever
 encountered to help me make the big choices in life," to quote the late Steve
@@ -79,11 +79,11 @@ embarrassment or failure---these things just fall away in the face of death,
 leaving only what is truly important."
 
 Memento mori. We all have to die. You, me, your dog, your loved ones. Everyone
-you ever saw, everyone you ever knew, everyone you ever loved. 
+you ever saw, everyone you ever knew, everyone you ever loved.
 
 My mom got diagnosed with cancer yesterday. Pancreatic. Liver metastases to
 boot. It's the fourth time she's been diagnosed with cancer, and I have the
-feeling that it's going to be the last time. 
+feeling that it's going to be the last time.
 
 "Death is nature's way of forgetting," is what I wrote about [a week
 ago][forgetting]. And now death is knocking at the door. Again. "The single best
