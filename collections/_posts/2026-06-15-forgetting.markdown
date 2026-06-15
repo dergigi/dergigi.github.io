@@ -20,7 +20,7 @@ perfect, eternal memory. All your mistakes, all your regrets, all the terrible
 things you did in the past, every time you failed, every time you made a fool of
 yourself, every missed opportunity, every loss, every heartbreak; in short:
 every bad thing that ever happened to you or happened because of you. All
-recorded perfectly, in high fidelity, ready to be recalled at a moments notice.
+recorded perfectly, in high fidelity, ready to be recalled at a moment's notice.
 
 Hell.
 
