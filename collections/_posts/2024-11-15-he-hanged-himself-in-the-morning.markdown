@@ -10,6 +10,7 @@ category: photography
 tags:
   - Photography
   - Writing
+  - Personal
 ---
 
 > We may enjoy our room in the tower, with the painted walls and the commodious

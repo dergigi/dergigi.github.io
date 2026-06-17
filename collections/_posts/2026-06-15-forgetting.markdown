@@ -10,6 +10,7 @@ category: photography
 tags:
   - Photography
   - Writing
+  - Personal
 ---
 
 Forgetting is a gift. We don't like to forget, but it's a gift nonetheless. If
