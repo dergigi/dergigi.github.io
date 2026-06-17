@@ -3,6 +3,8 @@ layout: post
 title: "Cancer"
 redirect_from: /cancer
 date: 2026-06-17
+description: "Cancer. Fuck cancer. Fuck cancer sideways. With a rake."
+image: /assets/images/rake.jpg
 author: Gigi
 category: photography
 tags:
