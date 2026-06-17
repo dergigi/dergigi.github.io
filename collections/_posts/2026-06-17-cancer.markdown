@@ -4,7 +4,10 @@ title: "Cancer"
 redirect_from: /cancer
 date: 2026-06-17
 author: Gigi
+category: photography
 tags:
+  - Photography
+  - Writing
   - Personal
 ---
 
