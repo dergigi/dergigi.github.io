@@ -163,7 +163,7 @@ But it's a terrible chair to receive bad news on. Part of your world got
 destroyed, and you can't even slouch on it to deal with the devastation. When
 every fiber of your being is obliterated, when there's no strength left to sit
 upright, when the only reasonable position is a collapsed heap of agony, when
-you just learned that time is running out, that your mum is dying way sooner
+you just learned that [time] is running out, that your mum is dying way sooner
 than you thought she would... then the bouncy ball sucks.
 
 Massively.
@@ -175,3 +175,4 @@ Just like cancer.
 [no time left]: https://ants.sh/e/nevent1qqs9xpdc2lm6xc6vl45np3ptvkw4mga329a7r7ap2mn48peuqajgqjg9fmapz
 [another]: /forgetting
 [my dad]: /suicide
+[time]: /time
