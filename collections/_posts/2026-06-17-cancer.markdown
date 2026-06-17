@@ -4,7 +4,7 @@ title: "Cancer"
 redirect_from: /cancer
 date: 2026-06-17
 description: "Fuck cancer, sideways, with a rake, forever."
-image: /assets/images/rake.jpg
+image: /assets/images/cancer.jpg
 author: Gigi
 category: photography
 tags:
