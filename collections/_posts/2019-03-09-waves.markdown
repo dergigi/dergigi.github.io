@@ -6,7 +6,7 @@ date: 2019-03-09
 description:
 image: /assets/images/waves.jpg
 author: Gigi
-category: photography
+category: blog
 tags:
   - Photography
   - Travel

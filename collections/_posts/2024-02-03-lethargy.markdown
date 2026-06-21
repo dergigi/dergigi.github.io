@@ -6,9 +6,8 @@ date: 2024-02-03
 description: "'If you’re not having fun in the bitcoin space you’re doing it wrong.'"
 image: /assets/images/lethargy.jpg
 author: Gigi
-category: photography
+category: blog
 tags:
-  - Photography
   - Writing
 ---
 

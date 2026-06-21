@@ -6,7 +6,7 @@ date: 2020-05-31
 description:
 image: /assets/images/habits.jpg
 author: Gigi
-category: photography
+category: blog
 translations:
  - language: German
    url: https://telegra.ph/Gewohnheiten-02-07

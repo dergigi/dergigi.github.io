@@ -6,9 +6,8 @@ date: 2022-09-25
 description: What is the root of all creativity?
 image: /assets/images/creativity.jpg
 author: Gigi
-category: photography
+category: blog
 tags:
-  - Photography
   - ai
 ---
 

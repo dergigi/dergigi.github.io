@@ -6,9 +6,8 @@ date: 2023-03-28
 description: Hesitancy tells you something.
 image: /assets/images/hesitancy.jpg
 author: Gigi
-category: photography
+category: blog
 tags:
-  - Photography
   - Writing
 ---
 

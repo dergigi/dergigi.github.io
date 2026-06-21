@@ -6,9 +6,8 @@ date: 2026-06-15
 description: "Forgetting is a gift. We don't like to forget, but it's a gift nonetheless."
 image: /assets/images/forgetting.jpg
 author: Gigi
-category: photography
+category: blog
 tags:
-  - Photography
   - Writing
   - Personal
 ---

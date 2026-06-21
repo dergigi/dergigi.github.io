@@ -6,7 +6,7 @@ date: 2019-01-12
 description:
 image: "/assets/images/remembrance.jpg"
 author: Gigi
-category: photography
+category: blog
 tags:
 - Photography
 - Travel

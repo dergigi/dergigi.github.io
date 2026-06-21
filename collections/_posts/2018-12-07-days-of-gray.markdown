@@ -6,7 +6,7 @@ date: 2018-12-07
 description:
 image: /assets/images/days-of-gray.jpg
 author: Gigi
-category: photography
+category: blog
 tags:
   - Photography
   - Travel

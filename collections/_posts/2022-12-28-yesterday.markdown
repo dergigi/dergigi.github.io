@@ -6,9 +6,7 @@ date: 2022-12-28
 description: I'm not half the man I used to be.
 image: /assets/images/yesterday.jpg
 author: Gigi
-category: photography
-tags:
-  - Photography
+category: blog
 ---
 
 Yesterday was a good day. Today is not.

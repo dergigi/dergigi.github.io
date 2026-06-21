@@ -6,9 +6,8 @@ date: 2026-06-17
 description: "Fuck cancer, sideways, with a rake, forever."
 image: /assets/images/cancer.jpg
 author: Gigi
-category: photography
+category: blog
 tags:
-  - Photography
   - Writing
   - Personal
 ---

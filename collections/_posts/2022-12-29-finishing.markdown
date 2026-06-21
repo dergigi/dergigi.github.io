@@ -6,9 +6,7 @@ date: 2022-12-29
 description: A half-written work is a half-finished love affair.
 image: /assets/images/finishing.jpg
 author: Gigi
-category: photography
-tags:
-  - Photography
+category: blog
 ---
 
 Finishing things is hard. Starting things is easier. Not easy, mind you. But
