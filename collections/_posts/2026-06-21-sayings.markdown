@@ -178,7 +178,7 @@ Just one of these sayings.
 
 [^fn-matthew]: It's Matthew 13:9-17, if the internet is to be believed. Very close to [my favorite verse](https://njump.to/nevent1qqs8rdy4c72p83t2lm6a4vqtkhs00zvszz0a4ekrc3szmkf7zmtzc9stnedqw), Matthew 21:12. [Twentyone](https://twentyone.world/) [twelve](/cryptography).
 
-[^fn-cover]: The cover image of this post is a still from [the video](https://youtu.be/8XsP1okIjnE) I linked to, and if the video description is to be believed the illustration/animation was made by [Steve Agnos](https://www.steveagnosfilms.com/about). I hope that you don't mind if I borrow those pixels, Steve. And I hope you're well, whatever good or bad fortune you might have encountered.
+[^fn-cover]: The cover image of this post is a still from [the video](https://youtu.be/8XsP1okIjnE) I linked to, and if the video description is to be believed the illustration/animation was originally made by [Steve Agnos](https://www.steveagnosfilms.com/about). I hope that you don't mind if I borrow those pixels, Steve. And I hope you're well, whatever good or bad fortune you might have encountered.
 
 [Alan Watts]: https://youtu.be/8XsP1okIjnE
 [words we use]: /2022/06/27/the-words-we-use-in-bitcoin/
