@@ -8,7 +8,6 @@ image: /assets/images/hesitancy.jpg
 author: Gigi
 category: blog
 tags:
-  - Photography
   - Writing
 ---
 

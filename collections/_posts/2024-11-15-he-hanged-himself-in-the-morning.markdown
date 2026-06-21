@@ -8,7 +8,6 @@ image: /assets/images/suicide.jpg
 author: Gigi
 category: blog
 tags:
-  - Photography
   - Writing
   - Personal
 ---

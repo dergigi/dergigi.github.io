@@ -8,7 +8,6 @@ image: /assets/images/creativity.jpg
 author: Gigi
 category: blog
 tags:
-  - Photography
   - ai
 ---
 

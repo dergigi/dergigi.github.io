@@ -7,8 +7,6 @@ description: To write is human, to edit is divine.
 image: /assets/images/editing.jpg
 author: Gigi
 category: blog
-tags:
-  - Photography
 ---
 
 Editing is divine, or so the saying goes.

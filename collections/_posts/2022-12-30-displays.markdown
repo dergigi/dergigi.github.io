@@ -7,8 +7,6 @@ description: Attention is the currency. Now stare at me.
 image: /assets/images/displays.jpg
 author: Gigi
 category: blog
-tags:
-  - Photography
 ---
 
 Displays rule our world. They dictate our lives, replace our jobs, facilitate
