@@ -8,6 +8,7 @@ image: /assets/images/reality.jpg
 author: Gigi
 category: blog
 tags:
+  - Photography
   - Writing
 ---
 
