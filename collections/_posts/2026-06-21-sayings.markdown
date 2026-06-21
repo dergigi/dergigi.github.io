@@ -159,7 +159,9 @@ The fact that there are things that can't be spoken of should give us pause. The
 [words we use] might shape our reality, but they are _not_ equal to reality.
 They are one step removed from reality, which in turn means that the "artificial
 intelligence" that everyone and their dog are talking about these days is twice
-removed from reality. Clouds of words are molded into statistical patterns, and
+removed from reality.
+
+Clouds of words are molded into statistical patterns, and
 these statistical patterns are supposed to tell us whether it's going to rain or
 not. But will it? And will it teach us anything about the _nature_ of rain?
 _"Explain the nature of reality. Make no mistakes."_
