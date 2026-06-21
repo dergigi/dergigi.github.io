@@ -93,7 +93,7 @@ hindsight: obviously) true, but I'm pretty sure I've dismissed it the first time
 I've heard it (or the first time I've read it).
 
 Before I was whatever I am now, I was a skateboarder. If you would've shown me a
-picture of some stairs with a handrail to hold on to all I would see is
+picture of some stairs with a handrail to hold on to, all I would see is
 something to slide or grind down on. My perception of the city—any city—was very
 different from what a regular person might perceive. All I saw was ledges,
 drops, ramps, quarters, and wheelie tables. Later I got into [photography], and
@@ -130,10 +130,10 @@ and the one that goes something like "only those who have ears to hear it will
 hear it, and only those who have eyes to see will see it." I probably butchered
 that. And I just remembered that it's a Bible verse. Apologies.[^fn-matthew]
 
-Here is what I wrote down in my notebook when I had the body/blood/potatoes
-"a-ha" moment: "Words are like keys; ears are like locks. Both morph and change
-over time, and if you're lucky, one day you'll hear a word or a phrase and it
-will hit just right. It will resonate. You will understand."
+Here is what I wrote down in my notebook when I had the body / blood / last
+week's potatoes "a-ha" moment: "Words are like keys; ears are like locks. Both
+morph and change over time, and if you're lucky, one day you'll hear a word or a
+phrase and it will hit just right. It will resonate. You will understand."
 
 Feynman wasn't religious. He was allergic to authority; skeptical about top-down
 truths, so to speak.[^fn-feynman] He got it from his father, just like my mom
@@ -149,7 +149,7 @@ words, no matter how hard I try. "Ineffable," as [Vervaeke] would call it.
 >
 > <cite>Lao Tzu</cite>
 
-The fact that there's things that can't be spoken of should give us pause. The
+The fact that there are things that can't be spoken of should give us pause. The
 [words we use] might shape our reality, but they are _not_ equal to reality.
 They are one step removed from reality, which in turn means that the "artificial
 intelligence" that everyone and their dog are talking about these days is twice
@@ -177,7 +177,7 @@ Just one of these sayings.
 
 [^fn-potatoes]: “For instance, the scientific article may say, ‘The radioactive phosphorus content of the cerebrum of the rat decreases to one-half in a period of two weeks.’ Now what does that mean? It means that phosphorus that is in the brain of a rat—and also in mine, and yours—is not the same phosphorus as it was two weeks ago. It means the atoms that are in the brain are being replaced: the ones that were there before have gone away. So what is this mind of ours: what are these atoms with consciousness? Last week’s potatoes! They now can remember what was going on in my mind a year ago—a mind which has long ago been replaced. To note that the thing I call my individuality is only a pattern or dance, that is what it means when one discovers how long it takes for the atoms of the brain to be replaced by other atoms. The atoms come into my brain, dance a dance, and then go out—there are always new atoms, but always doing the same dance, remembering what the dance was yesterday.” ―Richard Feynman, What Do You Care What Other People Think?
 
-[^fn-feynman]: He shared his views [on religion](https://youtu.be/P-Qdl6Gbx0k) in the BBC interview he did in 1983, mentioning his father [multiple times](https://youtu.be/f61KMw5zVhg?t=69) in the same interview. The full interview is available on [Vimeo](https://youtu.be/f61KMw5zVhg?t=69) as well as on [archive.org](https://archive.org/details/ThePleasureOfFindingThingsOut_201809).
+[^fn-feynman]: He shared his views [on religion](https://youtu.be/P-Qdl6Gbx0k) in the BBC interview he did in 1983, mentioning his father [multiple times](https://youtu.be/f61KMw5zVhg?t=69) in the same interview. The full interview is available on [Vimeo](https://vimeo.com/340695809) as well as on [archive.org](https://archive.org/details/ThePleasureOfFindingThingsOut_201809).
 
 [^fn-matthew]: It's Matthew 13:9-17, if the internet is to be believed. Very close to [my favorite verse](https://njump.to/nevent1qqs8rdy4c72p83t2lm6a4vqtkhs00zvszz0a4ekrc3szmkf7zmtzc9stnedqw), Matthew 21:12. [Twentyone](https://twentyone.world/) [twelve](/cryptography).
 
