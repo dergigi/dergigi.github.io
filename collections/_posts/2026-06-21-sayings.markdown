@@ -160,15 +160,15 @@ beautifully: "How odd I can have all this inside me and to you it’s just words
 
 To you it's just words.
 
-...
+---
 
 _"Who knows what it's good for."_
 
-To me it is everything.
-
 To you—to most people—it's just words.
 
-Just one of these sayings.
+To me it is everything.
+
+Just one of these sayings.[^fn-cover]
 
 ---
 
@@ -177,6 +177,8 @@ Just one of these sayings.
 [^fn-feynman]: He shared his views [on religion](https://youtu.be/P-Qdl6Gbx0k) in the BBC interview he did in 1983, mentioning his father [multiple times](https://youtu.be/f61KMw5zVhg?t=69) in the same interview. The full interview is available on [Vimeo](https://youtu.be/f61KMw5zVhg?t=69) as well as on [archive.org](https://archive.org/details/ThePleasureOfFindingThingsOut_201809).
 
 [^fn-matthew]: It's Matthew 13:9-17, if the internet is to be believed. Very close to [my favorite verse](https://njump.to/nevent1qqs8rdy4c72p83t2lm6a4vqtkhs00zvszz0a4ekrc3szmkf7zmtzc9stnedqw), Matthew 21:12. [Twentyone](https://twentyone.world/) [twelve](/cryptography).
+
+[^fn-cover]: Cover image by [Steve Agnos](https://www.steveagnosfilms.com/about).
 
 [Alan Watts]: https://youtu.be/8XsP1okIjnE
 [words we use]: /2022/06/27/the-words-we-use-in-bitcoin/
