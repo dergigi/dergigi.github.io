@@ -166,7 +166,7 @@ these statistical patterns are supposed to tell us whether it's going to rain or
 not. But will it? And will it teach us anything about the _nature_ of rain?
 _"Explain the nature of reality. Make no mistakes."_
 
-David Foster Wallace had a way with words, and he spoke about this disconnect
+[David Foster Wallace] had a way with words, and he spoke about this disconnect
 beautifully: "How odd I can have all this inside me and to you it’s just words."
 
 To you it's just words.
@@ -198,3 +198,4 @@ Just one of these sayings.
 [my mother]: /forgetting
 [a call from the hospital]: /cancer
 [Vervaeke]: /sloppypasta
+[David Foster Wallace]: /suicide
