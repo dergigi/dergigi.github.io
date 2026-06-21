@@ -3,7 +3,7 @@ layout: post
 title: "Sayings"
 redirect_from: /sayings
 date: 2026-06-21
-description: ""
+description: "Who knows what it's good for."
 image: /assets/images/sayings.jpg
 author: Gigi
 category: photography
@@ -13,3 +13,102 @@ tags:
   - Personal
 ---
 
+Sayings. My mother loved sayings. She got most of them from _her_ mother, who loved sayings too. "Who knows what it's good for" was one of her favorites. When I was younger I didn't understand most of them. Now that I'm older, I'm slowly but surely turning into an idiom connoisseur, just like my mother used to be. And her mother before that.
+
+_"Who knows what it's good for."_
+
+I understand it now. I know what it _means_, or at least I believe that I do. It encapsulates the story of the Chinese farmer, that [Alan Watts] loved to tell. He told it many times, but in the one recording I just listened to it goes like this:
+
+> Once upon a time there was a Chinese farmer who lost a horse.
+> Ran away. 
+> 
+> And all the neighbors came around that evening and said: "That's too bad."
+> And he said: "Maybe."
+>
+> The next day the horse came back
+> and brought seven wild horses with it.
+> 
+> And all the neighbors came around and said: "Why, that's great! Isn't it?"
+> And he said: "Maybe."
+> 
+> The next day his son was attempting to tame one of these horses
+> and was riding it and was thrown, and broke his leg. 
+> 
+> And all the neighbors came round in the evening and said: "Well, that's too bad, isn't it..."
+> And the farmer said: "Maybe."
+> 
+> The next day the conscription officers came around looking for people for the army,
+> and they rejected his son because he had a broken leg.
+> 
+> And all the neighbors came round that evening and said: "Isn't that wonderful!"
+> And he said: "Maybe."
+
+After the laughter subsides, Alan goes on to distill the essence of the story: "The whole process of nature is an integrated process of immense complexity, and it’s really impossible to tell whether anything that happens in it is good or bad—because you never know what will be the consequence of the misfortune; or, you never know what will be the consequences of good fortune."
+
+You never know. That's the essence.
+
+You never know what it's good for.
+
+---
+
+I picked up a book at the train station today. I picked it up because it had oranges on the cover, and orange things stand out to me. It's a good book. A small book. A book about insights. Those little moments where something *clicks* in your head. Those little moments where you go "a-haaa" or "ooooh" and the world is suddenly different in one way or another, large or small.
+
+One of the "a-ha" moments described in the book is that you might _think_ that whatever you're caught up with is very important right now—whether it be work, sport, a hobby, a project, a tournament, whatever—but then you get [a call from the hospital] that something terrible happened to a friend, or one of your loved ones is seriously ill. And suddenly the world is different, and the things that were terribly important a minute ago are not anymore.
+
+---
+
+There's a saying that goes something like this: "We don't perceive things as they are, we perceive them as _we_ are." I like that one. It is deeply (and in hindsight: obviously) true, but I'm pretty sure I've dismissed it the first time I've heard it (or the first time I've read it).
+
+Before I was whatever I am now, I was a skateboarder. If you would've shown me a picture of some stairs with a handrail to hold on to all I would see is something to slide or grind down on. My perception of the city—any city—was very different from what a regular person might perceive. All I saw was ledges, drops, ramps, quarters, and wheelie tables. Later I got into [photography], and my perception of the world changed again. And later still the world—my world—started to turn [orange], and my perspective (and thus perception) changed again.
+
+Many "a-ha" moments. 
+
+Many ways to view the world.
+
+---
+
+I had another one of these "a-ha" moments a couple days ago. Maybe a week ago or so, before I've heard the news about [my mother]. I was reading another book that I really like. _Living Buddha, Living Christ_ by Thich Nhat Hanh. I was reading a passage on the Last Supper, containing information that I've known about since I was a child. I must've heard the following hundreds, maybe even thousands of times:
+
+> So when Jesus broke the bread and poured the wine, he said, This is My body. This is My blood. Drink it, eat it, and you will have life eternal.
+
+It never did anything for me. But on this day, for whatever reason, I had the sudden insight that it's _literally_ true. And to add insult to injury, I have agreed with and chuckled at a similar saying—similar in spirit—many, many years ago. "You are last week's potatoes," which is something Richard Feynman used to say.[^fn-potatoes]
+
+You might object or even take offense in my crude comparison. My intention is not to equate Christ to Feynman, a move that would probably trigger religious folk and science nerds in equal parts. My intention is to lead into another age-old saying; two, even: "When the student is ready the teacher will appear," and the one that goes something like "only those who have ears to hear it will hear it, and only those who have eyes to see will see it." I probably butchered that. And I just remembered that it's a Bible verse. Apologies.[^fn-matthew]
+
+Here is what I wrote down in my notebook when I had my "a-ha" moment: "Words are like keys; ears are like locks. Both morph and change over time, and if you're lucky, one day you'll hear a word or a phrase and it will hit just right. It will resonate. You will understand."
+
+Feynman wasn't religious. He was allergic to authority; skeptical about top-down truths, so to speak.[^fn-feynman] He got it from his father, just like my mom got her one-liners from hers. I share Feynman's skepticism, as well as his dislike for authority. I wouldn't call myself religious either. That said, I've stopped labeling myself as an "atheist" a couple of years ago. Too many strange things have happened to me. Things that I can't explain—or more accurately: things that I can't explain away. Things that I can't put into words, no matter how hard I try. "Ineffable," as [Vervaeke] would call it.
+
+> The Tao that can be spoken of is not the eternal Tao.
+
+The fact that there's things that can't be spoken of should give us pause. The [words we use] might shape our reality, but they are _not_ equal to reality. They are one step removed from reality, which in turn means that the "artificial intelligence" that everyone and their dog are talking about these days is twice removed from reality. Clouds of words are molded into statistical patterns, and these statistical patterns are supposed to tell us whether it's going to rain or not. But will it? And will it teach us anything about the _nature_ of rain? _"Explain the nature of reality. Make no mistakes."_
+
+David Foster Wallace had a way with words, and he spoke about this disconnect beautifully: "How odd I can have all this inside me and to you it’s just words." 
+
+To you it's just words.
+
+...
+
+_"Who knows what it's good for."_
+
+To me it is everything.
+
+To you—to most people—it's just words.
+
+Just one of these sayings.
+
+---
+
+[^fn-potatoes]: “For instance, the scientific article may say, ‘The radioactive phosphorus content of the cerebrum of the rat decreases to one-half in a period of two weeks.’ Now what does that mean? It means that phosphorus that is in the brain of a rat—and also in mine, and yours—is not the same phosphorus as it was two weeks ago. It means the atoms that are in the brain are being replaced: the ones that were there before have gone away. So what is this mind of ours: what are these atoms with consciousness? Last week’s potatoes! They now can remember what was going on in my mind a year ago—a mind which has long ago been replaced. To note that the thing I call my individuality is only a pattern or dance, that is what it means when one discovers how long it takes for the atoms of the brain to be replaced by other atoms. The atoms come into my brain, dance a dance, and then go out—there are always new atoms, but always doing the same dance, remembering what the dance was yesterday.” ―Richard Feynman, What Do You Care What Other People Think?
+
+[^fn-feynman]: He shared his views [on religion](https://youtu.be/P-Qdl6Gbx0k) in the BBC interview he did in 1983, mentioning his father [multiple times](https://youtu.be/f61KMw5zVhg?t=69) in the same interview. The full interview is available on [Vimeo](https://youtu.be/f61KMw5zVhg?t=69) as well as on [archive.org](https://archive.org/details/ThePleasureOfFindingThingsOut_201809).
+
+[^fn-matthew]: It's Matthew 13:9-17, if the internet is to be believed. Very close to [my favorite verse](https://njump.to/nevent1qqs8rdy4c72p83t2lm6a4vqtkhs00zvszz0a4ekrc3szmkf7zmtzc9stnedqw), Matthew 21:12. [Twentyone](https://twentyone.world/) [twelve](/cryptography).
+
+[Alan Watts]: https://youtu.be/8XsP1okIjnE
+[words we use]: /2022/06/27/the-words-we-use-in-bitcoin/
+[photography]: /photography
+[orange]: /bitcoin
+[my mother]: /forgetting
+[a call from the hospital]: /cancer
+[Vervaeke]: /sloppypasta
