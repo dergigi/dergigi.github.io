@@ -6,7 +6,7 @@ date: 2024-02-04
 description: "And life went on. It was not the same, but it went on."
 image: /assets/images/reality.jpg
 author: Gigi
-category: photography
+category: blog
 tags:
   - Photography
   - Writing

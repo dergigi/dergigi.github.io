@@ -6,7 +6,7 @@ date: 2018-12-20
 description:
 image: /assets/images/aurora.jpg
 author: Gigi
-category: photography
+category: blog
 tags:
   - Photography
   - Travel

@@ -6,7 +6,7 @@ date: 2021-12-08
 description:
 image: /assets/images/tyranny.jpg
 author: Gigi
-category: photography
+category: blog
 tags:
   - Photography
   - Writing

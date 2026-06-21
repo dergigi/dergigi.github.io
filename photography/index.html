@@ -1,0 +1,5 @@
+---
+layout: default
+---
+{% assign photoposts = site.posts | where_exp: "p", "p.tags contains 'Photography'" %}
+{% include posts-grid.html posts=photoposts %}

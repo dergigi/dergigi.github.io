@@ -6,7 +6,7 @@ date: 2022-12-29
 description: To write is human, to edit is divine.
 image: /assets/images/editing.jpg
 author: Gigi
-category: photography
+category: blog
 tags:
   - Photography
 ---

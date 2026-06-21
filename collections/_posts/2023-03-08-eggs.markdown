@@ -6,7 +6,7 @@ date: 2023-03-08
 description: Most eggs are still closed. We don't know if they will ever open up. 
 image: /assets/images/eggs.jpg
 author: Gigi
-category: photography
+category: blog
 source: https://read.withboris.com/a/naddr1qqzx2em8wvpzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqvzqqqr4gucv8jqx
 tags:
   - Photography

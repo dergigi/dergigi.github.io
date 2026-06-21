@@ -6,7 +6,7 @@ date: 2021-09-27
 description:
 image: "/assets/images/people.jpg"
 author: Gigi
-category: photography
+category: blog
 tags:
 - Photography
 translations:

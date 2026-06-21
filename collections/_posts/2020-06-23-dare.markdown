@@ -6,7 +6,7 @@ date: 2020-06-23
 description:
 image: /assets/images/dare.jpg
 author: Gigi
-category: photography
+category: blog
 translations:
  - language: German
    url: https://telegra.ph/Wagen-02-07

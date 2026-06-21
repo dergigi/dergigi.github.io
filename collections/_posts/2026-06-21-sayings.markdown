@@ -6,7 +6,7 @@ date: 2026-06-21
 description: "Who knows what it's good for."
 image: /assets/images/sayings.jpg
 author: Gigi
-category: photography
+category: blog
 tags:
   - Photography
   - Writing

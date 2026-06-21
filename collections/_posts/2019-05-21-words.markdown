@@ -6,7 +6,7 @@ date: 2019-05-21
 description:
 image: /assets/images/words.jpg
 author: Gigi
-category: photography
+category: blog
 tags:
   - Photography
   - Travel

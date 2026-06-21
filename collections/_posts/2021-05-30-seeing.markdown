@@ -6,7 +6,7 @@ date: 2021-05-30
 description:
 image: /assets/images/seeing.jpg
 author: Gigi
-category: photography
+category: blog
 translations:
  - language: German
    url: https://telegra.ph/Sehen-01-07

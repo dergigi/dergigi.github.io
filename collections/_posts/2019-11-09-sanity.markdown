@@ -6,7 +6,7 @@ date: 2019-11-09
 description:
 image: /assets/images/sanity.jpg
 author: Gigi
-category: photography
+category: blog
 translations:
  - language: German
    url: https://telegra.ph/Wagen-02-07

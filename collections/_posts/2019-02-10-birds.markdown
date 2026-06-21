@@ -6,7 +6,7 @@ date: 2019-02-10
 description:
 image: "/assets/images/birds.jpg"
 author: Gigi
-category: photography
+category: blog
 tags:
 - Photography
 - Travel

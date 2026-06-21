@@ -6,7 +6,7 @@ date: 2022-12-30
 description: Attention is the currency. Now stare at me.
 image: /assets/images/displays.jpg
 author: Gigi
-category: photography
+category: blog
 tags:
   - Photography
 ---

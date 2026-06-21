@@ -46,7 +46,8 @@ Gigi
 
 ## Links
 
-* [/blog][photography]: random thoughts and photographs
+* [/blog](/blog): random thoughts
+* [/photography][photography]: photographs
 * [/bitcoin](/bitcoin): bitcoin stuff
 * [/nostr][nostr]: shitposting, always
 * [/npub][npub]: my current npub
@@ -64,7 +65,7 @@ Gigi
 [bitcoin]: {{ 'bitcoin' | absolute_url }}
 [canary]: {{ 'canary/' | absolute_url }}
 [threads]: {{ 'threads/' | absolute_url }}
-[photography]: {{ 'blog' | absolute_url }}
+[photography]: {{ 'photography' | absolute_url }}
 [gnu]: https://www.gnu.org/philosophy/free-sw.html
 [true-names]: {% post_url /bitcoin/2020-07-21-true-names-not-required %}
 

@@ -6,7 +6,7 @@ date: 2020-11-23
 description:
 image: /assets/images/creation.jpg
 author: Gigi
-category: photography
+category: blog
 translations:
  - language: German
    url: https://telegra.ph/Sch%C3%B6pfung-01-24
