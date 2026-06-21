@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Sayings"
+redirect_from: /sayings
+date: 2026-06-21
+description: ""
+image: /assets/images/sayings.jpg
+author: Gigi
+category: photography
+tags:
+  - Photography
+  - Writing
+  - Personal
+---
+
