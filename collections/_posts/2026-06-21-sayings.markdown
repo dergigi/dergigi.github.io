@@ -10,7 +10,6 @@ category: blog
 tags:
   - Writing
   - Personal
-  - ai
 ---
 
 Sayings. My mother loved sayings. She got most of them from _her_ mother, who

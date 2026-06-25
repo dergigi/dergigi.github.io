@@ -1,0 +1,84 @@
+//----------------------------------------------
+// Words Section Navigation
+//----------------------------------------------
+.words-nav {
+  @extend %letter-spacing;
+
+  position: fixed;
+  top: $header-height;
+  left: 0;
+  z-index: $z-999 - 1;
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: $bitcoin-header-height;
+  width: 100%;
+  padding: {
+    right: 1em;
+    left: 1em;
+  }
+
+  background-color: $color-subnav-bg;
+  border-bottom: $border;
+  transition: transform 0.2s ease;
+
+  @media (min-width: $mq-small) {
+    padding: {
+      right: 2em;
+      left: 2em;
+    }
+  }
+
+  &__list {
+    @extend %no-list-style;
+
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+
+    & > * {
+      &:not(:last-child) {
+        margin-right: 1em;
+
+        @media (min-width: $mq-small) {
+          margin-right: 1.5em;
+        }
+      }
+    }
+  }
+
+  &__link {
+    font-family: Courier, monospace;
+    font-size: $font-xxsmall;
+    font-weight: 400;
+    letter-spacing: 0;
+    color: $color-darkgrey;
+
+    &:hover {
+      color: $color-grey;
+    }
+
+    &--active {
+      font-weight: 700;
+      color: $color-blue;
+    }
+
+    &--bitcoin.words-nav__link--active {
+      color: $color-orange;
+    }
+
+    &--nostr.words-nav__link--active {
+      color: $color-purple;
+    }
+  }
+
+  &--hidden {
+    transform: translateY(-100%);
+  }
+}
+
+.has-words-nav main {
+  margin-top: $header-height + $bitcoin-header-height;
+}

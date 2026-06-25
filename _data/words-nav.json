@@ -1,0 +1,8 @@
+[
+  { "path": "/blog" },
+  { "path": "/bitcoin" },
+  { "path": "/nostr" },
+  { "path": "/ai" },
+  { "path": "/photography", "label": "📷" },
+  { "path": "/threads", "label": "🧵" }
+]

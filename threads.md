@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: words
+show_header: true
 title: Threads
 subtitle: Early thoughts that might turn into something longer.
 description: A collection of twitter threads on Bitcoin.
