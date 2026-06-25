@@ -1,8 +1,8 @@
 [
   { "path": "/blog" },
-  { "path": "/photography" },
   { "path": "/bitcoin" },
   { "path": "/nostr" },
   { "path": "/ai" },
-  { "path": "/threads" }
+  { "path": "/photography", "label": "📷" },
+  { "path": "/threads", "label": "🧵" }
 ]

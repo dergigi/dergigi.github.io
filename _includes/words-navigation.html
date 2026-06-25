@@ -20,7 +20,8 @@
           href="{{ item.path | absolute_url }}"
           class="words-nav__link words-nav__link--{{ slug }}{% if active %} words-nav__link--active{% endif %}"
           {% if active %}aria-current="page"{% endif %}
-        >{{ item.path }}</a>
+          {% if item.label %}aria-label="{{ item.path }}"{% endif %}
+        >{% if item.label %}{{ item.label }}{% else %}{{ item.path }}{% endif %}</a>
       </li>
     {% endfor %}
   </ul>
