@@ -62,10 +62,8 @@
     font-weight: bold;
   }
 
-  @media (max-width: $mq-small) {
-    &--hidden {
-      transform: translateY(-100%);
-    }
+  &--hidden {
+    transform: translateY(-100%);
   }
 }
 
