@@ -11,7 +11,7 @@
 
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
   height: $bitcoin-header-height;
   width: 100%;
   padding: {
@@ -36,7 +36,7 @@
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-end;
 
     & > * {
       @extend %font-header;
