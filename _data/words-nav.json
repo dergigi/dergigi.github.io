@@ -1,0 +1,9 @@
+[
+  { "label": "All", "path": "/words/" },
+  { "label": "Blog", "path": "/blog/" },
+  { "label": "Photography", "path": "/photography/" },
+  { "label": "Bitcoin", "path": "/bitcoin/" },
+  { "label": "Nostr", "path": "/nostr/" },
+  { "label": "AI", "path": "/ai/" },
+  { "label": "Threads", "path": "/threads/" }
+]

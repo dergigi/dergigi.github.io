@@ -1,0 +1,25 @@
+{% assign current_path = page.url | replace: 'index.html', '' %}
+{% if current_path != '/' and current_path != '' %}
+  {% unless current_path contains '.html' %}
+    {% assign current_path = current_path | append: '/' %}
+  {% endunless %}
+{% endif %}
+
+<nav class="words-nav" aria-label="Words section">
+  <ul class="words-nav__list">
+    {% for item in site.data.words-nav %}
+      {% assign item_path = item.path %}
+      {% assign active = false %}
+      {% if current_path == item_path %}
+        {% assign active = true %}
+      {% endif %}
+      <li>
+        <a
+          href="{{ item.path | absolute_url }}"
+          class="words-nav__link{% if active %} words-nav__link--active{% endif %}"
+          {% if active %}aria-current="page"{% endif %}
+        >{{ item.label }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
