@@ -8,7 +8,7 @@ layout: compress
   {% include head.html %}
 
 </head>
-<body id="{% if page.title %}{{ page.title | slugify }}{% else %}home{% endif %}" class="{{ page.layout | downcase }}-layout">
+<body id="{% if page.title %}{{ page.title | slugify }}{% else %}home{% endif %}" class="{{ page.layout | downcase }}-layout{% if page.layout == 'words' %} has-words-nav{% endif %}">
 
   {% include header.html %}
 
