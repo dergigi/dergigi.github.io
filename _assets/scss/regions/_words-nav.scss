@@ -54,30 +54,23 @@
     font-size: $font-xxsmall;
     font-weight: 400;
     letter-spacing: 0;
-    color: $color-blue;
+    color: $color-darkgrey;
 
     &:hover {
-      color: lighten($color-blue, 12%);
-    }
-
-    &--bitcoin {
-      color: $color-orange;
-
-      &:hover {
-        color: lighten($color-orange, 12%);
-      }
-    }
-
-    &--nostr {
-      color: $color-purple;
-
-      &:hover {
-        color: lighten($color-purple, 12%);
-      }
+      color: $color-grey;
     }
 
     &--active {
       font-weight: 700;
+      color: $color-blue;
+    }
+
+    &--bitcoin.words-nav__link--active {
+      color: $color-orange;
+    }
+
+    &--nostr.words-nav__link--active {
+      color: $color-purple;
     }
   }
 
