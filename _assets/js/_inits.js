@@ -9,6 +9,7 @@ import InfiniteScroll from './components/_infiniteScroll.js';
 import { miscFlexVid, miscZoom, miscSocialShare } from './components/_miscellaneous.js';
 import PageTransition from './components/_pageTransition.js';
 import Popup from './components/_popup.js';
+import WordsNav from './components/_wordsNav.js';
 import './base/_externalLinks.js';
 
 // ----------------------------------------------
@@ -36,6 +37,10 @@ $(() => {
 
   if ($('#form').length) {
     Popup.init();
+  }
+
+  if ($('.words-nav').length) {
+    WordsNav.init();
   }
 
 });

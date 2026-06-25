@@ -1,5 +1,6 @@
 {% assign current_path = page.url | replace: 'index.html', '' %}
-{% if current_path != '/' and current_path != '' %}
+{% assign path_suffix = current_path | slice: -1, 1 %}
+{% if current_path != '/' and current_path != '' and path_suffix != '/' %}
   {% unless current_path contains '.html' %}
     {% assign current_path = current_path | append: '/' %}
   {% endunless %}
