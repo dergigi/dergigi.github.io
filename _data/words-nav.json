@@ -1,5 +1,4 @@
 [
-  { "label": "All", "path": "/words/" },
   { "label": "Blog", "path": "/blog/" },
   { "label": "Photography", "path": "/photography/" },
   { "label": "Bitcoin", "path": "/bitcoin/" },
