@@ -14,10 +14,11 @@
       {% if current_path == item_path %}
         {% assign active = true %}
       {% endif %}
+      {% assign slug = item.path | remove: '/' %}
       <li>
         <a
           href="{{ item.path | absolute_url }}"
-          class="words-nav__link{% if active %} words-nav__link--active{% endif %}"
+          class="words-nav__link words-nav__link--{{ slug }}{% if active %} words-nav__link--active{% endif %}"
           {% if active %}aria-current="page"{% endif %}
         >{{ item.path }}</a>
       </li>
