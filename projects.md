@@ -4,7 +4,7 @@ title: Projects
 subtitle: Words and Code for Bitcoin
 ---
 
-* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr), [Lookmarks](#lookmarks), [njump.to](#njumpto), [Unicorn vs Snakes](#unicorn-vs-snakes), [VibeLine](#vibeline)
+* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr), [GM Gallery](#gm-gallery), [Lookmarks](#lookmarks), [njump.to](#njumpto), [Unicorn vs Snakes](#unicorn-vs-snakes), [VibeLine](#vibeline)
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
 * Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr), [Human B](#contribution-human-b)
@@ -71,6 +71,17 @@ making reading on the web a more personal and sovereign experience.
 * Source: [GitHub](https://github.com/dergigi/dearnostr)
 
 [dearnostr]: https://www.dearnostr.com/
+
+### GM Gallery
+
+[GM Gallery][gm-gallery] is a view-only Nostr client that shows my daily "GM" posts that contain an image, laid out in a masonry gallery. It filters a profile's notes client-side, keeping the ones that mention `gm` and link at least one image, then renders the extracted images in a grid that collapses to a single column on mobile. Point it at any npub or NIP-05 address to see someone else's gallery, since relays are discovered via the outbox model. Sibling instances slice things differently: [gn.dergigi.com](https://gn.dergigi.com) for GN posts, [bw.dergigi.com](https://bw.dergigi.com) for black-and-white images, [img.dergigi.com](https://img.dergigi.com) for all image posts, and [gif.dergigi.com](https://gif.dergigi.com) for gifs only. Built with [applesauce](https://applesauce.build/), React, Vite, and TypeScript.
+
+{% include image.html path="/assets/images/bitcoin/projects/gm-gallery.png" link="https://gm.dergigi.com" %}
+
+* Website: [gm.dergigi.com][gm-gallery]
+* Source: [GitHub](https://github.com/dergigi/gm-gallery)
+
+[gm-gallery]: https://gm.dergigi.com/
 
 ### lookmarks
 
