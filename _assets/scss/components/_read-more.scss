@@ -48,13 +48,41 @@
   font-size: $font-large;
   line-height: 1;
   cursor: pointer;
-  transition: color 200ms ease-in-out, transform 200ms ease-in-out;
+  transition: color 200ms ease-in-out;
+
+  .fa-chevron-down {
+    display: inline-block;
+    animation: read-more-bob 2s $ease-in-out-sine infinite;
+  }
 
   &:hover,
   &:focus {
     color: $color-orange;
     outline: 0;
-    transform: translateY(0.15em);
+  }
+
+  &:hover .fa-chevron-down,
+  &:focus .fa-chevron-down {
+    animation-play-state: paused;
+    transform: translateY(0.2em);
+    transition: transform 200ms ease-in-out;
+  }
+}
+
+@keyframes read-more-bob {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(0.3em);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .read-more__toggle .fa-chevron-down {
+    animation: none;
   }
 }
 
