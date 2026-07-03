@@ -1,0 +1,43 @@
+//----------------------------------------------
+// Read More
+//----------------------------------------------
+
+.read-more__item {
+  display: none;
+
+  &.is-revealed {
+    display: block;
+    animation: read-more-reveal 500ms $ease-out-quad both;
+  }
+}
+
+.read-more__toggle {
+  display: inline-block;
+  margin-top: 0.5em;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: $color-darkgrey;
+  font-family: $font;
+  font-size: $font-small;
+  cursor: pointer;
+  transition: color 200ms ease-in-out;
+
+  &:hover,
+  &:focus {
+    color: $color-orange;
+    outline: 0;
+  }
+}
+
+@keyframes read-more-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(0.5em);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

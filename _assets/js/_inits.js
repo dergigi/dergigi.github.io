@@ -9,6 +9,7 @@ import InfiniteScroll from './components/_infiniteScroll.js';
 import { miscFlexVid, miscZoom, miscSocialShare } from './components/_miscellaneous.js';
 import PageTransition from './components/_pageTransition.js';
 import Popup from './components/_popup.js';
+import { readMore } from './components/_readMore.js';
 import WordsNav from './components/_wordsNav.js';
 import './base/_externalLinks.js';
 
@@ -33,6 +34,10 @@ $(() => {
     miscFlexVid();
     miscZoom();
     miscSocialShare();
+  }
+
+  if ($('.js-read-more').length) {
+    readMore();
   }
 
   if ($('#form').length) {
