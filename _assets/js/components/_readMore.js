@@ -11,7 +11,7 @@ import $ from 'jquery';
 // paragraphs are disclosed one by one, and the posts
 // grid below is revealed as the final step.
 // ----------------------------------------------
-const VISIBLE_COUNT = 3;
+const VISIBLE_COUNT = 2;
 
 export const readMore = () => {
   const $container = $('.js-read-more');
