@@ -54,24 +54,14 @@
   line-height: 1;
   cursor: pointer;
   transition: color 200ms ease-in-out, border-color 200ms ease-in-out;
-
-  .fa-chevron-down {
-    display: inline-block;
-    animation: read-more-bob 2s $ease-in-out-sine infinite;
-  }
+  animation: read-more-bob 2s $ease-in-out-sine infinite;
 
   &:hover,
   &:focus {
     color: $color-orange;
     border-color: $color-orange;
     outline: 0;
-  }
-
-  &:hover .fa-chevron-down,
-  &:focus .fa-chevron-down {
     animation-play-state: paused;
-    transform: translateY(0.2em);
-    transition: transform 200ms ease-in-out;
   }
 }
 
@@ -87,7 +77,7 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .read-more__toggle .fa-chevron-down {
+  .read-more__toggle {
     animation: none;
   }
 }
