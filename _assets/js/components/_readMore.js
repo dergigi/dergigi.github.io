@@ -7,9 +7,11 @@ import $ from 'jquery';
 // Read More
 //
 // Progressively reveals paragraphs one click at a
-// time. The first paragraph stays visible; the rest
-// are collapsed and disclosed on each button press.
+// time. The first two paragraphs stay visible; the
+// rest are collapsed and disclosed on each button press.
 // ----------------------------------------------
+const VISIBLE_COUNT = 2;
+
 export const readMore = () => {
   const $container = $('.js-read-more');
 
@@ -19,11 +21,11 @@ export const readMore = () => {
 
   const $paragraphs = $container.children('p');
 
-  if ($paragraphs.length <= 1) {
+  if ($paragraphs.length <= VISIBLE_COUNT) {
     return;
   }
 
-  const $hidden = $paragraphs.slice(1);
+  const $hidden = $paragraphs.slice(VISIBLE_COUNT);
   $hidden.addClass('read-more__item');
 
   const $button = $('<button>', {
