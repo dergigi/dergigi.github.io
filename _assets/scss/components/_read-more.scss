@@ -1,0 +1,106 @@
+//----------------------------------------------
+// Read More
+//----------------------------------------------
+
+// Align the intro with the post grid below by anchoring
+// its content to the left while keeping a readable width.
+#markdown.js-read-more {
+  align-items: flex-start;
+}
+
+#markdown.js-read-more > *:not(#tippin-button) {
+  min-width: 0;
+  max-width: $max-width;
+}
+
+.read-more__item {
+  display: none;
+
+  &.is-revealed {
+    display: block;
+    animation: read-more-reveal 500ms $ease-out-quad both;
+  }
+}
+
+// Restored steps are shown without replaying the reveal animation.
+.read-more__item.is-revealed.is-instant,
+.read-more__grid.is-revealed.is-instant {
+  animation: none;
+}
+
+// The posts grid stays laid out (so salvattore can build its
+// columns from the CSS `content` count) but is collapsed until
+// it is revealed as the final read-more step.
+.read-more__grid {
+  overflow: hidden;
+  max-height: 0;
+  opacity: 0;
+
+  &.is-revealed {
+    overflow: visible;
+    max-height: none;
+    opacity: 1;
+    animation: read-more-reveal 500ms $ease-out-quad both;
+  }
+}
+
+.read-more__toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  width: 2.5em;
+  height: 2.5em;
+  margin-top: 0.5em;
+  padding: 0;
+  border: 1px solid rgba($color-white, 0.2);
+  border-radius: 50%;
+  background: none;
+  color: $color-darkgrey;
+  line-height: 1;
+  cursor: pointer;
+  transition: color 200ms ease-in-out, border-color 200ms ease-in-out;
+  animation: read-more-bob 2s $ease-in-out-sine infinite;
+
+  &:hover,
+  &:focus {
+    color: $color-orange;
+    border-color: $color-orange;
+    outline: 0;
+    animation-play-state: paused;
+  }
+
+  // Left-align on desktop, keep centered on mobile.
+  @media (min-width: $mq-med) {
+    align-self: flex-start;
+  }
+}
+
+@keyframes read-more-bob {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(0.3em);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .read-more__toggle {
+    animation: none;
+  }
+}
+
+@keyframes read-more-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(0.5em);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

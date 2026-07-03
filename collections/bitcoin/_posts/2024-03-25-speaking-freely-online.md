@@ -9,7 +9,7 @@ image: "/assets/images/speaking.jpg"
 redirect_from: "/speaking"
 author: Gigi
 category: nostr
-favorite: false
+favorite: true
 tags:
 - Writing
 - nostr
