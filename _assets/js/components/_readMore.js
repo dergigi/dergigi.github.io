@@ -7,11 +7,11 @@ import $ from 'jquery';
 // Read More
 //
 // Progressively reveals the intro one click at a time.
-// The first two paragraphs stay visible; the remaining
+// The first few paragraphs stay visible; the remaining
 // paragraphs are disclosed one by one, and the posts
 // grid below is revealed as the final step.
 // ----------------------------------------------
-const VISIBLE_COUNT = 2;
+const VISIBLE_COUNT = 3;
 
 export const readMore = () => {
   const $container = $('.js-read-more');
