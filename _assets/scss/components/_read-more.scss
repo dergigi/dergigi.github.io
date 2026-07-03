@@ -22,6 +22,12 @@
   }
 }
 
+// Restored steps are shown without replaying the reveal animation.
+.read-more__item.is-revealed.is-instant,
+.read-more__grid.is-revealed.is-instant {
+  animation: none;
+}
+
 // The posts grid stays laid out (so salvattore can build its
 // columns from the CSS `content` count) but is collapsed until
 // it is revealed as the final read-more step.
