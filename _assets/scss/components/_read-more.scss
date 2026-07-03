@@ -63,6 +63,11 @@
     outline: 0;
     animation-play-state: paused;
   }
+
+  // Left-align on desktop, keep centered on mobile.
+  @media (min-width: $mq-med) {
+    align-self: flex-start;
+  }
 }
 
 @keyframes read-more-bob {
