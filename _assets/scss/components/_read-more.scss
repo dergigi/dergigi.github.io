@@ -2,6 +2,17 @@
 // Read More
 //----------------------------------------------
 
+// Align the intro with the post grid below by anchoring
+// its content to the left while keeping a readable width.
+#markdown.js-read-more {
+  align-items: flex-start;
+}
+
+#markdown.js-read-more > *:not(#tippin-button) {
+  min-width: 0;
+  max-width: $max-width;
+}
+
 .read-more__item {
   display: none;
 
