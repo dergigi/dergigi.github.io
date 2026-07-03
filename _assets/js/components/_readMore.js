@@ -6,9 +6,10 @@ import $ from 'jquery';
 // ----------------------------------------------
 // Read More
 //
-// Progressively reveals paragraphs one click at a
-// time. The first two paragraphs stay visible; the
-// rest are collapsed and disclosed on each button press.
+// Progressively reveals the intro one click at a time.
+// The first two paragraphs stay visible; the remaining
+// paragraphs are disclosed one by one, and the posts
+// grid below is revealed as the final step.
 // ----------------------------------------------
 const VISIBLE_COUNT = 2;
 
@@ -20,13 +21,24 @@ export const readMore = () => {
   }
 
   const $paragraphs = $container.children('p');
+  const $hidden = $paragraphs.length > VISIBLE_COUNT
+    ? $paragraphs.slice(VISIBLE_COUNT)
+    : $();
+  const $grid = $('.js-read-more-last');
 
-  if ($paragraphs.length <= VISIBLE_COUNT) {
-    return;
+  $hidden.addClass('read-more__item');
+  $grid.addClass('read-more__grid');
+
+  const steps = [];
+  $hidden.each((idx, el) => steps.push($(el)));
+
+  if ($grid.length) {
+    steps.push($grid);
   }
 
-  const $hidden = $paragraphs.slice(VISIBLE_COUNT);
-  $hidden.addClass('read-more__item');
+  if (!steps.length) {
+    return;
+  }
 
   const $button = $('<button>', {
     'type': 'button',
@@ -40,10 +52,10 @@ export const readMore = () => {
   let index = 0;
 
   $button.on('click', () => {
-    $hidden.eq(index).addClass('is-revealed');
+    steps[index].addClass('is-revealed');
     index += 1;
 
-    if (index >= $hidden.length) {
+    if (index >= steps.length) {
       $button.remove();
     }
   });
