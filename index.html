@@ -65,7 +65,7 @@ layout: default
 <div class="posts js-read-more-last">
   <div class="grid-xlarge">
     <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
-      {% for post in site.categories.bitcoin %}
+      {% for post in site.posts %}
         {% if post.favorite == true %}
           {% include post-card.html %}
         {% endif %}

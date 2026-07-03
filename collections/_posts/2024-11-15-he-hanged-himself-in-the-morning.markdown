@@ -7,6 +7,7 @@ description: "My dad killed himself today. He hanged himself in the morning."
 image: /assets/images/suicide.jpg
 author: Gigi
 category: blog
+favorite: true
 tags:
   - Writing
   - Personal
