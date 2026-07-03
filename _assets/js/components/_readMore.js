@@ -29,7 +29,8 @@ export const readMore = () => {
   const $button = $('<button>', {
     'type': 'button',
     'class': 'read-more__toggle',
-    'text': 'read more'
+    'aria-label': 'read more',
+    'html': '<i class="fas fa-chevron-down" aria-hidden="true"></i>'
   });
 
   $container.append($button);
