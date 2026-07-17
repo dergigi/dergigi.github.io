@@ -66,7 +66,7 @@ Maybe one day. Maybe it's something I should do. Maybe it's something I have to
 do. Who knows.
 
 Someone came up to me recently and out of all the things I ever wrote they
-thanked me for writing about my father, which is strange, since it's a personal
+thanked me for writing about [my father], which is strange, since it's a personal
 piece I wrote to process his death. I wrote it for myself. I'm not even sure why
 I published it, but I did. I guess most decisions are like that: we barely
 understand why we do something, but we do it anyway. And we try to rationalize
@@ -94,3 +94,4 @@ He died of pancreatic cancer too. I keep forgetting.
 
 [book]: https://archive.org/details/yourbrainisalmos0000mont
 [forgetting]: https://njump.to/nevent1qqsqqqrp2cft5v9fgafgcz5wv43493c26w9u5rtgx6lmrmagggmyess0cqcl2
+[my father]: /suicide
