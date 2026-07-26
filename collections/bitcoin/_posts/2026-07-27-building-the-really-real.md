@@ -2,7 +2,7 @@
 layout: post
 title: Building the Really Real
 subtitle: "On levels of realness in cyberspace"
-description: "Sovereign Engineering exists because of dialogue. Here's why."
+description: "Bitcoin, Nostr, and building things real enough to trust."
 date: 2026-07-27
 blocktime: 959752
 image: "/assets/images/really-real.jpg"
