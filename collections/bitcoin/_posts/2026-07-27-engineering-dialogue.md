@@ -5,7 +5,7 @@ subtitle: "On Dia-Logos and building in person"
 description: "Sovereign Engineering exists because of dialogue. Here's why."
 date: 2026-07-27
 blocktime: 959752
-image: ""
+image: "/assets/images/dialogue.jpg"
 redirect_from: "/dialogue"
 author: Gigi
 category: nostr
