@@ -138,7 +138,7 @@ rejuvenate something old. Something special.
 
 If you're interested in entering into dialogue with us, to help spread the word,
 learn more, or maybe even build your own dialogue-based engineering program,
-don't hesitate to [reach out to us]. Let's build something real, together.
+don't hesitate to [reach out to us]. Let's talk. Let's make it real.
 
 There's never been a better time to start building.<br/>
 Cypherpunk future is now.
