@@ -147,7 +147,7 @@ There's never been a better time to start building. Cypherpunk future is now.
 [mesh-networked routers that sell internet access for sats]: https://tollgate.me/
 [FIPS]: https://fips.network/
 [Zapstore]: https://zapstore.dev/
-[Blossom]: https://github.com/hzrd149/blossom
+[Blossom]: https://github.com/hzrd149/awesome-blossom
 [Nsite]: https://nsite.run/
 [Napplets]: https://napplet.run/
 [Demo Days]: https://sovereignengineering.io/concept#demo-day
