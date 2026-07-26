@@ -119,9 +119,9 @@ seaworthy.)
 
 As I am typing these lines the eighth cohort, [SEC-08], is in full swing. We are
 blessed to have exceptional people participate once again: returning alumni like
-Balas, hzrd149, Sandwich, gzuuus, Shadrach, Zaza, and many more. And new
-participants, like Whisperhash and Julien, who I had the privilege of talking to
-for an extended period of time.
+Balas, [hzrd149], [Sandwich], [gzuuus], [Shadrach], Zaza, and many more. And new
+participants, like [Whisperhash] and [Julien], who I had the privilege of
+talking to for an extended period of time.
 
 My hope is that Sovereign Engineering will spread outwards, inspiring others to
 do a similar thing. A real thing, an in-person thing. Something with Dia-Logos
@@ -149,4 +149,10 @@ Cypherpunk future is now.
 [Demo Days]: https://sovereignengineering.io/concept#demo-day
 [walks]: https://sovereignengineering.io/concept#walks
 [SEC-08]: https://sovereignengineering.io/
+[hzrd149]: https://sovereignengineering.io/podcast/13-the-linux-of-social-media-w-hzrd149
+[Sandwich]: https://sovereignengineering.io/podcast/30-napplets-w-sandwich
+[gzuuus]: https://sovereignengineering.io/podcast/10-walking-with-jesus-w-gzuuus
+[Shadrach]: https://sovereignengineering.io/podcast/20-archipelago-meshtadels-w-shadrach
+[Whisperhash]: https://sovereignengineering.io/podcast/32-nostrology-w-whisperhash
+[Julien]: https://sovereignengineering.io/podcast/33-asmap-nix-and-nix-nostr-w-julien
 [reach out to us]: mailto:info@sovereignengineering.io
