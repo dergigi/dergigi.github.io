@@ -21,7 +21,7 @@ Dialogue is at the core of [Sovereign Engineering](https://sovereignengineering.
 
 From the get-go, the idea was to create an environment that is conducive to high-bandwidth communication, experimentation, and ideation. The overarching goal was and is one and the same: *implementation*. Creating—and shipping—new freedom tech.
 
-### The Problem of Creation
+## The Problem of Creation
 
 Why is dialogue so important? Because creating new things is *hard*. Innovation is *hard*. It doesn't just happen magically, and it most definitely doesn't happen on its own.
 
@@ -35,7 +35,7 @@ Writing words and code is now cheaper than ever, which means that having the rig
 
 That's what we want to provide: some guidance, and possibly even a *North Star* that orients you.
 
-### Creating Dialogue through Structure
+## Creating Dialogue through Structure
 
 But simply throwing a bunch of smart people in a room and hoping for the best is a recipe for chaos, not creation. Raw creative energy, uncontained, dissipates into nothingness. You need a structure—not a cage, but a container. A framework that channels the flow of dialogue, creates the conditions for serendipity, and acts as a midwife for new ideas.
 
@@ -45,7 +45,7 @@ In addition to this structured approach, the advent of LLMs and "vibe-coding" no
 
 Plus, thanks to agents getting reasonably good at coding, you don’t have to do the groundwork of sitting down for hours to produce a working prototype. You can literally [speak your ideas into existence](https://github.com/dergigi/vibeline), as we did in the last cohort. And once something exists, you can properly and meaningfully talk about it, and pursue it further—or not.
 
-### The Philosophy of Dialogue
+## The Philosophy of Dialogue
 
 Why this obsession with dialogue? Because top-down preaching has never worked (and never will). We don't want to preach what needs to be done. What we want is a dynamic, interactive program where anyone can participate and everyone has something to contribute.
 
@@ -67,7 +67,7 @@ We believe the internet is broken in more ways than one, and we believe that we 
 
 We are here to provide the fuel for your flame, but a flame needs to exist already. You need to be here for the right reasons, be self-motivated, and be truly excited about the things we are constantly talking about and working on.
 
-### Birthing new Ideas
+## Birthing new Ideas
 
 In the Socratic sense, we view the program as a midwife to new ideas, a midwife for new freedom tech. We are not here to tell people what to think or what to build. We are here to help them give birth to their own ideas.
 
@@ -75,11 +75,11 @@ When the right people come together—mission-aligned, motivated, and feeling sa
 
 We often joke that we want ideas to have sex so that new freedom tech can be born, and we're only half-joking when we're saying that. That’s, in a nutshell, what we're aiming for when running a Sovereign Engineering cohort.
 
-### Measuring Success
+## Measuring Success
 
 But just inspiration isn't enough, as every engineer knows. It is transpiration that makes things real. "Proof of Work," as some would call it.
 
-Our measure for success is simple: If projects born from the program make it out into the wild, we've succeeded. If they die on the vine, we've failed. And by that measure, the results speak for themselves: [Blossom](https://github.com/hzrd149/blossom), [Nutzaps](https://nips.nostr.com/61), [Cashu Wallets](https://nips.nostr.com/60), [Wikifreedia](https://wikifreedia.xyz), [npub.cash](http://npub.cash), [Nsite](https://nsite.run/), [TollGate](https://tollgate.me/), [Zapstore](https://zapstore.dev/), [and more](https://sovereignengineering.io/projects) are out in the wild, and thriving. And we are confident that this list will grow longer with each passing cohort.
+Our measure for success is simple: If projects born from the program make it out into the wild, we've succeeded. If they die on the vine, we've failed. And by that measure, the results speak for themselves: [Blossom](https://github.com/hzrd149/blossom), [Nutzaps](https://nips.nostr.com/61), [Cashu Wallets](https://nips.nostr.com/60), [Wikifreedia](https://wikifreedia.xyz), [npub.cash](https://npub.cash), [Nsite](https://nsite.run/), [TollGate](https://tollgate.me/), [Zapstore](https://zapstore.dev/), [and more](https://sovereignengineering.io/projects) are out in the wild, and thriving. And we are confident that this list will grow longer with each passing cohort.
 
 This will always be the ultimate test of our dialogues. It’s not about how many interesting conversations we have, or how many great ideas we come up with. It’s about what we create. It’s about the tangible impact we have on the world. It’s about building the tools that will help us build a freer and sovereign future.
 
