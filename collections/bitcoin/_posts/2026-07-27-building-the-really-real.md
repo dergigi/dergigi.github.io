@@ -136,7 +136,7 @@ There's never been a better time to start building. Cypherpunk future is now.
 [Sovereign Engineering]: https://sovereignengineering.io/
 [John Vervaeke]: https://johnvervaeke.com/
 [Awakening from the Meaning Crisis]: https://johnvervaeke.com/series/awakening-from-the-meaning-crisis/
-[David Bohm]: https://en.wikipedia.org/wiki/David_Bohm
+[David Bohm]: https://bohmdialogue.org/
 [David Bohm's book]: https://socraticdesignacademy.com/wp-content/uploads/2020/05/David-Bohm-On-Dialogue-.pdf
 [our library]: https://sovereignengineering.io/books
 [The Sovereign Individual]: https://archive.org/details/the-sovereign-individual
