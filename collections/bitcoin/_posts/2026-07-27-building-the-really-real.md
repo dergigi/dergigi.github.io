@@ -129,7 +129,7 @@ As I am typing these lines the eighth cohort, [SEC-08], is in full swing. We are
 blessed to have exceptional people participate once again: returning alumni like
 [hzrd149], [Sandwich], [gzuuus], [Shadrach], [gsovereignty], [Johnathan], [Yo],
 [Arjen], [Paul], and many more. And new participants, like [Whisperhash] and
-[Julien], who I had the privilege of talking to for an extended period of time.
+[Julien], who are still trying to figure out what they've got themselves into.
 
 My hope is that Sovereign Engineering will spread outwards, inspiring others to
 do a similar thing. A real thing, an in-person thing. Something with Dia-Logos
