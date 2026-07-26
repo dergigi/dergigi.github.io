@@ -141,7 +141,7 @@ learn more, or maybe even build your own dialogue-based engineering program,
 don't hesitate to [reach out to us]. Let's talk. Let's make it real.
 
 There's never been a better time to start building.<br/>
-The Cypherpunk future is now.
+Cypherpunk future is now.
 
 [Awakening from the Meaning Crisis]: https://johnvervaeke.com/series/awakening-from-the-meaning-crisis/
 [David Bohm]: https://bohmdialogue.org/
