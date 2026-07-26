@@ -98,8 +98,8 @@ enthusiasts all around the globe. And the same goes for [Zapstore], and
 of dialogue with the right people at the right time.
 
 So, what's our secret? Dialogue. That's the secret. The whole program is
-engineered to maximize dialogue, to get people out of their shell, to get
-everyone not only into the same room, but into the same mode, on the same
+[engineered to maximize dialogue](/dialogue), to get people out of their shell,
+to get everyone not only into the same room, but into the same mode, on the same
 journey. We do [Demo Days] because it's easier to talk about an idea if it is
 material, if it exists in the world, if there's a prototype that you can play
 around with, even hold in your hand. We have Beefsteak-style barbecues because
