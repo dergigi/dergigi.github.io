@@ -84,11 +84,12 @@ now SpaceX. We quickly realized that we had to build an alternative network
 stack from the ground up, as grandiose as that sounds.
 
 It started with [mesh-networked routers that sell internet access for sats], and
-culminated in a new way to build self-organizing ad-hoc networks. Networks that
-work independently of the underlying transport layer, whether it be ethernet
-cables, Bluetooth, LORA, Tor, direct WiFi, or even sound waves. Without relying
-on IP addresses, DNS authorities, or any other entity that might be able to
-rug-pull you. Device to device, self-organizing, peer-to-peer. As it should be.
+culminated in [a new way to build self-organizing ad-hoc networks][FIPS].
+Networks that work independently of the underlying transport layer, whether it
+be ethernet cables, Bluetooth, LORA, Tor, direct WiFi, or even sound waves.
+Without relying on IP addresses, DNS authorities, or any other entity that might
+be able to rug-pull you. Device to device, self-organizing, peer-to-peer. As it
+should be.
 
 While [FIPS] is still in its early days, it is amazing to see that something that
 was a crazy idea just a couple months ago is now live, with nodes and
