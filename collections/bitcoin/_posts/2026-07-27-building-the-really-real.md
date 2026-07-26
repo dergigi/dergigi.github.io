@@ -76,7 +76,15 @@ from you, at any time, for any reason. Just like your bank account can be frozen
 at any time, for any reason.
 
 Why build your digital life on quicksand, when you have the option to build it
-on a rock?
+on a rock? Why rely on middlemen to tell you what is real, what is acceptable,
+who you can talk to and connect to? Why entrust your digital existence to a
+central authority? Why view the world through a lens that isn't yours?
+
+Proof-of-work is what brings reality to cyberspace, and web-of-trust does the
+rest on the social side. Combine the two and you have something that's more
+real, more trustworthy, more worthy of your time and attention than the
+military-grade propaganda that's presented to you in the
+advertisement-industrial complex.
 
 Bitcoin and Nostr aren't the only things we care about, of course. The internet
 is a permissioned system in itself, from ICANN and DNS to undersea cables and
