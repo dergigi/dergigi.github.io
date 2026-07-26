@@ -14,21 +14,21 @@ tags:
 - nostr
 ---
 
-Sovereign Engineering exists because of one guy: John Vervaeke. Few people know
-about him, even fewer people can pronounce his name properly, and even though
-I've been ranting and raving about him and his work for the last 5 years or so,
-I doubt that more than a handful of people have actually listened to his
+[Sovereign Engineering] exists because of one guy: [John Vervaeke]. Few people
+know about him, even fewer people can pronounce his name properly, and even
+though I've been ranting and raving about him and his work for the last 5 years
+or so, I doubt that more than a handful of people have actually listened to his
 lectures and ingested his vast body of work. (If this is you, please stop
-reading this paragraph and start watching "Awakening from the Meaning Crisis,"
+reading this paragraph and start watching "[Awakening from the Meaning Crisis],"
 which is probably the best entry point into the world of John Vervaeke.)
 
 Without John Vervaeke, Sovereign Engineering would be a very different program.
 It probably wouldn't be centered around dialogue. Dialogue in the Dia-Logos
-sense; Bohmian dialogue, as described and pioneered by David Bohm.
+sense; Bohmian dialogue, as described and pioneered by [David Bohm].
 
-There is a reason why David Bohm's book is featured in our library, along with
-"The Sovereign Individual," "The Cathedral and the Bazaar," and "Free Software,
-Free Society." These books are important, as is proper dialogue.
+There is a reason why [David Bohm's book] is featured in [our library], along
+with "[The Sovereign Individual]," "[The Cathedral and the Bazaar]," and "[Free
+Software, Free Society]." These books are important, as is proper dialogue.
 
 The technological world is changing, and it is changing fast. Established
 patterns and concepts are breaking down, which means that communication and
@@ -38,7 +38,7 @@ confusing by the day. The hyper-fragmented world that the internet brought about
 of the current social media landscape brought about) makes it almost impossible
 to communicate between echo-chambers.
 
-And now that LLMs are ubiquitous and sloppifying large parts of the internet,
+And now that LLMs are ubiquitous and [sloppifying] large parts of the internet,
 most people aren't even sure if there is a real flesh-and-blood human on the
 other side. And who can blame them? More often than not, there isn't.
 
@@ -69,7 +69,7 @@ that they can neither be touched or held. Nevertheless, it is more real than the
 paper bills that most people call "money," or the credit cards that we use to
 pay for our groceries.
 
-Nostr is similar, in the sense that your nostr identity is more real than your
+[Nostr] is similar, in the sense that your nostr identity is more real than your
 handle on X, or Instagram, or Facebook, or LinkedIn, or YouTube, or TikTok, or
 whatever the social media platform of your choice. Your handle can be taken away
 from you, at any time, for any reason. Just like your bank account can be frozen
@@ -83,29 +83,29 @@ is a permissioned system in itself, from ICANN and DNS to undersea cables and
 now SpaceX. We quickly realized that we had to build an alternative network
 stack from the ground up, as grandiose as that sounds.
 
-It started with mesh-networked routers that sell internet access for sats, and
+It started with [mesh-networked routers that sell internet access for sats], and
 culminated in a new way to build self-organizing ad-hoc networks. Networks that
 work independently of the underlying transport layer, whether it be ethernet
 cables, Bluetooth, LORA, Tor, direct WiFi, or even sound waves. Without relying
 on IP addresses, DNS authorities, or any other entity that might be able to
 rug-pull you. Device to device, self-organizing, peer-to-peer. As it should be.
 
-While FIPS is still in its early days, it is amazing to see that something that
+While [FIPS] is still in its early days, it is amazing to see that something that
 was a crazy idea just a couple months ago is now live, with nodes and
-enthusiasts all around the globe. And the same goes for Zapstore, and Blossom,
-and Nsite, and Napplets, and many other things that were born out of dialogue
-with the right people at the right time.
+enthusiasts all around the globe. And the same goes for [Zapstore], and
+[Blossom], and [Nsite], and [Napplets], and many other things that were born out
+of dialogue with the right people at the right time.
 
 So, what's our secret? Dialogue. That's the secret. The whole program is
 engineered to maximize dialogue, to get people out of their shell, to get
 everyone not only into the same room, but into the same mode, on the same
-journey. We do Demo Days because it's easier to talk about an idea if it is
+journey. We do [Demo Days] because it's easier to talk about an idea if it is
 material, if it exists in the world, if there's a prototype that you can play
-around with, even hold in your hand. We have Beefsteak-style barbecues because
+around with, even hold in your hand. We have [Beefsteak-style] barbecues because
 it is a wonderful format to have free-flowing conversations about what we worked
 on this week. No sitting in a restaurant, but standing in small, fluid groups
-that automatically and organically assemble and disassemble. We go on walks for
-the same reason: it's incredibly easy to talk to people on a walk, to have a
+that automatically and organically assemble and disassemble. We go on [walks]
+for the same reason: it's incredibly easy to talk to people on a walk, to have a
 flowing conversation, to have a proper dialogue in the Dia-Logos sense. To talk
 about something without an agenda, without a goal in mind, letting the
 conversation - the Logos - take you where it may. We provide some structure at
@@ -116,7 +116,7 @@ at the venue, or at a coffee shop, or a restaurant, or a flat, or even a boat.
 (Boats aren't the best vessels for Dia-logos, however. Not everyone is
 seaworthy.)
 
-As I am typing these lines the eighth cohort, SEC-08, is in full swing. We are
+As I am typing these lines the eighth cohort, [SEC-08], is in full swing. We are
 blessed to have exceptional people participate once again: returning alumni like
 Balas, hzrd149, Sandwich, gzuuus, Shadrach, Zaza, and many more. And new
 participants, like Whisperhash and Julien, who I had the privilege of talking to
@@ -129,6 +129,29 @@ rejuvenate something old. Something special.
 
 If you're interested in entering into dialogue with us, to help spread the word,
 learn more, or maybe even build your own dialogue-based engineering program,
-don't hesitate to reach out to us.
+don't hesitate to [reach out to us].
 
 There's never been a better time to start building. Cypherpunk future is now.
+
+[Sovereign Engineering]: https://sovereignengineering.io/
+[John Vervaeke]: https://johnvervaeke.com/
+[Awakening from the Meaning Crisis]: https://johnvervaeke.com/series/awakening-from-the-meaning-crisis/
+[David Bohm]: https://en.wikipedia.org/wiki/David_Bohm
+[David Bohm's book]: https://socraticdesignacademy.com/wp-content/uploads/2020/05/David-Bohm-On-Dialogue-.pdf
+[our library]: https://sovereignengineering.io/books
+[The Sovereign Individual]: https://archive.org/details/the-sovereign-individual
+[The Cathedral and the Bazaar]: http://www.catb.org/~esr/writings/cathedral-bazaar/
+[Free Software, Free Society]: https://www.gnu.org/philosophy/fsfs/rms-essays.pdf
+[sloppifying]: /sloppypasta
+[Nostr]: https://nostr.com/
+[mesh-networked routers that sell internet access for sats]: https://tollgate.me/
+[FIPS]: https://fips.network/
+[Zapstore]: https://zapstore.dev/
+[Blossom]: https://github.com/hzrd149/blossom
+[Nsite]: https://nsite.run/
+[Napplets]: https://napplet.run/
+[Demo Days]: https://sovereignengineering.io/concept#demo-day
+[Beefsteak-style]: https://archive.is/S3LjP
+[walks]: https://sovereignengineering.io/concept#walks
+[SEC-08]: https://sovereignengineering.io/
+[reach out to us]: mailto:info@sovereignengineering.io
