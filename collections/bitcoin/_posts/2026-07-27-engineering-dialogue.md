@@ -143,7 +143,7 @@ There's never been a better time to start building. Cypherpunk future is now.
 [The Cathedral and the Bazaar]: http://www.catb.org/~esr/writings/cathedral-bazaar/
 [Free Software, Free Society]: https://www.gnu.org/philosophy/fsfs/rms-essays.pdf
 [sloppifying]: /sloppypasta
-[Nostr]: https://nostr.com/
+[Nostr]: /nostr
 [mesh-networked routers that sell internet access for sats]: https://tollgate.me/
 [FIPS]: https://fips.network/
 [Zapstore]: https://zapstore.dev/
