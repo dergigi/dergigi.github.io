@@ -101,7 +101,7 @@ engineered to maximize dialogue, to get people out of their shell, to get
 everyone not only into the same room, but into the same mode, on the same
 journey. We do [Demo Days] because it's easier to talk about an idea if it is
 material, if it exists in the world, if there's a prototype that you can play
-around with, even hold in your hand. We have [Beefsteak-style] barbecues because
+around with, even hold in your hand. We have Beefsteak-style barbecues because
 it is a wonderful format to have free-flowing conversations about what we worked
 on this week. No sitting in a restaurant, but standing in small, fluid groups
 that automatically and organically assemble and disassemble. We go on [walks]
@@ -145,7 +145,6 @@ There's never been a better time to start building. Cypherpunk future is now.
 [Nsite]: https://nsite.run/
 [Napplets]: https://napplet.run/
 [Demo Days]: https://sovereignengineering.io/concept#demo-day
-[Beefsteak-style]: https://archive.is/S3LjP
 [walks]: https://sovereignengineering.io/concept#walks
 [SEC-08]: https://sovereignengineering.io/
 [reach out to us]: mailto:info@sovereignengineering.io
