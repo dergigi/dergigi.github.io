@@ -26,9 +26,9 @@ Without John Vervaeke, Sovereign Engineering would be a very different program.
 It probably wouldn't be centered around dialogue. Dialogue in the Dia-Logos
 sense; Bohmian dialogue, as described and pioneered by [David Bohm].
 
-There is a reason why [David Bohm's book] is featured in [our library], along
-with "[The Sovereign Individual]," "[The Cathedral and the Bazaar]," and "[Free
-Software, Free Society]." These books are important, as is proper dialogue.
+There is a reason why David Bohm's book is featured in [our library], along
+with "The Sovereign Individual," "The Cathedral and the Bazaar," and "Free
+Software, Free Society." These books are important, as is proper dialogue.
 
 The technological world is changing, and it is changing fast. Established
 patterns and concepts are breaking down, which means that communication and
@@ -135,11 +135,7 @@ There's never been a better time to start building. Cypherpunk future is now.
 
 [Awakening from the Meaning Crisis]: https://johnvervaeke.com/series/awakening-from-the-meaning-crisis/
 [David Bohm]: https://bohmdialogue.org/
-[David Bohm's book]: https://socraticdesignacademy.com/wp-content/uploads/2020/05/David-Bohm-On-Dialogue-.pdf
 [our library]: https://sovereignengineering.io/books
-[The Sovereign Individual]: https://archive.org/details/the-sovereign-individual
-[The Cathedral and the Bazaar]: http://www.catb.org/~esr/writings/cathedral-bazaar/
-[Free Software, Free Society]: https://www.gnu.org/philosophy/fsfs/rms-essays.pdf
 [sloppifying]: /sloppypasta
 [Nostr]: /nostr
 [mesh-networked routers that sell internet access for sats]: https://tollgate.me/
