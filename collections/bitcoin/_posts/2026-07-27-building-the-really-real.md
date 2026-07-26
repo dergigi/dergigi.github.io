@@ -119,9 +119,10 @@ seaworthy.)
 
 As I am typing these lines the eighth cohort, [SEC-08], is in full swing. We are
 blessed to have exceptional people participate once again: returning alumni like
-Balas, [hzrd149], [Sandwich], [gzuuus], [Shadrach], Zaza, and many more. And new
-participants, like [Whisperhash] and [Julien], who I had the privilege of
-talking to for an extended period of time.
+Balas, [hzrd149], [Sandwich], [gzuuus], [Shadrach], Zaza, [gsovereignty],
+[Johnathan], [Yo], [Arjen], [Paul], and many more. And new participants, like
+[Whisperhash] and [Julien], who I had the privilege of talking to for an
+extended period of time.
 
 My hope is that Sovereign Engineering will spread outwards, inspiring others to
 do a similar thing. A real thing, an in-person thing. Something with Dia-Logos
@@ -153,6 +154,11 @@ Cypherpunk future is now.
 [Sandwich]: https://sovereignengineering.io/podcast/30-napplets-w-sandwich
 [gzuuus]: https://sovereignengineering.io/podcast/10-walking-with-jesus-w-gzuuus
 [Shadrach]: https://sovereignengineering.io/podcast/20-archipelago-meshtadels-w-shadrach
+[gsovereignty]: https://sovereignengineering.io/podcast/27-separation-of-business-from-state-w-gsovereignty
+[Johnathan]: https://sovereignengineering.io/podcast/24-building-fips-w-johnathan-corgan
+[Yo]: https://sovereignengineering.io/podcast/22-sovereign-engineering-w-yo
+[Arjen]: https://sovereignengineering.io/podcast/17-organic-tech-w-arjen
+[Paul]: https://sovereignengineering.io/podcast/05-prompt-pray-w-paul
 [Whisperhash]: https://sovereignengineering.io/podcast/32-nostrology-w-whisperhash
 [Julien]: https://sovereignengineering.io/podcast/33-asmap-nix-and-nix-nostr-w-julien
 [reach out to us]: mailto:info@sovereignengineering.io
