@@ -86,7 +86,7 @@ stack from the ground up, as grandiose as that sounds.
 It started with [mesh-networked routers that sell internet access for sats], and
 culminated in [a new way to build self-organizing ad-hoc networks][FIPS].
 Networks that work independently of the underlying transport layer, whether it
-be ethernet cables, Bluetooth, LORA, Tor, direct WiFi, or even sound waves.
+be ethernet cables, Bluetooth, LoRa, Tor, direct WiFi, or even sound waves.
 Without relying on IP addresses, DNS authorities, or any other entity that might
 be able to rug-pull you. Device to device, self-organizing, peer-to-peer. As it
 should be.
@@ -119,10 +119,9 @@ seaworthy.)
 
 As I am typing these lines the eighth cohort, [SEC-08], is in full swing. We are
 blessed to have exceptional people participate once again: returning alumni like
-Balas, [hzrd149], [Sandwich], [gzuuus], [Shadrach], Zaza, [gsovereignty],
-[Johnathan], [Yo], [Arjen], [Paul], and many more. And new participants, like
-[Whisperhash] and [Julien], who I had the privilege of talking to for an
-extended period of time.
+[hzrd149], [Sandwich], [gzuuus], [Shadrach], [gsovereignty], [Johnathan], [Yo],
+[Arjen], [Paul], and many more. And new participants, like [Whisperhash] and
+[Julien], who I had the privilege of talking to for an extended period of time.
 
 My hope is that Sovereign Engineering will spread outwards, inspiring others to
 do a similar thing. A real thing, an in-person thing. Something with Dia-Logos
