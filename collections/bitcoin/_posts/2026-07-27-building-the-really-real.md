@@ -6,7 +6,7 @@ description: "Sovereign Engineering exists because of dialogue. Here's why."
 date: 2026-07-27
 blocktime: 959752
 image: "/assets/images/really-real.jpg"
-redirect_from: "/really-real"
+redirect_from: "/building"
 author: Gigi
 category: nostr
 tags:
