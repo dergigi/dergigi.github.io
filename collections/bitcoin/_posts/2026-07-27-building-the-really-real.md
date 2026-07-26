@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building the Really Real
-subtitle: "On Dia-Logos and building in person"
+subtitle: "On levels of realness in cyberspace"
 description: "Sovereign Engineering exists because of dialogue. Here's why."
 date: 2026-07-27
 blocktime: 959752
