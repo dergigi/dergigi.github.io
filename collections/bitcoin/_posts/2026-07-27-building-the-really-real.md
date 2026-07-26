@@ -61,7 +61,7 @@ examples he often talks about, I want to borrow this concept and talk about
 levels of realness in cyberspace, if you will.
 
 Bitcoin is real to me, more real than most things. I think that most bitcoiners,
-i.e. those that have been around the orange coin for some time and understand
+i.e. those who have been around the orange coin for some time and understand
 how the system bootstraps itself into being, would agree. Bitcoin is not a
 simulation, nor is it made up out of thin air. It is rooted in and related to
 physical reality, even though the fruits of the network are ethereal, meaning
@@ -125,7 +125,7 @@ at the venue, or at a coffee shop, or a restaurant, or a flat, or even a boat.
 (Boats aren't the best vessels for Dia-Logos, however. Not everyone is
 seaworthy.)
 
-As I am typing these lines the eighth cohort, [SEC-08], is in full swing. We are
+As I am typing these lines, the eighth cohort, [SEC-08], is in full swing. We are
 blessed to have exceptional people participate once again: returning alumni like
 [hzrd149], [Sandwich], [gzuuus], [Shadrach], [gsovereignty], [Johnathan], [Yo],
 [Arjen], [Paul], and many more. And new participants, like [Whisperhash] and
@@ -141,7 +141,7 @@ learn more, or maybe even build your own dialogue-based engineering program,
 don't hesitate to [reach out to us]. Let's talk. Let's make it real.
 
 There's never been a better time to start building.<br/>
-Cypherpunk future is now.
+The Cypherpunk future is now.
 
 [Awakening from the Meaning Crisis]: https://johnvervaeke.com/series/awakening-from-the-meaning-crisis/
 [David Bohm]: https://bohmdialogue.org/
