@@ -14,7 +14,7 @@ tags:
 - nostr
 ---
 
-[Sovereign Engineering] exists because of one guy: [John Vervaeke]. Few people
+Sovereign Engineering exists because of one guy: John Vervaeke. Few people
 know about him, even fewer people can pronounce his name properly, and even
 though I've been ranting and raving about him and his work for the last 5 years
 or so, I doubt that more than a handful of people have actually listened to his
@@ -133,8 +133,6 @@ don't hesitate to [reach out to us].
 
 There's never been a better time to start building. Cypherpunk future is now.
 
-[Sovereign Engineering]: https://sovereignengineering.io/
-[John Vervaeke]: https://johnvervaeke.com/
 [Awakening from the Meaning Crisis]: https://johnvervaeke.com/series/awakening-from-the-meaning-crisis/
 [David Bohm]: https://bohmdialogue.org/
 [David Bohm's book]: https://socraticdesignacademy.com/wp-content/uploads/2020/05/David-Bohm-On-Dialogue-.pdf
