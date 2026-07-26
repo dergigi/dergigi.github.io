@@ -149,7 +149,7 @@ Cypherpunk future is now.
 [Napplets]: https://napplet.run/
 [Demo Days]: https://sovereignengineering.io/concept#demo-day
 [walks]: https://sovereignengineering.io/concept#walks
-[SEC-08]: https://sovereignengineering.io/
+[SEC-08]: https://primal.net/soveng/sec-08-yolo
 [hzrd149]: https://sovereignengineering.io/podcast/13-the-linux-of-social-media-w-hzrd149
 [Sandwich]: https://sovereignengineering.io/podcast/30-napplets-w-sandwich
 [gzuuus]: https://sovereignengineering.io/podcast/10-walking-with-jesus-w-gzuuus
