@@ -47,7 +47,7 @@ people, almost all people, in fact, will prefer an uncomfortable truth over a
 comforting lie. He often cites the one experiment that he does with his
 students, asking everyone whether they are in a long-term romantic relationship,
 a relationship that means a lot to them and makes them happy. Hands go up. He
-goes on to ask whether those who have their hands would like to know whether
+goes on to ask whether those who have their hands up would like to know whether
 their partner cheats on them, even if it would mean the destruction of the
 relationship. 95% will keep their hand up. Why? Because they don't want to live
 a lie. They want the relationship to be real. Really real.
@@ -65,7 +65,7 @@ i.e. those that have been around the orange coin for some time and understand
 how the system bootstraps itself into being, would agree. Bitcoin is not a
 simulation, nor is it made up out of thin air. It is rooted in and related to
 physical reality, even though the fruits of the network are ethereal, meaning
-that they can neither be touched or held. Nevertheless, it is more real than the
+that they can neither be touched nor held. Nevertheless, it is more real than the
 paper bills that most people call "money," or the credit cards that we use to
 pay for our groceries.
 
@@ -114,7 +114,7 @@ the beginning of the week to properly orient the group, giving plenty of
 opportunities to share knowledge and have high-bandwidth interactions. Talks,
 workshops, and of course lots of spontaneous breakout sessions that might happen
 at the venue, or at a coffee shop, or a restaurant, or a flat, or even a boat.
-(Boats aren't the best vessels for Dia-logos, however. Not everyone is
+(Boats aren't the best vessels for Dia-Logos, however. Not everyone is
 seaworthy.)
 
 As I am typing these lines the eighth cohort, [SEC-08], is in full swing. We are
