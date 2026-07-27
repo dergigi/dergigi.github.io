@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Building the Really Real
-subtitle: "Vervaeke, Dia-Logos, and levels of realness in cyberspace"
-description: "Bitcoin, Nostr, and building things real enough to trust."
+subtitle: Vervaeke, Dia-Logos, and levels of realness in cyberspace
+description: Bitcoin, Nostr, and building things real enough to trust.
 date: 2026-07-27
 blocktime: 959752
 image: "/assets/images/really-real.jpg"
@@ -12,6 +12,7 @@ category: nostr
 tags:
 - Writing
 - nostr
+boris_link: https://read.withboris.com/a/naddr1qqvxyatfd3jxjmn8946xsefdwfjkzmrv0ykhyetpdspzpq7enxs5scju854msxd0xpjvpa4p94763rmgktrfyg0n5arpw8geqvzqqqr4gul5pl9u
 ---
 
 Sovereign Engineering exists because of one guy: John Vervaeke. Few people
