@@ -40,7 +40,7 @@ corners. Geohot's blog is one such corner that I rediscovered recently. Oh,
 what a joy to read something human from an actual human. His stuff makes me cry,
 laugh, and everything in between. Sometimes I have to shake my head in
 disbelief, sometimes it resonates so deeply I have to step outside and smoke a
-cigarette (I don't smoke. Turns out it's bad for you.[^fn-smoke])
+cigarette.[^fn-smoke]
 
 This one, for example:
 
@@ -111,7 +111,7 @@ Less prompting, more typing.
 ---
 
 [^fn-keyboard]: It's a LoFree one, the [FLOW Lite 84][lofree], to be precise. And I use it mostly in combination with my [GrapheneOS][grapheneos] phone.
-[^fn-smoke]: You have to read the fine print. <https://youtu.be/zBmIoUO7_Gc>
+[^fn-smoke]: I don't smoke. Turns out it's bad for you. <https://youtu.be/zBmIoUO7_Gc>
 [^fn-aaron]: Watch [The Internet's Own Boy][internets-own-boy] if you don't know about his story.
 
 [lofree]: https://www.lofree.co/products/flow-lite84-mechanical-keyboard
