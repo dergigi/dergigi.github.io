@@ -51,7 +51,7 @@ and my being.
 
 {% include image.html name="most-important-thing.png" otherPost="2024-02-03-lethargy" %}
 
-Aaron was an idealist. They killed him for it. An idealist like [Michael
+Aaron was an idealist, and they killed him for it. An idealist like [Michael
 Enger][enger] is an idealist, who wrote the following not too long ago:
 
 > The Internet, built by idealists on a foundation of openness and community,
