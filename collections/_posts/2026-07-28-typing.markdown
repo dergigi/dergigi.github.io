@@ -50,7 +50,7 @@ cigarette (I don't smoke. Turns out it's bad for you.[^fn-smoke])
 > further into dependence?
 
 Yes. Fuck yes. It's what Aaron used to say. It's what orients my life, my work,
-and my being.
+and my being. I still have his quote on my office wall: 
 
 {% include image.html name="most-important-thing.png" otherPost="2024-02-03-lethargy" %}
 
