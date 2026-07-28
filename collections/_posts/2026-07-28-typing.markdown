@@ -93,8 +93,9 @@ to express their soul. And fuck the prompts too.
 
 Less prompting, more typing.
 
-[^fn-keyboard]: It's a LoFree one, the FLOW Lite 84, to be precise. And I use it mostly in combination with my GrapheneOS phone.
+[^fn-keyboard]: It's a LoFree one, the [FLOW Lite 84][lofree], to be precise. And I use it mostly in combination with my GrapheneOS phone.
 
+[lofree]: https://www.lofree.co/products/flow-lite84-mechanical-keyboard
 [geohot-war]: https://geohot.github.io/blog/jekyll/update/2026/06/06/our-great-war.html
 [enger]: https://michaelenger.com/blog/i-love-the-computer/
 [zap]: https://youtu.be/4usXBGvufKg
