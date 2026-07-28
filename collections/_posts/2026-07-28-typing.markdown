@@ -69,7 +69,7 @@ Michael Enger, who wrote the following not too long ago:
 Yes. Time and attention. Terrible currencies, for reasons I've outlined [in this
 talk][zap]. "You wouldn't zap a car crash" and all that.
 
-I've also re-read [the declaration of independence in cyberspace][barlow] today.
+I've also re-read _A Declaration of the Independence of Cyberspace_ today.
 It talks about "the global social space we are building to be naturally
 independent of the tyrannies" the world tries to impose on us.
 
