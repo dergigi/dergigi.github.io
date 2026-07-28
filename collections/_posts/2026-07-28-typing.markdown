@@ -69,12 +69,14 @@ Michael Enger, who wrote the following not too long ago:
 Yes. Time and attention. Terrible currencies, for reasons I've outlined [in this
 talk][zap]. "You wouldn't zap a car crash" and all that.
 
-I've also re-read the declaration of independence in cyberspace today:
+I've also re-read [the declaration of independence in cyberspace][barlow] today.
+It talks about "the global social space we are building to be naturally
+independent of the tyrannies" the world tries to impose on us.
 
 > A world where anyone, anywhere may express his or her beliefs, no matter how
 > singular, without fear of being coerced into silence or conformity.
 >
-> <cite>[John Perry Barlow]</cite>
+> <cite>[John Perry Barlow][barlow]</cite>
 
 Another tear. Another cigarette.
 
@@ -112,5 +114,5 @@ Less prompting, more typing.
 [geohot]: https://geohot.github.io/blog/jekyll/update/2026/06/06/our-great-war.html
 [Michael Enger]: https://michaelenger.com/blog/i-love-the-computer/
 [zap]: /carcrash
-[John Perry Barlow]: https://www.eff.org/cyberspace-independence
+[barlow]: https://www.eff.org/cyberspace-independence
 [internets-own-boy]: https://duckduckgo.com/?q=the+internet%27s+own+boy
