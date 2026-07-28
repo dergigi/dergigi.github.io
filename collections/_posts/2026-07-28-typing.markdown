@@ -56,7 +56,7 @@ and my being. I still have his quote on my office wall:
 
 {% include image.html name="most-important-thing.png" otherPost="2024-02-03-lethargy" %}
 
-Aaron was an idealist, and they killed him[^fn-aaron] for it. An idealist like
+Aaron was an idealist, and they killed him for it.[^fn-aaron] An idealist like
 Michael Enger, who wrote the following not too long ago:
 
 > The Internet, built by idealists on a foundation of openness and community,
