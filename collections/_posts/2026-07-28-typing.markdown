@@ -51,7 +51,7 @@ and my being.
 
 {% include image.html name="most-important-thing.png" otherPost="2024-02-03-lethargy" %}
 
-Aaron was an idealist, and they killed him for it. An idealist like [Michael
+Aaron was an idealist, and they killed him[^fn-aaron] for it. An idealist like [Michael
 Enger][enger] is an idealist, who wrote the following not too long ago:
 
 > The Internet, built by idealists on a foundation of openness and community,
@@ -96,9 +96,11 @@ Less prompting, more typing.
 ---
 
 [^fn-keyboard]: It's a LoFree one, the [FLOW Lite 84][lofree], to be precise. And I use it mostly in combination with my GrapheneOS phone.
+[^fn-aaron]: Watch [The Internet's Own Boy][internets-own-boy] if you don't know about his story.
 
 [lofree]: https://www.lofree.co/products/flow-lite84-mechanical-keyboard
 [geohot-war]: https://geohot.github.io/blog/jekyll/update/2026/06/06/our-great-war.html
 [enger]: https://michaelenger.com/blog/i-love-the-computer/
 [zap]: https://youtu.be/4usXBGvufKg
 [barlow]: https://www.eff.org/cyberspace-independence
+[internets-own-boy]: https://duckduckgo.com/?q=the+internet%27s+own+boy
