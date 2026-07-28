@@ -86,7 +86,7 @@ Give me human expression.
 Serve it without a filter.  
 Give it to me raw.
 
-I'm not sure what's left of the internet, but I vow to focus my time and energy
+I'm not sure [what's left of the internet](/internet), but I vow to focus my time and energy
 on creating the new, opting out of the old. No algorithmic feeds. No doom
 scrolling. No auto-play, endless ads, rage bait discussions, short-form video
 brain rot, dark patterns and walled gardens.
