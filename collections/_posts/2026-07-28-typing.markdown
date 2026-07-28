@@ -110,6 +110,6 @@ Less prompting, more typing.
 [grapheneos]: https://opensats.org/projects/grapheneos
 [geohot]: https://geohot.github.io/blog/jekyll/update/2026/06/06/our-great-war.html
 [Michael Enger]: https://michaelenger.com/blog/i-love-the-computer/
-[zap]: https://youtu.be/4usXBGvufKg
+[zap]: /carcrash
 [barlow]: https://www.eff.org/cyberspace-independence
 [internets-own-boy]: https://duckduckgo.com/?q=the+internet%27s+own+boy
