@@ -95,11 +95,12 @@ Less prompting, more typing.
 
 ---
 
-[^fn-keyboard]: It's a LoFree one, the [FLOW Lite 84][lofree], to be precise. And I use it mostly in combination with my GrapheneOS phone.
+[^fn-keyboard]: It's a LoFree one, the [FLOW Lite 84][lofree], to be precise. And I use it mostly in combination with my [GrapheneOS][grapheneos] phone.
 [^fn-smoke]: You have to read the fine print. <https://youtu.be/zBmIoUO7_Gc>
 [^fn-aaron]: Watch [The Internet's Own Boy][internets-own-boy] if you don't know about his story.
 
 [lofree]: https://www.lofree.co/products/flow-lite84-mechanical-keyboard
+[grapheneos]: https://opensats.org/projects/grapheneos
 [geohot-war]: https://geohot.github.io/blog/jekyll/update/2026/06/06/our-great-war.html
 [enger]: https://michaelenger.com/blog/i-love-the-computer/
 [zap]: https://youtu.be/4usXBGvufKg
