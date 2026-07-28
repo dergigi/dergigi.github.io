@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Typing"
+redirect_from: /typing
+date: 2026-07-28
+description: ""
+image: /assets/images/typing.jpg
+author: Gigi
+category: blog
+tags:
+  - Personal
+  - ai
+---
+
