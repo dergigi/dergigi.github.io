@@ -3,7 +3,7 @@ layout: post
 title: "Typing"
 redirect_from: /typing
 date: 2026-07-28
-description: ""
+description: "Less prompting, more typing."
 image: /assets/images/typing.jpg
 author: Gigi
 category: blog
@@ -12,3 +12,91 @@ tags:
   - ai
 ---
 
+Typing at midnight, just for the sake of it.
+
+I got a new keyboard recently. It's something I don't do often: buying stuff for
+myself. I never spent money since I never had any, and I'm still terrible at
+spending money. But a couple of weeks ago I was like "fuck it," and I pulled the
+trigger, and it was one of the best decisions I've made in recent months.
+
+Why, you ask? Because for the first time in what feels like forever I actually
+have _fun_ typing. Just typing. Not writing, not working, not trying to create
+anything of substance, but just _typing_. Clickedy-clickedy-clack. It's so
+satisfying.
+
+I always wanted to write more, and I always failed. I tried many things: voice
+notes, taking my laptop with me, scheduling time to sit down and write, taking
+notebooks with me (and taking lots of notes). Nothing ever resulted in as much
+typing as this little keyboard that I got.[^fn-keyboard]
+
+---
+
+Human expression is what made the internet great, even wonderful. There's still
+corners of the internet where this is the case, and we must cherish those
+corners. Geohot's blog is one of these corners that I rediscovered recently. Oh,
+what a joy to read something human from an actual human. His stuff makes me cry,
+laugh, and everything in between. Sometimes I have to shake my head in
+disbelief, sometimes it resonates so deeply I have to step outside and smoke a
+cigarette (I don't smoke. Turns out it's bad for you.)
+
+[This one][geohot-war], for example:
+
+> Inside of every person there is the citizen and the serf. Ask yourself which
+> side of this you are on and what you are spending your days building towards.
+> Technology that makes people more sovereign, or technology that lures them
+> further into dependence?
+
+Yes. Fuck yes. It's what Aaron used to say. It's what orients my life, my work,
+and my being.
+
+{% include image.html name="most-important-thing.png" otherPost="2024-02-03-lethargy" %}
+
+Aaron was an idealist. They killed him for it. An idealist like [Michael
+Enger][enger] is an idealist, who wrote the following not too long ago:
+
+> The Internet, built by idealists on a foundation of openness and community,
+> has become a mire of dark patterns and gardens with ever thicker walls,
+> desperate to keep people within an ecosystem where their attention is the
+> prized commodity.
+
+Yes. Time and attention. Terrible currencies, for reasons I've outlined [in this
+talk][zap]. "You wouldn't zap a car crash" and all that.
+
+I've also re-read [the declaration of independence in cyberspace][barlow] today.
+It talks about "the global social space we are building to be naturally
+independent of the tyrannies" the world tries to impose on us. "A world where
+anyone, anywhere may express his or her beliefs, no matter how singular, without
+fear of being coerced into silence or conformity."
+
+Another tear. Another cigarette.
+
+No LLM slop ever did anything close to this to me, nor will it. No matter how
+"refined" it supposedly is. The late-stage industrial slop that is served to us
+as "content" right now is an insult to our human nature; an insult to free
+expression; to Truth, and Beauty, and Goodness. To being itself.
+
+Give me human expression.  
+Serve it without a filter.  
+Give it to me raw.
+
+I'm not sure what's left of the internet, but I vow to focus my time and energy
+to creating the new, opting out of the old. No algorithmic feeds. No doom
+scrolling. No auto-play, endless ads, rage bait discussions, short-form video
+brain rot, dark patterns and walled gardens.
+
+No accounts. No asking for permission. Just me and my keyboard, typing away,
+pushing signed notes into cyberspace. Written by me, as imperfect as my writing
+may be. 100% organic.
+
+Fuck the clankers. They might be able to code, but they can't bleed on the page
+to express their soul. And fuck the prompts too.
+
+Less prompting, more typing.
+
+[^fn-keyboard]: It's a LoFree one, the FLOW Lite 84, to be precise. And I use it
+mostly in combination with my GrapheneOS phone.
+
+[geohot-war]: https://geohot.github.io/blog/jekyll/update/2026/06/06/our-great-war.html
+[enger]: https://michaelenger.com/blog/i-love-the-computer/
+[zap]: https://youtu.be/4usXBGvufKg
+[barlow]: https://www.eff.org/cyberspace-independence
