@@ -42,25 +42,29 @@ laugh, and everything in between. Sometimes I have to shake my head in
 disbelief, sometimes it resonates so deeply I have to step outside and smoke a
 cigarette (I don't smoke. Turns out it's bad for you.[^fn-smoke])
 
-[This one][geohot-war], for example:
+This one, for example:
 
 > Inside of every person there is the citizen and the serf. Ask yourself which
 > side of this you are on and what you are spending your days building towards.
 > Technology that makes people more sovereign, or technology that lures them
 > further into dependence?
+>
+> <cite>[geohot]</cite>
 
 Yes. Fuck yes. It's what Aaron used to say. It's what orients my life, my work,
-and my being. I still have his quote on my office wall: 
+and my being. I still have his quote on my office wall:
 
 {% include image.html name="most-important-thing.png" otherPost="2024-02-03-lethargy" %}
 
-Aaron was an idealist, and they killed him[^fn-aaron] for it. An idealist like [Michael
-Enger][enger], who wrote the following not too long ago:
+Aaron was an idealist, and they killed him[^fn-aaron] for it. An idealist like
+Michael Enger, who wrote the following not too long ago:
 
 > The Internet, built by idealists on a foundation of openness and community,
 > has become a mire of dark patterns and gardens with ever thicker walls,
 > desperate to keep people within an ecosystem where their attention is the
 > prized commodity.
+>
+> <cite>[Michael Enger]</cite>
 
 Yes. Time and attention. Terrible currencies, for reasons I've outlined [in this
 talk][zap]. "You wouldn't zap a car crash" and all that.
@@ -104,8 +108,8 @@ Less prompting, more typing.
 
 [lofree]: https://www.lofree.co/products/flow-lite84-mechanical-keyboard
 [grapheneos]: https://opensats.org/projects/grapheneos
-[geohot-war]: https://geohot.github.io/blog/jekyll/update/2026/06/06/our-great-war.html
-[enger]: https://michaelenger.com/blog/i-love-the-computer/
+[geohot]: https://geohot.github.io/blog/jekyll/update/2026/06/06/our-great-war.html
+[Michael Enger]: https://michaelenger.com/blog/i-love-the-computer/
 [zap]: https://youtu.be/4usXBGvufKg
 [barlow]: https://www.eff.org/cyberspace-independence
 [internets-own-boy]: https://duckduckgo.com/?q=the+internet%27s+own+boy
