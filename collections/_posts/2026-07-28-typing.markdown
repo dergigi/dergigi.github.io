@@ -97,7 +97,7 @@ Give it to me raw.
 I'm not sure [what's left of the internet](/internet), but I vow to focus my time and energy
 on creating the new, opting out of the old. No algorithmic feeds. No doom
 scrolling. No auto-play, endless ads, rage bait discussions, short-form video
-brain rot, dark patterns and walled gardens.
+brain rot, dark patterns, and walled gardens.
 
 No accounts. No asking for permission. Just me and my keyboard, typing away,
 pushing [signed notes](/nostr) into cyberspace. Written by [me](/npub), as imperfect as my writing
