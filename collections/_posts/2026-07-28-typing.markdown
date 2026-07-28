@@ -85,7 +85,7 @@ scrolling. No auto-play, endless ads, rage bait discussions, short-form video
 brain rot, dark patterns and walled gardens.
 
 No accounts. No asking for permission. Just me and my keyboard, typing away,
-pushing [signed notes](/nostr) into cyberspace. Written by me, as imperfect as my writing
+pushing [signed notes](/nostr) into cyberspace. Written by [me](/npub), as imperfect as my writing
 may be. 100% organic.
 
 Fuck the clankers. They might be able to code, but they can't bleed on the page
