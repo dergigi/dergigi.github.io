@@ -111,7 +111,7 @@ Less prompting, more typing.
 ---
 
 [^fn-keyboard]: It's a LoFree one, the [FLOW Lite 84][lofree], to be precise. And I use it mostly in combination with my [GrapheneOS][grapheneos] phone.
-[^fn-smoke]: I don't smoke. Turns out it's bad for you. <https://youtu.be/zBmIoUO7_Gc>
+[^fn-smoke]: I don't smoke. Turns out [it's bad for you](https://youtu.be/zBmIoUO7_Gc).
 [^fn-aaron]: Watch [The Internet's Own Boy][internets-own-boy] if you don't know about his story.
 
 [lofree]: https://www.lofree.co/products/flow-lite84-mechanical-keyboard
