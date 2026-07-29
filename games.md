@@ -5,7 +5,7 @@ subtitle: Pixel playgrounds
 description: Small pixel games by Gigi and his daughter. Play in the browser, or install them as PWAs.
 ---
 
-Two small games. Pick one and play. Both can be installed as [PWAs](https://web.dev/explore/progressive-web-apps), so they can live on your home screen like quasi-native apps.
+Both can be installed as [PWAs](https://web.dev/explore/progressive-web-apps), so they can live on your home screen like quasi-native apps.
 
 More of what I build lives on [/projects]({{ '/projects' | absolute_url }}).
 
