@@ -28,4 +28,4 @@ Note that all games are mobile-friendly and can be installed as [PWAs](https://w
 
 ---
 
-More of what I build lives on [/projects]({{ '/projects' | absolute_url }}).
+Hop over to [`/projects`]({{ '/projects' | absolute_url }}) to see all my other stuff.
