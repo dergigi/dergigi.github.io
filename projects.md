@@ -119,6 +119,8 @@ making reading on the web a more personal and sovereign experience.
 
 ---
 
+Both games can be installed as [PWAs](https://web.dev/explore/progressive-web-apps), so they can live on your home screen like quasi-native apps.
+
 ### Fly Pingu Fly
 
 [Fly Pingu Fly][pingu] is a tiny one-button ski-jump game built with Phaser and TypeScript. Slide the penguin to the flag to start, time the takeoff, and try to beat your longest jump. Concept and game design by my daughter.
