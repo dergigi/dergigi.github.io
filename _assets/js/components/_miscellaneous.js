@@ -29,7 +29,7 @@ export const miscFlexVid = () => {
 // Zoom
 // ----------------------------------------------
 export const miscZoom = () => {
-  const imgArr = $('.post__content img');
+  const imgArr = $('.post__content img').not('.game-card img, .game-card__art');
 
   imgArr.each((idx, img) => {
     if (img.src.indexOf('full') === -1) {
