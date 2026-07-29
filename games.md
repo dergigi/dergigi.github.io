@@ -5,7 +5,7 @@ subtitle: Pixel playgrounds
 description: Small pixel games by Gigi and his daughter. Play in the browser, or install them as PWAs.
 ---
 
-Note that all games are mobile-friendly and can be installed as [PWAs](https://web.dev/explore/progressive-web-apps), so you can install them as if they were native apps and launch them from your home screen.
+Note that all games are mobile-friendly and can be installed as PWAs, so you can install them as if they were native apps and launch them from your home screen.
 
 <div class="game-select" role="list">
   <a class="game-card game-card--pingu" href="https://pingu.dergigi.com/" role="listitem" aria-label="Play Fly Pingu Fly">

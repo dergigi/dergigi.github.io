@@ -119,7 +119,7 @@ making reading on the web a more personal and sovereign experience.
 
 ---
 
-Both games can be installed as [PWAs](https://web.dev/explore/progressive-web-apps), so they can live on your home screen like quasi-native apps.
+Both games can be installed as PWAs, so they can live on your home screen like quasi-native apps.
 
 ### Fly Pingu Fly
 
