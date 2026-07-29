@@ -3,13 +3,18 @@
 //----------------------------------------------
 .game-select {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
   gap: 1.25rem;
   width: 100%;
   margin: 0.5rem 0 2rem;
 
   @media (min-width: $mq-small) {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
     gap: 1.75rem;
   }
 
@@ -21,9 +26,9 @@
 .game-card {
   position: relative;
   display: block;
-  flex: 0 1 11.5rem;
-  width: 11.5rem;
-  max-width: calc(50% - 0.75rem);
+  flex: 0 1 100%;
+  width: 100%;
+  max-width: 18rem;
   aspect-ratio: 2 / 3;
   overflow: hidden;
   border: 2px solid rgba($color-white, 0.18);
@@ -47,7 +52,7 @@
   }
 
   @media (min-width: $mq-small) {
-    flex-basis: 14rem;
+    flex: 0 1 14rem;
     width: 14rem;
     max-width: none;
   }
