@@ -14,3 +14,7 @@ scripts/spreadsheet_to_resource_mds/__pycache__
 
 # Nostr drafts
 tmp/
+
+# Impeccable (local skill + ephemeral)
+.cursor/
+.impeccable/

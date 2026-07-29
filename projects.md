@@ -4,12 +4,13 @@ title: Projects
 subtitle: Words and Code for Bitcoin
 ---
 
-* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr), [GM Gallery](#gm-gallery), [Lookmarks](#lookmarks), [njump.to](#njumpto), [Unicorn vs Snakes](#unicorn-vs-snakes), [VibeLine](#vibeline)
+* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr), [GM Gallery](#gm-gallery), [Lookmarks](#lookmarks), [njump.to](#njumpto), [VibeLine](#vibeline)
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
 * Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr), [Human B](#contribution-human-b)
 * Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes), [Value4Value](#value4value)
-* Nonprofit: [OpenSats](#opensats), [Sovereign Engineering](#sovereign-engineering)
+* Games: [Fly Pingu Fly](#fly-pingu-fly), [Unicorn vs Snakes](#unicorn-vs-snakes)
+* Nonprofits: [OpenSats](#opensats), [Sovereign Engineering](#sovereign-engineering)
 * Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop), [No Solutions](#no-solutions)
 * Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
 
@@ -105,17 +106,6 @@ making reading on the web a more personal and sovereign experience.
 
 [njump-to]: https://njump.to/
 
-### Unicorn vs Snakes
-
-[Unicorn vs Snakes][uvs] is a kid-friendly pixel sidescroller built with Phaser 3 and TypeScript. Guide a brave unicorn through four levels — forest, lava, and castle — collecting sparkles to re-light the sky, dodging snakes and bats, and ultimately defeating the wicked witch who stole the Rainbow Kingdom's light. The game features a Nostr-powered leaderboard where players can publish their speedrun times as nostr events and compete with others. Built together with my daughter.
-
-{% include image.html path="/assets/images/bitcoin/projects/unicorn-vs-snakes.png" link="https://unicorn.dergigi.com" %}
-
-* Website: [unicorn.dergigi.com][uvs]
-* Source: [GitHub](https://github.com/dergigi/unicorn-vs-snakes)
-
-[uvs]: https://unicorn.dergigi.com/
-
 ### VibeLine
 
 [VibeLine][vibeline] is a voice memo processing system that uses AI to extract meaningful content from your recordings. The idea is simple: speak into your phone, touch grass, and let the computer do the computer work. VibeLine transcribes your voice memos and uses a flexible plugin system to generate summaries, blog posts, app ideas, action items, and more. There's also a separate [web UI](https://github.com/dergigi/vibeline-ui) for browsing and managing your processed memos.
@@ -126,6 +116,32 @@ making reading on the web a more personal and sovereign experience.
 * UI: [GitHub](https://github.com/dergigi/vibeline-ui)
 
 [vibeline]: https://github.com/dergigi/vibeline
+
+---
+
+Both games can be installed as PWAs, so they can live on your home screen like quasi-native apps.
+
+### Fly Pingu Fly
+
+[Fly Pingu Fly][pingu] is a tiny one-button ski-jump game built with Phaser and TypeScript. Slide the penguin to the flag to start, time the takeoff, and try to beat your longest jump. Concept and game design by my daughter.
+
+{% include image.html path="/assets/images/bitcoin/projects/fly-pingu-fly.png" link="https://pingu.dergigi.com" %}
+
+* Website: [pingu.dergigi.com][pingu]
+* Source: [GitHub](https://github.com/dergigi/fly-pingu-fly)
+
+[pingu]: https://pingu.dergigi.com/
+
+### Unicorn vs Snakes
+
+[Unicorn vs Snakes][uvs] is a kid-friendly pixel sidescroller built with Phaser 3 and TypeScript. Guide a brave unicorn through four levels — forest, lava, and castle — collecting sparkles to re-light the sky, dodging snakes and bats, and ultimately defeating the wicked witch who stole the Rainbow Kingdom's light. The game features a Nostr-powered leaderboard where players can publish their speedrun times as nostr events and compete with others. Built together with my daughter.
+
+{% include image.html path="/assets/images/bitcoin/projects/unicorn-vs-snakes.png" link="https://unicorn.dergigi.com" %}
+
+* Website: [unicorn.dergigi.com][uvs]
+* Source: [GitHub](https://github.com/dergigi/unicorn-vs-snakes)
+
+[uvs]: https://unicorn.dergigi.com/
 
 ---
 
