@@ -7,8 +7,6 @@ description: Small pixel games by Gigi and his daughter. Play in the browser, or
 
 Note that all games are mobile-friendly and can be installed as [PWAs](https://web.dev/explore/progressive-web-apps), so you can install them as if they were native apps and launch them from your home screen.
 
-More of what I build lives on [/projects]({{ '/projects' | absolute_url }}).
-
 ---
 
 ### Fly Pingu Fly
@@ -28,3 +26,7 @@ A kid-friendly pixel sidescroller. Guide a brave unicorn through forest, lava, a
 
 * Play: [unicorn.dergigi.com](https://unicorn.dergigi.com/)
 * Source: [GitHub](https://github.com/dergigi/unicorn-vs-snakes)
+
+---
+
+More of what I build lives on [/projects]({{ '/projects' | absolute_url }}).
