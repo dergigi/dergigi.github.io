@@ -10,7 +10,7 @@ subtitle: Words and Code for Bitcoin
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr), [Human B](#contribution-human-b)
 * Education: [Bitcoin Resources](#bitcoin-resources), [Nostr Resources](#nostr-resources), [Bitcoin Quotes](#bitcoin-quotes), [Value4Value](#value4value)
 * Games: [Fly Pingu Fly](#fly-pingu-fly), [Unicorn vs Snakes](#unicorn-vs-snakes)
-* Nonprofit: [OpenSats](#opensats), [Sovereign Engineering](#sovereign-engineering)
+* Nonprofits: [OpenSats](#opensats), [Sovereign Engineering](#sovereign-engineering)
 * Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop), [No Solutions](#no-solutions)
 * Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
 
