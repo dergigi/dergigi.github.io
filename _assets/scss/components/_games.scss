@@ -1,0 +1,176 @@
+//----------------------------------------------
+// Games hero-select
+//----------------------------------------------
+.game-select {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.25rem;
+  width: 100%;
+  margin: 0.5rem 0 2rem;
+
+  @media (min-width: $mq-small) {
+    gap: 1.75rem;
+  }
+
+  @media (min-width: $mq-med) {
+    gap: 2.25rem;
+  }
+}
+
+.game-card {
+  position: relative;
+  display: block;
+  flex: 0 1 11.5rem;
+  width: 11.5rem;
+  max-width: calc(50% - 0.75rem);
+  aspect-ratio: 2 / 3;
+  overflow: hidden;
+  border: 2px solid rgba($color-white, 0.18);
+  border-radius: 4px;
+  background: $color-darkestgrey;
+  box-shadow: 0 10px 28px rgba($color-black, 0.45);
+  color: $color-white;
+  text-decoration: none;
+  transition:
+    transform 180ms cubic-bezier(0.2, 0.8, 0.2, 1),
+    border-color 180ms ease,
+    box-shadow 180ms ease,
+    filter 180ms ease;
+
+  #markdown & {
+    color: $color-white;
+  }
+
+  #markdown &:hover {
+    text-decoration: none;
+  }
+
+  @media (min-width: $mq-small) {
+    flex-basis: 14rem;
+    width: 14rem;
+    max-width: none;
+  }
+
+  @media (min-width: $mq-med) {
+    flex-basis: 16.5rem;
+    width: 16.5rem;
+  }
+
+  &__art {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    image-rendering: pixelated;
+    transition: transform 220ms cubic-bezier(0.2, 0.8, 0.2, 1);
+  }
+
+  &__shade {
+    position: absolute;
+    inset: auto 0 0;
+    height: 45%;
+    background: linear-gradient(
+      to top,
+      rgba($color-black, 0.92) 0%,
+      rgba($color-black, 0.55) 55%,
+      transparent 100%
+    );
+    pointer-events: none;
+  }
+
+  &__meta {
+    position: absolute;
+    right: 0.85rem;
+    bottom: 0.9rem;
+    left: 0.85rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    pointer-events: none;
+  }
+
+  &__title {
+    font-family: $font-post;
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1.15;
+    letter-spacing: 0.01em;
+    color: $color-white;
+    text-shadow: 0 2px 8px rgba($color-black, 0.8);
+
+    @media (min-width: $mq-med) {
+      font-size: 1.35rem;
+    }
+  }
+
+  &__cue {
+    font-family: $font;
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: rgba($color-white, 0.75);
+  }
+
+  &:hover,
+  &:focus-visible {
+    z-index: 1;
+    transform: translateY(-6px) scale(1.03);
+    border-color: rgba($color-white, 0.72);
+    box-shadow:
+      0 0 0 1px rgba($color-white, 0.2),
+      0 18px 40px rgba($color-black, 0.55);
+
+    .game-card__art {
+      transform: scale(1.06);
+    }
+
+    .game-card__cue {
+      color: $color-white;
+    }
+  }
+
+  &:focus-visible {
+    outline: 2px solid $color-orange;
+    outline-offset: 3px;
+  }
+
+  &--pingu:hover,
+  &--pingu:focus-visible {
+    border-color: #7ec8e3;
+    box-shadow:
+      0 0 0 1px rgba(#7ec8e3, 0.35),
+      0 18px 40px rgba($color-black, 0.55);
+  }
+
+  &--unicorn:hover,
+  &--unicorn:focus-visible {
+    border-color: #ff8ad4;
+    box-shadow:
+      0 0 0 1px rgba(#ff8ad4, 0.35),
+      0 18px 40px rgba($color-black, 0.55);
+  }
+}
+
+.game-select:has(.game-card:hover) .game-card:not(:hover),
+.game-select:has(.game-card:focus-visible) .game-card:not(:focus-visible) {
+  filter: brightness(0.62) saturate(0.85);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .game-card,
+  .game-card__art {
+    transition: none;
+  }
+
+  .game-card:hover,
+  .game-card:focus-visible {
+    transform: none;
+  }
+
+  .game-card:hover .game-card__art,
+  .game-card:focus-visible .game-card__art {
+    transform: none;
+  }
+}
