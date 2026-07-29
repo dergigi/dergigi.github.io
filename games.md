@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Games
-subtitle: Pixel playgrounds
+subtitle: Fun stuff I've built with my kids
 description: Small pixel games by Gigi and his daughter. Play in the browser, or install them as PWAs.
 ---
 
