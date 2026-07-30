@@ -92,6 +92,6 @@ The world is splitting in two, or at least *my* world, which is the
 internet. It might be hard to resist the pull of the soul-sucking
 machinery some days. But when it comes to building a home for my work
 (and my soul), the choice of which side to inhabit is an easy one: the
-one that is unfiltered.
+one that is [unfiltered](/nostr).
 
 [vonnegut]: https://njump.to/nevent1qgsxu35yyt0mwjjh8pcz4zprhxegz69t4wr9t74vk6zne58wzh0waycqyznxppd4xmj05sg6dgn3qc4jfzndw79wkyd6qd0llvhkakj2jayx79c92g9
