@@ -3,7 +3,7 @@ layout: post
 title: Unfiltered
 redirect_from: "/unfiltered"
 date: 2026-07-30
-description: Making your soul grow.
+description: What should grow is your soul, not their platform.
 image: "/assets/images/unfiltered.jpg"
 author: Gigi
 category: blog
