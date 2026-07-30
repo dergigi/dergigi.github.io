@@ -27,7 +27,7 @@ On the one hand it's the Overton window and various political agendas,
 on the other hand it's "the algorithm" (and again, various political
 agendas. Mixed in with business interests and other stuff, but hey,
 there's hardly any difference between business and politics these days,
-so: potato potato.)
+so: potato, potahto.)
 
 The algorithm.
 
