@@ -58,6 +58,8 @@ kids of Xavier High School a mere 20 years ago:
 > sculpting, poetry, fiction, essays, reportage, no matter how well or
 > badly, not to get money and fame, but to experience *becoming*, to
 > find out what's inside you, *to make your soul grow*.
+>
+> <cite>[Kurt Vonnegut][vonnegut]</cite>
 
 {% include image.html name="vonnegut-letter.jpg" %}
 
@@ -91,3 +93,5 @@ internet. It might be hard to resist the pull of the soul-sucking
 machinery some days. But when it comes to building a home for my work
 (and my soul), the choice of which side to inhabit is an easy one: the
 one that is unfiltered.
+
+[vonnegut]: https://njump.to/nevent1qgsxu35yyt0mwjjh8pcz4zprhxegz69t4wr9t74vk6zne58wzh0waycqyznxppd4xmj05sg6dgn3qc4jfzndw79wkyd6qd0llvhkakj2jayx79c92g9
