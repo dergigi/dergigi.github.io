@@ -13,10 +13,10 @@ tags:
 ---
 
 Unfiltered thoughts are a beautiful thing. I think that's in part why
-people enjoy long-form conversations, or the unhinged stuff that kids
-will say from time to time. You can't self-censor for three hours
-straight, and kids haven't developed the ability to self-censor in the
-first place.
+people enjoy [long-form conversations](/no-solutions), or the unhinged
+stuff that kids will say from time to time. You can't self-censor for
+three hours straight, and kids haven't developed the ability to
+self-censor in the first place.
 
 The current world is a filtered world. There are certain things that are
 kosher when it comes to evening news, and other things that are kosher
