@@ -70,7 +70,7 @@ anyone barely understands. Feeding the machine, with your work, your
 time, your attention, and yes, even your soul.
 
 Creating for "the algorithm" instead of creating for the sake of
-creation itself is hardly creation at all! It is a soul-shrinking
+creation itself is hardly creation at all. It is a soul-shrinking
 activity, as is consumption for consumption's sake. We've built a world
 that glorifies consumption, and are now living in a world that is
 hyper-optimized towards one singular metric: the consumption of
