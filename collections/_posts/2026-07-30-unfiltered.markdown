@@ -40,7 +40,7 @@ care about.
 The hyper-optimized algo feeds we find ourselves in are pretending to
 show us what is relevant, but they are not optimized for us, they are
 optimized *against* us. Our nervous system is the training data, our ego
-and our vices the knobs to tweak and levers to pull.
+and our vices are the knobs to tweak and levers to pull.
 
 Even worse: "the algorithm" creates audience capture without much of an
 audience. It creates self-censorship and a chilling effect of ungodly
