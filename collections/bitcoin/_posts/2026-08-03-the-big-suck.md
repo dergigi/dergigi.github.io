@@ -23,7 +23,7 @@ It's hard to overstate the damage done. To me, bitcoin has always been about the
 
 It fucking sucks.
 
-My hope is that bitcoin will be stronger for it in the end. "What doesn't kill you makes you stronger," is something my dad used to say often. I'm not sure if it's true for people, but I'm pretty sure that it's true for bitcoin.
+My hope is that bitcoin will be stronger for it in the end. "What doesn't kill you makes you stronger," is something [my dad](/suicide) used to say often. I'm not sure if it's true for people, but I'm pretty sure that it's true for bitcoin.
 
 We should all be more humble going forward, or at least I hope that we will be. And more kind, that would be good too.
 
