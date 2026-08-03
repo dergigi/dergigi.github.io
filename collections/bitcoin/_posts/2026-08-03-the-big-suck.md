@@ -10,6 +10,7 @@ author: Gigi
 category: bitcoin
 tags:
 - Writing
+boris_link: https://read.withboris.com/a/nevent1qqsg9x2u6ugt5u75m497sv80sgjvp97ea3de4e274nqn5r6hdpvrtmszyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxtum5gk
 ---
 
 Yes, things fucking suck right now. Something that should've never happened has happened, and is still happening as I'm typing these lines. The consequence? Innocent, hard-working people are getting rekt. Life savings gone. No recourse, no undo button, no number to call. Just an empty balance and utter disbelief. Hard to think of something that's more devastating.
