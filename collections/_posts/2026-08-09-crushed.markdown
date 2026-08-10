@@ -4,6 +4,7 @@ title: Crushed
 redirect_from: "/crushed"
 date: 2026-08-09 17:42:00
 description: A lot of people are crushed right now. Spiritually crushed.
+image: "/assets/images/crushed.jpg"
 author: Gigi
 category: blog
 tags:
