@@ -14,7 +14,7 @@ tags:
 
 It's going to be borderline impossible to collect my thoughts, but I'll try anyway. Like many others, I haven't slept much since Friday. My mind (or my body, or my soul) will wake me up after 3-5h of sleep, no matter what I do. No matter how tired I am, or when I go to sleep, and so on.
 
-The damage from the COLDCARD catastrophe is hard to measure. And I'm not necessarily talking about the financial damage, which will probably be in the hundreds of million.
+The damage from the [COLDCARD catastrophe](https://www.nobsbitcoin.com/coldcard-disaster-weak-entropy-bug-enables-drain-of-funds-from-cold-storage-wallets/) is hard to measure. And I'm not necessarily talking about the financial damage, which will probably be in the hundreds of million.
 
 The main damage is psychological. And it's hitting the people I care most about. My people. Bitcoiners.
 
