@@ -6,7 +6,11 @@ function addListenerMulti(element, eventNames, listener) {
 }
 
 function isOwnDomain(hostname) {
-  return hostname === "dergigi.com" || hostname.endsWith(".dergigi.com")
+  const own = ["dergigi.com", "21lessons.com"]
+
+  return own.some(
+    (domain) => hostname === domain || hostname.endsWith(`.${domain}`)
+  )
 }
 
 function isTrustedExternal(hostname) {
