@@ -8,8 +8,8 @@ a {
 //----------------------------------------------
 // External Links
 //----------------------------------------------
-#markdown > p > a[target='_blank']:after,
-.footnotes > li > p > a[target='_blank']:after {
+#markdown > p > a.external:after,
+.footnotes > li > p > a.external:after {
     content: ' \f08e';
     font-family: 'FontAwesome';
 }
