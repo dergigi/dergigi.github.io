@@ -18,7 +18,7 @@ The damage from the [COLDCARD catastrophe](https://www.nobsbitcoin.com/coldcard-
 
 The main damage is psychological. And it's hitting the people I care most about. My people. Bitcoiners.
 
-This "hack" (if we even want to call it that, but I'll get to that) is not hitting gamblers, or traders, or shitcoiners, or NFT people, or other degenerates. It is hitting people that thought "I did everything right." You get a reputable hardware wallet, you stamp your seed in steel, you do all the backup steps. You move everything you've humbly stacked so far into what you assumed was secure cold storage. You continue working, stacking sats as hard as you can. One year, two years, even five years pass. You did everything right. You wake up this past Friday, and everything is gone.
+This "hack" is not hitting gamblers, or traders, or shitcoiners, or NFT people, or other degenerates. It is hitting people that thought "I did everything right." You get a reputable hardware wallet, you stamp your seed in steel, you do all the backup steps. You move everything you've humbly stacked so far into what you assumed was secure cold storage. You continue working, stacking sats as hard as you can. One year, two years, even five years pass. You did everything right. You wake up this past Friday, and everything is gone.
 
 Holy fucking shit.
 
