@@ -34,7 +34,7 @@ And that's what I want to talk about, because I feel like that is precisely what
 
 > Being open source means anyone can independently review the code. If it was closed source, nobody could verify the security. I think it's essential for a program of this nature to be open source.
 >
-> <cite>[Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/17/)</cite>
+> <cite>[Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/17/#:~:text=Being%20open%20source%20means%20anyone%20can%20independently%20review%20the%20code.)</cite>
 
 Satoshi said it himself: security requires openness. No openness, no security.
 
