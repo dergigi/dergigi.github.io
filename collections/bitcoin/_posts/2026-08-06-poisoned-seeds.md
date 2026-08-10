@@ -4,6 +4,7 @@ title: Poisoned Seeds
 description: Security requires openness. No openness, no security.
 date: 2026-08-06
 blocktime: 961329
+image: "/assets/images/poisoned-seeds.jpg"
 redirect_from: "/seeds"
 author: Gigi
 category: bitcoin
