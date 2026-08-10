@@ -1,0 +1,110 @@
+---
+layout: post
+title: Crushed
+redirect_from: "/crushed"
+date: 2026-08-09 17:42:00
+description: A lot of people are crushed right now. Spiritually crushed.
+author: Gigi
+category: blog
+tags:
+- Personal
+- Writing
+- Bitcoin
+---
+
+My thoughts around the recent catastrophe are still evolving. The dust hasn't
+settled yet; neither have all transactions that are moving funds into attackers'
+wallets (It's safe to say that not all of them were even broadcast yet). And
+while I've broadcast GM and GN multiple times, I am yet to get a full night's
+sleep.
+
+It was a weird couple days, to put it mildly. For thousands (tens of thousands?)
+of people, but also for me. Funeral. Emergency travel. Making sure that me and
+my family are okay. Trying to do what I can to help others.
+
+I'm sitting in an airplane as I'm typing this, and I can't help but think of the
+one line with the oxygen mask. Last weekend was like that. "We've lost cabin
+pressure. Put your own mask on first, and after that try to help others."
+
+I don't even want to imagine all the scenarios. People on holidays. People in
+hospitals. The proverbial guy in the coma. Friends or acquaintances breaking
+into people's homes, offices, garages, safe deposit boxes, and so forth. People
+flooring it on the highway to get to their keys. People that lost it all. How
+many of them are thinking about ending their life right now? When the damage is
+100+ million and the affected are in the thousands, I'm afraid it's more than
+zero.
+
+And then there's the 2nd and 3rd order effects. People losing it all because
+they make a mistake, mess up their new setup, or are getting scammed. And the
+ecosystem fallout, and so on and so forth. Brutal.
+
+---
+
+I keep thinking about the spiritual damage that was and is being done. I've
+never been a fan of the word "spiritual," but I can't find a better word for
+what is happening. A lot of people are crushed right now. Spiritually crushed.
+
+Friends, colleagues, people I look up to. Absolutely crushed by this. Feeling
+responsible. "How could I miss this?" "Why didn't I look?" "Why didn't I ring
+the alarm bell after the disclosure or user report was dismissed?" "How could I
+ever recommend a coldcard?" "Why did I trust this company to such an extent?"
+"Why didn't I roll dice / why didn't I tell others to roll the dice?"
+
+Oh, the dice. I'm not sure how I feel about the dice thing to be honest, even
+though I'm somewhat of a dice roller myself. There is big victim blaming energy
+in the dice roll discussion. "Why didn't you roll the dice, bro? You should've
+rolled the dice." Yeah, no. I don't think so. The damn thing should've done what
+it is supposed to do, and the low-entropy path should've never allowed to be
+there in the first place.
+
+---
+
+And yet, Bitcoin is fine. It was one line of code. One vendor. One set of
+firmware versions. One type of hardware wallet. One CEO. One company. One
+developer.
+
+That's what bothers me the most right now: one developer. Like, what the fuck?
+How can the development process of a company be this abysmal? No review? No
+tests? No making sure that the most important code path of the whole thing
+actually executes? And once more: why is there a low-entropy fallback in the
+first place? All the fancy features don't matter if the main functionality is
+broken.
+
+To add insult to injury, James has responsibly disclosed that there might be an
+issue on the RNG side, as have others before him. How is it possible that these
+disclosures weren't taken seriously? How can you receive multiple disclosures,
+as well as reports from customers, and dismiss them all? I can't blame the
+conspiracy theorists for putting on an additional layer of tinfoil.
+
+---
+
+My first reaction to this whole thing[^fn-name] was one of regret: I wrote about
+this exact issue, the issue of entropy, many times in the past. There's a bunch
+of people who have read my stuff in the past, and I know of multiple people that
+were unaffected by this exploit because of it. I stopped writing, however, and
+the new cohort of bitcoiners never had any exposure to my stuff, in all
+likelihood. Anyway. I'm writing all this, at least in part, to see if I can
+trick myself into writing again. (I'll try.)
+
+So, where do we go from here? And the answer I'm looking for isn't "dice rolls"
+or "multi-vendor multisig."
+
+Where do we go from here, spiritually? What is the proper path forward? What is
+the lesson we can learn from all this? How are we going to integrate this
+catastrophe in our collective unconscious? Will there be a transmutation, or
+will most people just move on to the next thing and put their trust in some
+other company or device?
+
+My heart goes out to anyone who has lost their savings, their sanity, or worse.
+To those who are now broke or broken, be it financially, spiritually, or
+otherwise.
+
+> Cheerfulness in all situations, especially the bad ones.
+
+Easier said than done.
+
+---
+
+[^fn-name]: I'm not sure if it has a good name yet, by the way. In my own notes I
+called it "Coldcard Catastrophe" and "Entropy Emergency," but I'm sure that the
+internet will come up with something better when everything is said and done.
