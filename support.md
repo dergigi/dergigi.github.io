@@ -108,6 +108,10 @@ specific article---you can!
 
 [Give Value Back With Zaps](https://zapper.fun/zap?id=npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc)
 
+[Zap Me A Coffee](https://zapmeacoffee.com/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc)
+
+
+
 ### Supporting Others
 
 If you don't want to support me but still want to support Bitcoin and related
