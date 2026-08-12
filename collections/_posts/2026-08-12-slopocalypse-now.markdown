@@ -14,7 +14,7 @@ tags:
 ---
 
 I saw a post yesterday (or was it today? the days have been blurring together
-for almost two weeks now, so who knows) that speculated that humans will start
+for [almost two weeks](/suck) now, so who knows) that speculated that humans will start
 to emulate the writing of Claude, which is to say that humans will produce, in
 addition to human slop, stuff that sounds and reads like LLM slop.
 
