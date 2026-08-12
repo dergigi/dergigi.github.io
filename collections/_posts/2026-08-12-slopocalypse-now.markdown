@@ -26,7 +26,7 @@ addition to human slop, stuff that sounds and reads like LLM slop.
 
 I completely disagree.
 
-As someone who is increasingly allergic to slop I hope (and thus also predict,
+As someone who is increasingly [allergic to slop](/sloppypasta) I hope (and thus also predict,
 to some degree) that the opposite will happen. A counter-movement will form. A
 counter-movement that will reject slop. A counter-movement that will embrace the
 imperfect writing of humans, that will develop a taste for style, and tone, and
