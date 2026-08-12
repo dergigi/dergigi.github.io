@@ -4,7 +4,7 @@ title: Slopocalypse Now
 redirect_from: "/slopocalypse"
 date: 2026-08-12
 description: Fuck this dystopia.
-image: "/assets/images/slopocalypse-now.jpg"
+image: "/assets/images/slopocalypse-now.png"
 author: Gigi
 category: blog
 tags:
