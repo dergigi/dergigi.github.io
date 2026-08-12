@@ -142,7 +142,9 @@ blockquote {
     content: "\201C";
   }
 
-  p:last-of-type:after {
+  // Close before a trailing citation, otherwise on the final paragraph.
+  &:has(cite) > p:nth-last-child(2):after,
+  &:not(:has(cite)) > p:last-child:after {
     content: "\201D";
   }
 }
