@@ -138,13 +138,12 @@ blockquote {
   color: $color-darkgrey;
   line-height: 1.4;
 
-  p:first-child {
-    &:before {
-      content: "\201C";
-    }
-    &:after {
-      content: "\201D";
-    }
+  p:first-child:before {
+    content: "\201C";
+  }
+
+  p:last-of-type:after {
+    content: "\201D";
   }
 }
 

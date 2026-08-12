@@ -13,7 +13,7 @@ tags:
 boris_link: http://njump.to/nevent1qqsg9x2u6ugt5u75m497sv80sgjvp97ea3de4e274nqn5r6hdpvrtmsu5hap6
 ---
 
-Yes, things fucking suck right now. Something that should've never happened has happened, and is still happening as I'm typing these lines. The consequence? Innocent, hard-working people are getting rekt. Life savings gone. No recourse, no undo button, no number to call. Just an empty balance and utter disbelief. Hard to think of something that's more devastating.
+Yes, things fucking suck right now. Something that should've never happened [has happened](/seeds), and is still happening as I'm typing these lines. The consequence? Innocent, hard-working people are getting rekt. Life savings gone. No recourse, no undo button, no number to call. Just an empty balance and utter disbelief. Hard to think of something that's more devastating.
 
 The draining of funds won't stop any time soon either. Yes, it's not a full systemic failure and things could always be worse, but a LOT of people have used and are still using coldcards. People are on holidays right now, or in [hospitals](/2026/06/17/cancer/), or on a different continent, having no access to the key material that's potentially compromised. Unable to sleep, unable to do much other than pray, panic, or drive to the next airport. If they know about the current catastrophe at all, that is.
 

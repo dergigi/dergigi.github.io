@@ -1,11 +1,18 @@
-{% assign webp = post.image | replace: '.jpg', '.webp' | replace: '.png', '.webp' %}
+{% assign webp = post.image | replace: '.jpg', '.webp' | replace: '.jpeg', '.webp' | replace: '.png', '.webp' %}
+{% if post.image contains '.png' %}
+  {% assign image_type = 'image/png' %}
+{% else %}
+  {% assign image_type = 'image/jpeg' %}
+{% endif %}
 <article class="posts__post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
   <a class="posts__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
     {% if post.image %}
       <figure class="posts__img">
-        <source srcset="{{ webp }}" type="image/webp">
-        <source srcset="{{ post.image }}" type="image/jpeg">
-        <img src="{{ post.image }}" alt="{{ post.title }}" data-aos="fade-in" itemprop="image">
+        <picture>
+          <source srcset="{{ webp }}" type="image/webp">
+          <source srcset="{{ post.image }}" type="{{ image_type }}">
+          <img src="{{ post.image }}" alt="{{ post.title }}" data-aos="fade-in" itemprop="image">
+        </picture>
       </figure>
     {% endif %}
     <div>

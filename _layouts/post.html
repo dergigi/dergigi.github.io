@@ -70,9 +70,15 @@ layout: default
     </div>
 
     {% if page.image %}
+      {% assign webp = page.image | replace: '.jpg', '.webp' | replace: '.jpeg', '.webp' | replace: '.png', '.webp' %}
+      {% if page.image contains '.png' %}
+        {% assign image_type = 'image/png' %}
+      {% else %}
+        {% assign image_type = 'image/jpeg' %}
+      {% endif %}
       <div class="post__img">
         <div>
-          <figure class="absolute-bg" style="background-image: url('{{ page.image }}');">
+          <figure class="absolute-bg" style="background-image: image-set(url('{{ webp }}') type('image/webp'), url('{{ page.image }}') type('{{ image_type }}'));">
           </figure>
         </div>
       </div>
