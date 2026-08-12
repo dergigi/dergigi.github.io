@@ -142,7 +142,10 @@ blockquote {
     content: "\201C";
   }
 
-  p:last-of-type:after {
+  // Close on the last content paragraph, not a trailing <cite> line.
+  // Avoid spaces inside :has() so clean-css cannot collapse "+ p cite" into "+pcite".
+  p:has(+p:has(cite)):after,
+  p:last-child:not(:has(cite)):after {
     content: "\201D";
   }
 }
