@@ -64,7 +64,7 @@ now:
 >
 > <cite>[verbiricha]</cite>
 
-Yes.
+[Yes.](https://ants.sh/t/yestr)
 
 Fuck this dystopia.
 
