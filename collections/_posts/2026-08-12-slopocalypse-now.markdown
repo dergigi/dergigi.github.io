@@ -66,6 +66,8 @@ now:
 
 [Yes.](https://ants.sh/t/yestr)
 
+Writing is thinking.
+
 Fuck this dystopia.
 
 [hodlbod]: https://njump.to/nevent1qqsqqqqyd3nax5dff67hv08dw0ezxddkt7xt20fpzck658wdtwecz0c36mf84
