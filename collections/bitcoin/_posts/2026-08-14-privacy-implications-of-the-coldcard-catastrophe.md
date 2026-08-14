@@ -21,7 +21,7 @@ Normal. What does "normal" even mean these days? Nothing looks normal, nothing f
 
 Anyway.
 
-As is evident from my [past posts](/suck), I've been trying to work through the coldcard situation by writing about it (because [writing is thinking](/slopocalypse), remember?). I'm still processing. I still have many questions. I mostly have one question, to be honest: "How was it possible for something like this to happen in the first place?"
+As is evident from my [past posts](/suck), I've been trying to work through the coldcard situation by writing about it (because [writing is thinking](/slopocalypse), remember?). I'm still processing. I still have many questions. I mostly have one question, to be honest: *"How was it possible for something like this to happen in the first place?"*
 
 As always, time will provide some of the answers, I guess.
 
