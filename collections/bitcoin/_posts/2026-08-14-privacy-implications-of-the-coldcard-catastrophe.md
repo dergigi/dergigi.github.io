@@ -13,7 +13,7 @@ tags:
 - Writing
 ---
 
-It's been two weeks, to the day. Two weeks since I [buried my mother](/forgetting). Two weeks since the beginning of the [coldcard catastrophe](/seeds), aka [entropy emergency](/crushed), aka [the big suck](/suck).
+It's been two weeks, to the day. Two weeks since the beginning of the [coldcard catastrophe](/seeds), aka [entropy emergency](/crushed), aka [the big suck](/suck). Two weeks since I [buried my mother](/forgetting).
 
 Two weeks. I barely slept in these two weeks. The adrenaline is slowly but surely leaving my body. I'm [tired](https://njump.to/nevent1qqsts6hxll26sye5np295tlj6t5crty9t870sdgyqrtxtvrduhh054qsf0ysy). Everything hurts. My nervous system is trying to recalibrate from emergency mode back to normal.
 
