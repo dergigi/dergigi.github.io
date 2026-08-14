@@ -17,7 +17,7 @@ It's been two weeks, to the day. Two weeks since the beginning of the [coldcard 
 
 Two weeks. I barely slept in these two weeks. The adrenaline is slowly but surely leaving my body. I'm [tired](https://njump.to/nevent1qqsts6hxll26sye5np295tlj6t5crty9t870sdgyqrtxtvrduhh054qsf0ysy). Everything hurts. My nervous system is trying to recalibrate from emergency mode back to normal.
 
-Normal. What does "normal" even mean these days? Nothing looks normal, nothing feels normal. At least on the internet it doesn't. Everything is AI, everything is generated, most articles I can't read because my [slop allergy](/sloppypasta) doesn't allow me to. I tried reading [this](https://blog.casa.io/the-rise-of-the-machines/) and [this](https://xcancel.com/aakashgupta/status/2081225245286154631) and [this](https://stacker.news/items/1470728) and [this](https://voltage.cloud/blog/sunsetting-self-serve), but I couldn't. I had to stop after a paragraph or two. It's all slop. Zero thought. Minimum amount of care, if any. What a sad state of affairs. (I was able to read [this](https://www.citadel21.com/the-paranoid-wallet) and [this](https://www.citadel21.com/the-merge), though. They are still LLM generated, but at least they are well researched and were done with care.)
+Normal. What does "normal" even mean these days? Nothing looks normal, nothing feels normal. At least on the internet it doesn't. Everything is AI, everything is generated, most articles I can't read because my [slop allergy](/sloppypasta) doesn't allow me to. I tried reading [this](https://blog.casa.io/the-rise-of-the-machines/) and [this](https://xcancel.com/aakashgupta/status/2081225245286154631) and [this](https://stacker.news/items/1470728) and [this](https://voltage.cloud/blog/sunsetting-self-serve), but I couldn't.[^fn-slop] I had to stop after a paragraph or two. It's all slop. Zero thought. Minimum amount of care, if any. What a sad state of affairs. (I was able to read [this](https://www.citadel21.com/the-paranoid-wallet) and [this](https://www.citadel21.com/the-merge), though. They are still LLM generated, but at least they are well researched and were done with care.)
 
 Anyway.
 
@@ -40,3 +40,8 @@ Everything will be linked, all accounts and sub-accounts will be identified. If 
 I have to repeat [what I've said previously](/seeds) once more: this is all so brutal because it is hitting the people that actually cared about cold storage, that cared about privacy, that cared about doing things right and being self-sovereign and so on. I can't help but shake my head in disbelief and repeat the same word over and over again: brutal.
 
 Two weeks. Two weeks of mayhem, and it isn't even over yet.
+
+---
+
+[^fn-slop]: There's also [this](https://xcancel.com/i/article/2035000411342659979), which is insanely fucking generic LLM slop but all lowercase (to somehow try to hide it, I guess?)
+
