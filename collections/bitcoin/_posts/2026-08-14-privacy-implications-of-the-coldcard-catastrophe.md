@@ -5,7 +5,7 @@ subtitle: "Everything will be linked. All accounts will be identified."
 description: "Two weeks of mayhem, and it isn't even over yet."
 date: 2026-08-14
 blocktime: 962437
-image: "/assets/images/brutal.jpg"
+image: "/assets/images/brutal.png"
 redirect_from: "/implications"
 author: Gigi
 category: bitcoin
