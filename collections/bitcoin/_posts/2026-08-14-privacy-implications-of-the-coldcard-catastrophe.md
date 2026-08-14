@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Privacy Implications of the Coldcard Catastrophe
-subtitle: "Everything will be linked. All accounts will be identified."
+subtitle: "Lots of private keys are now public. Everything will be linked."
 description: "Two weeks of mayhem, and it isn't even over yet."
 date: 2026-08-14
 blocktime: 962437
