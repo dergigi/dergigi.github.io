@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Privacy Implications of the Coldcard Catastrophe
-subtitle: "Lots of private keys are now public. Everything will be linked."
+subtitle: "Lots of private keys are now public."
 description: "Two weeks of mayhem, and it isn't even over yet."
 date: 2026-08-14
 blocktime: 962437
