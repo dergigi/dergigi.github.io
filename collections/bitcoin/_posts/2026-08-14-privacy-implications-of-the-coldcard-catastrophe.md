@@ -29,7 +29,7 @@ There's another thing about this catastrophe that isn't much talked about yet: t
 
 A lot of people were forced to emergency-move a lot of UTXOs to a temporary setup, unwillingly consolidating said UTXOs in the process. My guess is that lots of KYC and non-KYC stashes got combined. Lots of coinjoin outputs got recombined too, if I'd have to wager another guess.
 
-And to add insult to injury once more, we have to assume that all affected private keys will be public, given enough time. The brute-forced seed phrases will be sold to the highest bidder in one way or another, whether it be on dark markets or directly to chainalysis companies (if they didn't brute-force the whole set themselves by that point in time).
+And to add insult to injury once more, we have to assume that all affected private keys will be public, given enough time. The brute-forced seed phrases will be sold to the highest bidder in one way or another, whether it be on dark markets or directly to chainalysis companies (if they haven't brute-forced the whole set themselves by that point in time).
 
 Everything will be linked, all accounts and sub-accounts will be identified. If only one of these addresses ever touched any exchange or anything with KYC information attached to it, all your privacy is gone. Brutal. Absolutely brutal.
 
