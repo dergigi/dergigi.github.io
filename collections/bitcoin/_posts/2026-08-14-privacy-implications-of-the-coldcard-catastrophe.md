@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brutal
+title: Privacy Implications of the Coldcard Catastrophe
 description: "Two weeks of mayhem, and it isn't even over yet."
 date: 2026-08-14
 blocktime: 962437
