@@ -15,7 +15,7 @@ tags:
 
 It's been two weeks, to the day. Two weeks since I [buried my mother](/forgetting). Two weeks since the beginning of the [coldcard catastrophe](/seeds), aka [entropy emergency](/crushed), aka [the big suck](/suck).
 
-Two weeks. I barely slept in these two weeks. The adrenaline is slowly but surely leaving my body. I'm tired. Everything hurts. My nervous system is trying to recalibrate from emergency mode back to normal.
+Two weeks. I barely slept in these two weeks. The adrenaline is slowly but surely leaving my body. I'm [tired](https://njump.to/nevent1qqsts6hxll26sye5np295tlj6t5crty9t870sdgyqrtxtvrduhh054qsf0ysy). Everything hurts. My nervous system is trying to recalibrate from emergency mode back to normal.
 
 Normal. What does "normal" even mean these days? Nothing looks normal, nothing feels normal. At least on the internet it doesn't. Everything is AI, everything is generated, most articles I can't read because my [slop allergy](/sloppypasta) doesn't allow me to. I tried reading [this](https://blog.casa.io/the-rise-of-the-machines/) and this and this, but I couldn't. I had to stop after a paragraph or two. It's all slop. Zero thought. Minimum amount of care, if any. What a sad state of affairs.
 
