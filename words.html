@@ -5,6 +5,9 @@ layout: words
 <div class="post__content section-padding">
   <div class="posts">
     <div class="grid-xlarge">
+      <p class="posts__feed">
+        <a href="{{ '/feed.xml' | absolute_url }}">RSS</a>
+      </p>
       <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
         {% for post in site.posts %}
           {% include post-card.html %}

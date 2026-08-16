@@ -19,6 +19,8 @@ social:
     url: nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc
   - name: github
     url: https://github.com/dergigi
+  - name: rss
+    url: /feed.xml
   - name: bitcoin
     url: https://dergigi.com/support
 
