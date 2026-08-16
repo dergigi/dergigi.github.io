@@ -53,6 +53,12 @@
     }
   }
 
+  &__feed {
+    margin: 0 0 1em;
+    text-align: right;
+    font-size: $font-small;
+  }
+
   &__post {
     padding: 2em 1em;
 
