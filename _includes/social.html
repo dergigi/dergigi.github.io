@@ -4,7 +4,7 @@
       {% if social['name'] == "nostr" %}
       <li><a rel="me" href="{{ social['url'] }}" target="_blank"><i class="fa-solid fa-feather"></i></a></li>
       {% elsif social['name'] == "rss" %}
-      <li><a href="{{ social['url'] | absolute_url }}"><i class="fa-solid fa-rss"></i></a></li>
+      <li><a href="{{ social['url'] | absolute_url }}" aria-label="RSS feed"><i class="fa-solid fa-rss" aria-hidden="true"></i></a></li>
       {% else %}
       <li><a rel="me" href="{{ social['url'] }}" target="_blank"><i class="fab fa-{{ social['name'] }}"></i></a></li>
       {% endif %}
