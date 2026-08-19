@@ -10,6 +10,7 @@ category: blog
 tags:
 - Personal
 - ai
+- thoughts
 boris_link: https://read.withboris.com/a/naddr1qqr8g7tsd9hxwq3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsxpqqqp65w93guky
 ---
 

@@ -10,6 +10,7 @@ category: blog
 tags:
   - Writing
   - Personal
+  - thoughts
 ---
 
 Cancer.

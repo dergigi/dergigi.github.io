@@ -11,6 +11,7 @@ favorite: true
 tags:
   - Writing
   - Personal
+  - thoughts
 ---
 
 > We may enjoy our room in the tower, with the painted walls and the commodious
