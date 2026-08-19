@@ -56,7 +56,7 @@ Zilch.
 
 Clankers are useful, no doubt about it. But they can't do the writing for you,
 because they can't do the thinking for you. And as I've [mentioned
-before](/typing), they can't do the _expressing_ that is part of the human
+before](/slopocalypse), they can't do the _expressing_ that is part of the human
 condition, the bleeding on the page, the squeezing of the soul that makes a
 song come out, or a poem, or a love letter, or a work of art. How could anyone
 or anything produce something that touches you, if that thing is neither in
