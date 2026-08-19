@@ -7,6 +7,8 @@ description: A half-written work is a half-finished love affair.
 image: /assets/images/finishing.jpg
 author: Gigi
 category: blog
+tags:
+  - thoughts
 ---
 
 Finishing things is hard. Starting things is easier. Not easy, mind you. But
