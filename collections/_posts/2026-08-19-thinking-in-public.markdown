@@ -10,6 +10,7 @@ category: blog
 tags:
 - Personal
 - Writing
+- thoughts
 ---
 
 I just took a nice long shower, as I often do, especially when I'm overwhelmed
