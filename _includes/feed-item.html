@@ -1,0 +1,29 @@
+<item>
+  <title>{{ include.post.title | xml_escape }}</title>
+  <description>{{ include.post.content | xml_escape }}</description>
+  <pubDate>{{ include.post.date | date_to_rfc822 }}</pubDate>
+  <link>{{ include.post.url | prepend: site.baseurl | prepend: site.url }}</link>
+  <guid isPermaLink="true">{{ include.post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+  {% if include.post.image %}
+    {% assign image_url = include.post.image | absolute_url %}
+    {% assign image_type = 'image/jpeg' %}
+    {% if include.post.image contains '.png' %}
+      {% assign image_type = 'image/png' %}
+    {% elsif include.post.image contains '.webp' %}
+      {% assign image_type = 'image/webp' %}
+    {% elsif include.post.image contains '.gif' %}
+      {% assign image_type = 'image/gif' %}
+    {% endif %}
+    <media:thumbnail url="{{ image_url }}"/>
+    <media:content url="{{ image_url }}" type="{{ image_type }}" medium="image"/>
+    <enclosure url="{{ image_url }}" type="{{ image_type }}" length="0"/>
+  {% endif %}
+  <content:encoded><![CDATA[{% if include.post.image %}<p><img src="{{ include.post.image | absolute_url }}" alt="{{ include.post.title | xml_escape }}" /></p>
+{% endif %}{{ include.post.content }}]]></content:encoded>
+  {% for tag in include.post.tags %}
+  <category>{{ tag | xml_escape }}</category>
+  {% endfor %}
+  {% for cat in include.post.categories %}
+  <category>{{ cat | xml_escape }}</category>
+  {% endfor %}
+</item>
