@@ -10,6 +10,7 @@ author: Gigi
 category: bitcoin
 tags:
 - Writing
+- thoughts
 boris_link: http://njump.to/nevent1qqsg9x2u6ugt5u75m497sv80sgjvp97ea3de4e274nqn5r6hdpvrtmsu5hap6
 ---
 

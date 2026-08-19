@@ -10,6 +10,7 @@ category: blog
 tags:
   - Photography
   - Writing
+  - thoughts
 ---
 
 Reality is that which, when you stop believing in it, doesn't go away. At least

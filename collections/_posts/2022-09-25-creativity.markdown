@@ -9,6 +9,7 @@ author: Gigi
 category: blog
 tags:
   - ai
+  - thoughts
 ---
 
 Creativity is a mystery. It is creation, inspiration, and—of

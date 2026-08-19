@@ -7,6 +7,8 @@ description: I'm not half the man I used to be.
 image: /assets/images/yesterday.jpg
 author: Gigi
 category: blog
+tags:
+  - thoughts
 ---
 
 Yesterday was a good day. Today is not.

@@ -11,6 +11,7 @@ author: Gigi
 category: bitcoin
 tags:
 - Writing
+- thoughts
 ---
 
 It's been two weeks, to the day. Two weeks since the beginning of the [coldcard catastrophe](/seeds), aka [entropy emergency](/crushed), aka [the big suck](/suck). Two weeks since I [buried my mother](/forgetting).
