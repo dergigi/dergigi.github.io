@@ -11,6 +11,7 @@ tags:
 - Personal
 - Writing
 - ai
+- thoughts
 ---
 
 I saw a post yesterday (or was it today? the days have been blurring together

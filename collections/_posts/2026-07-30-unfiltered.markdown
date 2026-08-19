@@ -10,6 +10,7 @@ category: blog
 tags:
 - Personal
 - Writing
+- thoughts
 boris_link: https://read.withboris.com/a/naddr1qq982mnxd9k8getjv4jqygrwg6zz9hahfftnsup23q3mnv5pdz46hpj4l2ktdpfu6rhpthhwjvpsgqqqw4rsru3nf0
 ---
 

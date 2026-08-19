@@ -10,6 +10,7 @@ category: blog
 tags:
   - Writing
   - Personal
+  - thoughts
 ---
 
 Forgetting is a gift. We don't like to forget, but it's a gift nonetheless. If
