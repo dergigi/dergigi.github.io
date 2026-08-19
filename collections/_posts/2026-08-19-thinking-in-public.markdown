@@ -2,7 +2,7 @@
 layout: post
 title: Thinking in Public
 redirect_from: "/thinking"
-date: 2026-08-19
+date: 2026-08-19 10:03:00 +0200
 description: "Once you start writing for an audience you stop writing for yourself."
 image: "/assets/images/thinking-in-public.jpg"
 author: Gigi

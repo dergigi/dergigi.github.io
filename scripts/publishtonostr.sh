@@ -89,7 +89,6 @@ POST_JSON="$("$SCRIPT_DIR/jekyll_frontmatter.rb" read "$POST_FILE")"
 TITLE="$(jq -r '.front_matter.title // empty' <<<"$POST_JSON")"
 DESC="$(jq -r '.front_matter.description // empty' <<<"$POST_JSON")"
 IMAGE_RAW="$(jq -r '.front_matter.image // empty' <<<"$POST_JSON")"
-DATE_RAW="$(jq -r '.front_matter.date // empty' <<<"$POST_JSON")"
 CATEGORY="$(jq -r '.front_matter.category // empty' <<<"$POST_JSON")"
 TAGS_JSON="$(jq -c '(.front_matter.tags // []) | map(tostring)' <<<"$POST_JSON")"
 BODY_RAW="$(jq -r '.body' <<<"$POST_JSON")"
@@ -227,8 +226,18 @@ BODY="$(echo "$BODY_RAW" | sed -E 's/<cite[^>]*>/—/g' | sed -E 's/<\/cite>//g'
 # Convert double backslashes (markdown line breaks) to two spaces + newline
 BODY="$(echo "$BODY" | perl -pe 's/\\\\$/  /')"
 
-# Use date from front matter or filename
-DATE_STR="${DATE_RAW:-$YEAR-$MONTH-$DAY}"
+# Use the literal date: line. YAML treats naive datetimes as UTC, then
+# JSON dumps them in local time, which shifts published_at by the offset
+# (e.g. 17:42 becomes 19:42 +0200). A date with an offset is used as-is.
+# A naive time or a date-only value is parsed in the local timezone.
+DATE_STR="$(ruby -e '
+  File.foreach(ARGV[0]) do |line|
+    next unless line =~ /\Adate:\s+(.+?)\s*\z/
+    puts $1.gsub(/\A["\x27]|["\x27]\z/, "")
+    break
+  end
+' "$POST_FILE")"
+DATE_STR="${DATE_STR:-$YEAR-$MONTH-$DAY}"
 PUBLISHED_AT="$(ruby -e 'require "time"; puts Time.parse(ARGV[0]).to_i' "$DATE_STR" 2>/dev/null || echo "")"
 
 if [[ -z "$PUBLISHED_AT" ]]; then

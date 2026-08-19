@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Cancer"
-redirect_from: /cancer
-date: 2026-06-17
+redirect_from:
+  - /cancer
+  - /2026/06/17/cancer/
+date: 2026-06-18 00:07:21 +0100
 description: "Fuck cancer, sideways, with a rake, forever."
 image: /assets/images/cancer.jpg
 author: Gigi

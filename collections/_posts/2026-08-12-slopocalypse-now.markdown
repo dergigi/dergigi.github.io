@@ -2,7 +2,7 @@
 layout: post
 title: Slopocalypse Now
 redirect_from: "/slopocalypse"
-date: 2026-08-12
+date: 2026-08-12 12:44:16 +0200
 description: "Fuck this meaningless LLM slop wordsalad dystopia."
 image: "/assets/images/slopocalypse-now.png"
 author: Gigi

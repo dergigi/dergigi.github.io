@@ -2,7 +2,7 @@
 layout: post
 title: Unfiltered
 redirect_from: "/unfiltered"
-date: 2026-07-30
+date: 2026-07-30 08:16:22 +0200
 description: What should grow is your soul, not their platform.
 image: "/assets/images/unfiltered.jpg"
 author: Gigi
