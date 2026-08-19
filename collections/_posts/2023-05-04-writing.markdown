@@ -9,6 +9,7 @@ author: Gigi
 category: blog
 tags:
   - Writing
+  - thoughts
 ---
 
 Writing, for some reason, is one of the most powerful things you can do.
