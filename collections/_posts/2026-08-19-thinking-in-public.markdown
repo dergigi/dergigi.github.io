@@ -14,8 +14,8 @@ tags:
 
 I just took a nice long shower, as I often do, especially when I'm overwhelmed
 and stuck in some way (I'm both, as of this moment). There is too many things
-going on. Too much noise, too much doomerism, too much AI, and of course - - -
-how could I forget - - - too much LLM slop.
+going on. Too much noise, too much doomerism, too much AI, and of
+course—how could I forget—too much LLM slop.
 
 I used to write long thinkboi pieces. People liked them, so I tried to write
 more of them. It was a form of audience capture, without me realizing it. And
