@@ -2,7 +2,7 @@
 layout: post
 title: Typing
 redirect_from: "/typing"
-date: 2026-07-28
+date: 2026-07-28 23:20:20 +0200
 description: Less prompting, more typing.
 image: "/assets/images/typing.jpg"
 author: Gigi

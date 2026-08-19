@@ -2,7 +2,7 @@
 layout: post
 title: "Forgetting"
 redirect_from: /forgetting
-date: 2026-06-15
+date: 2026-06-15 13:06:07 +0100
 description: "Forgetting is a gift. We don't like to forget, but it's a gift nonetheless."
 image: /assets/images/forgetting.jpg
 author: Gigi
