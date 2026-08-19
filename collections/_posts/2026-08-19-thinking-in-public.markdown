@@ -34,7 +34,7 @@ of it.
 Well, that's the conundrum, isn't it. Once you start writing for an audience
 you stop writing for yourself. And that's what I always did, and what I always
 loved: writing for myself. Writing for the sake of it. Writing to *think*,
-because, as all writers know, *writing is thinking*.
+because, as all writers know, *[writing is thinking](/slopocalypse)*.
 
 And it really does help me think. If I don't write, I go in circles. Round and
 round I go, in my head, ruminating on the same thing, for hours, days, weeks,
