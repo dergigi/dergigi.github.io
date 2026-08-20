@@ -56,7 +56,7 @@ That's about to change. In fact, it has changed already.
 A couple of days ago I decided to try my hand at an Android app. All
 vibed, of course, using the tools I've played around with in the last
 18 months or so: the [vibeline](https://github.com/dergigi/vibeline/), various IDEs like OpenCode and Cursor,
-a couple of OpenClaw agents that I talk to via NIP-17, a bunch of
+a couple of OpenClaw agents that I talk to via [NIP-17](https://github.com/fabianfabian/openclaw-nostr-nip17), a bunch of
 skills and AGENT.md files, the whole shebang.
 
 To my surprise, everything worked out-of-the-box. I was able to
