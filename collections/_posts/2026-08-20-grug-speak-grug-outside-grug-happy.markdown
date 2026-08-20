@@ -145,7 +145,7 @@ implement. Another couple seconds until the update lands on Zapstore.
 
 Magic.
 
-{% include image.html name="openclaw-nip17-setup-prompt.png" caption="My agent setup prompt." link="https://github.com/fabianfabian/openclaw-nostr-nip17" %}
+{% include image.html name="openclaw-nip17-setup-prompt.png" caption="Default agent setup prompt (one agent per project)" link="https://github.com/fabianfabian/openclaw-nostr-nip17" %}
 
 Allow me to repeat once more, for emphasis: publishing Android apps to
 Zapstore is absolutely magical. No account, no sign-up, no
