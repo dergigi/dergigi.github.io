@@ -117,15 +117,17 @@ SLUG="${SLUG_EXT%.*}"
 # Build post identifier for image paths (YYYY-MM-DD-slug)
 POST_ID="${YEAR}-${MONTH}-${DAY}-${SLUG}"
 
-# Map category for image paths (nostr -> bitcoin)
+# Map category for image paths to match _includes/image.html
 IMAGE_CATEGORY="$CATEGORY"
-if [[ "$CATEGORY" == "nostr" ]]; then
+if [[ "$CATEGORY" == "blog" ]]; then
+  IMAGE_CATEGORY="photography"
+elif [[ "$CATEGORY" == "nostr" ]]; then
   IMAGE_CATEGORY="bitcoin"
 fi
 
 # Convert Jekyll image includes to Markdown
 # {% include image.html name="image.jpg" [caption="..."] %} -> ![](absolute-url-to-image)
-# The Jekyll include builds path as: /assets/images/{category}/{post-id}/{name}
+# The Jekyll include builds path as: /assets/images/{image-category}/{post-id}/{name}
 if [[ -n "$IMAGE_CATEGORY" ]]; then
   BODY_RAW="$(echo "$BODY_RAW" | perl -pe "
     s|{% include image\.html name=\"([^\"]+)\"[^}]*%}|![](${SITE_URL}/assets/images/${IMAGE_CATEGORY}/${POST_ID}/\$1)|g
@@ -177,7 +179,7 @@ BODY_RAW="$(echo "$BODY_RAW" | perl -ne '
 # ![alt](/path/to/image.jpg#full) -> ![alt](https://site.com/path/to/image.jpg)
 # ![alt](/path/to/video.mp4#full) -> ![alt](https://site.com/path/to/video.mp4)
 # Skip URLs that are already absolute (start with http:// or https://)
-BODY_RAW="$(SITE_URL="$SITE_URL" echo "$BODY_RAW" | perl -pe '
+BODY_RAW="$(echo "$BODY_RAW" | SITE_URL="$SITE_URL" perl -pe '
   BEGIN { $site = $ENV{SITE_URL}; }
   s|!\[([^\]]*)\]\(([^)]+)\)|do { my ($alt, $url) = ($1, $2); sprintf("![%s](%s)", $alt, ($url =~ m{^https?://}) ? $url : ((substr($url, 0, 1) eq "/") ? $site . $url : $site . "/" . $url)); }|ge
 ')"
@@ -206,7 +208,7 @@ BODY_RAW="$(echo "$BODY_RAW" | perl -ne '
 # [text](/path) -> [text](https://site.com/path)
 # [text](/path#anchor) -> [text](https://site.com/path#anchor)
 # Don't convert absolute links (http/https)
-BODY_RAW="$(SITE_URL="$SITE_URL" echo "$BODY_RAW" | perl -pe '
+BODY_RAW="$(echo "$BODY_RAW" | SITE_URL="$SITE_URL" perl -pe '
   BEGIN { $site = $ENV{SITE_URL}; }
   s|\[([^\]]+)\]\(([^)]+)\)|do { my ($text, $url) = ($1, $2); sprintf("[%s](%s)", $text, ($url =~ m{^https?://}) ? $url : (substr($url, 0, 1) eq "/" ? $site . $url : $site . "/" . $url)); }|ge
 ')"

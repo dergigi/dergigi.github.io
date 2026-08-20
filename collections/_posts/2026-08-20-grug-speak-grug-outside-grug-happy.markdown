@@ -2,8 +2,8 @@
 layout: post
 title: Grug Speak, Grug Outside, Grug Happy
 redirect_from: "/grug"
-date: 2026-08-20 22:13:00 +0200
-description: "Build, sign, push, done."
+date: 2026-08-20 22:13:00.000000000 +02:00
+description: Build, sign, push, done.
 image: "/assets/images/grug-happy.jpg"
 author: Gigi
 category: blog
@@ -11,6 +11,7 @@ tags:
 - thoughts
 - nostr
 - ai
+boris_link: https://read.withboris.com/a/naddr1qq3xwun4vukhxur9v94j6emjw4nj6mm4w3ekjer994nhyat8945xzurs0ypzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqvzqqqr4gueccs3v
 ---
 
 Before my [thinkboi](/speech) days I used to be a developer. Writing code instead
