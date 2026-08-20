@@ -136,7 +136,9 @@ long ramble. It will get it almost right, and after that I just
 iterate a couple of times until it is right enough.
 
 Every agent of my swarm has an npub. It's the npub of the project, and
-I talk to it directly. The vibeline will route voice memos as NIP-17
+I talk to it directly. [Ants](/projects#ants), [Boris](/projects#boris),
+[Castr](/projects#castrme), [No Solutions](/projects#no-solutions), and
+so on. The vibeline will route voice memos as NIP-17
 DMs to the correct agent, based on the opening phrase. Audio is
 transcribed locally on my machine. All DMs are encrypted. When I run
 local models, which I sometimes do for some things, nothing ever hits
