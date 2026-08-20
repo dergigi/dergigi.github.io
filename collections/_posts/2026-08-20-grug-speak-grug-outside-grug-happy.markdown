@@ -92,12 +92,12 @@ that others have meticulously designed. But I can build a tower, and
 that gives me joy, even if other tower-builders will think that my
 tower is crooked and ugly and statically unsound.
 
+{% include image.html name="grug-curve.png" caption="I am Grug." %}
+
 Here is my current "development" process, if you want to call it that:
 Grug outside. Grug happy. Grug see weird thing in app. Grug speak into
 phone. Grug take walk. Grug see update. Grug install update. Grug see
 bug fixed. Grug happy.
-
-{% include image.html name="grug-curve.png" caption="I am Grug." %}
 
 The reason why this process works so well for me, I believe, is that I
 used to work with other people a lot. I used to work in teams, with
