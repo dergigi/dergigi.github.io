@@ -30,6 +30,7 @@ for personalized profile lookups and search ranking.
 {% include image.html path="/assets/images/bitcoin/projects/ants.png" link="https://ants.sh" %}
 
 * Website: [ants.sh][ants]
+* Nostr: [npub1u5c0jv80kdhvrks0tujf457m3m03ndn82u9v4wqheqsct4tzazyscug8td](https://njump.to/npub1u5c0jv80kdhvrks0tujf457m3m03ndn82u9v4wqheqsct4tzazyscug8td)
 * Source: [GitHub](https://github.com/dergigi/ants)
 
 [ants]: https://ants.sh/
@@ -49,6 +50,7 @@ Android app on Zapstore.
 * Website: [readwithboris.com][boris]
 * App: [read.withboris.com](https://read.withboris.com)
 * Android: [Zapstore](https://zapstore.dev/apps/org.dergigi.boris)
+* Nostr: [npub19802see0gnk3vjlus0dnmfdagusqrtmsxpl5yfmkwn9uvnfnqylqduhr0x](https://njump.to/npub19802see0gnk3vjlus0dnmfdagusqrtmsxpl5yfmkwn9uvnfnqylqduhr0x)
 * Source: [GitHub](https://github.com/dergigi/boris)
 
 [boris]: https://www.readwithboris.com/
@@ -60,6 +62,7 @@ Android app on Zapstore.
 {% include image.html path="/assets/images/bitcoin/projects/castr-me.png" link="https://castr.me" %}
 
 * Website: [castr.me][castrme]
+* Nostr: [npub196qvw7utjs0cnztlg4aww98ekql9svm6c4wlv6sug70nzz0uujxsprafme](https://njump.to/npub196qvw7utjs0cnztlg4aww98ekql9svm6c4wlv6sug70nzz0uujxsprafme)
 * Source: [GitHub](https://github.com/dergigi/castr.me)
 
 [castrme]: https://castr.me/
