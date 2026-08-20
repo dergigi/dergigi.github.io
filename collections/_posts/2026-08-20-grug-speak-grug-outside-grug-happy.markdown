@@ -57,7 +57,7 @@ A couple of days ago I decided to try my hand at an [Android app](https://zapsto
 vibed, of course, using the tools I've played around with in the last
 18 months or so: the [vibeline](https://github.com/dergigi/vibeline/), various IDEs like OpenCode and Cursor,
 a couple of OpenClaw agents that I talk to via [NIP-17](https://github.com/fabianfabian/openclaw-nostr-nip17), a bunch of
-skills and AGENT.md files, the whole shebang.
+skills and `AGENTS.md` files, the whole shebang.
 
 To my surprise, everything worked out-of-the-box. I was able to
 one-shot an MVP and all I had to do was iterate from there. I didn't
