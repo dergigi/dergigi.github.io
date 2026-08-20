@@ -30,6 +30,7 @@ for personalized profile lookups and search ranking.
 {% include image.html path="/assets/images/bitcoin/projects/ants.png" link="https://ants.sh" %}
 
 * Website: [ants.sh][ants]
+* Nostr: [@ants.sh](https://njump.to/npub1u5c0jv80kdhvrks0tujf457m3m03ndn82u9v4wqheqsct4tzazyscug8td)
 * Source: [GitHub](https://github.com/dergigi/ants)
 
 [ants]: https://ants.sh/
@@ -41,12 +42,15 @@ environment for consuming long-form content. With clean typography, offline read
 and social highlights, Boris makes it easy to read, annotate, and share your favorite articles
 and blog posts. Built on Nostr, all your highlights, bookmarks, and reading metadata belong to
 you and remain under your control. The project emphasizes simplicity and user ownership,
-making reading on the web a more personal and sovereign experience.
+making reading a more personal and sovereign experience. It lives on the web and as an
+Android app on Zapstore.
 
 {% include image.html path="/assets/images/bitcoin/projects/boris.png" link="https://www.readwithboris.com" %}
 
 * Website: [readwithboris.com][boris]
 * App: [read.withboris.com](https://read.withboris.com)
+* Android: [Zapstore](https://zapstore.dev/apps/org.dergigi.boris)
+* Nostr: [boris@dergigi.com](https://njump.to/npub19802see0gnk3vjlus0dnmfdagusqrtmsxpl5yfmkwn9uvnfnqylqduhr0x)
 * Source: [GitHub](https://github.com/dergigi/boris)
 
 [boris]: https://www.readwithboris.com/
@@ -58,6 +62,7 @@ making reading on the web a more personal and sovereign experience.
 {% include image.html path="/assets/images/bitcoin/projects/castr-me.png" link="https://castr.me" %}
 
 * Website: [castr.me][castrme]
+* Nostr: [castr@dergigi.com](https://njump.to/npub196qvw7utjs0cnztlg4aww98ekql9svm6c4wlv6sug70nzz0uujxsprafme)
 * Source: [GitHub](https://github.com/dergigi/castr.me)
 
 [castrme]: https://castr.me/
@@ -139,6 +144,7 @@ Both games can be installed as PWAs, so they can live on your home screen like q
 {% include image.html path="/assets/images/bitcoin/projects/unicorn-vs-snakes.png" link="https://unicorn.dergigi.com" %}
 
 * Website: [unicorn.dergigi.com][uvs]
+* Nostr: [#UvS](https://ants.sh/t/UvS)
 * Source: [GitHub](https://github.com/dergigi/unicorn-vs-snakes)
 
 [uvs]: https://unicorn.dergigi.com/
@@ -158,6 +164,7 @@ scenes and get a glimpse of this work in progress.
 {% include image.html path="/assets/images/bitcoin/projects/21ways.png" link="https://patreon.com/dergigi" %}
 
 * Website: [21-ways.com](https://21-ways.com)
+* Nostr: [21 Ways](https://njump.to/npub1g4ywuxtu0yw24tpxxzweuyaz2yxrhenpx6lq945g4l3j4xca5q0slcwhgj)
 * Patreon: [21 Ways](https://patreon.com/dergigi)
 
 ### 21 Lessons
@@ -210,6 +217,7 @@ heads around nostr, and I guess this is the purpose still.
 {% include image.html path="/assets/images/bitcoin/projects/nostr-resources.png" link="https://nostr-resources.com" %}
 
 * Website: [nostr-resources.com][nostr-resources]
+* Nostr: [@nostr-resources.com](https://njump.to/npub166qthqk9lghgpjy8zkxxuwud5n6rtkv7kacsm2ku5w6gfgrruwvq83qv5j)
 * Contribute: [GitHub](https://github.com/nostr-resources/nostr-resources.github.io/blob/master/CONTRIBUTING.md)
 * Source: [GitHub](https://github.com/nostr-resources/nostr-resources.github.io)
 
@@ -243,28 +251,23 @@ to get random quotes in your timeline.
 
 ### Value4Value
 
-[Value4Value][value4value] is a comprehensive resource about the Value4Value model - a monetization model, content format, and way of life that emphasizes freedom, openness, connection, and free speech. The site explores how this model enables direct relationships between creators and audiences, leading to dynamic feedback loops of co-creation. It covers the philosophy behind V4V, practical guides for implementation, and showcases successful applications like Podcasting 2.0 and Nostr's zaps.
+[Value4Value](https://value4value.info/) is a comprehensive resource about the Value4Value model - a monetization model, content format, and way of life that emphasizes freedom, openness, connection, and free speech. The site explores how this model enables direct relationships between creators and audiences, leading to dynamic feedback loops of co-creation. It covers the philosophy behind V4V, practical guides for implementation, and showcases successful applications like Podcasting 2.0 and Nostr's zaps.
 
 {% include image.html path="/assets/images/bitcoin/projects/value4value.png" link="https://value4value.info" %}
 
-* Website: [value4value.info][value4value]
+* Website: [value4value.info](https://value4value.info/)
 * Contribute: [GitHub](https://github.com/value4value/value4value.info)
-
-[value4value]: https://value4value.info/
 
 
 ### Lightning Login
 
-[Lightning Login][ll] is a site to showcase LNURL-auth, a lightweight authentication
+Lightning Login was a site to showcase LNURL-auth, a lightweight authentication
 protocol that is easy to use, easy to implement, and respects the user's
-privacy.
+privacy. The site is no longer online.
 
-{% include image.html path="/assets/images/bitcoin/projects/lightninglogin.png" link="https://lightninglogin.live" %}
+{% include image.html path="/assets/images/bitcoin/projects/lightninglogin.png" %}
 
-* Website: [LightningLogin.Live][ll]
 * Source: [GitHub](https://github.com/seetee-io/lnurl-auth-demo)
-
-[ll]: https://lightninglogin.live
 
 
 ### Opsec Swag
@@ -330,7 +333,7 @@ Bitcoin in your timeline.
 
 {% include image.html path="/assets/images/bitcoin/projects/quotablesatoshi.png" link="https://njump.to/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu" %}
 
-* Nostr: [@quotablesatoshi.com](https://njump.to/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu)
+* Nostr: [qsbot@dergigi.com](https://njump.to/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu)
 * Source: [GitHub](https://github.com/dergigi/quotable-satoshi)
 
 
