@@ -145,6 +145,8 @@ default highlight color that we have. Let's change it from pink to
 yellow." And it's done. 7 second voice memo. A minute or two to
 implement. Another couple seconds until the update lands on Zapstore.
 
+{% include image.html name="openclaw-nip17-setup-prompt.png" caption="DM me when you're done." link="https://github.com/fabianfabian/openclaw-nostr-nip17" %}
+
 Magic.
 
 Allow me to repeat once more, for emphasis: publishing Android apps to
