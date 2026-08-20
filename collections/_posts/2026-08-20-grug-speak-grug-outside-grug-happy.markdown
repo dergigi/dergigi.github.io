@@ -97,7 +97,7 @@ Grug outside. Grug happy. Grug see weird thing in app. Grug speak into
 phone. Grug take walk. Grug see update. Grug install update. Grug see
 bug fixed. Grug happy.
 
-{% include image.html name="grug-curve.001.png" caption="Far-left of the bell curve." %}
+{% include image.html name="grug-curve.png" caption="Far-left of the bell curve." %}
 
 The reason why this process works so well for me, I believe, is that I
 used to work with other people a lot. I used to work in teams, with
