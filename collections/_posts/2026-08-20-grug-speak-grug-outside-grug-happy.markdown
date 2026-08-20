@@ -181,6 +181,8 @@ they're processing.
 
 [We do](/sloppypasta).
 
+---
+
 [^fn-grug]: [The Grug Brained Developer](https://grugbrain.dev/).
 
 [^fn-clients]: The main clients I use to interface with my agents are
