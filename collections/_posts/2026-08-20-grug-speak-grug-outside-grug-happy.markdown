@@ -132,7 +132,7 @@ long ramble. They will get it almost right, and after that I just
 iterate a couple of times until it is right enough.
 
 Every agent of my swarm has an npub. It's the npub of the project, and
-I talk to it directly. [Ants](/projects#ants), [Boris](/projects#boris),
+I talk to it directly.[^fn-clients] [Ants](/projects#ants), [Boris](/projects#boris),
 [Castr](/projects#castrme), [No Solutions](/projects#no-solutions), and
 so on. The vibeline will route voice memos as [NIP-17
 DMs](https://github.com/dergigi/vibeline/blob/master/plugins/dm.yaml) to the correct agent, based on the opening phrase. Audio is
@@ -180,3 +180,11 @@ because in the final analysis, they don't care about the information
 they're processing.
 
 [We do](/sloppypasta).
+
+[^fn-clients]: The main clients I use to interface with my agents are
+[Dark Wisp](https://zapstore.dev/apps/com.darkwisp.app) and
+[Amethyst](https://zapstore.dev/apps/com.vitorpamplona.amethyst) on
+Android, and Coop on desktop. And as mentioned, I also use the
+[Vibeline](https://github.com/dergigi/vibeline/) (via the
+[Fossify Voice Recorder](https://zapstore.dev/apps/org.fossify.voicerecorder)
+that plugs into it).
