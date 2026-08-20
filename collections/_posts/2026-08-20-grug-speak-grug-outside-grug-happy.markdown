@@ -115,7 +115,7 @@ tests, a design philosophy, and so on. We are polite, detail-oriented,
 and err on the side of whole-assing one thing instead of half-assing
 two things. We ship as early as we can and do many small iterations
 after that. We have a vision, milestones, and yet are flexible enough
-to react to move things around and react to user feedback.
+to move things around and react to user feedback.
 
 In other words: my process works well for me because I use
 well-understood software development practices, and I treat my agents
