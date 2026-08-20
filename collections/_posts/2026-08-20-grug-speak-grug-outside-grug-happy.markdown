@@ -13,7 +13,7 @@ tags:
 - ai
 ---
 
-Before my thinkboi days I used to be a developer. Writing code instead
+Before my [thinkboi](/speech) days I used to be a developer. Writing code instead
 of words, all day every day. Like most developers, I eventually joined
 a team, and various startups, and so on and so forth. I slowly but
 surely turned myself into a "software engineer," or at least that used
