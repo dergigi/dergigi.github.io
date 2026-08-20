@@ -8,10 +8,9 @@ image: "/assets/images/grug-happy.jpg"
 author: Gigi
 category: blog
 tags:
-- Personal
-- ai
 - thoughts
-- Vibing
+- nostr
+- ai
 ---
 
 Before my thinkboi days I used to be a developer. Writing code instead
