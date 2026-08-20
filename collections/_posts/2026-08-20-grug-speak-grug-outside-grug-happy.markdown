@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Grug Happy
+title: Grug Speak, Grug Outside, Grug Happy
 redirect_from: "/grug"
 date: 2026-08-20 22:13:00 +0200
-description: "Grug outside. Grug happy."
+description: "Grug speak. Grug outside. Grug happy."
 image: "/assets/images/grug-happy.jpg"
 author: Gigi
 category: blog
