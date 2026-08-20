@@ -139,8 +139,8 @@ DMs](https://github.com/dergigi/vibeline/blob/master/plugins/dm.yaml) to the cor
 transcribed locally on my machine. All DMs are encrypted. When I run
 local models, which I sometimes do for some things, nothing ever hits
 the cloud. I'll say something like "Hey Boris, I don't like the
-default highlight color that we have. Let's change it from pink to
-yellow." And it's done. 7 second voice memo. A minute or two to
+default highlight color that we have. Could we change it from pink to
+yellow?" And it's done. 7 second voice memo. A minute or two to
 implement. Another couple seconds until the update lands on Zapstore.
 
 Magic.
