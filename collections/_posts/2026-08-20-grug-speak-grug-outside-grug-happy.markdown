@@ -142,7 +142,7 @@ Zapstore is absolutely magical. No account, no sign-up, no
 gatekeeping, no hoops to jump through. Build, sign, push, done.
 Available for everyone, everywhere. Signed by me. No way for
 middlemen to tamper with the release. Zaps and direct community
-feedback are the cherry on top. Shout-out to Franzap, who had the
+feedback are the cherry on top. Shout-out to [Franzap](https://sovereignengineering.io/podcast/26-zapstore-w-franzap), who had the
 vision, and the stamina to actually build the thing. It's wonderful.
 
 I've shipped two apps in the last couple of days, and I have the
