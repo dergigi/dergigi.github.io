@@ -333,7 +333,7 @@ Bitcoin in your timeline.
 
 {% include image.html path="/assets/images/bitcoin/projects/quotablesatoshi.png" link="https://njump.to/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu" %}
 
-* Nostr: [@quotablesatoshi.com](https://njump.to/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu)
+* Nostr: [qsbot@dergigi.com](https://njump.to/npub1satsv3728d65nenvkmzthrge0aduj8088dvwkxk70rydm407cl4s87sfhu)
 * Source: [GitHub](https://github.com/dergigi/quotable-satoshi)
 
 
