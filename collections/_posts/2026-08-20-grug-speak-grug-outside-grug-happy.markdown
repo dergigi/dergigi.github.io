@@ -85,7 +85,7 @@ whatever) - but out in the woods, or strolling through the streets, or
 walking at a lakefront or the beach.
 
 When it comes to development, I see myself on the far-left side of the
-bell curve. I am the [Grug-brained developer](/assets/images/photography/2026-08-20-grug-speak-grug-outside-grug-happy/grug-no-like-rug.png). I like simple things. If
+bell curve. I am the [Grug-brained developer](/assets/images/photography/2026-08-20-grug-speak-grug-outside-grug-happy/grug-no-like-rug.png).[^fn-grug] I like simple things. If
 I don't understand them, I don't want them. I am the guy who is
 drooling out of the mouth while putting together oversized Lego pieces
 that others have meticulously designed. But I can build a tower, and
@@ -180,6 +180,8 @@ because in the final analysis, they don't care about the information
 they're processing.
 
 [We do](/sloppypasta).
+
+[^fn-grug]: [The Grug Brained Developer](https://grugbrain.dev/).
 
 [^fn-clients]: The main clients I use to interface with my agents are
 [Dark Wisp](https://zapstore.dev/apps/com.darkwisp.app) and
