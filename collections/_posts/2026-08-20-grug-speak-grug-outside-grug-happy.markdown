@@ -132,7 +132,7 @@ It works extremely well. As do long rambling audio sessions to
 brainstorm a new feature. Rubber-duck debugging, but my (micro)phone
 is the rubber-duck. I hit record and I'll just ramble for five, ten,
 even 20 minutes. LLMs are fantastic at distilling the essence from a
-long ramble. It will get it almost right, and after that I just
+long ramble. They will get it almost right, and after that I just
 iterate a couple of times until it is right enough.
 
 Every agent of my swarm has an npub. It's the npub of the project, and
