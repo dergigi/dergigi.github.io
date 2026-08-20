@@ -251,14 +251,12 @@ to get random quotes in your timeline.
 
 ### Value4Value
 
-[Value4Value][value4value] is a comprehensive resource about the Value4Value model - a monetization model, content format, and way of life that emphasizes freedom, openness, connection, and free speech. The site explores how this model enables direct relationships between creators and audiences, leading to dynamic feedback loops of co-creation. It covers the philosophy behind V4V, practical guides for implementation, and showcases successful applications like Podcasting 2.0 and Nostr's zaps.
+[Value4Value](https://value4value.info/) is a comprehensive resource about the Value4Value model - a monetization model, content format, and way of life that emphasizes freedom, openness, connection, and free speech. The site explores how this model enables direct relationships between creators and audiences, leading to dynamic feedback loops of co-creation. It covers the philosophy behind V4V, practical guides for implementation, and showcases successful applications like Podcasting 2.0 and Nostr's zaps.
 
 {% include image.html path="/assets/images/bitcoin/projects/value4value.png" link="https://value4value.info" %}
 
-* Website: [value4value.info][value4value]
+* Website: [value4value.info](https://value4value.info/)
 * Contribute: [GitHub](https://github.com/value4value/value4value.info)
-
-[value4value]: https://value4value.info/
 
 
 ### Lightning Login
