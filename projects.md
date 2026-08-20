@@ -216,6 +216,7 @@ heads around nostr, and I guess this is the purpose still.
 {% include image.html path="/assets/images/bitcoin/projects/nostr-resources.png" link="https://nostr-resources.com" %}
 
 * Website: [nostr-resources.com][nostr-resources]
+* Nostr: [@nostr-resources.com](https://njump.to/npub166qthqk9lghgpjy8zkxxuwud5n6rtkv7kacsm2ku5w6gfgrruwvq83qv5j)
 * Contribute: [GitHub](https://github.com/nostr-resources/nostr-resources.github.io/blob/master/CONTRIBUTING.md)
 * Source: [GitHub](https://github.com/nostr-resources/nostr-resources.github.io)
 
