@@ -185,6 +185,6 @@ they're processing.
 
 [^fn-others]: See [The Shape of Things to Come](https://yegge.ai/essays/the-shape-of-things-to-come/) and [Buzz, Mosaico, and Other Stuff w/ Pablo](https://sovereignengineering.io/podcast/31-buzz-mosaico-and-other-stuff-w-pablo).
 
-[^fn-grug]: [The Grug Brained Developer](https://grugbrain.dev/).
+[^fn-grug]: [The Grug Brained Developer](https://grugbrain.dev/). I should buy the book.
 
 [^fn-clients]: The main clients I use to interface with my agents are [Dark Wisp](https://zapstore.dev/apps/com.darkwisp.app) and [Amethyst](https://zapstore.dev/apps/com.vitorpamplona.amethyst) on Android, and [Coop](https://coopchat.xyz/) on desktop. And as mentioned, I also use the [Vibeline](https://github.com/dergigi/vibeline/) (via the [Fossify Voice Recorder](https://zapstore.dev/apps/org.fossify.voicerecorder) that plugs into it).
