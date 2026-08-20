@@ -261,16 +261,13 @@ to get random quotes in your timeline.
 
 ### Lightning Login
 
-[Lightning Login][ll] is a site to showcase LNURL-auth, a lightweight authentication
+Lightning Login was a site to showcase LNURL-auth, a lightweight authentication
 protocol that is easy to use, easy to implement, and respects the user's
-privacy.
+privacy. The site is no longer online.
 
-{% include image.html path="/assets/images/bitcoin/projects/lightninglogin.png" link="https://lightninglogin.live" %}
+{% include image.html path="/assets/images/bitcoin/projects/lightninglogin.png" %}
 
-* Website: [LightningLogin.Live][ll]
 * Source: [GitHub](https://github.com/seetee-io/lnurl-auth-demo)
-
-[ll]: https://lightninglogin.live
 
 
 ### Opsec Swag
