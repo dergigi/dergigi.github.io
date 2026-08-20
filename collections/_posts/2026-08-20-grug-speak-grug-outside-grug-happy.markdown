@@ -164,7 +164,7 @@ Who knows what the implications of all that will be. I agree with
 Uno's concerns, one of which is that nobody will care about the apps
 that are going to be built. If everyone builts their own app, tailored
 to their liking, who else will care about it but them? Whatever the
-answer to that question may be, I will continue to work on Boris, the
+answer to that question may be, I will continue to work on [Boris](https://zapstore.dev/apps/org.dergigi.boris), the
 reading app of my dreams. I love highlights, as anyone who ever
 followed me on nostr can attest to.
 
