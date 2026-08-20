@@ -161,7 +161,7 @@ It's remarkable what is possible with the tools of this age. If you
 know how to wield them, that is.
 
 Who knows what the implications of all that will be. I agree with
-Uno's concerns, one of which is that nobody will care about the apps
+[Uno's concerns](https://njump.to/naddr1qqgrgvnzx9jkzdp5xqmrwvfc89nr2q3q4q8uffuxxnhzd24u4j23kn8a0dt2ux96h5eutt7u76lddhyqa0gsxpqqqp65w0yukrq), one of which is that nobody will care about the apps
 that are going to be built. If everyone builts their own app, tailored
 to their liking, who else will care about it but them? Whatever the
 answer to that question may be, I will continue to work on [Boris](https://zapstore.dev/apps/org.dergigi.boris), the
