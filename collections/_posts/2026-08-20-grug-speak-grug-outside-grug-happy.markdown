@@ -84,6 +84,8 @@ sitting in front of the computer to develop an app (or a website, or
 whatever) - but out in the woods, or strolling through the streets, or
 walking at a lakefront or the beach.
 
+{% include image.html name="vibeline-vision.png" caption="Speak. Touch grass. Check vibes." link="https://github.com/dergigi/vibeline/" %}
+
 When it comes to development, I see myself on the far-left side of the
 bell curve. I am the Grug-brained developer. I like simple things. If
 I don't understand them, I don't want them. I am the guy who is
@@ -92,10 +94,14 @@ that others have meticulously designed. But I can build a tower, and
 that gives me joy, even if other tower-builders will think that my
 tower is crooked and ugly and statically unsound.
 
+{% include image.html name="grug-curve.001.png" caption="Far-left of the bell curve." %}
+
 Here is my current "development" process, if you want to call it that:
 Grug outside. Grug happy. Grug see weird thing in app. Grug speak into
 phone. Grug take walk. Grug see update. Grug install update. Grug see
 bug fixed. Grug happy.
+
+{% include image.html name="grug-no-like-rug.001.png" caption="Grug no like rug." %}
 
 The reason why this process works so well for me, I believe, is that I
 used to work with other people a lot. I used to work in teams, with
