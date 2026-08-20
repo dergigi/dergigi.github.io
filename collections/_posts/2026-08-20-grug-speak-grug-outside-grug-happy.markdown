@@ -77,7 +77,7 @@ I was hooked. "Look at me, I am the Android developer now."
 {% include image.html name="look-at-me.png" %}
 
 [The vision](/assets/images/photography/2026-08-20-grug-speak-grug-outside-grug-happy/vibeline-vision.png) I had when I started working on the vibeline is now fully
-realized. I'm not the only one doing this stuff, of course. Far from
+realized. I'm not the only one doing this stuff, of course.[^fn-others] Far from
 it. But it's amazing what you can achieve once you start shipping at
 inference speed, and it is amazing how freeing it is when you are not
 sitting in front of the computer to develop an app (or a website, or
@@ -182,6 +182,8 @@ they're processing.
 [We do](/sloppypasta).
 
 ---
+
+[^fn-others]: See [The Shape of Things to Come](https://yegge.ai/essays/the-shape-of-things-to-come/) and [Buzz, Mosaico, and Other Stuff w/ Pablo](https://sovereignengineering.io/podcast/31-buzz-mosaico-and-other-stuff-w-pablo).
 
 [^fn-grug]: [The Grug Brained Developer](https://grugbrain.dev/).
 
