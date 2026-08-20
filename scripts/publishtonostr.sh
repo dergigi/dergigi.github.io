@@ -177,7 +177,7 @@ BODY_RAW="$(echo "$BODY_RAW" | perl -ne '
 # ![alt](/path/to/image.jpg#full) -> ![alt](https://site.com/path/to/image.jpg)
 # ![alt](/path/to/video.mp4#full) -> ![alt](https://site.com/path/to/video.mp4)
 # Skip URLs that are already absolute (start with http:// or https://)
-BODY_RAW="$(SITE_URL="$SITE_URL" echo "$BODY_RAW" | perl -pe '
+BODY_RAW="$(echo "$BODY_RAW" | SITE_URL="$SITE_URL" perl -pe '
   BEGIN { $site = $ENV{SITE_URL}; }
   s|!\[([^\]]*)\]\(([^)]+)\)|do { my ($alt, $url) = ($1, $2); sprintf("![%s](%s)", $alt, ($url =~ m{^https?://}) ? $url : ((substr($url, 0, 1) eq "/") ? $site . $url : $site . "/" . $url)); }|ge
 ')"
@@ -206,7 +206,7 @@ BODY_RAW="$(echo "$BODY_RAW" | perl -ne '
 # [text](/path) -> [text](https://site.com/path)
 # [text](/path#anchor) -> [text](https://site.com/path#anchor)
 # Don't convert absolute links (http/https)
-BODY_RAW="$(SITE_URL="$SITE_URL" echo "$BODY_RAW" | perl -pe '
+BODY_RAW="$(echo "$BODY_RAW" | SITE_URL="$SITE_URL" perl -pe '
   BEGIN { $site = $ENV{SITE_URL}; }
   s|\[([^\]]+)\]\(([^)]+)\)|do { my ($text, $url) = ($1, $2); sprintf("[%s](%s)", $text, ($url =~ m{^https?://}) ? $url : (substr($url, 0, 1) eq "/" ? $site . $url : $site . "/" . $url)); }|ge
 ')"
