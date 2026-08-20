@@ -163,6 +163,7 @@ scenes and get a glimpse of this work in progress.
 {% include image.html path="/assets/images/bitcoin/projects/21ways.png" link="https://patreon.com/dergigi" %}
 
 * Website: [21-ways.com](https://21-ways.com)
+* Nostr: [npub1g4ywuxtu0yw24tpxxzweuyaz2yxrhenpx6lq945g4l3j4xca5q0slcwhgj](https://njump.to/npub1g4ywuxtu0yw24tpxxzweuyaz2yxrhenpx6lq945g4l3j4xca5q0slcwhgj)
 * Patreon: [21 Ways](https://patreon.com/dergigi)
 
 ### 21 Lessons
