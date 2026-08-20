@@ -41,12 +41,14 @@ environment for consuming long-form content. With clean typography, offline read
 and social highlights, Boris makes it easy to read, annotate, and share your favorite articles
 and blog posts. Built on Nostr, all your highlights, bookmarks, and reading metadata belong to
 you and remain under your control. The project emphasizes simplicity and user ownership,
-making reading on the web a more personal and sovereign experience.
+making reading a more personal and sovereign experience. It lives on the web and as an
+Android app on Zapstore.
 
 {% include image.html path="/assets/images/bitcoin/projects/boris.png" link="https://www.readwithboris.com" %}
 
 * Website: [readwithboris.com][boris]
 * App: [read.withboris.com](https://read.withboris.com)
+* Android: [Zapstore](https://zapstore.dev/apps/org.dergigi.boris)
 * Source: [GitHub](https://github.com/dergigi/boris)
 
 [boris]: https://www.readwithboris.com/
