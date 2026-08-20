@@ -25,6 +25,8 @@ though I had all the early devices. The Nokia phones, of course, but
 also one of the first tri-band phones, one of the first flip phones,
 and also one of the first iPhones.
 
+{% include image.html name="meme-wars.jpg" %}
+
 My third love was open-source software. I had a friend once, a Linux
 nerd, and as I was stumbling into this world I asked him what Linux
 distribution I should install. "Gentoo," was his answer. Oh, the
