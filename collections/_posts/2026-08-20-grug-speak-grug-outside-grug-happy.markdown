@@ -155,7 +155,7 @@ middlemen to tamper with the release. Zaps and direct community
 feedback are the cherry on top. Shout-out to [Franzap](https://sovereignengineering.io/podcast/26-zapstore-w-franzap), who had the
 vision, and the stamina to actually build the thing. It's wonderful.
 
-I've shipped two apps in the last couple of days, and I have the
+I've shipped [two apps](https://zapstore.dev/profile/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc) in the last couple of days, and I have the
 feeling that I'll ship many more. Maybe I'll end up like [Martti
 Malmi](https://sovereignengineering.io/podcast/21-hashtree-nostr-vpn-and-iris-w-martti-malmi), who is in the process of rebuilding every single app he uses
 as a daily driver, but custom-tailored to his liking, and with some
