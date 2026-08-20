@@ -168,7 +168,7 @@ answer to that question may be, I will continue to work on [Boris](https://zapst
 reading app of my dreams. I love highlights, as anyone who ever
 followed me on nostr can attest to.
 
-There is a lot of good stuff out there on the internet. The challenge
+There is a lot of good stuff out there on [the internet](/internet). The challenge
 is to find it. And I don't believe that LLMs can help with that,
 because in the final analysis, they don't care about the information
 they're processing.
