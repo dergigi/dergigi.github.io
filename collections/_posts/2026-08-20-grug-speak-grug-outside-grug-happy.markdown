@@ -173,4 +173,4 @@ is to find it. And I don't believe that LLMs can help with that,
 because in the final analysis, they don't care about the information
 they're processing.
 
-We do.
+[We do](/sloppypasta).
