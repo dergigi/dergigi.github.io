@@ -46,7 +46,7 @@ figure out at the time, so the CEO asked me if I could take a look,
 and well... "No good deed ever goes unpunished," as a friend of mine
 likes to say.
 
-I eventually fell down the Bitcoin rabbit hole and stopped writing
+I eventually fell down [the Bitcoin rabbit hole](https://21lessons.com/) and stopped writing
 software. I mean, I always did a little bit of coding on the side, and
 worked on some projects here and there, but I didn't work on any
 serious (read: big) projects.
