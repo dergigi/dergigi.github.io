@@ -85,7 +85,7 @@ whatever) - but out in the woods, or strolling through the streets, or
 walking at a lakefront or the beach.
 
 When it comes to development, I see myself on the far-left side of the
-bell curve. I am the [Grug-brained developer](/assets/images/photography/2026-08-20-grug-speak-grug-outside-grug-happy/grug-no-like-rug.001.png). I like simple things. If
+bell curve. I am the [Grug-brained developer](/assets/images/photography/2026-08-20-grug-speak-grug-outside-grug-happy/grug-no-like-rug.png). I like simple things. If
 I don't understand them, I don't want them. I am the guy who is
 drooling out of the mouth while putting together oversized Lego pieces
 that others have meticulously designed. But I can build a tower, and
