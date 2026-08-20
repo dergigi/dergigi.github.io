@@ -62,7 +62,7 @@ skills and AGENT.md files, the whole shebang.
 To my surprise, everything worked out-of-the-box. I was able to
 one-shot an MVP and all I had to do was iterate from there. I didn't
 even need the Android emulator or a connected device. I told my agents
-to publish directly to Zapstore. I would sign my releases with Amber,
+to publish directly to [Zapstore](https://zapstore.dev/). I would sign my releases with Amber,
 install them on my device, and test everything in production. If
 something was wrong, I would send a screenshot or a voice note to one
 of my agents, and they would immediately kick into action to fix
