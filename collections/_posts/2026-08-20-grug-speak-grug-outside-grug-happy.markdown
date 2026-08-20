@@ -76,15 +76,13 @@ I was hooked. "Look at me, I am the Android developer now."
 
 {% include image.html name="look-at-me.png" caption="Look at me, I am the Android developer now." %}
 
-The vision I had when I started working on the vibeline is now fully
+[The vision](/assets/images/photography/2026-08-20-grug-speak-grug-outside-grug-happy/vibeline-vision.png) I had when I started working on the vibeline is now fully
 realized. I'm not the only one doing this stuff, of course. Far from
 it. But it's amazing what you can achieve once you start shipping at
 inference speed, and it is amazing how freeing it is when you are not
 sitting in front of the computer to develop an app (or a website, or
 whatever) - but out in the woods, or strolling through the streets, or
 walking at a lakefront or the beach.
-
-{% include image.html name="vibeline-vision.png" caption="Speak. Touch grass. Check vibes." link="https://github.com/dergigi/vibeline/" %}
 
 When it comes to development, I see myself on the far-left side of the
 bell curve. I am the Grug-brained developer. I like simple things. If
