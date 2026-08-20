@@ -30,7 +30,7 @@ nerd, and as I was stumbling into this world I asked him what Linux
 distribution I should install. "Gentoo," was his answer. Oh, the
 agony. He is not my friend anymore.
 
-{% include image.html name="meme-wars.jpg" caption="Me and my first love." %}
+{% include image.html name="meme-wars.jpg" caption="Me and my first love." link="/names" %}
 
 I eventually landed on more sensible distributions, with Arch being my
 main one for many many years (I still run Arch on one of my machines,
