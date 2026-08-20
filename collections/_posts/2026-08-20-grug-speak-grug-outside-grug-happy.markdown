@@ -64,7 +64,7 @@ one-shot an MVP and all I had to do was iterate from there. I didn't
 even need the Android emulator or a connected device. I told my agents
 to publish directly to [Zapstore](https://zapstore.dev/). I would sign my releases with [Amber](https://zapstore.dev/apps/com.greenart7c3.nostrsigner),
 install them on my device, and test everything in production. If
-something was wrong, I would send a screenshot or a voice note to one
+something was wrong, I would [send a screenshot](/assets/images/photography/2026-08-20-grug-speak-grug-outside-grug-happy/boris-dm.png) or a voice note to one
 of my agents, and they would immediately kick into action to fix
 things, or build the feature that was missing, or polish the UI, or
 whatever. Another agent would integrate the changes, update the
