@@ -74,7 +74,7 @@ my device a couple of seconds later.
 
 I was hooked. "Look at me, I am the Android developer now."
 
-{% include image.html name="look-at-me.png" caption="Look at me, I am the Android developer now." %}
+{% include image.html name="look-at-me.png" %}
 
 [The vision](/assets/images/photography/2026-08-20-grug-speak-grug-outside-grug-happy/vibeline-vision.png) I had when I started working on the vibeline is now fully
 realized. I'm not the only one doing this stuff, of course. Far from
