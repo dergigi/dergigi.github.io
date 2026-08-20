@@ -74,6 +74,8 @@ my device a couple of seconds later.
 
 I was hooked. "Look at me, I am the Android developer now."
 
+{% include image.html name="look-at-me.png" caption="Look at me, I am the Android developer now." %}
+
 The vision I had when I started working on the vibeline is now fully
 realized. I'm not the only one doing this stuff, of course. Far from
 it. But it's amazing what you can achieve once you start shipping at
