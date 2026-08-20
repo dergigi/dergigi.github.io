@@ -144,6 +144,7 @@ Both games can be installed as PWAs, so they can live on your home screen like q
 {% include image.html path="/assets/images/bitcoin/projects/unicorn-vs-snakes.png" link="https://unicorn.dergigi.com" %}
 
 * Website: [unicorn.dergigi.com][uvs]
+* Nostr: [#UvS](https://ants.sh/t/UvS)
 * Source: [GitHub](https://github.com/dergigi/unicorn-vs-snakes)
 
 [uvs]: https://unicorn.dergigi.com/
