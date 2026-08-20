@@ -101,7 +101,7 @@ The reason why this process works so well for me, I believe, is that I
 used to work with other people a lot. I used to work in teams, with
 proper processes and structures in place, and all my projects still
 use these processes and structures, even if it's just me and my agents
-now. We commit early and often. We use conventional commits. We keep a
+now. We commit early and often. We use [conventional commits](https://www.conventionalcommits.org/). We keep a
 [changelog](https://keepachangelog.com/en/1.0.0/). We use [semantic versioning](https://semver.org/). We track bugs and features as
 issues. We create pull requests to fix these bugs and implement these
 features. We have a proper CI/CD process, some specifications, some
