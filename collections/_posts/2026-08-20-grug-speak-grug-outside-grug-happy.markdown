@@ -146,8 +146,8 @@ feedback are the cherry on top. Shout-out to [Franzap](https://sovereignengineer
 vision, and the stamina to actually build the thing. It's wonderful.
 
 I've shipped two apps in the last couple of days, and I have the
-feeling that I'll ship many more. Maybe I'll end up like Martti
-Malmi, who is in the process of rebuilding every single app he uses
+feeling that I'll ship many more. Maybe I'll end up like [Martti
+Malmi](https://sovereignengineering.io/podcast/21-hashtree-nostr-vpn-and-iris-w-martti-malmi), who is in the process of rebuilding every single app he uses
 as a daily driver, but custom-tailored to his liking, and with some
 sort of nostr integration of course. Or I'll end up like [Justin Moon](https://sovereignengineering.io/podcast/23-shipping-violently-w-justin-moon),
 who has (or at least had?) the ambition of building his own Android
