@@ -67,6 +67,8 @@ whatever. If I have a physical printed-out copy I use the highlighter and the
 pen that are in my backpack. I rarely leave the house without my backpack,
 meaning that I always have my trusty highlighter with me. (I'm not kidding.)
 
+{% include image.html name="highlighted-book.jpg" alt="A physical book page with a yellow highlight" %}
+
 Oh, and one last thing regarding my reading workflow: If something I
 highlighted is particularly delightful, I'll take a picture and share it with
 my friends. Or I'll just take a picture for myself, so I'll find the passage
