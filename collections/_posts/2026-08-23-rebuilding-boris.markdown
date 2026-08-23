@@ -175,8 +175,8 @@ myself, and from others.
 a full-blown nostr client. It will never be a podcast player. It will always
 be a dedicated reading app, one that is a joy to use, and one that isn't
 reliant on any third parties. In other words: a reading app that won't go
-away. A reading app that will always be there for you. Boris will never rug
-you, because it can't.
+away. A reading app that will always be there for you. A reading app that will
+never rug you, because it can't.
 
 I can finally build all the stuff I always wanted to have. Without any
 barriers, without asking anyone for permission.
