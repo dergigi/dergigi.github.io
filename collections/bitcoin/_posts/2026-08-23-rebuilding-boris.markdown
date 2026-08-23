@@ -84,7 +84,7 @@ tends to mean spotty connection time).
 That's what Boris aims to be. And my first attempt at building it, [a 21-day
 experiment](/2025/10/31/building-boris/) that culminated in levels of
 AI-psychosis that shouldn't even be possible, failed. Or at least kind of
-failed. The webapp version of Boris kinda worked, but also kinda sucked. I
+failed. The webapp version of Boris[^fn-webapp] kinda worked, but also kinda sucked. I
 hope to make it better one day, but I can say with confidence that it sucked
 since I didn't use it as my daily driver reading app.
 
@@ -190,3 +190,5 @@ What a wonderful time to be alive.
 ---
 
 [^fn-socratic]: As mentioned in a [previous post](/2026/08/20/grug-speak-grug-outside-grug-happy/), I often use the Socratic method with my clankers to build up a shared understanding, or 'context' to use AI speak.
+
+[^fn-webapp]: The webapp is still available at [read.withboris.com](https://read.withboris.com) - but it's not as good as the Android app.
