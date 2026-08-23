@@ -128,6 +128,8 @@ track of what could be improved. I recorded lots of thoughts and had long
 rambling sessions which eventually turned into features, after feeding them
 through my clanker pipeline (and sleeping on everything once or twice).
 
+{% include image.html name="android-screens.png" alt="Four Boris Android screens: reading, highlighting, and listening with TTS" %}
+
 After two weeks other people started to take notice, and actually started
 using it. I got lots of constructive feedback. Some people had fantastic
 ideas, such as adding RSS feeds as one of the library sources. To my delight,
