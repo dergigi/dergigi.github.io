@@ -180,4 +180,4 @@ What a wonderful time to be alive.
 
 ---
 
-[^fn-socratic]: As mentioned in a [previous post](/2025/10/31/building-boris/#dialogical-development), I often use the Socratic method with my clankers to build up a shared understanding, or 'context' to use AI speak.
+[^fn-socratic]: As mentioned in a [previous post](/2026/08/20/grug-speak-grug-outside-grug-happy/), I often use the Socratic method with my clankers to build up a shared understanding, or 'context' to use AI speak.
