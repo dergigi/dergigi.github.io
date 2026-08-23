@@ -90,7 +90,7 @@ since I didn't use it as my daily driver reading app.
 I failed. What a shame.
 
 But I wouldn't be my mother's son if I wouldn't try again, since one of her
-infamous sayings was "Aufgeben tut man einen Brief." Not sure if the saying
+infamous [sayings](/sayings) was "Aufgeben tut man einen Brief." Not sure if the saying
 makes sense in any other language but German, but it basically means that the
 only "giving up" that is permissible is "giving up" a letter at the post
 office (the German phrase to bring a letter to the post office is the same as
