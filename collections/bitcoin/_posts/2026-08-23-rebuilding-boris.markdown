@@ -147,6 +147,8 @@ I am not the only person who finally has a reading app they enjoy. Turns out
 there are at least two other people that have a reading workflow similar enough
 to mine!
 
+{% include image.html name="zapstore-comments.png" alt="Zapstore comments on Boris Android" link="https://zapstore.dev/apps/org.dergigi.boris" %}
+
 ## Where to go from here?
 
 The last time I ran this experiment I overcooked it. In the spirit of making
