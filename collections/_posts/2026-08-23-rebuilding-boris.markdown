@@ -162,7 +162,7 @@ You have to protect your time, your body, and your brain. But most importantly
 you have to protect your attention, and I have to protect my feature set. From
 myself, and from others.
 
-Boris will remain an opinionated app, and I love it that way. It will never be
+[Boris](https://readwithboris.com) will remain an opinionated app, and I love it that way. It will never be
 a full-blown nostr client. It will never be a podcast player. It will always
 be a dedicated reading app, one that is a joy to use, and one that isn't
 reliant on any third parties. In other words: a reading app that won't go
