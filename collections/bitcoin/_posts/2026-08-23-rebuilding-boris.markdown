@@ -2,8 +2,8 @@
 layout: post
 title: Rebuilding Boris
 redirect_from: "/rebuilding"
-date: 2026-08-23 22:15:00 +0200
-description: "There is no fail. There is learn, and try again."
+date: 2026-08-23 22:15:00.000000000 +02:00
+description: There is no fail. There is learn, and try again.
 image: "/assets/images/rebuilding-boris.png"
 author: Gigi
 category: nostr
@@ -11,6 +11,7 @@ tags:
 - Writing
 - ai
 - nostr
+boris_link: https://read.withboris.com/a/naddr1qqg8yetzw45kcerfdenj6cn0wf5hxq3qdergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsxpqqqp65w483a7m
 ---
 
 A couple of months ago (maybe it was a year ago already? Who knows, time is
