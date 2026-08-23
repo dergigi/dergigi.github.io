@@ -45,8 +45,8 @@ mix the two. When I'm in browsing mode, I'm in discovery mode. Scrolling
 feeds, searching for random stuff, clicking on lots of links, discovering
 authors and books, having 300 tabs open. If something is interesting (or
 interesting enough) I put it on a list. This might be a list in my notebook,
-or a list in one of my reading apps, or a simple bookmark, or I put it into
-my daily notes, or whatever. In short: I save it for later. I'm not in
+or a list in one of my reading apps, or my list of books to buy, or a simple
+bookmark, or I put it into my daily notes, or whatever. In short: I save it for later. I'm not in
 "reading mode" right now, so I won't even bother to start reading it. Maybe
 I'll read a short excerpt, or scan through it briefly. But usually I don't.
 Usually, the social signal attached to my discovery process is enough. Someone
