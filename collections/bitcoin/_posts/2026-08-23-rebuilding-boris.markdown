@@ -135,6 +135,11 @@ through my clanker pipeline (and sleeping on everything once or twice).
 
 {% include image.html name="android-screens.png" align="left" alt="Four Boris Android screens: reading, highlighting, and listening with TTS" %}
 
+Keep in mind that I've built it all on the side, nonchalantly, while doing
+chores, taking care of the kids, getting groceries, and so on. I
+[grugged](/2026/08/20/grug-speak-grug-outside-grug-happy/) my way through it,
+sending DMs and voice notes and screenshots to agents.
+
 After two weeks other people started to take notice, and actually started
 using it. I got lots of constructive feedback. Some people had fantastic
 ideas, such as adding RSS feeds as one of the library sources. To my delight,
