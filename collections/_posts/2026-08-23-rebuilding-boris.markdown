@@ -137,6 +137,8 @@ I am not the only person who finally has a reading app they enjoy. Turns out
 there are at least two other people that have a reading workflow similar enough
 to mine!
 
+{% include image.html name="android-home.png" alt="Four Boris Android screens: home, library, feeds, and search" %}
+
 ## Where to go from here?
 
 The last time I ran this experiment I overcooked it. In the spirit of making
