@@ -99,7 +99,7 @@ office (the German phrase to bring a letter to the post office is the same as
 
 There is no fail. There is learn, and try again.
 
-## Boris Android: Going Native
+## Boris Redux: Going Native
 
 My past adventures in Boris-land ended with me saying something like "maybe
 there's gonna be a model soon that does all the things, that doesn't make the
