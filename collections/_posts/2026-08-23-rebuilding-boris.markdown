@@ -21,12 +21,12 @@ be. I asked who invented the highlight marker, and one of those artificially
 intelligent systems, the systems that we all seem to think of so highly of
 right now, artificially lied to me.
 
-{% include image.html path="/assets/images/bitcoin/2025-10-31-building-boris/boris-inventor-of-the-highlighter.png" link="/2025/10/31/building-boris/" %}
-
 I still find it curious that we call these lies "hallucinations," as if
 providing inaccurate or dangerously wrong information to millions and millions
 of people is somehow cute, a little oopsi-daisy that might happen on an LSD
 trip or something.
+
+{% include image.html path="/assets/images/bitcoin/2025-10-31-building-boris/boris-inventor-of-the-highlighter.png" link="/2025/10/31/building-boris/" %}
 
 Boris is full of these hallucinations, of course. I never looked at the source
 code, which was one goal of this experiment: "vibe" something that's
