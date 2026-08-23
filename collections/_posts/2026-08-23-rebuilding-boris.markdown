@@ -153,6 +153,10 @@ on quality-of-life and performance improvements. But I won't go insane-o mode,
 full steam ahead, burning billions of tokens every hour of every day to cram
 it full of all the features it doesn't actually need.
 
+I pushed 735 commits and shipped 165 releases. It was a good sprint, and the
+whole point of calling something a sprint is the implication that it is
+unsustainable, that you can't do it all the time. So I won't.
+
 That said: yes, it will have zaps some day. Yes, it will have comments in
 addition to highlights. Yes, it will have friend-of-a-friend as one of the
 scopes. I also want to make the RSS stuff better, and support more content
