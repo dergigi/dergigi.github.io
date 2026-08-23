@@ -122,6 +122,10 @@ like a native Android app?" "Can you do some research on how other apps
 provide a 'loupe' function to make precise text selection easier? Could we
 implement something like that for Boris?" And so on.[^fn-socratic]
 
+But it also speaks to the improvement of models, and agent harnesses, and
+various tooling around these things. Stuff got quite a bit better in the last
+10 months. Noticibly so.
+
 After three days I had an app that was usable, as good as the webapp. On the
 fourth day I had an app that I enjoyed using. I kept using the app, taking
 lots of notes and screenshots to take inventory of what was broken and keep
