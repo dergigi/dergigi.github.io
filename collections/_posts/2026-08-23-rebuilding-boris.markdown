@@ -141,7 +141,7 @@ to mine!
 
 The last time I ran this experiment I overcooked it. In the spirit of making
 new mistakes, I plan to step away from the development of
-[`boris-android`](https://zapstore.dev/apps/org.dergigi.boris) for a little
+[boris-android](https://github.com/dergigi/boris-android) for a little
 bit, keeping the current version `1.5.x` more-or-less as-is for a little
 while. I might add some small features here and there, fix some bugs, and work
 on quality-of-life and performance improvements. But I won't go insane-o mode,
