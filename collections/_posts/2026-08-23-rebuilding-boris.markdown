@@ -18,7 +18,7 @@ weird in this day and age) I started to work on a little project, as I often
 do. The project's name is Boris, which stands for "bookmarks and other stuff
 read in style." I still have to giggle when I think about how the name came to
 be. I asked who invented the highlight marker, and one of those artificially
-intelligent systems, the systems that we all seem to think of so highly of
+intelligent systems, the systems that we all seem to think so highly of
 right now, artificially lied to me.
 
 I still find it curious that we call these lies "hallucinations," as if
@@ -32,7 +32,7 @@ Boris is full of these hallucinations, of course. I never looked at the source
 code, which was one goal of this experiment: "vibe" something that's
 borderline useful. Build an app that I would actually use myself. A reading
 app that's my own daily driver, good enough so that it does its job, but not
-only that: does its job in a way so that it's a joy to use.
+only that: does its job in a way that it's a joy to use.
 
 "What is your reading workflow?" is one of my favorite questions to ask people
 I interact with. Not everyone has a reading workflow, which is a little
@@ -70,9 +70,8 @@ meaning that I always have my trusty highlighter with me. (I'm not kidding.)
 Oh, and one last thing regarding my reading workflow: If something I
 highlighted is particularly delightful, I'll take a picture and share it with
 my friends. Or I'll just take a picture for myself, so I'll find the passage
-later, in what the cool kids would call "camera roll" I guess (to me it's just
-a gallery, or a folder which syncs to all my devices, and thus shows up in
-various places again, on various devices, ie in various folders or apps).
+later, in what the cool kids would call "camera roll," I guess (to me it's just
+a gallery, or a folder that syncs to all my devices).
 
 To translate all the above into features: the reading app of my dreams makes
 highlighting effortless, should have proper TTS, needs to be natively social
@@ -89,7 +88,7 @@ since I didn't use it as my daily driver reading app.
 
 I failed. What a shame.
 
-But I wouldn't be my mother's son if I wouldn't try again, since one of her
+But I wouldn't be my mother's son if I didn't try again, since one of her
 infamous [sayings](/sayings) was "Aufgeben tut man einen Brief." Not sure if the saying
 makes sense in any other language but German, but it basically means that the
 only "giving up" that is permissible is "giving up" a letter at the post
@@ -98,7 +97,7 @@ office (the German phrase to bring a letter to the post office is the same as
 
 There is no fail. There is learn, and try again.
 
-## Rebuilding Boris
+## Boris Android: Going Native
 
 My past adventures in Boris-land ended with me saying something like "maybe
 there's gonna be a model soon that does all the things, that doesn't make the
@@ -113,8 +112,9 @@ webapp. Three days. That's a 7x improvement.
 
 Granted, I didn't start from scratch fully. I already knew quite well how
 things should work, how the app should look and feel, and I had lots of prior
-art that I could point my clankers to. That helped a lot. "I like how Wisp
-does all the relay stuff. Could we do it in a similar way?" "Do you see the
+art that I could point my clankers to. That helped a lot. "I like how
+[Wisp](https://zapstore.dev/apps/com.darkwisp.app) does all the relay stuff.
+Could we do it in a similar way?" "Do you see the
 settings page of our webapp? Could we do the settings in a similar way for our
 Android app, but maybe split it up in various sub-pages so it looks and feels
 like a native Android app?" "Can you do some research on how other apps
@@ -132,10 +132,10 @@ After two weeks other people started to take notice, and actually started
 using it. I got lots of constructive feedback. Some people had fantastic
 ideas, such as adding RSS feeds as one of the library sources. To my delight,
 I am not the only person who finally has a reading app they enjoy. Turns out
-there's at least two other people that have a reading workflow similar enough
+there are at least two other people that have a reading workflow similar enough
 to mine!
 
-## Where to go from there?
+## Where to go from here?
 
 The last time I ran this experiment I overcooked it. In the spirit of making
 new mistakes, I plan to step away from the development of
