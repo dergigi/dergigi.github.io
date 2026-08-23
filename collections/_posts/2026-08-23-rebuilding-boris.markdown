@@ -112,9 +112,8 @@ webapp. Three days. That's a 7x improvement.
 
 Granted, I didn't start from scratch fully. I already knew quite well how
 things should work, how the app should look and feel, and I had lots of prior
-art that I could point my clankers to. That helped a lot. "I like how
-[Wisp](https://zapstore.dev/apps/com.darkwisp.app) does all the relay stuff.
-Could we do it in a similar way?" "Do you see the
+art that I could point my clankers to. That helped a lot. "I like how Wisp
+does all the relay stuff. Could we do it in a similar way?" "Do you see the
 settings page of our webapp? Could we do the settings in a similar way for our
 Android app, but maybe split it up in various sub-pages so it looks and feels
 like a native Android app?" "Can you do some research on how other apps
