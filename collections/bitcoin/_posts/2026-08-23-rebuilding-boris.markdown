@@ -177,7 +177,7 @@ any time for any duration. What to watch, what to read, what to eat; what to
 _consume_, if you will---that's the all-important question.
 
 You have to protect your time, your body, and your brain. But most importantly
-you have to protect your attention, and I have to protect my feature set. From
+you have to protect your [attention](/attention), and I have to protect my feature set. From
 myself, and from others.
 
 [Boris](https://readwithboris.com) will remain an opinionated app, and I love it that way. It will never be
