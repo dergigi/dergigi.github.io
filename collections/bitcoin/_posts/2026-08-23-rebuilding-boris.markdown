@@ -73,7 +73,7 @@ my friends. Or I'll just take a picture for myself, so I'll find the passage
 later, in what the cool kids would call "camera roll," I guess (to me it's just
 a gallery, or a folder that syncs to all my devices).
 
-{% include image.html name="highlighted-book.jpg" alt="A physical book page with a yellow highlight" %}
+{% include image.html name="highlighted-book.jpg" alt="A physical book page with a yellow highlight" caption="One such picture." %}
 
 To translate all the above into features: the reading app of my dreams makes
 highlighting effortless, should have proper TTS, needs to be natively social
