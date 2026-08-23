@@ -34,6 +34,8 @@ borderline useful. Build an app that I would actually use myself. A reading
 app that's my own daily driver, good enough so that it does its job, but not
 only that: does its job in a way that it's a joy to use.
 
+## My Reading Workflow
+
 "What is your reading workflow?" is one of my favorite questions to ask people
 I interact with. Not everyone has a reading workflow, which is a little
 surprising to me. I say "a little" since I'm well aware that most people
