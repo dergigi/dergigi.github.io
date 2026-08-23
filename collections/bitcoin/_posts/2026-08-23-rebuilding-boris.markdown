@@ -6,9 +6,9 @@ date: 2026-08-23 22:15:00 +0200
 description: "There is no fail. There is learn, and try again."
 image: "/assets/images/rebuilding-boris.png"
 author: Gigi
-category: blog
+category: nostr
 tags:
-- thoughts
+- Writing
 - ai
 - nostr
 ---
