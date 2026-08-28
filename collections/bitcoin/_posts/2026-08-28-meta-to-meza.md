@@ -31,7 +31,7 @@ tags.
 > `<link>` tags with `rel="me"` or `rel="author"` can be used to assign
 > authorship of webpages to Nostr profiles.
 >
-> <cite>[NIP-21][nip21]</cite>
+> <cite>fiatjaf, [NIP-21][nip21]</cite>
 
 ```html
 <link rel="me" href="nostr:npub1..." />
