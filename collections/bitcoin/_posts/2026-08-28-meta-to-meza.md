@@ -19,11 +19,9 @@ how to bridge the old to the new, and vice-versa.
 I've been working on the Android version of [Boris](/rebuilding) recently,
 mostly as a fun experiment on the side (If I'm entirely honest I've been
 doing it as therapy, but let's not get into that). As a consequence, my
-shower thoughts have revolved around web content a lot
-([blog posts](/thinking), [articles](/time), [podcasts](/busking),
-[highlights](/reader), [transcripts](/cryptography), links,
-[quotes](/sayings), and the like). One of said shower thoughts was "How can we make everything
-zappable?"
+shower thoughts have revolved around web content a lot (blog posts, articles, podcasts,
+highlights, transcripts, links, quotes, and the like). One of said shower
+thoughts was "How can we make everything zappable?"
 
 To my delight, lots of prior work exists. The answer, of course, is meta
 tags.
