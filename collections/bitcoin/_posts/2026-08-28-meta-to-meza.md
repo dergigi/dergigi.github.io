@@ -13,6 +13,19 @@ tags:
 - nostr
 ---
 
+If nostr is the new internet, one question that arises quite naturally is
+how to bridge the old to the new, and vice-versa.
+
+I've been working on the Android version of Boris recently, mostly as a fun
+experiment on the side (If I'm entirely honest I've been doing it as
+therapy, but let's not get into that). As a consequence, my shower thoughts
+have revolved around web content a lot (blog posts, articles, podcasts,
+highlights, transcripts, links, quotes, and the like). One of said shower
+thoughts was "How can we make everything zappable?"
+
+To my delight, lots of prior work exists. The answer, of course, is meta
+tags.
+
 > This NIP standardizes the usage of a common URI scheme for maximum
 > interoperability and openness in the network.
 >
@@ -72,7 +85,12 @@ tags:
 >
 > <cite>[XFN 1.1][xfn]</cite>
 
+As of version 1.15.18, boris android supports all of the above. Which
+means: if you post a regular blog post that has the above meta tags
+somewhere, boris will be able to pick them up, determine your npub, and
+include you in the zap splits.
 
+Simple. Just the way I like it.
 
 [nip21]: https://github.com/nostr-protocol/nips/blob/master/21.md
 [nip19]: https://github.com/nostr-protocol/nips/blob/master/19.md
