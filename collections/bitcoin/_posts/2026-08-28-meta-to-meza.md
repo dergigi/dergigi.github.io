@@ -39,7 +39,7 @@ tags.
 <link rel="alternate" href="nostr:naddr1..." />
 ```
 
-As of version 1.15.18, boris android supports all of the above. Which
+As of [version 1.5.18][boris-release], [boris android][boris-android] supports all of the above. Which
 means: if you post a regular [blog post](/writing) that has the above meta tags
 somewhere, boris will be able to pick them up, determine your npub, and
 include you in the zap splits.
@@ -47,3 +47,5 @@ include you in the zap splits.
 Simple. Just the way I like it.
 
 [nip21]: https://github.com/nostr-protocol/nips/blob/master/21.md
+[boris-release]: https://github.com/dergigi/boris-android/releases/tag/v1.5.18
+[boris-android]: https://zapstore.dev/apps/org.dergigi.boris
