@@ -47,7 +47,10 @@
 {% endif %}
 {% if page.boris_link %}
   {% assign nostr_entity = page.boris_link | split: '/' | last | split: '?' | first | remove_first: 'nostr:' %}
-  {% if nostr_entity contains 'naddr1' or nostr_entity contains 'nevent1' or nostr_entity contains 'note1' %}
+  {% assign nostr_naddr = nostr_entity | slice: 0, 6 %}
+  {% assign nostr_nevent = nostr_entity | slice: 0, 7 %}
+  {% assign nostr_note = nostr_entity | slice: 0, 5 %}
+  {% if nostr_naddr == 'naddr1' or nostr_nevent == 'nevent1' or nostr_note == 'note1' %}
 <link rel="alternate" href="nostr:{{ nostr_entity }}">
   {% endif %}
 {% endif %}
