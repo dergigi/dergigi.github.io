@@ -3,7 +3,7 @@ layout: post
 title: META to MEZA
 subtitle: Make Everything ZapAble
 description: Make Everything ZapAble
-date: 2026-08-28 14:44:00
+date: 2026-08-28 13:44:00
 blocktime: 964441
 redirect_from: /meza
 image: "/assets/images/meza.jpg"
