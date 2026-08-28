@@ -16,7 +16,7 @@ tags:
 If nostr is the new internet, one question that arises quite naturally is
 how to bridge the old to the new, and vice-versa.
 
-I've been working on the Android version of [Boris](/rebuilding) recently,
+I've been working on [the Android version of Boris](/rebuilding) recently,
 mostly as a fun experiment on the side (If I'm entirely honest I've been
 doing it as therapy, but let's not get into that). As a consequence, my
 shower thoughts have revolved around web content a lot (blog posts, articles, podcasts,
