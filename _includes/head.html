@@ -32,6 +32,26 @@
 {% capture lightningAddress %}{% if shortName != '' %}{{ shortName }}{% else %}{{ 's' }}{% endif %}@ts.dergigi.com{% endcapture %}
 <meta name="lightning" content="lnurlp:{{ lightningAddress }}"/>
 
+<!-- NIP-21: let nostr apps discover the author and the nostr version of a page -->
+{% assign nostr_uri = nil %}
+{% for social in site.social %}
+  {% if social.name == "nostr" %}
+    {% assign nostr_uri = social.url %}
+  {% endif %}
+{% endfor %}
+{% if nostr_uri %}
+<link rel="me" href="{{ nostr_uri }}">
+{% if page.layout == "post" %}
+<link rel="author" href="{{ nostr_uri }}">
+{% endif %}
+{% endif %}
+{% if page.boris_link %}
+  {% assign nostr_entity = page.boris_link | split: '/' | last | split: '?' | first | remove_first: 'nostr:' %}
+  {% if nostr_entity contains 'naddr1' or nostr_entity contains 'nevent1' or nostr_entity contains 'note1' %}
+<link rel="alternate" href="nostr:{{ nostr_entity }}">
+  {% endif %}
+{% endif %}
+
 <!-- Twitter cards -->
 <meta name="twitter:site"    content="@{{ site.title }}">
 <meta name="twitter:creator" content="@{{ site.twitter_username }}">
