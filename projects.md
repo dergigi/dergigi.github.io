@@ -96,7 +96,7 @@ fork of [Coop](https://git.reya.info/reya/coop), available for macOS, Windows, a
 Linux. Goop is built for keyboard-heavy workflows, with shortcuts for inboxes,
 requests, profile search, text search, tabs, settings, and relay management.
 
-{% include image.html path="/assets/images/bitcoin/projects/goop.svg" link="https://github.com/dergigi/goop" %}
+{% include image.html path="/assets/images/bitcoin/projects/goop.png" link="https://github.com/dergigi/goop" %}
 
 * Source: [GitHub](https://github.com/dergigi/goop)
 * Releases: [GitHub](https://github.com/dergigi/goop/releases/latest)
