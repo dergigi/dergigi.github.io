@@ -4,7 +4,7 @@ title: Projects
 subtitle: Words and Code for Bitcoin
 ---
 
-* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr), [GM Gallery](#gm-gallery), [Lookmarks](#lookmarks), [njump.to](#njumpto), [VibeLine](#vibeline)
+* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr), [GM Gallery](#gm-gallery), [Goop](#goop), [Lookmarks](#lookmarks), [njump.to](#njumpto), [VibeLine](#vibeline)
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
 * Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr), [Human B](#contribution-human-b)
@@ -88,6 +88,21 @@ Android app on Zapstore.
 * Source: [GitHub](https://github.com/dergigi/gm-gallery)
 
 [gm-gallery]: https://gm.dergigi.com/
+
+### Goop
+
+[Goop][goop] is a simple NIP-17 client for secure messaging on Nostr. It is my
+fork of [Coop](https://git.reya.info/reya/coop), available for macOS, Windows, and
+Linux. Goop is built for keyboard-heavy workflows, with shortcuts for inboxes,
+requests, profile search, text search, tabs, settings, and relay management.
+
+{% include image.html path="/assets/images/bitcoin/projects/goop.svg" link="https://github.com/dergigi/goop" %}
+
+* Source: [GitHub](https://github.com/dergigi/goop)
+* Releases: [GitHub](https://github.com/dergigi/goop/releases/latest)
+* Usage: [dergigi.com/goop](https://dergigi.com/goop/)
+
+[goop]: https://github.com/dergigi/goop
 
 ### lookmarks
 
