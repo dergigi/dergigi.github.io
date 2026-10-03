@@ -25,13 +25,15 @@ opinionated search interface that makes it easy to find and discover content acr
 nostrverse. With support for complex search queries, profile lookups, and direct entity
 resolution, Ants helps you navigate the decentralized social network with ease. The project
 was birthed at [Sovereign Engineering](#sovereign-engineering) and uses [Vertex](https://vertexlab.io)
-for personalized profile lookups and search ranking.
+for personalized profile lookups and search ranking. It is also available as a native
+Android app on Zapstore.
 
 {% include image.html path="/assets/images/bitcoin/projects/ants.png" link="https://ants.sh" %}
 
 * Website: [ants.sh][ants]
+* Android: [Zapstore](https://zapstore.dev/apps/org.dergigi.ants)
 * Nostr: [@ants.sh](https://njump.to/npub1u5c0jv80kdhvrks0tujf457m3m03ndn82u9v4wqheqsct4tzazyscug8td)
-* Source: [GitHub](https://github.com/dergigi/ants)
+* Source: [Web](https://github.com/dergigi/ants), [Android](https://github.com/dergigi/ants-android)
 
 [ants]: https://ants.sh/
 
