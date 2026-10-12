@@ -4,7 +4,7 @@ title: Projects
 subtitle: Words and Code for Bitcoin
 ---
 
-* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr), [GM Gallery](#gm-gallery), [Goop](#goop), [Lookmarks](#lookmarks), [njump.to](#njumpto), [VibeLine](#vibeline)
+* Apps: [Ants](#ants), [Boris](#boris), [Castr.me](#castrme), [Dear Nostr](#dear-nostr), [Feather](#feather), [GM Gallery](#gm-gallery), [Goop](#goop), [Lookmarks](#lookmarks), [njump.to](#njumpto), [VibeLine](#vibeline)
 * Books: [21 Ways](#21-ways), [21 Lessons](#21-lessons), [21 Lektionen](#21-lektionen)
 * Code: [Lightning Login](#lightning-login), [Quotable Satoshi](#quotable-satoshi-twitter-bot), [Misc.](#code-contributions)
 * Contributions: [Bitcoin Times](#contribution-the-bitcoin-times), [Citadel 21](#contribution-citadel-21), [21ism](#contribution-21ism-bitcoin-art-collective), [Reckless VR](#contribution-reckless-vr), [Human B](#contribution-human-b)
@@ -79,6 +79,23 @@ Android app on Zapstore.
 * Source: [GitHub](https://github.com/dergigi/dearnostr)
 
 [dearnostr]: https://www.dearnostr.com/
+
+### Feather
+
+[Feather][feather] is a native Android client for Nostr. It lets you read notes and
+articles, browse photos, post, reply, react with custom emoji, and send Lightning
+zaps from a minimal Android interface. It signs through Android signers such as
+Amber, uses public relay lists for discovery, and uploads images to the Blossom
+servers listed on your profile.
+
+{% include image.html path="/assets/images/bitcoin/projects/feather.png" link="https://feather.dergigi.com" %}
+
+* Website: [feather.dergigi.com][feather]
+* Android: [Zapstore](https://zapstore.dev/apps/org.dergigi.feather)
+* Releases: [GitHub](https://github.com/dergigi/feather/releases/latest)
+* Source: [GitHub](https://github.com/dergigi/feather)
+
+[feather]: https://feather.dergigi.com/
 
 ### GM Gallery
 
