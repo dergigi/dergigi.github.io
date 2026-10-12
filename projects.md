@@ -92,6 +92,7 @@ servers listed on your profile.
 
 * Website: [feather.dergigi.com][feather]
 * Android: [Zapstore](https://zapstore.dev/apps/org.dergigi.feather)
+* Nostr: [@feather](https://njump.to/npub1r7u5wcxpv0fknn486uarrlset92caxntmwn22nvw2fjan630m03stxw3t3)
 * Releases: [GitHub](https://github.com/dergigi/feather/releases/latest)
 * Source: [GitHub](https://github.com/dergigi/feather)
 
