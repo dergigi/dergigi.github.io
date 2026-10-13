@@ -28,7 +28,7 @@ At least it's for me, in comparison to all the development I did before. Before,
 
 The limiting factor isn't software development anymore. It's taste. Taste, and maybe some imagination, and maybe drive on top of that. If you want to build the thing, you absolutely *can* build that thing now. One hundred percent. You just have to be stubborn enough.
 
-It was clear to me that we'd arrive at this point at some point in time, which is why I posted "taste and values" over and over and over again in the last 18 months or so, ever since I entered into some state of AI psychosis.
+It was clear to me that we'd arrive at this point at some point in time, which is why I posted ["taste and values"](https://ants.sh/?q=taste%20by%3Adergigi.com) over and over and over again in the last 18 months or so, ever since I entered into some state of AI psychosis.
 
 But it's wonderful. Wonderful, I tell you. We can build anything now. *You* can build anything now.
 
