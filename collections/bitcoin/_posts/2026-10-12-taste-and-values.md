@@ -4,6 +4,7 @@ title: Taste and Values
 description: Effortless development, clanker swarms, and the importance of taste.
 date: 2026-10-12
 image: "/assets/images/bitcoin/projects/feather.png"
+redirect_from: "/taste"
 author: Gigi
 category: nostr
 tags:
