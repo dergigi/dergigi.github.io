@@ -3,7 +3,7 @@ layout: post
 title: Taste and Values
 description: Effortless development, clanker swarms, and the importance of taste.
 date: 2026-10-12
-image: "/assets/images/bitcoin/projects/feather.png"
+image: "/assets/images/taste-and-values.jpg"
 redirect_from: "/taste"
 author: Gigi
 category: nostr
