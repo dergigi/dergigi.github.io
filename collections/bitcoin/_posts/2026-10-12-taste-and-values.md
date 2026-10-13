@@ -34,7 +34,7 @@ But it's wonderful. Wonderful, I tell you. We can build anything now. *You* can 
 
 Unhappy with something? Tell your clanker to fix it. Want to build an app? Tell your clanker to build it. You don't even need to sign up to anything, or join a walled garden, or anything of that sort. Look at nostr:npub1fetz9dt4eka56h0dpyly335v60mjf7k4gu2z7rqmptkz72e2pvhqvejzfa for some inspiration, to get an idea of what's possible right now. The permissionless future is bright indeed.
 
-I'm typing all this in the compose view of Feather, while sipping my morning coffee. An app that didn't exist 48 hours ago. A view that didn't exist 9 hours ago. Is everything fixed and perfect already? Of course not. But there's no excuses anymore. If you *care* you can fix it. If you truly want it you can build it. No more "I don't know how to do this." Just say what you want and your clanker swarm will figure it out. Ask and you shall receive, and all that. What an incredible time to be alive.
+I'm typing all this in the compose view of [Feather](https://feather.dergigi.com/), while sipping my morning coffee. An app that didn't exist 48 hours ago. A view that didn't exist 9 hours ago. Is everything fixed and perfect already? Of course not. But there's no excuses anymore. If you *care* you can fix it. If you truly want it you can build it. No more "I don't know how to do this." Just say what you want and your clanker swarm will figure it out. Ask and you shall receive, and all that. What an incredible time to be alive.
 
 Where to go from here? I have no idea. Apps will be superabundant, that much is clear to me. The cost of software is going to zero. There will be very little secret sauce left, if any. You can reverse engineer anything now, whether it's open-source or not.
 
