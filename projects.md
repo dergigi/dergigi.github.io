@@ -307,7 +307,7 @@ privacy. The site is no longer online.
 
 ### dergigi.org
 
-[dergigi.org][dergigi-org] brings Feather, Goop, Boris, and ants together on one page, with links to the apps and their source code.
+[dergigi.org][dergigi-org] is a collection of my side projects and weekend projects, including the apps I've built over the last few months.
 
 {% include image.html path="/assets/images/bitcoin/projects/dergigi-org.jpg" link="https://dergigi.org/" alt="dergigi.org project artwork" %}
 
