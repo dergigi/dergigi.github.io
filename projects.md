@@ -12,7 +12,7 @@ subtitle: Words and Code for Bitcoin
 * Games: [Fly Pingu Fly](#fly-pingu-fly), [Unicorn vs Snakes](#unicorn-vs-snakes)
 * Nonprofits: [OpenSats](#opensats), [Sovereign Engineering](#sovereign-engineering)
 * Podcasts: [Einundzwanzig](#einundzwanzig), [Closing the Loop](#closing-the-loop), [No Solutions](#no-solutions)
-* Sites: [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
+* Sites: [dergigi.org](#dergigiorg), [Opsec Swag](#opsec-swag), [Secret Satsa](#secret-satsa), [Twentyone World](#twentyone-world), [Fucking Shitcoins](#fucking-shitcoins)
 
 If you want to stay in touch and keep an eye on what I'm working on, find me on [nostr][nostr] as [@dergigi.com](https://njump.to/dergigi.com)—that's where I'm most active and responsive.
 
@@ -304,6 +304,16 @@ privacy. The site is no longer online.
 
 * Source: [GitHub](https://github.com/seetee-io/lnurl-auth-demo)
 
+
+### dergigi.org
+
+[dergigi.org][dergigi-org] is a collection of my side projects and weekend projects, including the apps I've built over the last few months.
+
+{% include image.html path="/assets/images/bitcoin/projects/dergigi-org.jpg" link="https://dergigi.org/" alt="dergigi.org project artwork" %}
+
+* Website: [dergigi.org][dergigi-org]
+
+[dergigi-org]: https://dergigi.org/
 
 ### Opsec Swag
 
