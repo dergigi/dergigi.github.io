@@ -486,11 +486,11 @@ it's not that difficult."
 ### Get started
 
 - [Setting Up Your First Bitcoin Mobile Wallet][first-wallet]
-- [12-Step Intro to Start Using Bitcoin][12-steps]
+- [Zero to Sovereignty: A Six-Chapter Bitcoin Journey][journey]
 - [Getting started with Bitcoin][getting-started]
 
 [first-wallet]: https://www.citadel21.com/not-your-keys-not-your-bitcoin
-[12-steps]: https://bitcoin-intro.com/
+[journey]: https://www.learnbitcoin.com/journey
 [getting-started]: https://bitcoin.org/en/getting-started
 
 ### Further Reading
